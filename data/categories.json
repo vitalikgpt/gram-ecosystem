@@ -1,0 +1,110 @@
+[
+ {
+  "key": "exchanges",
+  "label": "CEX"
+ },
+ {
+  "key": "custodial",
+  "label": "Custodial"
+ },
+ {
+  "key": "wallets",
+  "label": "Wallets"
+ },
+ {
+  "key": "dex",
+  "label": "DEX"
+ },
+ {
+  "key": "payments",
+  "label": "Payments"
+ },
+ {
+  "key": "onramp",
+  "label": "On-ramp"
+ },
+ {
+  "key": "infra",
+  "label": "Infra"
+ },
+ {
+  "key": "analytics",
+  "label": "Analytics"
+ },
+ {
+  "key": "explorers",
+  "label": "Explorers"
+ },
+ {
+  "key": "audit",
+  "label": "Security"
+ },
+ {
+  "key": "bridges",
+  "label": "Bridges"
+ },
+ {
+  "key": "staking",
+  "label": "Staking"
+ },
+ {
+  "key": "lending",
+  "label": "Lending"
+ },
+ {
+  "key": "perps",
+  "label": "Perp DEX"
+ },
+ {
+  "key": "rwa",
+  "label": "RWA"
+ },
+ {
+  "key": "nasdaq",
+  "label": "NASDAQ"
+ },
+ {
+  "key": "catalogs",
+  "label": "Catalogues"
+ },
+ {
+  "key": "vpn",
+  "label": "Privacy"
+ },
+ {
+  "key": "nftcaps",
+  "label": "NFT collections"
+ },
+ {
+  "key": "tokens",
+  "label": "Tokens"
+ },
+ {
+  "key": "nftmarkets",
+  "label": "NFT & Gifts"
+ },
+ {
+  "key": "launchpads",
+  "label": "Memepads"
+ },
+ {
+  "key": "trading",
+  "label": "Trading bots"
+ },
+ {
+  "key": "social",
+  "label": "Social"
+ },
+ {
+  "key": "games",
+  "label": "Games"
+ },
+ {
+  "key": "farming",
+  "label": "Farming"
+ },
+ {
+  "key": "gambling",
+  "label": "Casino"
+ }
+]

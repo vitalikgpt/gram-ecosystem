@@ -1,0 +1,21 @@
+name: check
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate data
+        run: python3 scripts/validate.py
+      - name: README matches data
+        run: python3 scripts/build_readme.py --check
+      - name: Link names match projects
+        run: python3 scripts/check_links.py --offline
