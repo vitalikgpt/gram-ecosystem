@@ -2,7 +2,7 @@
 
 # Payments
 
-[Back to the list](../README.md#payments). 69 projects: 27 active in Q3 2026, 41 quiet, 1 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#payments). 69 projects: 27 active in Q3 2026, 40 quiet, 2 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -66,7 +66,6 @@
 | 51 | Swipelux |  | [Telegram](https://t.me/alwaysmoney_sup) [Bot](https://t.me/alwaysmoneyorg) [Site](https://swipelux.com/?utm_source=tonapp&utm_medium=referral&utm_campaign=inbound) |  |  |  |
 | 52 | Tegro DeFi Crypto Payments | Tegro ecosystem in one bot. No-KYC crypto cards, a DeFi exchange, staking and payments.… | [Bot](https://t.me/tegromoneybot) | mentioned by 11 TON channels in Q3 |  |  |
 | 53 | Tegro Private USDt Card | Anonymous crypto cards for Telegram users. No KYC. No limits on freedom by @TegroMoney. | [Bot](https://t.me/tegrocardbot) | mentioned by 9 TON channels in Q3 |  |  |
-| 54 | TonoGram |  |  |  |  |  |
 | 55 | USDPay |  | [Site](https://usdpay.me/networks/ton) |  |  |  |
 | 56 | Vozik Shop / Звёзды для каждого | Купить Звезды и Telegram премиум быстро и удобно! Support: @VozikShop_Support | [Bot](https://t.me/vozikstarsbot) | mentioned by 5 TON channels in Q3 |  |  |
 | 57 | WebWise Pay |  | [Bot](https://t.me/webwisepay_bot) | mentioned by 3 TON channels in Q3 |  |  |
@@ -86,4 +85,5 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
+| 54 | TonoGram |  |  |  |  |  |
 | 69 | Solo |  | [Telegram](https://t.me/solobank) [Bot](https://t.me/solobankbot) [Site](https://www.solo.bot) |  | 2026-04-21 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |

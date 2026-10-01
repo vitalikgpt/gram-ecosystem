@@ -2,7 +2,7 @@
 
 # NFT & Gifts
 
-[Back to the list](../README.md#nft--gifts). 236 projects: 84 active in Q3 2026, 150 quiet, 2 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#nft--gifts). 236 projects: 84 active in Q3 2026, 134 quiet, 18 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -107,23 +107,18 @@
 | 92 | DropGift |  | [Telegram](https://t.me/tondartist) [Bot](https://t.me/dropgiftbot) |  | 2025-12-28 |  |
 | 93 | Toniqueapp |  | [Bot](https://t.me/tonique_bot) |  |  |  |
 | 94 | QRMint | QRMint — a platform for creating and selling NFTs | [Bot](https://t.me/qrmint_bot) [Site](https://qr-mint.net/en) [GitHub](https://github.com/qr-mint/terminal) |  | 2026-04-08 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 95 | 3.14XL (Pixel) | 3.14XL NFT creation tool Bring your visions to life with ease! |  |  |  |  |
 | 96 | @mint | Telegram Native Tokenized IP. | [Bot](https://t.me/mintcollectiblesbot) |  |  |  |
 | 97 | AID Hub | AID Hub от @aid_crypto Копи баллы за ежедневную активность и трать их на реальные… | [Bot](https://t.me/aid_crypto_bot) | mentioned by 4 TON channels in Q3 |  |  |
 | 98 | Animals Cyberpunk | In the vast metropolis of Neo-Arcadia, a new generation of creatures known as the… | [X](https://x.com/AnimalCyberpunk) |  |  |  |
 | 99 | Annihilation | First NFT collection by Ellen Sheidlin. | [Site](https://ton.diamonds/collection/annihilation?tab=items) |  |  |  |
 | 100 | Apex Loot | Channel: @Apex_Lootbag Deposit: @apexrelayer Support: @Apexloot_support | [Bot](https://t.me/apexloot_bot) | mentioned by 12 TON channels in Q3 |  |  |
 | 101 | Basilisk | 🐉 Basilisk — событие игры Crownville. Расти василисков, зови друзей, забирай TON и… | [Bot](https://t.me/basiliskcrownvillebot) | mentioned by 10 TON channels in Q3 |  |  |
-| 102 | BitcoinJet | Это уникальный проект с возможностью заработка |  |  |  |  |
 | 103 | Bubble | Channel: @bubble_store Chat: t.me/+br7OxEiFXygzNzY0 X.сom: https://x.com/Bubbleagg… | [Bot](https://t.me/bubble_market_bot) [X](https://x.com/Bubbleagg) | mentioned by 7 TON channels in Q3 |  |  |
 | 104 | CAMELS 🐪 | You can only earn 🎁 $Camels Airdrop based on your referrals 👥, the age of your Telegram… | [X](https://x.com/CamelsHouse) |  |  |  |
 | 105 | Cat Mafia NFT | Уникальная коллекция NFT Cat Mafia, найди себе мафиози по вкусу! | [Site](https://getgems.io/collection/EQBUhVMKeO5YZ4I151B1DVNbsimI_VWDA_eo7hpw4ITPvUbo) |  |  |  |
 | 106 | Cats in a parallel | 0% royalty. | [Site](https://getgems.io/collection/EQCJEMMuZIKwgxpnShxAykSSXqn9Y788ld6mIC7w9EqRayoS) |  |  |  |
 | 107 | Cosmifi - TG Stars and Financial Tools | ​​​Cosmifi - financial app to trade Telegram Stars for GRAM and USD₮(TON) or borrow… | [Bot](https://t.me/cosmifi_bot) | mentioned by 10 TON channels in Q3 |  |  |
-| 108 | Crazy Llama Farm NFT | Crazy Llama Farm is a pfp collection generated on the TON blockchain. |  |  |  |  |
 | 109 | Cyberpunk World NFT | One of the most future large collections of NFT in cyberpunk style based on TON | [Site](https://getgems.io/collection/EQBG35T0OW0qbKH6BZBy7fGPGBXtdlPEcld_VoXhW-SXLr39) |  |  |  |
-| 110 | Dangerous Chickens | Dangerous Chickens TON is a collection of 5 thousand Chickens of the good race and 5… |  |  |  |  |
-| 111 | DC TON | Dangerous Chickens TON is a collection of 5,000 Good race Chickens and 5,000 Angry race… |  |  |  |  |
 | 112 | Emojii | Create a Telegram identity like no one else. | [Bot](https://t.me/emojii_robot) |  |  |  |
 | 113 | eNOT COIN NFT | eNOT NFT Collection | [Telegram](https://t.me/eNOTCLUB) [Bot](https://t.me/eNOT_Invest_Bot) [Site](https://enot.info) |  |  |  |
 | 114 | Fuse | Launching with Web2, Web3, and Fusion collections that make culture collectible on-chain | [Bot](https://t.me/fusestickerbot) |  |  |  |
@@ -148,15 +143,12 @@
 | 133 | Kito so cool |  | [Bot](https://t.me/nordom_gates_bot) [X](https://x.com/kitosocool) |  |  |  |
 | 134 | Knuckles TON | Knuckles TON is everything you need. | [Site](https://getgems.io/knuckleston) |  |  |  |
 | 135 | LlamasInPixelHarmony | Llamas In Pixel Harmony is a symbol of the strength, tenacity and endurance of the TON… | [Telegram](https://t.me/LlamasInPixelHarmony) [Site](https://getgems.io/collection/EQB31ij7PT2XWo2onAdhOVwEWvOrU804b70MD0PPpyqz2qv8) |  |  |  |
-| 136 | LONFT Alerts |  |  |  |  |  |
 | 137 | Memeland | Memeland is a Web3 application for earning crypto with memes and NFTs. | [Bot](https://t.me/metaland_bot) [X](https://x.com/memeland_tg) |  |  |  |
 | 138 | MINTODINOS | Привет, ты слышал новость? | [Site](https://getgems.io/collection/mintodinos) |  |  |  |
 | 139 | MONAKI | Discover a closed community of builders, NFT collectors and crypto enthusiasts. | [Site](https://monaki.life) |  |  |  |
-| 140 | Montessori School | Welcome to the universe of the Montessori School NFT serial! |  |  |  |  |
 | 141 | Mutant Gifts | Mutant Gift Gifts Mutantgiftsbot | [Bot](https://t.me/mutantgiftsbot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 142 | NameCatcher | Telegram usernames as an asset — catch mints, score any name, track the market. | [Bot](https://t.me/NameCatcherBot) [GitHub](https://github.com/productmap/namecatcher-skills) |  | 2026-07-16 |  |
 | 143 | NFT Collection Planner | Экспериментируй и создавай свои коллекции подарков Официальный канал:… | [Bot](https://t.me/giftconstruct_bot) | mentioned by 3 TON channels in Q3 |  |  |
-| 144 | NFT Drop Calendar |  |  |  |  |  |
 | 145 | NFT ONE |  | [X](https://x.com/nftoneio) [Site](https://nftone.io/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 146 | NFT Scanner | NFT Scanner — blockchain analysis and arbitrage opportunities tool | [Telegram](https://t.me/Arbitragescanner_official) [X](https://x.com/ArbitrageScan) [Site](https://arbitragescanner.io/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 147 | NFT TONificaror |  | [Bot](https://t.me/rb_click_bot) |  |  |  |
@@ -181,27 +173,20 @@
 | 166 | SafeApe | Торгуй по реальным графикам на виртуальный банк, забирай кейсы, турниры и сезонные… | [Bot](https://t.me/safe_ape_bot) | mentioned by 5 TON channels in Q3 |  |  |
 | 167 | Shuttles | 🚀 Shuttles is a cosmic Web3 game on Telegram. Battle in PvP, upgrade your shuttle, and… | [Bot](https://t.me/shuttles_moon_bot) | mentioned by 13 TON channels in Q3 |  |  |
 | 168 | SimpleNFT | Simplifying web3 monetization for developers. For creators by creators. | [Bot](https://t.me/simplenftbot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 169 | SMART TIGERS | This is the first collection of Smart Tigers on the NFT TON blockchain 💎 by ceoa. |  |  |  |  |
-| 170 | SPACEDISCOSHEEP | SPACEDISCOSHEEP is an NFT collection of 888 hand drawn sheep, inspired by an artwork of… |  |  |  |  |
 | 171 | SpinMi | Creating animated coin emojis in Telegram | [Telegram](https://t.me/spinmibot) [Bot](https://t.me/spinminews) [X](https://x.com/spinmibot) [Site](https://spinmi.xyz) |  |  |  |
 | 172 | Spy | Explore NFT data easily — track wallets, floor prices & ownership. Stay updated on… | [Bot](https://t.me/spyggbot) |  |  |  |
 | 173 | StarsPrime - купить звезды и премиум | Звёзды, Premium и скрытые подарки Поддержка: @StarsHelpDesk | [Bot](https://t.me/starsprimesbot) | mentioned by 3 TON channels in Q3 |  |  |
-| 174 | TEIKO | The TEIKŌ project combines web3 and web2 for artists and art enthusiasts. |  |  |  |  |
 | 175 | Telegram Numbers | Trade IDs not tied to a SIM card which allow logging into Telegram with your blockchain… | [Site](https://fragment.com/numbers) |  |  |  |
-| 176 | Tenere Slopy | Пиксельная NFT коллекция с розыгрышем 12000 TON среди всех владельцев NFT Tenere Slopy… |  |  |  |  |
-| 177 | Tenere Wanderlust | Tenere Wanderlust is a limited edition collection of 365 unique live NFT. |  |  |  |  |
 | 178 | Tmarket | Shop for NFT email domains, Telegram stars & premium, eSIMs, top-up Steam and more | [Bot](https://t.me/tmarkettonbot) | mentioned by 6 TON channels in Q3 |  |  |
 | 179 | TON AVATARS | TON AVATARS — collection of 5,555 unique NFT Avatars on the TON blockchain, created in… | [Site](https://tonavatars.to/) |  |  |  |
 | 180 | TON Diamonds NFT | TON Diamonds NFT collection contains 10,000 unique animated diamonds that grant… | [Site](https://ton.diamonds) |  |  |  |
 | 181 | TON Diamonds NFT Deployer |  | [Telegram](https://t.me/tondiamondsbot) [X](https://x.com/TonDiamonds) [GitHub](https://github.com/tondiamonds/ton-nft-deployer) |  | 2023-10-11 |  |
 | 182 | TON DOGE COIN & NFT | Почему TON Doge Coin & NFT: Свои "DOGE coin’ы" есть у сетей Ethereum, Solana, Binance и… | [Site](https://tondoge.com/) |  |  |  |
 | 183 | TON Domains | TON DNS — сервис, который позволяет задать криптокошелькам, смарт-контрактам или сайтам… | [Site](https://dns.ton.org/) |  |  |  |
-| 184 | TON Fingerprints | This is a NFT collection of 10 000 unique digital fingerprints created based on the… |  |  |  |  |
 | 185 | TON Goblins | TON Goblins is a limited NFT collection on TON (The Open Network) that consists of 300… | [Site](https://getgems.io/collection/EQDId39SNQ6HyClTaZRCfanKJ4PdVy5pyY2BwZmubHdSWlmT) |  |  |  |
 | 186 | Ton INU $TINU NFT | Each NFT is a unique blend of tech brilliance and Inu charm. | [Telegram](https://t.me/toninutools) [Site](https://toninu.tech/) |  |  |  |
 | 187 | TonCells | Наш проект является перерождением нашумевшего проекта pixelmap.io, только на TON. | [Site](https://toncells.org) |  |  |  |
 | 188 | Toncoinco |  | [Bot](https://t.me/gamesbilliardsbot) [X](https://x.com/ToncoinCo) |  |  |  |
-| 189 | TONDONS | A unique multifunctional NFT collection of TONDONS in The Open Network Collect TON Dons,… |  |  |  |  |
 | 190 | Tonika |  | [Site](https://tonika.me) |  |  |  |
 | 191 | TONNY |  | [Telegram](https://t.me/tonjuniortonny) [Site](https://getgems.io/collection/EQBWTv36dodIGegiXDGohSNicgPUW1Kol6tdjvlKDdeLY50l) |  |  |  |
 | 192 | TonRock | The first publicly available asset on TON FISH is TON ROCK. | [X](https://x.com/tonrock100) [Site](https://getgems.io/collection/EQA0jEn-tR0_iU1vKLaOnmFaHTsT3w69pQ0WOp8eFllDCn3E) |  |  |  |
@@ -214,7 +199,6 @@
 | 199 | Web3TON NFT | Web3TON is the first NFT project dedicated to the future Web 3.0 Internet on TON. | [Site](https://web3ton.pro) |  |  |  |
 | 200 | Welcome to @Whale 🐳 | Each digital artwork represents a memorable token earned after successfully completing a… | [Telegram](https://t.me/whale) [X](https://x.com/whalegames_en) [Site](https://whale.io) |  |  |  |
 | 201 | Whales Club | Collection limited to 10000 utility-enabled NFTs, where the token is your membership to… | [Site](https://getgems.io/collection/whales) |  |  |  |
-| 202 | White Rabbit TON | White Rabbit - this collection is dedicated to the new phase of $NOT. |  |  |  |  |
 | 203 | Wilds GiveAway | 🎁 Create & join giveaways instantly. Win TON, gifts & prizes. Fair draws, instant… | [Bot](https://t.me/wildssquad_bot) |  |  |  |
 | 204 | Wizzard Cats | The “Wizard Cats” collection is a series of images of cats dressed in wizard attire. | [Site](https://getgems.io/collection/EQAyn3CpHxHdjVy_BQWzAy7QxbYX5hu8uPjVgDCrPrVNbdum) |  |  |  |
 | 205 | xRare (Tonex) |  | [Telegram](https://t.me/tonexappbot) [X](https://x.com/xrarenft) |  |  |  |
@@ -252,5 +236,21 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
+| 95 | 3.14XL (Pixel) | 3.14XL NFT creation tool Bring your visions to life with ease! |  |  |  |  |
+| 102 | BitcoinJet | Это уникальный проект с возможностью заработка |  |  |  |  |
+| 108 | Crazy Llama Farm NFT | Crazy Llama Farm is a pfp collection generated on the TON blockchain. |  |  |  |  |
+| 110 | Dangerous Chickens | Dangerous Chickens TON is a collection of 5 thousand Chickens of the good race and 5… |  |  |  |  |
+| 111 | DC TON | Dangerous Chickens TON is a collection of 5,000 Good race Chickens and 5,000 Angry race… |  |  |  |  |
+| 136 | LONFT Alerts |  |  |  |  |  |
+| 140 | Montessori School | Welcome to the universe of the Montessori School NFT serial! |  |  |  |  |
+| 144 | NFT Drop Calendar |  |  |  |  |  |
+| 169 | SMART TIGERS | This is the first collection of Smart Tigers on the NFT TON blockchain 💎 by ceoa. |  |  |  |  |
+| 170 | SPACEDISCOSHEEP | SPACEDISCOSHEEP is an NFT collection of 888 hand drawn sheep, inspired by an artwork of… |  |  |  |  |
+| 174 | TEIKO | The TEIKŌ project combines web3 and web2 for artists and art enthusiasts. |  |  |  |  |
+| 176 | Tenere Slopy | Пиксельная NFT коллекция с розыгрышем 12000 TON среди всех владельцев NFT Tenere Slopy… |  |  |  |  |
+| 177 | Tenere Wanderlust | Tenere Wanderlust is a limited edition collection of 365 unique live NFT. |  |  |  |  |
+| 184 | TON Fingerprints | This is a NFT collection of 10 000 unique digital fingerprints created based on the… |  |  |  |  |
+| 189 | TONDONS | A unique multifunctional NFT collection of TONDONS in The Open Network Collect TON Dons,… |  |  |  |  |
+| 202 | White Rabbit TON | White Rabbit - this collection is dedicated to the new phase of $NOT. |  |  |  |  |
 | 235 | Disintar.io |  | [Site](https://disintar.io/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 236 | TON Gifts | 🎁 Отправляйте NFT подарки в Telegram, чтобы порадовать друзей и близких. Поддержка | [Bot](https://t.me/giftstonbot) [X](https://x.com/joinretrocoin) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |

@@ -19,7 +19,15 @@ for f in fixes:
     if r[f["field"]] == f["old"]:
         r[f["field"]] = f["new"]
         n += 1
+# A quiet project whose every link turned out dead is closed: the evidence is in link-fixes.csv.
+DEAD = ("does not exist", "site is gone", "returns 404")
+dead = {f["slug"] for f in fixes if f["action"] == "remove" and any(m in f["evidence"] for m in DEAD)}
+closed = 0
+for r in rows:
+    if r["status"] == "quiet" and r["slug"] in dead and not any(r[k] for k in ("telegram", "bot", "x", "website", "github")):
+        r["status"] = "closed"
+        closed += 1
 w = csv.DictWriter(open("data/projects.csv", "w", encoding="utf-8"), fieldnames=fields, lineterminator="\n")
 w.writeheader()
 w.writerows(rows)
-print(f"{n} fixes applied, {sum(1 for f in fixes if f['action'] == 'confirm')} links confirmed")
+print(f"{n} fixes applied, {sum(1 for f in fixes if f['action'] == 'confirm')} links confirmed, {closed} projects closed: every link dead")

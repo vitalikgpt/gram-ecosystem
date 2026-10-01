@@ -2,7 +2,7 @@
 
 # DEX
 
-[Back to the list](../README.md#dex). 67 projects: 15 active in Q3 2026, 50 quiet, 2 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#dex). 67 projects: 15 active in Q3 2026, 49 quiet, 3 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -56,7 +56,6 @@
 | 41 | Dodo |  | [Site](https://app.dodoex.io/?from=ton&to=USDC) [GitHub](https://github.com/DODOEX) |  | 2026-09-28 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 42 | dYdX |  | [X](https://x.com/dydx) [Site](https://dYdX.trade) |  |  |  |
 | 43 | EXTON | State of the Art Chat: https://t.me/beetonchat BEETON: https://t.me/beetontoken BOOST:… | [Telegram](https://t.me/exton_orders) [Bot](https://t.me/EXTON_SWAP_BOT) |  |  |  |
-| 44 | LoneToken CABOT |  |  |  |  |  |
 | 45 | PancakeSwap |  | [Site](https://pancakeswap.finance/swap?outputcurrency=0x76a797a59ba2c17726896976b7b3747bfd1d220f) [GitHub](https://github.com/pancakeswap) |  | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 46 | Polkaswap DEX | Polkaswap DEX: Built for an interoperable future | [Telegram](https://t.me/polkaswap) [Bot](https://t.me/polkaswap_io_bot) [X](https://x.com/polkaswap) [Site](https://polkaswap.io) [GitHub](https://github.com/sora-xor/polkaswap-exchange-web) |  | 2026-10-01 |  |
 | 47 | Prebit.io | Prebit.io — a decentralized exchange for trading Bitcoin with leverage up to 1001× | [Bot](https://t.me/PrebitAuthBot) [X](https://x.com/prebit_io) [Site](https://www.prebit.io) |  |  |  |
@@ -83,5 +82,6 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
+| 44 | LoneToken CABOT |  |  |  |  |  |
 | 66 | TOB Bot | TOB 🤖 - The Fastest Trading Bot on TON | [Bot](https://t.me/tob_ton_trading_bot) [X](https://x.com/TobbotTon) [Site](https://tobbot.io/) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 67 | TonTradingBot |  | [Bot](https://t.me/tontrade) [X](https://x.com/TonTradingBot) [Site](https://tontradingbot.com/) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |

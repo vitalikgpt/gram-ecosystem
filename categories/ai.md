@@ -2,7 +2,7 @@
 
 # AI
 
-[Back to the list](../README.md#ai). 39 projects: 15 active in Q3 2026, 24 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#ai). 39 projects: 15 active in Q3 2026, 23 quiet, 1 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -51,4 +51,9 @@
 | 36 | Omniracle AI Search | Omniracle AI Search — tool for analyzing fast-moving topics on the internet | [Telegram](https://t.me/omniracle) [Bot](https://t.me/omniracle_bot) [X](https://x.com/omniracle) [Site](https://omniracle.com) |  |  |  |
 | 37 | Plate AI | Snap. Know. Eat. Your free AI calorie tracker 🍽️ | [Bot](https://t.me/plateaibot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 38 | Fragment Neuro Bot |  | [Telegram](https://t.me/TeletonApp) [Bot](https://t.me/TeletonOfficialAppBot) [X](https://x.com/teletonapp) |  | 2025-01-04 |  |
+
+## Closed
+
+| # | Project | What it is | Links | Q3 signal | Last seen | On maps |
+| ---: | --- | --- | --- | --- | --- | --- |
 | 39 | Fragment Checker Bot |  |  |  | 2024-09-08 |  |

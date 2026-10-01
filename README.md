@@ -6,9 +6,9 @@ A library of Gram (TON) and core Telegram projects, grouped by what they do, wit
 
 <a href="reports/2026-q3/poster-en-4k.png"><img src="reports/2026-q3/poster-en.png" alt="TON ecosystem, Q3 2026" width="100%"></a>
 
-**3186 projects in 32 categories: 927 active in Q3 2026, 2228 quiet, 31 closed.** 388 of the active ones are on the [Gram News map for Q3 2026](reports/2026-q3) ([article with interactive leaderboards](https://gramnews.org/articles/ton-ecosystem-map-q3-2026)). Plus 685 channels about TON and an [archive of 19 ecosystem maps](archive) by other authors, 2022 to 2026.
+**3186 projects in 32 categories: 927 active in Q3 2026, 2178 quiet, 81 closed.** 388 of the active ones are on the [Gram News map for Q3 2026](reports/2026-q3) ([article with interactive leaderboards](https://gramnews.org/articles/ton-ecosystem-map-q3-2026)). Plus 685 channels about TON and an [archive of 19 ecosystem maps](archive) by other authors, 2022 to 2026.
 
-Every link here is checked. [997 links need a look](reports/link-check.md) (a wrong account, a dead page, or a name that does not match), and [220 names from older maps](data/unresolved.csv) still need a project to point to. Those two lists are the best place to start contributing. So far 1053 links have been replaced or removed and 74 confirmed, each with its evidence, in [data/link-fixes.csv](data/link-fixes.csv).
+Every link here is checked. [997 links need a look](reports/link-check.md) (a wrong account, a dead page, or a name that does not match), and [220 names from older maps](data/unresolved.csv) still need a project to point to. Those two lists are the best place to start contributing. So far 1054 links have been replaced or removed and 74 confirmed, each with its evidence, in [data/link-fixes.csv](data/link-fixes.csv).
 
 ## Contents
 
@@ -79,7 +79,7 @@ The `sources` column in [data/projects.csv](data/projects.csv) says where each p
 4. it had $10,000+ of TVL on TON on DefiLlama;
 5. for developer tools and infrastructure, its GitHub repository received a commit.
 
-Otherwise it is `quiet`: the links are kept, and `last_post` and `last_commit` say when it was last seen. `closed` means the catalogue it came from marked it as shut down. Projects on the Q3 map passed a stricter test, described in [reports/2026-q3](reports/2026-q3), and a ✓ marks the ones built for TON.
+Otherwise it is `quiet`: the links are kept, and `last_post` and `last_commit` say when it was last seen. `closed` means the catalogue it came from marked it as shut down, or every link the project had is dead: the username is free on t.me, the domain no longer resolves, the repository is gone (see [data/link-fixes.csv](data/link-fixes.csv)). Projects on the Q3 map passed a stricter test, described in [reports/2026-q3](reports/2026-q3), and a ✓ marks the ones built for TON.
 
 Within a category, projects on the map come first in map order, then active ones by reach (post views or monthly users), then quiet ones by the date they were last seen.
 
@@ -100,7 +100,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | wallex |  | [Telegram](https://t.me/wallexchange) [X](https://x.com/Wallex_ir) [Site](https://wallex.ir) | 1.9M views | 2026-10-01 |  |
 | 12 | اوکی اکسچنج |  | [Telegram](https://t.me/okexir) [Bot](https://t.me/tonairdropfa_bot) [X](https://x.com/okexir) [Site](https://ok-ex.io/) | 1.8M views | 2026-10-01 |  |
 
-[All 68 projects in CEX](categories/exchanges.md): 45 active, 22 quiet, 1 closed.
+[All 68 projects in CEX](categories/exchanges.md): 45 active, 21 quiet, 2 closed.
 
 ## Custodial
 
@@ -150,7 +150,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | BiniChain DEX App | Created by Binibit.com | [Telegram](https://t.me/binibitnews) [Bot](https://t.me/binichain_bot) | mentioned by 9 TON channels in Q3 | 2026-09-29 |  |
 | 12 | TON Hedge | New generation trading platform on TON blockchain 💎 | [Telegram](https://t.me/ton_hedge) [Bot](https://t.me/ton_hedge_bot) [X](https://x.com/tonhedge) | TVL $25K | 2025-06-16 | [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
 
-[All 67 projects in DEX](categories/dex.md): 15 active, 50 quiet, 2 closed.
+[All 67 projects in DEX](categories/dex.md): 15 active, 49 quiet, 3 closed.
 
 ## Payments
 
@@ -169,7 +169,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | xStocks |  | [Site](https://xstocks.fi) |  |  | [messari 26](archive/2026-05-messari.jpg) |
 | 12 | Mops Stars / Купить Звёзды |  | [Bot](https://t.me/mopsstarsbot) | 155K MAU |  |  |
 
-[All 69 projects in Payments](categories/payments.md): 27 active, 41 quiet, 1 closed.
+[All 69 projects in Payments](categories/payments.md): 27 active, 40 quiet, 2 closed.
 
 ## On-ramp
 
@@ -223,7 +223,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | tonlib-rs | Rust SDK for TON. | [GitHub](https://github.com/ston-fi/tonlib-rs) | commit 2026-08-12 | 2026-08-12 |  |
 | 12 | tonutils/tonconnect | Python SDK for TON Connect. | [GitHub](https://github.com/nessshon/tonutils) | commit 2026-09-02 | 2026-09-02 |  |
 
-[All 100 projects in Developer tools](categories/devtools.md): 15 active, 84 quiet, 1 closed.
+[All 100 projects in Developer tools](categories/devtools.md): 15 active, 82 quiet, 3 closed.
 
 ## Analytics
 
@@ -242,7 +242,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | New Listings Feed | Snappiest digital asset listings clearinghouse. http://newlistings.pro WebSocket:… | [Telegram](https://t.me/newlistingsfeed) [Bot](https://t.me/newlistingsfeed_bot) [Site](https://newlistings.pro) | mentioned by 4 TON channels in Q3 | 2026-10-01 |  |
 | 12 | CryptoWhale | The official channel for crypto and bitcoin price action, social media analytics, news,… | [Telegram](https://t.me/whalebotalerts) [Bot](https://t.me/cryptowhalebot) [X](https://x.com/icebergy) | 238K views, 13K MAU | 2026-10-01 |  |
 
-[All 113 projects in Analytics](categories/analytics.md): 31 active, 81 quiet, 1 closed.
+[All 113 projects in Analytics](categories/analytics.md): 31 active, 77 quiet, 5 closed.
 
 ## Explorers
 
@@ -310,7 +310,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | Ethena tsUSDe | tsUSDe is a special version of sUSDe deployed on TON | [X](https://x.com/ethena) [Site](https://www.app.ethena.fi) | TVL $3.0M |  |  |
 | 12 | SettleTON | SettleTON is the First TON Liquidity Pool Index Fund that maximises yields by helping… | [X](https://x.com/TonSettle) [Site](https://x.com/TonSettle) | TVL $83K |  |  |
 
-[All 40 projects in Staking](categories/staking.md): 14 active, 24 quiet, 2 closed.
+[All 40 projects in Staking](categories/staking.md): 14 active, 23 quiet, 3 closed.
 
 ## Lending
 
@@ -391,7 +391,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 9 | Связь VPN⚡️ | Безопасный, Быстрый, Удобный и Лучший VPN на рынке с приятной ценой Наш канал:… | [Bot](https://t.me/svyazvpnrobot) | mentioned by 5 TON channels in Q3 |  |  |
 | 10 | WayLuckyVPN / Channel | @wayluckyvpn_bot - WayLuckyVPN bot @wayluckyvpnadmin - WayLuckyVPN Support account | [Telegram](https://t.me/wayluckyvpnchannel) [Bot](https://t.me/wayluckyvpn_bot) | mentioned by 3 TON channels in Q3 | 2026-07-09 |  |
 
-[All 28 projects in Privacy](categories/vpn.md): 10 active, 18 quiet, 0 closed.
+[All 28 projects in Privacy](categories/vpn.md): 10 active, 17 quiet, 1 closed.
 
 ## NFT collections
 
@@ -422,7 +422,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | Blum (BLUM) | Your easy, fun crypto trading app for buying and trading any crypto on the market. | [Telegram](https://t.me/blumcrypto) | mcap $564K, 217,333 holders | 2026-10-01 |  |
 | 12 | Catizen (CATI) | Catizen is a Cat Intelligence ecosystem built around a cat-themed Telegram Mini App. | [Telegram](https://t.me/CatizenAnn) | mcap $39.6M, 1,631,846 holders | 2026-09-23 |  |
 
-[All 114 projects in Tokens](categories/tokens.md): 44 active, 70 quiet, 0 closed.
+[All 114 projects in Tokens](categories/tokens.md): 44 active, 68 quiet, 2 closed.
 
 ## NFT & Gifts
 
@@ -441,7 +441,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | Get Gifts ✓ |  | [Site](https://telegram-gifts.ru) |  |  |  |
 | 12 | Swift Gifts ✓ | Telegram Gifts Aggregator | [Telegram](https://t.me/swiftgifts_news) [Bot](https://t.me/giftbot) [X](https://x.com/swiftgifts_fun) [Site](https://web.swiftgifts.tg/) | 31K views | 2026-09-10 | [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
 
-[All 236 projects in NFT & Gifts](categories/nftmarkets.md): 84 active, 150 quiet, 2 closed.
+[All 236 projects in NFT & Gifts](categories/nftmarkets.md): 84 active, 134 quiet, 18 closed.
 
 ## Memepads
 
@@ -517,7 +517,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | Creator. AI Video | Создавай ии видео и фото в боте 👉 или на сайте 👉 www.gensta.ai | [Telegram](https://t.me/creator_prompts) [Bot](https://t.me/creator_ai_tech_bot) [Site](https://Gensta.ai) | 16K views, 19K MAU | 2026-09-27 |  |
 | 12 | TeleClaw | Your personal AI agent | [Bot](https://t.me/claw) | mentioned by 3 TON channels in Q3 |  |  |
 
-[All 39 projects in AI](categories/ai.md): 15 active, 24 quiet, 0 closed.
+[All 39 projects in AI](categories/ai.md): 15 active, 23 quiet, 1 closed.
 
 ## Tools
 
@@ -536,7 +536,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | Tuberg | Бот-ведущий для розыгрыша призов Новости: @tuberg_game По всем вопросам: @millerenos | [Telegram](https://t.me/tuberg_game) [Bot](https://t.me/millerenos_bot) | mentioned by 12 TON channels in Q3 | 2026-09-30 |  |
 | 12 | VoteBot | This bot will help you create polls and share them with friends. | [Bot](https://t.me/vote) | 144K MAU |  |  |
 
-[All 75 projects in Tools](categories/tools.md): 24 active, 51 quiet, 0 closed.
+[All 75 projects in Tools](categories/tools.md): 24 active, 49 quiet, 2 closed.
 
 ## Shopping
 
@@ -578,7 +578,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | Sleepagotchi ✓ | App for Sleep. Play Sleepagotchi LITE to earn points. | [Telegram](https://t.me/sleepagotchi) [Site](https://sleepagotchi.freshdesk.com/) | 92K views | 2026-09-17 | [ton 25](archive/2025-07-ton.jpg) |
 | 12 | Pixelmania ✓ | Find the golden pixel and win 1,000,000 Stars! | [Telegram](https://t.me/pixelmania) [Bot](https://t.me/pixel_mania_bot) | 33K views, 81K MAU | 2026-10-01 |  |
 
-[All 751 projects in Games](categories/games.md): 118 active, 627 quiet, 6 closed.
+[All 751 projects in Games](categories/games.md): 118 active, 622 quiet, 11 closed.
 
 ## Farming
 
@@ -597,7 +597,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | Hamster Kombat ✓ | Hamster Kombat is a game where you manage a game development studio and earn rewards. | [Telegram](https://t.me/hamsterkombat_official) [Bot](https://t.me/hamster_kombat_bot) [X](https://x.com/hamster_kombat) | 833K MAU | 2024-09-21 | [ton-degen 24](archive/2024-06-ton-degen.jpg) |
 | 12 | HOT Wallet ✓ | HOT Wallet is a multichain crypto wallet within Telegram. | [Telegram](https://t.me/hotonnear) [Bot](https://t.me/herewalletbot) [X](https://x.com/hotdao_) | 672K views, 188K MAU | 2026-09-30 | [ton 25](archive/2025-07-ton.jpg) |
 
-[All 771 projects in Farming](categories/farming.md): 247 active, 521 quiet, 3 closed.
+[All 771 projects in Farming](categories/farming.md): 247 active, 515 quiet, 9 closed.
 
 ## Casino
 
@@ -616,7 +616,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | Mell Gifts ✓ | Mell Gifts — a mini app for completing tasks and receiving NFTs | [Telegram](https://t.me/mellgifts) [Bot](https://t.me/mellgifts_bot) | 447K views, 30K MAU | 2026-10-01 |  |
 | 12 | StarsCase ✓ | A mini-app for opening virtual cases to win Telegram Stars, TON, and NFT gifts. | [Telegram](https://t.me/starsik) [Bot](https://t.me/starscase_robot) | 386K views, 34K MAU | 2026-09-30 |  |
 
-[All 175 projects in Casino](categories/gambling.md): 45 active, 129 quiet, 1 closed.
+[All 175 projects in Casino](categories/gambling.md): 45 active, 122 quiet, 8 closed.
 
 ## Channels
 

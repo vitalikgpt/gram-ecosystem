@@ -177,7 +177,7 @@ def build():
         "5. for developer tools and infrastructure, its GitHub repository received a commit.",
         "",
         "Otherwise it is `quiet`: the links are kept, and `last_post` and `last_commit` say when it was last "
-        "seen. `closed` means the catalogue it came from marked it as shut down. Projects on the Q3 map passed "
+        "seen. `closed` means the catalogue it came from marked it as shut down, or every link the project had is dead: the username is free on t.me, the domain no longer resolves, the repository is gone (see [data/link-fixes.csv](data/link-fixes.csv)). Projects on the Q3 map passed "
         "a stricter test, described in [reports/2026-q3](reports/2026-q3), and a ✓ marks the ones built for TON.",
         "",
         "Within a category, projects on the map come first in map order, then active ones by reach (post views "

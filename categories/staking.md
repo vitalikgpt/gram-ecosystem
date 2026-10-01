@@ -2,7 +2,7 @@
 
 # Staking
 
-[Back to the list](../README.md#staking). 40 projects: 14 active in Q3 2026, 24 quiet, 2 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#staking). 40 projects: 14 active in Q3 2026, 23 quiet, 3 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -41,7 +41,6 @@
 | 26 | Bimcoin - TON DeFi Protocol. |  | [Telegram](https://t.me/Bimlight_Group) [Bot](https://t.me/BimlightBot) [X](https://x.com/Bim_Light) [Site](https://bimlight.org) |  |  |  |
 | 27 | Fanzee |  | [Site](https://app.fanz.ee/staking) [GitHub](https://github.com/viz-cx/viz-gateway) |  | 2026-08-30 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) |
 | 28 | Farmix | Leverage yield farming based on TON blockchain | [X](https://x.com/TonFarmix) |  |  |  |
-| 29 | MINTODINOS Staking |  |  |  |  |  |
 | 30 | Palette Finance | Earn it without thinking. | [Bot](https://t.me/palettefinancebot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 31 | TON Whales |  | [Telegram](https://t.me/whalessupportbot) [X](https://x.com/whalescorp) [GitHub](https://github.com/tonwhales) |  | 2026-08-13 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 32 | TonStake.com |  | [X](https://x.com/tonstakecom) [Site](https://tonstake.com/) [GitHub](https://github.com/awesome-doge) |  | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
@@ -56,5 +55,6 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
+| 29 | MINTODINOS Staking |  |  |  |  |  |
 | 39 | Parraton | Yield Optimizer on TON 😎 | [Bot](https://t.me/parraton_bot) [X](https://x.com/parraton_com) | TVL $6K |  | [messari 26](../archive/2026-05-messari.jpg) |
 | 40 | Beetroot Finance | Automated Yield Farming Aggregator on TON blockchain 💎 | [Telegram](https://t.me/BeetrootFinance) [Bot](https://t.me/BeetrootFiBot) [X](https://x.com/beetroot_fi) [Site](https://beetroot.finance) [GitHub](https://github.com/Beetroot-fi) | TVL $1K | 2025-12-25 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |

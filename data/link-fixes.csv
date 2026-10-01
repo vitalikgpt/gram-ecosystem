@@ -766,8 +766,8 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,graph,Graph,x,remove,https://x.com/gramsbet,,"@gramsbet is ""GRAMS.bet"", the account of Grams.bet ✌️ (x profile)"
 2026-10-01,swipelux,Swipelux,x,remove,https://x.com/AlwaysMoneyOrg,,"@AlwaysMoneyOrg is ""AlwaysMoney"", the account of AlwaysMoney Exchange (x profile)"
 2026-10-01,solo,Solo,x,remove,https://x.com/The_StarAI,,"@The_StarAI is ""StarAI"", the account of StarAI (x profile)"
-2026-10-01,ton-dns,TON DNS,x,remove,https://x.com/ton_blockchain,,"@ton_blockchain is ""TON 💎"", the account of TON Pay (x profile)"
-2026-10-01,coincodex,CoinCodex,x,remove,https://x.com/ton_blockchain,,"@ton_blockchain is ""TON 💎"", the account of TON Pay (x profile)"
+2026-10-01,ton-dns,TON DNS,x,remove,https://x.com/ton_blockchain,,"@ton_blockchain is ""TON 💎"", the account of TON Core (x profile)"
+2026-10-01,coincodex,CoinCodex,x,remove,https://x.com/ton_blockchain,,"@ton_blockchain is ""TON 💎"", the account of TON Core (x profile)"
 2026-10-01,solidity-auditor,Solidity auditor,x,confirm,https://x.com/legalkornet,https://x.com/legalkornet,profile links to legal-kornet.com (x profile)
 2026-10-01,bimcoin-ton-defi-protocol,Bimcoin - TON DeFi Protocol.,x,confirm,https://x.com/Bim_Light,https://x.com/Bim_Light,profile links to bimlight.org (x profile)
 2026-10-01,token-soex,SOEX (SOEX),x,remove,https://x.com/Play_SoE,,"@Play_SoE is ""Shelter of Exiles"", the account of The Exiles (x profile)"
@@ -780,6 +780,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,tonflow-wallet,Tonflow Wallet,website,remove,https://tonflow.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,papa-carlo-bot,PAPA CARLO BOT,website,remove,https://papacarlo.tech,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,dashpool,DashPool,website,remove,https://dashpool.ai,,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-research,Ton Research,website,remove,https://www.flutterbees.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,ton-street-boys,Ton Street Boys,website,remove,https://tonstreetboys.xyz,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,mining-nft,Mining NFT,website,remove,https://virtualsworlds.online,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,3-14xl-pixel,3.14XL (Pixel),website,remove,https://pi.oberton.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)

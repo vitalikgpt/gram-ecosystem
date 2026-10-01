@@ -2,7 +2,7 @@
 
 # Developer tools
 
-[Back to the list](../README.md#developer-tools). 100 projects: 15 active in Q3 2026, 84 quiet, 1 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#developer-tools). 100 projects: 15 active in Q3 2026, 82 quiet, 3 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -58,14 +58,12 @@
 | 43 | Misti Static Analyzer |  | [Telegram](https://t.me/tonsec_chat) [GitHub](https://github.com/nowarp/misti) |  | 2026-02-25 |  |
 | 44 | Multisender | Multisender sends tokens and NFTs to multiple recipients in just three clicks | [Telegram](https://t.me/MultiSender) [Bot](https://t.me/MultisenderTONBot) [X](https://x.com/multi_sender) [Site](https://multisender.app/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 45 | Nimbus API |  | [Site](https://getnimbus.io) |  |  |  |
-| 46 | node-tonlib | Node.js C++ addon for TON. |  |  |  |  |
 | 47 | orbs-network/ton-access | Decentralized RPC access. | [GitHub](https://github.com/orbs-network/ton-access) |  | 2023-09-05 |  |
 | 48 | Port3 |  | [Site](https://twitter.com/Port3Network) |  |  |  |
 | 49 | pytonconnect | Alternative Python SDK. | [Site](https://pypi.org/project/pytonconnect/) |  |  |  |
 | 50 | SpyTON BuyBot |  | [Bot](https://t.me/Tonspybuybot) [X](https://x.com/hubspyton) |  |  |  |
 | 51 | sTONks  / Buy Bot | sTONks / Buy Bot — multichain trading bot | [Telegram](https://t.me/sTONksTrendingBot) [Bot](https://t.me/stonks_sniper_bot) [X](https://x.com/tonstonks) [Site](https://stonksbots.com/) |  |  |  |
 | 52 | Sublime Text Plugin | FunC support for Sublime. | [GitHub](https://github.com/savva425/func_plugin_sublimetext3) |  | 2023-01-26 |  |
-| 53 | SwiftyTON | Swift SDK with async/await support. |  |  |  |  |
 | 54 | Testnet Faucet |  |  |  |  |  |
 | 55 | titon.network | Shared security stack for TON | [Telegram](https://t.me/titonnet) [X](https://x.com/titonnet) [Site](https://titon.network) |  |  |  |
 | 56 | TMA Dev |  | [Telegram](https://t.me/twa_dev) [GitHub](https://github.com/twa-dev) |  | 2025-02-05 |  |
@@ -117,4 +115,6 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
+| 46 | node-tonlib | Node.js C++ addon for TON. |  |  |  |  |
+| 53 | SwiftyTON | Swift SDK with async/await support. |  |  |  |  |
 | 100 | WebDeployer |  | [Site](https://ratingers.pythonanywhere.com/deployer/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |

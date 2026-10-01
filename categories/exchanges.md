@@ -2,7 +2,7 @@
 
 # CEX
 
-[Back to the list](../README.md#cex). 68 projects: 45 active in Q3 2026, 22 quiet, 1 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#cex). 68 projects: 45 active in Q3 2026, 21 quiet, 2 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -79,10 +79,10 @@
 | 64 | Excoino |  | [Telegram](https://t.me/excoino) [Bot](https://t.me/tonbuytechbot) [X](https://x.com/excoino) [Site](https://excoino.com) |  | 2026-06-03 |  |
 | 65 | NovaDax |  | [Telegram](https://t.me/livehub_to) [X](https://x.com/livehub_to) [Site](https://www.novadax.com.br/product/orderbook?pair=TON_BRL) |  | 2025-05-04 |  |
 | 66 | 90Rich |  | [Telegram](https://t.me/Channel_90Rich) |  | 2025-04-10 |  |
-| 67 | LBank Exchange |  |  |  | 2024-10-19 |  |
 
 ## Closed
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
+| 67 | LBank Exchange |  |  |  | 2024-10-19 |  |
 | 68 | Neocrypto |  | [Telegram](https://t.me/cryptoviewerton_bot) [Bot](https://t.me/cryptoviewerton) [Site](https://neocrypto.net) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |

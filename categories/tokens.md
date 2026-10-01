@@ -2,7 +2,7 @@
 
 # Tokens
 
-[Back to the list](../README.md#tokens). 114 projects: 44 active in Q3 2026, 70 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#tokens). 114 projects: 44 active in Q3 2026, 68 quiet, 2 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -58,7 +58,6 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 45 | @BTC25 |  | [Telegram](https://t.me/tonbtc25) [X](https://x.com/daoproxima) |  |  |  |
-| 46 | bemo Staked TON (STTON) |  |  | mcap $2.1M, 16,210 holders |  |  |
 | 47 | Bridged USD Coin (TON Bridge) (JUSDC) |  |  | mcap $56K, 4,498 holders |  |  |
 | 48 | DOGWIFHOOD (WIF) |  | [Telegram](https://t.me/dogwifhood_TON) | mcap $61K, 13,986 holders |  |  |
 | 49 | Durovs Dog (PYONYA) | Original Sticker Pack created by Pavel Durov | [Telegram](https://t.me/PYONYATON) | mcap $131K, 1,734 holders |  |  |
@@ -83,7 +82,6 @@
 | 68 | Tonk | $TONK An entire ecosystem for traders on $TON and the first multichain influencer… | [Telegram](https://t.me/tonkinu_official) [X](https://x.com/tonkinubot) |  |  | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) |
 | 69 | Tony The Duck | The Quackiest Duck on TON 🦆 | [Telegram](https://t.me/tonytheduck) [X](https://x.com/theducktony) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 70 | Tower (TOWER) | Powered by $TOWER, experience pioneering blockchain game features and earn rewards from… | [Telegram](https://t.me/TowerToken) | mcap $938K, 1,305 holders |  |  |
-| 71 | X Empire (X) |  |  | mcap $0K, 555,528 holders |  |  |
 | 72 | GOVNO (GOVNO) |  | [Telegram](https://t.me/cryptover1eng) | mcap $135K, 4,405 holders | 2026-07-12 |  |
 | 73 | EvoSimGame (ESIM) | EvoLife — switch on your new lifestyle and earn with every MB. | [Telegram](https://t.me/evolife_channel) [X](https://x.com/evo_evolife) | mcap $1K, 2,350 holders | 2026-06-22 |  |
 | 74 | DeDust (DUST) |  | [Telegram](https://t.me/dedust_en) | mcap $0K, 24,790 holders | 2026-06-15 |  |
@@ -127,3 +125,10 @@
 | 112 | Rosecoin (ROSE) | Rosecoin pays homage to the most recognisable face on Telegram - Join our fan token… | [Telegram](https://t.me/Rosecointon) | mcap $83K, 1,275 holders | 2024-03-26 |  |
 | 113 | Paper Plane (PLANE) |  | [Telegram](https://t.me/paperplane_ton) | mcap $540K, 8,723 holders | 2024-02-29 |  |
 | 114 | Not Notcoin |  | [Telegram](https://t.me/not_notcoin) [X](https://x.com/Not_Notcoin) |  | 2024-01-08 |  |
+
+## Closed
+
+| # | Project | What it is | Links | Q3 signal | Last seen | On maps |
+| ---: | --- | --- | --- | --- | --- | --- |
+| 46 | bemo Staked TON (STTON) |  |  | mcap $2.1M, 16,210 holders |  |  |
+| 71 | X Empire (X) |  |  | mcap $0K, 555,528 holders |  |  |

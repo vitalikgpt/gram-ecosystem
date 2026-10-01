@@ -2,7 +2,7 @@
 
 # Games
 
-[Back to the list](../README.md#games). 751 projects: 118 active in Q3 2026, 627 quiet, 6 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#games). 751 projects: 118 active in Q3 2026, 622 quiet, 11 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -133,7 +133,6 @@
 | ---: | --- | --- | --- | --- | --- | --- |
 | 119 | CoinPups |  | [Telegram](https://t.me/coinpups2024) [Bot](https://t.me/coinpupsbot) [X](https://x.com/coinpups24) |  | 2026-05-30 |  |
 | 120 | Zernosklad | We offer you to get cryptocurrency while having fun in the game! | [Site](https://zernosklad.com/) | 110K views | 2026-10-01 |  |
-| 121 | Lost Cats |  |  |  |  |  |
 | 122 | Pump Game | Pump Game is a Telegram game that is currently not functional. | [Telegram](https://t.me/pumpgameAnn) [Bot](https://t.me/pumptokenbot) [X](https://x.com/PumpGameIO) [Site](https://metania.games/) |  | 2026-01-22 |  |
 | 123 | Fight Brawl | Fight Brawl is a fighting game on Telegram. | [Telegram](https://t.me/fight_brawl_ton) [Bot](https://t.me/fightbrawlbot) [X](https://x.com/FightBrawl_Ton) |  | 2024-10-08 |  |
 | 124 | Star Defender | Space PVP strategy with levels, quests, and NFT skins. | [Bot](https://t.me/stardefenderbot) [X](https://x.com/vorpalDAO) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
@@ -171,7 +170,6 @@
 | 156 | ALFA GAME |  | [Telegram](https://t.me/alfagame_support) [Bot](https://t.me/alfa_pet_bot) |  |  |  |
 | 157 | Musgard |  | [Bot](https://t.me/musgard_bot) |  |  |  |
 | 158 | Football Legends | Football game with earnings from swiping | [Telegram](https://t.me/fball_legends) [Bot](https://t.me/fball_legends_bot) [Site](https://telega.io/c/fball_legends) |  | 2025-07-20 |  |
-| 159 | Spike Game |  |  |  |  |  |
 | 160 | Sanctum AI |  | [Telegram](https://t.me/SanctumAI_Ann) [Bot](https://t.me/sanctumai_bot) [X](https://x.com/Sanctum_AI) |  | 2025-12-25 |  |
 | 161 | Dogin Hood |  | [Bot](https://t.me/doginhood_bot) [X](https://x.com/doginhood_io) |  |  |  |
 | 162 | Cartel | Work your way up the Cartel ranks and make a name for yourself in this intense trading… | [Telegram](https://t.me/cartel_game_community) [Bot](https://t.me/cartel_game_bot) [X](https://x.com/cartelgameton) |  | 2024-10-29 |  |
@@ -390,7 +388,6 @@
 | 375 | DreamCoin | Spin it all and farm gold in the next-level Telegram game! | [Bot](https://t.me/dreamcoinofficial_bot) |  |  |  |
 | 376 | Monkey | Find out the age and value of your Telegram account and get our MONKEY token for FREE 🙉 | [Bot](https://t.me/monkeycost_bot) [X](https://x.com/Monkey_on_TON) |  |  |  |
 | 377 | GD Coin |  | [Telegram](https://t.me/GDCoinChannel) [Bot](https://t.me/gdcoinminerbot) |  |  |  |
-| 378 | AkedoBot |  |  |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 379 | Ponke TON game | Ready to join the Ponke TON army? | [Bot](https://t.me/ponketon_bot) |  |  |  |
 | 380 | Pig of Ton | Play, Enjoy and Earn Airdrop. | [Telegram](https://t.me/pigofton) [Bot](https://t.me/pigoftonbot) [X](https://x.com/PigOfTon) [Site](https://pigofton.com/) |  |  | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
 | 381 | TonPotato |  | [Bot](https://t.me/ton_potato_bot) [X](https://x.com/TonPotato) |  |  | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
@@ -454,7 +451,6 @@
 | 439 | $CUBE Worlds | Acquire your unique NFT character in | [Telegram](https://t.me/cube_worlds) [Bot](https://t.me/cube_worlds_bot) [Site](https://x.com/bastion) |  | 2024-08-16 |  |
 | 440 | Ditto |  | [Bot](https://t.me/the_ditto_bot) [X](https://x.com/dittocoin) |  |  |  |
 | 441 | Paper PLANE Game |  | [Bot](https://t.me/paperplanegamebot) [GitHub](https://github.com/paperplaneonton) |  | 2024-03-27 |  |
-| 442 | DCL BOT |  |  |  |  |  |
 | 443 | TON Tarot | Discover your future with tarot cards | [Bot](https://t.me/tontarot_bot) |  |  |  |
 | 444 | Cosmo Bear | Barry the bear tests a cryogenic formula in space. Earn USDC and coins, and convert them… | [Bot](https://t.me/cosmobear_bot) [X](https://x.com/CosmoBear_io) [Site](https://cosmobear.io) |  |  |  |
 | 445 | CattonAi | Where Legendary IPs Meet AI NPCs Evolution on Telegram | [Bot](https://t.me/cattonaibot) |  |  |  |
@@ -577,7 +573,6 @@
 | 562 | HashCash | HashCash is a revolutionary app designed to change the way we approach digital security… | [Telegram](https://t.me/HashCashCommunity) [Bot](https://t.me/HashCashApp_bot) [Site](https://hashcash.top/) |  |  |  |
 | 563 | Hexacore Gaming Universe |  | [Bot](https://t.me/hexacoinbot) |  |  |  |
 | 564 | IKEEPER | The decentralized escrow project utilizes smart contracts on the blockchain to provide a… | [Telegram](https://t.me/ikeeperapp) [Bot](https://t.me/ikeeperapp_bot) [X](https://x.com/app_ikeeper) |  |  |  |
-| 565 | Instant Games |  |  |  |  |  |
 | 566 | Intern's Challenges | Nothing challenging at all | [Bot](https://t.me/internschallengesbot) | mentioned by 3 TON channels in Q3 |  |  |
 | 567 | iTerra | Официальное сообщество @iTerra_community Чат игроков @iTerra_talk | [Bot](https://t.me/theiterra_bot) | mentioned by 9 TON channels in Q3 |  |  |
 | 568 | JDUN |  | [Bot](https://t.me/jdunbot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
@@ -763,6 +758,11 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
+| 121 | Lost Cats |  |  |  |  |  |
+| 159 | Spike Game |  |  |  |  |  |
+| 378 | AkedoBot |  |  |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 442 | DCL BOT |  |  |  |  |  |
+| 565 | Instant Games |  |  |  |  |  |
 | 746 | Nobby Game | NobbyGame - P2E Rogue-Like Game on TON | [Telegram](https://t.me/NobbyOfficial) [Bot](https://t.me/nobbygame_bot) [X](https://x.com/NobbyGame) [Site](https://Nobby.Game) |  |  | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
 | 747 | Coin Crypto Game | Spin the wheel to earn coins, and build your own empire | [Telegram](https://t.me/coincrypto_announcement) [Bot](https://t.me/coincryptogamebot) [X](https://x.com/Coincrypto_game) [Site](https://coincrypto.gg) |  | 2025-01-07 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 748 | Token Tactics |  | [Telegram](https://t.me/TokenTacticsGo) [Bot](https://t.me/tokentactics_bot) [X](https://x.com/TokenTacticsGo) |  | 2025-10-31 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |

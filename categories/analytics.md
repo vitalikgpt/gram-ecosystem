@@ -2,7 +2,7 @@
 
 # Analytics
 
-[Back to the list](../README.md#analytics). 113 projects: 31 active in Q3 2026, 81 quiet, 1 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#analytics). 113 projects: 31 active in Q3 2026, 77 quiet, 5 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -90,14 +90,11 @@
 | 75 | Lambdo Tracking | support here @lambdo_tnt | [Bot](https://t.me/lambdotracking_bot) | mentioned by 3 TON channels in Q3 |  |  |
 | 76 | Live Price TonCoin |  | [Site](https://fan-ton.com/) |  |  |  |
 | 77 | NoName Tracker | Fast, flexible, user-friendly TON tracker by @NoNameDev support: @pickless404 | [Bot](https://t.me/trackernnbot) | mentioned by 17 TON channels in Q3 |  |  |
-| 78 | POLYTEND DIGEST |  |  |  |  |  |
-| 79 | TON burnt |  |  |  |  |  |
 | 80 | TON INU Tracker | TON INU Tracker — analytics for the TINU token on the TON network | [Bot](https://t.me/toninu_trackerbot) [X](https://x.com/toninutools) [Site](https://toninu.tech/) |  |  |  |
 | 81 | Ton Mafia Plays |  | [X](https://x.com/TonMafiaPlays) |  |  |  |
 | 82 | TON Notify Bot |  | [GitHub](https://github.com/CoinSpace/CoinSpace) |  | 2026-09-29 |  |
 | 83 | TON Price Converter |  | [Site](https://coinrecast.com/) |  |  |  |
 | 84 | Toncoin Converter |  |  |  |  |  |
-| 85 | TonDomenBot |  |  |  |  |  |
 | 86 | Tonk Analyser | Tonk analyser is powered by $TONK INU . | [Bot](https://t.me/tonkanalyser_bot) [X](https://x.com/tonkinubot) [GitHub](https://github.com/TonkInu) |  | 2024-03-27 |  |
 | 87 | Tonmarketcap | Stay on top of the TON ecosystem with live prices, market caps, charts, and rankings —… | [Telegram](https://t.me/ton_market_cap_bot) [Bot](https://t.me/tonmarketcap_channel) [Site](https://tonmarketcap.ru) |  |  |  |
 | 88 | TonSonar | TonSonar Telegram bot: smart-money alerts and new TON jetton listings | [Bot](https://t.me/tonsonar_bot) [Site](https://ozamotailov.github.io/alphaping/) [GitHub](https://github.com/ozamotailov/alphaping) |  | 2026-07-02 |  |
@@ -106,8 +103,7 @@
 | 91 | x1000 |  | [Telegram](https://t.me/x1000) [Bot](https://t.me/x1000_en) [X](https://x.com/x1000_finance) [Site](https://x1000.finance) |  |  |  |
 | 92 | Yieldo | Compare staking rates, withdrawal fees, and P2P prices across top crypto exchanges in… | [Bot](https://t.me/YieldoBot) [Site](https://yieldo.me/) |  |  |  |
 | 93 | Реклама NFT в Telegram | У нас можно купить рекламу в канал «Парадная NFT» . Быстро, удобно, безопасно. | [Bot](https://t.me/frontnftbot) [X](https://x.com/smmpanelru) |  |  |  |
-| 94 | Mooli |  |  |  | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 95 | Ton Research |  | [Bot](https://t.me/tondatabot) [Site](https://www.flutterbees.app) [GitHub](https://github.com/flutter-bees) |  | 2026-10-01 |  |
+| 95 | Ton Research |  | [Bot](https://t.me/tondatabot) [GitHub](https://github.com/flutter-bees) |  | 2026-10-01 |  |
 | 96 | Wallets Live | Cryptocurrency arbitrage opportunity analytics | [Bot](https://t.me/wallets_live_bot) [X](https://x.com/ArbitrageScan) [Site](https://arbitragescanner.io/) |  | 2026-09-30 |  |
 | 97 | Journalinvest |  |  |  | 2026-09-27 |  |
 | 98 | TBC - Client | TONBANKCARD - Ecosystem for cryptocurrencies. | [Bot](https://t.me/marketcaprobot) [Site](https://marketcap.tonbankcard.com) |  | 2026-08-28 |  |
@@ -130,4 +126,8 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
+| 78 | POLYTEND DIGEST |  |  |  |  |  |
+| 79 | TON burnt |  |  |  |  |  |
+| 85 | TonDomenBot |  |  |  |  |  |
+| 94 | Mooli |  |  |  | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 113 | TonRadar |  | [Telegram](https://t.me/TonRadarAdmin) [Bot](https://t.me/tonradarappbot) [X](https://x.com/tonradarapp) [Site](https://tonradar.app) [GitHub](https://github.com/tonradar) |  | 2023-12-03 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |

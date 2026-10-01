@@ -2,7 +2,7 @@
 
 # Tools
 
-[Back to the list](../README.md#tools). 75 projects: 24 active in Q3 2026, 51 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#tools). 75 projects: 24 active in Q3 2026, 49 quiet, 2 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -39,7 +39,6 @@
 | ---: | --- | --- | --- | --- | --- | --- |
 | 25 | GMCoin | 🛌 Early to bed | [Telegram](https://t.me/GMCoinChannel) [Bot](https://t.me/thegmcoinbot) |  | 2024-11-06 |  |
 | 26 | Nundu |  | [Bot](https://t.me/nunducryptobot) |  |  |  |
-| 27 | Time TON Ecosystem |  |  |  |  |  |
 | 28 | BRN Tap | Complete simple tasks and tap the Dragon! Convert the points you earn into $BRN. That's… | [Bot](https://t.me/brntap_bot) |  |  |  |
 | 29 | NUMA |  | [Bot](https://t.me/numasocialbot) [X](https://x.com/NUMAsocial) |  |  |  |
 | 30 | TrumPump SEASON I |  | [Bot](https://t.me/trumpumpbot) |  |  |  |
@@ -65,7 +64,6 @@
 | 50 | Game Cashback Calc |  | [Telegram](https://t.me/C4B_Best_Telegram_Bots) [Bot](https://t.me/CashbackGameBot) |  | 2026-01-15 |  |
 | 51 | 2FA | Two-Factor Authentication for TON | [Bot](https://t.me/tgmfabot) | mentioned by 15 TON channels in Q3 |  |  |
 | 52 | Access | Set up a custom access to your private group or channel. Built by independent devs as… | [Bot](https://t.me/access_app_bot) | mentioned by 11 TON channels in Q3 |  |  |
-| 53 | Auto Orbit |  |  |  |  |  |
 | 54 | Bulksender |  | [Bot](https://t.me/bulksenderbot) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 55 | Exact Receipt | Exact Receipt is a TON-native, watch-only payment request and receipt service. | [Telegram](https://t.me/WDK_Wallet_bot) [Bot](https://t.me/exactreceipt) [Site](https://exactreceipt.com/) |  |  |  |
 | 56 | Find & Check |  | [Bot](https://t.me/findcheckbot) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
@@ -88,3 +86,10 @@
 | 73 | BIME | Your call ! Fight for your belief and earn $bime + $usdt | [Telegram](https://t.me/bime_ann) [Bot](https://t.me/btc_is_meme_bot) [X](https://x.com/btc_is_meme) |  | 2024-09-04 |  |
 | 74 | TON Names | Registers short TON NFT domains that point straight to a wallet, and manages them at… | [Telegram](https://t.me/tonnames) [Site](https://tonnames.org) |  | 2024-07-14 |  |
 | 75 | Decibling Lite | Decibling is a Web3 platform with philosophy of Earning Return (payment interest) while… | [Telegram](https://t.me/decibling) [Bot](https://t.me/decibling_lite_bot) [X](https://x.com/decibling) [Site](https://decibling.com) [GitHub](https://github.com/decibling) |  | 2024-07-15 |  |
+
+## Closed
+
+| # | Project | What it is | Links | Q3 signal | Last seen | On maps |
+| ---: | --- | --- | --- | --- | --- | --- |
+| 27 | Time TON Ecosystem |  |  |  |  |  |
+| 53 | Auto Orbit |  |  |  |  |  |
