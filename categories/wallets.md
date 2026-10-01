@@ -2,7 +2,7 @@
 
 # Wallets
 
-[Back to the list](../README.md#wallets). 83 projects: 23 active in Q3 2026, 58 quiet, 2 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#wallets). 109 projects: 31 active in Q3 2026, 76 quiet, 2 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -10,7 +10,7 @@
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | Gram Wallet ✓ | A non-custodial Gram wallet built into Telegram itself: the owner holds the keys, and… | [Site](https://gramwallet.io) |  |  |  |
 | 2 | Keeper ✓ | Tonkeeper is a wallet. It allows managing TON and contacting support. | [Telegram](https://t.me/keeper_en) [Bot](https://t.me/tonkeeper) [X](https://x.com/tonkeeper) [Site](https://tonkeeper.page.link/LFgS) [GitHub](https://github.com/tonkeeper/tonkeeper-web) | 3.8M views, 34K MAU | 2026-09-28 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 3 | My Wallet ✓ |  | [Telegram](https://t.me/mywalleteng) [X](https://x.com/mywallet_io) [Site](https://mytonwallet.io) [GitHub](https://github.com/mytonwalletorg) | 201K views | 2026-09-25 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 3 | My Wallet ✓ |  | [Telegram](https://t.me/mywalleteng) [Bot](https://t.me/mytonwalletbot) [X](https://x.com/mywallet_io) [Site](https://mytonwallet.io) [GitHub](https://github.com/mytonwalletorg) | 201K views | 2026-09-25 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 4 | Tonhub ✓ |  | [Telegram](https://t.me/tonhub) [Bot](https://t.me/jettonvotebot) [Site](https://tonhub.com/dl) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 5 | Trust Wallet |  | [Telegram](https://t.me/trust_announcements) [X](https://x.com/trustwallet) [Site](https://trustwallet.com) [GitHub](https://github.com/trustwallet) | 1.4M views | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 6 | Bitget Wallet | Bitget Wallet is a crypto wallet for everyday finance. | [Telegram](https://t.me/bitget_wallet) [Bot](https://t.me/bitgetofficialbot) [X](https://x.com/BitgetWallet) [Site](https://web3.bitget.com/) [GitHub](https://github.com/bitgetwallet/download) | 34K MAU | 2025-12-11 |  |
@@ -24,80 +24,106 @@
 | 14 | Coin98 |  | [Telegram](https://t.me/coin98wallet) [Bot](https://t.me/Coin98_bot) [X](https://x.com/coin98_wallet) [Site](https://coin98.com/) [GitHub](https://github.com/TP-Lab) | 33K views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
 | 15 | Wallet Agent ✓ |  | [Telegram](https://t.me/wallet_agent) | 408 views | 2026-09-12 |  |
 | 16 | Architect.ton | Architec.Ton — a wallet with an app catalog on the TON blockchain | [Telegram](https://t.me/architecton_tech) [Bot](https://t.me/architec_ton_bot) [X](https://x.com/architec_ton) [Site](https://architecton.tech) | 179K views, 11K MAU | 2026-09-30 |  |
-| 17 | UXUY Wallet | UXUY Wallet is a multi-chain wallet with trading and earning features. | [Bot](https://t.me/uxuybot) [X](https://x.com/uxuycom) [Site](https://uxuy.com/join/QvJWU08ydoo) [GitHub](https://github.com/uxuycom) | 25K MAU | 2026-09-14 |  |
-| 18 | Gem Wallet |  | [Telegram](https://t.me/gemwallet) [X](https://x.com/GemWalletApp) [Site](https://gemwallet.com) [GitHub](https://github.com/gemwalletcom) | 17K views | 2026-10-01 |  |
-| 19 | Bits |  | [Bot](https://t.me/bitstonboxbot) [X](https://x.com/bits_tonbox) | 11K MAU |  |  |
-| 20 | GasPump |  | [Telegram](https://t.me/gaspump_tv) [Bot](https://t.me/gasPump_bot) [X](https://x.com/gaspump_tv) [Site](https://gaspump.tg) | TVL $35K |  | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 21 | Walletium | A crypto and stablecoin wallet in Telegram | [Telegram](https://t.me/walletium) [Bot](https://t.me/walletiumbot) [X](https://x.com/walletium_web3) [Site](https://walletium.net) | 3K MAU |  |  |
-| 22 | Gem |  | [Telegram](https://t.me/GemHQ) [Bot](https://t.me/gembot) [X](https://x.com/GEMofTON) [Site](https://gem.bot) | 431 views, 11K MAU | 2026-09-23 |  |
-| 23 | Orniton | Orniton — TON wallet with NFT auto-buy and sell features | [Telegram](https://t.me/ornitonwallet) [Bot](https://t.me/Ornitonbot) [X](https://x.com/ornitonwallet) [Site](https://orniton.org) [GitHub](https://github.com/unlimadev/Orniton) | 401 views | 2026-09-21 |  |
+| 17 | TeQoin Wallet | Welcome to TeQoin Blockchain! Support: https://t.me/TeQoin_Support Telegram Channel:… | [Bot](https://t.me/teqoin_wallet_bot) | mentioned by 7 TON channels in Q3 |  |  |
+| 18 | Walt (ex. Wallet) Support Team | Support for @walt (ex. @wallet). Status & maintenance updates: @walt_status | [Bot](https://t.me/walt_support) | mentioned by 8 TON channels in Q3 |  |  |
+| 19 | Walt (ex. Wallet) Support Team | Support for @walt (ex. @wallet). Status & maintenance updates: @walt_status | [Bot](https://t.me/wallet_supportbot) | mentioned by 5 TON channels in Q3 |  |  |
+| 20 | лавэшка — криптокошелёк | Крипто-фиатный кошелёк. Храни, отправляй, обменивай — быстро и удобно. Поддержка:… | [Bot](https://t.me/laveshka) | mentioned by 14 TON channels in Q3 |  |  |
+| 21 | Karta - Crypto card & wallet | www.karta.io Top up with crypto, spend anywhere. Your gateway to digital finance. | [Bot](https://t.me/kartawalletbot) | 30K MAU |  |  |
+| 22 | pgon | Кошелек с возможностью оплаты в магазинах по qr сбп @pgon_wallet - канал… | [Bot](https://t.me/pgon) | mentioned by 4 TON channels in Q3 |  |  |
+| 23 | UXUY Wallet | UXUY Wallet is a multi-chain wallet with trading and earning features. | [Bot](https://t.me/uxuybot) [X](https://x.com/uxuycom) [Site](https://uxuy.com/join/QvJWU08ydoo) [GitHub](https://github.com/uxuycom) | 25K MAU | 2026-09-14 |  |
+| 24 | Gem Wallet |  | [Telegram](https://t.me/gemwallet) [X](https://x.com/GemWalletApp) [Site](https://gemwallet.com) [GitHub](https://github.com/gemwalletcom) | 17K views | 2026-10-01 |  |
+| 25 | Antarctic Wallet Support | Официальный чат поддержки Antarctic Wallet antarcticwallet.com | [Bot](https://t.me/antarcticwalletsupport_bot) | mentioned by 5 TON channels in Q3 |  |  |
+| 26 | PAY.SPACE - WALLET | ✔ Виртуальные карты для зарубежных оплат ✔ QR-платежи в РФ из USDT Сайт:… | [Bot](https://t.me/pay_space_wallet_bot) | 14K MAU |  |  |
+| 27 | Bits |  | [Bot](https://t.me/bitstonboxbot) [X](https://x.com/bits_tonbox) | 11K MAU |  |  |
+| 28 | GasPump |  | [Telegram](https://t.me/gaspump_tv) [Bot](https://t.me/gasPump_bot) [X](https://x.com/gaspump_tv) | TVL $35K |  | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 29 | Walletium | A crypto and stablecoin wallet in Telegram | [Telegram](https://t.me/walletium) [Bot](https://t.me/walletiumbot) [X](https://x.com/walletium_web3) [Site](https://walletium.net) | 3K MAU |  |  |
+| 30 | Gem |  | [Telegram](https://t.me/GemHQ) [Bot](https://t.me/gembot) [X](https://x.com/GEMofTON) [Site](https://gem.bot) | 431 views, 11K MAU | 2026-09-23 |  |
+| 31 | Orniton | Orniton — TON wallet with NFT auto-buy and sell features | [Telegram](https://t.me/ornitonwallet) [Bot](https://t.me/Ornitonbot) [X](https://x.com/ornitonwallet) [Site](https://orniton.org) [GitHub](https://github.com/unlimadev/Orniton) | 401 views | 2026-09-21 |  |
 
 ## Quiet
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 24 | Tomo Wallet | Tomo Wallet — a wallet for TON tokens | [Bot](https://t.me/tomowalletbot) [X](https://x.com/tomo_wallet) |  |  | [tradoor 25](../archive/2025-08-tradoor.jpg) |
-| 25 | Spintria Wallet | Spintria Wallet is a wallet for managing your assets. | [Bot](https://t.me/spintria_wallet_bot) |  |  |  |
-| 26 | Xeno Network |  | [Telegram](https://t.me/xenonetworkio) [Bot](https://t.me/xenonetwork_bot) |  |  |  |
-| 27 | Tonflix Wallet |  | [Bot](https://t.me/tonflixwallet_bot) |  |  |  |
-| 28 | water bot |  | [Telegram](https://t.me/water_ton) [Bot](https://t.me/water_ton_bot) |  |  |  |
-| 29 | NOTAI |  | [Bot](https://t.me/notai_app_bot) [Site](https://cryptoriviera-2xng.onrender.com/) |  |  |  |
-| 30 | Blue |  | [Bot](https://t.me/bluefarming_bot) |  |  |  |
-| 31 | TryTON Wallet |  | [Bot](https://t.me/trytonwalletbot) |  |  |  |
-| 32 | BOOL BOT |  | [Bot](https://t.me/boolfamily_bot) |  |  |  |
-| 33 | Pixel Wallet |  | [Bot](https://t.me/pixel_wallet_bot) [X](https://x.com/hellopixelverse) | TVL $8K |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 34 | Pluto Top |  | [Bot](https://t.me/plutotopupbot) |  |  |  |
-| 35 | Walbi |  | [Bot](https://t.me/walbi_ala_bot) |  |  |  |
-| 36 | Wave Wallet |  | [Telegram](https://t.me/wave_announcements) [Bot](https://t.me/waveonsuibot) [X](https://x.com/WaveOnSui) |  |  |  |
-| 37 | Sky Rocket |  | [Telegram](https://t.me/skyrocket2024) [Bot](https://t.me/skyrockettopbot) [X](https://x.com/kriptomir2024) [Site](https://kriptomir.io/) |  |  |  |
-| 38 | CodexField Wallet |  | [Bot](https://t.me/codexfieldbot) |  |  |  |
-| 39 | xJetSwap |  | [Telegram](https://t.me/xjetnews) [Bot](https://t.me/xjetswapbot) |  |  |  |
-| 40 | Telenova |  | [Bot](https://t.me/telenova_app_bot) |  |  |  |
-| 41 | MoneyTab |  | [Bot](https://t.me/moneytabbot) |  |  |  |
-| 42 | Ammer Wallet |  | [Bot](https://t.me/ammer_wallet_bot) |  |  |  |
-| 43 | Bpay |  | [Telegram](https://t.me/bpay_official_channel) [Bot](https://t.me/bpay_coin_bot) |  |  |  |
-| 44 | GHOST |  | [Bot](https://t.me/ghost_web3_bot) |  |  |  |
-| 45 | BeraSig Wallet |  | [Bot](https://t.me/berasigwallet_bot) |  |  |  |
-| 46 | DPXWallet |  | [Bot](https://t.me/dpxwalletbot) |  |  |  |
-| 47 | Ammer Wallet |  | [Site](https://ammer.app) |  |  |  |
-| 48 | Bivreost Wallet |  | [Telegram](https://t.me/bivreost) [Bot](https://t.me/bivreost_bot) |  |  |  |
-| 49 | Coin Wallet |  | [Bot](https://t.me/attackdetectorbot) [X](https://x.com/CoinAppWallet) [Site](https://coin.space/) [GitHub](https://github.com/CoinSpace/CoinSpace) |  | 2026-09-29 |  |
-| 50 | Cropty Wallet | Cropty Wallet — multi-chain wallet with free transfers between users | [Telegram](https://t.me/croptywallet) [Bot](https://t.me/CroptyBot) [X](https://x.com/cropty_app) [Site](https://www.cropty.io) |  |  |  |
-| 51 | Crypto 👛 Wallet |  | [Telegram](https://t.me/wallet_crypto_io) [Bot](https://t.me/cryptouser_bot) |  |  |  |
-| 52 | Defexa |  | [Telegram](https://t.me/defexa) [X](https://x.com/DefexaCrypto) [Site](https://defexa.io) |  |  |  |
-| 53 | DeWallet | DeWallet — a wallet for managing cryptocurrencies and NFTs | [Telegram](https://t.me/delab) [Bot](https://t.me/delabtonbot) [Site](https://chrome.google.com/webstore/detail/dewallet/pnccjgokhbnggghddhahcnaopgeipafg) |  |  |  |
-| 54 | DOGENANCE |  | [Telegram](https://t.me/clarnium) [Bot](https://t.me/ClarniumGame_bot) |  |  |  |
-| 55 | HN wallet |  | [Telegram](https://t.me/HN_Wallet_bot) |  |  |  |
-| 56 | KaiOS Wallet |  | [Telegram](https://t.me/vinayakkalra) [GitHub](https://github.com/kaifoundry/ton-kaios-wallet) |  | 2023-09-26 |  |
-| 57 | MathWallet |  | [Telegram](https://t.me/mathwalletnews) [X](https://x.com/MathWallet) [Site](https://mathwallet.org/) [GitHub](https://github.com/mathwallet) |  | 2026-04-23 | [ton 25](../archive/2025-07-ton.jpg) |
-| 58 | Matrix Wallet |  | [Bot](https://t.me/MatrixWalletBot) [Site](https://) [GitHub](https://github.com/rangersprotocolcode) |  | 2025-07-28 |  |
-| 59 | Mixin Messenger |  | [Telegram](https://t.me/bulksender) [Site](https://mixin.one/messenger) |  |  |  |
-| 60 | MixinBot |  | [Telegram](https://t.me/gemztrade) [Bot](https://t.me/GemzTradeBot) [X](https://x.com/GemzTrade) |  |  |  |
-| 61 | Moai Smart wallet for Ethereum L2s |  | [Telegram](https://t.me/moaicash) [Bot](https://t.me/moaicash_bot) |  |  |  |
-| 62 | notonbot |  | [Bot](https://t.me/notonoffice_bot) |  |  |  |
-| 63 | ONTO Wallet |  | [Telegram](https://t.me/ONTOWallet) [X](https://x.com/ONTOWallet) [Site](https://onto.app/) [GitHub](https://github.com/ontio/ontology) |  | 2026-09-02 |  |
-| 64 | OpenMask |  | [Telegram](https://t.me/CryptoMind_TON_BOT) [Site](https://chrome.google.com/webstore/detail/openmask/penjlddjkjgpnkllboccdgccekpkcbin?utm_source=openmask) |  |  | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 65 | OpenMask |  | [Telegram](https://t.me/openproduct) [Bot](https://t.me/memejump_bot) [X](https://x.com/openmask_wallet) [Site](https://github.com/openproduct/openmask-extension) [GitHub](https://github.com/fluidicon.png) |  |  |  |
-| 66 | OpenShield |  | [Bot](https://t.me/OpenShieldBot) |  |  |  |
-| 67 | Paybis Wallet | Paybis Wallet — cryptocurrency wallet | [Bot](https://t.me/paybis_crypto_exchange_bot) [X](https://x.com/paybis) [Site](https://paybis.com/?utm_source=TonApp&utm_medium=Wallets_lisitng&utm_campaign=website) |  |  |  |
-| 68 | Rustex |  | [Telegram](https://t.me/tondnsweb3) [Bot](https://t.me/rustexappbot) |  |  |  |
-| 69 | Scaleton |  | [Site](https://explorer.scaleton.io/connect) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 70 | Sender |  | [Site](https://chrome.google.com/webstore/detail/sender-wallet/epapihdplajcdnnkdeiahlgigofloibg?utm_source=chrome-ntp-icon) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 71 | TON Punks Bot | TON Punks Bot is a bot for managing $PUNK and $TON tokens on the TON blockchain. | [Telegram](https://t.me/punkton) [Bot](https://t.me/tonpunksbot) [Site](https://tonpunks.org) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 72 | TonDevWallet |  | [Site](https://github.com/TonDevWallet/TonDevWallet) [GitHub](https://github.com/TonDevWallet/TonDevWallet) |  | 2026-06-13 |  |
-| 73 | Tonflow Wallet |  | [Telegram](https://t.me/tonflow_community) [X](https://x.com/itonflow) [Site](https://tonflow.app) [GitHub](https://github.com/tonflow) |  | 2025-03-20 |  |
-| 74 | Tonkey |  | [X](https://x.com/TonkeyApp) [GitHub](https://github.com/tonkey-app) |  | 2024-11-05 | [ton 25](../archive/2025-07-ton.jpg) |
-| 75 | Tonspack |  | [Telegram](https://t.me/tonspays) [Bot](https://t.me/tonspack_bot) [X](https://x.com/tonspack) [GitHub](https://github.com/tonspay) |  | 2025-06-23 |  |
-| 76 | Top Wallets |  | [Telegram](https://t.me/top_wallets) [GitHub](https://github.com/AlexGor-dev/Top-Wallets) |  | 2023-06-08 |  |
-| 77 | vaniton |  | [Telegram](https://t.me/beast_crypto_news) [Bot](https://t.me/BeastWalletBot) [Site](https://github.com/AntonMeep/vaniton) [GitHub](https://github.com/fluidicon.png) |  |  |  |
-| 78 | Wallet Explorer |  | [Bot](https://t.me/toftechbot) |  |  |  |
-| 79 | xJetSwapBot |  | [Bot](https://t.me/basic_reality_chat) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 80 | XTON crypto wallet |  | [Telegram](https://t.me/tonoracle_app) [Bot](https://t.me/tonoracle_bot) [Site](https://xtonwallet.com/) |  |  |  |
-| 81 | XTON Wallet |  | [Telegram](https://t.me/xtonwallet) [GitHub](https://github.com/xtonwallet/web-extension) |  | 2023-11-18 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 32 | Tomo Wallet | Tomo Wallet — a wallet for TON tokens | [Bot](https://t.me/tomowalletbot) [X](https://x.com/tomo_wallet) |  |  | [tradoor 25](../archive/2025-08-tradoor.jpg) |
+| 33 | Spintria Wallet | Spintria Wallet is a wallet for managing your assets. | [Bot](https://t.me/spintria_wallet_bot) |  |  |  |
+| 34 | Xeno Network |  | [Telegram](https://t.me/xenonetworkio) [Bot](https://t.me/xenonetwork_bot) |  |  |  |
+| 35 | Tonflix Wallet |  | [Bot](https://t.me/tonflixwallet_bot) |  |  |  |
+| 36 | water bot |  | [Telegram](https://t.me/water_ton) [Bot](https://t.me/water_ton_bot) |  |  |  |
+| 37 | NOTAI |  | [Bot](https://t.me/notai_app_bot) [Site](https://cryptoriviera-2xng.onrender.com/) |  |  |  |
+| 38 | Blue |  | [Telegram](https://t.me/bluebasechannel) [Bot](https://t.me/bluefarming_bot) |  |  |  |
+| 39 | TryTON Wallet |  | [Bot](https://t.me/trytonwalletbot) |  |  |  |
+| 40 | BOOL BOT |  | [Bot](https://t.me/boolfamily_bot) |  |  |  |
+| 41 | Pixel Wallet |  | [Bot](https://t.me/pixel_wallet_bot) [X](https://x.com/hellopixelverse) | TVL $8K |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 42 | Pluto Top |  | [Bot](https://t.me/plutotopupbot) |  |  |  |
+| 43 | Walbi |  | [Bot](https://t.me/walbi_ala_bot) |  |  |  |
+| 44 | Wave Wallet |  | [Telegram](https://t.me/wave_announcements) [Bot](https://t.me/waveonsuibot) [X](https://x.com/WaveOnSui) |  |  |  |
+| 45 | Sky Rocket |  | [Telegram](https://t.me/skyrocket2024) [Bot](https://t.me/skyrockettopbot) [Site](https://kriptomir.io/) |  |  |  |
+| 46 | CodexField Wallet |  | [Bot](https://t.me/codexfieldbot) |  |  |  |
+| 47 | xJetSwap |  | [Telegram](https://t.me/xjetnews) [Bot](https://t.me/xjetswapbot) |  |  |  |
+| 48 | Telenova |  | [Bot](https://t.me/telenova_app_bot) |  |  |  |
+| 49 | MoneyTab |  | [Bot](https://t.me/moneytabbot) |  |  |  |
+| 50 | Ammer Wallet |  | [Bot](https://t.me/ammer_wallet_bot) |  |  |  |
+| 51 | Bpay |  | [Telegram](https://t.me/bpay_official_channel) [Bot](https://t.me/bpay_coin_bot) |  |  |  |
+| 52 | GHOST |  | [Bot](https://t.me/ghost_web3_bot) |  |  |  |
+| 53 | BeraSig Wallet |  | [Bot](https://t.me/berasigwallet_bot) |  |  |  |
+| 54 | DPXWallet |  | [Bot](https://t.me/dpxwalletbot) |  |  |  |
+| 55 | Ammer Wallet |  | [Site](https://ammer.app) |  |  |  |
+| 56 | Antarctic Wallet - News | Antarctic Wallet – первый полностью легальный и лицензированный криптокошелёк, созданный… | [Telegram](https://t.me/antarcticwallet) [Bot](https://t.me/antarctic_wallet_bot) | mentioned by 19 TON channels in Q3 |  |  |
+| 57 | Bivreost Wallet |  | [Telegram](https://t.me/bivreost) [Bot](https://t.me/bivreost_bot) |  |  |  |
+| 58 | Coin Wallet |  | [Bot](https://t.me/attackdetectorbot) [X](https://x.com/CoinAppWallet) [Site](https://coin.space/) [GitHub](https://github.com/CoinSpace/CoinSpace) |  | 2026-09-29 |  |
+| 59 | Cropty Wallet | Cropty Wallet — multi-chain wallet with free transfers between users | [Telegram](https://t.me/croptywallet) [Bot](https://t.me/CroptyBot) [X](https://x.com/cropty_app) [Site](https://www.cropty.io) |  |  |  |
+| 60 | Crypto Wallet Libermall Card | Крипто-карты Visa/MC · Apple & Google Pay · выпуск за минуты · кешбэк до 5% · пополнение… | [Bot](https://t.me/libermallcardbot) | mentioned by 10 TON channels in Q3 |  |  |
+| 61 | Crypto Wallet • DeFi Card | Multicurrency Crypto Wallet by @Tegro_Finance. Pay with cryptocurrency, view… | [Bot](https://t.me/tegrowalletbot) | mentioned by 9 TON channels in Q3 |  |  |
+| 62 | Crypto 👛 Wallet |  | [Telegram](https://t.me/wallet_crypto_io) [Bot](https://t.me/cryptouser_bot) |  |  |  |
+| 63 | Daily GHS | Free Daily GHS Directly To Your TON Wallet | [Bot](https://t.me/dailyghsbot) | mentioned by 3 TON channels in Q3 |  |  |
+| 64 | Defexa |  | [Telegram](https://t.me/defexa) [X](https://x.com/DefexaCrypto) [Site](https://defexa.io) |  |  |  |
+| 65 | DeWallet | DeWallet — a wallet for managing cryptocurrencies and NFTs | [Telegram](https://t.me/delab) [Bot](https://t.me/delabtonbot) [Site](https://chrome.google.com/webstore/detail/dewallet/pnccjgokhbnggghddhahcnaopgeipafg) |  |  |  |
+| 66 | DOGENANCE |  | [Telegram](https://t.me/clarnium) [Bot](https://t.me/ClarniumGame_bot) |  |  |  |
+| 67 | FadeWallet | 🛡 FadeWallet — Обмен, управление и хранение в одном месте. | [Bot](https://t.me/fadewalletbot) |  |  |  |
+| 68 | HN wallet |  | [Telegram](https://t.me/HN_Wallet_bot) |  |  |  |
+| 69 | KaiOS Wallet |  | [Telegram](https://t.me/vinayakkalra) [GitHub](https://github.com/kaifoundry/ton-kaios-wallet) |  | 2023-09-26 |  |
+| 70 | MathWallet |  | [Telegram](https://t.me/mathwalletnews) [X](https://x.com/MathWallet) [Site](https://mathwallet.org/) [GitHub](https://github.com/mathwallet) |  | 2026-04-23 | [ton 25](../archive/2025-07-ton.jpg) |
+| 71 | Matrix Wallet |  | [Bot](https://t.me/MatrixWalletBot) [Site](https://) [GitHub](https://github.com/rangersprotocolcode) |  | 2025-07-28 |  |
+| 72 | Mixin Messenger |  | [Telegram](https://t.me/bulksender) [Site](https://mixin.one/messenger) |  |  |  |
+| 73 | MixinBot |  | [Telegram](https://t.me/gemztrade) [Bot](https://t.me/GemzTradeBot) [X](https://x.com/GemzTrade) |  |  |  |
+| 74 | Moai Smart wallet for Ethereum L2s |  | [Telegram](https://t.me/moaicash) [Bot](https://t.me/moaicash_bot) |  |  |  |
+| 75 | notonbot |  | [Bot](https://t.me/notonoffice_bot) |  |  |  |
+| 76 | ONTO Wallet |  | [Telegram](https://t.me/ONTOWallet) [X](https://x.com/ONTOWallet) [Site](https://onto.app/) [GitHub](https://github.com/ontio/ontology) |  | 2026-09-02 |  |
+| 77 | OpenMask |  | [Telegram](https://t.me/CryptoMind_TON_BOT) [Site](https://chrome.google.com/webstore/detail/openmask/penjlddjkjgpnkllboccdgccekpkcbin?utm_source=openmask) |  |  | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 78 | OpenMask |  | [Telegram](https://t.me/openproduct) [Bot](https://t.me/memejump_bot) [X](https://x.com/openmask_wallet) [Site](https://github.com/openproduct/openmask-extension) [GitHub](https://github.com/fluidicon.png) |  |  |  |
+| 79 | OpenShield |  | [Bot](https://t.me/OpenShieldBot) |  |  |  |
+| 80 | Paybis Wallet | Paybis Wallet — cryptocurrency wallet | [Bot](https://t.me/paybis_crypto_exchange_bot) [X](https://x.com/paybis) [Site](https://paybis.com/?utm_source=TonApp&utm_medium=Wallets_lisitng&utm_campaign=website) |  |  |  |
+| 81 | Payscrow Wallet | Payscrow Wallet - криптокошелек с виртуальными картами Visa для ежедневных платежей | [Bot](https://t.me/payscrowwalletbot) | mentioned by 3 TON channels in Q3 |  |  |
+| 82 | platho | Encrypted messenger and TON wallet. No servers, only contracts. | [Bot](https://t.me/plathobot) | mentioned by 3 TON channels in Q3 |  |  |
+| 83 | PPay💰 | Play & Pay娱乐 • 支付 • 畅行无界 ONE WALLET A BIGGER WORLD 选必安 心必安｜使用PPay 更简单 | [Bot](https://t.me/publicpaybot) |  |  |  |
+| 84 | PsWallet | Store, exchange, send, and pay with cryptocurrency anytime, anywhere. Support:… | [Bot](https://t.me/pswallet_bot) |  |  |  |
+| 85 | Rustex |  | [Telegram](https://t.me/tondnsweb3) [Bot](https://t.me/rustexappbot) |  |  |  |
+| 86 | Scaleton |  | [Site](https://explorer.scaleton.io/connect) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 87 | Sender |  | [Site](https://chrome.google.com/webstore/detail/sender-wallet/epapihdplajcdnnkdeiahlgigofloibg?utm_source=chrome-ntp-icon) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 88 | SociaWallet | SociaWallet - This is the wallet you want to use. Made by @socia made in TON. Open… | [Telegram](https://t.me/sociawallet) [Bot](https://t.me/sociawalletbot) | mentioned by 4 TON channels in Q3 |  |  |
+| 89 | SociaWallet | @SociaWallet - This is the wallet you want to use. Made by @socia made in TON. | [Bot](https://t.me/sociawalletbot) | mentioned by 3 TON channels in Q3 |  |  |
+| 90 | Talken Wallet | Talken Wallet for Telegram is a secure Web3 wallet that uses MPC technology. Talken… | [Bot](https://t.me/talkenwallet_bot) |  |  |  |
+| 91 | TH钱包 | 频道:@THpay_Wallet 欢迎体验我们的 Telegram… | [Bot](https://t.me/thqbbot) |  |  |  |
+| 92 | TON Punks Bot | TON Punks Bot is a bot for managing $PUNK and $TON tokens on the TON blockchain. | [Telegram](https://t.me/punkton) [Bot](https://t.me/tonpunksbot) [Site](https://tonpunks.org) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 93 | TonDevWallet |  | [Site](https://github.com/TonDevWallet/TonDevWallet) [GitHub](https://github.com/TonDevWallet/TonDevWallet) |  | 2026-06-13 |  |
+| 94 | Tonflow Wallet |  | [Telegram](https://t.me/tonflow_community) [X](https://x.com/itonflow) [GitHub](https://github.com/tonflow) |  | 2025-03-20 |  |
+| 95 | Tonkey |  | [X](https://x.com/TonkeyApp) [GitHub](https://github.com/tonkey-app) |  | 2024-11-05 | [ton 25](../archive/2025-07-ton.jpg) |
+| 96 | Tonspack |  | [Telegram](https://t.me/tonspays) [Bot](https://t.me/tonspack_bot) [X](https://x.com/tonspack) [GitHub](https://github.com/tonspay) |  | 2025-06-23 |  |
+| 97 | Top Wallets |  | [Telegram](https://t.me/top_wallets) [GitHub](https://github.com/AlexGor-dev/Top-Wallets) |  | 2023-06-08 |  |
+| 98 | vaniton |  | [Telegram](https://t.me/beast_crypto_news) [Bot](https://t.me/BeastWalletBot) [Site](https://github.com/AntonMeep/vaniton) [GitHub](https://github.com/fluidicon.png) |  |  |  |
+| 99 | Wallet Explorer |  | [Bot](https://t.me/toftechbot) |  |  |  |
+| 100 | Wallet.Hub |  | [Bot](https://t.me/walletdothub_bot) | mentioned by 3 TON channels in Q3 |  |  |
+| 101 | WalletStars / Купить Звёзды | Channel: @WalletStarsOfficial Support: @adv_walletstars | [Bot](https://t.me/walletstarsnewbot) | mentioned by 5 TON channels in Q3 |  |  |
+| 102 | Walt (ex. Wallet) | 💎 Buy and send USDT, Gold, Bitcoin, GRAM and other crypto. 🌏 Trusted by 150M users. 🎧… | [Bot](https://t.me/wallet) |  |  |  |
+| 103 | xJetSwapBot |  | [Bot](https://t.me/basic_reality_chat) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 104 | XTON crypto wallet |  | [Telegram](https://t.me/tonoracle_app) [Bot](https://t.me/tonoracle_bot) [Site](https://xtonwallet.com/) |  |  |  |
+| 105 | XTON Wallet |  | [Telegram](https://t.me/xtonwallet) [Bot](https://t.me/XTON_ROBOT) [X](https://x.com/XTON_ROBOT) [GitHub](https://github.com/xtonwallet/web-extension) |  | 2023-11-18 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 106 | Zen Wallet | A calm TON wallet for everyday crypto. | [Bot](https://t.me/sendzenbot) | mentioned by 3 TON channels in Q3 |  |  |
+| 107 | Кошелёк NiceWallet — @nwallet |  | [Bot](https://t.me/nicewalletio_bot) |  |  |  |
 
 ## Closed
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 82 | Fintopio |  | [Telegram](https://t.me/fintopionews) [Bot](https://t.me/fintopio) [X](https://x.com/fintopio) [Site](https://fintopio.com/) |  |  | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
-| 83 | GetTON |  | [Bot](https://t.me/gettonapp_bot) [Site](https://getton.app) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 108 | Fintopio |  | [Telegram](https://t.me/fintopionews) [Bot](https://t.me/fintopio) [X](https://x.com/fintopio) [Site](https://fintopio.com/) |  |  | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
+| 109 | GetTON |  | [Bot](https://t.me/gettonapp_bot) [Site](https://getton.app) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |

@@ -2,7 +2,7 @@
 
 # Payments
 
-[Back to the list](../README.md#payments). 36 projects: 14 active in Q3 2026, 21 quiet, 1 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#payments). 47 projects: 15 active in Q3 2026, 31 quiet, 1 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -20,37 +20,48 @@
 | 10 | TON Pay ✓ |  | [Telegram](https://t.me/tonpay_official) [Bot](https://t.me/tonpay) [Site](https://ton.org/en/pay) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
 | 11 | xStocks |  | [Site](https://xstocks.fi) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
 | 12 | Kolo Bot |  | [Telegram](https://t.me/KoloAnn) [Bot](https://t.me/kolo) [X](https://x.com/KoloHub) [Site](https://kolo.bot/) | 52K views, 10K MAU | 2026-09-07 |  |
-| 13 | HelperStars & Premium |  | [Bot](https://t.me/helperstars_robot) | 17K MAU |  |  |
-| 14 | BFinance |  | [Telegram](https://t.me/bfinancepay) [Bot](https://t.me/bfinancebot) [X](https://x.com/bfinancepay) [Site](https://bfinance.app) | 3K views, 16K MAU | 2026-09-17 |  |
+| 13 | Shiba Bank // Звезды 🔄 | Покупка и продажа Telegram Stars и Premium. Оплата по СБП, картой или криптовалютой.… | [Bot](https://t.me/barboskich_stars_bot) | mentioned by 8 TON channels in Q3 |  |  |
+| 14 | HelperStars & Premium |  | [Bot](https://t.me/helperstars_robot) | 17K MAU |  |  |
+| 15 | BFinance |  | [Telegram](https://t.me/bfinancepay) [Bot](https://t.me/bfinancebot) [X](https://x.com/bfinancepay) [Site](https://bfinance.app) | 3K views, 16K MAU | 2026-09-17 |  |
 
 ## Quiet
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 15 | CryptoChill |  | [Telegram](https://t.me/CryptoChillGateway) [Bot](https://t.me/kingdomsurvivorgamebot) [X](https://x.com/cryptochill) [Site](https://cryptochill.com) |  |  |  |
-| 16 | DeCoupons |  | [Telegram](https://t.me/delab) |  |  |  |
-| 17 | DeDonate |  | [GitHub](https://github.com/delab-team) |  | 2025-12-09 |  |
-| 18 | Donate |  | [Bot](https://t.me/donate) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 19 | iVendPay |  | [X](https://x.com/ivendpay) |  |  |  |
-| 20 | LaFTon Bot |  | [Telegram](https://t.me/LaFTonBot) [Bot](https://t.me/LaFTon) [X](https://x.com/laftonnews) |  |  |  |
-| 21 | Moneton |  | [Bot](https://t.me/moneton_bot) |  |  |  |
-| 22 | MugglePay |  | [Telegram](https://t.me/mugglechatbot) [X](https://x.com/paymuggle) [GitHub](https://github.com/mugglepay) |  | 2026-03-16 |  |
-| 23 | PassimPay | PassimPay – payment gateway for business | [Telegram](https://t.me/PassimPayAPP_Bot) [Bot](https://t.me/Passim_Pay) [X](https://x.com/passimpay) [Site](https://passimpay.io/) [GitHub](https://github.com/Passimpay) |  | 2026-09-29 |  |
-| 24 | PayCrypto.Global |  | [X](https://x.com/paycryptoglobal) [Site](https://paycrypto.global) |  |  |  |
-| 25 | Payhook |  | [Telegram](https://t.me/BehLand_Official) [Bot](https://t.me/BehLand_gp) [Site](https://payhook.org) [GitHub](https://github.com/beh-land) |  | 2026-09-09 |  |
-| 26 | Play Wallet |  | [Telegram](https://t.me/playwallet_news) [X](https://x.com/playwalletbot) [Site](https://www.playwallet.bot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 27 | QuTON Cash (QTC) |  | [Telegram](https://t.me/qutoncashchannel) [GitHub](https://github.com/qutoncash) |  | 2024-04-16 |  |
-| 28 | Seconds Market | A service for buying and selling Telegram Stars | [Telegram](https://t.me/Seconds_market_bot) [Bot](https://t.me/Seconds_market) [X](https://x.com/Seconds_Market) [Site](https://secondsmarket.store) |  |  |  |
-| 29 | Swipelux |  | [Telegram](https://t.me/alwaysmoney_sup) [Bot](https://t.me/alwaysmoneyorg) [Site](https://swipelux.com/?utm_source=tonapp&utm_medium=referral&utm_campaign=inbound) |  |  |  |
-| 30 | TON Fonates |  | [Telegram](https://t.me/fonates) [Bot](https://t.me/fonatesbot) [GitHub](https://github.com/orgs/Fonates) |  |  |  |
-| 31 | Tonation |  | [Telegram](https://t.me/tonationme) [X](https://x.com/tonationme) [Site](https://tonation.me/) |  |  |  |
-| 32 | TonoGram |  |  |  |  |  |
-| 33 | Tonspay |  | [Telegram](https://t.me/tonspays) [Bot](https://t.me/tonspay_bot) [GitHub](https://github.com/tonspay) |  | 2025-06-23 |  |
-| 34 | USDPay |  | [Site](https://usdpay.me/networks/ton) |  |  |  |
-| 35 | Wallet Bot |  | [Telegram](https://t.me/apiton) [Bot](https://t.me/apitonBot) |  |  |  |
+| 16 | Adpact | Book Telegram channel ads with escrow on TON. The bot posts and verifies. Collect… | [Bot](https://t.me/adpactbot) [Site](https://adpact.app/) | mentioned by 13 TON channels in Q3 |  |  |
+| 17 | BestChange Bot | The BestChange monitor will select profitable exchangers for cryptocurrencies, payment… | [Bot](https://t.me/bestchange_bot) |  |  |  |
+| 18 | Card | Crypto accounts, cards and payments inside Telegram | [Bot](https://t.me/noncustodialcardbot) |  |  |  |
+| 19 | CryptoChill |  | [Telegram](https://t.me/CryptoChillGateway) [Bot](https://t.me/kingdomsurvivorgamebot) [X](https://x.com/cryptochill) [Site](https://cryptochill.com) |  |  |  |
+| 20 | DeCoupons |  | [Telegram](https://t.me/delab) |  |  |  |
+| 21 | DeDonate |  | [GitHub](https://github.com/delab-team) |  | 2025-12-09 |  |
+| 22 | Donate |  | [Bot](https://t.me/donate) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 23 | iVendPay |  | [X](https://x.com/ivendpay) |  |  |  |
+| 24 | LaFTon Bot |  | [Telegram](https://t.me/LaFTonBot) [Bot](https://t.me/LaFTon) [X](https://x.com/laftonnews) |  |  |  |
+| 25 | Luxury Stars / Купить Звезды и Premium | Звезды, Premium и пополнение баланса Gram без KYC Сайт: https://luxurystars.tg… | [Bot](https://t.me/lxstarsbot) | mentioned by 4 TON channels in Q3 |  |  |
+| 26 | Moneton |  | [Bot](https://t.me/moneton_bot) |  |  |  |
+| 27 | MugglePay |  | [Telegram](https://t.me/mugglechatbot) [X](https://x.com/paymuggle) [GitHub](https://github.com/mugglepay) |  | 2026-03-16 |  |
+| 28 | PassimPay | PassimPay – payment gateway for business | [Telegram](https://t.me/PassimPayAPP_Bot) [Bot](https://t.me/Passim_Pay) [X](https://x.com/passimpay) [Site](https://passimpay.io/) [GitHub](https://github.com/Passimpay) |  | 2026-09-29 |  |
+| 29 | PayCrypto.Global |  | [X](https://x.com/paycryptoglobal) [Site](https://paycrypto.global) |  |  |  |
+| 30 | Payhook |  | [Telegram](https://t.me/BehLand_Official) [Bot](https://t.me/BehLand_gp) [Site](https://payhook.org) [GitHub](https://github.com/beh-land) |  | 2026-09-09 |  |
+| 31 | Play Wallet |  | [Telegram](https://t.me/playwallet_news) [X](https://x.com/playwalletbot) [Site](https://www.playwallet.bot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 32 | QR2Pay | - Сервис для оплаты QR СБП с помощью USDT - Virtual card c поддержкой Apple\Google pay… | [Bot](https://t.me/qr2pay_bot) | mentioned by 3 TON channels in Q3 |  |  |
+| 33 | QuTON Cash (QTC) |  | [Telegram](https://t.me/qutoncashchannel) [GitHub](https://github.com/qutoncash) |  | 2024-04-16 |  |
+| 34 | Seconds Market | A service for buying and selling Telegram Stars | [Telegram](https://t.me/Seconds_market_bot) [Bot](https://t.me/Seconds_market) [X](https://x.com/Seconds_Market) [Site](https://secondsmarket.store) |  |  |  |
+| 35 | Spend App — Купить Звезды | Fast. Secure. Simple. Fragment or Major. spend.tg | [Bot](https://t.me/spendtgbot) | mentioned by 4 TON channels in Q3 |  |  |
+| 36 | StarShip - Звезды со Скидкой! | Купить Звезды Телеграм быстро и удобно! Support: @StarShipHelp | [Bot](https://t.me/starsshipbot) | mentioned by 8 TON channels in Q3 |  |  |
+| 37 | Swipelux |  | [Telegram](https://t.me/alwaysmoney_sup) [Bot](https://t.me/alwaysmoneyorg) [Site](https://swipelux.com/?utm_source=tonapp&utm_medium=referral&utm_campaign=inbound) |  |  |  |
+| 38 | Tegro DeFi Crypto Payments | Tegro ecosystem in one bot. No-KYC crypto cards, a DeFi exchange, staking and payments.… | [Bot](https://t.me/tegromoneybot) | mentioned by 11 TON channels in Q3 |  |  |
+| 39 | TON Fonates |  | [Telegram](https://t.me/fonates) [Bot](https://t.me/fonatesbot) [GitHub](https://github.com/orgs/Fonates) |  |  |  |
+| 40 | Tonation |  | [Telegram](https://t.me/tonationme) [X](https://x.com/tonationme) [Site](https://tonation.me/) |  |  |  |
+| 41 | TonoGram |  |  |  |  |  |
+| 42 | Tonspay |  | [Telegram](https://t.me/tonspays) [Bot](https://t.me/tonspay_bot) [GitHub](https://github.com/tonspay) |  | 2025-06-23 |  |
+| 43 | USDPay |  | [Site](https://usdpay.me/networks/ton) |  |  |  |
+| 44 | Vozik Shop / Звёзды для каждого | Купить Звезды и Telegram премиум быстро и удобно! Support: @VozikShop_Support | [Bot](https://t.me/vozikstarsbot) | mentioned by 5 TON channels in Q3 |  |  |
+| 45 | Wallet Bot |  | [Telegram](https://t.me/apiton) [Bot](https://t.me/apitonBot) |  |  |  |
+| 46 | WebWise Pay |  | [Bot](https://t.me/webwisepay_bot) | mentioned by 3 TON channels in Q3 |  |  |
 
 ## Closed
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 36 | Solo |  | [Telegram](https://t.me/solobank) [Bot](https://t.me/solobankbot) [Site](https://www.solo.bot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 47 | Solo |  | [Telegram](https://t.me/solobank) [Bot](https://t.me/solobankbot) [Site](https://www.solo.bot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |

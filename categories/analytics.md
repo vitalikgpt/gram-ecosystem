@@ -76,7 +76,7 @@
 | 61 | dTON Forum |  | [Telegram](https://t.me/dtonforum) |  |  |  |
 | 62 | FaktON |  | [Telegram](https://t.me/Fak_ton) [Bot](https://t.me/fakton_bot) |  |  |  |
 | 63 | Fragment Analyzer |  | [Telegram](https://t.me/fragmentanalytics) [Bot](https://t.me/fragmentanalyzer_bot) |  |  |  |
-| 64 | Full Metal Jetton |  | [Bot](https://t.me/tontitanbot) [X](https://x.com/thetontitan) |  |  |  |
+| 64 | Full Metal Jetton |  |  |  |  |  |
 | 65 | Giftindex |  | [Bot](https://t.me/giftindexbot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 66 | Giftstat.com |  | [Bot](https://t.me/giftstatcom_bot) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 67 | indicaton |  | [Site](https://indicaton.io/?utm_source=ton_app) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
@@ -112,10 +112,10 @@
 | 97 | Wallets Live | Cryptocurrency arbitrage opportunity analytics | [Telegram](https://t.me/arbitragescanner_eng) [Bot](https://t.me/wallets_live_bot) [X](https://x.com/ArbitrageScan) [Site](https://arbitragescanner.io/) |  |  |  |
 | 98 | Watcher |  | [Telegram](https://t.me/watcher_news) [Bot](https://t.me/watcher_robot) |  |  |  |
 | 99 | x1000 |  | [Telegram](https://t.me/x1000) [Bot](https://t.me/x1000_en) [X](https://x.com/x1000_finance) [Site](https://x1000.finance) |  |  |  |
-| 100 | xGift |  | [Telegram](https://t.me/xgift) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 100 | xGift |  | [Telegram](https://t.me/xgift) [Bot](https://t.me/xgift_official_bot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 101 | Yieldo |  | [Bot](https://t.me/YieldoBot) [Site](https://yieldo.me/) |  |  |  |
 | 102 | Реклама NFT в Telegram |  | [Bot](https://t.me/frontnftbot) [X](https://x.com/smmpanelru) |  |  |  |
-| 103 | Тонус |  | [Telegram](https://t.me/brainscoin) [Bot](https://t.me/brainscoin_bot) |  |  |  |
+| 103 | Тонус |  | [Bot](https://t.me/brainscoin_bot) |  |  |  |
 
 ## Closed
 

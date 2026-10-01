@@ -61,7 +61,7 @@
 | 46 | HunteX |  | [Telegram](https://t.me/Rezzky_HunteX) [Bot](https://t.me/HuntexBot) [X](https://x.com/huntex_bot) [Site](https://huntex.io/) |  |  |  |
 | 47 | Nominex Exchange App |  | [Telegram](https://t.me/NominexExchange) [Bot](https://t.me/nominex_exchange_bot) [X](https://x.com/NominexExchange) [Site](https://nominex.io) |  |  |  |
 | 48 | LimeCoin |  | [Bot](https://t.me/officiallimecoinbot) [Site](https://limecoin.notion.site/LimeCoin-e66eb3a9cd124102a7617d6d939851d6?pvs=4) |  |  |  |
-| 49 | LumaCoin |  | [Telegram](https://t.me/lumacoin) [Bot](https://t.me/lumacoinbot) [X](https://x.com/lumacoin) |  |  |  |
+| 49 | LumaCoin |  | [Telegram](https://t.me/lumacoin) [Bot](https://t.me/lumacoinbot) [X](https://x.com/lumacoin) [Site](https://lumacoin.org/) |  |  |  |
 | 50 | FinchPay | FinchPay — buy crypto with a bank card, no KYC up to 500 EUR | [Telegram](https://t.me/FinchPay_io) [Bot](https://t.me/finchpaybot) [X](https://x.com/FinchPay_io) [Site](https://finchpay.io/) |  |  |  |
 | 51 | UStars 💫 |  | [X](https://x.com/UStars_exchange) |  |  |  |
 | 52 | 90Rich |  | [Telegram](https://t.me/Channel_90Rich) |  |  |  |

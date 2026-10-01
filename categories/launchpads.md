@@ -2,15 +2,15 @@
 
 # Memepads
 
-[Back to the list](../README.md#memepads). 73 projects: 12 active in Q3 2026, 60 quiet, 1 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#memepads). 74 projects: 12 active in Q3 2026, 61 quiet, 1 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | TopBlast ✓ |  | [Telegram](https://t.me/topblastdotlol) | 59K views | 2026-09-30 |  |
-| 2 | Meridian ✓ |  | [Telegram](https://t.me/meridian_wtf) | 4K views | 2026-08-04 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 3 | @Blum ✓ | Blum Memepad is a trading platform for launching and trading meme coins. | [Telegram](https://t.me/blumcrypto_memepad) [Bot](https://t.me/blum) [X](https://x.com/blumcrypto) | 266K MAU |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 2 | Meridian ✓ |  | [Telegram](https://t.me/meridian_wtf) [Site](https://getgems.io/collection/EQAVGhk_3rUA3ypZAZ1SkVGZIaDt7UdvwA4jsSGRKRo-MRDN) | 4K views | 2026-08-04 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 3 | @Blum ✓ | Blum Memepad is a trading platform for launching and trading meme coins. | [Telegram](https://t.me/blumcrypto_memepad) [Bot](https://t.me/blum) [X](https://x.com/blumcrypto) [Site](https://blum.io) | 266K MAU |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 4 | BigPump ✓ |  | [Telegram](https://t.me/bigpumphub) | 40K views | 2026-09-16 | [ton 25](../archive/2025-07-ton.jpg) |
 | 5 | Uranus ✓ |  | [Telegram](https://t.me/nonameuranus) | 25K views | 2026-09-30 |  |
 | 6 | JVault ✓ | JVault is a protocol for staking, launchpad, and locker on TON. | [Telegram](https://t.me/jvault) [Bot](https://t.me/JVaultBot) [X](https://x.com/JVault_app) [Site](https://jvault.xyz) [GitHub](https://github.com/JVault-app) | 2K views | 2026-08-17 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
@@ -25,11 +25,11 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 13 | PLAYS Hub |  | [Bot](https://t.me/playshubbot) [X](https://x.com/PlaysHub) |  |  |  |
+| 13 | PLAYS Hub |  | [Telegram](https://t.me/PlayshubAnn) [Bot](https://t.me/playshubbot) [X](https://x.com/PlaysHub) |  |  |  |
 | 14 | TON of Memes |  | [Bot](https://t.me/TonOfMemesBot) [X](https://x.com/useTONMemes) |  |  |  |
 | 15 | Planeton |  | [Telegram](https://t.me/planeton_hub) [Bot](https://t.me/theplanetonbot) [X](https://x.com/theplaneton) [Site](https://0xiceberg.com/) |  |  |  |
 | 16 | Polyton App |  | [Bot](https://t.me/polytonappbot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 17 | FUNTON.AI |  | [Telegram](https://t.me/funton_ai) [Bot](https://t.me/funton_ai_app_bot) [X](https://x.com/funton_ai) |  |  |  |
+| 17 | FUNTON.AI |  | [Telegram](https://t.me/funton_ai) [Bot](https://t.me/funton_ai_app_bot) [X](https://x.com/funton_ai) [Site](https://funton.ai) |  |  |  |
 | 18 | Quest Labs |  | [Bot](https://t.me/questlabsbot) [X](https://x.com/TorchTon) [Site](https://torch.finance) [GitHub](https://github.com/torch-core) |  | 2026-06-30 |  |
 | 19 | Crypto Magnet |  | [Bot](https://t.me/magnet_crypto_bot) |  |  |  |
 | 20 | ApePadcom |  | [Bot](https://t.me/apepad_bot) |  |  |  |
@@ -38,7 +38,7 @@
 | 23 | 2040World | PvP game on a space station with avatars and combat | [Bot](https://t.me/world2040_bot) [X](https://x.com/2040World) [Site](https://cloudflare.com) |  |  |  |
 | 24 | RoOLZ | RoOLZ — a Telegram roleplay game with NFTs and agentic gameplay | [Telegram](https://t.me/roolznft) [Bot](https://t.me/roolzquest_bot) [X](https://x.com/AtriumNft) [Site](https://Atrium.art) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 25 | Bankcoin |  | [Telegram](https://t.me/dogs_community) [Bot](https://t.me/bankcoins_bot) [X](https://x.com/realDogsHouse) |  |  |  |
-| 26 | Snap Fly Bot |  | [Telegram](https://t.me/SnapFly_updates) [Bot](https://t.me/snapfly_game_bot) [X](https://x.com/SnapFly_xyz) |  |  |  |
+| 26 | Snap Fly Bot |  | [Telegram](https://t.me/SnapFly_updates) [Bot](https://t.me/snapfly_game_bot) [X](https://x.com/SnapFly_xyz) [Site](https://docs.snapfly.xyz/) |  |  |  |
 | 27 | PinGo |  | [Bot](https://t.me/pingo_minibot) [X](https://x.com/PinGoAI) [Site](https://pingo.work) |  |  |  |
 | 28 | LUMO |  | [Bot](https://t.me/cryptolumo_bot) |  |  |  |
 | 29 | BoostChain |  | [Bot](https://t.me/boostchainbot) |  |  |  |
@@ -51,7 +51,7 @@
 | 36 | Firecoin |  | [Bot](https://t.me/firecoin_app_bot) [X](https://x.com/firecoin_app) |  |  |  |
 | 37 | Bitbot |  | [Bot](https://t.me/hello_bitbot) |  |  |  |
 | 38 | Horizon Launch |  | [Bot](https://t.me/horizonlaunch_bot) |  |  |  |
-| 39 | RoketoCoin Lunar Program |  | [Bot](https://t.me/roketo_lunar_bot) [X](https://x.com/QubixArena) |  |  |  |
+| 39 | RoketoCoin Lunar Program |  | [Bot](https://t.me/roketo_lunar_bot) |  |  |  |
 | 40 | Fastmint App |  | [Telegram](https://t.me/Fastmint_Assist) [Bot](https://t.me/fastmintapp_bot) [X](https://x.com/fastmintorg) |  |  |  |
 | 41 | CoinGatePad | CoinGatePad — a platform for voting on and discovering new crypto projects | [Bot](https://t.me/coingatepadbot) [X](https://x.com/CoinGatePad) [Site](https://coingatepad.com/cgp) |  |  |  |
 | 42 | XTON Launchpad |  | [Bot](https://t.me/xtonbetabot) |  |  |  |
@@ -76,18 +76,19 @@
 | 61 | Preseller |  | [Bot](https://t.me/tonpreseller_bot) |  |  |  |
 | 62 | Purr.Fund |  | [Telegram](https://t.me/purr_news) [Bot](https://t.me/purr_fund_bot) [X](https://x.com/PurrFund) [GitHub](https://github.com/PurrFund/SC-Purr) |  | 2024-05-15 |  |
 | 63 | Quick |  | [Bot](https://t.me/quick_tg_bot) |  |  |  |
-| 64 | TAND3M | TAND3M – a platform for launching tokens and NFTs via LBP on the TON blockchain | [Bot](https://t.me/Tand3m_bot) [X](https://x.com/TAND3M_Official) [Site](https://tand3m.io/) |  |  |  |
-| 65 | TON Gagarin World |  | [Telegram](https://t.me/ton_gagarin_world_chat) [X](https://x.com/GAGARIN_World) |  |  |  |
-| 66 | TON INU Launchpad |  | [Telegram](https://t.me/toninutools) [Bot](https://t.me/theontonbot) [X](https://x.com/toninutools) [Site](https://app.toninu.tech/launchpad) |  |  |  |
-| 67 | Ton Launchpad |  | [Telegram](https://t.me/TheTonlaunch_pad) [Bot](https://t.me/tonlaunchpadofficial_bot) [X](https://x.com/thetonlaunchpad) [Site](https://tonlaunchpad.com/) |  |  |  |
-| 68 | ton.fun |  | [Bot](https://t.me/tonfunbot) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
-| 69 | TONpad |  | [Telegram](https://t.me/TONpad_news) [X](https://x.com/TON_launchpad) [GitHub](https://github.com/tonpad) |  | 2024-04-28 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 70 | TonPump.app |  | [Telegram](https://t.me/tonpump_community) [X](https://x.com/TonPump_app) | TVL $2K |  |  |
-| 71 | TONUP |  | [Site](https://tonup.io/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 72 | W3BFLIX |  | [Bot](https://t.me/w3bflixbot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 64 | SolanaForge | SolanaForge is a no-code multi-chain token creation platform that makes launching Web3… | [Telegram](https://t.me/SolanaForgeGroup) [Bot](https://t.me/SolanaForgeChannel) [X](https://x.com/solanaforgeapp) [Site](https://solanaforge.app) |  |  |  |
+| 65 | TAND3M | TAND3M – a platform for launching tokens and NFTs via LBP on the TON blockchain | [Bot](https://t.me/Tand3m_bot) [X](https://x.com/TAND3M_Official) [Site](https://tand3m.io/) |  |  |  |
+| 66 | TON Gagarin World |  | [Telegram](https://t.me/ton_gagarin_world_chat) [X](https://x.com/GAGARIN_World) |  |  |  |
+| 67 | TON INU Launchpad |  | [Telegram](https://t.me/toninutools) [Bot](https://t.me/theontonbot) [X](https://x.com/toninutools) [Site](https://app.toninu.tech/launchpad) |  |  |  |
+| 68 | Ton Launchpad |  | [Telegram](https://t.me/TheTonlaunch_pad) [Bot](https://t.me/tonlaunchpadofficial_bot) [X](https://x.com/thetonlaunchpad) [Site](https://tonlaunchpad.com/) |  |  |  |
+| 69 | ton.fun |  | [Bot](https://t.me/tonfunbot) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
+| 70 | TONpad |  | [Telegram](https://t.me/TONpad_news) [X](https://x.com/TON_launchpad) [GitHub](https://github.com/tonpad) |  | 2024-04-28 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 71 | TonPump.app |  | [Telegram](https://t.me/tonpump_community) [X](https://x.com/TonPump_app) | TVL $2K |  |  |
+| 72 | TONUP |  | [Site](https://tonup.io/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 73 | W3BFLIX |  | [Bot](https://t.me/w3bflixbot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 
 ## Closed
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 73 | Pumpers.tg |  | [Telegram](https://t.me/pumpers) [X](https://x.com/pumperstg) | 12K views | 2026-09-30 |  |
+| 74 | Pumpers.tg |  | [Telegram](https://t.me/pumpers) [X](https://x.com/pumperstg) | 12K views | 2026-09-30 |  |

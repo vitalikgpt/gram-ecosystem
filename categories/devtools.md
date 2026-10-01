@@ -2,7 +2,7 @@
 
 # Developer tools
 
-[Back to the list](../README.md#developer-tools). 97 projects: 15 active in Q3 2026, 81 quiet, 1 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#developer-tools). 99 projects: 15 active in Q3 2026, 83 quiet, 1 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -11,7 +11,7 @@
 | 1 | TonTon Games |  | [Telegram](https://t.me/tikitons) | 25K views | 2026-08-31 | [ton 25](../archive/2025-07-ton.jpg) |
 | 2 | Durev Bot |  | [Telegram](https://t.me/poveldurev) [Bot](https://t.me/durevrobot) [X](https://x.com/poveldurev) [Site](https://dedust.io/swap/TON/DUREV) | 16K views | 2026-08-14 |  |
 | 3 | FolioTrade | Automated crypto trading bot | [Telegram](https://t.me/foliostack) [Bot](https://t.me/FolioTradeBot) [Site](https://trade.foliostack.net) | 57 views | 2026-08-15 |  |
-| 4 | Chainbase Network |  | [Bot](https://t.me/the_rocket_bot) [X](https://x.com/ChainbaseHQ) [Site](https://chainbase.com) [GitHub](https://github.com/chainbase-labs) | commit 2026-09-16 | 2026-09-16 |  |
+| 4 | Chainbase Network |  | [X](https://x.com/ChainbaseHQ) [Site](https://chainbase.com) [GitHub](https://github.com/chainbase-labs) | commit 2026-09-16 | 2026-09-16 |  |
 | 5 | IntelliJ Idea plugin |  | [Telegram](https://t.me/actiqapp) [X](https://x.com/actiqapp) [Site](https://plugins.jetbrains.com/plugin/23382-ton) [GitHub](https://github.com/actiquest-dev) | commit 2026-08-27 | 2026-08-27 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 6 | Minter |  | [Telegram](https://t.me/moonpacket_bot) [Bot](https://t.me/moonpacketchat) [Site](https://minter.ton.org) |  |  |  |
 | 7 | nessshon/tonutils | High-level SDK and toolkit. | [GitHub](https://github.com/nessshon/tonutils) | commit 2026-09-02 | 2026-09-02 |  |
@@ -62,7 +62,7 @@
 | 47 | Multisender | Multisender sends tokens and NFTs to multiple recipients in just three clicks | [Telegram](https://t.me/MultiSender) [Bot](https://t.me/MultisenderTONBot) [X](https://x.com/multi_sender) [Site](https://multisender.app/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 48 | Nimbus API |  | [Site](https://getnimbus.io) |  |  |  |
 | 49 | node-tonlib | Node.js C++ addon for TON. |  |  |  |  |
-| 50 | Oneclicksender |  | [Telegram](https://t.me/OneClickSender) [Bot](https://t.me/Earnigram_Fantasy_Bot) [X](https://x.com/Oneclicksender) [Site](https://ton.oneclicksender.com/) |  |  |  |
+| 50 | Oneclicksender |  | [Telegram](https://t.me/OneClickSender) [X](https://x.com/Oneclicksender) [Site](https://ton.oneclicksender.com/) |  |  |  |
 | 51 | orbs-network/ton-access | Decentralized RPC access. | [GitHub](https://github.com/orbs-network/ton-access) |  | 2023-09-05 |  |
 | 52 | Port3 |  | [Site](https://twitter.com/Port3Network) |  |  |  |
 | 53 | pytonconnect | Alternative Python SDK. | [Site](https://pypi.org/project/pytonconnect/) |  |  |  |
@@ -92,26 +92,28 @@
 | 77 | TON.SKI Access |  | [Telegram](https://t.me/tonski_eng) [Site](https://ton.ski/access/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 78 | Tonana |  | [Telegram](https://t.me/nums888) [Bot](https://t.me/nums888bot) [X](https://x.com/tonanadao) [Site](https://github.com/tonanadao) [GitHub](https://github.com/fluidicon.png) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 79 | tonfactory/tonsdk | Cells and contract wrappers. | [GitHub](https://github.com/tonfactory/tonsdk) |  | 2024-10-06 |  |
-| 80 | TonSdk.NET | C# (.NET, Unity) SDK. | [GitHub](https://github.com/continuation-team/TonSdk.NET) |  | 2025-08-19 |  |
-| 81 | Tonutils Proxy | User-friendly TON Proxy implementation. | [GitHub](https://github.com/xssnick/Tonutils-Proxy) |  | 2025-11-02 |  |
-| 82 | tonutils-dart | Dart/Flutter SDK for mobile apps. | [GitHub](https://github.com/novusnota/tonutils-dart) |  | 2024-09-12 |  |
-| 83 | TONX |  | [Telegram](https://t.me/tonxstudio) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 84 | TONX API |  | [Telegram](https://t.me/tonxapi) [X](https://x.com/TONXAPI) [Site](https://tonxapi.com/) [GitHub](https://github.com/tonxapi/sample) |  | 2025-01-21 | [tradoor 25](../archive/2025-08-tradoor.jpg) |
-| 85 | TONX Testnet Faucet | Web-based faucet service. | [Site](https://faucet.tonxapi.com/) |  |  |  |
-| 86 | TONX.JS | JavaScript SDK for TONX API. | [GitHub](https://github.com/frigatebird-studio/TONX.js) |  | 2025-01-16 |  |
-| 87 | twa-dev/boilerplate | Starter boilerplate for TWAs. | [GitHub](https://github.com/twa-dev/Boilerplate) |  | 2023-09-18 |  |
-| 88 | twa-dev/Mark42 | UI library optimized for TWAs. | [GitHub](https://github.com/twa-dev/Mark42) |  | 2024-10-04 |  |
-| 89 | twa-dev/sdk | SDK package for TWA development. | [GitHub](https://github.com/twa-dev/sdk) |  | 2025-02-05 |  |
-| 90 | TxTracer | Tool to emulate and trace any transaction from TON blockchain. | [Site](https://txtracer.ton.org) |  |  |  |
-| 91 | unity/tonconnect | Unity SDK for TON Connect. | [GitHub](https://github.com/continuation-team/unity-ton-connect) |  | 2024-07-01 |  |
-| 92 | Vanity TON |  | [Bot](https://t.me/earnigram_group) [Site](https://vanity.earnigram.com) |  |  |  |
-| 93 | VS Code Plugin | FunC syntax highlighting and tools. | [Site](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode) |  |  |  |
-| 94 | Xircus |  | [Bot](https://t.me/xircus_bot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 95 | Xtontracker |  | [Telegram](https://t.me/xtontracker) |  |  |  |
-| 96 | yungwine/TonTools | High-level library for HTTP/ADNL. | [GitHub](https://github.com/yungwine/TonTools) |  | 2024-07-24 |  |
+| 80 | TONify | TONify is a free, browser-based converter for TON addresses. | [Site](https://alexmubarakshin.github.io/tonify/) |  |  |  |
+| 81 | TONNode | TONNode gives you direct access to TON without running a node. | [Telegram](https://t.me/tonnode) [Bot](https://t.me/tonnode_chat) [Site](https://tonnode.io) |  |  |  |
+| 82 | TonSdk.NET | C# (.NET, Unity) SDK. | [GitHub](https://github.com/continuation-team/TonSdk.NET) |  | 2025-08-19 |  |
+| 83 | Tonutils Proxy | User-friendly TON Proxy implementation. | [GitHub](https://github.com/xssnick/Tonutils-Proxy) |  | 2025-11-02 |  |
+| 84 | tonutils-dart | Dart/Flutter SDK for mobile apps. | [GitHub](https://github.com/novusnota/tonutils-dart) |  | 2024-09-12 |  |
+| 85 | TONX |  | [Telegram](https://t.me/tonxstudio) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 86 | TONX API |  | [Telegram](https://t.me/tonxapi) [X](https://x.com/TONXAPI) [Site](https://tonxapi.com/) [GitHub](https://github.com/tonxapi/sample) |  | 2025-01-21 | [tradoor 25](../archive/2025-08-tradoor.jpg) |
+| 87 | TONX Testnet Faucet | Web-based faucet service. | [Site](https://faucet.tonxapi.com/) |  |  |  |
+| 88 | TONX.JS | JavaScript SDK for TONX API. | [GitHub](https://github.com/frigatebird-studio/TONX.js) |  | 2025-01-16 |  |
+| 89 | twa-dev/boilerplate | Starter boilerplate for TWAs. | [GitHub](https://github.com/twa-dev/Boilerplate) |  | 2023-09-18 |  |
+| 90 | twa-dev/Mark42 | UI library optimized for TWAs. | [GitHub](https://github.com/twa-dev/Mark42) |  | 2024-10-04 |  |
+| 91 | twa-dev/sdk | SDK package for TWA development. | [GitHub](https://github.com/twa-dev/sdk) |  | 2025-02-05 |  |
+| 92 | TxTracer | Tool to emulate and trace any transaction from TON blockchain. | [Site](https://txtracer.ton.org) |  |  |  |
+| 93 | unity/tonconnect | Unity SDK for TON Connect. | [GitHub](https://github.com/continuation-team/unity-ton-connect) |  | 2024-07-01 |  |
+| 94 | Vanity TON |  | [Bot](https://t.me/earnigram_group) [Site](https://vanity.earnigram.com) |  |  |  |
+| 95 | VS Code Plugin | FunC syntax highlighting and tools. | [Site](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode) |  |  |  |
+| 96 | Xircus |  | [Bot](https://t.me/xircus_bot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 97 | Xtontracker |  | [Telegram](https://t.me/xtontracker) |  |  |  |
+| 98 | yungwine/TonTools | High-level library for HTTP/ADNL. | [GitHub](https://github.com/yungwine/TonTools) |  | 2024-07-24 |  |
 
 ## Closed
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 97 | WebDeployer |  | [Site](https://ratingers.pythonanywhere.com/deployer/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 99 | WebDeployer |  | [Site](https://ratingers.pythonanywhere.com/deployer/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |

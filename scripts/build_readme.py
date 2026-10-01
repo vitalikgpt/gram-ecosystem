@@ -16,13 +16,16 @@ PROBLEMS = "reports/link-check.md"
 SOURCES = {
     "gramnews-q3-2026": "[Gram News map, Q3 2026](reports/2026-q3)",
     "gramnews-apps": "the [Gram News apps library](https://gramnews.org/apps)",
-    "ton.app": "[ton.app](https://ton.app) catalogue",
+    "ton.app": "[ton.app](https://ton.app) catalogue (the full sitemap, read on October 1, 2026)",
     "dyor.io": "[DYOR](https://dyor.io) catalogue",
+    "findmini": "[FindMini](https://www.findmini.app) catalogue of mini apps, the TON-related ones",
     "defillama": "[DefiLlama](https://defillama.com/chain/ton), protocols on TON",
     "tonapi-whitelist": "tokens on the [tonapi](https://tonapi.io) whitelist with a $100K market cap or 1,000 holders",
     "ton-society-ecosystem-map": "[ton-society/ecosystem-map](https://github.com/ton-society/ecosystem-map)",
     "awesome-ton": "[ton-community/awesome-ton](https://github.com/ton-community/awesome-ton)",
     "gramnews-feed": "a [@gramnews](https://t.me/gramnews) post in Q3 2026",
+    "ton-channel-posts": "a bot or product channel linked in posts of at least three different TON channels in Q3 2026 "
+    "(the `metric` column says how many)",
 }
 
 

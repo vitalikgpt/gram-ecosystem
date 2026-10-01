@@ -31,10 +31,10 @@
 | 16 | Unibot V2 |  | [Bot](https://t.me/unibotsniper_bot) |  |  |  |
 | 17 | SnapX |  | [Telegram](https://t.me/SnapX_official) [Bot](https://t.me/snapx_prod_bot) [X](https://x.com/snapx_co) [GitHub](https://github.com/snapx-co) |  |  |  |
 | 18 | ChainCrops |  | [Bot](https://t.me/chaincrops_bot) [Site](https://traffic.adsgram.ai/campaigns) |  |  |  |
-| 19 | Graph | Graph — a trading terminal for digital assets on Solana | [Bot](https://t.me/graph_dex_bot) [X](https://x.com/gramsbet) [Site](https://terminal.graphdex.io/sol/pulse) |  |  |  |
+| 19 | Graph | Graph — a trading terminal for digital assets on Solana | [Bot](https://t.me/graph_dex_bot) [Site](https://terminal.graphdex.io/sol/pulse) |  |  |  |
 | 20 | Gain Bot |  | [Bot](https://t.me/the_gain_bot) |  |  |  |
 | 21 | Bitrall |  | [Bot](https://t.me/bitrall_bot) |  |  |  |
-| 22 | Alton Trader |  | [Bot](https://t.me/altontraderbot) [X](https://x.com/TradeAlton) |  |  |  |
+| 22 | Alton Trader |  | [Telegram](https://t.me/alton_trade) [Bot](https://t.me/altontraderbot) [X](https://x.com/TradeAlton) [Site](https://altons.trade) |  |  |  |
 | 23 | Alpha Dex |  | [Telegram](https://t.me/hotonnear) [Bot](https://t.me/alpha_web3_bot) [X](https://x.com/hotdao_) |  |  |  |
 | 24 | Electra App |  | [Telegram](https://t.me/electra_channel) [Bot](https://t.me/electraappbot) [X](https://x.com/ElectraTrade) [Site](https://electra.trade) | TVL $9K |  |  |
 | 25 | Vanilla Finance |  | [Bot](https://t.me/vanilla_finance_bot) |  |  |  |
@@ -61,16 +61,16 @@
 | 46 | Moon.cx |  | [Telegram](https://t.me/mooncx_ru) [Site](https://moon.cx/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 47 | Nomiswap |  | [Site](https://nomiswap.io/swap?outputCurrency=0x76A797A59Ba2C17726896976B7B3747BfD1d220f) [GitHub](https://github.com/nominex) |  | 2023-04-21 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 48 | PancakeSwap |  | [Site](https://pancakeswap.finance/swap?outputcurrency=0x76a797a59ba2c17726896976b7b3747bfd1d220f) [GitHub](https://github.com/pancakeswap) |  | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 49 | PAPA CARLO BOT |  | [Telegram](https://t.me/papacarlotoken) [Bot](https://t.me/papacarlobot_bot) [X](https://x.com/PCtoken) [Site](https://papacarlo.tech) |  |  |  |
+| 49 | PAPA CARLO BOT |  | [Telegram](https://t.me/papacarlotoken) [Bot](https://t.me/papacarlobot_bot) [X](https://x.com/PCtoken) |  |  |  |
 | 50 | Polkaswap DEX |  | [Telegram](https://t.me/polkaswap) [Bot](https://t.me/polkaswap_io_bot) [X](https://x.com/polkaswap) [Site](https://polkaswap.io) [GitHub](https://github.com/sora-xor/polkaswap-exchange-web) |  | 2026-10-01 |  |
 | 51 | Prebit.io | Prebit.io — a decentralized exchange for trading Bitcoin with leverage up to 1001× | [Bot](https://t.me/PrebitAuthBot) [X](https://x.com/prebit_io) [Site](https://www.prebit.io) |  |  |  |
 | 52 | Snorter Bot |  | [Site](https://bs_6847cd65.medexa.care) |  |  |  |
 | 53 | Swap App |  | [Telegram](https://t.me/swapapp_news) [Bot](https://t.me/swapairbot) [X](https://x.com/SwapAppTon) |  |  |  |
 | 54 | SwapSwop |  | [Site](https://swapswop.io/) |  |  |  |
-| 55 | The Gate |  | [X](https://x.com/TheGate562007) |  |  | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
-| 56 | Trade TOKEN |  | [Telegram](https://t.me/gumcoin) [Bot](https://t.me/gumcoinBot) [Site](https://gumcoin.org/) |  |  |  |
+| 55 | The Gate |  | [Telegram](https://t.me/TheGateR) [X](https://x.com/TheGate562007) [Site](https://thegate.fun) |  |  | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
+| 56 | Trade TOKEN |  | [Telegram](https://t.me/gumcoin) [Site](https://gumcoin.org/) |  |  |  |
 | 57 | Trading Bot |  | [Bot](https://t.me/MyTonSwap_Trading_bot) |  |  |  |
-| 58 | Uniswap |  | [Telegram](https://t.me/ime_en) [Bot](https://t.me/iMe_lime_bot) [Site](https://app.uniswap.org/#/swap?outputcurrency=0x582d872a1b094fc48f5de31d3b73f2d9be47def1) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 58 | Uniswap |  | [Telegram](https://t.me/ime_en) [Site](https://app.uniswap.org/#/swap?outputcurrency=0x582d872a1b094fc48f5de31d3b73f2d9be47def1) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 59 | UpFin Trading Bot |  | [Telegram](https://t.me/upfin_bot) [Bot](https://t.me/UpFinChannel) [X](https://x.com/UpFinTrade) [Site](https://bit.ly/4lKLauS) |  |  |  |
 | 60 | UTYABSWAP |  | [Bot](https://t.me/utyabswapbot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 61 | What Swap |  | [Bot](https://t.me/what_swap_bot) [X](https://x.com/bigbangdear) [Site](https://what-swap.vercel.app/) [GitHub](https://github.com/bigbanghere/what-swap) |  | 2025-12-18 |  |

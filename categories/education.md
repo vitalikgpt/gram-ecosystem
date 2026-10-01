@@ -27,8 +27,8 @@
 | 12 | Salala Training AI |  | [Bot](https://t.me/salala_ai_training_bot) |  |  |  |
 | 13 | Tonal | Tonal — a bot with a personal AI mentor for self-discovery and creativity | [Telegram](https://t.me/tonalwin) [Bot](https://t.me/tonalwinbot) [X](https://x.com/tonalwin) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 14 | LingoTon |  | [Bot](https://t.me/lingoton_bot) [X](https://x.com/lingoton_app) |  |  |  |
-| 15 | TonTon by Intract |  | [Bot](https://t.me/tonton_intract_bot) [X](https://x.com/TonTon_Intract) [Site](https://ton.bulksender.app) |  |  |  |
-| 16 | Catia Eduverse |  | [Bot](https://t.me/catia_gamebot) [X](https://x.com/WeAreCatia) |  |  |  |
+| 15 | TonTon by Intract |  | [Telegram](https://t.me/tontonminiapp) [Bot](https://t.me/tonton_intract_bot) [X](https://x.com/TonTon_Intract) [Site](https://ton.bulksender.app) |  |  |  |
+| 16 | Catia Eduverse |  | [Bot](https://t.me/catia_gamebot) [X](https://x.com/WeAreCatia) [Site](https://catia.co/) |  |  |  |
 | 17 | Trading Simulator |  | [Bot](https://t.me/trading_simulation_bot) |  |  |  |
 | 18 | Roblet |  | [Bot](https://t.me/roblet_io_bot) |  |  |  |
 | 19 | Crazy Llama English |  | [Bot](https://t.me/CrazyLlamaEnglish_bot) |  |  |  |

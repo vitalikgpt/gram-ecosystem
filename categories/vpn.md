@@ -2,7 +2,7 @@
 
 # Privacy
 
-[Back to the list](../README.md#privacy). 18 projects: 6 active in Q3 2026, 12 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#privacy). 28 projects: 9 active in Q3 2026, 19 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -14,20 +14,30 @@
 | 4 | Resistance Tools ✓ | An open-source privacy toolkit for TON, run through the @ResistanceToolsBot bot. | [Telegram](https://t.me/resistancetools) [Bot](https://t.me/ResistanceToolsBot) [Site](https://resistance.dog) | 5K views | 2026-09-20 |  |
 | 5 | 1323vpn |  | [Telegram](https://t.me/vpn1323) [Bot](https://t.me/vpn1323bot) | 283 views | 2026-09-24 |  |
 | 6 | Connecton VPN ✓ |  | [Telegram](https://t.me/connectonbot) [GitHub](https://github.com/Connecton) | 26 views | 2026-09-15 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 7 | Need VPN & eSIM | Fast & Stable VPN & eSIM. Channel: @needapp Support: @need_supp_bot | [Bot](https://t.me/need) | mentioned by 16 TON channels in Q3 |  |  |
+| 8 | VPN Скруджа 🛜 | 📡 VPN Сервис для избранных 💬Помощь: @ScroogeHelp Канал: @ScroogeVPN | [Bot](https://t.me/scroogevpnrobot) | mentioned by 8 TON channels in Q3 |  |  |
+| 9 | Связь VPN⚡️ | Безопасный, Быстрый, Удобный и Лучший VPN на рынке с приятной ценой Наш канал:… | [Bot](https://t.me/svyazvpnrobot) | mentioned by 5 TON channels in Q3 |  |  |
 
 ## Quiet
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 7 | Depinsim |  | [Telegram](https://t.me/depinsim) [Bot](https://t.me/DepinSimBot) [X](https://x.com/depinsim) [Site](https://www.depinsim.com/) |  |  |  |
-| 8 | ConnectMeGuru eSIM |  | [Bot](https://t.me/esim_connectmeguru_bot) [X](https://x.com/connectmeguru) [Site](https://www.connectmeguru.com) |  |  |  |
-| 9 | fedafone |  | [Telegram](https://t.me/Channel_90Rich) |  |  |  |
-| 10 | Gram VPN | A VPN inside Telegram — the @GramVBot bot opens blocked websites through a… | [Telegram](https://t.me/GramVPN) [Bot](https://t.me/GramVBot) |  |  |  |
-| 11 | hitvpnbot |  | [Bot](https://t.me/hitvpnbot) |  |  |  |
-| 12 | NETZ.RUN VPN |  | [Bot](https://t.me/netzrun_bot) |  |  |  |
-| 13 | Plume Proxy |  | [Bot](https://t.me/plumeproxy_bot) |  |  |  |
-| 14 | PlusOne VPN |  | [Bot](https://t.me/plusonevpn_bot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 15 | telegramconnect |  | [Telegram](https://t.me/townwifi) [Bot](https://t.me/townwifibot) |  |  |  |
-| 16 | Tony VPN |  | [Bot](https://t.me/tony_vpn_bot) |  |  |  |
-| 17 | VPN4TON |  | [Bot](https://t.me/vpn4ton_bot) |  |  |  |
-| 18 | zonerift VPN |  | [Telegram](https://t.me/TildaApp) [Bot](https://t.me/zoneriftvpn_bot) [X](https://x.com/zoneriftvpn) |  |  |  |
+| 10 | Depinsim |  | [Telegram](https://t.me/depinsim) [Bot](https://t.me/DepinSimBot) [X](https://x.com/depinsim) [Site](https://www.depinsim.com/) |  |  |  |
+| 11 | Acton VPN | Быстрый и надёжный VPN. | [Bot](https://t.me/actonvpn_bot) | mentioned by 6 TON channels in Q3 |  |  |
+| 12 | Card 1984 {no KYC} | Telegram — @card1948robot Anonymous crypto card / 1984 VPN 1984 CARD Money Without… | [Telegram](https://t.me/card1984robot) [Bot](https://t.me/card1948robot) | mentioned by 4 TON channels in Q3 |  |  |
+| 13 | ConnectMeGuru eSIM |  | [Bot](https://t.me/esim_connectmeguru_bot) [X](https://x.com/connectmeguru) [Site](https://www.connectmeguru.com) |  |  |  |
+| 14 | DARK VPN | Телеграм - @D_K_VPN Вебсайт - cabinet.dark-vpn.com Вконтакте - vk.ru/darkvpn_official… | [Bot](https://t.me/darklightvpn_bot) | mentioned by 4 TON channels in Q3 |  |  |
+| 15 | fedafone |  | [Telegram](https://t.me/Channel_90Rich) |  |  |  |
+| 16 | Gimme VPN |  | [Bot](https://t.me/gimmelifevpn_bot) | mentioned by 5 TON channels in Q3 |  |  |
+| 17 | Gram VPN | A VPN inside Telegram — the @GramVBot bot opens blocked websites through a… | [Telegram](https://t.me/GramVPN) [Bot](https://t.me/GramVBot) |  |  |  |
+| 18 | hitvpnbot |  | [Bot](https://t.me/hitvpnbot) |  |  |  |
+| 19 | Kent VPN | Шифрование трафика, анонимность поисков и обход белых списков. Работает даже в бункере.… | [Bot](https://t.me/vpn_kentbot) | mentioned by 3 TON channels in Q3 |  |  |
+| 20 | mgs backstage | Дискорд - https://discord.gg/qCXgwjVTv ———— 💻 Лучший VPN - в разработке 🏃‍♂️ Хаб для… | [Telegram](https://t.me/mgsbackstage) [Bot](https://t.me/lumenx_robot) | mentioned by 3 TON channels in Q3 |  |  |
+| 21 | Molly VPN | 🦒MOLLY - скоростной анонимный VPN 📱Канал - @mollyVpn_community | [Bot](https://t.me/mollyvpnbot_bot) | mentioned by 4 TON channels in Q3 |  |  |
+| 22 | NETZ.RUN VPN |  | [Bot](https://t.me/netzrun_bot) |  |  |  |
+| 23 | Plume Proxy |  | [Bot](https://t.me/plumeproxy_bot) |  |  |  |
+| 24 | PlusOne VPN |  | [Bot](https://t.me/plusonevpn_bot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 25 | telegramconnect |  | [Telegram](https://t.me/townwifi) [Bot](https://t.me/townwifibot) |  |  |  |
+| 26 | Tony VPN |  | [Bot](https://t.me/tony_vpn_bot) |  |  |  |
+| 27 | VPN4TON |  | [Bot](https://t.me/vpn4ton_bot) |  |  |  |
+| 28 | zonerift VPN |  | [Telegram](https://t.me/TildaApp) [Bot](https://t.me/zoneriftvpn_bot) [X](https://x.com/zoneriftvpn) |  |  |  |

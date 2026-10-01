@@ -31,21 +31,21 @@
 | 16 | Shieldeum Node Rewards |  | [Telegram](https://t.me/predicton_news) [Bot](https://t.me/shieldeumbot) [X](https://x.com/Shieldeum) [Site](https://shieldeum.net) |  |  |  |
 | 17 | tbook |  | [Bot](https://t.me/tbook_incentive_bot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 18 | Bemo liquid staking | Bemo — a liquid staking platform on the TON blockchain | [Telegram](https://t.me/bemofinance) [Bot](https://t.me/bemo_finance_bot) [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) |  |  |  |
-| 19 | TonFarm |  | [Bot](https://t.me/tongame_farms_bot) [X](https://x.com/tongameapp) |  |  |  |
+| 19 | TonFarm |  | [Telegram](https://t.me/TonGame_app) [Bot](https://t.me/tongame_farms_bot) [X](https://x.com/tongameapp) [Site](https://farm.tongame.app/) |  |  |  |
 | 20 | SynQuest |  | [Bot](https://t.me/synquestbot) |  |  |  |
 | 21 | BounceTon Restaking |  | [Bot](https://t.me/bounceton_bot) [X](https://x.com/BouncTon) |  |  |  |
 | 22 | Buzz |  | [Bot](https://t.me/buzz_mine_bot) [X](https://x.com/BuzzWeb3_) |  |  |  |
 | 23 | G9 Token |  | [Bot](https://t.me/g9tokenbot) |  |  |  |
-| 24 | YouHold |  | [Bot](https://t.me/youhold_bot) [X](https://x.com/youhold_ton) |  |  |  |
+| 24 | YouHold |  | [Telegram](https://t.me/youhold) [Bot](https://t.me/youhold_bot) [X](https://x.com/youhold_ton) |  |  |  |
 | 25 | NotStakers |  | [Telegram](https://t.me/notcoin) [Bot](https://t.me/notstacker_bot) |  |  |  |
 | 26 | Bimcoin - TON DeFi Protocol. |  | [Telegram](https://t.me/Bimlight_Group) [Bot](https://t.me/BimlightBot) [X](https://x.com/Bim_Light) [Site](https://bimlight.org) |  |  |  |
 | 27 | Fanzee |  | [Telegram](https://t.me/viz_world) [Bot](https://t.me/viz_cx) [Site](https://app.fanz.ee/staking) [GitHub](https://github.com/viz-cx/viz-gateway) |  | 2026-08-30 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) |
 | 28 | Farmix | Leverage yield farming based on TON blockchain | [X](https://x.com/TonFarmix) |  |  |  |
-| 29 | MINTODINOS Staking |  | [X](https://x.com/TonStars_) |  |  |  |
+| 29 | MINTODINOS Staking |  |  |  |  |  |
 | 30 | Palette Finance |  | [Bot](https://t.me/palettefinancebot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 31 | TON Whales |  | [Telegram](https://t.me/whalessupportbot) [X](https://x.com/whalescorp) [GitHub](https://github.com/tonwhales) |  | 2026-08-13 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 32 | TonStake.com |  | [Bot](https://t.me/AveSniperBot) [X](https://x.com/tonstakecom) [Site](https://tonstake.com/) [GitHub](https://github.com/awesome-doge) |  | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 33 | Tonverse |  | [Bot](https://t.me/gohotbanana_bot) [X](https://x.com/verse_ton) |  |  |  |
+| 33 | Tonverse |  | [Telegram](https://t.me/GoTonverse) [Bot](https://t.me/gohotbanana_bot) [X](https://x.com/verse_ton) |  |  |  |
 | 34 | Tonyielding |  | [X](https://x.com/Tonyielding) [GitHub](https://github.com/marakitio) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 35 | UTN Staking |  | [Telegram](https://t.me/uniton_token) [Site](https://app.unitontoken.com) |  |  |  |
 | 36 | Whales Staking |  | [Telegram](https://t.me/stakeonwhales) [X](https://x.com/whalescorp) [Site](https://tonwhales.com/staking) [GitHub](https://github.com/tonwhales) |  | 2026-08-13 |  |
