@@ -126,5 +126,17 @@
  {
   "key": "gambling",
   "label": "Casino"
+ },
+ {
+  "key": "studios",
+  "label": "Studios"
+ },
+ {
+  "key": "funds",
+  "label": "Funds"
+ },
+ {
+  "key": "accelerators",
+  "label": "Accelerators"
  }
 ]

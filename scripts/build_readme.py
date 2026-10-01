@@ -151,7 +151,7 @@ def build():
         "",
         "Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, build on it.",
         "",
-        "**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [How to read it](#how-to-read-it), "
+        "**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Studios and funds](#studios-funds-and-accelerators), [How to read it](#how-to-read-it), "
         "[Data](#data), [Maps and reports](#maps-and-reports), [Contribute](#contribute)",
         "",
         "## Categories",
@@ -180,6 +180,27 @@ def build():
     for r in top:
         url = r["telegram"] or r["bot"] or r["website"] or r["x"]
         out.append(f"| [{cell(r['name'])}]({url}) | {label[r['category']]} | {short(r['description'], 70)} | {fmt(reach_n(r))} |")
+    out += [
+        "",
+        "## Studios, funds and accelerators",
+        "",
+        "Who builds and backs the projects. Each link between a project and an organisation is in "
+        "[data/relations.csv](data/relations.csv) with the page that states it.",
+        "",
+        "| Organisation | Type | Projects |",
+        "| --- | --- | --- |",
+    ]
+    rels = list(csv.DictReader(open("data/relations.csv", encoding="utf-8"))) if os.path.exists("data/relations.csv") else []
+    kind = {"studios": "studio", "funds": "fund", "accelerators": "accelerator"}
+    verb = {"built by": "built", "published by": "published", "invested by": "invested", "subsidiary of": "parent company",
+            "first cohort of": "first cohort", "part of": "owns", "part of the ecosystem of": "ecosystem", "launched by": "co-launched",
+            "venture arm of": "venture arm"}
+    for r in sorted((r for r in rows if r["category"] in kind), key=lambda r: (list(kind).index(r["category"]), -sum(1 for x in rels if x["organisation_slug"] == r["slug"]), r["name"])):
+        mine = [x for x in rels if x["organisation_slug"] == r["slug"]]
+        if not mine:
+            continue
+        out.append(f"| [{cell(r['name'])}](categories/{r['category']}.md) | {kind[r['category']]} | "
+                   + ", ".join(f"[{cell(x['project'])}]({x['source']}) ({verb.get(x['relation'], x['relation'])})" for x in mine) + " |")
     out += [
         "",
         "## How to read it",
@@ -228,6 +249,7 @@ def build():
         "| [data/categories.json](data/categories.json) | categories in display order |",
         f"| [data/link-fixes.csv](data/link-fixes.csv) | {len(fixes):,} link decisions (replaced, removed, confirmed) with evidence |",
         f"| [data/unresolved.csv](data/unresolved.csv) | {len(unresolved)} names from old maps not tied to a project yet |",
+        "| [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |",
         f"| [{PROBLEMS}]({PROBLEMS}) | {problems:,} links that failed the last check |",
         "",
         "<details><summary><b>Columns of projects.csv</b></summary>",

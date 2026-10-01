@@ -2,7 +2,7 @@
 
 # Social
 
-**106 projects: 19 active, 84 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**107 projects: 19 active, 85 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -28,7 +28,7 @@
 | 18 | **loofta** | Loofta — payment service allowing transfers in tokens or bank accounts | [Telegram](https://t.me/loofta) [Bot](https://t.me/looftabot) [X](https://x.com/looftaxyz) [Site](https://loofta.xyz) [Gram News](https://gramnews.org/apps/loofta) | 2024-08-12 | 12K views | 2026-10-01 |  |
 | 19 | **digiverse** | Digiverse is an on-chain marketplace with a Shop & Earn function | [Telegram](https://t.me/digibuycommunity) [Bot](https://t.me/digibuy_bot) [Gram News](https://gramnews.org/apps/digiverse-pzj157) | 2024-08-13 | 53 views | 2026-08-12 |  |
 
-<details><summary><b>Quiet: 84</b></summary>
+<details><summary><b>Quiet: 85</b></summary>
 
 | # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- | --- |
@@ -83,39 +83,40 @@
 | 68 | **Asiqpai** | ASIQPAI is a music-focused Telegram Mini App built on TON and powered by the ASIQ… | [Telegram](https://t.me/asiqpaihub) [Bot](https://t.me/asiqpai_bot) [X](https://x.com/asiqpai) [Site](https://asiqpai.site) [GitHub](https://github.com/qaztrap/asiqpai) | 2026-07-13 |  | 2026-10-01 |  |
 | 69 | **Atomic Star** | Платформа для коммуникации с Web3 продуктами проекта StalinFoundation на базе блокчейна… | [Bot](https://t.me/AtomicStarBot) [GitHub](https://github.com/StalinFoundation) [Gram News](https://gramnews.org/apps/atomic-star) | 2023-08-09 |  | 2024-04-21 | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 70 | **Ausum** | The ultimate challenge platform on Telegram. ausum.social | [Bot](https://t.me/ausum_bot) | 2026-04-22 | mentioned by 4 TON channels in Q3 |  |  |
-| 71 | **Fibarium** |  | [Telegram](https://t.me/fibarium) [Bot](https://t.me/fibariumbot) | 2024-12-21 |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 72 | **FireTon Drop** |  | [Telegram](https://t.me/moklgamefi) [Bot](https://t.me/mokl_io_bot) [Gram News](https://gramnews.org/apps/fireton-drop) | 2024-05-03 |  |  |  |
-| 73 | **Fox Tails** |  | [Bot](https://t.me/BearAMLBot) [Site](https://foxtails.io) [Gram News](https://gramnews.org/apps/fox-tails) | 2025-04-09 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 74 | **GoatVote** |  | [Bot](https://t.me/goatvotebot) | 2026-09-14 | mentioned by 3 TON channels in Q3 |  |  |
-| 75 | **Hamsterbabybot** | First Meme Community on Ton for Hamster Lovers .. $NOT just got a baby | [Bot](https://t.me/hansterbabybot) [Gram News](https://gramnews.org/apps/hamsterbabybot) | 2024-07-12 |  |  |  |
-| 76 | **Host.tg** | Host.tg — an app for organizing and participating in events via Telegram | [X](https://x.com/HostAppHQ) [Site](https://host.tg) [Gram News](https://gramnews.org/apps/host-tg) | 2023-12-04 |  |  |  |
-| 77 | **INFINITY** | INFINITY is an evolving visual world inside Telegram | [Telegram](https://t.me/infinity_bid) [Bot](https://t.me/infinity_bid_bot) [Site](https://infinity.bid/) | 2026-05 |  |  |  |
-| 78 | **MAROHA** | Pink MAROHA on TON | [Bot](https://t.me/maroha_hubbot) | 2026-08-23 | mentioned by 3 TON channels in Q3 |  |  |
-| 79 | **NEONEXA** | Всё про NEONEXA в одном месте — спокойно и по делу, без давления | [Bot](https://t.me/tonmason_newsbot) | 2026-06-20 | mentioned by 4 TON channels in Q3 |  |  |
-| 80 | **NFT Access Guardian Bot** | NFT Access Guardian Bot: Verifies NFT ownership for exclusive chat access | [Bot](https://t.me/access_ton_control_bot) | 2023-08-26 |  |  |  |
-| 81 | **NFTune** |  | [Bot](https://t.me/nftunebot) | 2025 |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 82 | **Peace Da Love** |  | [Site](https://peacedalove.com) [Gram News](https://gramnews.org/apps/peace-da-love) | 2023-06 |  |  |  |
-| 83 | **Photon** | Photon - a social app to express yourself, discover your friends, and bring your dreams… | [Telegram](https://t.me/The_Photon_app) [Bot](https://t.me/ThePhoton_Bot) [X](https://x.com/photon_friends) [Site](https://photonbot.tech) [Gram News](https://gramnews.org/apps/photon) | 2024-07-31 |  |  |  |
-| 84 | **Spiritual Hub** | Spiritual hub - mindfulness app aggregator | [Bot](https://t.me/spiritualhubbot) | 2025 |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 85 | **StickerFace** | Press /start to create your personal Sticker Pack | [Bot](https://t.me/stickerfacebot) [Site](https://stickerface.io/) | 2018-06-06 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 86 | **Telegram one Top** |  | [Gram News](https://gramnews.org/apps/telegram-one-top) | 2024-05 |  |  |  |
-| 87 | **the future is TON** |  | [X](https://x.com/cointool) [Site](https://ct.app) [GitHub](https://github.com/cointool-app) [Gram News](https://gramnews.org/apps/the-future-is-ton) | 2026-03-10 |  | 2026-09-23 |  |
-| 88 | **The Saudis TON** |  | [Bot](https://t.me/SauSpaceBot) [X](https://x.com/TheSaudisTON) [Gram News](https://gramnews.org/apps/the-saudis-ton) | 2022-08-02 |  |  |  |
-| 89 | **Tnc** |  | [Telegram](https://t.me/tnc_community) [Bot](https://t.me/tontncbot) | 2026-08-24 | mentioned by 19 TON channels in Q3 |  |  |
-| 90 | **TON ID** | Build your reputation with every app you use and every contribution you make | [Bot](https://t.me/ton_society_bot) | 2024-04-10 |  |  |  |
-| 91 | **TON Vote** |  | [Telegram](https://t.me/tonvotesupportgroup) [GitHub](https://github.com/orbs-network/dao-vote) | 2023-01-26 |  | 2026-06-04 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 92 | **ton.place** |  | [Site](https://ton.place) [Gram News](https://gramnews.org/apps/ton-place) | 2023-05 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 93 | **TONpie** |  | [Site](https://tonpie.io) [Gram News](https://gramnews.org/apps/tonpie) | 2024-09-30 |  |  |  |
-| 94 | **TonsOfFriends** |  | [Bot](https://t.me/toftechbot) [X](https://x.com/TonsOfFriends) [Site](https://app.tonfriends.tech) [Gram News](https://gramnews.org/apps/tonsoffriends) | 2024-04-19 |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 95 | **vnukiсh** | Привет, Друг! Ты попал в систему награждения активности Внукича | [Bot](https://t.me/vnukich_bot) | 2025-10-28 | mentioned by 5 TON channels in Q3 |  |  |
-| 96 | **Wall Telegram** | Wall Telegram is a social network with posts, graffiti, and music | [Telegram](https://t.me/wall_people) [Bot](https://t.me/wall) [Site](https://wall.tg) [Gram News](https://gramnews.org/apps/wall-telegram) | 2023-04-21 |  |  |  |
-| 97 | **WAP** |  | [Telegram](https://t.me/h0nworld) [Bot](https://t.me/weareprime_bot) [Site](https://h0n.io) [Gram News](https://gramnews.org/apps/wap) | 2025-10-19 |  |  |  |
-| 98 | **Web3Events** |  | [X](https://x.com/Web3Events_ai) | 2023-08-26 |  |  |  |
-| 99 | **WhoWhere** |  | [Gram News](https://gramnews.org/apps/whowhere) | 2023-02 |  |  |  |
-| 100 | **Криптохалва** |  | [Bot](https://t.me/beeton_kriptohalva_bot) [Gram News](https://gramnews.org/apps/cryptohalva) | 2024-01-04 |  |  |  |
-| 101 | **Hubz Chat** | Hubz Chat — a chat bot for verifying members by wallets and NFTs | [Telegram](https://t.me/Hubz_News) [Bot](https://t.me/hubz_app_bot) [X](https://x.com/hubz_chat) [Site](https://hubz.io/) [Gram News](https://gramnews.org/apps/hubz-chat) | 2024-04-26 |  | 2026-03-10 |  |
-| 102 | **TON Stars** |  | [Telegram](https://t.me/ton_stars_official) [Bot](https://t.me/ton_stars_app_bot) [X](https://x.com/tonstarsapp) [Site](https://) [Gram News](https://gramnews.org/apps/ton-stars) | 2025-04-11 |  | 2025-04-11 | [coin98-games 24](../archive/2024-05-coin98-games.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 103 | **Commander** |  | [Telegram](https://t.me/commander_ton) [X](https://x.com/commanderton) [Gram News](https://gramnews.org/apps/commander) | 2024-06-13 |  | 2024-06-19 |  |
+| 71 | **Community** | Telegram-native toolset for communities | [Bot](https://t.me/community_bot) |  |  |  |  |
+| 72 | **Fibarium** |  | [Telegram](https://t.me/fibarium) [Bot](https://t.me/fibariumbot) | 2024-12-21 |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 73 | **FireTon Drop** |  | [Telegram](https://t.me/moklgamefi) [Bot](https://t.me/mokl_io_bot) [Gram News](https://gramnews.org/apps/fireton-drop) | 2024-05-03 |  |  |  |
+| 74 | **Fox Tails** |  | [Bot](https://t.me/BearAMLBot) [Site](https://foxtails.io) [Gram News](https://gramnews.org/apps/fox-tails) | 2025-04-09 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 75 | **GoatVote** |  | [Bot](https://t.me/goatvotebot) | 2026-09-14 | mentioned by 3 TON channels in Q3 |  |  |
+| 76 | **Hamsterbabybot** | First Meme Community on Ton for Hamster Lovers .. $NOT just got a baby | [Bot](https://t.me/hansterbabybot) [Gram News](https://gramnews.org/apps/hamsterbabybot) | 2024-07-12 |  |  |  |
+| 77 | **Host.tg** | Host.tg — an app for organizing and participating in events via Telegram | [X](https://x.com/HostAppHQ) [Site](https://host.tg) [Gram News](https://gramnews.org/apps/host-tg) | 2023-12-04 |  |  |  |
+| 78 | **INFINITY** | INFINITY is an evolving visual world inside Telegram | [Telegram](https://t.me/infinity_bid) [Bot](https://t.me/infinity_bid_bot) [Site](https://infinity.bid/) | 2026-05 |  |  |  |
+| 79 | **MAROHA** | Pink MAROHA on TON | [Bot](https://t.me/maroha_hubbot) | 2026-08-23 | mentioned by 3 TON channels in Q3 |  |  |
+| 80 | **NEONEXA** | Всё про NEONEXA в одном месте — спокойно и по делу, без давления | [Bot](https://t.me/tonmason_newsbot) | 2026-06-20 | mentioned by 4 TON channels in Q3 |  |  |
+| 81 | **NFT Access Guardian Bot** | NFT Access Guardian Bot: Verifies NFT ownership for exclusive chat access | [Bot](https://t.me/access_ton_control_bot) | 2023-08-26 |  |  |  |
+| 82 | **NFTune** |  | [Bot](https://t.me/nftunebot) | 2025 |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 83 | **Peace Da Love** |  | [Site](https://peacedalove.com) [Gram News](https://gramnews.org/apps/peace-da-love) | 2023-06 |  |  |  |
+| 84 | **Photon** | Photon - a social app to express yourself, discover your friends, and bring your dreams… | [Telegram](https://t.me/The_Photon_app) [Bot](https://t.me/ThePhoton_Bot) [X](https://x.com/photon_friends) [Site](https://photonbot.tech) [Gram News](https://gramnews.org/apps/photon) | 2024-07-31 |  |  |  |
+| 85 | **Spiritual Hub** | Spiritual hub - mindfulness app aggregator | [Bot](https://t.me/spiritualhubbot) | 2025 |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 86 | **StickerFace** | Press /start to create your personal Sticker Pack | [Bot](https://t.me/stickerfacebot) [Site](https://stickerface.io/) | 2018-06-06 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 87 | **Telegram one Top** |  | [Gram News](https://gramnews.org/apps/telegram-one-top) | 2024-05 |  |  |  |
+| 88 | **the future is TON** |  | [X](https://x.com/cointool) [Site](https://ct.app) [GitHub](https://github.com/cointool-app) [Gram News](https://gramnews.org/apps/the-future-is-ton) | 2026-03-10 |  | 2026-09-23 |  |
+| 89 | **The Saudis TON** |  | [Bot](https://t.me/SauSpaceBot) [X](https://x.com/TheSaudisTON) [Gram News](https://gramnews.org/apps/the-saudis-ton) | 2022-08-02 |  |  |  |
+| 90 | **Tnc** |  | [Telegram](https://t.me/tnc_community) [Bot](https://t.me/tontncbot) | 2026-08-24 | mentioned by 19 TON channels in Q3 |  |  |
+| 91 | **TON ID** | Build your reputation with every app you use and every contribution you make | [Bot](https://t.me/ton_society_bot) | 2024-04-10 |  |  |  |
+| 92 | **TON Vote** |  | [Telegram](https://t.me/tonvotesupportgroup) [GitHub](https://github.com/orbs-network/dao-vote) | 2023-01-26 |  | 2026-06-04 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 93 | **ton.place** |  | [Site](https://ton.place) [Gram News](https://gramnews.org/apps/ton-place) | 2023-05 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 94 | **TONpie** |  | [Site](https://tonpie.io) [Gram News](https://gramnews.org/apps/tonpie) | 2024-09-30 |  |  |  |
+| 95 | **TonsOfFriends** |  | [Bot](https://t.me/toftechbot) [X](https://x.com/TonsOfFriends) [Site](https://app.tonfriends.tech) [Gram News](https://gramnews.org/apps/tonsoffriends) | 2024-04-19 |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 96 | **vnukiсh** | Привет, Друг! Ты попал в систему награждения активности Внукича | [Bot](https://t.me/vnukich_bot) | 2025-10-28 | mentioned by 5 TON channels in Q3 |  |  |
+| 97 | **Wall Telegram** | Wall Telegram is a social network with posts, graffiti, and music | [Telegram](https://t.me/wall_people) [Bot](https://t.me/wall) [Site](https://wall.tg) [Gram News](https://gramnews.org/apps/wall-telegram) | 2023-04-21 |  |  |  |
+| 98 | **WAP** |  | [Telegram](https://t.me/h0nworld) [Bot](https://t.me/weareprime_bot) [Site](https://h0n.io) [Gram News](https://gramnews.org/apps/wap) | 2025-10-19 |  |  |  |
+| 99 | **Web3Events** |  | [X](https://x.com/Web3Events_ai) | 2023-08-26 |  |  |  |
+| 100 | **WhoWhere** |  | [Gram News](https://gramnews.org/apps/whowhere) | 2023-02 |  |  |  |
+| 101 | **Криптохалва** |  | [Bot](https://t.me/beeton_kriptohalva_bot) [Gram News](https://gramnews.org/apps/cryptohalva) | 2024-01-04 |  |  |  |
+| 102 | **Hubz Chat** | Hubz Chat — a chat bot for verifying members by wallets and NFTs | [Telegram](https://t.me/Hubz_News) [Bot](https://t.me/hubz_app_bot) [X](https://x.com/hubz_chat) [Site](https://hubz.io/) [Gram News](https://gramnews.org/apps/hubz-chat) | 2024-04-26 |  | 2026-03-10 |  |
+| 103 | **TON Stars** |  | [Telegram](https://t.me/ton_stars_official) [Bot](https://t.me/ton_stars_app_bot) [X](https://x.com/tonstarsapp) [Site](https://) [Gram News](https://gramnews.org/apps/ton-stars) | 2025-04-11 |  | 2025-04-11 | [coin98-games 24](../archive/2024-05-coin98-games.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 104 | **Commander** |  | [Telegram](https://t.me/commander_ton) [X](https://x.com/commanderton) [Gram News](https://gramnews.org/apps/commander) | 2024-06-13 |  | 2024-06-19 |  |
 
 </details>
 
@@ -123,8 +124,8 @@
 
 | # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- | --- |
-| 104 | **Lost Dogs** | A detective game in the 'signals' genre in Telegram | [Telegram](https://t.me/lostdogscoeng) [Bot](https://t.me/lost_dogs_bot) [X](https://x.com/lostdogsco) [Site](https://app.vpn.diamonds/) | 2023-02-16 |  | 2026-02-21 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 105 | **Uniton** |  | [Bot](https://t.me/UnitonAIBot) [X](https://x.com/UnitonAI) [Site](https://www.uniton.ai) | 2024-03-09 |  |  | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 106 | **DOGWIFHOOD** |  | [Telegram](https://t.me/dogwifhood_TON) [X](https://x.com/dogwifhoodTON) [Site](https://wifhood.dog/) | 2024-03-15 |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 105 | **Lost Dogs** | A detective game in the 'signals' genre in Telegram | [Telegram](https://t.me/lostdogscoeng) [Bot](https://t.me/lost_dogs_bot) [X](https://x.com/lostdogsco) [Site](https://app.vpn.diamonds/) | 2023-02-16 |  | 2026-02-21 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 106 | **Uniton** |  | [Bot](https://t.me/UnitonAIBot) [X](https://x.com/UnitonAI) [Site](https://www.uniton.ai) | 2024-03-09 |  |  | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 107 | **DOGWIFHOOD** |  | [Telegram](https://t.me/dogwifhood_TON) [X](https://x.com/dogwifhoodTON) [Site](https://wifhood.dog/) | 2024-03-15 |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 
 </details>

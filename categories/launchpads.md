@@ -2,7 +2,7 @@
 
 # Memepads
 
-**77 projects: 17 active, 59 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**79 projects: 17 active, 61 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -26,7 +26,7 @@
 | 16 | **NitroChain** | NitroChain — blockchain infrastructure for fast and low-cost transactions | [Telegram](https://t.me/NitrochainNews) [Bot](https://t.me/nitrochainbot) [X](https://x.com/Nitrochainapp) [Site](https://nitrochain.space/) [Gram News](https://gramnews.org/apps/nitrochain) | 2023-12-07 | 1K views, 59 MAU | 2026-08-04 |  |
 | 17 | **Tonstarter** | Tonstarter — a launchpad for projects on TON | [Bot](https://t.me/ton_starter_bot) [X](https://x.com/ton_starter) [Site](https://tonstarter.com) [Gram News](https://gramnews.org/apps/tonstarter) | 2022-02-23 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 
-<details><summary><b>Quiet: 59</b></summary>
+<details><summary><b>Quiet: 61</b></summary>
 
 | # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- | --- |
@@ -74,21 +74,23 @@
 | 59 | **Hypecoin** |  | [Telegram](https://t.me/hypecoinnews) [X](https://x.com/HypecoinFinance) [Gram News](https://gramnews.org/apps/hypecoin) | 2024-06-07 |  |  |  |
 | 60 | **Investment kingyru EN** |  | [X](https://x.com/kingyru) [Gram News](https://gramnews.org/apps/investment-kingyru-en) | 2022-02-14 |  |  |  |
 | 61 | **ListingUz** |  | [Bot](https://t.me/cryptowood_mini_app_bot) [Gram News](https://gramnews.org/apps/listinguz) | 2023-02-11 |  |  |  |
-| 62 | **Pandastic** |  | [Bot](https://t.me/pandastic_bot) [X](https://x.com/pandastic_io) [Gram News](https://gramnews.org/apps/pandastic) | 2024-06-23 |  |  |  |
-| 63 | **Preseller** | Launch secure presale campaign on the TON blockchain in 5 minutes | [Bot](https://t.me/tonpreseller_bot) [Gram News](https://gramnews.org/apps/preseller) | 2025-01 |  |  |  |
-| 64 | **Quick** |  | [Bot](https://t.me/quick_tg_bot) [Gram News](https://gramnews.org/apps/quick) | 2024-08-15 |  |  |  |
-| 65 | **SolanaForge** | SolanaForge is a no-code multi-chain token creation platform that makes launching Web3… | [Telegram](https://t.me/SolanaForgeGroup) [X](https://x.com/solanaforgeapp) [Site](https://solanaforge.app) [GitHub](https://github.com/SolanaForge/SolanaForge) | 2026-05-10 |  | 2026-05-29 |  |
-| 66 | **TAND3M** | TAND3M – a platform for launching tokens and NFTs via LBP on the TON blockchain | [Bot](https://t.me/Tand3m_bot) [X](https://x.com/TAND3M_Official) [Site](https://tand3m.io/) [Gram News](https://gramnews.org/apps/tand3m) | 2024-12-13 |  |  |  |
-| 67 | **TON Gagarin World** |  | [Telegram](https://t.me/ton_gagarin_world_chat) [X](https://x.com/GAGARIN_World) | 2022-02-07 |  |  |  |
-| 68 | **TON INU Launchpad** |  | [Telegram](https://t.me/toninutools) [Bot](https://t.me/theontonbot) [X](https://x.com/toninutools) [Site](https://app.toninu.tech/launchpad) [Gram News](https://gramnews.org/apps/ton-inu-launchpad) | 2024-01-12 |  |  |  |
-| 69 | **ton.fun** |  | [Bot](https://t.me/tonfunbot) | 2024-10-16 |  |  | [messari 26](../archive/2026-05-messari.jpg) |
-| 70 | **TonPump.app** | TonPump Memes Launchpad Community | [Telegram](https://t.me/tonpump_community) [X](https://x.com/TonPump_app) | 2024-12-06 | TVL $2K |  |  |
-| 71 | **TONUP** |  | [X](https://x.com/TonUP_io) [Site](https://tonup.io/) [Gram News](https://gramnews.org/apps/tonup) | 2023-04 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 72 | **Orexn** |  | [Telegram](https://t.me/OrexnApp) [Bot](https://t.me/Orexnbot) [X](https://x.com/OrexnX) [Gram News](https://gramnews.org/apps/orexn) | 2025-07-25 |  | 2026-05-02 |  |
-| 73 | **Ton Launchpad** |  | [Telegram](https://t.me/TheTonlaunch_pad) [Bot](https://t.me/tonlaunchpadofficial_bot) [X](https://x.com/thetonlaunchpad) [Site](https://tonlaunchpad.com/) [Gram News](https://gramnews.org/apps/ton-launchpad) | 2025-04-09 |  | 2025-04-10 |  |
-| 74 | **Capitalist** |  | [Telegram](https://t.me/capitalist_web3) [Bot](https://t.me/wisekeeperbot) [X](https://x.com/capitalistweb3) [Gram News](https://gramnews.org/apps/capitalist) | 2024-10-25 |  | 2024-10-25 |  |
-| 75 | **Purr.Fund** | The first Community-Driven Launchpad & Launchpool | [Telegram](https://t.me/purr_news) [Bot](https://t.me/purr_fund_bot) [X](https://x.com/PurrFund) [GitHub](https://github.com/PurrFund/SC-Purr) [Gram News](https://gramnews.org/apps/purr-fund) | 2024-04-09 |  | 2024-10-09 |  |
-| 76 | **TONpad** | TONpad - The first and premier Community-driven Token Launch Protocol on TON Blockchain | [Telegram](https://t.me/TONpad_news) [X](https://x.com/TON_launchpad) [GitHub](https://github.com/tonpad) [Gram News](https://gramnews.org/apps/tonpad) | 2024-03-20 |  | 2024-06-25 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 62 | **Memes Lab** | LAB launcher: create, trade, develop | [Bot](https://t.me/memeslabbot) |  |  |  |  |
+| 63 | **Memetics** | Home of Telegram mini economies | [Telegram](https://t.me/memetics_news) |  |  |  |  |
+| 64 | **Pandastic** |  | [Bot](https://t.me/pandastic_bot) [X](https://x.com/pandastic_io) [Gram News](https://gramnews.org/apps/pandastic) | 2024-06-23 |  |  |  |
+| 65 | **Preseller** | Launch secure presale campaign on the TON blockchain in 5 minutes | [Bot](https://t.me/tonpreseller_bot) [Gram News](https://gramnews.org/apps/preseller) | 2025-01 |  |  |  |
+| 66 | **Quick** |  | [Bot](https://t.me/quick_tg_bot) [Gram News](https://gramnews.org/apps/quick) | 2024-08-15 |  |  |  |
+| 67 | **SolanaForge** | SolanaForge is a no-code multi-chain token creation platform that makes launching Web3… | [Telegram](https://t.me/SolanaForgeGroup) [X](https://x.com/solanaforgeapp) [Site](https://solanaforge.app) [GitHub](https://github.com/SolanaForge/SolanaForge) | 2026-05-10 |  | 2026-05-29 |  |
+| 68 | **TAND3M** | TAND3M – a platform for launching tokens and NFTs via LBP on the TON blockchain | [Bot](https://t.me/Tand3m_bot) [X](https://x.com/TAND3M_Official) [Site](https://tand3m.io/) [Gram News](https://gramnews.org/apps/tand3m) | 2024-12-13 |  |  |  |
+| 69 | **TON Gagarin World** |  | [Telegram](https://t.me/ton_gagarin_world_chat) [X](https://x.com/GAGARIN_World) | 2022-02-07 |  |  |  |
+| 70 | **TON INU Launchpad** |  | [Telegram](https://t.me/toninutools) [Bot](https://t.me/theontonbot) [X](https://x.com/toninutools) [Site](https://app.toninu.tech/launchpad) [Gram News](https://gramnews.org/apps/ton-inu-launchpad) | 2024-01-12 |  |  |  |
+| 71 | **ton.fun** |  | [Bot](https://t.me/tonfunbot) | 2024-10-16 |  |  | [messari 26](../archive/2026-05-messari.jpg) |
+| 72 | **TonPump.app** | TonPump Memes Launchpad Community | [Telegram](https://t.me/tonpump_community) [X](https://x.com/TonPump_app) | 2024-12-06 | TVL $2K |  |  |
+| 73 | **TONUP** |  | [X](https://x.com/TonUP_io) [Site](https://tonup.io/) [Gram News](https://gramnews.org/apps/tonup) | 2023-04 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 74 | **Orexn** |  | [Telegram](https://t.me/OrexnApp) [Bot](https://t.me/Orexnbot) [X](https://x.com/OrexnX) [Gram News](https://gramnews.org/apps/orexn) | 2025-07-25 |  | 2026-05-02 |  |
+| 75 | **Ton Launchpad** |  | [Telegram](https://t.me/TheTonlaunch_pad) [Bot](https://t.me/tonlaunchpadofficial_bot) [X](https://x.com/thetonlaunchpad) [Site](https://tonlaunchpad.com/) [Gram News](https://gramnews.org/apps/ton-launchpad) | 2025-04-09 |  | 2025-04-10 |  |
+| 76 | **Capitalist** |  | [Telegram](https://t.me/capitalist_web3) [Bot](https://t.me/wisekeeperbot) [X](https://x.com/capitalistweb3) [Gram News](https://gramnews.org/apps/capitalist) | 2024-10-25 |  | 2024-10-25 |  |
+| 77 | **Purr.Fund** | The first Community-Driven Launchpad & Launchpool | [Telegram](https://t.me/purr_news) [Bot](https://t.me/purr_fund_bot) [X](https://x.com/PurrFund) [GitHub](https://github.com/PurrFund/SC-Purr) [Gram News](https://gramnews.org/apps/purr-fund) | 2024-04-09 |  | 2024-10-09 |  |
+| 78 | **TONpad** | TONpad - The first and premier Community-driven Token Launch Protocol on TON Blockchain | [Telegram](https://t.me/TONpad_news) [X](https://x.com/TON_launchpad) [GitHub](https://github.com/tonpad) [Gram News](https://gramnews.org/apps/tonpad) | 2024-03-20 |  | 2024-06-25 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 
 </details>
 
@@ -96,6 +98,6 @@
 
 | # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- | --- |
-| 77 | **Pumpers.tg** | Launch and Trade Memecoins on TON | [Telegram](https://t.me/pumpers) [X](https://x.com/pumperstg) | 2024-05-21 | 13K views | 2026-09-30 |  |
+| 79 | **Pumpers.tg** | Launch and Trade Memecoins on TON | [Telegram](https://t.me/pumpers) [X](https://x.com/pumperstg) | 2024-05-21 | 13K views | 2026-09-30 |  |
 
 </details>

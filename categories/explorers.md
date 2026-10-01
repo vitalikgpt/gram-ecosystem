@@ -10,7 +10,7 @@
 | ---: | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Tonscan.org** ✓ |  | [Telegram](https://t.me/catchain) [Site](https://tonscan.org) [Gram News](https://gramnews.org/apps/tonscan) | 2019-01-28 | 8K views | 2026-09-18 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 2 | **Tonviewer** ✓ |  | [X](https://x.com/bestramp_io) [Site](https://tonviewer.com) [Gram News](https://gramnews.org/apps/tonviewer) | 2023-05-20 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 3 | **Tonscan.com** ✓ |  | [X](https://x.com/bastion) [Site](https://tonscan.com) [Gram News](https://gramnews.org/apps/tonscan-com) | 2023-05-02 |  |  |  |
+| 3 | **Tonscan.com** ✓ |  | [Site](https://tonscan.com) [Gram News](https://gramnews.org/apps/tonscan-com) | 2023-05-02 |  |  |  |
 | 4 | **Actonscan** ✓ | An open-source TON explorer by TON Core — accounts, transactions, blocks, tokens and… | [Site](https://actonscan.com) [Gram News](https://gramnews.org/apps/actonscan) | 2026-06-06 |  |  |  |
 | 5 | **TON NFT Explorer** ✓ |  | [Telegram](https://t.me/this_is_ton) [Site](https://explorer.tonnft.tools) [Gram News](https://gramnews.org/apps/ton-nft-explorer) | 2022-01-07 | 6K views | 2026-09-17 |  |
 | 6 | **TonScan.info** ✓ |  | [Site](https://tonscan.info) | 2022-03-14 |  |  |  |

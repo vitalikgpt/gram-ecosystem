@@ -72,5 +72,12 @@ for i, r in enumerate(csv.DictReader(open("data/channels.csv", encoding="utf-8")
 for i, r in enumerate(csv.DictReader(open("data/channels.csv", encoding="utf-8")), start=2):
     if not re.fullmatch(r"https://t\.me/[A-Za-z0-9_]{4,}", r["telegram"]):
         errors.append(f"data/channels.csv:{i}: telegram must look like https://t.me/username")
+import os
+if os.path.exists("data/relations.csv"):
+    for i, x in enumerate(csv.DictReader(open("data/relations.csv", encoding="utf-8")), start=2):
+        if x["project_slug"] not in seen or x["organisation_slug"] not in seen:
+            errors.append(f"data/relations.csv:{i}: unknown slug")
+        if not x["source"].startswith("https://"):
+            errors.append(f"data/relations.csv:{i}: source must be an https:// link")
 print("\n".join(errors) or "data/ is valid")
 sys.exit(1 if errors else 0)
