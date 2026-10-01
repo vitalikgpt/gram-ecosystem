@@ -12,6 +12,10 @@ are not tied to a project yet. Start there.
 2. Replace the wrong value. Links are full `https://` URLs: `https://t.me/username`, `https://x.com/handle`.
 3. In the pull request, say where the right link comes from: the project's own site, its channel bio,
    a pinned post. One source is enough when it is the project's own.
+4. Add a row to [data/link-fixes.csv](data/link-fixes.csv): `date`, `slug`, `name`, `field`, `action`
+   (`replace`, `remove` or `confirm`), `old`, `new`, and `evidence`, the page that proves it. `confirm` keeps
+   a link that looks wrong but is right (a project posting under its company's account, say) and stops the
+   check from flagging it again. `python3 scripts/apply_fixes.py` applies the file to the data.
 
 ## Tie a name from an old map
 

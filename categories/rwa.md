@@ -9,7 +9,7 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | XAUt |  | [Telegram](https://t.me/tether) [Site](https://gold.tether.to) | 77K views | 2026-09-28 | [ton 25](../archive/2025-07-ton.jpg) |
-| 2 | Stable Metal ✓ |  | [Telegram](https://t.me/stablemetal) [X](https://x.com/stable_metal) [Site](https://stablemetal.com) [GitHub](https://github.com/Stable-Metal/SLAG-Collection) | 2K views | 2026-08-21 |  |
+| 2 | Stable Metal ✓ |  | [Telegram](https://t.me/stablemetal) [Bot](https://t.me/Stable_metal_bot) [X](https://x.com/stable_metal) [Site](https://stablemetal.com) [GitHub](https://github.com/Stable-Metal/SLAG-Collection) | 2K views | 2026-08-21 |  |
 | 3 | USDT |  | [Site](https://tether.to) |  |  |  |
 | 4 | Ethena USDe |  | [Site](https://ethena.fi) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 
@@ -18,7 +18,7 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 5 | Diamore |  | [Telegram](https://t.me/diamoremarket) [Bot](https://t.me/diamorecryptobot) [X](https://x.com/diamore_market) [Site](https://diamore.co) |  |  |  |
-| 6 | SOLARIAN TECH |  | [Bot](https://t.me/solariantechbot) [X](https://x.com/MOONTOKENMINING) |  |  |  |
+| 6 | SOLARIAN TECH |  | [Bot](https://t.me/solariantechbot) |  |  |  |
 | 7 | TokenizeTrade |  | [Telegram](https://t.me/tokenizetrade) [Bot](https://t.me/tokenizetradebot) [X](https://x.com/tokenizetrade) [Site](https://www.tokenize.trade) |  |  |  |
 | 8 | Aqua Protocol |  | [Telegram](https://t.me/aquaprotocolxyz) [X](https://x.com/aquaprotocolxyz) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 9 | Nexton | NEXTON is a staking and arbitrage platform designed to maximize rewards in the TON… | [X](https://x.com/NextonNode) [Site](https://www.nexton.solutions) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |

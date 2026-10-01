@@ -18,7 +18,7 @@
 | 8 | SOREN | SOREN is a digital identity layer on the TON blockchain. | [Telegram](https://t.me/SORENCHANNEL) [Bot](https://t.me/SORENCOMMUNITY) [X](https://x.com/ownsoren) [Site](https://www.soren.today/) | 4K views | 2026-09-08 |  |
 | 9 | webappz |  | [Telegram](https://t.me/webappz) [Bot](https://t.me/webappzconnectbot) [Site](https://webappz.org) | 2K views, 993 MAU | 2026-07-20 |  |
 | 10 | Portal Network | Portal Network — a bot for managing a network of electric vehicle charging stations | [Telegram](https://t.me/portal_energy) [Bot](https://t.me/portal_network_bot) [X](https://x.com/PortalNetwork_) [Site](https://portalnetwork.tech) | 265 views | 2026-08-10 |  |
-| 11 | TON Box |  | [Telegram](https://t.me/stakeonwhales) [X](https://x.com/whalescorp) [Site](https://storage-two.vercel.app/) [GitHub](https://github.com/tonwhales) | commit 2026-08-13 | 2026-08-13 |  |
+| 11 | TON Box |  | [Telegram](https://t.me/stakeonwhales) [Site](https://storage-two.vercel.app/) [GitHub](https://github.com/tonwhales) | commit 2026-08-13 | 2026-08-13 |  |
 | 12 | Workix | Workix — platform for finding and applying to freelance tasks | [Bot](https://t.me/workix_tbot) [Site](https://workix.co) [GitHub](https://github.com/facetoplace/Workix) | commit 2026-09-23 | 2026-09-23 |  |
 
 ## Quiet
@@ -27,7 +27,7 @@
 | ---: | --- | --- | --- | --- | --- | --- |
 | 13 | GMCoin | 🛌 Early to bed | [Telegram](https://t.me/GMCoinChannel) [Bot](https://t.me/thegmcoinbot) |  |  |  |
 | 14 | Nundu |  | [Bot](https://t.me/nunducryptobot) |  |  |  |
-| 15 | Time TON Ecosystem |  | [Bot](https://t.me/timetonbot) |  |  |  |
+| 15 | Time TON Ecosystem |  |  |  |  |  |
 | 16 | BRN Tap |  | [Bot](https://t.me/brntap_bot) |  |  |  |
 | 17 | NUMA |  | [Bot](https://t.me/numasocialbot) [X](https://x.com/NUMAsocial) |  |  |  |
 | 18 | TrumPump SEASON I |  | [Bot](https://t.me/trumpumpbot) |  |  |  |
@@ -35,39 +35,39 @@
 | 20 | Slof |  | [Bot](https://t.me/slofbot) [X](https://x.com/SlofBot) |  |  |  |
 | 21 | Bottle Up |  | [Bot](https://t.me/bottleupmining_bot) [X](https://x.com/Athene_Network) |  |  |  |
 | 22 | Farty Bot |  | [Telegram](https://t.me/fartyfam) [Bot](https://t.me/fartyberabot) [X](https://x.com/fartybera) |  |  |  |
-| 23 | Not Task |  | [Telegram](https://t.me/tongiftsnews) [Bot](https://t.me/not_task_bot) [X](https://x.com/TonGiftsbot) |  |  |  |
+| 23 | Not Task |  | [Telegram](https://t.me/tongiftsnews) [Bot](https://t.me/not_task_bot) |  |  |  |
 | 24 | Reputation Builder |  | [Bot](https://t.me/reputationbuilderbot) [X](https://x.com/GalacticaNet) [Site](https://Galactica.com) |  |  |  |
-| 25 | Hybrid Mini App |  | [Bot](https://t.me/hybridminiappbot) [X](https://x.com/SiriusPad_) |  |  |  |
-| 26 | Mole |  | [Bot](https://t.me/tonmole_bot) [X](https://x.com/KoloHub) |  |  |  |
-| 27 | Teletop |  | [Bot](https://t.me/the_teletop_bot) [X](https://x.com/Tomtalkofficial) |  |  |  |
+| 25 | Hybrid Mini App |  | [Bot](https://t.me/hybridminiappbot) |  |  |  |
+| 26 | Mole |  | [Bot](https://t.me/tonmole_bot) |  |  |  |
+| 27 | Teletop |  | [Bot](https://t.me/the_teletop_bot) |  |  |  |
 | 28 | CallFluent |  | [Telegram](https://t.me/callfluentai) [Bot](https://t.me/callfluent_bot) [X](https://x.com/callfluentai) |  |  |  |
-| 29 | GoldVerseBot |  | [Bot](https://t.me/goldversebot) [X](https://x.com/GAMEEToken) |  |  |  |
+| 29 | GoldVerseBot |  | [Bot](https://t.me/goldversebot) |  |  |  |
 | 30 | Pell Gem |  | [Bot](https://t.me/gemcoinapp_bot) |  |  |  |
 | 31 | Guardify AI |  | [Bot](https://t.me/guardifybot) |  |  |  |
 | 32 | Glow |  | [Bot](https://t.me/secretglowbot) [X](https://x.com/Glow_Stories) |  |  |  |
 | 33 | TWITRIS | TWITRIS — a Telegram mini app for handling NFT gifts | [Telegram](https://t.me/expert_tm) [Bot](https://t.me/twitris_bot) [Site](https://twitris.com) |  |  |  |
 | 34 | Ghost Drive App |  | [Bot](https://t.me/ghostdrive_bot) |  |  |  |
 | 35 | degenerative | A Telegram bot agent with autonomous operation on TON | [Telegram](https://t.me/degenerativespace) [Bot](https://t.me/degenerativespacebot) [X](https://x.com/degespace) [Site](https://degenerative.space) |  |  |  |
-| 36 | Web3 Jobs Bot | Web3 Jobs Bot — tool for tracking Web3 job openings | [Telegram](https://t.me/tonpro_for_builders) [Bot](https://t.me/jobs_web3_bot) [X](https://x.com/xrayWeb3) [Site](https://web3jobs.online/) |  |  |  |
+| 36 | Web3 Jobs Bot | Web3 Jobs Bot — tool for tracking Web3 job openings | [Bot](https://t.me/jobs_web3_bot) [X](https://x.com/xrayWeb3) [Site](https://web3jobs.online/) |  |  |  |
 | 37 | Crypto Trader's Calc |  | [Telegram](https://t.me/C4B_Best_Telegram_Bots) [Bot](https://t.me/TradersCalculatorBot) |  |  |  |
 | 38 | Game Cashback Calc |  | [Telegram](https://t.me/C4B_Best_Telegram_Bots) [Bot](https://t.me/CashbackGameBot) |  |  |  |
-| 39 | AdBuy |  | [Telegram](https://t.me/Crypton_Deploys) [X](https://x.com/thetonhub) |  |  |  |
-| 40 | Auto Orbit |  | [Telegram](https://t.me/autoorbitbot) |  |  |  |
+| 39 | AdBuy |  | [Telegram](https://t.me/Crypton_Deploys) |  |  |  |
+| 40 | Auto Orbit |  |  |  |  |  |
 | 41 | BIME |  | [Telegram](https://t.me/bime_ann) [Bot](https://t.me/btc_is_meme_bot) [X](https://x.com/btc_is_meme) |  |  |  |
 | 42 | Bulksender |  | [Bot](https://t.me/bulksenderbot) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 43 | Decibling Lite |  | [Telegram](https://t.me/decibling) [Bot](https://t.me/decibling_lite_bot) [X](https://x.com/decibling) [Site](https://decibling.com) [GitHub](https://github.com/decibling) |  | 2024-07-15 |  |
 | 44 | EZY TON |  | [Telegram](https://t.me/ezyton) [Site](https://ezyton.com/) |  |  |  |
 | 45 | Find & Check |  | [Bot](https://t.me/findcheckbot) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 46 | Foldee |  | [Bot](https://t.me/foldee_bot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 47 | Manage Ton Subdomain | Manage .ton subdomains directly in Telegram. | [Telegram](https://t.me/ton_subdomain_bot) [Bot](https://t.me/earnigram) [X](https://x.com/earnigram) [Site](https://subdomain.earnigram.com) |  |  |  |
+| 47 | Manage Ton Subdomain | Manage .ton subdomains directly in Telegram. | [Telegram](https://t.me/ton_subdomain_bot) [Bot](https://t.me/earnigram) [Site](https://subdomain.earnigram.com) |  |  |  |
 | 48 | RevYou |  | [Bot](https://t.me/revyou_bot) [X](https://x.com/revyouxyz) |  |  |  |
-| 49 | SplitFast | SplitFast — a mini app for splitting expenses in Telegram | [Telegram](https://t.me/SplitFastBot) [Site](https://splitfast.io) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 50 | T - Card |  | [Bot](https://t.me/tcard_job_bot) [X](https://x.com/Tools_MiniApps) |  |  |  |
-| 51 | TEPE |  | [Telegram](https://t.me/sirex_io) [Bot](https://t.me/sirexio_bot) [X](https://x.com/ton_tepe) [Site](https://sirex.io) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 52 | TON Byte |  | [Telegram](https://t.me/defexa) [X](https://x.com/atomhq) [Site](https://tonbyte.com) [GitHub](https://github.com/tonbyte) |  | 2023-09-11 |  |
+| 49 | SplitFast | SplitFast — a mini app for splitting expenses in Telegram | [Bot](https://t.me/SplitFastBot) [Site](https://splitfast.io) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 50 | T - Card |  | [Bot](https://t.me/tcard_job_bot) |  |  |  |
+| 51 | TEPE |  | [Telegram](https://t.me/sirex_io) [Bot](https://t.me/sirexio_bot) [X](https://x.com/ton_tepe) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 52 | TON Byte |  | [X](https://x.com/atomhq) [Site](https://tonbyte.com) [GitHub](https://github.com/tonbyte) |  | 2023-09-11 |  |
 | 53 | TON Grafana | Blockchain metrics visualization. | [Site](https://tonmon.xyz/) |  |  |  |
 | 54 | TON Multisender | Batch transaction tool for TON and Jettons. | [Site](https://ton.multisender.app/) |  |  |  |
 | 55 | TON Names | Registers short TON NFT domains that point straight to a wallet, and manages them at… | [Telegram](https://t.me/tonnames) [Site](https://tonnames.org) |  |  |  |
 | 56 | TON Sign |  | [Telegram](https://t.me/tondocsign_bot) [Site](https://tonsign.com/privacy?lang=en) |  |  |  |
 | 57 | TonGo | TonGo — a .ton domains and subdomains management service | [Telegram](https://t.me/dotTonBot) [Bot](https://t.me/tongonews) [Site](https://tongo.run) [GitHub](https://github.com/tongochi/DEX) |  | 2023-12-14 | [tonpost 23](../archive/2023-10-tonpost.jpg) [coin98-games 24](../archive/2024-02-coin98-games.jpg) [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
-| 58 | UserCoin App |  | [Bot](https://t.me/crypto_iq_bot) [X](https://x.com/chickizenTON) |  |  |  |
+| 58 | UserCoin App |  | [Bot](https://t.me/crypto_iq_bot) |  |  |  |

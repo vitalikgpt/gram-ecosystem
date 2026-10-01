@@ -8,7 +8,7 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | MOONBERG AI BOT | MOONBERG AI BOT — AI-powered crypto trading tool | [Telegram](https://t.me/moonbergai) [Bot](https://t.me/moonbergai_bot) [X](https://x.com/moonberg) [Site](https://coming.It) [GitHub](https://github.com/Emmet-Finance) | 141K views, 12K MAU | 2026-09-10 |  |
+| 1 | MOONBERG AI BOT | MOONBERG AI BOT — AI-powered crypto trading tool | [Telegram](https://t.me/moonbergai) [Bot](https://t.me/moonbergai_bot) [X](https://x.com/moonberg) [Site](https://moonberg.com) [GitHub](https://github.com/Emmet-Finance) | 141K views, 12K MAU | 2026-09-10 |  |
 | 2 | Reverie | A mini app for chatting with virtual characters who have their own memory and… | [Bot](https://t.me/reverie_ai_bot) | 53K MAU |  |  |
 | 3 | Creator. AI Video |  | [Telegram](https://t.me/creator_prompts) [Bot](https://t.me/creator_ai_tech_bot) [Site](https://Gensta.ai) | 15K views, 19K MAU | 2026-09-27 |  |
 | 4 | Meme Me |  | [Bot](https://t.me/mememebot_bot) | 10K MAU |  |  |
@@ -25,13 +25,13 @@
 | 10 | SWAYE AI |  | [Bot](https://t.me/swaye_ai_bot) |  |  |  |
 | 11 | JarvisBot |  | [Bot](https://t.me/jarvisbot_ai_bot) [X](https://x.com/booinuinfo) |  |  |  |
 | 12 | MozoAI Bot |  | [Telegram](https://t.me/ShillGuardOfficial) [Bot](https://t.me/mozoai_bot) [X](https://x.com/Mozo_xyz) |  |  |  |
-| 13 | Tearline Bot |  | [Bot](https://t.me/tearlineai_bot) [X](https://x.com/Tonshi_2024) |  |  |  |
+| 13 | Tearline Bot |  | [Bot](https://t.me/tearlineai_bot) |  |  |  |
 | 14 | Yoda AI |  | [Bot](https://t.me/yodabot) |  |  |  |
 | 15 | NeronAI |  | [Telegram](https://t.me/neron_news) [Bot](https://t.me/neronai_bot) [Site](https://neron.ai) |  |  |  |
 | 16 | NexaBit AI |  | [Telegram](https://t.me/nexabitHQ) [Bot](https://t.me/NexaBit_Tap_bot) [X](https://x.com/nexabitHQ) [Site](https://nexabit.web.app) |  |  |  |
-| 17 | Fragment Checker Bot |  | [Telegram](https://t.me/opt_snap) [Bot](https://t.me/optsnap_bot) |  |  |  |
+| 17 | Fragment Checker Bot |  |  |  |  |  |
 | 18 | Fragment Neuro Bot |  | [Telegram](https://t.me/TeletonApp) [Bot](https://t.me/TeletonOfficialAppBot) [X](https://x.com/teletonapp) |  |  |  |
 | 19 | GMAI | GMAI — developer tool for Solana dApps with AI integration | [Telegram](https://t.me/gmAI_Ann) [Bot](https://t.me/gmdotaibot) [X](https://x.com/gm_dot_ai) [Site](https://docs.gm.ai/how-we-work/gmai-framework) |  |  |  |
-| 20 | Neural Networks | Помощь — @Neyrosetka_com | [Bot](https://t.me/chatgpt_tgm_bot) [Site](https://web3.xn--e1aajcsinjk.com/) [GitHub](https://github.com/Stenix777/Neural-network-telegram) |  | 2024-05-21 |  |
+| 20 | Neural Networks | Помощь — @Neyrosetka_com | [Bot](https://t.me/chatgpt_tgm_bot) [GitHub](https://github.com/Stenix777/Neural-network-telegram) |  | 2024-05-21 |  |
 | 21 | Omniracle AI Search | Omniracle AI Search — tool for analyzing fast-moving topics on the internet | [Telegram](https://t.me/omniracle) [Bot](https://t.me/omniracle_bot) [X](https://x.com/omniracle) [Site](https://omniracle.com) |  |  |  |
 | 22 | Plate AI |  | [Bot](https://t.me/plateaibot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |

@@ -28,12 +28,12 @@
 | 13 | Tickyton |  | [Bot](https://t.me/tickytonbot) |  |  |  |
 | 14 | $GOVNO Paper Store |  | [Telegram](https://t.me/govnopaperstore) [Bot](https://t.me/GOVNOPaperBot) [Site](https://govnoton.com/) |  |  |  |
 | 15 | AOKI Seller |  | [Telegram](https://t.me/DigtonFaucet) [Bot](https://t.me/aoki_seller_bot) [X](https://x.com/DigTonApp) [Site](https://aokimarket.com) |  |  |  |
-| 16 | behind |  | [Bot](https://t.me/bhndbot) [X](https://x.com/TomCoinBnb) |  |  |  |
+| 16 | behind |  | [Bot](https://t.me/bhndbot) |  |  |  |
 | 17 | bionapp |  | [Telegram](https://t.me/bionapp_bot) [Bot](https://t.me/bion_announcements) [X](https://x.com/bion_app) [Site](https://www.bionapp.com/) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 18 | Cashbacker |  | [Bot](https://t.me/cashbackton_bot) [X](https://x.com/pitzaton) [Site](https://pizzaton.me) [GitHub](https://github.com/pizzaton) |  | 2024-11-24 |  |
+| 18 | Cashbacker |  | [Bot](https://t.me/cashbackton_bot) [Site](https://pizzaton.me) [GitHub](https://github.com/pizzaton) |  | 2024-11-24 |  |
 | 19 | Catallaxy | Catallaxy — a marketplace for digital goods and services on TON | [Telegram](https://t.me/catallaxy_bot) [Bot](https://t.me/catallaxy_ton) [X](https://x.com/catallaxy_ton) [Site](https://ctlx.cc) [GitHub](https://github.com/dearjohndoe/ton-agents-marketplace) |  | 2026-08-14 |  |
 | 20 | Coinco |  | [Telegram](https://t.me/coinco_bot) [Bot](https://t.me/coinco_global) [Site](https://coinco.io) |  |  |  |
-| 21 | GiftX: AI Wishlist |  | [Telegram](https://t.me/giftxtech_bot) [Bot](https://t.me/giftx_community_ru) |  |  |  |
+| 21 | GiftX: AI Wishlist |  | [Telegram](https://t.me/giftxtech_bot) |  |  |  |
 | 22 | monomenu |  | [Telegram](https://t.me/ton_portfel) [Bot](https://t.me/ton_portfel_bot) |  |  |  |
 | 23 | OpenMarketplace |  | [Telegram](https://t.me/MarketplaceTeleBot) [Bot](https://t.me/OpenMarketplaces) |  |  |  |
 | 24 | Peravel |  | [Telegram](https://t.me/peraveldefi) [Bot](https://t.me/Peravelbot) [Site](https://app.peravel.com/) |  |  |  |
@@ -41,7 +41,7 @@
 | 26 | TonMart |  | [Bot](https://t.me/tonmartbot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 27 | Umy.com | Umy.com — hotel and flight bookings with cryptocurrency payments | [Telegram](https://t.me/umyofficialnews) [Bot](https://t.me/umy_official_bot) [X](https://x.com/umycomofficial) [Site](https://umy.com/) |  |  |  |
 | 28 | VibeMarket |  | [Telegram](https://t.me/vibecodemarketdev_bot) [Site](https://vibemarket.pro/en) |  |  |  |
-| 29 | WebDosa | WebDosa — a shopping bot in Telegram | [Telegram](https://t.me/undrdosabot) [Bot](https://t.me/undrdosa) [Site](https://webdosa.app) |  |  |  |
+| 29 | WebDosa | WebDosa — a shopping bot in Telegram | [Telegram](https://t.me/undrdosabot) [Bot](https://t.me/undrdosa) |  |  |  |
 
 ## Closed
 

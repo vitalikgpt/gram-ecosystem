@@ -46,6 +46,14 @@ for i, r in enumerate(csv.DictReader(open("data/projects.csv", encoding="utf-8")
         errors.append(f"{where}: x must look like https://x.com/handle")
     if r["github"] and not re.fullmatch(r"https://github\.com/[A-Za-z0-9_.-]+(/[A-Za-z0-9_.-]+)?", r["github"]):
         errors.append(f"{where}: github must look like https://github.com/owner or https://github.com/owner/repo")
+slugs = seen
+for i, f in enumerate(csv.DictReader(open("data/link-fixes.csv", encoding="utf-8")), start=2):
+    if f["slug"] not in slugs:
+        errors.append(f"data/link-fixes.csv:{i}: unknown slug '{f['slug']}'")
+    if f["field"] not in ("telegram", "bot", "x", "website", "github") or f["action"] not in ("replace", "remove", "confirm"):
+        errors.append(f"data/link-fixes.csv:{i}: field or action is not recognised")
+    if not f["evidence"].strip():
+        errors.append(f"data/link-fixes.csv:{i}: evidence is required")
 for i, r in enumerate(csv.DictReader(open("data/unresolved.csv", encoding="utf-8")), start=2):
     if not r["name"].strip() or not r["seen_on"].strip():
         errors.append(f"data/unresolved.csv:{i}: name and seen_on are required")

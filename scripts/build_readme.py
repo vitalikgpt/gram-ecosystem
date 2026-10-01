@@ -106,6 +106,11 @@ def build():
         problems = sum(1 for l in open(PROBLEMS, encoding="utf-8") if l.startswith("| ") and not l.startswith("| Project") and not l.startswith("| ---"))
     except FileNotFoundError:
         problems = 0
+    try:
+        fixes = list(csv.DictReader(open("data/link-fixes.csv", encoding="utf-8")))
+    except FileNotFoundError:
+        fixes = []
+    fixed = sum(1 for f in fixes if f["action"] != "confirm")
     maps = sorted(f[:-4] for f in os.listdir("archive") if f.endswith(".jpg"))
 
     pages = {}
@@ -128,7 +133,9 @@ def build():
         "",
         f"Every link here is checked. [{problems} links need a look]({PROBLEMS}) (a wrong account, a dead page, or a name that does not match), and "
         f"[{len(unresolved)} names from older maps](data/unresolved.csv) still need a project to point to. "
-        "Those two lists are the best place to start contributing.",
+        "Those two lists are the best place to start contributing. "
+        f"So far {fixed} links have been replaced or removed and {len(fixes) - fixed} confirmed, each with its evidence, "
+        "in [data/link-fixes.csv](data/link-fixes.csv).",
         "",
         "## Contents",
         "",
@@ -218,6 +225,7 @@ def build():
         "- [data/categories.json](data/categories.json): categories in display order.",
         "- [data/channels.csv](data/channels.csv): channels about TON with quarterly posts and views.",
         "- [data/unresolved.csv](data/unresolved.csv): names seen on ecosystem maps that are not tied to a project yet.",
+        "- [data/link-fixes.csv](data/link-fixes.csv): every link that was replaced, removed or confirmed, with the evidence.",
         f"- [{PROBLEMS}]({PROBLEMS}): links that failed the check.",
         "- [archive](archive): ecosystem maps by other authors, 2022 to 2026.",
         "",

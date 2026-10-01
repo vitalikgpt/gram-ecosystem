@@ -8,12 +8,12 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | Telegram ✓ |  | [Telegram](https://t.me/telegram) [Site](https://telegram.org) | 14.7M views | 2026-08-26 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 1 | Telegram ✓ |  | [Telegram](https://t.me/telegram) [Site](https://telegram.org) | 14.7M views | 2026-08-26 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 2 | Fragment ✓ |  | [Site](https://fragment.com) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 3 | TON Core ✓ |  | [Telegram](https://t.me/toncore) [Site](https://ton.org) | 45K views | 2026-09-23 | [ton 25](../archive/2025-07-ton.jpg) |
 | 4 | Acton ✓ | A unified command-line toolchain for TON smart contracts in Tolk — project setup, tests,… | [Telegram](https://t.me/theopentooling) [Site](https://ton-blockchain.github.io/acton/) [GitHub](https://github.com/ton-blockchain/acton) | 4K views | 2026-09-30 |  |
 | 5 | Tolk ✓ |  | [Telegram](https://t.me/tolk_lang) [Site](https://docs.ton.org/v3/documentation/smart-contracts/tolk/overview) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
-| 6 | Pyth |  | [Site](https://www.pyth.network) |  |  | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 6 | Pyth |  | [Site](https://www.pyth.network) |  |  | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 7 | RedStone | A modular oracle delivering data for DeFi to EVM and non-EVM chains, TON included. | [Site](https://www.redstone.finance) [GitHub](https://github.com/redstone-finance) | commit 2026-10-01 | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 8 | TON Multisig ✓ |  | [Site](https://multisig.ton.org) |  |  |  |
 | 9 | TON Developers ✓ |  | [Telegram](https://t.me/tondevs_tg) |  |  |  |
@@ -21,7 +21,7 @@
 | 11 | Tact ✓ |  | [Site](https://tact-lang.org) |  |  |  |
 | 12 | Blueprint ✓ |  | [Site](https://github.com/ton-org/blueprint) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 13 | Toncenter ✓ |  | [Telegram](https://t.me/toncenter_news) [Site](https://toncenter.com) [GitHub](https://github.com/toncenter/ton-http-api) | 16K views | 2026-09-17 | [ton 25](../archive/2025-07-ton.jpg) |
-| 14 | TonAPI ✓ |  | [Telegram](https://t.me/tonconsole_com) [Bot](https://t.me/Grokholders_bot) [X](https://x.com/Grokton) [Site](https://tonconsole.com) [GitHub](https://github.com/tonkeeper) | 7K views | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 14 | TonAPI ✓ |  | [Telegram](https://t.me/tonconsole_com) [X](https://x.com/Grokton) [Site](https://tonconsole.com) [GitHub](https://github.com/tonkeeper) | 7K views | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 15 | TON Connect ✓ |  | [Site](https://github.com/ton-connect) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 16 | Wallet Connect |  | [Site](https://walletconnect.network) |  |  |  |
 | 17 | TON DNS ✓ |  | [Site](https://dns.ton.org) [GitHub](https://github.com/ton-blockchain) | commit 2026-10-01 | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
@@ -31,7 +31,7 @@
 | 21 | Cocoon ✓ | A decentralized network for confidential AI inference — GPU owners are paid in TON for… | [Telegram](https://t.me/cocoon) [Site](https://cocoon.doge.tg) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
 | 22 | DTON GraphQL |  | [Telegram](https://t.me/tvorogme) [GitHub](https://github.com/disintar) | commit 2026-09-28 | 2026-09-28 |  |
 | 23 | NOWNodes |  | [Telegram](https://t.me/nownodes) [X](https://x.com/NowNodes) [GitHub](https://github.com/NOWNodes) | commit 2026-09-30 | 2026-09-30 |  |
-| 24 | TON Access |  | [Telegram](https://t.me/orbsnetwork) [X](https://x.com/orbs_network) [GitHub](https://github.com/orbs-network) | commit 2026-10-01 | 2026-10-01 |  |
+| 24 | TON Access |  | [Telegram](https://t.me/orbsnetwork) [GitHub](https://github.com/orbs-network) | commit 2026-10-01 | 2026-10-01 |  |
 
 ## Quiet
 
@@ -41,5 +41,5 @@
 | 26 | GetBlock |  | [Telegram](https://t.me/getblockio_eng) [X](https://x.com/getblockio) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 27 | TON Console (TonAPI) |  | [Telegram](https://t.me/tonrostislav) [GitHub](https://github.com/tonkeeper/tonapi) |  | 2023-06-01 |  |
 | 28 | TON Foundation |  | [Telegram](https://t.me/tonfoundation) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
-| 29 | TON Search Engine |  | [Telegram](https://t.me/runner_ton) [X](https://x.com/TonxStudio) |  |  |  |
+| 29 | TON Search Engine |  | [Telegram](https://t.me/runner_ton) |  |  |  |
 | 30 | TON Torrents |  | [Telegram](https://t.me/tonrh) [GitHub](https://github.com/xssnick/TON-Torrent) |  | 2025-09-01 |  |

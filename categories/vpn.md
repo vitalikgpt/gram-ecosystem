@@ -8,11 +8,11 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | TonMobile eSIM ✓ | Mobile eSIM Purchaser | [Telegram](https://t.me/tonmobile_en) [X](https://x.com/tonmobile_esim) [Site](https://tonmobile.com) | 6K views, 42K MAU | 2026-08-25 | [ton 25](../archive/2025-07-ton.jpg) |
-| 2 | SnapSIM ✓ |  | [Telegram](https://t.me/snapsimbot) [Site](https://snapsim.online) | 13K MAU |  |  |
-| 3 | Durev VPN ✓ | Durev VPN is a VPN service for fast and reliable internet access. | [Telegram](https://t.me/durevvpn) [Site](https://durevpn.com/) | 812K views, 244K MAU | 2026-09-23 |  |
-| 4 | Resistance Tools ✓ | An open-source privacy toolkit for TON, run through the @ResistanceToolsBot bot. | [Telegram](https://t.me/resistancetools) [Site](https://resistance.dog) | 5K views | 2026-09-20 |  |
-| 5 | 1323vpn |  | [Telegram](https://t.me/vpn1323) [X](https://x.com/TonTakeGame) | 283 views | 2026-09-24 |  |
+| 1 | TonMobile eSIM ✓ | Mobile eSIM Purchaser | [Telegram](https://t.me/tonmobile_en) [Bot](https://t.me/MobileSuppBot) [X](https://x.com/tonmobile_esim) [Site](https://tonmobile.com) | 6K views, 42K MAU | 2026-08-25 | [ton 25](../archive/2025-07-ton.jpg) |
+| 2 | SnapSIM ✓ |  | [Bot](https://t.me/snapsimbot) [Site](https://snapsim.online) | 13K MAU |  |  |
+| 3 | Durev VPN ✓ | Durev VPN is a VPN service for fast and reliable internet access. | [Telegram](https://t.me/durevvpn) [Bot](https://t.me/DureVpnBot) [Site](https://durevpn.com/) | 812K views, 244K MAU | 2026-09-23 |  |
+| 4 | Resistance Tools ✓ | An open-source privacy toolkit for TON, run through the @ResistanceToolsBot bot. | [Telegram](https://t.me/resistancetools) [Bot](https://t.me/ResistanceToolsBot) [Site](https://resistance.dog) | 5K views | 2026-09-20 |  |
+| 5 | 1323vpn |  | [Telegram](https://t.me/vpn1323) [Bot](https://t.me/vpn1323bot) | 283 views | 2026-09-24 |  |
 | 6 | Connecton VPN ✓ |  | [Telegram](https://t.me/connectonbot) [GitHub](https://github.com/Connecton) | 26 views | 2026-09-15 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 
 ## Quiet
@@ -20,14 +20,14 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 7 | Depinsim |  | [Telegram](https://t.me/depinsim) [Bot](https://t.me/DepinSimBot) [X](https://x.com/depinsim) [Site](https://www.depinsim.com/) |  |  |  |
-| 8 | ConnectMeGuru eSIM |  | [Telegram](https://t.me/esim_connectmeguru_bot) [X](https://x.com/connectmeguru) [Site](https://www.connectmeguru.com) |  |  |  |
-| 9 | fedafone |  | [Telegram](https://t.me/Channel_90Rich) [Bot](https://t.me/app_90rich_bot) [X](https://x.com/rich90492056) |  |  |  |
+| 8 | ConnectMeGuru eSIM |  | [Bot](https://t.me/esim_connectmeguru_bot) [X](https://x.com/connectmeguru) [Site](https://www.connectmeguru.com) |  |  |  |
+| 9 | fedafone |  | [Telegram](https://t.me/Channel_90Rich) |  |  |  |
 | 10 | Gram VPN | A VPN inside Telegram — the @GramVBot bot opens blocked websites through a… | [Telegram](https://t.me/GramVPN) [Bot](https://t.me/GramVBot) |  |  |  |
-| 11 | hitvpnbot |  | [Telegram](https://t.me/hitvpnbot) |  |  |  |
-| 12 | NETZ.RUN VPN |  | [Telegram](https://t.me/netzrun_bot) |  |  |  |
-| 13 | Plume Proxy |  | [Telegram](https://t.me/plumeproxy_bot) |  |  |  |
+| 11 | hitvpnbot |  | [Bot](https://t.me/hitvpnbot) |  |  |  |
+| 12 | NETZ.RUN VPN |  | [Bot](https://t.me/netzrun_bot) |  |  |  |
+| 13 | Plume Proxy |  | [Bot](https://t.me/plumeproxy_bot) |  |  |  |
 | 14 | PlusOne VPN |  | [Bot](https://t.me/plusonevpn_bot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 15 | telegramconnect |  | [Telegram](https://t.me/townwifi) [Bot](https://t.me/townwifibot) [X](https://x.com/ArbitrageScan) |  |  |  |
-| 16 | Tony VPN |  | [Bot](https://t.me/tony_vpn_bot) [X](https://x.com/thenotcoin) |  |  |  |
-| 17 | VPN4TON |  | [Telegram](https://t.me/vpn4ton_bot) |  |  |  |
-| 18 | zonerift VPN |  | [Telegram](https://t.me/TildaApp) [Bot](https://t.me/zoneriftvpn_bot) [X](https://x.com/zoneriftvpn) [Site](https://zonerift.com) |  |  |  |
+| 15 | telegramconnect |  | [Telegram](https://t.me/townwifi) [Bot](https://t.me/townwifibot) |  |  |  |
+| 16 | Tony VPN |  | [Bot](https://t.me/tony_vpn_bot) |  |  |  |
+| 17 | VPN4TON |  | [Bot](https://t.me/vpn4ton_bot) |  |  |  |
+| 18 | zonerift VPN |  | [Telegram](https://t.me/TildaApp) [Bot](https://t.me/zoneriftvpn_bot) [X](https://x.com/zoneriftvpn) |  |  |  |

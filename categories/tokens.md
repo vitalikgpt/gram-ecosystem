@@ -24,7 +24,7 @@
 | 14 | $DROPEE (DROPEE) |  | [Telegram](https://t.me/dropee_community) | mcap $0K, 3,494 holders | 2026-09-28 |  |
 | 15 | Capybobo (PYBOBO) |  | [Telegram](https://t.me/CapyboboNews) | mcap $23.6M, 12,277 holders | 2026-09-18 |  |
 | 16 | Not Pixel (PX) |  | [Telegram](https://t.me/notpixel_channel) | mcap $2.6M, 1,168,885 holders | 2026-09-29 |  |
-| 17 | GEMSTON (GEMSTON) |  | [Telegram](https://t.me/stonfidex) | mcap $0K, 16,239 holders | 2026-09-30 |  |
+| 17 | GEMSTON (GEMSTON) |  |  | mcap $0K, 16,239 holders | 2026-09-30 |  |
 | 18 | GoMining (GOMINING) |  | [Telegram](https://t.me/gmt_token) | mcap $7.3M, 2,365 holders | 2026-09-28 |  |
 | 19 | TON Station (MRSOON) |  | [Telegram](https://t.me/tonstationgames) | mcap $93K, 100,744 holders | 2026-08-04 |  |
 | 20 | Hipo Staked GRAM (HGRAM) |  | [Telegram](https://t.me/HipoFinance) | mcap $10.7M, 23,192 holders | 2026-09-21 |  |
@@ -60,7 +60,7 @@
 | 45 | @BTC25 |  | [Telegram](https://t.me/tonbtc25) [X](https://x.com/daoproxima) |  |  |  |
 | 46 | Amocucinare (AMORE) |  | [Telegram](https://t.me/amoreAIcrypto) | mcap $488K, 5,212 holders |  |  |
 | 47 | ARTDRA Coin (ARTDRA) |  | [Telegram](https://t.me/artdracoin) | mcap $4.5M, 1,213 holders |  |  |
-| 48 | bemo Staked TON (STTON) |  | [Telegram](https://t.me/bemofinanceENG) | mcap $2.1M, 16,210 holders |  |  |
+| 48 | bemo Staked TON (STTON) |  |  | mcap $2.1M, 16,210 holders |  |  |
 | 49 | Bombie (BOMB) |  | [Telegram](https://t.me/BombieNews) | mcap $112K, 57,868 holders |  |  |
 | 50 | Bridged USD Coin (TON Bridge) (JUSDC) |  |  | mcap $56K, 4,498 holders |  |  |
 | 51 | BUILD (BUILD) |  | [Telegram](https://t.me/join_community) | mcap $397K, 19,241 holders |  |  |
@@ -98,7 +98,7 @@
 | 83 | Not Notcoin |  | [Telegram](https://t.me/not_notcoin) [X](https://x.com/Not_Notcoin) |  |  |  |
 | 84 | OwnershipCoin (OC) |  | [Telegram](https://t.me/ownershipcoin) | mcap $0K, 14,794 holders |  |  |
 | 85 | Paper Plane (PLANE) |  | [Telegram](https://t.me/paperplane_ton) | mcap $540K, 8,723 holders |  |  |
-| 86 | Peng |  | [Telegram](https://t.me/pengtoncoin) [X](https://x.com/pengtoncoin) |  |  |  |
+| 86 | Peng |  | [X](https://x.com/pengtoncoin) |  |  |  |
 | 87 | PinGo (PINGO) |  | [Telegram](https://t.me/PinGo_AI) | mcap $4.2M, 12,278 holders |  |  |
 | 88 | PirateCash (PIRATE) |  | [Telegram](https://t.me/PirateCash_ENG) | mcap $1.6M, 3,468 holders |  |  |
 | 89 | PunkCity (PUNK) |  | [Telegram](https://t.me/TONPunksENG) | mcap $273K, 57,793 holders |  |  |
@@ -126,4 +126,4 @@
 | 111 | Tower (TOWER) |  | [Telegram](https://t.me/TowerToken) | mcap $938K, 1,305 holders |  |  |
 | 112 | Vertus (VERT) |  | [Telegram](https://t.me/the_vertus) | mcap $487K, 143,178 holders |  |  |
 | 113 | WOOF (WOOF) |  | [Telegram](https://t.me/lostdogscoeng) | mcap $0K, 108,932 holders |  |  |
-| 114 | X Empire (X) |  | [Telegram](https://t.me/empirex) | mcap $0K, 555,528 holders |  |  |
+| 114 | X Empire (X) |  |  | mcap $0K, 555,528 holders |  |  |
