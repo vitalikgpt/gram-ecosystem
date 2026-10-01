@@ -41,12 +41,12 @@
 | 26 | AOKI Seller | Start business and open your shop with /start | [Telegram](https://t.me/DigtonFaucet) [Bot](https://t.me/aoki_seller_bot) [X](https://x.com/DigTonApp) [Site](https://aokimarket.com) |  | 2025-09-12 |  |
 | 27 | Peravel | 🚀 The Modern Life Solution! 🪙🛒✈️ 🌍 | [Telegram](https://t.me/peraveldefi) [Bot](https://t.me/Peravelbot) [Site](https://app.peravel.com/) |  | 2025-08-27 |  |
 | 28 | SoftShelf | Маркетплейс цифровых товаров в Telegram | [Telegram](https://t.me/SoftShelf) [Bot](https://t.me/SoftShelfBot) |  | 2025-05-05 |  |
-| 29 | monomenu |  | [Telegram](https://t.me/ton_portfel) [Bot](https://t.me/ton_portfel_bot) |  | 2024-11-01 |  |
+| 29 | monomenu |  |  |  | 2024-11-01 |  |
 
 ## Closed
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 30 | Bounty Bay |  | [Bot](https://t.me/pakcoin_kombat_bot) [X](https://x.com/0xBountyBay) [Site](https://www.bountybay.app/) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 30 | Bounty Bay |  | [X](https://x.com/0xBountyBay) [Site](https://www.bountybay.app/) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 31 | Elephant Store | Don't miss a single sticker — collect them all! | [Telegram](https://t.me/slon_market) [Bot](https://t.me/elephantstorebot) [X](https://x.com/ownthedoge) |  | 2026-08-14 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 32 | TGGifts |  | [Telegram](https://t.me/tongiftsnews) [Bot](https://t.me/GetTonGifts_Bot) [X](https://x.com/TonGiftsbot) [Site](https://gifts.tg) |  | 2026-02-10 | [messari 26](../archive/2026-05-messari.jpg) |

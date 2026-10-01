@@ -39,5 +39,5 @@
 | 24 | VPN4TON |  | [Bot](https://t.me/vpn4ton_bot) |  |  |  |
 | 25 | Gram VPN | A VPN inside Telegram — the @GramVBot bot opens blocked websites through a… | [Telegram](https://t.me/GramVPN) [Bot](https://t.me/GramVBot) |  | 2026-06-24 |  |
 | 26 | zonerift VPN | Buy Premium VPN with Telegram Stars and TON | [Telegram](https://t.me/TildaApp) [Bot](https://t.me/zoneriftvpn_bot) [X](https://x.com/zoneriftvpn) |  | 2025-09-27 |  |
-| 27 | fedafone |  | [Telegram](https://t.me/Channel_90Rich) |  | 2025-04-10 |  |
+| 27 | fedafone |  |  |  | 2025-04-10 |  |
 | 28 | telegramconnect | Earn crypto and get access to 15M WiFi passwords with ! | [Telegram](https://t.me/townwifi) [Bot](https://t.me/townwifibot) |  | 2024-06-21 |  |

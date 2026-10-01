@@ -99,7 +99,7 @@
 | 84 | PunkCity (PUNK) | The first NFT on the TON Blockchain. | [Telegram](https://t.me/TONPunksENG) [X](https://x.com/TonPunks) | mcap $273K, 57,793 holders | 2026-04-23 |  |
 | 85 | OwnershipCoin (OC) | The Community-run Chill Gallery on TON. We are the Gallery that doesn't take itself too… | [Telegram](https://t.me/ownershipcoin) | mcap $0K, 14,794 holders | 2026-04-16 |  |
 | 86 | Amocucinare (AMORE) |  | [Telegram](https://t.me/amoreAIcrypto) [Site](https://amorecoin.love/) | mcap $488K, 5,212 holders | 2026-03-01 |  |
-| 87 | WOOF (WOOF) |  | [Telegram](https://t.me/lostdogscoeng) | mcap $0K, 108,932 holders | 2026-02-21 |  |
+| 87 | WOOF (WOOF) |  |  | mcap $0K, 108,932 holders | 2026-02-21 |  |
 | 88 | GOATS (GOATS) |  | [Telegram](https://t.me/realgoats_channel) [X](https://x.com/GOATS_immortal) | mcap $347K, 120,815 holders | 2026-02-10 |  |
 | 89 | TON Cats Jetton |  | [Telegram](https://t.me/toncats_tg) [X](https://x.com/toncats_tg) |  | 2026-02-01 |  |
 | 90 | Hamster Kombat (HMSTR) |  | [Telegram](https://t.me/hamster_kombat) [Site](https://hamster.network) | mcap $11.0M, 1,344,213 holders | 2026-01-20 |  |

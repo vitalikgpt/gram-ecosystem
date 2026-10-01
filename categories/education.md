@@ -8,7 +8,7 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | TonNewbie | Канал посвящён новостям и полезной информации для Вашего развития в крипто мире. | [Telegram](https://t.me/tonnewbie) [Bot](https://t.me/blockspinbot) [X](https://x.com/ru) | 201K views | 2026-09-28 |  |
+| 1 | TonNewbie | Канал посвящён новостям и полезной информации для Вашего развития в крипто мире. | [Telegram](https://t.me/tonnewbie) [X](https://x.com/ru) | 201K views | 2026-09-28 |  |
 | 2 | Be Unstoppable | Be Unstoppable — a cryptocurrency wallet supporting Bitcoin, Ethereum, and Zcash | [Telegram](https://t.me/unstoppable_announcements) [Bot](https://t.me/BeUnstoppable_bot) [X](https://x.com/unstoppablebyhs) [Site](https://unstoppable.money/) [GitHub](https://github.com/horizontalsystems) | 84K views, 10K MAU | 2026-10-01 |  |
 | 3 | iQuizMaster | Seize the chance to grab a million pounds, showcase your strength, and win huge prizes | [Bot](https://t.me/iquizmaster_bot) [X](https://x.com/snapsterbot) | 20K MAU |  |  |
 | 4 | BehLand - Web3 L2E | BehLand — an educational platform with Web3 elements | [Telegram](https://t.me/BehLand_Official) [Bot](https://t.me/BehLand_gp) [X](https://x.com/BehLandOfficial) [Site](https://beh.land) [GitHub](https://github.com/beh-land) | 6K views | 2026-10-01 |  |
@@ -35,7 +35,7 @@
 | 20 | FunC Lessons |  | [Telegram](https://t.me/ton_learn) [GitHub](https://github.com/romanovichim/TonFunClessons_Eng) |  | 2024-07-07 |  |
 | 21 | Tact Language | Group for discussing Tact programming language in English | [Telegram](https://t.me/tactlang) [X](https://x.com/tact_language) [GitHub](https://github.com/tact-lang) |  | 2026-07-29 |  |
 | 22 | Tinlake | Tinlake is an educational mini-app on Telegram. | [Bot](https://t.me/tinlake_bot) [X](https://x.com/AppTinlake) |  |  |  |
-| 23 | Дневник разработчика на TON |  | [Bot](https://t.me/pandalotterybot) |  |  |  |
+| 23 | Дневник разработчика на TON |  |  |  |  |  |
 | 24 | Дневник стартапера |  | [Bot](https://t.me/chaingptai_bot) [Site](https://www.chaingpt.org/) |  |  |  |
 | 25 | Мнимый в крипте |  | [Telegram](https://t.me/pixilandofficial) [Bot](https://t.me/pixiland_bot) [Site](https://pixiland.app) |  |  |  |
 | 26 | Lazy Reader | You can view and join right away. | [Telegram](https://t.me/lazyreader_channel) [Bot](https://t.me/lazyreader_bot) [Site](https://lazy-reader.com/) |  | 2025-08-06 |  |

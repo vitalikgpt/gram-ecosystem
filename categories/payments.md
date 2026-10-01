@@ -67,11 +67,11 @@
 | 52 | Vozik Shop / Звёзды для каждого | Купить Звезды и Telegram премиум быстро и удобно! Support: @VozikShop_Support | [Bot](https://t.me/vozikstarsbot) | mentioned by 5 TON channels in Q3 |  |  |
 | 53 | WebWise Pay |  | [Bot](https://t.me/webwisepay_bot) | mentioned by 3 TON channels in Q3 |  |  |
 | 54 | WeStars | 🌟خرید استارز و پرمیوم دریافت آنی. Purchase Stars and Premium with instant delivery. 🧑‍💻… | [Bot](https://t.me/westarsbot) | mentioned by 5 TON channels in Q3 |  |  |
-| 55 | Payhook |  | [Telegram](https://t.me/BehLand_Official) [Bot](https://t.me/BehLand_gp) [Site](https://payhook.org) [GitHub](https://github.com/beh-land) |  | 2026-10-01 |  |
+| 55 | Payhook |  | [Site](https://payhook.org) [GitHub](https://github.com/beh-land) |  | 2026-10-01 |  |
 | 56 | DeCoupons |  | [Telegram](https://t.me/delab) |  | 2026-05-29 |  |
 | 57 | TON Fonates | 🚀 Fonates — будущее подарков в крипте | [Telegram](https://t.me/fonates) [Bot](https://t.me/fonatesbot) [GitHub](https://github.com/orgs/Fonates) |  | 2026-03-12 |  |
 | 58 | Tonation |  | [Telegram](https://t.me/tonationme) [X](https://x.com/tonationme) [Site](https://tonation.me/) |  | 2026-02-04 |  |
-| 59 | Wallet Bot |  | [Telegram](https://t.me/apiton) [Bot](https://t.me/apitonBot) |  | 2025-05-03 |  |
+| 59 | Wallet Bot |  |  |  | 2025-05-03 |  |
 | 60 | CryptoChill | You can view and join right away. | [Telegram](https://t.me/CryptoChillGateway) [Bot](https://t.me/kingdomsurvivorgamebot) [X](https://x.com/cryptochill) [Site](https://cryptochill.com) |  | 2025-04-24 |  |
 | 61 | Play Wallet | Top up games with crypto › | [Telegram](https://t.me/playwallet_news) [X](https://x.com/playwalletbot) [Site](https://www.playwallet.bot) |  | 2025-03-12 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 62 | Tonspay | Best telegram crypto payment system . | [Telegram](https://t.me/tonspays) [Bot](https://t.me/tonspay_bot) [GitHub](https://github.com/tonspay) |  | 2025-06-23 |  |

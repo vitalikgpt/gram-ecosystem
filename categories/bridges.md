@@ -25,11 +25,11 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 12 | AnyTap | AnyTap helps Telegram users transition into the TON ecosystem through onchain tasks and… | [Bot](https://t.me/anytap_bot) [X](https://x.com/anytap_dapps) |  |  |  |
-| 13 | TON Bridge | Bridge for transferring USDT and USDC from other chains to TON | [Telegram](https://t.me/tonbankcard) [Bot](https://t.me/TONBridge_robot) [Site](https://bridge.tonbankcard.com) [GitHub](https://github.com/xlabtg) |  | 2026-09-28 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 13 | TON Bridge | Bridge for transferring USDT and USDC from other chains to TON | [Bot](https://t.me/TONBridge_robot) [Site](https://bridge.tonbankcard.com) [GitHub](https://github.com/xlabtg) |  | 2026-09-28 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 14 | Axai on Waves |  | [Bot](https://t.me/wavesaxaibot) [X](https://x.com/wxnetwork) |  |  |  |
 | 15 | Transit Swap |  | [X](https://x.com/TransitFinance) [Site](https://swap.transit.finance/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 16 | VIZ gateway | VIZ gateway — bridge between GRAM and Solana chains for wVIZ | [Telegram](https://t.me/viz_world) [Bot](https://t.me/viz_cx) [Site](https://gateway.viz.cx) [GitHub](https://github.com/viz-cx/viz-gateway) |  | 2026-08-30 |  |
-| 17 | island3 |  | [Telegram](https://t.me/dedust_en) [Site](https://bridge.rangersprotocol.com/) [GitHub](https://github.com/rangersprotocolcode) |  | 2026-06-15 |  |
+| 17 | island3 |  | [Site](https://bridge.rangersprotocol.com/) [GitHub](https://github.com/rangersprotocolcode) |  | 2026-06-15 |  |
 
 ## Closed
 

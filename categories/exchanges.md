@@ -73,27 +73,27 @@
 | 58 | BYDFi |  | [Site](https://www.bydfi.com/) |  |  |  |
 | 59 | CoinEx |  | [Site](https://www.coinex.com/) |  |  |  |
 | 60 | CryptoGas.shop |  | [Site](https://cryptogas.shop/ton?ref=37027482) |  |  |  |
-| 61 | DigiFinex |  | [Telegram](https://t.me/TgStarStore_bot) [Bot](https://t.me/StarStore_app) [Site](https://www.digifinex.com) |  |  |  |
+| 61 | DigiFinex |  | [Site](https://www.digifinex.com) |  |  |  |
 | 62 | Dualcoin |  | [Site](https://dualcoin.io/en) |  |  |  |
 | 63 | EXMO | Официальный Telegram канал криптовалютной платформы EXMO.me | [Telegram](https://t.me/exmome_official) [Bot](https://t.me/GrinderyAIBot) [Site](https://exmo.me/trade/ton_usdt) [GitHub](https://github.com/grindery-io) |  | 2025-11-27 |  |
 | 64 | Flipster | Flipster has a wide selection of over 300 perpetual futures listings, including Bitcoin… | [X](https://x.com/flipster_io) [Site](https://flipster.io) |  |  |  |
-| 65 | Matrixport |  | [Telegram](https://t.me/tondocsign_bot) [Site](https://www.matrixport.com/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 65 | Matrixport |  | [Site](https://www.matrixport.com/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 66 | MyStars.tg | Buy Telegram Stars and Premium with TON/USDT, no KYC | [Telegram](https://t.me/my_stars_tg_bot) [Bot](https://t.me/mystarstg_official) [X](https://x.com/MyStars_tg) [Site](https://mystars.tg) [GitHub](https://github.com/mystars-tg) |  | 2026-09-24 |  |
 | 67 | Onmeta | You can view and join right away. | [Telegram](https://t.me/onmetatg) [X](https://x.com/onmetahq) [Site](https://onmeta.in/) [GitHub](https://github.com/onmetahq) |  | 2026-02-16 |  |
 | 68 | Onramp |  | [Site](https://onramp.money/main/buy/?appId=1&coinCode=ton) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 69 | OSL Exchange | OSL Digital Securities is Hong Kong’s first and most established SFC-licensed and… | [X](https://x.com/OSL_HK) [Site](https://www.osl.com/en) |  |  |  |
 | 70 | StarStore | StarStore: A Telegram platform for stars—buy and sell stars with ease | [Telegram](https://t.me/TgStarStore_bot) [Bot](https://t.me/StarStore_app) [Site](https://starstore.app/) |  |  |  |
 | 71 | Websea | Websea provides a comprehensive suite of trading and financial products, including Spot… | [X](https://x.com/webseaofficial) [Site](https://www.websea.com/) |  |  |  |
-| 72 | BIT |  | [Telegram](https://t.me/storm_trade_news) [Bot](https://t.me/StormTradeBot) [X](https://x.com/BITofficial_EN) [Site](https://www.bit.com) |  | 2026-09-28 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 73 | Cryptobotex |  | [Telegram](https://t.me/multikassa_channel) [Bot](https://t.me/multikassa_bot) |  | 2026-09-21 |  |
+| 72 | BIT |  | [X](https://x.com/BITofficial_EN) [Site](https://www.bit.com) |  | 2026-09-28 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 73 | Cryptobotex |  |  |  | 2026-09-21 |  |
 | 74 | Excoino |  | [Telegram](https://t.me/excoino) [Bot](https://t.me/tonbuytechbot) [X](https://x.com/excoino) [Site](https://excoino.com) |  | 2026-06-03 |  |
 | 75 | Starz Market | A bot for buying and selling Telegram Stars | [Telegram](https://t.me/StarzMarketNews) [Bot](https://t.me/StarzMarketBot) [Site](https://durovs.com) |  | 2026-05-28 |  |
 | 76 | DXS: Trade The World | Новости проекта, а также полезная информация о мире криптовалют и трейдинга. | [Telegram](https://t.me/dxsapp) [X](https://x.com/DXSapp) [Site](https://dxs.app) |  | 2025-11-17 |  |
 | 77 | NovaDax |  | [Telegram](https://t.me/livehub_to) [X](https://x.com/livehub_to) [Site](https://www.novadax.com.br/product/orderbook?pair=TON_BRL) |  | 2025-05-04 |  |
 | 78 | 90Rich |  | [Telegram](https://t.me/Channel_90Rich) |  | 2025-04-10 |  |
-| 79 | SimpleSwap |  | [Telegram](https://t.me/raskrutichannel) [Bot](https://t.me/ErzyNetWebBot) [Site](https://simpleswap.io/?utm_source=tonapp&utm_medium=portal&utm_campaign=exchange) |  | 2025-02-18 |  |
+| 79 | SimpleSwap |  | [Site](https://simpleswap.io/?utm_source=tonapp&utm_medium=portal&utm_campaign=exchange) |  | 2025-02-18 |  |
 | 80 | DW: Toncoin Buy&Sell | Buy & Sale TON Coin with great rate in few clicks. The part of the ecosystem. | [Telegram](https://t.me/TokenInfinity) [Bot](https://t.me/DW_tonbot) |  | 2025-01-13 |  |
-| 81 | LBank Exchange |  | [Telegram](https://t.me/nexabitHQ) [Bot](https://t.me/NexaBit_Tap_bot) |  | 2024-10-19 |  |
+| 81 | LBank Exchange |  |  |  | 2024-10-19 |  |
 | 82 | Optsnap Trading |  | [Telegram](https://t.me/opt_snap) [Site](https://optsnap.com/) |  | 2024-09-08 |  |
 
 ## Closed

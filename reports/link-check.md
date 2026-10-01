@@ -1,6 +1,6 @@
 # Link check
 
-3187 projects, 7246 links checked, 1103 need a look.
+3187 projects, 7246 links checked, 998 need a look.
 
 A mismatch is not always an error: a project may run under another brand. Fix the link in `data/projects.csv` or confirm it in the pull request.
 
@@ -37,27 +37,16 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Block Watch | analytics | [telegram](https://t.me/BLWDev_bot) | not a channel or group (a bot or a personal account) |
 | Block Watch | analytics | [bot](https://t.me/BWDevapp) | a channel or group, not a bot |
 | CoinCrackerBot | analytics | links | no links at all |
-| CoinRobot | analytics | [telegram](https://t.me/polkaswap) | page is "Polkaswap.io (Official)", does not match the name |
-| CoinRobot | analytics | [bot](https://t.me/polkaswap_io_bot) | page is "Polkaswap.io", does not match the name |
 | CryptoRiskyGameCalls | analytics | [bot](https://t.me/vukly_bot) | page is "Vukly", does not match the name |
 | Full Metal Jetton | analytics | links | no links at all |
 | Jetton Whale Swaps | analytics | [telegram](https://t.me/MoonWeb3) | page is "TON Moon Web3 🚀 NFT / Citadel Скам Station 🛰", does not match the name |
 | Jetton Whale Swaps | analytics | [bot](https://t.me/NFTRobot) | page is "NFT No Royalty / Ton Web3 Station", does not match the name |
-| Jettons Price Alerts | analytics | [telegram](https://t.me/StarzMarketNews) | page is "Starz Market News", does not match the name |
-| Journalinvest | analytics | [telegram](https://t.me/tagged) | page is "@Tags Community", does not match the name |
 | Live Price TonCoin | analytics | [website](https://fan-ton.com/) | fan-ton.com does not match the name |
-| Mooli | analytics | [telegram](https://t.me/Okexir) | page is "صرافی ارز دیجیتال اوکی اکسچنج / ok-ex.io", does not match the name |
 | POLYTEND DIGEST | analytics | links | no links at all |
-| TBC - Client | analytics | [telegram](https://t.me/tonbankcard) | page is "TONBANKCARD", does not match the name |
-| TBC TVL TON | analytics | [telegram](https://t.me/tonbankcard) | page is "TONBANKCARD", does not match the name |
-| TOKEN INSIDE | analytics | [telegram](https://t.me/solobank) | page is "Username sotiladi", does not match the name |
-| TOKEN INSIDE | analytics | [bot](https://t.me/solobankbot) | page is "Solo", does not match the name |
 | TON burnt | analytics | links | no links at all |
 | TON Price Converter | analytics | [website](https://coinrecast.com/) | coinrecast.com does not match the name |
-| Ton Research | analytics | [telegram](https://t.me/FlutterBees) | page is "FlutterBees 🐝 Announcements", does not match the name |
 | Ton Research | analytics | [website](https://www.flutterbees.app) | http error; www.flutterbees.app does not match the name |
 | TON TRENDING BOT | analytics | [bot](https://t.me/InsectTonBuyBot) | page is "Insect Buy Bot", does not match the name |
-| Toncoin Converter | analytics | [bot](https://t.me/paybis_crypto_exchange_bot) | page is "Paybis", does not match the name |
 | TonDomenBot | analytics | links | no links at all |
 | Tonkol | analytics | [bot](https://t.me/tonkoltrades) | a channel or group, not a bot |
 | Tonkol | analytics | [x](https://x.com/Toncoinkol) | @toncoinkol not found (renamed, suspended or deleted) |
@@ -65,15 +54,12 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Tonmarketcap | analytics | [bot](https://t.me/tonmarketcap_channel) | a channel or group, not a bot |
 | Tonometer | analytics | [telegram](https://t.me/delab) | page is "DeLab Team", does not match the name |
 | Tracker TON | analytics | [telegram](https://t.me/TokenInfinity) | page is "Infinity • Community", does not match the name |
-| Wallet Analysis | analytics | [telegram](https://t.me/Arbitragescanner_official) | not a channel or group (a bot or a personal account) |
-| Wallets Live | analytics | [telegram](https://t.me/arbitragescanner_eng) | page is "Arbitrage Scanner (official)", does not match the name |
 | Wallets Live | analytics | [website](https://arbitragescanner.io/) | arbitragescanner.io does not match the name |
 | x1000 | analytics | [telegram](https://t.me/x1000) | not a channel or group (a bot or a personal account) |
 | x1000 | analytics | [bot](https://t.me/x1000_en) | a channel or group, not a bot |
 | xGift | analytics | [telegram](https://t.me/xgift) | not a channel or group (a bot or a personal account) |
 | Реклама NFT в Telegram | analytics | [x](https://x.com/smmpanelru) | @smmpanelru ("Smm Panel") does not match the name |
 | Тонус | analytics | [bot](https://t.me/brainscoin_bot) | page is "BrainsCoin Games", does not match the name |
-| TrustaTONApp_bot | audit | [telegram](https://t.me/trustalabsann) | page is "Trusta.AI / AI-driven Identity &amp; Reputation Protocol", does not match the name |
 | BitOK | audit | [telegram](https://t.me/bitok_support) | not a channel or group (a bot or a personal account) |
 | Cryptonite Scanner | audit | [telegram](https://t.me/cryptonportal) | page is "Crypton Announcements", does not match the name |
 | Cryptonite Scanner | audit | [website](https://crypton.tools) | crypton.tools does not match the name |
@@ -81,7 +67,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | JettonTonGuard | audit | [telegram](https://t.me/JettonTonGuard_Bot) | not a channel or group (a bot or a personal account) |
 | JettonTonGuard | audit | [bot](https://t.me/JettonTonGuard) | a channel or group, not a bot |
 | re:doubt | audit | [telegram](https://t.me/uShopWeb) | page is "Интернет-магазины в формате веб-бота в Telegram / uShopWebBo", does not match the name |
-| re:doubt | audit | [bot](https://t.me/uShopWebBot) | page is "Конструктор Интернет-Магазина Web App / uShopWebBot", does not match the name |
 | Solidity auditor | audit | [telegram](https://t.me/LegalKornet) | not a channel or group (a bot or a personal account) |
 | Solidity auditor | audit | [website](https://www.legal-kornet.com) | www.legal-kornet.com does not match the name |
 | Verify | audit | [bot](https://t.me/verify_eng) | a channel or group, not a bot |
@@ -93,9 +78,7 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | TON ↔ BSC | bridges | [telegram](https://t.me/contest) | page is "Telegram Contests", does not match the name |
 | TON ↔ BSC | bridges | [bot](https://t.me/cryptouser_bot) | page is "Chameleon🦎 Wallet", does not match the name |
 | TON ↔ BSC | bridges | [website](https://bridge.ton.org) | bridge.ton.org does not match the name |
-| TON Bridge | bridges | [telegram](https://t.me/tonbankcard) | page is "TONBANKCARD", does not match the name |
 | Axai on Waves | bridges | [x](https://x.com/wxnetwork) | @wxnetwork ("WX Network") does not match the name |
-| island3 | bridges | [telegram](https://t.me/dedust_en) | page is "DeDust.io – TON DEX", does not match the name |
 | island3 | bridges | [website](https://bridge.rangersprotocol.com/) | http error; bridge.rangersprotocol.com does not match the name |
 | VIZ gateway | bridges | [bot](https://t.me/viz_cx) | a channel or group, not a bot |
 | TON App | catalogs | [website](https://ton-game.com) | ton-game.com does not match the name |
@@ -104,8 +87,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | FolioTrade | devtools | [telegram](https://t.me/foliostack) | page is "FolioStack", does not match the name |
 | IntelliJ Idea plugin | devtools | [telegram](https://t.me/actiqapp) | page is "Actiquest News Channel EN", does not match the name |
 | IntelliJ Idea plugin | devtools | [x](https://x.com/actiqapp) | @actiqapp not found (renamed, suspended or deleted) |
-| Minter | devtools | [telegram](https://t.me/moonpacket_bot) | not a channel or group (a bot or a personal account) |
-| Minter | devtools | [bot](https://t.me/moonpacketchat) | a channel or group, not a bot |
 | TON Testnet Faucet | devtools | [website](https://ton.run/#/faucet) | ton.run does not match the name |
 | Shuttle | devtools | [telegram](https://t.me/Shuttle_ads) | not a channel or group (a bot or a personal account) |
 | 8XR | devtools | [telegram](https://t.me/gam8s) | page is "Hackney Games Studio", does not match the name |
@@ -113,44 +94,30 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Apps Father | devtools | [bot](https://t.me/apps_father) | a channel or group, not a bot |
 | DeLab | devtools | [bot](https://t.me/delabbot) | a channel or group, not a bot |
 | Development Wallet | devtools | [website](https://test.tonhub.com/dl) | test.tonhub.com does not match the name |
-| Jetton Arbitrage | devtools | [telegram](https://t.me/TGShopNews) | page is "Shops Builder News [RU]", does not match the name |
-| Jetton Arbitrage | devtools | [bot](https://t.me/TGShopsBuilderBot) | page is "Shops Builder", does not match the name |
 | LFG AI Market | devtools | [telegram](https://t.me/lfg_ai_bot) | not a channel or group (a bot or a personal account) |
 | LFG AI Market | devtools | [bot](https://t.me/ruhunt) | page is "Ruhunt", does not match the name |
 | node-tonlib | devtools | links | no links at all |
-| Rift | devtools | [telegram](https://t.me/tonbankcard) | page is "TONBANKCARD", does not match the name |
 | SwiftyTON | devtools | links | no links at all |
-| Testnet Faucet | devtools | [bot](https://t.me/paybis_crypto_exchange_bot) | page is "Paybis", does not match the name |
 | TON & TG Dev Tools | devtools | [website](https://mehrdadjeyrani.ir) | mehrdadjeyrani.ir does not match the name |
-| TON Domain Info bot | devtools | [telegram](https://t.me/coincraddle_en) | page is "CoinCraddle Exchange", does not match the name |
-| TON Domain Info bot | devtools | [bot](https://t.me/coincraddle_change_bot) | page is "CoinCraddle Bot", does not match the name |
 | TON NoCode SDK | devtools | [telegram](https://t.me/safemoonTon) | page is "SAFE TON ANNOUNCEMENT CHANNEL", does not match the name |
 | TON NoCode SDK | devtools | [bot](https://t.me/safeTONdotFun) | a channel or group, not a bot |
 | TON NoCode SDK | devtools | [x](https://x.com/SafetonPad) | @safetonpad ("SAFETON.FUN") does not match the name |
-| Tonana | devtools | [telegram](https://t.me/nums888) | page is "Numbers 888 / Announcements", does not match the name |
-| Tonana | devtools | [bot](https://t.me/nums888bot) | page is "Numbers 888 / Bot", does not match the name |
 | TONNode | devtools | [bot](https://t.me/tonnode_chat) | a channel or group, not a bot |
-| Vanity TON | devtools | [bot](https://t.me/earnigram_group) | a channel or group, not a bot |
 | VS Code Plugin | devtools | [website](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode) | marketplace.visualstudio.com does not match the name |
 | CoffinMeme | dex | [telegram](https://t.me/coffin_en) | page is "Coffin ⚰️", does not match the name |
 | Simple swap | dex | [bot](https://t.me/SwapSCBot) | a channel or group, not a bot |
 | ChainCrops | dex | [website](https://traffic.adsgram.ai/campaigns) | traffic.adsgram.ai does not match the name |
-| Alpha Dex | dex | [telegram](https://t.me/hotonnear) | page is "HOT Updates", does not match the name |
-| Capital DEX | dex | [bot](https://t.me/TONPlanetsBot) | page is "@TONPlanetsBot", does not match the name |
 | Capital DEX | dex | [x](https://x.com/curio_invest) | @curio_invest ("Curio Ecosystem / Tokenize The World") does not match the name |
 | LoneToken CABOT | dex | links | no links at all |
-| MARS DEX | dex | [bot](https://t.me/TONPlanetsBot) | page is "@TONPlanetsBot", does not match the name |
 | Snorter Bot | dex | [website](https://bs_6847cd65.medexa.care) | http error; bs_6847cd65.medexa.care does not match the name |
 | The Gate | dex | [website](https://thegate.fun) | http error |
 | Trade TOKEN | dex | [telegram](https://t.me/gumcoin) | page is "Gumcoin Channel", does not match the name |
 | Trade TOKEN | dex | [website](https://gumcoin.org/) | gumcoin.org does not match the name |
-| Uniswap | dex | [telegram](https://t.me/ime_en) | page is "iMe: Telegram AI Messenger", does not match the name |
 | UpFin Trading Bot | dex | [telegram](https://t.me/upfin_bot) | not a channel or group (a bot or a personal account) |
 | UpFin Trading Bot | dex | [bot](https://t.me/UpFinChannel) | a channel or group, not a bot |
 | What Swap | dex | [x](https://x.com/bigbangdear) | @bigbangdear not found (renamed, suspended or deleted) |
 | xDelta | dex | [telegram](https://t.me/xdelta_bot) | not a channel or group (a bot or a personal account) |
 | xDelta | dex | [bot](https://t.me/xdelta_finance) | a channel or group, not a bot |
-| TonNewbie | education | [bot](https://t.me/blockspinbot) | page is "BlockspinGamingBOT", does not match the name |
 | TonNewbie | education | [x](https://x.com/ru) | @ru not found (renamed, suspended or deleted) |
 | iQuizMaster | education | [x](https://x.com/snapsterbot) | @snapsterbot ("snapster trading app 🫰") does not match the name |
 | BehLand - Web3 L2E | education | [bot](https://t.me/BehLand_gp) | a channel or group, not a bot |
@@ -162,7 +129,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | TonTon by Intract | education | [website](https://ton.bulksender.app) | ton.bulksender.app does not match the name |
 | Catia Eduverse | education | [website](https://catia.co/) | http error |
 | FunC Lessons | education | [telegram](https://t.me/ton_learn) | page is "TON_Learn", does not match the name |
-| Дневник разработчика на TON | education | [bot](https://t.me/pandalotterybot) | page is "Panda Lotto Bot", does not match the name |
 | Дневник стартапера | education | [bot](https://t.me/chaingptai_bot) | page is "ChainGPT AI", does not match the name |
 | Дневник стартапера | education | [website](https://www.chaingpt.org/) | www.chaingpt.org does not match the name |
 | Мнимый в крипте | education | [telegram](https://t.me/pixilandofficial) | page is "PixiLand: Age of Heroes Official", does not match the name |
@@ -178,25 +144,14 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | HunteX | exchanges | [website](https://huntex.io/) | http error |
 | Arkham Exchange | exchanges | [website](https://arkm.com/) | arkm.com does not match the name |
 | Azbit | exchanges | [bot](https://t.me/TON_NFT_Market_HYBRA_bot) | page is "TON NFT Market HYBRA", does not match the name |
-| BIT | exchanges | [telegram](https://t.me/storm_trade_news) | page is "Storm Trade / News ⚡️", does not match the name |
-| BIT | exchanges | [bot](https://t.me/StormTradeBot) | page is "Storm Trade Bot", does not match the name |
-| Cryptobotex | exchanges | [telegram](https://t.me/multikassa_channel) | page is "MultiKassa - сервис обмена криптовалют", does not match the name |
-| Cryptobotex | exchanges | [bot](https://t.me/multikassa_bot) | page is "MultiKassa - сервис обмена криптовалют", does not match the name |
 | CryptoGas.shop | exchanges | [website](https://cryptogas.shop/ton?ref=37027482) | http 502 |
-| DigiFinex | exchanges | [telegram](https://t.me/TgStarStore_bot) | not a channel or group (a bot or a personal account) |
-| DigiFinex | exchanges | [bot](https://t.me/StarStore_app) | a channel or group, not a bot |
 | DW: Toncoin Buy&Sell | exchanges | [telegram](https://t.me/TokenInfinity) | page is "Infinity • Community", does not match the name |
 | Excoino | exchanges | [bot](https://t.me/tonbuytechbot) | page is "BuyBot by TON Inu", does not match the name |
 | EXMO | exchanges | [bot](https://t.me/GrinderyAIBot) | page is "Grindery", does not match the name |
-| LBank Exchange | exchanges | [telegram](https://t.me/nexabitHQ) | page is "NexaBit Lab", does not match the name |
-| LBank Exchange | exchanges | [bot](https://t.me/NexaBit_Tap_bot) | page is "NexaBits", does not match the name |
-| Matrixport | exchanges | [telegram](https://t.me/tondocsign_bot) | not a channel or group (a bot or a personal account) |
 | MyStars.tg | exchanges | [telegram](https://t.me/my_stars_tg_bot) | not a channel or group (a bot or a personal account) |
 | MyStars.tg | exchanges | [bot](https://t.me/mystarstg_official) | a channel or group, not a bot |
 | NovaDax | exchanges | [telegram](https://t.me/livehub_to) | page is "LiveHub / Donations", does not match the name |
 | Optsnap Trading | exchanges | [website](https://optsnap.com/) | http error |
-| SimpleSwap | exchanges | [telegram](https://t.me/raskrutichannel) | page is "Erzy / Раскрутка телеграм канала", does not match the name |
-| SimpleSwap | exchanges | [bot](https://t.me/ErzyNetWebBot) | page is "Erzy Cross Promotion Bot", does not match the name |
 | StarStore | exchanges | [telegram](https://t.me/TgStarStore_bot) | not a channel or group (a bot or a personal account) |
 | StarStore | exchanges | [bot](https://t.me/StarStore_app) | a channel or group, not a bot |
 | Starz Market | exchanges | [website](https://durovs.com) | durovs.com does not match the name |
@@ -204,9 +159,7 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Tonviewer | explorers | [x](https://x.com/bestramp_io) | @bestramp_io not found (renamed, suspended or deleted) |
 | Tonscan.com | explorers | [x](https://x.com/bastion) | @bastion ("Bastion") does not match the name |
 | TON NFT Explorer | explorers | [telegram](https://t.me/this_is_ton) | page is "this is TON", does not match the name |
-| Dton | explorers | [telegram](https://t.me/StalinFoundation) | page is "Stalin Decentralized", does not match the name |
 | TON Atlas | explorers | [website](https://8xr.io) | 8xr.io does not match the name |
-| Whales Explorer | explorers | [telegram](https://t.me/tonflow_community) | page is "TONFLOW Community", does not match the name |
 | Time Farm | farming | [website](https://Chrono.tech) | chrono.tech does not match the name |
 | Hrum | farming | [website](https://tonco.io/) | tonco.io does not match the name |
 | Rich Dog Game | farming | [telegram](https://t.me/richdogsupport) | not a channel or group (a bot or a personal account) |
@@ -246,7 +199,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | VWS Games | farming | [telegram](https://t.me/MagicVipClub) | page is "Magic Vip Club 👑", does not match the name |
 | VWS Games | farming | [x](https://x.com/VirtualsWorlds) | @virtualsworlds not found (renamed, suspended or deleted) |
 | StewieQuest | farming | [telegram](https://t.me/donotgame) | page is "Donot Community", does not match the name |
-| TMNT Game | farming | [telegram](https://t.me/ime_en) | page is "iMe: Telegram AI Messenger", does not match the name |
 | TMNT Game | farming | [website](https://www.imem.app/) | www.imem.app does not match the name |
 | CELL Wallet | farming | [x](https://x.com/kirillzzy) | @kirillzzy ("kirill avery") does not match the name |
 | CELL Wallet | farming | [website](https://joinhuman.com/) | http 404; joinhuman.com does not match the name |
@@ -264,10 +216,8 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Ballz of Steel | farming | [website](https://chainaware.ai/) | chainaware.ai does not match the name |
 | DFTap | farming | [website](https://www.digifinex.com/) | www.digifinex.com does not match the name |
 | OptimusX | farming | [website](https://optimusx.org/) | http error |
-| EasyWatch | farming | [telegram](https://t.me/blockcard_bc) | page is "Block Card / &#036;BC", does not match the name |
 | Qappi Miner | farming | [x](https://x.com/weatherxm) | @weatherxm not found (renamed, suspended or deleted) |
 | Maybecoin | farming | [website](https://alchemy.f2p.ms) | alchemy.f2p.ms does not match the name |
-| Official Satoshi Miner | farming | [telegram](https://t.me/notTriton) | page is "Triton Community", does not match the name |
 | Oxygen Miner | farming | [website](https://xp.network/) | xp.network does not match the name |
 | TOM - The Open Meme | farming | [telegram](https://t.me/doges_ton) | page is "DOGESTON ECOSYSTEM", does not match the name |
 | TONIX App | farming | [telegram](https://t.me/TonixDAO_bot) | not a channel or group (a bot or a personal account) |
@@ -285,7 +235,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | ChallenQuizBot | farming | [telegram](https://t.me/challenquiz) | page is "ChallenQuiz", does not match the name |
 | Vending Coin ($VNDG) | farming | [website](https://vndg.world/) | http error |
 | RocketTON | farming | [website](https://rocketton.com) | http error |
-| Me Earn | farming | [telegram](https://t.me/architecton_tech) | page is "Architecton Wallet MEDIA ARC🦄", does not match the name |
 | Me Earn | farming | [website](https://architecton.tech/) | architecton.tech does not match the name |
 | #ApexHash | farming | [telegram](https://t.me/apexhash_bot) | not a channel or group (a bot or a personal account) |
 | #ApexHash | farming | [bot](https://t.me/apexhashcommunity) | a channel or group, not a bot |
@@ -301,10 +250,8 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | @tontribebot | farming | [telegram](https://t.me/gametribeton) | page is "Tribe Ton Community", does not match the name |
 | @tontribebot | farming | [x](https://x.com/tribetonapp) | @tribetonapp not found (renamed, suspended or deleted) |
 | @WheelOfWhalesBot | farming | [website](https://whale.io/?start=tonapp-review) | whale.io does not match the name |
-| ABT Miner | farming | [telegram](https://t.me/durevvpn) | page is "Durev VPN / Новости", does not match the name |
 | ABT Miner | farming | [website](https://durevpn.com/) | durevpn.com does not match the name |
 | Ai Angels | farming | [bot](https://t.me/AI_Angels_Official) | a channel or group, not a bot |
-| AI Sketch Art | farming | [bot](https://t.me/tgshopsbuilderbot) | page is "Shops Builder", does not match the name |
 | Airdrop Express | farming | [x](https://x.com/BRC20Chat) | @brc20chat not found (renamed, suspended or deleted) |
 | Airdropify | farming | [bot](https://t.me/airdropify_bot) | a channel or group, not a bot |
 | Airdropify | farming | [website](https://airdropify.net/) | http error |
@@ -316,7 +263,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | ANTOWN | farming | [x](https://x.com/ANTTIME_NET) | @anttime_net ("ANTTIME / TIME To EARN 💚") does not match the name |
 | ANTOWN | farming | [website](https://anttime.net/) | anttime.net does not match the name |
 | Apiary | farming | [x](https://x.com/SyrupalOfficial) | @syrupalofficial ("Syrupal Protocol 🍯") does not match the name |
-| AskTon | farming | [bot](https://t.me/Directual_bot) | page is "Directual AI", does not match the name |
 | ASTREX | farming | [telegram](https://t.me/astrex_bot) | not a channel or group (a bot or a personal account) |
 | ASTREX | farming | [bot](https://t.me/astrex_game) | a channel or group, not a bot |
 | Bibizean TCG | farming | [bot](https://t.me/BibizeanTCGbot) | a channel or group, not a bot |
@@ -329,7 +275,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Clean Sheets | farming | [bot](https://t.me/BalliesUniverse_bot) | page is "BalliesUniverse &#036;BALL", does not match the name |
 | Clean Sheets | farming | [x](https://x.com/BalliesUniverse) | @balliesuniverse ("Ballies") does not match the name |
 | Clean Sheets | farming | [website](https://cs.ballies.gg) | cs.ballies.gg does not match the name |
-| CookieBitten | farming | [telegram](https://t.me/cookiestokens) | page is "Cookie", does not match the name |
 | CrossFi Tap | farming | [website](https://test.xficonsole.com) | http 521; test.xficonsole.com does not match the name |
 | Crypto Colonies | farming | [website](https://cryptocolonies.io/) | http error |
 | Crypto Fruit Farm | farming | [website](https://home.fruitcryptofarm.xyz) | http error |
@@ -451,7 +396,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Quantum Core | farming | [x](https://x.com/ocalirdigital) | @ocalirdigital ("Ocalir Digital") does not match the name |
 | Qubbi | farming | [telegram](https://t.me/QubbiOfficialBot) | not a channel or group (a bot or a personal account) |
 | Qubbi | farming | [bot](https://t.me/gemstargames) | a channel or group, not a bot |
-| Qubix Arena | farming | [website](https://www.qubixinfinity.io/) | http error |
 | Quiz Wars | farming | [telegram](https://t.me/quizwars_bot) | not a channel or group (a bot or a personal account) |
 | Quiz Wars | farming | [bot](https://t.me/quizwars) | a channel or group, not a bot |
 | Racing TON | farming | [website](https://racington.tongram.app/) | http 530 |
@@ -507,7 +451,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | TONTurbobot | farming | [x](https://x.com/tonturbo_app) | @tonturbo_app not found (renamed, suspended or deleted) |
 | TradyFi | farming | [telegram](https://t.me/tradyfi_token_bot) | not a channel or group (a bot or a personal account) |
 | TradyFi | farming | [bot](https://t.me/TradyFiCC) | a channel or group, not a bot |
-| TTCoin | farming | [bot](https://t.me/tontoncoinbot) | a channel or group, not a bot |
 | Versus | farming | [telegram](https://t.me/versus_app_bot) | not a channel or group (a bot or a personal account) |
 | Versus | farming | [bot](https://t.me/versus_community) | a channel or group, not a bot |
 | VibeCoin | farming | [x](https://x.com/VibeCrackers) | @vibecrackers not found (renamed, suspended or deleted) |
@@ -550,7 +493,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Mines Ton Giveaways | gambling | [bot](https://t.me/mines_ton) | a channel or group, not a bot |
 | OwlGames | gambling | [x](https://x.com/OWLDAOio) | @owldaoio ("OWLDAO") does not match the name |
 | OwlGames | gambling | [website](https://owl.games) | owl.games does not match the name |
-| Playgram | gambling | [bot](https://t.me/torch_finance_bot) | page is "Torch DEX", does not match the name |
 | Rakebit Casino | gambling | [website](https://rake-tracker.com/d152b6adc) | rake-tracker.com does not match the name |
 | Rocket Case | gambling | [telegram](https://t.me/RocketCaseBot) | not a channel or group (a bot or a personal account) |
 | Rocket Case | gambling | [bot](https://t.me/RocketCaseNews) | a channel or group, not a bot |
@@ -560,7 +502,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Russian Roulette | gambling | [website](https://ruroll.com) | ruroll.com does not match the name |
 | Skellybets | gambling | [x](https://x.com/SkellyVerse) | @skellyverse ("attackerrr buddy") does not match the name |
 | Spend-A-TON | gambling | [x](https://x.com/zjor) | @zjor ("Sergey Royz") does not match the name |
-| Sportsbet | gambling | [telegram](https://t.me/tonshaker_news) | page is "TON Shaker News", does not match the name |
 | TGCasino | gambling | [website](https://www.tg.casino) | www.tg.casino does not match the name |
 | ThePredictorX | gambling | [x](https://x.com/thepredictorapp) | @thepredictorapp not found (renamed, suspended or deleted) |
 | TON Crypto Games | gambling | [telegram](https://t.me/tonslotgames) | page is "TON Slot Games", does not match the name |
@@ -570,12 +511,10 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Ton Vegas | gambling | [x](https://x.com/TonStars_) | @tonstars_ ("Stars on Ton") does not match the name |
 | Tonbet App | gambling | [website](https://tonbetapp.com) | http error |
 | TONbet Sportsbook | gambling | [website](https://tonbet.bet) | http error |
-| TONJiggle | gambling | [bot](https://t.me/treasure_tapper_bot) | page is "GALA TreasureTapper", does not match the name |
 | TONKING Network | gambling | [website](https://) | malformed url |
 | TWIF_choice | gambling | [telegram](https://t.me/Trump_Wif_Coin) | page is "Trump WIF Hat / Official channel", does not match the name |
 | UNLK Casino | gambling | [telegram](https://t.me/UNLKCasinoBot) | not a channel or group (a bot or a personal account) |
 | UNLK Casino | gambling | [bot](https://t.me/UNLKCasino) | a channel or group, not a bot |
-| Whale | gambling | [bot](https://t.me/auraxcryptobot) | page is "RAUM🎊", does not match the name |
 | Wins | gambling | [telegram](https://t.me/wins) | not a channel or group (a bot or a personal account) |
 | YezBet | gambling | [website](https://yez.bet) | yez.bet does not match the name |
 | PlayDeck | games | [telegram](https://t.me/playdecksupport) | not a channel or group (a bot or a personal account) |
@@ -591,11 +530,8 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Chess Zombies | games | [x](https://x.com/SHEDEVERstudio) | @shedeverstudio ("🆂🅷🅴🅳🅴🆅🅴🆁 . 🆂🆃🆄🅳🅸🅾") does not match the name |
 | GH Arena | games | [x](https://x.com/Tfarmio) | @tfarmio ("Tfarm.io") does not match the name |
 | Flutter Bees | games | [website](https://www.flutterbees.app) | http error |
-| VWS Utilities | games | [bot](https://t.me/MiningChatbot) | page is "Mining&#39;s bot", does not match the name |
 | Like & Love | games | [website](https://mehrdadjeyrani.ir) | mehrdadjeyrani.ir does not match the name |
-| Shahnameh | games | [bot](https://t.me/catsgang_bot) | page is "Cats 🐈‍⬛", does not match the name |
 | Shahnameh | games | [website](https://realgram.no/) | realgram.no does not match the name |
-| Panthers | games | [telegram](https://t.me/daolama) | page is "DAOLama NFT Lending", does not match the name |
 | Panthers | games | [website](https://app.daolama.co/?ref=y2Dz5GDMGL) | app.daolama.co does not match the name |
 | Lost Cats | games | links | no links at all |
 | Pump Game | games | [website](https://metania.games/) | metania.games does not match the name |
@@ -610,7 +546,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | ALFA GAME | games | [telegram](https://t.me/alfagame_support) | not a channel or group (a bot or a personal account) |
 | Spike Game | games | links | no links at all |
 | PepexVerse | games | [telegram](https://t.me/pepexsupport) | not a channel or group (a bot or a personal account) |
-| PUSH Coin | games | [telegram](https://t.me/bemofinance) | page is "bemo / TON Staking / Liquid Staking / bmTON", does not match the name |
 | PUSH Coin | games | [x](https://x.com/bemo_finance) | @bemo_finance not found (renamed, suspended or deleted) |
 | PUSH Coin | games | [website](https://bemo.fi/) | bemo.fi does not match the name |
 | Sharkara | games | [telegram](https://t.me/sharkara_dev) | not a channel or group (a bot or a personal account) |
@@ -618,12 +553,10 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | GemGame | games | [website](https://decibling.com) | decibling.com does not match the name |
 | Cat Planets | games | [website](https://catplanets.io) | http error |
 | Nail Mini Game | games | [telegram](https://t.me/BotGameyard) | page is "Bot Gameyard", does not match the name |
-| BeamTapBot | games | [telegram](https://t.me/gatto_game) | page is "Gatto / Official Channel (18+)", does not match the name |
 | BeamTapBot | games | [website](https://gatto.pw/) | gatto.pw does not match the name |
 | SiriusTap | games | [telegram](https://t.me/SiriuspadAnnouncements) | page is "Siriuspad Announcements", does not match the name |
 | SiriusTap | games | [website](https://www.siriuspad.com) | www.siriuspad.com does not match the name |
 | Punks Game | games | [telegram](https://t.me/Punks_Support) | not a channel or group (a bot or a personal account) |
-| Dogizen | games | [telegram](https://t.me/unstoppable_announcements) | page is "Be Unstoppable&#33;", does not match the name |
 | Dogizen | games | [website](https://unstoppable.money/) | unstoppable.money does not match the name |
 | TravelFrog | games | [website](https://frog.travel) | frog.travel does not match the name |
 | CryptoHacker | games | [website](https://cryptohacker.pro/) | http 404 |
@@ -632,7 +565,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | NEKO Box | games | [x](https://x.com/tongochi) | @tongochi not found (renamed, suspended or deleted) |
 | OctocrazeBot | games | [telegram](https://t.me/OctocrazeAnnouncement) | page is "Octocraze Official Announcement🐙", does not match the name |
 | OctocrazeBot | games | [x](https://x.com/octocraze) | @octocraze ("Octocraze") does not match the name |
-| Blaze Ember | games | [telegram](https://t.me/BeeHarvest) | page is "🇬🇧BeeHarvest [EN]", does not match the name |
 | Blaze Ember | games | [website](https://beeharvest.life) | beeharvest.life does not match the name |
 | LOA Hero | games | [telegram](https://t.me/officialopensea) | page is "OpenSea", does not match the name |
 | LOA Hero | games | [website](https://opensea.io/collection/sword-of-grandia) | opensea.io does not match the name |
@@ -642,7 +574,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Skull and Bones | games | [website](https://www.iemhash.com) | www.iemhash.com does not match the name |
 | Taitiko Arena Bot | games | [website](https://www.taitiko.com/) | http error |
 | TFARM | games | [website](https://docs.tfarm.io/) | http error |
-| PonchKickBot | games | [telegram](https://t.me/symbiosis_announcements) | page is "Symbiosis 👾 Announcements", does not match the name |
 | PonchKickBot | games | [x](https://x.com/ponchiqs) | @ponchiqs ("Ponchiqs") does not match the name |
 | PonchKickBot | games | [website](https://symbiosis.finance) | symbiosis.finance does not match the name |
 | TON ROLL Games | games | [telegram](https://t.me/tonroll_support) | not a channel or group (a bot or a personal account) |
@@ -652,11 +583,9 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | WealthQuiz | games | [website](https://jvault.xyz) | jvault.xyz does not match the name |
 | BIXTAPCLICK | games | [telegram](https://t.me/giftchann) | page is "Jj", does not match the name |
 | BIXTAPCLICK | games | [x](https://x.com/bitbixofficial) | @bitbixofficial not found (renamed, suspended or deleted) |
-| ParadiseTap | games | [telegram](https://t.me/apo11ocomm) | page is "APO11O Community", does not match the name |
 | BeHappy | games | [website](https://tractioneye.xyz/) | tractioneye.xyz does not match the name |
 | EraOfExplorersbot | games | [x](https://x.com/eraofexplorers) | @eraofexplorers ("Era Of Explorers（EOE）") does not match the name |
 | ClydeTap | games | [telegram](https://t.me/ClydeTap) | not a channel or group (a bot or a personal account) |
-| Preton Legacy | games | [telegram](https://t.me/ShelterOfExiles) | page is "Soex Gaming Universe", does not match the name |
 | Doomer Story | games | [website](https://octalend.xyz) | octalend.xyz does not match the name |
 | Royal Pets | games | [telegram](https://t.me/boxrush_news) | page is "BoxRush", does not match the name |
 | SnakeLite | games | [telegram](https://t.me/chpoker_official) | page is "Chpoker Official", does not match the name |
@@ -673,15 +602,12 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Cakon | games | [telegram](https://t.me/Cakonio) | not a channel or group (a bot or a personal account) |
 | TonJump | games | [website](https://www.tonjump.xyz/web) | http 402 |
 | Gangsta Monkey | games | [telegram](https://t.me/GangstaMonkey_Manager) | not a channel or group (a bot or a personal account) |
-| TapBase | games | [telegram](https://t.me/totalhashcommunity) | page is "#TotalHash Community", does not match the name |
-| Cowtopia | games | [telegram](https://t.me/nmotongame) | page is "Neon Maidens Online: TON Game", does not match the name |
 | LuckyBot | games | [bot](https://t.me/luckycode666_bot) | page is "LuckyCoinBot", does not match the name |
 | AkedoBot | games | links | no links at all |
 | Coco Rush | games | [x](https://x.com/BONS_social) | @bons_social not found (renamed, suspended or deleted) |
 | Coco Rush | games | [website](https://solscan.io/token/BCNT4t3rv5Hva8RnUtJUJLnxzeFAabcYp8CghC1SmWin) | solscan.io does not match the name |
 | KWINK | games | [telegram](https://t.me/kwink_support) | not a channel or group (a bot or a personal account) |
 | ToMarsCoin | games | [website](https://tothemars.org) | http error; tothemars.org does not match the name |
-| Tea SOL Memebot | games | [telegram](https://t.me/athletix) | page is "Athletix - AI Sports Predictions", does not match the name |
 | Tea SOL Memebot | games | [website](https://teameme.wtf/) | http error |
 | TreasureTapper | games | [telegram](https://t.me/grinderyai) | page is "Grindery.AI 🤖 Updates 📣", does not match the name |
 | TreasureTapper | games | [website](https://www.grindery.com/) | www.grindery.com does not match the name |
@@ -700,9 +626,7 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | $CUBE Worlds | games | [website](https://x.com/bastion) | x.com does not match the name |
 | DCL BOT | games | links | no links at all |
 | Litrbull | games | [website](https://litrbull.com) | http error |
-| Spun Game App | games | [telegram](https://t.me/blockchemy) | page is "Blockchemy Announcement", does not match the name |
 | CRONA | games | [website](https://sociafober.me) | sociafober.me does not match the name |
-| DuckOnTon Game | games | [bot](https://t.me/psyduckgamexyzbot) | page is "Ducks 💎", does not match the name |
 | WINKO Game Token | games | [telegram](https://t.me/foliostack) | page is "FolioStack", does not match the name |
 | Joker | games | [x](https://x.com/moki_ag) | @moki_ag ("Moki / @MokiSwapBot on Telegram 🏮") does not match the name |
 | Endless Siege 2 Game | games | [website](https://hackney.games) | hackney.games does not match the name |
@@ -725,7 +649,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Base Bear Cutie | games | [website](https://basebear.pro/) | http error |
 | Basic Reality | games | [telegram](https://t.me/Basic_reality_bot) | not a channel or group (a bot or a personal account) |
 | Basic Reality | games | [bot](https://t.me/basic_reality_chat) | a channel or group, not a bot |
-| BattleOfMemes | games | [telegram](https://t.me/head_coin) | page is "Headcoin Community 🦁", does not match the name |
 | BEERTAP GAME | games | [x](https://x.com/beercoinmeme) | @beercoinmeme ("Beercoin 2.0") does not match the name |
 | Blockchemy | games | [website](https://blockchemy.io/) | http error |
 | Blockrain | games | [bot](https://t.me/Blockrainbot) | a channel or group, not a bot |
@@ -792,7 +715,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Mortal Klicker | games | [website](https://esprito.com) | esprito.com does not match the name |
 | MOWTON | games | [x](https://x.com/MOW_Game_Ton) | @mow_game_ton not found (renamed, suspended or deleted) |
 | Native Survivors | games | [x](https://x.com/NTSP_X) | @ntsp_x not found (renamed, suspended or deleted) |
-| NOTHERO | games | [telegram](https://t.me/Not_Notcoin) | page is "NotNotcoin &#036;NOTNOT", does not match the name |
 | Notto | games | [telegram](https://t.me/nottogame_bot) | not a channel or group (a bot or a personal account) |
 | Notto | games | [bot](https://t.me/notto) | a channel or group, not a bot |
 | OpenPad | games | [website](https://openpad.io/homepage) | http 404 |
@@ -807,7 +729,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | RockPaperScissorFU🖕 | games | [website](https://rpsfu.com) | rpsfu.com does not match the name |
 | Runecoin Network | games | [website](https://runecoin.network/) | http error |
 | Russian Roullete | games | [website](https://ruroll.com) | ruroll.com does not match the name |
-| SCP | games | [telegram](https://t.me/mainet_io) | page is "mAInet", does not match the name |
 | SCRATS | games | [website](https://bot.cryptosymbiotic.com/?user_id=1) | http error; bot.cryptosymbiotic.com does not match the name |
 | Spend | games | [website](https://zjor.github.io/cv/) | zjor.github.io does not match the name |
 | STARFISH Game | games | [website](https://caribdao.com) | caribdao.com does not match the name |
@@ -854,10 +775,8 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Quest Labs | launchpads | [website](https://torch.finance) | torch.finance does not match the name |
 | 2040World | launchpads | [website](https://cloudflare.com) | cloudflare.com does not match the name |
 | RoOLZ | launchpads | [website](https://Atrium.art) | atrium.art does not match the name |
-| Bankcoin | launchpads | [telegram](https://t.me/dogs_community) | page is "DOGS Community", does not match the name |
 | Snap Fly Bot | launchpads | [website](https://docs.snapfly.xyz/) | http error |
 | Fastmint App | launchpads | [telegram](https://t.me/Fastmint_Assist) | not a channel or group (a bot or a personal account) |
-| ListingUz | launchpads | [telegram](https://t.me/ForestGreenOfficial) | page is "Forest Green official🌲", does not match the name |
 | ListingUz | launchpads | [bot](https://t.me/cryptowood_mini_app_bot) | page is "CryptucurrencyMiniApp", does not match the name |
 | Orexn | launchpads | [bot](https://t.me/Orexnbot) | a channel or group, not a bot |
 | SolanaForge | launchpads | [bot](https://t.me/SolanaForgeChannel) | a channel or group, not a bot |
@@ -878,8 +797,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | StarAI | nftmarkets | [website](https://starai.pro/) | http error |
 | TONBANKCARD TECH | nftmarkets | [website](https://getgems.io/collection/EQAjHkHtt1MIoU5c7dks73Rz8NMxAA3oStSrcQ_qgn3il-Le) | getgems.io does not match the name |
 | Stalin Party Card | nftmarkets | [website](https://) | malformed url |
-| Market Makers | nftmarkets | [telegram](https://t.me/storm_trade_news) | page is "Storm Trade / News ⚡️", does not match the name |
-| Market Makers | nftmarkets | [bot](https://t.me/StormTradeBot) | page is "Storm Trade Bot", does not match the name |
 | Mining NFT | nftmarkets | [telegram](https://t.me/MagicVipClub) | page is "Magic Vip Club 👑", does not match the name |
 | Mining NFT | nftmarkets | [x](https://x.com/VirtualsWorlds) | @virtualsworlds not found (renamed, suspended or deleted) |
 | DropGift | nftmarkets | [telegram](https://t.me/tondartist) | page is "Dart Studio", does not match the name |
@@ -908,7 +825,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | NFT Drop Calendar | nftmarkets | links | no links at all |
 | NFT Scanner | nftmarkets | [telegram](https://t.me/Arbitragescanner_official) | not a channel or group (a bot or a personal account) |
 | NFT TONificaror | nftmarkets | [bot](https://t.me/rb_click_bot) | page is "rbx_click", does not match the name |
-| NFTWallet | nftmarkets | [telegram](https://t.me/fragmentanalytics) | page is "FRAGMENT USERNAMES / GIFTS / NUMBERS 🧳🏴‍☠️", does not match the name |
 | Nobby.Game Fortune | nftmarkets | [website](https://getgems.io/collection/EQBaE_70Tg9Te7jhdxVD9xPEdAdVt9W_rx1nRXeBK0-zleEZ) | getgems.io does not match the name |
 | NobbyGame Royale SOX | nftmarkets | [website](https://getgems.io/collection/EQAuvOFClTXbGGuSELiZz8tTEWOY-iyBwkUEpsWn-ZEcME4E) | getgems.io does not match the name |
 | Not Doge | nftmarkets | [website](https://getgems.io/collection/EQAOQFjv7uuyChgfCQnntF-TAIkBlvx9lbfhShvZkxG0Ht6Y#activity) | getgems.io does not match the name |
@@ -946,8 +862,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | MugglePay | payments | [telegram](https://t.me/mugglechatbot) | not a channel or group (a bot or a personal account) |
 | PassimPay | payments | [telegram](https://t.me/PassimPayAPP_Bot) | not a channel or group (a bot or a personal account) |
 | PassimPay | payments | [bot](https://t.me/Passim_Pay) | a channel or group, not a bot |
-| Payhook | payments | [telegram](https://t.me/BehLand_Official) | page is "BehLand Official", does not match the name |
-| Payhook | payments | [bot](https://t.me/BehLand_gp) | a channel or group, not a bot |
 | Seconds Market | payments | [telegram](https://t.me/Seconds_market_bot) | not a channel or group (a bot or a personal account) |
 | Seconds Market | payments | [bot](https://t.me/Seconds_market) | a channel or group, not a bot |
 | Swipelux | payments | [telegram](https://t.me/alwaysmoney_sup) | not a channel or group (a bot or a personal account) |
@@ -972,8 +886,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Coinco | shopping | [telegram](https://t.me/coinco_bot) | not a channel or group (a bot or a personal account) |
 | Coinco | shopping | [bot](https://t.me/coinco_global) | a channel or group, not a bot |
 | GiftX: AI Wishlist | shopping | [telegram](https://t.me/giftxtech_bot) | not a channel or group (a bot or a personal account) |
-| monomenu | shopping | [telegram](https://t.me/ton_portfel) | page is "Portfel — TON Portfolio Tracker", does not match the name |
-| monomenu | shopping | [bot](https://t.me/ton_portfel_bot) | page is "Portfel — TON Portfolio Tracker", does not match the name |
 | OpenMarketplace | shopping | [telegram](https://t.me/MarketplaceTeleBot) | not a channel or group (a bot or a personal account) |
 | OpenMarketplace | shopping | [bot](https://t.me/OpenMarketplaces) | a channel or group, not a bot |
 | Peravel | shopping | [website](https://app.peravel.com/) | http error |
@@ -981,7 +893,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | WebDosa | shopping | [telegram](https://t.me/undrdosabot) | not a channel or group (a bot or a personal account) |
 | WebDosa | shopping | [bot](https://t.me/undrdosa) | a channel or group, not a bot |
 | КрипTONский кот | social | [telegram](https://t.me/cryptoncat) | page is "КрипTONский кот", does not match the name |
-| Khomyakovo GOV | social | [telegram](https://t.me/stonksonton) | page is "sTONks", does not match the name |
 | Memepolis | social | [telegram](https://t.me/MemepolisBOSS) | not a channel or group (a bot or a personal account) |
 | Clout | social | [website](https://alpaton.bid) | http error; alpaton.bid does not match the name |
 | VIP Club | social | [x](https://x.com/BCBlueSkyVC) | @bcblueskyvc ("BC Blue Sky Ventures⚡️") does not match the name |
@@ -992,7 +903,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | DAOGEM | social | [x](https://x.com/ali_charts) | @ali_charts not found (renamed, suspended or deleted) |
 | Asiqpai | social | [telegram](https://t.me/asiqpai_bot) | not a channel or group (a bot or a personal account) |
 | Asiqpai | social | [bot](https://t.me/asiqpaihub) | a channel or group, not a bot |
-| Atomic Star | social | [telegram](https://t.me/StalinFoundation) | page is "Stalin Decentralized", does not match the name |
 | FireTon Drop | social | [telegram](https://t.me/moklgamefi) | page is "Moklgamefi", does not match the name |
 | FireTon Drop | social | [bot](https://t.me/mokl_io_bot) | page is "MOKL Battle", does not match the name |
 | Fox Tails | social | [bot](https://t.me/BearAMLBot) | a channel or group, not a bot |
@@ -1012,23 +922,18 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Wall Telegram | social | [bot](https://t.me/wall_people) | a channel or group, not a bot |
 | WAP 🐵 | social | [telegram](https://t.me/h0nworld) | page is "H0N World", does not match the name |
 | WAP 🐵 | social | [website](https://h0n.io) | h0n.io does not match the name |
-| WhoWhere | social | [bot](https://t.me/earnigram_group) | a channel or group, not a bot |
 | Stakee | staking | [bot](https://t.me/StakeeRu) | a channel or group, not a bot |
 | TON Validators | staking | [bot](https://t.me/tonvalidators_app_bot) | a channel or group, not a bot |
-| Butterflys | staking | [telegram](https://t.me/HipoFinance) | page is "Hipo", does not match the name |
 | Butterflys | staking | [website](https://app.hipo.finance/#/referrer=UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW/) | app.hipo.finance does not match the name |
 | PAKETKA | staking | [website](https://swap.coffee/dex?referral=user_UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW) | swap.coffee does not match the name |
-| Shieldeum Node Rewards | staking | [telegram](https://t.me/predicton_news) | page is "Predicton News", does not match the name |
 | TonFarm | staking | [telegram](https://t.me/TonGame_app) | page is "TonGame Channel", does not match the name |
 | TonFarm | staking | [bot](https://t.me/tongame_farms_bot) | page is "📣 WS 私域客户运营系统｜海外广告投放", does not match the name |
 | TonFarm | staking | [x](https://x.com/tongameapp) | @tongameapp ("TonGame") does not match the name |
 | TonFarm | staking | [website](https://farm.tongame.app/) | http error; farm.tongame.app does not match the name |
-| NotStakers | staking | [telegram](https://t.me/notcoin) | page is "Notcoin Community", does not match the name |
 | Bimcoin - TON DeFi Protocol. | staking | [telegram](https://t.me/Bimlight_Group) | page is "Bimlight Foundation", does not match the name |
 | Bimcoin - TON DeFi Protocol. | staking | [bot](https://t.me/BimlightBot) | page is "Bimlight", does not match the name |
 | MINTODINOS Staking | staking | links | no links at all |
 | TON Whales | staking | [telegram](https://t.me/whalessupportbot) | not a channel or group (a bot or a personal account) |
-| TonStake.com | staking | [bot](https://t.me/AveSniperBot) | page is "AveSniperBot", does not match the name |
 | Tonverse | staking | [x](https://x.com/verse_ton) | @verse_ton not found (renamed, suspended or deleted) |
 | UTN Staking | staking | [telegram](https://t.me/uniton_token) | page is "UNITON TOKEN", does not match the name |
 | UTN Staking | staking | [website](https://app.unitontoken.com) | http error; app.unitontoken.com does not match the name |
@@ -1047,11 +952,9 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | GOVNO (GOVNO) | tokens | [telegram](https://t.me/cryptover1eng) | page is "cryptover1eng", does not match the name |
 | Grm (GRM) | tokens | [telegram](https://t.me/gramcoinorg) | page is "g", does not match the name |
 | jUSDT (jUSDT) | tokens | links | no links at all |
-| WOOF (WOOF) | tokens | [telegram](https://t.me/lostdogscoeng) | page is "Lost Dogs Co Eng", does not match the name |
 | X Empire (X) | tokens | links | no links at all |
 | SOREN | tools | [bot](https://t.me/SORENCOMMUNITY) | a channel or group, not a bot |
 | webappz | tools | [website](https://webappz.org) | http error |
-| TON Box | tools | [telegram](https://t.me/stakeonwhales) | page is "Whales Ton Staking 💎", does not match the name |
 | TON Box | tools | [website](https://storage-two.vercel.app/) | storage-two.vercel.app does not match the name |
 | Time TON Ecosystem | tools | links | no links at all |
 | Bottle Up | tools | [x](https://x.com/Athene_Network) | @athene_network ("Atheus Network") does not match the name |
@@ -1064,7 +967,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Exact Receipt | tools | [telegram](https://t.me/WDK_Wallet_bot) | not a channel or group (a bot or a personal account) |
 | Exact Receipt | tools | [bot](https://t.me/exactreceipt) | a channel or group, not a bot |
 | Manage Ton Subdomain | tools | [telegram](https://t.me/ton_subdomain_bot) | not a channel or group (a bot or a personal account) |
-| Manage Ton Subdomain | tools | [bot](https://t.me/earnigram) | a channel or group, not a bot |
 | TEPE | tools | [telegram](https://t.me/sirex_io) | page is "Sirex Exchanger Platform", does not match the name |
 | TEPE | tools | [bot](https://t.me/sirexio_bot) | page is "Sirex Airdrop", does not match the name |
 | TON Byte | tools | [x](https://x.com/atomhq) | @atomhq ("Atom.com") does not match the name |
@@ -1076,7 +978,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Sigma Bot | unsorted | [website](https://sigma.no.pics) | http error |
 | TON Breach | unsorted | [website](https://tonpvpgame.com) | tonpvpgame.com does not match the name |
 | Vortex Crypto | unsorted | [bot](https://t.me/straxzxstar_bot) | page is "Straxzx Stars", does not match the name |
-| fedafone | vpn | [telegram](https://t.me/Channel_90Rich) | page is "Channel_90Rich", does not match the name |
 | mgs backstage | vpn | [bot](https://t.me/lumenx_robot) | page is "LumenX / Цифровой хаб", does not match the name |
 | Tony VPN | vpn | [bot](https://t.me/tony_vpn_bot) | a channel or group, not a bot |
 | zonerift VPN | vpn | [telegram](https://t.me/TildaApp) | page is "Tilda Updates", does not match the name |
@@ -1091,21 +992,15 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | xJetSwap | wallets | [telegram](https://t.me/xjetnews) | page is "xJet News", does not match the name |
 | Coin Wallet | wallets | [bot](https://t.me/attackdetectorbot) | page is "Pessimistic Spotter", does not match the name |
 | DeWallet | wallets | [telegram](https://t.me/delab) | page is "DeLab Team", does not match the name |
-| DOGENANCE | wallets | [telegram](https://t.me/clarnium) | page is "Clarnium Ecosystem", does not match the name |
-| DOGENANCE | wallets | [bot](https://t.me/ClarniumGame_bot) | page is "Clarnium Airdrop App / ClarFun.Trade", does not match the name |
 | HN wallet | wallets | [telegram](https://t.me/HN_Wallet_bot) | not a channel or group (a bot or a personal account) |
 | KaiOS Wallet | wallets | [telegram](https://t.me/vinayakkalra) | not a channel or group (a bot or a personal account) |
 | Matrix Wallet | wallets | [website](https://) | malformed url |
-| Mixin Messenger | wallets | [telegram](https://t.me/bulksender) | page is "Token BulkSender", does not match the name |
 | MixinBot | wallets | [telegram](https://t.me/gemztrade) | page is "Gemz Trade", does not match the name |
 | MixinBot | wallets | [bot](https://t.me/GemzTradeBot) | page is "Gemz Trade App", does not match the name |
 | MixinBot | wallets | [x](https://x.com/GemzTrade) | @gemztrade ("Gemz Trade on TON") does not match the name |
-| OpenMask | wallets | [bot](https://t.me/memejump_bot) | page is "memejump_bot", does not match the name |
 | Rustex | wallets | [telegram](https://t.me/tondnsweb3) | page is "WEB3 TON DNS Медиа", does not match the name |
-| Tonspack | wallets | [telegram](https://t.me/tonspays) | page is "Tonsprotocol announcement", does not match the name |
 | vaniton | wallets | [telegram](https://t.me/beast_crypto_news) | page is "The Beast Wallet Crypto News", does not match the name |
 | vaniton | wallets | [bot](https://t.me/BeastWalletBot) | page is "The Beast USDT Wallet", does not match the name |
 | Wallet Explorer | wallets | [bot](https://t.me/toftechbot) | page is "deleted bot", does not match the name |
-| xJetSwapBot | wallets | [bot](https://t.me/basic_reality_chat) | a channel or group, not a bot |
 | XTON crypto wallet | wallets | [telegram](https://t.me/tonoracle_app) | page is "Ton Oracle News", does not match the name |
 | XTON crypto wallet | wallets | [bot](https://t.me/tonoracle_bot) | page is "Ton Oracle", does not match the name |

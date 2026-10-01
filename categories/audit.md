@@ -16,7 +16,7 @@
 | 6 | HackenProof | HackenProof is a bug bounty platform for crypto business and hackers. | [Telegram](https://t.me/hackenproof) [X](https://x.com/HackenProof) [Site](https://hackenproof.com/) [GitHub](https://github.com/hackenproof) | 7K views | 2026-09-29 | [ton 25](../archive/2025-07-ton.jpg) |
 | 7 | Chainalysis | Building trust in blockchains among people, businesses, and governments. | [Telegram](https://t.me/chainalysisinc) [GitHub](https://github.com/chainalysis) | 9K views | 2026-09-29 | [ton 25](../archive/2025-07-ton.jpg) |
 | 8 | Tonguard ✓ | TON Guard is the first cloud-based solution for the TON blockchain, leveraging AI-driven… | [Telegram](https://t.me/tonguardaml) [Bot](https://t.me/tonguard_bot) [Site](https://tonguard.org/) | 420 views | 2026-09-25 | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 9 | TrustaTONApp_bot | AI service for on-chain identity and reputation. | [Telegram](https://t.me/trustalabsann) [Bot](https://t.me/trustatonapp_bot) [X](https://x.com/TrustaLabs) [Site](https://trustalabs.ai) [GitHub](https://github.com/mir-one/fingerprints) | 17K views, 112K MAU | 2026-09-29 |  |
+| 9 | TrustaTONApp_bot | AI service for on-chain identity and reputation. | [Bot](https://t.me/trustatonapp_bot) [X](https://x.com/TrustaLabs) [Site](https://trustalabs.ai) [GitHub](https://github.com/mir-one/fingerprints) | 17K views, 112K MAU | 2026-09-29 |  |
 | 10 | GID Anti-Scam | Крупнейший анти-скам проект в Telegram🛡️ 👮‍♂️ Подать жалобу /report Скам-База… | [Bot](https://t.me/gidbanbot) | mentioned by 4 TON channels in Q3 |  |  |
 | 11 | Nowarp | nowarp.io / github.com/nowarp / x.com/nowarp_io | [Telegram](https://t.me/nowarp_io) [X](https://x.com/nowarp_io) [Site](https://nowarp.io) [GitHub](https://github.com/nowarp) |  | 2026-07-13 |  |
 
@@ -40,7 +40,7 @@
 | 25 | Vidma |  | [Telegram](https://t.me/vidmasecurity) [X](https://x.com/Vidma_security) [Site](https://www.vidma.io) [GitHub](https://github.com/vidma-security) |  | 2023-06-07 |  |
 | 26 | Web3defender | Web3defender — wallet and link fraud detection | [Telegram](https://t.me/web3defender_bot) [Bot](https://t.me/web3defender_alerts) [Site](https://web3defender.tech) |  |  |  |
 | 27 | Decurity |  | [Telegram](https://t.me/defimon_alerts) [X](https://x.com/DecurityHQ) [Site](https://www.decurity.io/) [GitHub](https://github.com/Decurity) |  | 2026-10-01 |  |
-| 28 | re:doubt |  | [Telegram](https://t.me/uShopWeb) [Bot](https://t.me/uShopWebBot) [GitHub](https://github.com/re-doubt) |  | 2026-07-08 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 28 | re:doubt |  | [Telegram](https://t.me/uShopWeb) [GitHub](https://github.com/re-doubt) |  | 2026-07-08 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 29 | Spide | IT company in the field of development & cybersecurity. | [Telegram](https://t.me/spide) [Bot](https://t.me/spide_robot) [X](https://x.com/spidesecurity) [Site](https://spide.org) |  | 2025-06-30 |  |
 | 30 | PositiveWeb3 | Web3 Security Research audit.com | [Telegram](https://t.me/positiveweb3) [X](https://x.com/PositiveWeb3) [GitHub](https://github.com/PositiveSecurity) |  | 2026-07-20 | [ton 25](../archive/2025-07-ton.jpg) |
 | 31 | Esprito Protocol | Esprito is an on-chain security analytics company. We offer comprehensive TON analytics… | [Telegram](https://t.me/espritoxyz) [Bot](https://t.me/espritobot) [X](https://x.com/espritoxyz) [Site](https://esprito.com/) [GitHub](https://github.com/espritoxyz) |  | 2026-08-30 |  |

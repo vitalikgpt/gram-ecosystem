@@ -23,6 +23,6 @@
 | 8 | M3TA | Just Web3 data made simple, enabled by AI 📊 | [Telegram](https://t.me/m3ta_analytics) [X](https://x.com/M3TA_Analytics) |  |  |  |
 | 9 | OKX Explorer |  | [Telegram](https://t.me/OKXOfficial_English) [X](https://x.com/okxexplorer) [Site](https://www.okx.com/web3/explorer) |  |  |  |
 | 10 | TON Atlas |  | [Bot](https://t.me/tonatlasbot) [Site](https://8xr.io) |  |  |  |
-| 11 | Dton |  | [Telegram](https://t.me/StalinFoundation) [Site](https://dton.io) [GitHub](https://github.com/StalinFoundation) |  | 2026-07-04 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 11 | Dton |  | [Site](https://dton.io) [GitHub](https://github.com/StalinFoundation) |  | 2026-07-04 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 12 | Tenere Explorer | Audiatur et altera pars. Universal token The Open Network. Max Supply 210,000,000 | [Telegram](https://t.me/teneretoken) |  | 2024-12-15 |  |
-| 13 | Whales Explorer |  | [Telegram](https://t.me/tonflow_community) [Site](https://tonwhales.com/explorer) [GitHub](https://github.com/tonwhales) |  | 2026-08-13 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 13 | Whales Explorer |  | [Site](https://tonwhales.com/explorer) [GitHub](https://github.com/tonwhales) |  | 2026-08-13 | [tonpost 23](../archive/2023-10-tonpost.jpg) |

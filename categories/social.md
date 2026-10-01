@@ -37,7 +37,7 @@
 | 22 | BeeVerse By NCTR | Are you ready for adventures in BeeVerse? | [Bot](https://t.me/bee_verse_bot) |  |  |  |
 | 23 | Zipsy | 🚀📹 Watch & Earn - Short Videos on Telegram | [Telegram](https://t.me/zipsy_community) [Bot](https://t.me/zipsy_bot) [X](https://x.com/zipsycommunity) |  | 2025-05-17 |  |
 | 24 | INVITE |  | [Bot](https://t.me/uxinvite_bot) |  |  |  |
-| 25 | Khomyakovo GOV |  | [Telegram](https://t.me/stonksonton) [Bot](https://t.me/khomyakovo_gov_bot) |  |  |  |
+| 25 | Khomyakovo GOV |  | [Bot](https://t.me/khomyakovo_gov_bot) |  |  |  |
 | 26 | Memepolis | Farming memecoins is fun! | [Telegram](https://t.me/MemepolisBOSS) [Bot](https://t.me/memepolisbot) [X](https://x.com/memepolisTON) |  |  |  |
 | 27 | ChatGalaTon | Социальная игровая метавселенная нового поколения внутри Telegram! | [Telegram](https://t.me/ChatGalaTon) [Bot](https://t.me/chatgalatone_bot) [X](https://x.com/ChatGalaTon) |  | 2026-05-26 |  |
 | 28 | Pumpkin Bot | Pumpkin: The World's First Decentralized Live Streaming Trading Platform / Trade Like a… | [Telegram](https://t.me/pumpkin_global) [Bot](https://t.me/pumpkin_xyz_bot) [X](https://x.com/pumpkin_global) |  | 2025-12-23 |  |
@@ -108,10 +108,10 @@
 | 93 | vnukiсh | 👋 Привет, Друг! Ты попал в систему награждения активности Внукича | [Bot](https://t.me/vnukich_bot) | mentioned by 5 TON channels in Q3 |  |  |
 | 94 | Wall Telegram | Wall Telegram is a social network with posts, graffiti, and music. | [Telegram](https://t.me/wall) [Bot](https://t.me/wall_people) [Site](https://wall.tg) |  |  |  |
 | 95 | Web3Events |  | [X](https://x.com/Web3Events_ai) |  |  |  |
-| 96 | WhoWhere |  | [Bot](https://t.me/earnigram_group) |  |  |  |
+| 96 | WhoWhere |  |  |  |  |  |
 | 97 | Криптохалва |  | [Bot](https://t.me/beeton_kriptohalva_bot) |  |  |  |
 | 98 | WAP 🐵 |  | [Telegram](https://t.me/h0nworld) [Bot](https://t.me/weareprime_bot) [Site](https://h0n.io) |  | 2026-08-26 |  |
-| 99 | Atomic Star | ⚛ Платформа для коммуникации с Web3 продуктами проекта StalinFoundation на базе… | [Telegram](https://t.me/StalinFoundation) [Bot](https://t.me/AtomicStarBot) [GitHub](https://github.com/StalinFoundation) |  | 2026-07-04 | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 99 | Atomic Star | ⚛ Платформа для коммуникации с Web3 продуктами проекта StalinFoundation на базе… | [Bot](https://t.me/AtomicStarBot) [GitHub](https://github.com/StalinFoundation) |  | 2026-07-04 | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 100 | Hubz Chat | Hubz Chat — a chat bot for verifying members by wallets and NFTs | [Telegram](https://t.me/Hubz_News) [Bot](https://t.me/hubz_app_bot) [X](https://x.com/hubz_chat) [Site](https://hubz.io/) |  | 2026-03-10 |  |
 | 101 | FireTon Drop |  | [Telegram](https://t.me/moklgamefi) [Bot](https://t.me/mokl_io_bot) |  | 2025-06-19 |  |
 | 102 | TON Stars | You can view and join right away. | [Telegram](https://t.me/ton_stars_official) [Bot](https://t.me/ton_stars_app_bot) [X](https://x.com/tonstarsapp) [Site](https://) |  | 2025-04-11 | [coin98-games 24](../archive/2024-05-coin98-games.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |

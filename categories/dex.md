@@ -37,7 +37,7 @@
 | 22 | Gain Bot | Gain your digital sovereignty in Web3. | [Bot](https://t.me/the_gain_bot) |  |  |  |
 | 23 | Bitrall | 🤖Bitrall is a decentralized hybrid cryptocurrency exchange built on artificial… | [Bot](https://t.me/bitrall_bot) |  |  |  |
 | 24 | Alton Trader | AltonTrade - Future DEX on TON Blockchain / Empowering decentralized finance. 💹 Trade… | [Telegram](https://t.me/alton_trade) [Bot](https://t.me/altontraderbot) [X](https://x.com/TradeAlton) [Site](https://altons.trade) |  |  |  |
-| 25 | Alpha Dex | One terminal, limitless tools, infinite gains. | [Telegram](https://t.me/hotonnear) [Bot](https://t.me/alpha_web3_bot) [X](https://x.com/hotdao_) |  | 2026-09-29 |  |
+| 25 | Alpha Dex | One terminal, limitless tools, infinite gains. | [Bot](https://t.me/alpha_web3_bot) [X](https://x.com/hotdao_) |  | 2026-09-29 |  |
 | 26 | Electra App | Trade easy, send BTC to the moon, farm points, and get rewarded! | [Telegram](https://t.me/electra_channel) [Bot](https://t.me/electraappbot) [X](https://x.com/ElectraTrade) [Site](https://electra.trade) | TVL $9K | 2025-11-26 |  |
 | 27 | Vanilla Finance |  | [Bot](https://t.me/vanilla_finance_bot) |  |  |  |
 | 28 | Joker Swap | Joker Swap get free tokens for using your DEX wallet | [Bot](https://t.me/jokerswapbot) [X](https://x.com/joker__swap) |  |  |  |
@@ -67,9 +67,9 @@
 | 52 | What Swap |  | [Bot](https://t.me/what_swap_bot) [X](https://x.com/bigbangdear) [Site](https://what-swap.vercel.app/) [GitHub](https://github.com/bigbanghere/what-swap) |  | 2025-12-18 |  |
 | 53 | XBOT | Crypto tools and DEX trading right in your Telegram | [Bot](https://t.me/chainspyrobot) [X](https://x.com/twinbyxbot) |  |  |  |
 | 54 | xDelta |  | [Telegram](https://t.me/xdelta_bot) [Bot](https://t.me/xdelta_finance) [X](https://x.com/xdelta_finance) [Site](https://xdelta.fi/?utm_source=tonapp) |  |  |  |
-| 55 | Capital DEX |  | [Bot](https://t.me/TONPlanetsBot) [X](https://x.com/curio_invest) [Site](https://capitaldex.exchange) [GitHub](https://github.com/CurioTeam) |  | 2026-10-01 |  |
-| 56 | MARS DEX | MARS DEX — marketplace for trading resources on Mars | [Bot](https://t.me/TONPlanetsBot) [Site](https://mars.tonplanets.com/en/dex/?from=TON&to=EQAL6e1UNPFksn8198qOD6KICnplw6f9cMIFuQW3xV9ld3Ro) |  | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
-| 57 | Uniswap |  | [Telegram](https://t.me/ime_en) [Site](https://app.uniswap.org/#/swap?outputcurrency=0x582d872a1b094fc48f5de31d3b73f2d9be47def1) |  | 2026-09-30 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 55 | Capital DEX |  | [X](https://x.com/curio_invest) [Site](https://capitaldex.exchange) [GitHub](https://github.com/CurioTeam) |  | 2026-10-01 |  |
+| 56 | MARS DEX | MARS DEX — marketplace for trading resources on Mars | [Site](https://mars.tonplanets.com/en/dex/?from=TON&to=EQAL6e1UNPFksn8198qOD6KICnplw6f9cMIFuQW3xV9ld3Ro) |  | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
+| 57 | Uniswap |  | [Site](https://app.uniswap.org/#/swap?outputcurrency=0x582d872a1b094fc48f5de31d3b73f2d9be47def1) |  | 2026-09-30 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 58 | Nomiswap |  | [Site](https://nomiswap.io/swap?outputCurrency=0x76A797A59Ba2C17726896976B7B3747BfD1d220f) [GitHub](https://github.com/nominex) |  | 2026-09-21 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 59 | Trade TOKEN |  | [Telegram](https://t.me/gumcoin) [Site](https://gumcoin.org/) |  | 2026-09-05 |  |
 | 60 | PAPA CARLO BOT | ✅ Official Channel of the Project | [Telegram](https://t.me/papacarlotoken) [Bot](https://t.me/papacarlobot_bot) [X](https://x.com/PCtoken) |  | 2026-05-04 |  |

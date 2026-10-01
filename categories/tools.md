@@ -30,7 +30,7 @@
 | 20 | Crypto Office | Crypto Office - Your helper in crypto world 🌎 News: @officeappnews Support:… | [Bot](https://t.me/office_app_bot) | 12K MAU |  |  |
 | 21 | webappz | webappz авто-магазины/меню в telegram | [Telegram](https://t.me/webappz) [Bot](https://t.me/webappzconnectbot) [Site](https://webappz.org) | 2K views, 993 MAU | 2026-07-20 |  |
 | 22 | SOREN | SOREN is a digital identity layer on the TON blockchain. | [Telegram](https://t.me/SORENCHANNEL) [Bot](https://t.me/SORENCOMMUNITY) [X](https://x.com/ownsoren) [Site](https://www.soren.today/) | 2K views | 2026-09-08 |  |
-| 23 | TON Box |  | [Telegram](https://t.me/stakeonwhales) [Site](https://storage-two.vercel.app/) [GitHub](https://github.com/tonwhales) | commit 2026-08-13 | 2026-08-13 |  |
+| 23 | TON Box |  | [Site](https://storage-two.vercel.app/) [GitHub](https://github.com/tonwhales) | commit 2026-08-13 | 2026-08-13 |  |
 | 24 | Workix | Workix — platform for finding and applying to freelance tasks | [Bot](https://t.me/workix_tbot) [Site](https://workix.co) [GitHub](https://github.com/facetoplace/Workix) | commit 2026-09-23 | 2026-09-23 |  |
 | 25 | Portal Network | Portal Network — a bot for managing a network of electric vehicle charging stations | [Telegram](https://t.me/portal_energy) [Bot](https://t.me/portal_network_bot) [X](https://x.com/PortalNetwork_) [Site](https://portalnetwork.tech) |  | 2026-08-10 |  |
 
@@ -71,7 +71,7 @@
 | 56 | Exact Receipt | Exact Receipt is a TON-native, watch-only payment request and receipt service. | [Telegram](https://t.me/WDK_Wallet_bot) [Bot](https://t.me/exactreceipt) [Site](https://exactreceipt.com/) |  |  |  |
 | 57 | Find & Check |  | [Bot](https://t.me/findcheckbot) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 58 | Foldee | Foldee — приложение, где можно сохранять ссылки, заметки по папкам и устанавливать… | [Bot](https://t.me/foldee_bot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 59 | Manage Ton Subdomain | Manage .ton subdomains directly in Telegram. | [Telegram](https://t.me/ton_subdomain_bot) [Bot](https://t.me/earnigram) [Site](https://subdomain.earnigram.com) |  |  |  |
+| 59 | Manage Ton Subdomain | Manage .ton subdomains directly in Telegram. | [Telegram](https://t.me/ton_subdomain_bot) [Site](https://subdomain.earnigram.com) |  |  |  |
 | 60 | NovaCont Lite | NovaCont Lite is a non-custodial escrow Mini App on TON. | [Bot](https://t.me/NovaCont_Lite_bot) [X](https://x.com/getnovacont) [Site](https://novacont.tech) |  |  |  |
 | 61 | RevYou | Collect client reviews in one place you control. Own your data, earn rewards, be your… | [Telegram](https://t.me/revyou_announcements) [Bot](https://t.me/revyou_bot) [X](https://x.com/revyouxyz) |  |  |  |
 | 62 | SplitFast | SplitFast — a mini app for splitting expenses in Telegram | [Bot](https://t.me/SplitFastBot) [Site](https://splitfast.io) |  |  | [ton 25](../archive/2025-07-ton.jpg) |

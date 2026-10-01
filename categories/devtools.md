@@ -12,7 +12,7 @@
 | 2 | Durev Bot |  | [Telegram](https://t.me/poveldurev) [Bot](https://t.me/durevrobot) [X](https://x.com/poveldurev) [Site](https://dedust.io/swap/TON/DUREV) | 16K views | 2026-08-14 |  |
 | 3 | FolioTrade | Automated crypto trading bot | [Telegram](https://t.me/foliostack) [Bot](https://t.me/FolioTradeBot) [Site](https://trade.foliostack.net) | 57 views | 2026-08-15 |  |
 | 4 | Chainbase Network |  | [X](https://x.com/ChainbaseHQ) [Site](https://chainbase.com) [GitHub](https://github.com/chainbase-labs) | commit 2026-09-16 | 2026-09-16 |  |
-| 5 | Minter |  | [Telegram](https://t.me/moonpacket_bot) [Bot](https://t.me/moonpacketchat) [Site](https://minter.ton.org) |  |  |  |
+| 5 | Minter |  | [Site](https://minter.ton.org) |  |  |  |
 | 6 | nessshon/tonutils | High-level SDK and toolkit. | [GitHub](https://github.com/nessshon/tonutils) | commit 2026-09-02 | 2026-09-02 |  |
 | 7 | Orbs |  | [X](https://x.com/orbs_network) [Site](https://www.orbs.com) [GitHub](https://github.com/orbs-network) | commit 2026-10-01 | 2026-10-01 | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 8 | Softstack |  | [X](https://x.com/softstackHQ) [Site](https://softstack.io) [GitHub](https://github.com/softstack) | commit 2026-09-29 | 2026-09-29 |  |
@@ -66,7 +66,7 @@
 | 51 | sTONks  / Buy Bot | sTONks / Buy Bot — multichain trading bot | [Telegram](https://t.me/sTONksTrendingBot) [Bot](https://t.me/stonks_sniper_bot) [X](https://x.com/tonstonks) [Site](https://stonksbots.com/) |  |  |  |
 | 52 | Sublime Text Plugin | FunC support for Sublime. | [GitHub](https://github.com/savva425/func_plugin_sublimetext3) |  | 2023-01-26 |  |
 | 53 | SwiftyTON | Swift SDK with async/await support. |  |  |  |  |
-| 54 | Testnet Faucet |  | [Bot](https://t.me/paybis_crypto_exchange_bot) |  |  |  |
+| 54 | Testnet Faucet |  |  |  |  |  |
 | 55 | titon.network | Shared security stack for TON | [Telegram](https://t.me/titonnet) [X](https://x.com/titonnet) [Site](https://titon.network) |  |  |  |
 | 56 | TMA Dev |  | [Telegram](https://t.me/twa_dev) [GitHub](https://github.com/twa-dev) |  | 2025-02-05 |  |
 | 57 | TON & TG Dev Tools |  | [Site](https://mehrdadjeyrani.ir) [GitHub](https://github.com/MGamerica) |  | 2026-06-01 |  |
@@ -96,17 +96,17 @@
 | 81 | twa-dev/sdk | SDK package for TWA development. | [GitHub](https://github.com/twa-dev/sdk) |  | 2025-02-05 |  |
 | 82 | TxTracer | Tool to emulate and trace any transaction from TON blockchain. | [Site](https://txtracer.ton.org) |  |  |  |
 | 83 | unity/tonconnect | Unity SDK for TON Connect. | [GitHub](https://github.com/continuation-team/unity-ton-connect) |  | 2024-07-01 |  |
-| 84 | Vanity TON |  | [Bot](https://t.me/earnigram_group) [Site](https://vanity.earnigram.com) |  |  |  |
+| 84 | Vanity TON |  | [Site](https://vanity.earnigram.com) |  |  |  |
 | 85 | VS Code Plugin | FunC syntax highlighting and tools. | [Site](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode) |  |  |  |
 | 86 | Xircus |  | [Bot](https://t.me/xircus_bot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 87 | Xtontracker | This group for discussing and resolving issues for xtontracker.com service | [Telegram](https://t.me/xtontracker) |  |  |  |
 | 88 | yungwine/TonTools | High-level library for HTTP/ADNL. | [GitHub](https://github.com/yungwine/TonTools) |  | 2024-07-24 |  |
-| 89 | TON Domain Info bot |  | [Telegram](https://t.me/coincraddle_en) [Bot](https://t.me/coincraddle_change_bot) |  | 2026-09-30 |  |
-| 90 | Tonana |  | [Telegram](https://t.me/nums888) [Bot](https://t.me/nums888bot) [X](https://x.com/tonanadao) [Site](https://github.com/tonanadao) [GitHub](https://github.com/fluidicon.png) |  | 2026-09-24 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 91 | Rift |  | [Telegram](https://t.me/tonbankcard) [Site](https://rift.skyring.io) [GitHub](https://github.com/sky-ring) |  | 2026-08-28 |  |
+| 89 | TON Domain Info bot |  |  |  | 2026-09-30 |  |
+| 90 | Tonana |  | [X](https://x.com/tonanadao) [Site](https://github.com/tonanadao) [GitHub](https://github.com/fluidicon.png) |  | 2026-09-24 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 91 | Rift |  | [Site](https://rift.skyring.io) [GitHub](https://github.com/sky-ring) |  | 2026-08-28 |  |
 | 92 | TON NoCode SDK |  | [Telegram](https://t.me/safemoonTon) [Bot](https://t.me/safeTONdotFun) [X](https://x.com/SafetonPad) [Site](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) |  | 2026-08-24 |  |
 | 93 | Development Wallet |  | [Site](https://test.tonhub.com/dl) [GitHub](https://github.com/TractionEye) |  | 2026-06-23 |  |
-| 94 | Jetton Arbitrage |  | [Telegram](https://t.me/TGShopNews) [Bot](https://t.me/TGShopsBuilderBot) |  | 2026-03-03 |  |
+| 94 | Jetton Arbitrage |  |  |  | 2026-03-03 |  |
 | 95 | TONX | TONX is the SuperApp platform layer that enables builders to create the new Web3 economy. | [Telegram](https://t.me/tonxstudio) [Site](https://tonx.ai/) |  | 2025-10-31 | [ton 25](../archive/2025-07-ton.jpg) |
 | 96 | 8XR |  | [Telegram](https://t.me/gam8s) [X](https://x.com/8xr_engine) |  | 2025-10-18 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 97 | TONX API | Support the development of TON by offering an array of robust tools for a seamless… | [Telegram](https://t.me/tonxapi) [X](https://x.com/TONXAPI) [Site](https://tonxapi.com/) [GitHub](https://github.com/tonxapi/sample) |  | 2025-07-01 | [tradoor 25](../archive/2025-08-tradoor.jpg) |

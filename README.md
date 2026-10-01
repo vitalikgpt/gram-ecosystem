@@ -8,7 +8,7 @@ A library of Gram (TON) and core Telegram projects, grouped by what they do, wit
 
 **3196 projects in 32 categories: 931 active in Q3 2026, 2234 quiet, 31 closed.** 388 of the active ones are on the [Gram News map for Q3 2026](reports/2026-q3) ([article with interactive leaderboards](https://gramnews.org/articles/ton-ecosystem-map-q3-2026)). Plus 685 channels about TON and an [archive of 19 ecosystem maps](archive) by other authors, 2022 to 2026.
 
-Every link here is checked. [1103 links need a look](reports/link-check.md) (a wrong account, a dead page, or a name that does not match), and [220 names from older maps](data/unresolved.csv) still need a project to point to. Those two lists are the best place to start contributing. So far 937 links have been replaced or removed and 74 confirmed, each with its evidence, in [data/link-fixes.csv](data/link-fixes.csv).
+Every link here is checked. [998 links need a look](reports/link-check.md) (a wrong account, a dead page, or a name that does not match), and [220 names from older maps](data/unresolved.csv) still need a project to point to. Those two lists are the best place to start contributing. So far 1054 links have been replaced or removed and 74 confirmed, each with its evidence, in [data/link-fixes.csv](data/link-fixes.csv).
 
 ## Contents
 
@@ -214,7 +214,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 2 | Durev Bot |  | [Telegram](https://t.me/poveldurev) [Bot](https://t.me/durevrobot) [X](https://x.com/poveldurev) [Site](https://dedust.io/swap/TON/DUREV) | 16K views | 2026-08-14 |  |
 | 3 | FolioTrade | Automated crypto trading bot | [Telegram](https://t.me/foliostack) [Bot](https://t.me/FolioTradeBot) [Site](https://trade.foliostack.net) | 57 views | 2026-08-15 |  |
 | 4 | Chainbase Network |  | [X](https://x.com/ChainbaseHQ) [Site](https://chainbase.com) [GitHub](https://github.com/chainbase-labs) | commit 2026-09-16 | 2026-09-16 |  |
-| 5 | Minter |  | [Telegram](https://t.me/moonpacket_bot) [Bot](https://t.me/moonpacketchat) [Site](https://minter.ton.org) |  |  |  |
+| 5 | Minter |  | [Site](https://minter.ton.org) |  |  |  |
 | 6 | nessshon/tonutils | High-level SDK and toolkit. | [GitHub](https://github.com/nessshon/tonutils) | commit 2026-09-02 | 2026-09-02 |  |
 | 7 | Orbs |  | [X](https://x.com/orbs_network) [Site](https://www.orbs.com) [GitHub](https://github.com/orbs-network) | commit 2026-10-01 | 2026-10-01 | [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton 25](archive/2025-07-ton.jpg) |
 | 8 | Softstack |  | [X](https://x.com/softstackHQ) [Site](https://softstack.io) [GitHub](https://github.com/softstack) | commit 2026-09-29 | 2026-09-29 |  |
@@ -269,7 +269,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 6 | HackenProof | HackenProof is a bug bounty platform for crypto business and hackers. | [Telegram](https://t.me/hackenproof) [X](https://x.com/HackenProof) [Site](https://hackenproof.com/) [GitHub](https://github.com/hackenproof) | 7K views | 2026-09-29 | [ton 25](archive/2025-07-ton.jpg) |
 | 7 | Chainalysis | Building trust in blockchains among people, businesses, and governments. | [Telegram](https://t.me/chainalysisinc) [GitHub](https://github.com/chainalysis) | 9K views | 2026-09-29 | [ton 25](archive/2025-07-ton.jpg) |
 | 8 | Tonguard ✓ | TON Guard is the first cloud-based solution for the TON blockchain, leveraging AI-driven… | [Telegram](https://t.me/tonguardaml) [Bot](https://t.me/tonguard_bot) [Site](https://tonguard.org/) | 420 views | 2026-09-25 | [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
-| 9 | TrustaTONApp_bot | AI service for on-chain identity and reputation. | [Telegram](https://t.me/trustalabsann) [Bot](https://t.me/trustatonapp_bot) [X](https://x.com/TrustaLabs) [Site](https://trustalabs.ai) [GitHub](https://github.com/mir-one/fingerprints) | 17K views, 112K MAU | 2026-09-29 |  |
+| 9 | TrustaTONApp_bot | AI service for on-chain identity and reputation. | [Bot](https://t.me/trustatonapp_bot) [X](https://x.com/TrustaLabs) [Site](https://trustalabs.ai) [GitHub](https://github.com/mir-one/fingerprints) | 17K views, 112K MAU | 2026-09-29 |  |
 | 10 | GID Anti-Scam | Крупнейший анти-скам проект в Telegram🛡️ 👮‍♂️ Подать жалобу /report Скам-База… | [Bot](https://t.me/gidbanbot) | mentioned by 4 TON channels in Q3 |  |  |
 | 11 | Nowarp | nowarp.io / github.com/nowarp / x.com/nowarp_io | [Telegram](https://t.me/nowarp_io) [X](https://x.com/nowarp_io) [Site](https://nowarp.io) [GitHub](https://github.com/nowarp) |  | 2026-07-13 |  |
 
@@ -304,7 +304,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 5 | TON Validators ✓ |  | [Bot](https://t.me/tonvalidators_app_bot) |  |  | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) |
 | 6 | UTONIC ✓ |  | [Site](https://utonic.org) |  |  | [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 7 | bemo ✓ |  | [Site](https://bemo.finance) |  |  | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) [messari 26](archive/2026-05-messari.jpg) |
-| 8 | Butterflys | Welcome To 🦋 Butterfly's $BTYS. | [Telegram](https://t.me/HipoFinance) [Bot](https://t.me/realbutterflys_bot) [X](https://x.com/Butterflyonton) [Site](https://app.hipo.finance/#/referrer=UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW/) [GitHub](https://github.com/HipoFinance) | 14K MAU | 2026-10-01 |  |
+| 8 | Butterflys | Welcome To 🦋 Butterfly's $BTYS. | [Bot](https://t.me/realbutterflys_bot) [X](https://x.com/Butterflyonton) [Site](https://app.hipo.finance/#/referrer=UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW/) [GitHub](https://github.com/HipoFinance) | 14K MAU | 2026-10-01 |  |
 | 9 | bemo V1 | The liquid staking protocol on the TON blockchain. | [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) | TVL $2.1M |  |  |
 | 10 | bemo V2 | The liquid staking protocol on the TON blockchain. | [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) | TVL $0.5M |  |  |
 | 11 | Ethena tsUSDe | tsUSDe is a special version of sUSDe deployed on TON | [X](https://x.com/ethena) [Site](https://www.app.ethena.fi) | TVL $3.0M |  |  |
@@ -554,7 +554,7 @@ Within a category, projects on the map come first in map order, then active ones
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | TonNewbie | Канал посвящён новостям и полезной информации для Вашего развития в крипто мире. | [Telegram](https://t.me/tonnewbie) [Bot](https://t.me/blockspinbot) [X](https://x.com/ru) | 201K views | 2026-09-28 |  |
+| 1 | TonNewbie | Канал посвящён новостям и полезной информации для Вашего развития в крипто мире. | [Telegram](https://t.me/tonnewbie) [X](https://x.com/ru) | 201K views | 2026-09-28 |  |
 | 2 | Be Unstoppable | Be Unstoppable — a cryptocurrency wallet supporting Bitcoin, Ethereum, and Zcash | [Telegram](https://t.me/unstoppable_announcements) [Bot](https://t.me/BeUnstoppable_bot) [X](https://x.com/unstoppablebyhs) [Site](https://unstoppable.money/) [GitHub](https://github.com/horizontalsystems) | 84K views, 10K MAU | 2026-10-01 |  |
 | 3 | iQuizMaster | Seize the chance to grab a million pounds, showcase your strength, and win huge prizes | [Bot](https://t.me/iquizmaster_bot) [X](https://x.com/snapsterbot) | 20K MAU |  |  |
 | 4 | BehLand - Web3 L2E | BehLand — an educational platform with Web3 elements | [Telegram](https://t.me/BehLand_Official) [Bot](https://t.me/BehLand_gp) [X](https://x.com/BehLandOfficial) [Site](https://beh.land) [GitHub](https://github.com/beh-land) | 6K views | 2026-10-01 |  |

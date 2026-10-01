@@ -97,7 +97,7 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 85 | Market Makers | Discover the Market Makers - an epic NFT collection by Storm Trade, where trading meets… | [Telegram](https://t.me/storm_trade_news) [Bot](https://t.me/StormTradeBot) [Site](https://getgems.io/market-makers) | 45K views | 2026-09-28 |  |
+| 85 | Market Makers | Discover the Market Makers - an epic NFT collection by Storm Trade, where trading meets… | [Site](https://getgems.io/market-makers) | 45K views | 2026-09-28 |  |
 | 86 | Mining NFT | VirtualsWorlds is a SocialFi + GameFi We have combined the mechanics of these two areas… | [Telegram](https://t.me/MagicVipClub) [Bot](https://t.me/MiningChatbot) [X](https://x.com/VirtualsWorlds) | 30K views | 2026-07-11 |  |
 | 87 | DMT Holder Assistant | That’s an official bot for DMT token community. | [Bot](https://t.me/dmt_community_bot) |  |  |  |
 | 88 | Cubes | The most questionable cubes on planet. | [Bot](https://t.me/cubesonthewater_bot) |  |  |  |
@@ -160,7 +160,7 @@
 | 145 | NFT ONE |  | [X](https://x.com/nftoneio) [Site](https://nftone.io/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 146 | NFT Scanner | NFT Scanner — blockchain analysis and arbitrage opportunities tool | [Telegram](https://t.me/Arbitragescanner_official) [X](https://x.com/ArbitrageScan) [Site](https://arbitragescanner.io/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 147 | NFT TONificaror |  | [Bot](https://t.me/rb_click_bot) |  |  |  |
-| 148 | NFTWallet |  | [Telegram](https://t.me/fragmentanalytics) |  |  |  |
+| 148 | NFTWallet |  |  |  |  |  |
 | 149 | NoName Scanner | Scan TON tokens and stickers by @NoNameDev support: @pickless404 | [Bot](https://t.me/scannernnbot) | mentioned by 5 TON channels in Q3 |  |  |
 | 150 | Not Doge | Epic NFT collection consisting of 400 randomly generated Doge and 100 hand drawn Doge in… | [Site](https://getgems.io/collection/EQAOQFjv7uuyChgfCQnntF-TAIkBlvx9lbfhShvZkxG0Ht6Y#activity) |  |  |  |
 | 151 | OCTOPUS BOYZ | A collection of 777 unique animated NFTs opens up a fascinating world crafted by the… | [Site](https://ton.diamonds/collection/octopusboyz?tab=items) |  |  |  |

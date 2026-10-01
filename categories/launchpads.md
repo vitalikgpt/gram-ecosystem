@@ -40,7 +40,7 @@
 | 25 | OpenTap by Openpad |  | [Bot](https://t.me/openpadbot) [X](https://x.com/Openpad_io) |  |  |  |
 | 26 | 2040World | PvP game on a space station with avatars and combat | [Bot](https://t.me/world2040_bot) [X](https://x.com/2040World) [Site](https://cloudflare.com) |  |  |  |
 | 27 | RoOLZ | RoOLZ — a Telegram roleplay game with NFTs and agentic gameplay | [Telegram](https://t.me/roolznft) [Bot](https://t.me/roolzquest_bot) [X](https://x.com/AtriumNft) [Site](https://Atrium.art) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 28 | Bankcoin | Master Banking, Earn Bitcoin... | [Telegram](https://t.me/dogs_community) [Bot](https://t.me/bankcoins_bot) [X](https://x.com/realDogsHouse) |  | 2026-09-18 |  |
+| 28 | Bankcoin | Master Banking, Earn Bitcoin... | [Bot](https://t.me/bankcoins_bot) [X](https://x.com/realDogsHouse) |  | 2026-09-18 |  |
 | 29 | Snap Fly Bot | Snap Fly / Snap & Earn - Play for airdrop 🐸 | [Telegram](https://t.me/SnapFly_updates) [Bot](https://t.me/snapfly_game_bot) [X](https://x.com/SnapFly_xyz) [Site](https://docs.snapfly.xyz/) |  | 2025-09-16 |  |
 | 30 | PinGo | PinGo Punny Bot - Wrapped your telegram | [Bot](https://t.me/pingo_minibot) [X](https://x.com/PinGoAI) [Site](https://pingo.work) |  |  |  |
 | 31 | LUMO | ⚡️Tap, trade, connect, grow and… farm LUMO Tokens! Next generation wallet. Made by team | [Bot](https://t.me/cryptolumo_bot) |  |  |  |
@@ -72,7 +72,7 @@
 | 57 | EL TON | Memecoin Most Wanted on TON! | [Bot](https://t.me/eltoncoin_bot) |  |  |  |
 | 58 | Hypecoin |  | [X](https://x.com/HypecoinFinance) |  |  |  |
 | 59 | Investment kingyru EN |  | [X](https://x.com/kingyru) |  |  |  |
-| 60 | ListingUz |  | [Telegram](https://t.me/ForestGreenOfficial) [Bot](https://t.me/cryptowood_mini_app_bot) |  |  |  |
+| 60 | ListingUz |  | [Bot](https://t.me/cryptowood_mini_app_bot) |  |  |  |
 | 61 | Pandastic |  | [Bot](https://t.me/pandastic_bot) [X](https://x.com/pandastic_io) |  |  |  |
 | 62 | Preseller | Launch secure presale campaign on the TON blockchain in 5 minutes | [Bot](https://t.me/tonpreseller_bot) |  |  |  |
 | 63 | Quick |  | [Bot](https://t.me/quick_tg_bot) |  |  |  |
