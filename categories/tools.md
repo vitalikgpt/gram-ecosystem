@@ -9,22 +9,22 @@
 | # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Randomize Bot** | Конкурсный бот телеграм. Инструкция | [Bot](https://t.me/randomized) | 2024-03-27 | mentioned by 35 TON channels in Q3 |  |  |
-| 2 | **RandomGodBot** | Руководство - Открытый код - Канал бота | [Bot](https://t.me/randomgodbot) | 2021-12-02 | mentioned by 51 TON channels in Q3 |  |  |
+| 2 | **RandomGodBot** | Руководство - Открытый код - Канал бота | [Telegram](https://t.me/randomgod) [Bot](https://t.me/randomgodbot) | 2021-12-02 | mentioned by 51 TON channels in Q3 |  |  |
 | 3 | **XDAO** | Create DAOs. Co-own assets, formalize agreements, manage budgets and decisions. Join the | [Telegram](https://t.me/xdaoapp) [Bot](https://t.me/xdao_ton_bot) [Site](https://xdao.app) | 2024-08-15 | mentioned by 10 TON channels in Q3 | 2026-09-25 |  |
-| 4 | **Random Beast** | Розыгрыши в Telegram с проверкой подписки, защитой от ботов и без рекламы | [Bot](https://t.me/randombeast_bot) | 2025-01-19 | mentioned by 50 TON channels in Q3 |  |  |
-| 5 | **Best Random Bot** | Канал и инструкция: Служба поддержки | [Bot](https://t.me/bestrandom_bot) | 2023-04-01 | mentioned by 24 TON channels in Q3 |  |  |
+| 4 | **Random Beast** | Розыгрыши в Telegram с проверкой подписки, защитой от ботов и без рекламы | [Telegram](https://t.me/randombeastnews) [Bot](https://t.me/randombeast_bot) | 2025-01-19 | mentioned by 50 TON channels in Q3 |  |  |
+| 5 | **Best Random Bot** | Канал и инструкция: Служба поддержки | [Telegram](https://t.me/bestrandom_info) [Bot](https://t.me/bestrandom_bot) | 2023-04-01 | mentioned by 24 TON channels in Q3 |  |  |
 | 6 | **Stickers Bot** | A bot for creating Telegram stickers and tracking their usage statistics | [Bot](https://t.me/stickers) [Gram News](https://gramnews.org/apps/stickers) | 2015-09-24 | 629K MAU |  |  |
-| 7 | **Safeguard** | The most extensive security and buy tracking platform on Telegram Powering Announcements | [Bot](https://t.me/safeguard) | 2023-07-29 | mentioned by 7 TON channels in Q3 |  |  |
-| 8 | **PR GRAM** | PR GRAM — a promotion platform for Telegram. Support | [Bot](https://t.me/gram_piarbot) | 2024-07-31 | mentioned by 5 TON channels in Q3 |  |  |
+| 7 | **Safeguard** | The most extensive security and buy tracking platform on Telegram Powering Announcements | [Telegram](https://t.me/safeguard_ann) [Bot](https://t.me/safeguard) | 2023-07-29 | mentioned by 7 TON channels in Q3 |  |  |
+| 8 | **PR GRAM** | PR GRAM — a promotion platform for Telegram. Support | [Telegram](https://t.me/pr_gram_news) [Bot](https://t.me/gram_piarbot) | 2024-07-31 | mentioned by 5 TON channels in Q3 |  |  |
 | 9 | **Tuberg** | Бот-ведущий для розыгрыша призов По всем вопросам | [Telegram](https://t.me/tuberg_game) [Bot](https://t.me/millerenos_bot) | 2025-12-19 | mentioned by 12 TON channels in Q3 | 2026-09-30 |  |
 | 10 | **VoteBot** | This bot will help you create polls and share them with friends | [Bot](https://t.me/vote) [Gram News](https://gramnews.org/apps/vote) | 2016-04-12 | 144K MAU |  |  |
 | 11 | **Pixlands** | Pixlands is a utility for asset management | [Telegram](https://t.me/pixlands) [Bot](https://t.me/pixlandsbot) [Gram News](https://gramnews.org/apps/pixlands) | 2026-03-19 | 75K views, 32K MAU | 2026-08-21 |  |
-| 12 | **Telegram Apps Center** | Catalog of TON and Telegram apps from third-party developers | [Bot](https://t.me/tapps_bot) [Gram News](https://gramnews.org/apps/telegram-apps-center) | 2020-05-06 | 52K MAU |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 12 | **Telegram Apps Center** | Catalog of TON and Telegram apps from third-party developers | [Telegram](https://t.me/tapps_official) [Bot](https://t.me/tapps_bot) [Gram News](https://gramnews.org/apps/telegram-apps-center) | 2020-05-06 | 52K MAU |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 13 | **Pynex** | Pynex Official Web3 Mini App & Community | [Bot](https://t.me/pynex_org_bot) | 2026-09-26 | mentioned by 3 TON channels in Q3 |  |  |
 | 14 | **Wheel Games** | Daily giveaways, raffles and mini-games | [Telegram](https://t.me/wheelgamesnews) [Bot](https://t.me/wheelgamesbot) | 2026-02-07 | mentioned by 8 TON channels in Q3 | 2026-10-01 |  |
-| 15 | **PandaFiT** | PandaFiT is a unique Mini App where players collect, upgrade, and own unique collectible… | [Bot](https://t.me/pandafit_bot) [Gram News](https://gramnews.org/apps/pandafit) | 2025-02-07 | 23K MAU |  |  |
-| 16 | **Guarant** | Make your transactions without any problems! | [Bot](https://t.me/GuarantAppBot) [X](https://x.com/GuarantApp) [Gram News](https://gramnews.org/apps/guarant) | 2024-08-10 | 21K MAU |  |  |
-| 17 | **Crypto Office** | Crypto Office - Your helper in crypto world | [Bot](https://t.me/office_app_bot) | 2025-01-11 | 12K MAU |  |  |
+| 15 | **PandaFiT** | PandaFiT is a unique Mini App where players collect, upgrade, and own unique collectible… | [Telegram](https://t.me/pandafit_official) [Bot](https://t.me/pandafit_bot) [Gram News](https://gramnews.org/apps/pandafit) | 2025-02-07 | 23K MAU |  |  |
+| 16 | **Guarant** | Make your transactions without any problems! | [Telegram](https://t.me/guarantappen) [Bot](https://t.me/GuarantAppBot) [X](https://x.com/GuarantApp) [Gram News](https://gramnews.org/apps/guarant) | 2024-08-10 | 21K MAU |  |  |
+| 17 | **Crypto Office** | Crypto Office - Your helper in crypto world | [Telegram](https://t.me/officeappnews) [Bot](https://t.me/office_app_bot) | 2025-01-11 | 12K MAU |  |  |
 | 18 | **webappz** | webappz авто-магазины/меню в telegram | [Telegram](https://t.me/webappz) [Bot](https://t.me/webappzconnectbot) [Site](https://webappz.org) [Gram News](https://gramnews.org/apps/webappz) | 2023-07-28 | 2K views, 993 MAU | 2026-07-20 |  |
 | 19 | **SOREN** | SOREN is a digital identity layer on the TON blockchain | [Telegram](https://t.me/SORENCHANNEL) [X](https://x.com/ownsoren) [Site](https://www.soren.today/) [Gram News](https://gramnews.org/apps/soren) | 2025-06-10 | 2K views | 2026-09-08 |  |
 | 20 | **NovaCont Lite** | NovaCont Lite is a non-custodial escrow Mini App on TON | [Bot](https://t.me/NovaCont_Lite_bot) [X](https://x.com/getnovacont) [Site](https://novacont.tech) [GitHub](https://github.com/nova-cyber-and-technology/novacont-lite) | 2026-07-23 | commit 2026-07-30 | 2026-07-30 |  |
@@ -37,7 +37,7 @@
 | # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- | --- |
 | 24 | **GMCoin** |  | [Telegram](https://t.me/GMCoinChannel) [Bot](https://t.me/thegmcoinbot) [Gram News](https://gramnews.org/apps/gmcoin) | 2024-06-28 |  | 2024-11-06 |  |
-| 25 | **Nundu** |  | [Bot](https://t.me/nunducryptobot) [Gram News](https://gramnews.org/apps/nundu) | 2024-12-12 |  |  |  |
+| 25 | **Nundu** |  | [Telegram](https://t.me/nunducrypto) [Bot](https://t.me/nunducryptobot) [Gram News](https://gramnews.org/apps/nundu) | 2024-12-12 |  |  |  |
 | 27 | **BRN Tap** | Complete simple tasks and tap the Dragon! Convert the points you earn into $BRN. That's it | [Bot](https://t.me/brntap_bot) [Gram News](https://gramnews.org/apps/brn-tap) | 2024-08-22 |  |  |  |
 | 28 | **NUMA** |  | [Bot](https://t.me/numasocialbot) [X](https://x.com/NUMAsocial) [Gram News](https://gramnews.org/apps/numa) | 2024-10-25 |  |  |  |
 | 29 | **TrumPump SEASON I** |  | [Bot](https://t.me/trumpumpbot) [Gram News](https://gramnews.org/apps/trumpump-season-i) | 2024-08-29 |  |  |  |
@@ -52,7 +52,7 @@
 | 38 | **Teletop** | Your all-in-one desktop for Telegram apps | [Bot](https://t.me/the_teletop_bot) [Gram News](https://gramnews.org/apps/teletop) | 2024-08-29 |  |  |  |
 | 39 | **CallFluent** | CallFluent is poised to transform business communications through advanced AI-driven… | [Telegram](https://t.me/callfluentai) [Bot](https://t.me/callfluent_bot) [X](https://x.com/callfluentai) [Gram News](https://gramnews.org/apps/callfluent) | 2024-06-24 |  | 2024-11-07 |  |
 | 40 | **GoldVerseBot** | The largest MEME ecosystem launchpad infrastructure on TON | [Bot](https://t.me/goldversebot) [Gram News](https://gramnews.org/apps/goldversebot) | 2024-06-23 |  |  |  |
-| 41 | **Pell Gem** |  | [Bot](https://t.me/gemcoinapp_bot) [Gram News](https://gramnews.org/apps/pell-gem) | 2024-06-27 |  |  |  |
+| 41 | **Pell Gem** |  | [Telegram](https://t.me/gemcoinapp) [Bot](https://t.me/gemcoinapp_bot) [Gram News](https://gramnews.org/apps/pell-gem) | 2024-06-27 |  |  |  |
 | 42 | **Guardify AI** | AI-powered Group Manager | [Bot](https://t.me/guardifybot) [Gram News](https://gramnews.org/apps/guardify-ai) | 2024-02-29 |  |  |  |
 | 43 | **Glow** | Become a part of the Secret Glow world | [Telegram](https://t.me/Glow_Stories) [Bot](https://t.me/secretglowbot) [X](https://x.com/Glow_Stories) [Gram News](https://gramnews.org/apps/glow) | 2024-10-03 |  |  |  |
 | 44 | **TWITRIS** | TWITRIS — a Telegram mini app for handling NFT gifts | [Telegram](https://t.me/expert_tm) [Bot](https://t.me/twitris_bot) [Site](https://twitris.com) [Gram News](https://gramnews.org/apps/twitris) | 2019-06-07 |  |  |  |
@@ -79,7 +79,7 @@
 | 66 | **TON Sign** |  | [Telegram](https://t.me/tondocsign_bot) [Site](https://tonsign.com/privacy?lang=en) [Gram News](https://gramnews.org/apps/ton-sign) | 2026-05 |  |  |  |
 | 67 | **TonGo** | TonGo — a .ton domains and subdomains management service | [Site](https://tongo.run) [GitHub](https://github.com/tongochi/DEX) [Gram News](https://gramnews.org/apps/tongo) | 2023-06-28 |  | 2023-12-14 | [tonpost 23](../archive/2023-10-tonpost.jpg) [coin98-games 24](../archive/2024-02-coin98-games.jpg) [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
 | 68 | **UserCoin App** | UserCoin can evaluate the value of your username based on data from the Fragment | [Bot](https://t.me/crypto_iq_bot) [Gram News](https://gramnews.org/apps/usercoin-app) | 2024-08-21 |  |  |  |
-| 69 | **WorkHub** | Платформа для поиска работников и заказов под любые задачи! Telegram | [Bot](https://t.me/workhubapp_bot) | 2025-07-30 | mentioned by 9 TON channels in Q3 |  |  |
+| 69 | **WorkHub** | Платформа для поиска работников и заказов под любые задачи! Telegram | [Telegram](https://t.me/workhub_official) [Bot](https://t.me/workhubapp_bot) | 2025-07-30 | mentioned by 9 TON channels in Q3 |  |  |
 | 70 | **EZY TON** |  | [Telegram](https://t.me/ezyton) [Site](https://ezyton.com/) [Gram News](https://gramnews.org/apps/ezy-ton) | 2024-06-20 |  | 2025-09-26 |  |
 | 71 | **BIME** | Your call ! Fight for your belief and earn $bime + $usdt | [Telegram](https://t.me/bime_ann) [Bot](https://t.me/btc_is_meme_bot) [X](https://x.com/btc_is_meme) [Gram News](https://gramnews.org/apps/bime) | 2024-08-15 |  | 2024-09-04 |  |
 | 72 | **TON Names** | Registers short TON NFT domains that point straight to a wallet, and manages them at… | [Telegram](https://t.me/tonnames) [Site](https://tonnames.org) [Gram News](https://gramnews.org/apps/ton-names) | 2022-01-01 |  | 2024-07-14 |  |

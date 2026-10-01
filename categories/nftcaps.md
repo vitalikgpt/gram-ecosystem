@@ -9,7 +9,7 @@
 | # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Anonymous Numbers** ✓ |  | [Site](https://fragment.com/gifts) | 2022-12-06 | $497M |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 2 | **Plush Pepe** ✓ |  | [Site](https://fragment.com/gifts) | 2025-01-23 | $23M |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 2 | **Plush Pepe** ✓ |  | [X](https://x.com/PlushPepe_coin) [Site](https://fragment.com/gifts) | 2025-01-23 | $23M |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 3 | **Telegram Usernames** ✓ |  | [Site](https://fragment.com/gifts) | 2022-10-27 | $5.7M |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 4 | **Scared Cat** ✓ |  | [Site](https://fragment.com/gifts) | 2025-01-23 | $5.5M |  |  |
-| 5 | **Heart Locket** ✓ |  | [Site](https://fragment.com/gifts) | 2025-06-06 | $2.7M |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 5 | **Heart Locket** ✓ |  | [X](https://x.com/Ton_Heartlocket) [Site](https://fragment.com/gifts) | 2025-06-06 | $2.7M |  | [ton 25](../archive/2025-07-ton.jpg) |

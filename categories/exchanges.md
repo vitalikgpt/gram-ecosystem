@@ -46,13 +46,13 @@
 | 36 | **Bitstorage** |  | [Telegram](https://t.me/bitstoragefinancechannel) [X](https://x.com/BitstorageFin) [Site](https://bitstorage.finance/) [Gram News](https://gramnews.org/apps/bitstorage) | 2026-08-08 | 14 views | 2026-08-08 |  |
 | 37 | **Gate** |  | [Site](https://www.gate.io) [Gram News](https://gramnews.org/apps/gate-io) | 2021-10-25 |  |  | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
 | 38 | **WhiteBIT** |  | [Telegram](https://t.me/whitebit) [Site](https://whitebit.com) | 2024-03-14 |  | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
-| 39 | **BingX** | Empowering Traders. Elevate your crypto trading game at BingX | [X](https://x.com/BingXOfficial) [Site](https://bingx.com) | 2024-07-08 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 40 | **Bitunix** | Global Crypto Derivatives Exchange. Better Liquidity, Better Trading | [X](https://x.com/BitunixOfficial) [Site](https://www.bitunix.com) | 2024-08-27 |  |  |  |
+| 39 | **BingX** | Empowering Traders. Elevate your crypto trading game at BingX | [Telegram](https://t.me/bingxofficial) [X](https://x.com/BingXOfficial) [Site](https://bingx.com) | 2024-07-08 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 40 | **Bitunix** | Global Crypto Derivatives Exchange. Better Liquidity, Better Trading | [Telegram](https://t.me/bitunixglobal) [X](https://x.com/BitunixOfficial) [Site](https://www.bitunix.com) | 2024-08-27 |  |  |  |
 | 41 | **BloFin** | Trade with Next-gen Experience, Profit from Functioning Strategies, and Keep Your Crypto… | [X](https://x.com/BloFin_Official) [Site](https://blofin.com) | 2024-08-26 |  |  |  |
 | 42 | **HashKey Exchange** | HashKey Exchange is a centralized cryptocurrency exchange established in 2018 and is… | [X](https://x.com/HashKeyExchange) [Site](https://www.hashkey.com) | 2024-06-20 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 43 | **LeveX** | LeveX is a centralized crypto exchange offering both spot and leveraged futures trading… | [X](https://x.com/LeveX) [Site](https://levex.com/en/assets/proof-of-reserve) | 2025-11-28 |  |  |  |
-| 44 | **SwissBorg** | Making crypto wealth management accessible to everyone | [X](https://x.com/swissborg) [Site](https://swissborg.com) | 2022-11-18 |  |  |  |
-| 45 | **WEEX** | WEEX is a global cryptocurrency trading platform founded in 2018, serving users in 150+… | [X](https://x.com/WEEX_Official) [Site](https://www.weex.com/) | 2026-01-02 |  |  |  |
+| 43 | **LeveX** | LeveX is a centralized crypto exchange offering both spot and leveraged futures trading… | [Telegram](https://t.me/levexalerts) [X](https://x.com/LeveX) [Site](https://levex.com/en/assets/proof-of-reserve) | 2025-11-28 |  |  |  |
+| 44 | **SwissBorg** | Making crypto wealth management accessible to everyone | [Telegram](https://t.me/swissborg) [X](https://x.com/swissborg) [Site](https://swissborg.com) | 2022-11-18 |  |  |  |
+| 45 | **WEEX** | WEEX is a global cryptocurrency trading platform founded in 2018, serving users in 150+… | [Telegram](https://t.me/weexglobal) [X](https://x.com/WEEX_Official) [Site](https://www.weex.com/) | 2026-01-02 |  |  |  |
 
 <details><summary><b>Quiet: 21</b></summary>
 
@@ -65,15 +65,15 @@
 | 50 | **Azbit** |  | [Bot](https://t.me/TON_NFT_Market_HYBRA_bot) [Site](https://azbit.com) [Gram News](https://gramnews.org/apps/azbit) | 2023-02 |  |  |  |
 | 51 | **Biconomy.com** |  | [Telegram](https://t.me/Biconomycom) [X](https://x.com/BiconomyCom) [Site](https://www.biconomy.com/en) [Gram News](https://gramnews.org/apps/biconomy-com) | 2023-01-11 |  |  |  |
 | 52 | **BIT** |  | [X](https://x.com/BITofficial_EN) [Site](https://www.bit.com) [Gram News](https://gramnews.org/apps/bit) | 2023-07-18 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 53 | **BitcoinVN** |  | [X](https://x.com/bitcoinvn_io) [Site](https://bitcoinvn.io) [Gram News](https://gramnews.org/apps/bitcoinvn) | 2014-03-06 |  |  |  |
-| 54 | **Bitkub** | No.1 licensed bitcoin exchange in Thailand that offers services to individuals who… | [X](https://x.com/BitkubOfficial) [Site](https://www.bitkub.com/) | 2024-12-19 |  |  |  |
+| 53 | **BitcoinVN** |  | [Telegram](https://t.me/bitcoinvn_community) [X](https://x.com/bitcoinvn_io) [Site](https://bitcoinvn.io) [Gram News](https://gramnews.org/apps/bitcoinvn) | 2014-03-06 |  |  |  |
+| 54 | **Bitkub** | No.1 licensed bitcoin exchange in Thailand that offers services to individuals who… | [Telegram](https://t.me/bitkubofficial) [X](https://x.com/BitkubOfficial) [Site](https://www.bitkub.com/) | 2024-12-19 |  |  |  |
 | 55 | **BYDFi** |  | [Site](https://www.bydfi.com/) [Gram News](https://gramnews.org/apps/bydfi) | 2022-12 |  |  |  |
 | 56 | **CoinEx** |  | [Site](https://www.coinex.com/) [Gram News](https://gramnews.org/apps/coinex) | 2023-04 |  |  |  |
 | 57 | **Cryptobotex** |  | [Gram News](https://gramnews.org/apps/cryptobotex) | 2022-11-30 |  |  |  |
 | 58 | **DigiFinex** |  | [Site](https://www.digifinex.com) [Gram News](https://gramnews.org/apps/digifinex) | 2024-01 |  |  |  |
 | 59 | **Dualcoin** |  | [Site](https://dualcoin.io/en) [Gram News](https://gramnews.org/apps/dualcoin) | 2023-09 |  |  |  |
 | 60 | **EXMO** | Официальный Telegram канал криптовалютной платформы EXMO.me | [Telegram](https://t.me/exmome_official) [Bot](https://t.me/GrinderyAIBot) [Site](https://exmo.me/trade/ton_usdt) [GitHub](https://github.com/grindery-io) [Gram News](https://gramnews.org/apps/exmo) | 2024-10-22 |  | 2025-11-27 |  |
-| 61 | **Flipster** | Flipster has a wide selection of over 300 perpetual futures listings, including Bitcoin… | [X](https://x.com/flipster_io) [Site](https://flipster.io) | 2024-05-10 |  |  |  |
+| 61 | **Flipster** | Flipster has a wide selection of over 300 perpetual futures listings, including Bitcoin… | [Telegram](https://t.me/flipster_io) [X](https://x.com/flipster_io) [Site](https://flipster.io) | 2024-05-10 |  |  |  |
 | 63 | **Matrixport** |  | [Site](https://www.matrixport.com/) [Gram News](https://gramnews.org/apps/matrixport) | 2019-05-22 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 64 | **NovaDax** |  | [Telegram](https://t.me/livehub_to) [X](https://x.com/livehub_to) [Site](https://www.novadax.com.br/product/orderbook?pair=TON_BRL) [Gram News](https://gramnews.org/apps/novadax) | 2024-12-28 |  |  |  |
 | 65 | **OSL Exchange** | OSL Digital Securities is Hong Kong’s first and most established SFC-licensed and… | [X](https://x.com/OSL_HK) [Site](https://www.osl.com/en) | 2026-01-13 |  |  |  |

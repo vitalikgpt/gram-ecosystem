@@ -11,13 +11,13 @@
 | 1 | **Lagus research** ✓ | ресерч, секьюрити, контракты, блокчейны | [Telegram](https://t.me/lagus_research) | 2025-11-27 | 8K views | 2026-09-30 |  |
 | 2 | **Dune** |  | [Site](https://dune.com) | 2024-12-19 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 3 | **CoinGecko** |  | [Site](https://www.coingecko.com) | 2014-03-26 |  |  |  |
-| 4 | **CoinMarketCap** |  | [Site](https://coinmarketcap.com) | 2013-04-28 |  |  |  |
+| 4 | **CoinMarketCap** |  | [Telegram](https://t.me/coinmarketcapannouncements) [Site](https://coinmarketcap.com) | 2013-04-28 |  |  |  |
 | 5 | **DefiLlama** |  | [X](https://x.com/DefiLlama) [Site](https://defillama.com/chain/ton) [Gram News](https://gramnews.org/apps/defillama) | 2022-11-16 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 6 | **DEX Screener** |  | [Site](https://dexscreener.com/ton) | 2021-06-11 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 7 | **Gecko Terminal** |  | [Site](https://www.geckoterminal.com/ton/pools) | 2020-11-08 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 8 | **anton.tools** ✓ |  | [Site](https://anton.tools) [GitHub](https://github.com/tonindexer) | 2023-03-02 |  | 2025-07-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 8 | **anton.tools** ✓ |  | [Telegram](https://t.me/tonindexer) [Site](https://anton.tools) [GitHub](https://github.com/tonindexer) | 2023-03-02 |  | 2025-07-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 9 | **see.tg** ✓ |  | [Site](https://see.tg) | 2025-11-26 |  |  |  |
-| 10 | **TGStat** |  | [Site](https://tgstat.com) | 2017-07-08 |  |  |  |
+| 10 | **TGStat** |  | [Telegram](https://t.me/tgstat) [Site](https://tgstat.com) | 2017-07-08 |  |  |  |
 | 11 | **New Listings Feed** | Snappiest digital asset listings clearinghouse. WebSocket: Feed in your group: X:… | [Telegram](https://t.me/newlistingsfeed) [Bot](https://t.me/newlistingsfeed_bot) [Site](https://newlistings.pro) | 2024-03-16 | mentioned by 4 TON channels in Q3 | 2026-10-01 |  |
 | 12 | **CryptoWhale** | The official channel for crypto and bitcoin price action, social media analytics, news,… | [Telegram](https://t.me/whalebotalerts) [Bot](https://t.me/cryptowhalebot) [X](https://x.com/icebergy) [Gram News](https://gramnews.org/apps/cryptowhale) | 2019-05-27 | 238K views, 13K MAU | 2026-10-01 |  |
 | 13 | **SCANNER MESSAGE** | The best tools for blockchain analysis and cryptocurrency arbitrage! | [Telegram](https://t.me/arbitragescanner_eng) [Bot](https://t.me/m8tel_bot) [X](https://x.com/arbitragescan) [Site](https://arbitragescanner.io) [Gram News](https://gramnews.org/apps/scanner-message) | 2024-02-28 | 91K views | 2026-09-30 |  |
@@ -86,14 +86,14 @@
 | 71 | **Full Metal Jetton** |  | [Gram News](https://gramnews.org/apps/full-metal-jetton) | 2023-09-05 |  |  |  |
 | 72 | **Giftindex** |  | [Bot](https://t.me/giftindexbot) | 2025-06-17 |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 73 | **Giftstat.com** |  | [Bot](https://t.me/giftstatcom_bot) | 2025-07 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 74 | **indicaton** |  | [Site](https://indicaton.io/?utm_source=ton_app) [Gram News](https://gramnews.org/apps/indicaton) | 2024-01 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 74 | **indicaton** |  | [Telegram](https://t.me/indicaton) [X](https://x.com/indicaton) [Site](https://indicaton.io/?utm_source=ton_app) [Gram News](https://gramnews.org/apps/indicaton) | 2024-01 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 75 | **Jetton Whale Swaps** |  | [Telegram](https://t.me/MoonWeb3) [Bot](https://t.me/NFTRobot) [Gram News](https://gramnews.org/apps/jetton-whale-swaps) | 2023-07-05 |  |  |  |
 | 76 | **Jettons Price Alerts** |  | [Gram News](https://gramnews.org/apps/jettons-price-alerts) | 2025-11-28 |  |  |  |
 | 77 | **Journalinvest** |  | [Gram News](https://gramnews.org/apps/journalinvest) | 2025-10-01 |  |  |  |
 | 78 | **Kattana** | Trade crypto on multiple DEX and CEX with a complete range of trading tools. Technical… | [Telegram](https://t.me/kattana_trade) [X](https://x.com/kattanatrade) [GitHub](https://github.com/kattana-io) | 2011-07-05 |  | 2025-11-24 |  |
-| 79 | **Lambdo Tracking** |  | [Bot](https://t.me/lambdotracking_bot) | 2026-07-21 | mentioned by 3 TON channels in Q3 |  |  |
+| 79 | **Lambdo Tracking** |  | [Telegram](https://t.me/lambdo_tnt) [Bot](https://t.me/lambdotracking_bot) | 2026-07-21 | mentioned by 3 TON channels in Q3 |  |  |
 | 80 | **Live Price TonCoin** |  | [Site](https://fan-ton.com/) [Gram News](https://gramnews.org/apps/live-price-toncoin) | 2024-06-03 |  |  |  |
-| 82 | **NoName Tracker** | Fast, flexible, user-friendly TON tracker by | [Bot](https://t.me/trackernnbot) | 2026-04-04 | mentioned by 17 TON channels in Q3 |  |  |
+| 82 | **NoName Tracker** | Fast, flexible, user-friendly TON tracker by | [Telegram](https://t.me/nonamedev) [Bot](https://t.me/trackernnbot) | 2026-04-04 | mentioned by 17 TON channels in Q3 |  |  |
 | 84 | **TBC** | TONBANKCARD - Ecosystem for cryptocurrencies | [Bot](https://t.me/marketcaprobot) [Site](https://marketcap.tonbankcard.com) [Gram News](https://gramnews.org/apps/tbc-client) | 2022-10-08 |  |  |  |
 | 85 | **TBC TVL TON** | TBC TVL TON — analytics tool for tracking total value locked in DeFi on the TON network | [Bot](https://t.me/tonbankcard_bot) [Site](https://tonbankcard.com/tvlton.htm) [Gram News](https://gramnews.org/apps/tbc-tvl-ton) | 2022-10-08 |  |  |  |
 | 86 | **TOKEN INSIDE** |  | [Gram News](https://gramnews.org/apps/token-inside) | 2026-04-21 |  |  |  |
@@ -113,7 +113,7 @@
 | 102 | **Wallets Live** | Cryptocurrency arbitrage opportunity analytics | [Bot](https://t.me/wallets_live_bot) [X](https://x.com/ArbitrageScan) [Site](https://arbitragescanner.io/) [Gram News](https://gramnews.org/apps/wallets-live) | 2019-12-18 |  |  |  |
 | 103 | **x1000** |  | [Telegram](https://t.me/x1000) [Bot](https://t.me/x1000_en) [X](https://x.com/x1000_finance) [Site](https://x1000.finance) [Gram News](https://gramnews.org/apps/x1000) | 2025-08-08 |  |  |  |
 | 104 | **Yieldo** | Compare staking rates, withdrawal fees, and P2P prices across top crypto exchanges in… | [Bot](https://t.me/YieldoBot) [Site](https://yieldo.me/) [Gram News](https://gramnews.org/apps/yieldo) | 2026-01-17 |  |  |  |
-| 105 | **Реклама NFT в Telegram** | У нас можно купить рекламу в канал «Парадная NFT» . Быстро, удобно, безопасно | [Bot](https://t.me/frontnftbot) [X](https://x.com/smmpanelru) [Gram News](https://gramnews.org/apps/reklama-nft-v-telegram) | 2026-06-03 |  |  |  |
+| 105 | **Реклама NFT в Telegram** | У нас можно купить рекламу в канал «Парадная NFT» . Быстро, удобно, безопасно | [Telegram](https://t.me/frontnft) [Bot](https://t.me/frontnftbot) [X](https://x.com/smmpanelru) [Gram News](https://gramnews.org/apps/reklama-nft-v-telegram) | 2026-06-03 |  |  |  |
 | 106 | **Тонус** |  | [Bot](https://t.me/brainscoin_bot) [Gram News](https://gramnews.org/apps/tonus) | 2025-04-11 |  |  |  |
 | 107 | **RaggaMorffa** | Todas las noticias actualizadas del género #RaggaMorffa en un solo canal de Telegram | [Telegram](https://t.me/raggamorffanews) [X](https://x.com/raggamorffa) [Site](https://raggamorffa.net/) [Gram News](https://gramnews.org/apps/raggamorffa) | 2025-02-14 |  | 2026-03-12 |  |
 | 108 | **Tonkol** | Know what KOLs are buying on TON | [Telegram](https://t.me/tonkolpro) [X](https://x.com/Toncoinkol) [Site](https://tonkol.pro/) [Gram News](https://gramnews.org/apps/tonkol) | 2025-11-06 |  | 2026-03-02 |  |

@@ -8,20 +8,20 @@
 
 | # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **@Trade** ✓ | Обменивайтесь подарками в | [Bot](https://t.me/trade) | 2022-03-09 | 336K MAU |  | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
+| 1 | **@Trade** ✓ | Обменивайтесь подарками в | [Telegram](https://t.me/gifttradeservise) [Bot](https://t.me/trade) | 2022-03-09 | 336K MAU |  | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
 | 2 | **PocketFi** ✓ | Telegram-native memecoin trading app | [Telegram](https://t.me/pocketfi) [Bot](https://t.me/pocketfi_bot) [X](https://x.com/pocket_fi) [Site](https://pocketfi.org/) [Gram News](https://gramnews.org/apps/pocketfi) | 2023-08-22 | 236K views, 34K MAU | 2026-09-22 | [ton 25](../archive/2025-07-ton.jpg) |
-| 3 | **Maestro** |  | [Bot](https://t.me/maestro) [Site](https://www.maestrobots.com) | 2022-09-05 | 95K MAU |  |  |
+| 3 | **Maestro** |  | [Telegram](https://t.me/maestrosniperupdates) [Bot](https://t.me/maestro) [Site](https://www.maestrobots.com) | 2022-09-05 | 95K MAU |  |  |
 | 4 | **Upscale** ✓ | Upscale – a prop‑trading service without KYC | [Telegram](https://t.me/upscale_news_en) [Bot](https://t.me/UpscaleTradeBot) [X](https://x.com/upscaletrade) [Site](https://app.upscale.trade) [Gram News](https://gramnews.org/apps/upscale) | 2022-10-25 | 95K views, 19K MAU | 2026-10-01 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 5 | **@GroypFi_bot** ✓ | Chief Vibrations Officer A dose of this, a hit of that Twitter - Gbot | [Telegram](https://t.me/groyp) [Bot](https://t.me/groypfi_bot) [X](https://x.com/groyp_on_ton) [Site](https://groypfi.io/) [Gram News](https://gramnews.org/apps/groypfi) | 2025-11-11 | 91K views | 2026-09-30 |  |
 | 6 | **@DTrade** ✓ | News channel for the lightning fast trading bot on TON | [Telegram](https://t.me/dtrade_news) [Bot](https://t.me/dtrade) [X](https://x.com/dtrade_tg) [Gram News](https://gramnews.org/apps/dtrade) | 2024-03-13 | 9K views | 2026-09-04 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 7 | **RedoTrade** ✓ |  | [Telegram](https://t.me/gramtrade) [X](https://x.com/redo_trade) [Site](https://redo.trade/) | 2025-08-04 | 6K views | 2026-10-01 |  |
 | 8 | **@Swapi** ✓ |  | [Telegram](https://t.me/swapi_news) [Bot](https://t.me/swapi) | 2024-09-20 | 71 views | 2026-08-26 |  |
-| 9 | **ATF** |  | [Bot](https://t.me/atf_airdrop_bot) [X](https://x.com/ai_trading_frx) [Site](https://www.atftoken.com) | 2026-02-20 | mentioned by 37 TON channels in Q3 |  |  |
+| 9 | **ATF** |  | [Telegram](https://t.me/ai_trading_forex) [Bot](https://t.me/atf_airdrop_bot) [X](https://x.com/ai_trading_frx) [Site](https://www.atftoken.com) | 2026-02-20 | mentioned by 37 TON channels in Q3 |  |  |
 | 10 | **Лобушкин молнит** | Главный новостной терминал Прислать новость — Основной Канал в MAX —… | [Telegram](https://t.me/lobushkinflash) [Bot](https://t.me/tgpodbor_bot) | 2022-10-19 | mentioned by 3 TON channels in Q3 | 2026-10-01 |  |
 | 11 | **КриптоАтака 24** | Наибыстрейший информационный по крипте 24/7 - мгновенный агрегатор данных с… | [Telegram](https://t.me/cryptoattack24) [Bot](https://t.me/attackconnect_bot) | 2021-12-18 | mentioned by 4 TON channels in Q3 | 2026-10-01 |  |
-| 12 | **Ultra Wallet** |  | [Bot](https://t.me/ultrawallettrade_bot) | 2026-09-06 | mentioned by 6 TON channels in Q3 |  |  |
+| 12 | **Ultra Wallet** |  | [Telegram](https://t.me/ultrawalletofficial) [Bot](https://t.me/ultrawallettrade_bot) | 2026-09-06 | mentioned by 6 TON channels in Q3 |  |  |
 | 13 | **CentPay Escrow** | Buy • Sell • Escrow • Trade Secure Transactions / Fast Processing / Global Marketplace | [Bot](https://t.me/centpaaybot) | 2026-09-01 | mentioned by 4 TON channels in Q3 |  |  |
-| 14 | **BasedBot** |  | [Bot](https://t.me/based_eth_bot) | 2022-09-20 | mentioned by 11 TON channels in Q3 |  |  |
+| 14 | **BasedBot** |  | [Telegram](https://t.me/basedbotverify) [Bot](https://t.me/based_eth_bot) | 2022-09-20 | mentioned by 11 TON channels in Q3 |  |  |
 | 15 | **Elementex AI** | Elementex AI Smart Crypto Investments & AI Trading Bots. Official Website: elementex.tech | [Bot](https://t.me/elementexbot) | 2026-05-08 | mentioned by 17 TON channels in Q3 |  |  |
 | 16 | **Sigma Bot** | Sigma Portal: Docs: Home | [Telegram](https://t.me/sigmaconnect) [Bot](https://t.me/sigma_buybot) [X](https://x.com/sigmatonbot) [Site](https://sigma.no.pics) | 2024-01-12 | mentioned by 4 TON channels in Q3 | 2026-09-22 |  |
 | 17 | **TradeTON** | Your Telegram Wallet for Trading and Holding Cryptocurrencies Customers | [Bot](https://t.me/xcrusdbot) | 2023-01-20 | 43K MAU |  |  |
@@ -33,21 +33,21 @@
 
 | # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- | --- |
-| 21 | **AI Market** | AI-Market is a platform for automated cryptocurrency trading | [Bot](https://t.me/aimarkettradebot) | 2026-07-08 | mentioned by 10 TON channels in Q3 |  |  |
+| 21 | **AI Market** | AI-Market is a platform for automated cryptocurrency trading | [Telegram](https://t.me/aimarkettrade) [Bot](https://t.me/aimarkettradebot) | 2026-07-08 | mentioned by 10 TON channels in Q3 |  |  |
 | 22 | **Bobby** | We started as a buy bot, things changed. Bobby also owns the intelligence crypto runs… | [Bot](https://t.me/bobbybuybot) | 2021-11-28 |  |  |  |
 | 23 | **CAIHawk Signals** | Precision LONG signals SMC • Elliott Wave • TA 14-Day Free Trial Live Proofs | [Bot](https://t.me/caihawk_signals_bot) [Site](https://signals.caihawk.com) | 2026-04-09 | mentioned by 4 TON channels in Q3 |  |  |
-| 24 | **DTrade** | Fastest trading bot on TON | [Bot](https://t.me/dtrade_ton_bot) | 2024-07-26 |  |  |  |
+| 24 | **DTrade** | Fastest trading bot on TON | [Telegram](https://t.me/dtrade_news_en) [Bot](https://t.me/dtrade_ton_bot) | 2024-07-26 |  |  |  |
 | 25 | **DTrade DC4 Backup** |  | [Bot](https://t.me/dtrade_dc4_backup_bot) | 2026-01-30 | mentioned by 12 TON channels in Q3 |  |  |
 | 26 | **Felix** |  | [Bot](https://t.me/felix_farm_stars_bot) | 2026-07-03 | mentioned by 13 TON channels in Q3 |  |  |
 | 27 | **Hedger Bot** |  | [Bot](https://t.me/hedger_one_bot) | 2026-03-25 | mentioned by 3 TON channels in Q3 |  |  |
 | 28 | **lockin app** | Social trading for TON, Solana, BNB and Robinhood chains — trade, post calls, follow… | [Bot](https://t.me/tradeonlockinbot) | 2026-08-20 | mentioned by 22 TON channels in Q3 |  |  |
-| 29 | **Lucky Pickaxe** | Hire miners, collect their shifts and trade crystals for GRAM you can withdraw. An idle… | [Bot](https://t.me/luckypickaxebot) | 2026-09-25 | mentioned by 9 TON channels in Q3 |  |  |
+| 29 | **Lucky Pickaxe** | Hire miners, collect their shifts and trade crystals for GRAM you can withdraw. An idle… | [Telegram](https://t.me/luckypickaxe) [Bot](https://t.me/luckypickaxebot) | 2026-09-25 | mentioned by 9 TON channels in Q3 |  |  |
 | 30 | **Mite Market** | Trade Polymarket Natively on TON with Non-custodial Wallet | [Bot](https://t.me/mite_robot) | 2026-07-18 | mentioned by 5 TON channels in Q3 |  |  |
-| 31 | **MultiTools** | Social trading for Gram, Solana, BNB & more - trade, post calls, follow winning traders.… | [Bot](https://t.me/multitoools_bot) | 2026-08-28 | mentioned by 3 TON channels in Q3 |  |  |
-| 32 | **OnlyOptions: Trading Platform** | Earn on changes in asset prices | [Bot](https://t.me/only_options_bot) | 2025-09-06 |  |  |  |
+| 31 | **MultiTools** | Social trading for Gram, Solana, BNB & more - trade, post calls, follow winning traders.… | [Telegram](https://t.me/multitoolssocial) [Bot](https://t.me/multitoools_bot) | 2026-08-28 | mentioned by 3 TON channels in Q3 |  |  |
+| 32 | **OnlyOptions: Trading Platform** | Earn on changes in asset prices | [Telegram](https://t.me/only_options_tg) [Bot](https://t.me/only_options_bot) | 2025-09-06 |  |  |  |
 | 33 | **Tinu Sniper Bot** | TINU Trading Bot on TON is a powerful tool Part of | [Bot](https://t.me/tinusniperbot) | 2026-05-28 | mentioned by 9 TON channels in Q3 |  |  |
 | 34 | **TokeHunt** |  | [Bot](https://t.me/tokehuntbot) | 2026-08-23 | mentioned by 6 TON channels in Q3 |  |  |
-| 35 | **Tradowix Rewards** | Official TradoWix rewards bot. Join , send your Trader ID, get your bonus. One reward… | [Bot](https://t.me/tradowix_promo_bot) | 2026-08-15 | mentioned by 3 TON channels in Q3 |  |  |
+| 35 | **Tradowix Rewards** | Official TradoWix rewards bot. Join , send your Trader ID, get your bonus. One reward… | [Telegram](https://t.me/tradowix_official) [Bot](https://t.me/tradowix_promo_bot) | 2026-08-15 | mentioned by 3 TON channels in Q3 |  |  |
 | 36 | **DXS: Trade The World** | Новости проекта, а также полезная информация о мире криптовалют и трейдинга | [Telegram](https://t.me/dxsapp) [X](https://x.com/DXSapp) [Site](https://dxs.app) [Gram News](https://gramnews.org/apps/dxs-trade-the-world) | 2025-07-24 |  | 2025-11-17 |  |
 | 37 | **Optsnap Trading** |  | [Telegram](https://t.me/opt_snap) [Site](https://optsnap.com/) [Gram News](https://gramnews.org/apps/optsnap-trading) | 2024-09-05 |  | 2024-09-08 |  |
 

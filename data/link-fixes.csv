@@ -1355,3 +1355,585 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,1-game,1.GAME,website,confirm,https://1.game/,https://1.game/,"page title ""1.Game"" (site title)"
 2026-10-01,tgcasino,TGCasino,website,confirm,https://www.tg.casino,https://www.tg.casino,"page title ""TG Casino"" (site title)"
 2026-10-01,yezbet,YezBet,website,confirm,https://yez.bet,https://yez.bet,"page title ""Yez.bet - decentralized web3 crypto sport betting platform"" (site title)"
+2026-10-01,bingx,BingX,telegram,replace,,https://t.me/bingxofficial,"linked from its site: @bingxofficial is a group ""BingX - Empowering Traders"" with 111848 members (channel search)"
+2026-10-01,bitunix,Bitunix,telegram,replace,,https://t.me/bitunixglobal,"linked from its site: @bitunixglobal is a group ""Bitunix Global | Official"" with 42594 members (channel search)"
+2026-10-01,levex,LeveX,telegram,replace,,https://t.me/levexalerts,"linked from its site: @levexalerts is a channel ""LeveX"" with 183 members (channel search)"
+2026-10-01,swissborg,SwissBorg,telegram,replace,,https://t.me/swissborg,"linked from its site: @swissborg is a group ""SwissBorg"" with 1210 members (channel search)"
+2026-10-01,weex,WEEX,telegram,replace,,https://t.me/weexglobal,"linked from its site: @weexglobal is a channel ""Weex Global维权群 加另外一个群组，这个不能说话"" with 67 members (channel search)"
+2026-10-01,bitcoinvn,BitcoinVN,telegram,replace,,https://t.me/bitcoinvn_community,"linked from its site: @bitcoinvn_community is a group ""BitcoinVN Community"" with 351 members (channel search)"
+2026-10-01,bitkub,Bitkub,telegram,replace,,https://t.me/bitkubofficial,"linked in its X profile: @bitkubofficial is a group ""Bitkub Official"" with 4313 members (channel search)"
+2026-10-01,flipster,Flipster,telegram,replace,,https://t.me/flipster_io,"linked from its site: @flipster_io is a group ""Flipster Official Community (English)"" with 14838 members (channel search)"
+2026-10-01,teqoin-wallet,TeQoin Wallet,telegram,replace,,https://t.me/teqoin,"linked in the bot description: @teqoin is a channel ""TeQoin Announcements"" with 79459 members (channel search)"
+2026-10-01,laveshka,лавэшка,telegram,replace,,https://t.me/laveshka_news,"username guess; its description links the project bot: @laveshka_news is a channel ""@laveshka — криптокошелек"" with 5647 members (channel search)"
+2026-10-01,pgon,pgon,telegram,replace,,https://t.me/pgon_wallet,"linked in the bot description: @pgon_wallet is a channel ""pgon wallet"" with 40515 members (channel search)"
+2026-10-01,pay-space-wallet,PAY.SPACE,telegram,replace,,https://t.me/pay_space_channel,"linked in the bot description: @pay_space_channel is a channel ""PAY.SPACE - HUB"" with 1388 members (channel search)"
+2026-10-01,ammer-wallet,Ammer Wallet,telegram,replace,,https://t.me/ammerwallet,"linked from its site: @ammerwallet is a channel ""Ammer Wallet"" with 168 members (channel search)"
+2026-10-01,coin-wallet,Coin Wallet,telegram,replace,,https://t.me/coinwalletapp,"linked from its site: @coinwalletapp is a channel ""Coin Wallet App"" with 11 members (channel search)"
+2026-10-01,crypto-wallet-defi-card,Crypto Wallet,telegram,replace,,https://t.me/tegromoney,"linked in the bot description: @tegromoney is a channel ""Web3 экосистема TON DeFi"" with 17242 members (channel search)"
+2026-10-01,payscrow-wallet,Payscrow Wallet,telegram,replace,,https://t.me/payscrowwallet,"username guess; its description links the project bot: @payscrowwallet is a channel ""Payscrow Wallet"" with 1488 members (channel search)"
+2026-10-01,talken-wallet,Talken Wallet,telegram,replace,,https://t.me/talken_updates,"linked in the bot description: @talken_updates is a channel ""📢Talken News"" with 68481 members (channel search)"
+2026-10-01,walletstars,WalletStars,telegram,replace,,https://t.me/walletstarsofficial,"linked in the bot description: @walletstarsofficial is a channel ""WalletStars | Купить Звёзды"" with 27832 members (channel search)"
+2026-10-01,torch,Torch Finance,telegram,replace,,https://t.me/torch_ton,"linked from its site: @torch_ton is a channel ""Torch Finance"" with 27292 members (channel search)"
+2026-10-01,megaton,Megaton Finance,telegram,replace,,https://t.me/megatonfinancechannel,"username guess, page title matches: @megatonfinancechannel is a channel ""Megaton Finance Channel [Official]"" with 2262 members (channel search)"
+2026-10-01,joker-swap,Joker Swap,telegram,replace,,https://t.me/jokerswapofficial,"username guess; its description links the project bot: @jokerswapofficial is a channel ""JOKER Community"" with 361311 members (channel search)"
+2026-10-01,crypton-super-bot,Crypton Super Bot,telegram,replace,,https://t.me/cryptonitescanner,"linked in the bot description: @cryptonitescanner is a channel ""@CryptoniteScanner"" with 33 members (channel search)"
+2026-10-01,dodo,Dodo,telegram,replace,,https://t.me/dodo,"username guess, page title matches: @dodo is a channel ""DODO"" with 14624 members (channel search)"
+2026-10-01,dydx,dYdX,telegram,replace,,https://t.me/dydxofficial,"username guess, page title matches: @dydxofficial is a group ""dYdX Official Announcements"" with 2319 members (channel search)"
+2026-10-01,pancakeswap,PancakeSwap,telegram,replace,,https://t.me/pancakeswap,"username guess, page title matches: @pancakeswap is a group ""PancakeSwap"" with 95047 members (channel search)"
+2026-10-01,wallet-pay,Wallet Pay,telegram,replace,,https://t.me/walletpayofficial,"username guess, page title matches: @walletpayofficial is a group ""Wallet Pay Official"" with 1681 members (channel search)"
+2026-10-01,cryptomus,Cryptomus,telegram,replace,,https://t.me/cryptomus,"linked from its site: @cryptomus is a channel ""Cryptomus"" with 13324 members (channel search)"
+2026-10-01,altyn-wallet,Altyn Wallet,telegram,replace,,https://t.me/altynwallet,"username guess; its description links the project bot: @altynwallet is a channel ""Кошелёк Алтын"" with 26384 members (channel search)"
+2026-10-01,hoton,@Hoton,telegram,replace,,https://t.me/hotonnews,"username guess; its description links the project bot: @hotonnews is a channel ""Hoton News"" with 193 members (channel search)"
+2026-10-01,xstocks,xStocks,telegram,replace,,https://t.me/xstocksfi,"linked from its site: @xstocksfi is a channel ""xStocks"" with 54468 members (channel search)"
+2026-10-01,advance-stars,Advance Stars,telegram,replace,,https://t.me/advancestarschannel,"username guess; its description links the project bot: @advancestarschannel is a channel ""Advance Stars | Канал"" with 74902 members (channel search)"
+2026-10-01,buynstars-com,BuynStars.com,telegram,replace,,https://t.me/buynstarscom,"linked in the bot description: @buynstarscom is a channel ""BuynStars.com - Купить Звёзды в Telegram"" with 15740 members (channel search)"
+2026-10-01,bitflick-stars,BitFlick Stars,telegram,replace,,https://t.me/bitstarsinfo,"linked in the bot description: @bitstarsinfo is a channel ""BitStars Community"" with 7540 members (channel search)"
+2026-10-01,bestchange-bot,BestChange Bot,telegram,replace,,https://t.me/bestchange,"username guess; its description links the project bot: @bestchange is a channel ""BestChange — exchanger directory"" with 24186 members (channel search)"
+2026-10-01,paycrypto-global,PayCrypto.Global,telegram,replace,,https://t.me/paycryptoglobal,"linked from its site: @paycryptoglobal is a channel ""PayCrypto.Global"" with 14 members (channel search)"
+2026-10-01,webwise-pay,WebWise Pay,telegram,replace,,https://t.me/webwisepay,"username guess; its description links the project bot: @webwisepay is a channel ""WebWise Pay"" with 2385 members (channel search)"
+2026-10-01,changenow,ChangeNOW,telegram,replace,,https://t.me/changenow_chat,"linked from its site: @changenow_chat is a group ""ChangeNOW Community Chat"" with 7017 members (channel search)"
+2026-10-01,prosto-exchange,Prosto Exchange,telegram,replace,,https://t.me/prostoex_news,"linked in the bot description: @prostoex_news is a channel ""Prosto Exchange - наличные и переводы по всему мир"" with 11171 members (channel search)"
+2026-10-01,bitpapa,Bitpapa,telegram,replace,,https://t.me/bitpapa_io,"linked from its site: @bitpapa_io is a channel ""Bitpapa Media"" with 104732 members (channel search)"
+2026-10-01,only-p2p,ONLY,telegram,replace,,https://t.me/p2pru,"linked in the bot description: @p2pru is a channel ""ONLYP2P"" with 4966 members (channel search)"
+2026-10-01,redstone-o,RedStone,telegram,replace,,https://t.me/redstonefinance,"linked from its site: @redstonefinance is a group ""RedStone ♦️"" with 4056 members (channel search)"
+2026-10-01,chainbase-network,Chainbase Network,telegram,replace,,https://t.me/chainbasenetwork,"username guess, page title matches: @chainbasenetwork is a group ""Chainbase Network"" with 62510 members (channel search)"
+2026-10-01,orbs,Orbs,telegram,replace,,https://t.me/orbs_news,"username guess, page title matches: @orbs_news is a channel ""Orbs News and Updates"" with 3139 members (channel search)"
+2026-10-01,softstack,Softstack,telegram,replace,,https://t.me/softstack,"linked from its site: @softstack is a channel ""softstack"" with 10 members (channel search)"
+2026-10-01,ton-testnet-faucet,TON Testnet Faucet,telegram,replace,,https://t.me/dictatorcryptodct,"linked from its site: @dictatorcryptodct is a channel ""Dictator Crypto"" with 20822 members (channel search)"
+2026-10-01,tonchemy,TONChemy,telegram,replace,,https://t.me/tonchemy,"username guess; its description links the project bot: @tonchemy is a channel ""TONChemy Announcements"" with 1026 members (channel search)"
+2026-10-01,tapup,TapUp,telegram,replace,,https://t.me/tapup_chat,"linked in its X profile: @tapup_chat is a group ""TAPUP Chat"" with 60343 members (channel search)"
+2026-10-01,chainstack,Chainstack,telegram,replace,,https://t.me/chainstack,"linked from its site: @chainstack is a group ""Chainstack"" with 1909 members (channel search)"
+2026-10-01,ton-inu-buybot,TON INU BuyBot,telegram,replace,,https://t.me/toninu_trending,"linked from its site: @toninu_trending is a channel ""Ton Inu $TINU Trending"" with 2639 members (channel search)"
+2026-10-01,coinmarketcap,CoinMarketCap,telegram,replace,,https://t.me/coinmarketcapannouncements,"linked from its site: @coinmarketcapannouncements is a channel ""CoinMarketCap Announcements"" with 242838 members (channel search)"
+2026-10-01,anton-tools,anton.tools,telegram,replace,,https://t.me/tonindexer,"linked from its site: @tonindexer is a channel ""anton.tools"" with 18729 members (channel search)"
+2026-10-01,tgstat,TGStat,telegram,replace,,https://t.me/tgstat,"linked from its site: @tgstat is a channel ""TGStat.ru — Аналитика Telegram-каналов и чатов"" with 131301 members (channel search)"
+2026-10-01,lambdo-tracking,Lambdo Tracking,telegram,replace,,https://t.me/lambdo_tnt,"linked in the bot description: @lambdo_tnt is a channel ""LAMBDO"" with 22 members (channel search)"
+2026-10-01,noname-tracker,NoName Tracker,telegram,replace,,https://t.me/nonamedev,"linked in the bot description: @nonamedev is a channel ""NoName Dev"" with 297 members (channel search)"
+2026-10-01,reklama-nft-v-telegram,Реклама NFT в Telegram,telegram,replace,,https://t.me/frontnft,"linked in the bot description: @frontnft is a channel ""Маркет & Крипто Картки 🇺🇦"" with 8737 members (channel search)"
+2026-10-01,gid-anti-scam,GID Anti-Scam,telegram,replace,,https://t.me/gid_scambase,"linked in the bot description: @gid_scambase is a channel ""Скам База | GID | Мошенники"" with 11768 members (channel search)"
+2026-10-01,layerswap,Layerswap,telegram,replace,,https://t.me/layerswap_io,"linked in its X profile: @layerswap_io is a channel ""Layerswap"" with 3514 members (channel search)"
+2026-10-01,settleton,SettleTON,telegram,replace,,https://t.me/settleton,"linked from its site: @settleton is a channel ""SettleTON"" with 8093 members (channel search)"
+2026-10-01,tonpools,TonPools,telegram,replace,,https://t.me/tonpools_com,"linked in its X profile: @tonpools_com is a channel ""TONPools Community"" with 1202 members (channel search)"
+2026-10-01,buzz,Buzz,telegram,replace,,https://t.me/buzz_official_news,"linked in its X profile: @buzz_official_news is a channel ""Buzz Official News"" with 232251 members (channel search)"
+2026-10-01,farmix,Farmix,telegram,replace,,https://t.me/farmix_news,"username guess, page title matches: @farmix_news is a channel ""FARMIX News"" with 57429 members (channel search)"
+2026-10-01,tonstake-com,TonStake.com,telegram,replace,,https://t.me/tonstake_com_en,"linked in its X profile: @tonstake_com_en is a channel ""TonStake.com Channel"" with 285 members (channel search)"
+2026-10-01,parraton,Parraton,telegram,replace,,https://t.me/parraton_en,"linked in its X profile: @parraton_en is a channel ""Parraton"" with 5774 members (channel search)"
+2026-10-01,aster,Aster,telegram,replace,,https://t.me/asterdex,"linked from its site: @asterdex is a group ""Aster"" with 33636 members (channel search)"
+2026-10-01,ethena,Ethena USDe,telegram,replace,,https://t.me/ethena_labs,"linked from its site: @ethena_labs is a group ""Ethena"" with 16365 members (channel search)"
+2026-10-01,ton-app-site,TON App,telegram,replace,,https://t.me/tonapp,"username guess, page title matches: @tonapp is a channel ""TON App Channel"" with 1187926 members (channel search)"
+2026-10-01,dyor,DYOR.io,telegram,replace,,https://t.me/dyorninja,"linked from its site: @dyorninja is a channel ""DYOR.io community"" with 56974 members (channel search)"
+2026-10-01,ton-website,ton.website,telegram,replace,,https://t.me/mtproxyfreedom,"linked from its site: @mtproxyfreedom is a channel ""MTProxy Разблокировка Telegram"" with 31 members (channel search)"
+2026-10-01,yaya-mini-apps,Yaya Mini Apps,telegram,replace,,https://t.me/yaya_gram,"linked in the bot description: @yaya_gram is a channel ""Yaya Announcement"" with 245 members (channel search)"
+2026-10-01,need-vpn-esim,Need VPN & eSIM,telegram,replace,,https://t.me/needapp,"linked in the bot description: @needapp is a channel ""Need Services"" with 2926135 members (channel search)"
+2026-10-01,vpn,VPN Скруджа,telegram,replace,,https://t.me/scroogevpn,"linked in the bot description: @scroogevpn is a channel ""⚡️ VPN Скруджа"" with 101255 members (channel search)"
+2026-10-01,vpn-2,Связь VPN,telegram,replace,,https://t.me/svyaznews,"linked in the bot description: @svyaznews is a channel ""Связь Новости"" with 18496 members (channel search)"
+2026-10-01,dark-vpn,DARK VPN,telegram,replace,,https://t.me/d_k_vpn,"linked in the bot description: @d_k_vpn is a channel ""DARK VPN | Новости"" with 36755 members (channel search)"
+2026-10-01,molly-vpn,Molly VPN,telegram,replace,,https://t.me/mollyvpn_community,"linked in the bot description: @mollyvpn_community is a channel ""Molly VPN Community"" with 18131 members (channel search)"
+2026-10-01,get-gifts,Get Gifts,telegram,replace,,https://t.me/giftchanges,"linked from its site: @giftchanges is a channel ""Gift Changes 🎁"" with 116739 members (channel search)"
+2026-10-01,starsovbot,StarsovBot,telegram,replace,,https://t.me/starsovnews,"linked in the bot description: @starsovnews is a channel ""StarsovNews | Подарки, Звезды"" with 181390 members (channel search)"
+2026-10-01,edge-gift,EDGE GIFT,telegram,replace,,https://t.me/edge_gift,"linked in the bot description: @edge_gift is a channel ""EDGE GIFT"" with 188374 members (channel search)"
+2026-10-01,frog-case,Frog Case,telegram,replace,,https://t.me/frogcasenews,"linked in the bot description: @frogcasenews is a channel ""Frog News"" with 326148 members (channel search)"
+2026-10-01,alfabit,AlfaBit,telegram,replace,,https://t.me/alfabit_news,"linked in the bot description: @alfabit_news is a channel ""Новости AlfaBit"" with 19277 members (channel search)"
+2026-10-01,cs2-cases-skins-shot,CS2 Cases & Skins: SHOT,telegram,replace,,https://t.me/cs_shot_1,"linked in the bot description: @cs_shot_1 is a channel ""CS 2 Skins & Cases | Shot"" with 185438 members (channel search)"
+2026-10-01,bandabot,bandabot,telegram,replace,,https://t.me/bandabotchannel,"username guess; its description links the project bot: @bandabotchannel is a channel ""BandaBot Channel"" with 4 members (channel search)"
+2026-10-01,tiger-case,Tiger Case,telegram,replace,,https://t.me/tiger_case,"username guess; its description links the project bot: @tiger_case is a channel ""Tiger News"" with 62679 members (channel search)"
+2026-10-01,stonksgift,StonksGift,telegram,replace,,https://t.me/stonksgift,"linked in the bot description: @stonksgift is a channel ""STONKS GIFT"" with 78831 members (channel search)"
+2026-10-01,win-land,Win Land,telegram,replace,,https://t.me/gifty_land,"linked in the bot description: @gifty_land is a channel ""Gifty Land | گیفتی لند"" with 15008 members (channel search)"
+2026-10-01,greats-gift,Greats Gift,telegram,replace,,https://t.me/greatsgiftchannel,"linked in the bot description: @greatsgiftchannel is a channel ""Greatsgift Channel - официальный канал"" with 473 members (channel search)"
+2026-10-01,1gift,1GIFT,telegram,replace,,https://t.me/onegiftofficial,"linked in the bot description: @onegiftofficial is a channel ""1Gift Official"" with 34740 members (channel search)"
+2026-10-01,gates-market,Gates Market,telegram,replace,,https://t.me/gates_market,"linked in the bot description: @gates_market is a channel ""Gates Market"" with 4830 members (channel search)"
+2026-10-01,apes-club,Apes Club,telegram,replace,,https://t.me/apes_club,"linked in the bot description: @apes_club is a channel ""Apes Club 🐵"" with 51745 members (channel search)"
+2026-10-01,sticker-pack,Sticker Pack,telegram,replace,,https://t.me/sticker_community,"linked in the bot description: @sticker_community is a channel ""Stickers Community"" with 828010 members (channel search)"
+2026-10-01,chimp,Chimp,telegram,replace,,https://t.me/mychimp,"username guess; its description links the project bot: @mychimp is a channel ""Chimp Community"" with 73179 members (channel search)"
+2026-10-01,patrickgamesbot,Игры Патрика,telegram,replace,,https://t.me/patrickgames_news,"linked in the bot description: @patrickgames_news is a channel ""Игры Патрика | Канал"" with 41127 members (channel search)"
+2026-10-01,easy-spin-gift,Easy Spin Gift,telegram,replace,,https://t.me/easyspingift_news,"linked in the bot description: @easyspingift_news is a channel ""Easy Spin Gift News"" with 23659 members (channel search)"
+2026-10-01,fomoliquid-v3-0,FomoLiquid v3.0,telegram,replace,,https://t.me/fomoliquid,"linked in the bot description: @fomoliquid is a channel ""FomoLiquid"" with 7746 members (channel search)"
+2026-10-01,gifting,Gifting,telegram,replace,,https://t.me/giftingtg,"linked in the bot description: @giftingtg is a channel ""Gifting"" with 9171 members (channel search)"
+2026-10-01,beegifts,BeeGifts,telegram,replace,,https://t.me/beegiftsnews,"linked in the bot description: @beegiftsnews is a channel ""BeeGifts News"" with 22979 members (channel search)"
+2026-10-01,case,Case,telegram,replace,,https://t.me/case_app,"linked in the bot description: @case_app is a channel ""Case"" with 158163 members (channel search)"
+2026-10-01,gift-box,Gift Box,telegram,replace,,https://t.me/giftbox_official,"username guess; its description links the project bot: @giftbox_official is a channel ""Gift Box Community"" with 116437 members (channel search)"
+2026-10-01,see-tg-telegram-gifts-analytics,see.tg,telegram,replace,,https://t.me/seetg,"linked in the bot description: @seetg is a channel ""see.tg - Новости и обновления"" with 681 members (channel search)"
+2026-10-01,balls,Balls,telegram,replace,,https://t.me/balls_tv,"linked in the bot description: @balls_tv is a channel ""Balls TV 📺"" with 14982 members (channel search)"
+2026-10-01,tonpixel,TonPixel,telegram,replace,,https://t.me/tonpixelworld,"linked in its X profile: @tonpixelworld is a channel ""TonPixel Community"" with 3119 members (channel search)"
+2026-10-01,toniqueapp,Toniqueapp,telegram,replace,,https://t.me/toniqueapp,"username guess; its description links the project bot: @toniqueapp is a channel ""Tonique: NFT and Gaming - All in One"" with 15608 members (channel search)"
+2026-10-01,qrmint,QRMint,telegram,replace,,https://t.me/qrmint,"username guess; its description links the project bot: @qrmint is a channel ""QR Mint News"" with 32 members (channel search)"
+2026-10-01,aid-hub,AID Hub,telegram,replace,,https://t.me/aid_crypto,"linked in the bot description: @aid_crypto is a channel ""AID Crypto"" with 4062 members (channel search)"
+2026-10-01,apex-loot,Apex Loot,telegram,replace,,https://t.me/apex_lootbag,"linked in the bot description: @apex_lootbag is a channel ""Apex Loot"" with 7062 members (channel search)"
+2026-10-01,bubble,Bubble,telegram,replace,,https://t.me/bubble_store,"linked in the bot description: @bubble_store is a channel ""Bubble News"" with 467 members (channel search)"
+2026-10-01,cosmifi-tg-stars-and-financial-tools,Cosmifi,telegram,replace,,https://t.me/cosmifi,"linked in the bot description: @cosmifi is a channel ""Cosmifi - Stars и Займы в GRAM под залог подарков."" with 573 members (channel search)"
+2026-10-01,farm-and-earn-ton-coin,Farm and Earn TON Coin,telegram,replace,,https://t.me/tegronft,"username guess; its description links the project bot: @tegronft is a channel ""DEX Community • TON DeFi"" with 10510 members (channel search)"
+2026-10-01,g-bots,G-Bots,telegram,replace,,https://t.me/gbotston,"linked in the bot description: @gbotston is a channel ""G-BOTS by G-LABS"" with 7024 members (channel search)"
+2026-10-01,gift-restart,Gift Restart,telegram,replace,,https://t.me/gift_restart,"linked in the bot description: @gift_restart is a channel ""Gift Restart Project"" with 685 members (channel search)"
+2026-10-01,gift-wiki-bot,Gift Wiki Bot,telegram,replace,,https://t.me/giftwiki,"username guess; its description links the project bot: @giftwiki is a channel ""Gift Wiki"" with 6239 members (channel search)"
+2026-10-01,giftlee,Giftlee,telegram,replace,,https://t.me/giftleechat,"linked in the bot description: @giftleechat is a group ""Giftlee Chat"" with 402 members (channel search)"
+2026-10-01,gifts-drop,Gifts Drop,telegram,replace,,https://t.me/giftdropchannel,"linked in the bot description: @giftdropchannel is a channel ""GIFTS DROP"" with 14923 members (channel search)"
+2026-10-01,gifttop,GiftTop,telegram,replace,,https://t.me/gifttop_ru,"linked in the bot description: @gifttop_ru is a channel ""GiftTop"" with 30254 members (channel search)"
+2026-10-01,ihuima-nft,Ihuima NFT,telegram,replace,,https://t.me/ihuyma,"linked in the bot description: @ihuyma is a channel ""ИХ УЙМА | Новости"" with 1336 members (channel search)"
+2026-10-01,kingyton-nft,kingyTON NFT,telegram,replace,,https://t.me/investkingyru,"linked from its site: @investkingyru is a channel ""Investment kingyru 💎"" with 1692583 members (channel search)"
+2026-10-01,kito-so-cool,Kito so cool,telegram,replace,,https://t.me/kitocommunity,"linked in its X profile: @kitocommunity is a channel ""Kito Community"" with 410 members (channel search)"
+2026-10-01,knuckles-ton,Knuckles TON,telegram,replace,,https://t.me/knucklesonton,"linked from its site: @knucklesonton is a channel ""Knuckles TON"" with ? members (channel search)"
+2026-10-01,nft-collection-planner,NFT Collection Planner,telegram,replace,,https://t.me/giftconstructchannel,"linked in the bot description: @giftconstructchannel is a channel ""NFT Collection Planner"" with 278 members (channel search)"
+2026-10-01,onrank-launchpad,ONRANK LAUNCHPAD,telegram,replace,,https://t.me/onranknews,"username guess; its description links the project bot: @onranknews is a channel ""ONRANK News"" with 68 members (channel search)"
+2026-10-01,pacton,PacTon,telegram,replace,,https://t.me/pac_ton,"linked from its site: @pac_ton is a channel ""PacTon"" with 734 members (channel search)"
+2026-10-01,pawn-14,pawn,telegram,replace,,https://t.me/pawnd,"linked in the bot description: @pawnd is a channel ""pawn - промо, выигрыши и новости"" with 1225 members (channel search)"
+2026-10-01,quant-market,Quant Market,telegram,replace,,https://t.me/quantmarketplace,"linked in the bot description: @quantmarketplace is a channel ""QuantMarket"" with 10234 members (channel search)"
+2026-10-01,ralph-games,RALPH GAMES,telegram,replace,,https://t.me/ralph_channel,"linked in the bot description: @ralph_channel is a channel ""RALPH GAMES"" with 5272 members (channel search)"
+2026-10-01,royal-case,Royal Case,telegram,replace,,https://t.me/royal_cases,"linked in the bot description: @royal_cases is a channel ""Royal Case"" with 2991 members (channel search)"
+2026-10-01,royals,Royals,telegram,replace,,https://t.me/royals_community,"linked in the bot description: @royals_community is a channel ""Royals"" with 2979 members (channel search)"
+2026-10-01,shuttles,Shuttles,telegram,replace,,https://t.me/shuttles_moon,"username guess; its description links the project bot: @shuttles_moon is a channel ""Shuttles announcement"" with 86 members (channel search)"
+2026-10-01,simplenft,SimpleNFT,telegram,replace,,https://t.me/simplenft4all,"linked in the bot description: @simplenft4all is a channel ""SimpleNFT"" with 1296 members (channel search)"
+2026-10-01,teiko,TEIKO,telegram,replace,,https://t.me/teiko,"username guess, page title matches: @teiko is a channel ""Teiko Фамилия"" with 5414 members (channel search)"
+2026-10-01,tmarket,Tmarket,telegram,replace,,https://t.me/tmarket,"username guess; its description links the project bot: @tmarket is a channel ""Tmail Community 💌"" with 12751 members (channel search)"
+2026-10-01,ton-diamonds-nft,TON Diamonds NFT,telegram,replace,,https://t.me/sheidlinart,"linked from its site: @sheidlinart is a channel ""Sheidlina про искусство"" with 22806 members (channel search)"
+2026-10-01,ton-goblins,TON Goblins,telegram,replace,,https://t.me/goblinium,"linked from its site: @goblinium is a channel ""Goblinium"" with 2588 members (channel search)"
+2026-10-01,toncells,TonCells,telegram,replace,,https://t.me/toncells,"username guess, page title matches: @toncells is a channel ""toncells"" with 777 members (channel search)"
+2026-10-01,utya-stars,Utya Stars,telegram,replace,,https://t.me/giftsutya,"linked in the bot description: @giftsutya is a channel ""Utya News - Telegram подарки"" with 22336 members (channel search)"
+2026-10-01,villaton,VillaTon,telegram,replace,,https://t.me/cryptoandvilla,"linked in the bot description: @cryptoandvilla is a channel ""Крипто Вилла"" with 5834 members (channel search)"
+2026-10-01,vortex,VORTEX,telegram,replace,,https://t.me/vortex_crash,"linked in the bot description: @vortex_crash is a channel ""VORTEX Live 🚀"" with 19160 members (channel search)"
+2026-10-01,yakzen-games,YakZen Games,telegram,replace,,https://t.me/nftyakusha,"linked in the bot description: @nftyakusha is a channel ""NFT YAKUSHA #YakZen"" with 15078 members (channel search)"
+2026-10-01,stars-scrooge-bot,МАРКЕТ СКРУДЖА,telegram,replace,,https://t.me/gift_podarki,"linked in the bot description: @gift_podarki is a channel ""Подарки от Скруджа"" with 115093 members (channel search)"
+2026-10-01,polyton-app,Polyton App,telegram,replace,,https://t.me/soda_fun,"linked in the bot description: @soda_fun is a channel ""SODA"" with 4213 members (channel search)"
+2026-10-01,secrettonproject-qqq,SecretTonProject QQQ,telegram,replace,,https://t.me/secrettonprojectqqq,"username guess; its description links the project bot: @secrettonprojectqqq is a channel ""👉 Secret Ton Project Qqq 👈 📍🌉🇺🇸 SecretPad"" with 60 members (channel search)"
+2026-10-01,lumo,LUMO,telegram,replace,,https://t.me/cryptolumo,"linked in the bot description: @cryptolumo is a channel ""For sale"" with 32 members (channel search)"
+2026-10-01,tokentable,TokenTable,telegram,replace,,https://t.me/tokentable,"username guess; its description links the project bot: @tokentable is a group ""TokenTable Community"" with 78375 members (channel search)"
+2026-10-01,rats,RATS,telegram,replace,,https://t.me/ratsgame_community,"username guess; its description links the project bot: @ratsgame_community is a channel ""RATS Community"" with 270766 members (channel search)"
+2026-10-01,bitbot,Bitbot,telegram,replace,,https://t.me/bitbotofficial,"username guess; its description links the project bot: @bitbotofficial is a group ""Bitbot | Official Telegram"" with 23948 members (channel search)"
+2026-10-01,hypecoin,Hypecoin,telegram,replace,,https://t.me/hypecoinnews,"username guess, page title matches: @hypecoinnews is a channel ""Hype Coin News"" with 1785 members (channel search)"
+2026-10-01,trade-bot,@Trade,telegram,replace,,https://t.me/gifttradeservise,"linked in the bot description: @gifttradeservise is a channel ""TRADE"" with 381687 members (channel search)"
+2026-10-01,maestro,Maestro,telegram,replace,,https://t.me/maestrosniperupdates,"linked from its site: @maestrosniperupdates is a channel ""Maestro Bot Updates"" with 187211 members (channel search)"
+2026-10-01,atf,ATF,telegram,replace,,https://t.me/ai_trading_forex,"linked in the bot description: @ai_trading_forex is a channel ""ATF"" with 1525704 members (channel search)"
+2026-10-01,ultra-wallet,Ultra Wallet,telegram,replace,,https://t.me/ultrawalletofficial,"username guess; its description links the project bot: @ultrawalletofficial is a channel ""Ultra Wallet Community"" with 175441 members (channel search)"
+2026-10-01,basedbot,BasedBot,telegram,replace,,https://t.me/basedbotverify,"linked in the bot description: @basedbotverify is a channel ""Base Bot - Verify"" with 13273 members (channel search)"
+2026-10-01,ai-market,AI Market,telegram,replace,,https://t.me/aimarkettrade,"linked in the bot description: @aimarkettrade is a channel ""AI Market News"" with 1986 members (channel search)"
+2026-10-01,dtrade-ton-trading-bot,DTrade,telegram,replace,,https://t.me/dtrade_news_en,"linked in the bot description: @dtrade_news_en is a channel ""DTrade News"" with 48843 members (channel search)"
+2026-10-01,lucky-pickaxe,Lucky Pickaxe,telegram,replace,,https://t.me/luckypickaxe,"username guess; its description links the project bot: @luckypickaxe is a channel ""Lucky Pickaxe Hub"" with 2343 members (channel search)"
+2026-10-01,multitools,MultiTools,telegram,replace,,https://t.me/multitoolssocial,"linked in the bot description: @multitoolssocial is a group ""MultiTools Social"" with 8 members (channel search)"
+2026-10-01,onlyoptions-trading-platform,OnlyOptions: Trading Platform,telegram,replace,,https://t.me/only_options_tg,"linked in the bot description: @only_options_tg is a channel ""OnlyOptions"" with 809 members (channel search)"
+2026-10-01,tradowix-rewards,Tradowix Rewards,telegram,replace,,https://t.me/tradowix_official,"linked in the bot description: @tradowix_official is a channel ""TradoWix Official"" with 60448 members (channel search)"
+2026-10-01,mira,@Mira,telegram,replace,,https://t.me/miramedia_en,"linked in the bot description: @miramedia_en is a channel ""Mira AI Media"" with 50699 members (channel search)"
+2026-10-01,papa-cult-bot,$PAPA CULT BOT,telegram,replace,,https://t.me/papa666cult,"linked in the bot description: @papa666cult is a channel ""PAPA CULT"" with 854534 members (channel search)"
+2026-10-01,green-coin-meme,GREEN COIN MEME,telegram,replace,,https://t.me/greencoinmeme,"username guess; its description links the project bot: @greencoinmeme is a channel ""$GREEN MEMECOIN"" with 8615 members (channel search)"
+2026-10-01,dwag,Dwag,telegram,replace,,https://t.me/dwagairdrop,"username guess; its description links the project bot: @dwagairdrop is a channel ""Dwag airdrop worlwide"" with 76 members (channel search)"
+2026-10-01,freelz,Freelz,telegram,replace,,https://t.me/freelz_official,"username guess; its description links the project bot: @freelz_official is a channel ""Freelz — шортсы в Телеграм!"" with 4423 members (channel search)"
+2026-10-01,real-cows-house,Real Cows House,telegram,replace,,https://t.me/cowspartners,"linked in the bot description: @cowspartners is a channel ""Real Cow House"" with 12 members (channel search)"
+2026-10-01,dino,DINO,telegram,replace,,https://t.me/dinocards,"username guess; its description links the project bot: @dinocards is a channel ""DINO"" with 2100 members (channel search)"
+2026-10-01,trust-app-bot,TRUST APP BOT,telegram,replace,,https://t.me/trust_empire,"username guess; its description links the project bot: @trust_empire is a channel ""TRUST Community 🤝"" with 106690 members (channel search)"
+2026-10-01,atomcoin,AtomCoin,telegram,replace,,https://t.me/atomcoin_news,"username guess; its description links the project bot: @atomcoin_news is a channel ""AtomCoin News"" with 48211 members (channel search)"
+2026-10-01,fast-food-memes,Fast Food Memes,telegram,replace,,https://t.me/fastfoodmemes,"username guess; its description links the project bot: @fastfoodmemes is a channel ""Fast Food Memes / ffmemes"" with 2067 members (channel search)"
+2026-10-01,placce,@Placce,telegram,replace,,https://t.me/placce,"linked in the bot description: @placce is a channel ""Placce || ALL OPEN>STARS, TON, UFS AND RENT GIFT."" with 5269 members (channel search)"
+2026-10-01,fibarium,Fibarium,telegram,replace,,https://t.me/fibarium,"username guess; its description links the project bot: @fibarium is a channel ""Fibarium"" with 39 members (channel search)"
+2026-10-01,tnc,Tnc,telegram,replace,,https://t.me/tnc_community,"linked in the bot description: @tnc_community is a channel ""Tnc Token"" with 6 members (channel search)"
+2026-10-01,guardian,Guardian,telegram,replace,,https://t.me/guardiantrending,"linked in the bot description: @guardiantrending is a group ""Guardian Trending"" with 1840 members (channel search)"
+2026-10-01,ambermarket-gpt-claude-steam-ps-store,AmberMarket,telegram,replace,,https://t.me/ambermarket_official,"username guess; its description links the project bot: @ambermarket_official is a channel ""AmberMarket — сервис оплаты GPT, Claude, PS Plus, "" with 3395 members (channel search)"
+2026-10-01,partonaai-app,PartonaAI App,telegram,replace,,https://t.me/partona_news,"username guess; its description links the project bot: @partona_news is a channel ""Partona.AI News"" with 1235353 members (channel search)"
+2026-10-01,jarvisbot,JarvisBot,telegram,replace,,https://t.me/jarvisbot_official,"username guess; its description links the project bot: @jarvisbot_official is a channel ""JarvisBot News"" with 41720 members (channel search)"
+2026-10-01,alpha-track-bot,Alpha Track ~~ bot,telegram,replace,,https://t.me/alphatrack_ann,"linked in the bot description: @alphatrack_ann is a channel ""Alpha Track Announcements"" with 23 members (channel search)"
+2026-10-01,duck-ai-app,Duck Ai App,telegram,replace,,https://t.me/myduckai,"linked in the bot description: @myduckai is a channel ""My Duck Ai App"" with 74 members (channel search)"
+2026-10-01,kamana-ai,Kamana AI,telegram,replace,,https://t.me/kamanaann,"linked in the bot description: @kamanaann is a channel ""Kamana 🐸 Announcement"" with 3260 members (channel search)"
+2026-10-01,neonexa-ai,NEONEXA AI,telegram,replace,,https://t.me/tonmasons,"linked in the bot description: @tonmasons is a channel ""NEONEXA"" with 262859 members (channel search)"
+2026-10-01,randomgodbot-2,RandomGodBot,telegram,replace,,https://t.me/randomgod,"linked in the bot description: @randomgod is a channel ""RandomGodBot⚡️[Новости]"" with 44431 members (channel search)"
+2026-10-01,random-beast,Random Beast,telegram,replace,,https://t.me/randombeastnews,"linked in the bot description: @randombeastnews is a channel ""Random Beast News"" with 1815 members (channel search)"
+2026-10-01,best-random-bot,Best Random Bot,telegram,replace,,https://t.me/bestrandom_info,"linked in the bot description: @bestrandom_info is a channel ""Best Random 🎁 Конкурсный бот | Информация 💬"" with 70270 members (channel search)"
+2026-10-01,safeguard,Safeguard,telegram,replace,,https://t.me/safeguard_ann,"linked in the bot description: @safeguard_ann is a channel ""Safeguard Announcements"" with 76948 members (channel search)"
+2026-10-01,pr-gram,PR GRAM,telegram,replace,,https://t.me/pr_gram_news,"linked in the bot description: @pr_gram_news is a channel ""PR GRAM | NEWS"" with 9001 members (channel search)"
+2026-10-01,telegram-apps-center,Telegram Apps Center,telegram,replace,,https://t.me/tapps_official,"username guess; its description links the project bot: @tapps_official is a channel ""Tapps Official Center"" with 25 members (channel search)"
+2026-10-01,pandafit,PandaFiT,telegram,replace,,https://t.me/pandafit_official,"username guess; its description links the project bot: @pandafit_official is a channel ""PandaFiT Game"" with 340141 members (channel search)"
+2026-10-01,guarant,Guarant,telegram,replace,,https://t.me/guarantappen,"linked in the bot description: @guarantappen is a channel ""Guarant EN"" with 6162 members (channel search)"
+2026-10-01,crypto-office,Crypto Office,telegram,replace,,https://t.me/officeappnews,"linked in the bot description: @officeappnews is a channel ""Crypto Office новости"" with 1539 members (channel search)"
+2026-10-01,nundu,Nundu,telegram,replace,,https://t.me/nunducrypto,"username guess; its description links the project bot: @nunducrypto is a channel ""Nundu: TON Perpetual futures"" with 11438 members (channel search)"
+2026-10-01,pell-gem,Pell Gem,telegram,replace,,https://t.me/gemcoinapp,"username guess; its description links the project bot: @gemcoinapp is a channel ""Pell Gem Bot 💎 ｜News"" with 33461 members (channel search)"
+2026-10-01,workhub,WorkHub,telegram,replace,,https://t.me/workhub_official,"linked in the bot description: @workhub_official is a channel ""WorkHub Official"" with 580 members (channel search)"
+2026-10-01,filemarket-ai,FileMarket AI,telegram,replace,,https://t.me/filemarketai,"username guess; its description links the project bot: @filemarketai is a channel ""FileMarket Robotics News"" with 2037 members (channel search)"
+2026-10-01,hybrid-savings,Hybrid Savings,telegram,replace,,https://t.me/hybridsavings,"username guess; its description links the project bot: @hybridsavings is a channel ""Hybrid Savings (ENG)"" with 5 members (channel search)"
+2026-10-01,sellz-digital,Sellz Digital,telegram,replace,,https://t.me/sellzdigital,"username guess; its description links the project bot: @sellzdigital is a channel ""Sellz Digital News"" with 35 members (channel search)"
+2026-10-01,richards-baklazhan,Richards Baklazhan,telegram,replace,,https://t.me/growbaklazhan,"username guess; its description links the project bot: @growbaklazhan is a channel ""📢 Richard's Baklazhan"" with 11116 members (channel search)"
+2026-10-01,cashbacker,Cashbacker,telegram,replace,,https://t.me/cashbacktoncommunity,"username guess; its description links the project bot: @cashbacktoncommunity is a channel ""CashbackTON Community"" with 231 members (channel search)"
+2026-10-01,wordboox,WordBooX,telegram,replace,,https://t.me/wordboox,"username guess; its description links the project bot: @wordboox is a channel ""WordBooX EN"" with 76279 members (channel search)"
+2026-10-01,lingoton,LingoTon,telegram,replace,,https://t.me/lingoton_official,"username guess; its description links the project bot: @lingoton_official is a channel ""LingoTon Official"" with 179 members (channel search)"
+2026-10-01,uni-jump,Uni Jump,telegram,replace,,https://t.me/unijump,"username guess; its description links the project bot: @unijump is a channel ""Uni Jump Updates"" with 137639 members (channel search)"
+2026-10-01,cryptson,CryptSon,telegram,replace,,https://t.me/cryptosonn,"linked in the bot description: @cryptosonn is a channel ""CryptSon"" with 2032 members (channel search)"
+2026-10-01,the-hood-app,The Hood App,telegram,replace,,https://t.me/thehood_official,"linked in the bot description: @thehood_official is a channel ""The Hood"" with 193071 members (channel search)"
+2026-10-01,tower,Tower,telegram,replace,,https://t.me/tower_ton_ru,"linked in the bot description: @tower_ton_ru is a channel ""ToWeR 🏰 RU"" with 22964 members (channel search)"
+2026-10-01,bird-s-empire,Bird's Empire,telegram,replace,,https://t.me/birdsempirenews,"linked in the bot description: @birdsempirenews is a channel ""Birds News"" with 110893 members (channel search)"
+2026-10-01,mgrmga-world,MGRMGA World,telegram,replace,,https://t.me/mgrmgachannel,"username guess; its description links the project bot: @mgrmgachannel is a channel ""MGRMGA Channel (EN)"" with 76 members (channel search)"
+2026-10-01,signal-2193,Signal,telegram,replace,,https://t.me/signal2193,"username guess; its description links the project bot: @signal2193 is a channel ""SIGNAL2193 [NEWS]"" with 25334 members (channel search)"
+2026-10-01,arcade-pxc,Arcade PXC,telegram,replace,,https://t.me/arcadepxc,"linked in the bot description: @arcadepxc is a channel ""Arcade PXC Channel"" with 20141 members (channel search)"
+2026-10-01,tiktak,TikTak,telegram,replace,,https://t.me/tiktak_clocks,"linked in the bot description: @tiktak_clocks is a channel ""TikTak → Community"" with 8821 members (channel search)"
+2026-10-01,universe,Universe,telegram,replace,,https://t.me/universe_public,"linked in the bot description: @universe_public is a group ""Universe Chat"" with 3675 members (channel search)"
+2026-10-01,pyramids-and-gods,Pyramids and Gods,telegram,replace,,https://t.me/pyramids_and_gods,"username guess; its description links the project bot: @pyramids_and_gods is a channel ""Pyramids and Gods"" with 3053 members (channel search)"
+2026-10-01,cardhouse,CardHouse,telegram,replace,,https://t.me/cardhouseapp,"linked in the bot description: @cardhouseapp is a channel ""CardHouse"" with 6628 members (channel search)"
+2026-10-01,life-zero,Life: Zero,telegram,replace,,https://t.me/lifezero,"linked in the bot description: @lifezero is a channel ""❗️Life: Zero"" with 2622 members (channel search)"
+2026-10-01,doomsday-tyranny,DoomsDay Tyranny,telegram,replace,,https://t.me/doomsdaytyranny,"linked in the bot description: @doomsdaytyranny is a channel ""Doomsday Tyranny News"" with 798 members (channel search)"
+2026-10-01,uno-game-bot,UNO GAME BOT,telegram,replace,,https://t.me/unocardgc,"linked in the bot description: @unocardgc is a group ""MABAR UNO CARD"" with 21858 members (channel search)"
+2026-10-01,fortune-city,Fortune City,telegram,replace,,https://t.me/fortunecitynews,"username guess; its description links the project bot: @fortunecitynews is a channel ""Fortune City"" with 1563 members (channel search)"
+2026-10-01,meerkat-coin-app,Meerkat Coin App,telegram,replace,,https://t.me/meerkat_ceo,"linked in the bot description: @meerkat_ceo is a channel ""Meerkat CEO"" with 5 members (channel search)"
+2026-10-01,xcombat,xCombat,telegram,replace,,https://t.me/xcombat_news,"username guess; its description links the project bot: @xcombat_news is a channel ""xCombat [News]"" with 8350 members (channel search)"
+2026-10-01,direct-games-bot,Direct Games Bot,telegram,replace,,https://t.me/botsberry,"linked in the bot description: @botsberry is a channel ""Botsberry"" with 96 members (channel search)"
+2026-10-01,globula,GLOBULA,telegram,replace,,https://t.me/globulaspace,"username guess; its description links the project bot: @globulaspace is a channel ""Globula Game"" with 3 members (channel search)"
+2026-10-01,kaboom,KaBoom,telegram,replace,,https://t.me/kaboom_meme,"username guess; its description links the project bot: @kaboom_meme is a channel ""KABOOM: Shop Memes by One Click"" with 18174 members (channel search)"
+2026-10-01,catinton,Catinton,telegram,replace,,https://t.me/catinton,"username guess; its description links the project bot: @catinton is a channel ""Catinton Com EN"" with 2020 members (channel search)"
+2026-10-01,corgia,Corgia,telegram,replace,,https://t.me/corgiastate,"linked in its X profile: @corgiastate is a group ""CorgiaState"" with 61240 members (channel search)"
+2026-10-01,chessnode,ChessNode,telegram,replace,,https://t.me/chessnode,"username guess; its description links the project bot: @chessnode is a channel ""ChessNode 🇺🇦 | Announcements"" with 18928 members (channel search)"
+2026-10-01,venom-frogs,Venom Frogs,telegram,replace,,https://t.me/venomfrogsnews,"username guess; its description links the project bot: @venomfrogsnews is a channel ""Venom Frogs News"" with 48171 members (channel search)"
+2026-10-01,wonton,WONTON,telegram,replace,,https://t.me/wontonorg,"username guess; its description links the project bot: @wontonorg is a channel ""WONTON Announcement"" with 723240 members (channel search)"
+2026-10-01,icefarm,IceFarm,telegram,replace,,https://t.me/icefarmchannel,"username guess; its description links the project bot: @icefarmchannel is a channel ""Ice Farm News"" with 147631 members (channel search)"
+2026-10-01,akefish,AKEFish,telegram,replace,,https://t.me/akefishchannel,"username guess; its description links the project bot: @akefishchannel is a channel ""AKEFish News"" with 663087 members (channel search)"
+2026-10-01,taman,Taman,telegram,replace,,https://t.me/tamanfun,"username guess; its description links the project bot: @tamanfun is a group ""TamanFun_Chat"" with 15 members (channel search)"
+2026-10-01,clickarbuz,ClickARBUZ,telegram,replace,,https://t.me/wmclick,"username guess; its description links the project bot: @wmclick is a channel ""КликниАрбуз"" with 58474 members (channel search)"
+2026-10-01,foxton-master,Foxton Master,telegram,replace,,https://t.me/foxton_master,"linked in its X profile: @foxton_master is a channel ""Foxton Master Announcement"" with 90545 members (channel search)"
+2026-10-01,pepe-kombat,Pepe Kombat,telegram,replace,,https://t.me/pepekombatapp,"username guess; its description links the project bot: @pepekombatapp is a channel ""Pepe Kombat"" with 62430 members (channel search)"
+2026-10-01,deadcoin,DeadCoin,telegram,replace,,https://t.me/thedeadcoin,"username guess; its description links the project bot: @thedeadcoin is a channel ""DeadCoin Announcement"" with 6365 members (channel search)"
+2026-10-01,droppy-on-sui,Droppy on Sui,telegram,replace,,https://t.me/droppyonsui,"username guess; its description links the project bot: @droppyonsui is a channel ""Droppy on Sui Announcements"" with 9596 members (channel search)"
+2026-10-01,election-wars,Election Wars,telegram,replace,,https://t.me/election_wars,"username guess; its description links the project bot: @election_wars is a channel ""Election Wars Announcement"" with 83191 members (channel search)"
+2026-10-01,tomo-cat,Tomo cat,telegram,replace,,https://t.me/tomo_cat,"username guess; its description links the project bot: @tomo_cat is a channel ""Tomo Cat Community"" with 2105051 members (channel search)"
+2026-10-01,epic-of-castles,Epic of Castles,telegram,replace,,https://t.me/epicofcastles,"username guess; its description links the project bot: @epicofcastles is a channel ""Epic of Castles Announcements"" with 15795 members (channel search)"
+2026-10-01,agent-tarot,Agent Tarot,telegram,replace,,https://t.me/agenttarotcommunity,"username guess; its description links the project bot: @agenttarotcommunity is a group ""Agent Tarot Community"" with 5 members (channel search)"
+2026-10-01,ai-worlds-games,AI Worlds Games,telegram,replace,,https://t.me/aiworldsgames,"username guess; its description links the project bot: @aiworldsgames is a channel ""AI Worlds"" with 30108 members (channel search)"
+2026-10-01,play-lolypto,Play Lolypto,telegram,replace,,https://t.me/lolypto,"username guess; its description links the project bot: @lolypto is a channel ""Lolypto"" with 12989 members (channel search)"
+2026-10-01,coinegg-bot,Coinegg Bot,telegram,replace,,https://t.me/coinegg_miner,"username guess; its description links the project bot: @coinegg_miner is a channel ""CoinEgg Bot"" with 8 members (channel search)"
+2026-10-01,gabbyworld,GabbyWorld,telegram,replace,,https://t.me/gabbyworldofficial,"username guess; its description links the project bot: @gabbyworldofficial is a group ""Gabby World Official"" with 4369 members (channel search)"
+2026-10-01,bitminer,bitMiner,telegram,replace,,https://t.me/bitminer_gold,"username guess; its description links the project bot: @bitminer_gold is a group ""bitMiner: Gold Digger Association"" with 7026 members (channel search)"
+2026-10-01,p1-mypal,P1: Mypal,telegram,replace,,https://t.me/p1_mypal,"username guess; its description links the project bot: @p1_mypal is a channel ""P1: MyPal Announcement"" with 2439 members (channel search)"
+2026-10-01,hashcats,HashCats,telegram,replace,,https://t.me/hash_cats,"username guess; its description links the project bot: @hash_cats is a channel ""HashCats Official Channel"" with 2045589 members (channel search)"
+2026-10-01,papo-ninja,Papo Ninja,telegram,replace,,https://t.me/papo_coin,"linked in its X profile: @papo_coin is a group ""PAPO NINJA ™ CHAT"" with 31394 members (channel search)"
+2026-10-01,critters-kombat,Critters Kombat,telegram,replace,,https://t.me/critterskombat,"username guess; its description links the project bot: @critterskombat is a channel ""Critters Kombat 💎"" with 24011 members (channel search)"
+2026-10-01,orbitonx-game,OrbitonX Game,telegram,replace,,https://t.me/orbitonx,"username guess; its description links the project bot: @orbitonx is a channel ""OrbitonX - Official Channel"" with 125430 members (channel search)"
+2026-10-01,smartest,Smartest,telegram,replace,,https://t.me/smartest_official,"username guess; its description links the project bot: @smartest_official is a channel ""Smartest Community"" with 640322 members (channel search)"
+2026-10-01,wormfare-slap,Wormfare Slap,telegram,replace,,https://t.me/wormfare,"linked in its X profile: @wormfare is a channel ""Wormfare"" with 1422544 members (channel search)"
+2026-10-01,piggypiggy,PiggyPiggy,telegram,replace,,https://t.me/piggypiggyofficial,"username guess; its description links the project bot: @piggypiggyofficial is a channel ""PiggyPiggy - FunKing"" with 220142 members (channel search)"
+2026-10-01,tapmonsters,Tapmonsters,telegram,replace,,https://t.me/tapmonsters_ann,"username guess; its description links the project bot: @tapmonsters_ann is a channel ""Tapmonsters N.E.W.S."" with 67762 members (channel search)"
+2026-10-01,genopets,Genopets,telegram,replace,,https://t.me/genopets,"username guess; its description links the project bot: @genopets is a group ""Genopets Official"" with 19073 members (channel search)"
+2026-10-01,tonwifey,TONWifey,telegram,replace,,https://t.me/tonwifey_channel,"username guess; its description links the project bot: @tonwifey_channel is a channel ""TONWifey Channel 👩‍🦰"" with 372774 members (channel search)"
+2026-10-01,uzum-bos,Uzum Bos,telegram,replace,,https://t.me/uzumbosofficial,"username guess; its description links the project bot: @uzumbosofficial is a channel ""Uzum Bos"" with ? members (channel search)"
+2026-10-01,apis,APIS,telegram,replace,,https://t.me/apis_io,"linked in its X profile: @apis_io is a channel ""Apis Announcements"" with 53140 members (channel search)"
+2026-10-01,rich-teddy-tapapp,Rich Teddy TapApp,telegram,replace,,https://t.me/richteddy_news,"username guess; its description links the project bot: @richteddy_news is a channel ""Rich Teddy News"" with 666810 members (channel search)"
+2026-10-01,zencoin,ZenCoin,telegram,replace,,https://t.me/thezencoin,"username guess; its description links the project bot: @thezencoin is a channel ""ZenAI(ZAI) Announcement"" with 1393524 members (channel search)"
+2026-10-01,miomigame,MiomiGame,telegram,replace,,https://t.me/miomigame,"username guess; its description links the project bot: @miomigame is a channel ""MIOMI.GAME"" with 104356 members (channel search)"
+2026-10-01,cat-id-paws,Cat ID Paws,telegram,replace,,https://t.me/catidpaw,"linked in its X profile: @catidpaw is a channel ""Catid Paws || Announcements"" with 214723 members (channel search)"
+2026-10-01,pokemon-ball,Pokemon Ball,telegram,replace,,https://t.me/ballcoin_official,"linked in the bot description: @ballcoin_official is a channel ""ballcoin_official"" with 3 members (channel search)"
+2026-10-01,cano-kombat,CANO Kombat,telegram,replace,,https://t.me/canoann,"linked in its X profile: @canoann is a channel ""CANO Kombat News"" with 30944 members (channel search)"
+2026-10-01,upton,UPTON,telegram,replace,,https://t.me/uptoncrypto,"username guess; its description links the project bot: @uptoncrypto is a channel ""UPTON"" with 13548 members (channel search)"
+2026-10-01,raccoon-universe,Raccoon Universe,telegram,replace,,https://t.me/racoonuniverse,"linked in the bot description: @racoonuniverse is a channel ""RacoonUniverse"" with ? members (channel search)"
+2026-10-01,amazing-marshmallows,Amazing Marshmallows,telegram,replace,,https://t.me/dc_ton,"linked from its site: @dc_ton is a channel ""DC TON RU | $IDU token"" with 720 members (channel search)"
+2026-10-01,dmitry-s-friend-game,Dmitry's Friend Game,telegram,replace,,https://t.me/dmitrys_friends,"linked in the bot description: @dmitrys_friends is a channel ""Dmitry's Friends"" with 6750 members (channel search)"
+2026-10-01,duck-games,Duck games,telegram,replace,,https://t.me/duck_games_news,"linked in the bot description: @duck_games_news is a channel ""DUCK GAMES"" with 2945 members (channel search)"
+2026-10-01,eyeton,EyeTon,telegram,replace,,https://t.me/goldnutsnews,"linked in the bot description: @goldnutsnews is a channel ""Gold Nuts News📰"" with 4197 members (channel search)"
+2026-10-01,goychik,Goychik,telegram,replace,,https://t.me/officialgoychik,"linked in the bot description: @officialgoychik is a channel ""THE GOYCHIK"" with 3820 members (channel search)"
+2026-10-01,grimoire-pvp,Grimoire PVP,telegram,replace,,https://t.me/grimoire_chat,"linked in the bot description: @grimoire_chat is a group ""Grimoire PVP Chat"" with 433 members (channel search)"
+2026-10-01,hexacore-gaming-universe,Hexacore Gaming Universe,telegram,replace,,https://t.me/hexacore_ugc,"linked in the bot description: @hexacore_ugc is a channel ""Hexacore | UGC | AGO"" with 142354 members (channel search)"
+2026-10-01,iterra,iTerra,telegram,replace,,https://t.me/iterra_community,"linked in the bot description: @iterra_community is a channel ""iTerra | Комьюнити"" with 6617 members (channel search)"
+2026-10-01,ludomanov-games,Ludomanov Games,telegram,replace,,https://t.me/ludomanem,"linked in the bot description: @ludomanem is a channel ""Ludomanov News"" with 9646 members (channel search)"
+2026-10-01,master-cat-online,Master Cat Online,telegram,replace,,https://t.me/mastercatnews,"linked in the bot description: @mastercatnews is a channel ""Master Cat: Новости"" with 389 members (channel search)"
+2026-10-01,memhunt-cryptogame,MEMHUNT CRYPTOGAME,telegram,replace,,https://t.me/memhuntcom,"linked in the bot description: @memhuntcom is a channel ""MEMHUNT $ COMMUNITY RU"" with 2805 members (channel search)"
+2026-10-01,mnemonics,Mnemonics,telegram,replace,,https://t.me/mnemonicsann,"linked in the bot description: @mnemonicsann is a channel ""Mnemonics An"" with 2 members (channel search)"
+2026-10-01,rakurai,Rakurai,telegram,replace,,https://t.me/rakurai_chat,"linked in the bot description: @rakurai_chat is a group ""Rakurai Community"" with 2687 members (channel search)"
+2026-10-01,reel-in,Reel In,telegram,replace,,https://t.me/reel_in,"linked in the bot description: @reel_in is a channel ""Reel In"" with 1421 members (channel search)"
+2026-10-01,stars-gold,Stars Gold,telegram,replace,,https://t.me/referral_game,"linked in the bot description: @referral_game is a channel ""Card| Stars| TON |Referral|"" with 21623 members (channel search)"
+2026-10-01,ton-arena-game,Ton Arena,telegram,replace,,https://t.me/tonarenanews,"username guess; its description links the project bot: @tonarenanews is a channel ""Ton Arena | News 🗞️"" with 724 members (channel search)"
+2026-10-01,ton-frogs,TON Frogs,telegram,replace,,https://t.me/tonfrogs,"username guess; its description links the project bot: @tonfrogs is a channel ""TON Frogs NFT"" with 54925 members (channel search)"
+2026-10-01,toney-money-business,Toney Money Business,telegram,replace,,https://t.me/toneymoneybusiness,"username guess; its description links the project bot: @toneymoneybusiness is a channel ""Toney Money Business"" with 124 members (channel search)"
+2026-10-01,totems,Totems,telegram,replace,,https://t.me/totems601chat,"linked in the bot description: @totems601chat is a group ""Totems Chat"" with 255 members (channel search)"
+2026-10-01,zkcup-bot,ZkCUP Bot,telegram,replace,,https://t.me/zkcup,"username guess; its description links the project bot: @zkcup is a channel ""ZkCUP"" with 714 members (channel search)"
+2026-10-01,lootokot-bot,ЛутоКот,telegram,replace,,https://t.me/lootcat_news,"linked in the bot description: @lootcat_news is a channel ""Новости | ЛутоКот"" with 4207 members (channel search)"
+2026-10-01,toast-mm-bot,Таверна,telegram,replace,,https://t.me/toast_mm,"username guess; its description links the project bot: @toast_mm is a channel ""ТОСТ"" with 6823 members (channel search)"
+2026-10-01,zargates-retrodrop,ZarGates Retrodrop,telegram,replace,,https://t.me/dyorninjaru,"linked from its site: @dyorninjaru is a channel ""DYOR.io community RU"" with 31983 members (channel search)"
+2026-10-01,urkocoin-tap-game,Urkocoin Tap Game,telegram,replace,,https://t.me/urkocoin,"username guess; its description links the project bot: @urkocoin is a channel ""Urkocoin 📣 Announcements"" with 84112 members (channel search)"
+2026-10-01,binance-moonbix-bot,Binance Moonbix bot,telegram,replace,,https://t.me/binancemoonbixbotchannel,"username guess; its description links the project bot: @binancemoonbixbotchannel is a channel ""Binance Moonbix announcement"" with 32 members (channel search)"
+2026-10-01,wemine,WeMine,telegram,replace,,https://t.me/weminecommunity,"username guess; its description links the project bot: @weminecommunity is a group ""WeMine Community"" with 16 members (channel search)"
+2026-10-01,freedogs,FreeDogs,telegram,replace,,https://t.me/thefreedogs_ann,"username guess; its description links the project bot: @thefreedogs_ann is a channel ""FreeDogs Channel"" with 1630364 members (channel search)"
+2026-10-01,kiwi-coin,Kiwi Coin,telegram,replace,,https://t.me/kiwicoinnews,"username guess; its description links the project bot: @kiwicoinnews is a channel ""Community"" with 109313 members (channel search)"
+2026-10-01,gemz,Gemz,telegram,replace,,https://t.me/gemzcoin_official,"username guess; its description links the project bot: @gemzcoin_official is a channel ""GemzCoin💎"" with 3 members (channel search)"
+2026-10-01,acki-nacki,Acki Nacki,telegram,replace,,https://t.me/ackinackinews,"username guess; its description links the project bot: @ackinackinews is a channel ""Acki Nacki Announcements"" with 373395 members (channel search)"
+2026-10-01,dogiators,Dogiators,telegram,replace,,https://t.me/dogiators,"username guess; its description links the project bot: @dogiators is a channel ""Dogiators Community"" with 2351387 members (channel search)"
+2026-10-01,boinkers-parody-game,Boinkers Parody Game,telegram,replace,,https://t.me/boinkercommunity,"username guess; its description links the project bot: @boinkercommunity is a group ""Boinker Community #1"" with 7 members (channel search)"
+2026-10-01,mrg,MRG,telegram,replace,,https://t.me/mrgminer,"linked in the bot description: @mrgminer is a channel ""MRG Community"" with 302908 members (channel search)"
+2026-10-01,art,ART,telegram,replace,,https://t.me/art_airdrop,"linked in the bot description: @art_airdrop is a channel ""ART 🚀"" with 153138 members (channel search)"
+2026-10-01,honey-farm,Honey Farm,telegram,replace,,https://t.me/honeyfarmnews,"linked in the bot description: @honeyfarmnews is a channel ""Honey Farm News"" with 58459 members (channel search)"
+2026-10-01,jack-s-farm,Jack's Farm,telegram,replace,,https://t.me/jacksfarmnews,"linked in the bot description: @jacksfarmnews is a channel ""Jack's Farm News"" with 51889 members (channel search)"
+2026-10-01,rubup,RubUP,telegram,replace,,https://t.me/udalenkarabotaai,"linked in the bot description: @udalenkarabotaai is a channel ""RubUP • Новости"" with 56314 members (channel search)"
+2026-10-01,victor-s-company,Victor's Company,telegram,replace,,https://t.me/victors_company,"linked in the bot description: @victors_company is a channel ""Victor's Company"" with 74082 members (channel search)"
+2026-10-01,emberwing,EMBERWING,telegram,replace,,https://t.me/emberwing_official,"username guess; its description links the project bot: @emberwing_official is a channel ""EMBERWING | News"" with 3881 members (channel search)"
+2026-10-01,inside-ads,Inside Ads,telegram,replace,,https://t.me/insideads_news,"username guess; its description links the project bot: @insideads_news is a channel ""Inside Ad News"" with 7144 members (channel search)"
+2026-10-01,meme-mining,MEME Mining,telegram,replace,,https://t.me/mememiningnews,"username guess; its description links the project bot: @mememiningnews is a channel ""MEME NEWS"" with 32114 members (channel search)"
+2026-10-01,gmail-farmer-pro,Gmail Farmer PRO,telegram,replace,,https://t.me/gfprocom,"linked in the bot description: @gfprocom is a channel ""Gmail Farmer PRO ( NEWS )"" with 210529 members (channel search)"
+2026-10-01,imperial-citadel,Imperial Citadel,telegram,replace,,https://t.me/imperial_citadel_channel,"linked in the bot description: @imperial_citadel_channel is a channel ""Imperial Citadel"" with 10087 members (channel search)"
+2026-10-01,golden-miner,Golden Miner,telegram,replace,,https://t.me/goldenminernews,"username guess; its description links the project bot: @goldenminernews is a channel ""GoldenMiner ~ News"" with 31772 members (channel search)"
+2026-10-01,adclickersbot,Adclickersbot,telegram,replace,,https://t.me/adclickersbotchannel,"linked in the bot description: @adclickersbotchannel is a channel ""Adclickersbot Channel"" with 87954 members (channel search)"
+2026-10-01,grow-tea,Grow Tea,telegram,replace,,https://t.me/growteanews,"username guess; its description links the project bot: @growteanews is a channel ""Grow Tea 🍃 News"" with 21778 members (channel search)"
+2026-10-01,pixel-wars,Pixel Wars,telegram,replace,,https://t.me/pixlws,"linked in the bot description: @pixlws is a channel ""Pixel Wars"" with 5682 members (channel search)"
+2026-10-01,money-bux,Money Bux,telegram,replace,,https://t.me/moneybux_channel,"linked in the bot description: @moneybux_channel is a channel ""MONEY BUX"" with 48020 members (channel search)"
+2026-10-01,doodle-jump,Doodle Jump,telegram,replace,,https://t.me/doodleplaynews,"username guess; its description links the project bot: @doodleplaynews is a channel ""Doodle ⚡️ News"" with 12545 members (channel search)"
+2026-10-01,call-of-odin-s-chosen,Call of Odin's Chosen,telegram,replace,,https://t.me/coc_web3_news,"linked in the bot description: @coc_web3_news is a channel ""Call of Odin's Chosen News"" with 170929 members (channel search)"
+2026-10-01,easy-coin-farm,EASY COIN FARM,telegram,replace,,https://t.me/ezzcoint,"linked in the bot description: @ezzcoint is a channel ""$EZZ COIN"" with 12274 members (channel search)"
+2026-10-01,farming-mates,Farming Mates,telegram,replace,,https://t.me/farmingmateschat,"linked in the bot description: @farmingmateschat is a group ""FarmingMates Chat"" with 9736 members (channel search)"
+2026-10-01,honeyinc-new-guaranteed-usdt-airdrop,HoneyInc New Guaranteed USDT Airdrop,telegram,replace,,https://t.me/thehivegoop,"linked from its site: @thehivegoop is a channel ""TheHive"" with 33458 members (channel search)"
+2026-10-01,elyon-chain-airdrop,Elyon Chain @AIRDROP,telegram,replace,,https://t.me/airdrop,"linked in the bot description: @airdrop is a channel ""@Airdrop"" with 1118292 members (channel search)"
+2026-10-01,rushmining,RushMining,telegram,replace,,https://t.me/rushminingnews,"username guess; its description links the project bot: @rushminingnews is a channel ""RushMining News"" with 4294 members (channel search)"
+2026-10-01,fast-stars,FAST STARS,telegram,replace,,https://t.me/stars_fast_go,"linked in the bot description: @stars_fast_go is a channel ""STARS FAST Community"" with 6237 members (channel search)"
+2026-10-01,mineevo,MineEVO,telegram,replace,,https://t.me/mine_evo_trades,"linked from its site: @mine_evo_trades is a channel ""Трейды | MineEVO"" with 1653 members (channel search)"
+2026-10-01,ecoforest-play-earn,EcoForest,telegram,replace,,https://t.me/ecoforestton,"linked in the bot description: @ecoforestton is a channel ""EcoForest Channel🌿 | Play & Earn"" with 9343 members (channel search)"
+2026-10-01,innovative-usdt,Innovative Usdt,telegram,replace,,https://t.me/innovativeusdt,"username guess; its description links the project bot: @innovativeusdt is a channel ""Innovative Announcement"" with 5766 members (channel search)"
+2026-10-01,escomine,Escomine,telegram,replace,,https://t.me/escominepey,"linked in the bot description: @escominepey is a channel ""ESCOMINEPey"" with 1535 members (channel search)"
+2026-10-01,orca-mining-game,$ORCA Mining Game,telegram,replace,,https://t.me/orcamine,"username guess; its description links the project bot: @orcamine is a channel ""🌊 $ORCA Mining | Official Channel"" with 3024 members (channel search)"
+2026-10-01,the-open-earn,The Open Earn,telegram,replace,,https://t.me/theopenearnnews,"linked in the bot description: @theopenearnnews is a channel ""The Open Earn News"" with 19929 members (channel search)"
+2026-10-01,bullish-farm-game,Bullish Farm Game,telegram,replace,,https://t.me/bullishfarmgame,"linked in its X profile: @bullishfarmgame is a channel ""News Bullish Farm"" with 282272 members (channel search)"
+2026-10-01,memefi-coin,MemeFi Coin,telegram,replace,,https://t.me/memeficlub,"linked in the bot description: @memeficlub is a channel ""memeficlub"" with 2151 members (channel search)"
+2026-10-01,smoke-airdrop,SMOKE Airdrop,telegram,replace,,https://t.me/smokesolana,"linked in its X profile: @smokesolana is a channel ""SMOKE"" with 3 members (channel search)"
+2026-10-01,crypto-millionaire-bot,Crypto Millionaire Bot,telegram,replace,,https://t.me/cryptomillionairenews,"username guess; its description links the project bot: @cryptomillionairenews is a channel ""Crypto Millionaire News"" with 42118 members (channel search)"
+2026-10-01,lizarts-world,Lizarts World,telegram,replace,,https://t.me/lizartsworld,"username guess; its description links the project bot: @lizartsworld is a channel ""Lizartsworld iran🇮🇷"" with ? members (channel search)"
+2026-10-01,nasduck,NASDUCK,telegram,replace,,https://t.me/nasduck_official,"username guess; its description links the project bot: @nasduck_official is a channel ""$NASDUCK Community"" with 222030 members (channel search)"
+2026-10-01,gold-miner,Gold Miner,telegram,replace,,https://t.me/tongoldminerchat,"linked in its X profile: @tongoldminerchat is a group ""TonGoldMiner Chat"" with 47933 members (channel search)"
+2026-10-01,tap-cat-bot,Tap Cat Bot,telegram,replace,,https://t.me/cattapcoin,"linked in its X profile: @cattapcoin is a channel ""TAPCAT"" with 62941 members (channel search)"
+2026-10-01,alpha-ton,Alpha TON,telegram,replace,,https://t.me/alphatongame,"username guess; its description links the project bot: @alphatongame is a channel ""Alpha TON Announcement"" with 139516 members (channel search)"
+2026-10-01,atleta-tap,Atleta TAP,telegram,replace,,https://t.me/atletatap,"linked in its X profile: @atletatap is a channel ""atletatap"" with 9 members (channel search)"
+2026-10-01,obix-power-tap,Obix Power Tap,telegram,replace,,https://t.me/obixtoken,"linked in its X profile: @obixtoken is a channel ""Obix Community 🚀"" with 518576 members (channel search)"
+2026-10-01,earth-coin,Earth Coin,telegram,replace,,https://t.me/earthcoin_channel,"username guess; its description links the project bot: @earthcoin_channel is a channel ""EARTH"" with 172072 members (channel search)"
+2026-10-01,novas,Novas,telegram,replace,,https://t.me/boxty_news,"linked in the bot description: @boxty_news is a channel ""Boxty News"" with 34063 members (channel search)"
+2026-10-01,appss-explore-x-play-x-earn,@appss,telegram,replace,,https://t.me/appss_channel,"linked in the bot description: @appss_channel is a channel ""@appss | Bots & Mini-Apps on Telegram"" with 8474 members (channel search)"
+2026-10-01,ask-coin,Ask Coin,telegram,replace,,https://t.me/askcoinchat,"linked in the bot description: @askcoinchat is a group ""AskCoin"" with 6414 members (channel search)"
+2026-10-01,athledium-cex-airdrop-listed-on-biconomy,Athledium CEX Airdrop (Listed On Biconomy),telegram,replace,,https://t.me/athledium,"linked from its site: @athledium is a group ""Athledium Official"" with 17456 members (channel search)"
+2026-10-01,betfury-cryptodrop,BetFury Cryptodrop,telegram,replace,,https://t.me/betfury_cryptodrop_chat,"linked in the bot description: @betfury_cryptodrop_chat is a group ""BetFury Cryptodrop 🚀"" with 41962 members (channel search)"
+2026-10-01,catchain,Catchain,telegram,replace,,https://t.me/catchaincto,"linked in the bot description: @catchaincto is a channel ""Catchain News Portal"" with 108 members (channel search)"
+2026-10-01,chi-ken-farm,Chiсken farm,telegram,replace,,https://t.me/chicken_farmb,"linked in the bot description: @chicken_farmb is a channel ""Chicken"" with 1690 members (channel search)"
+2026-10-01,clean-sheets,Clean Sheets,telegram,replace,,https://t.me/balliesuniverse,"linked in the bot description: @balliesuniverse is a channel ""BalliesUniverse: Verification"" with 74 members (channel search)"
+2026-10-01,coin-kero-bot,COIN KERO,telegram,replace,,https://t.me/coinkeronews,"username guess; its description links the project bot: @coinkeronews is a channel ""COINKERO News"" with 685 members (channel search)"
+2026-10-01,crossfi-tap,CrossFi Tap,telegram,replace,,https://t.me/crossfitapnews,"username guess; its description links the project bot: @crossfitapnews is a channel ""CrossFi Tap News"" with 23662 members (channel search)"
+2026-10-01,crown-village,Crown Village,telegram,replace,,https://t.me/crownvillagenews,"username guess; its description links the project bot: @crownvillagenews is a channel ""Crown Village News"" with 932 members (channel search)"
+2026-10-01,crownminer,CrownMiner,telegram,replace,,https://t.me/crownminernews,"username guess; its description links the project bot: @crownminernews is a channel ""CrownMiner News"" with 53 members (channel search)"
+2026-10-01,diaton,DiaTON,telegram,replace,,https://t.me/diaton_news,"linked in the bot description: @diaton_news is a channel ""DiaTON Community"" with 1910 members (channel search)"
+2026-10-01,doge-miner,Doge Miner,telegram,replace,,https://t.me/dogeminernews,"username guess; its description links the project bot: @dogeminernews is a channel ""Doge Miner News"" with 3185 members (channel search)"
+2026-10-01,dogs-mining,Dogs Mining,telegram,replace,,https://t.me/dogsminingn,"linked in the bot description: @dogsminingn is a channel ""Dogs Channel"" with 503 members (channel search)"
+2026-10-01,gomining,GoMining,telegram,replace,,https://t.me/gomining,"username guess, page title matches: @gomining is a channel ""GoMining News"" with 91123 members (channel search)"
+2026-10-01,gram-zone,GRAM.ZONE,telegram,replace,,https://t.me/gramzone_official,"linked in the bot description: @gramzone_official is a channel ""GRAM ZONE Community"" with 37492 members (channel search)"
+2026-10-01,gramx,GramX,telegram,replace,,https://t.me/gram_x_x,"linked in the bot description: @gram_x_x is a channel ""GramX"" with 983 members (channel search)"
+2026-10-01,honey-ants,Honey Ants,telegram,replace,,https://t.me/honeyantspayout,"linked in the bot description: @honeyantspayout is a channel ""Honey Ants Payout"" with 838 members (channel search)"
+2026-10-01,jackkegs,JackKegs,telegram,replace,,https://t.me/jackkegscoin,"linked in the bot description: @jackkegscoin is a channel ""JackKegscoin"" with 2187 members (channel search)"
+2026-10-01,lode-hunter,Lode Hunter,telegram,replace,,https://t.me/lodehunter,"linked in the bot description: @lodehunter is a channel ""Lode Hunter"" with 1615 members (channel search)"
+2026-10-01,lootify-earn-gram,Lootify,telegram,replace,,https://t.me/lootifychannel,"username guess; its description links the project bot: @lootifychannel is a channel ""LOOTIFY | Channel"" with 2378 members (channel search)"
+2026-10-01,mech3,Mech3,telegram,replace,,https://t.me/mech3game,"linked from its site: @mech3game is a channel ""Mech3"" with 21912 members (channel search)"
+2026-10-01,member-rewards-bot,Member Rewards Bot,telegram,replace,,https://t.me/memberrewards,"username guess; its description links the project bot: @memberrewards is a channel ""MemberRewards Channel"" with 781 members (channel search)"
+2026-10-01,minegram,Minegram,telegram,replace,,https://t.me/minegram_game,"username guess; its description links the project bot: @minegram_game is a channel ""Minegram"" with 7351 members (channel search)"
+2026-10-01,nexo-stars,NEXO STARS,telegram,replace,,https://t.me/nexostarsfarm,"linked in the bot description: @nexostarsfarm is a channel ""NEXO STARS Community"" with 2790 members (channel search)"
+2026-10-01,orixbnb-pre-tge-airdrop-backed-by-bnbchain,OrixBNB Pre TGE Airdrop (Backed By BNBChain),telegram,replace,,https://t.me/bnbchain,"linked from its site: @bnbchain is a channel ""BNB Chain"" with 73862 members (channel search)"
+2026-10-01,pepe-meme,Pepe Meme,telegram,replace,,https://t.me/pepememecommunity,"linked in the bot description: @pepememecommunity is a channel ""Pepe Meme Community🐸"" with 35248 members (channel search)"
+2026-10-01,pixelpond,Pixelpond,telegram,replace,,https://t.me/pixelpondofficial,"username guess; its description links the project bot: @pixelpondofficial is a channel ""Pixel Pond Official"" with 2041 members (channel search)"
+2026-10-01,rating,Rating,telegram,replace,,https://t.me/rating_community,"linked in the bot description: @rating_community is a channel ""Rating Community"" with 1422626 members (channel search)"
+2026-10-01,syndicate-miner,Syndicate Miner,telegram,replace,,https://t.me/syndicateminer,"linked in the bot description: @syndicateminer is a group ""Syndicate Miner - Community"" with 1286 members (channel search)"
+2026-10-01,taskgo,TaskGo,telegram,replace,,https://t.me/taskgo_channle,"linked in the bot description: @taskgo_channle is a channel ""TaskGO channel"" with 1557 members (channel search)"
+2026-10-01,tgr-boost,TGR Boost,telegram,replace,,https://t.me/toncorp,"linked in the bot description: @toncorp is a channel ""Web3 экосистема TON DeFi"" with 17242 members (channel search)"
+2026-10-01,ton-news,TON NEWS,telegram,replace,,https://t.me/tonnewsio,"linked in its X profile: @tonnewsio is a channel ""TON NEWS"" with 26462 members (channel search)"
+2026-10-01,vault-miner,Vault Miner,telegram,replace,,https://t.me/vaultminernews,"linked in the bot description: @vaultminernews is a channel ""Vault News"" with 3307 members (channel search)"
+2026-10-01,warcraft-miner,Warcraft Miner,telegram,replace,,https://t.me/warcraftofficialchannel,"linked in the bot description: @warcraftofficialchannel is a channel ""WarcraftOfficial"" with 636 members (channel search)"
+2026-10-01,yumparty,YumParty,telegram,replace,,https://t.me/yumparty_chat,"linked from its site: @yumparty_chat is a group ""Yum Party [EN] 🗣️"" with 34780 members (channel search)"
+2026-10-01,tonplay,@TonPlay,telegram,replace,,https://t.me/playdeck_en,"linked from its site: @playdeck_en is a channel ""PlayDeck EN"" with 215541 members (channel search)"
+2026-10-01,fast-giveaways,Fast Giveaways,telegram,replace,,https://t.me/fgmonitoring,"linked in the bot description: @fgmonitoring is a channel ""Fast Giveaways | Мониторинг"" with 366 members (channel search)"
+2026-10-01,raidar,Raidar,telegram,replace,,https://t.me/raidartrending,"linked in the bot description: @raidartrending is a channel ""Raidar Trending"" with 16968 members (channel search)"
+2026-10-01,csgopositive,CSGOPositive,telegram,replace,,https://t.me/csgopositive,"linked in the bot description: @csgopositive is a channel ""CSGOPositive Официальный!"" with 11061 members (channel search)"
+2026-10-01,durov-bet,DUROV Bet,telegram,replace,,https://t.me/durov_betx,"linked in the bot description: @durov_betx is a channel ""DUROV Bet"" with 324 members (channel search)"
+2026-10-01,gmgn-bet,GMGN Bet,telegram,replace,,https://t.me/gmgnbet,"linked in the bot description: @gmgnbet is a channel ""GMGNBet (EN)"" with 4286 members (channel search)"
+2026-10-01,grams-bet,Grams.bet,telegram,replace,,https://t.me/gramsbet_eng,"linked from its site: @gramsbet_eng is a channel ""GRAMS.bet 🇬🇧"" with 80 members (channel search)"
+2026-10-01,lux-poker,LUX Poker,telegram,replace,,https://t.me/lux_poker,"linked in the bot description: @lux_poker is a channel ""LUX"" with 8484 members (channel search)"
+2026-10-01,random-tg,Random.tg,telegram,replace,,https://t.me/randomtg,"username guess, page title matches: @randomtg is a channel ""NEWS 🎲 RandomTGbot"" with 9397 members (channel search)"
+2026-10-01,spinarena,SpinArena,telegram,replace,,https://t.me/spinarenaofficial,"username guess, page title matches: @spinarenaofficial is a channel ""SpinArena Bonus Official"" with 2865 members (channel search)"
+2026-10-01,tgcasino,TGCasino,telegram,replace,,https://t.me/tg_casinocommunity,"linked in its X profile: @tg_casinocommunity is a channel ""TG.Casino Portal"" with 24615 members (channel search)"
+2026-10-01,the-old-castle-defense,The Old Castle Defense,telegram,replace,,https://t.me/theoldcastledefense,"username guess, page title matches: @theoldcastledefense is a channel ""💎[ANN] The Old Castle Defense"" with 816 members (channel search)"
+2026-10-01,thumba,Thumba,telegram,replace,,https://t.me/thumbaannouncement,"linked in the bot description: @thumbaannouncement is a channel ""Thumba Announcement"" with 4064 members (channel search)"
+2026-10-01,tonomy,Tonomy,telegram,replace,,https://t.me/tonomynews,"linked in the bot description: @tonomynews is a channel ""Tonomy News"" with 27030 members (channel search)"
+2026-10-01,wheel-of-fate,Wheel of Fate,telegram,replace,,https://t.me/wheeloffate_official,"username guess; its description links the project bot: @wheeloffate_official is a group ""Wheel of Fate💢"" with 2159 members (channel search)"
+2026-10-01,gram,GRAM в Рубли,telegram,replace,,https://t.me/gram,listed for the GRAM token (the token catalogue of Gram News) (token metadata)
+2026-10-01,gram,GRAM в Рубли,x,replace,,https://x.com/ton_blockchain,listed for the GRAM token (the token catalogue of Gram News) (token metadata)
+2026-10-01,gram,GRAM в Рубли,website,replace,,https://gram.org,listed for the GRAM token (the token catalogue of Gram News) (token metadata)
+2026-10-01,telegram,Telegram,x,replace,,https://x.com/teleongram,listed for the TELE token (the token catalogue of Gram News) (token metadata)
+2026-10-01,acton,Acton,x,replace,,https://x.com/acton_ton,listed for the Acton token (the token catalogue of Gram News) (token metadata)
+2026-10-01,cocoon,Cocoon,x,replace,,https://x.com/COCOONONTON,listed for the COCOON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,botfather,BotFather,x,replace,,https://x.com/BotfatherTG,listed for the BOT token (the token catalogue of Gram News) (token metadata)
+2026-10-01,botfather,BotFather,website,replace,,https://botfather.online,listed for the BOT token (the token catalogue of Gram News) (token metadata)
+2026-10-01,indicaton,indicaton,telegram,replace,,https://t.me/indicaton,listed for the ICTN token (the token catalogue of Gram News) (token metadata)
+2026-10-01,indicaton,indicaton,x,replace,,https://x.com/indicaton,listed for the ICTN token (the token catalogue of Gram News) (token metadata)
+2026-10-01,ethena,Ethena USDe,x,replace,,https://x.com/ethena_labs,listed for the USDe token (the token catalogue of Gram News) (token metadata)
+2026-10-01,nft-plushpepe,Plush Pepe,x,replace,,https://x.com/PlushPepe_coin,listed for the PLUSHPEPE token (the token catalogue of Gram News) (token metadata)
+2026-10-01,nft-heartlocket,Heart Locket,x,replace,,https://x.com/Ton_Heartlocket,listed for the Locket token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-xrocket,XROCK,website,replace,,https://xrocket.tg,listed for the XROCK token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-hot-cherry,CHERRY,x,replace,,https://x.com/HotCherryTG,listed for the CHERRY token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-hot-cherry,CHERRY,website,replace,,https://hotcherry.online,listed for the CHERRY token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-baby-doge-coin,BabyDoge,x,replace,,https://x.com/BabyDoge,listed for the BabyDoge token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-baby-doge-coin,BabyDoge,website,replace,,https://babydoge.com,listed for the BabyDoge token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-hipo-governance-token,HPO,x,replace,,https://x.com/hipofinance,listed for the HPO token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-notcoin,NOT,x,replace,,https://x.com/notcoin,listed for the NOT token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-notcoin,NOT,website,replace,,https://notco.in/,listed for the NOT token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-the-resistance-cat,RECA,x,replace,,https://x.com/ResistanceCat,listed for the $RECA token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-the-resistance-cat,RECA,website,replace,,https://reca.live,listed for the $RECA token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-blum,Blum (BLUM),x,replace,,https://x.com/Blumcrypto,listed for the BLUM token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-blum,Blum (BLUM),website,replace,,https://www.blum.io,listed for the BLUM token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-catizen,Catizen (CATI),x,replace,,https://x.com/CatizenAI,listed for the CATI token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-catizen,Catizen (CATI),website,replace,,https://linktr.ee/catizen,listed for the CATI token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-dropee,$DROPEE (DROPEE),x,replace,,https://x.com/dropee_app,listed for the DROPEE token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-dropee,$DROPEE (DROPEE),website,replace,,https://dropee.xyz,listed for the DROPEE token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-capybobo,Capybobo (PYBOBO),x,replace,,https://x.com/Capybobo_io,listed for the PYBOBO token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-capybobo,Capybobo (PYBOBO),website,replace,,https://capybobo.io,listed for the PYBOBO token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-tonnel-network,TONNEL Network (TONNEL),x,replace,,https://x.com/tonnel_network,listed for the TONNEL token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-not-pixel,Not Pixel (PX),x,replace,,https://x.com/notpixelx,listed for the PX token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-not-pixel,Not Pixel (PX),website,replace,,https://notpixel.org,listed for the PX token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-gemston,GEMSTON (GEMSTON),x,replace,,https://x.com/ston_fi,listed for the GEMSTON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-gemston,GEMSTON (GEMSTON),website,replace,,https://ston.fi,listed for the GEMSTON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-gomining,GoMining (GOMINING),x,replace,,https://x.com/Gomining_token,listed for the GOMINING token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-gomining,GoMining (GOMINING),website,replace,,https://gomining.com,listed for the GOMINING token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-ton-station,TON Station (MRSOON),x,replace,,https://x.com/TONStationLabs,listed for the MRSOON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-ton-station,TON Station (MRSOON),website,replace,,https://tonstation.app,listed for the MRSOON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-hipo-staked-gram,Hipo Staked GRAM (HGRAM),x,replace,,https://x.com/hipofinance,listed for the HGRAM token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-tether-gold,Tether Gold (XAUt0),x,replace,,https://x.com/USDT0_to,listed for the XAUt0 token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-tether-gold,Tether Gold (XAUt0),website,replace,,https://gold.usdt0.to/transfer,listed for the XAUt0 token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-duckchain-token,DuckChain Token (DUCK),x,replace,,https://x.com/Duck_Chain,listed for the DUCK token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-duckcoin,DuckCoin (DUCK),x,replace,,https://x.com/Duck_Chain,listed for the DUCK token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-storm-trade,Storm Trade (STORM),x,replace,,https://x.com/storm_trade_ton,listed for the STORM token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-storm-trade,Storm Trade (STORM),website,replace,,https://storm.tg,listed for the STORM token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-lambo,LAMBO ($LAMBO),website,replace,,https://lambo.tg,listed for the $LAMBO token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-not-meme,Not Meme (MEM),x,replace,,https://x.com/notmeme_org,listed for the MEM token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-not-meme,Not Meme (MEM),website,replace,,https://notmeme.org,listed for the MEM token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-soex,SOEX (SOEX),website,replace,,https://shelterofexiles.com,listed for the SOEX token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-jetton-games,JetTon Games (JETTON),x,replace,,https://x.com/JetTonGames,listed for the JETTON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-jetton-games,JetTon Games (JETTON),website,replace,,https://jetton.pet/cffiylglyk5?click_id=%7Bclick_id%7D,listed for the JETTON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-povel-durev,Povel Durev (DUREV),x,replace,,https://x.com/poveldurev,listed for the DUREV token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-povel-durev,Povel Durev (DUREV),website,replace,,https://poveldurev.net,listed for the DUREV token (the token catalogue of Gram News) (token metadata)
+2026-10-01,hydra,Hydra,website,replace,,https://tonhydra.com,listed for the HYDRA token (the token catalogue of Gram News) (token metadata)
+2026-10-01,arbuz,Arbuz,website,replace,,https://tonarbuz.fun,listed for the ARBUZ token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-ton-fish-memecoin,TON FISH MEMECOIN (FISH),website,replace,,https://www.tonfish.io,listed for the FISH token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-gifts-strategy,Gifts Strategy (GIFTSTR),x,replace,,https://x.com/giftsfomo,listed for the GIFTSTR token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-jvault-token,JVault Token (JVT),x,replace,,https://x.com/JVault_app,listed for the JVT token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-long-capital,Long Capital (LNG),x,replace,,https://x.com/longton_capital,listed for the LNG token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-long-capital,Long Capital (LNG),website,replace,,https://longton.capital,listed for the LNG token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-coffee,COFFEE (COFE),website,replace,,https://www.cofe.fun,listed for the COFE token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-llama,LLAMA (LLAMA),x,replace,,https://x.com/daolama_ton,listed for the LLAMA token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-llama,LLAMA (LLAMA),website,replace,,https://daolama.co,listed for the LLAMA token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-1rus-dao,1RUS DAO (1RUSD),website,replace,,https://1rus.com,listed for the 1RUSD token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-anon,ANON (ANON),website,replace,,https://anon.tg,listed for the ANON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-holdcoin,Holdcoin (HOLD),website,replace,,https://holdcoin.xyz,listed for the HOLD token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-mittens,Mittens (MITTENS),x,replace,,https://x.com/mittenstonchain,listed for the MITTENS token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-mittens,Mittens (MITTENS),website,replace,,https://www.mittenston.com,listed for the MITTENS token (the token catalogue of Gram News) (token metadata)
+2026-10-01,btc25,@BTC25,website,replace,,https://1rus.com,listed for the @BTC25 token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-bemo-staked-ton,bemo Staked TON (STTON),x,replace,,https://x.com/bemo_finance,listed for the STTON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-bemo-staked-ton,bemo Staked TON (STTON),website,replace,,https://bemo.fi,listed for the STTON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-bridged-usd-coin-ton-bridge,Bridged USD Coin (TON Bridge) (JUSDC),website,replace,,https://bridge.ton.org,listed for the JUSDC token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-dogwifhood,DOGWIFHOOD (WIF),x,replace,,https://x.com/dogwifhoodTON,listed for the WIF token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-dogwifhood,DOGWIFHOOD (WIF),website,replace,,https://wifhood.dog,listed for the WIF token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-durovs-dog,Durovs Dog (PYONYA),x,replace,,https://x.com/pyonyaton,listed for the PYONYA token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-durovs-dog,Durovs Dog (PYONYA),website,replace,,https://pyonya.com,listed for the PYONYA token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-ethena-tsusde,Ethena tsUSDe (tsUSDe),x,replace,,https://x.com/ethena_labs,listed for the tsUSDe token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-ethena-tsusde,Ethena tsUSDe (tsUSDe),website,replace,,https://app.ethena.fi,listed for the tsUSDe token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-ethena-usde,Ethena USDe (USDe),x,replace,,https://x.com/ethena_labs,listed for the USDe token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-ethena-usde,Ethena USDe (USDe),website,replace,,https://app.ethena.fi,listed for the USDe token (the token catalogue of Gram News) (token metadata)
+2026-10-01,fish,Fish,website,replace,,https://www.tonfish.io,listed for the FISH token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-govno,GOVNO (GOVNO),x,replace,,https://x.com/official_govno,listed for the GOVNO token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-govno,GOVNO (GOVNO),website,replace,,https://govnoton.com,listed for the GOVNO token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-grm,Grm (GRM),x,replace,,https://x.com/gramcoinorg,listed for the GRM token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-grm,Grm (GRM),website,replace,,https://gramcoin.org,listed for the GRM token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-jusdt,jUSDT (jUSDT),website,replace,,https://bridge.ton.org,listed for the jUSDT token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-make-ton-great-again,Make TON Great Again (MTONGA),x,replace,,https://x.com/MTONGA_ON_TON,listed for the MTONGA token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-make-ton-great-again,Make TON Great Again (MTONGA),website,replace,,https://www.mtonga.com/,listed for the MTONGA token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-moew,MOEW (MOEW),x,replace,,https://x.com/MOEW_Agent,listed for the MOEW token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-moew,MOEW (MOEW),website,replace,,https://donotfomoew.org,listed for the MOEW token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-nikolai,NikolAI (NIKO),x,replace,,https://x.com/NikolAIToncoin,listed for the NIKO token (the token catalogue of Gram News) (token metadata)
+2026-10-01,peng,Peng,website,replace,,https://pengonton.com,listed for the PENG token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-pingo,PinGo (PINGO),website,replace,,https://pingo.work,listed for the PINGO token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-piratecash,PirateCash (PIRATE),x,replace,,https://x.com/PirateCash_NET,listed for the PIRATE token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-stonks,sTONks (STONKS),x,replace,,https://x.com/stonksbots,listed for the STONKS token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-stonks,sTONks (STONKS),website,replace,,https://stonksbots.com,listed for the STONKS token (the token catalogue of Gram News) (token metadata)
+2026-10-01,toge,TOGE,website,replace,,https://toge.world,listed for the TOGE token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-ton-inu,Ton Inu (TINU),x,replace,,https://x.com/toninutools,listed for the TINU token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-ton-inu,Ton Inu (TINU),website,replace,,https://toninu.tech,listed for the TINU token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-tonio,Tonio (TONIO),x,replace,,https://x.com/TonioMeme,listed for the TONIO token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-tonio,Tonio (TONIO),website,replace,,https://www.toniomeme.com,listed for the TONIO token (the token catalogue of Gram News) (token metadata)
+2026-10-01,tonk,Tonk,website,replace,,https://tonk.bot,listed for the TONK token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-tower,Tower (TOWER),x,replace,,https://x.com/TowerToken,listed for the TOWER token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-tower,Tower (TOWER),website,replace,,https://www.towerecosystem.com,listed for the TOWER token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-woof,WOOF (WOOF),x,replace,,https://x.com/LostDogsCo,listed for the WOOF token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-woof,WOOF (WOOF),website,replace,,https://x.com/lostdogsco,listed for the WOOF token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-x-empire,X Empire (X),x,replace,,https://x.com/xempiregame,listed for the X token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-x-empire,X Empire (X),website,replace,,https://xempire.io,listed for the X token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-evosimgame,EvoSimGame (ESIM),website,replace,,https://evolife.me,listed for the ESIM token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-dedust,DeDust (DUST),x,replace,,https://x.com/dedust_io,listed for the DUST token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-dedust,DeDust (DUST),website,replace,,https://dedust.io,listed for the DUST token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-ton-raffles,TON Raffles (RAFF),x,replace,,https://x.com/TonRaffles,listed for the RAFF token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-bombie,Bombie (BOMB),x,replace,,https://x.com/Bombie_xyz,listed for the BOMB token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-bombie,Bombie (BOMB),website,replace,,https://bombie.xyz,listed for the BOMB token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-vertus,Vertus (VERT),website,replace,,https://x.com/the_vertus,listed for the VERT token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-gentleman,Gentleman (MAN),x,replace,,https://x.com/gentlemanonton,listed for the MAN token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-gentleman,Gentleman (MAN),website,replace,,https://gentlemanton.com,listed for the MAN token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-diamond-hands,DIAMOND HANDS (DIAMOND),x,replace,,https://x.com/diamondhandston,listed for the DIAMOND token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-diamond-hands,DIAMOND HANDS (DIAMOND),website,replace,,https://diamondhandston.com,listed for the DIAMOND token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-spintria,Spintria (SP),x,replace,,https://x.com/Spintria_coin,listed for the SP token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-spintria,Spintria (SP),website,replace,,https://sp.one,listed for the SP token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-cats,CATS (CATS),x,replace,,https://x.com/toncats_tg,listed for the CATS token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-cats,CATS (CATS),website,replace,,https://toncats.pw,listed for the CATS token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-punkcity,PunkCity (PUNK),website,replace,,https://tonpunks.org,listed for the PUNK token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-ownershipcoin,OwnershipCoin (OC),x,replace,,https://x.com/ownershipcoin,listed for the OC token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-ownershipcoin,OwnershipCoin (OC),website,replace,,https://ownershipcoin.com,listed for the OC token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-amocucinare,Amocucinare (AMORE),x,replace,,https://x.com/AmoreCoin,listed for the AMORE token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-goats,GOATS (GOATS),website,replace,,https://ton.goatsbot.xyz/,listed for the GOATS token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-hamster-kombat,Hamster Kombat (HMSTR),x,replace,,https://x.com/hamster_kombat,listed for the HMSTR token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-fpi-bank,FPI Bank (FPIBANK),x,replace,,https://x.com/fpi_bank,listed for the FPIBANK token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-fpi-bank,FPI Bank (FPIBANK),website,replace,,https://fpibank.com,listed for the FPIBANK token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-artdra-coin,ARTDRA Coin (ARTDRA),x,replace,,https://x.com/combatgamestv,listed for the ARTDRA token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-artdra-coin,ARTDRA Coin (ARTDRA),website,replace,,https://artdra.pro,listed for the ARTDRA token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-ton-cat,Ton Cat (TCAT),x,replace,,https://x.com/TonCatonTon,listed for the TCAT token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-ton-cat,Ton Cat (TCAT),website,replace,,https://www.toncat.net,listed for the TCAT token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-evaa-protocol,EVAA Protocol (EVAA),x,replace,,https://x.com/evaaprotocol,listed for the EVAA token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-tac,TAC (TAC),x,replace,,https://x.com/TacBuild,listed for the TAC token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-tac,TAC (TAC),website,replace,,https://tac.build,listed for the TAC token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-build,BUILD (BUILD),x,replace,,https://x.com/commmmmunity,listed for the BUILD token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-build,BUILD (BUILD),website,replace,,https://openbuilders.xyz,listed for the BUILD token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-tapswaptoken,TapSwapToken (TAPS),x,replace,,https://x.com/tapswapai,listed for the TAPS token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-tapswaptoken,TapSwapToken (TAPS),website,replace,,https://www.tapswap.ai,listed for the TAPS token (the token catalogue of Gram News) (token metadata)
+2026-10-01,redo,Redo,website,replace,,https://redoton.com,listed for the REDO token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-resistance-dog,Resistance Dog (REDO),x,replace,,https://x.com/redotoken,listed for the REDO token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-resistance-dog,Resistance Dog (REDO),website,replace,,https://redoton.com,listed for the REDO token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-resistance-girl,Resistance Girl (REGI),x,replace,,https://x.com/regitoncoin,listed for the REGI token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-resistance-girl,Resistance Girl (REGI),website,replace,,https://regiton.net,listed for the REGI token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-sad-meow,SAD MEOW (SADMEOW),x,replace,,https://x.com/SadMeowMP3,listed for the SADMEOW token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-sad-meow,SAD MEOW (SADMEOW),website,replace,,https://sadmeow.lol,listed for the SADMEOW token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-meh,meh (MEH),x,replace,,https://x.com/meh_ton,listed for the MEH token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-meh,meh (MEH),website,replace,,https://meh.promo,listed for the MEH token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-cubigator,Cubigator (CUB),x,replace,,https://x.com/CubigatorOnTon,listed for the CUB token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-cubigator,Cubigator (CUB),website,replace,,https://www.cubigator.club,listed for the CUB token (the token catalogue of Gram News) (token metadata)
+2026-10-01,morfey,Morfey,website,replace,,https://morfeytoken.io,listed for the MORFEY token (the token catalogue of Gram News) (token metadata)
+2026-10-01,laika,Laika,website,replace,,https://www.laikaonton.com,listed for the LAIKA token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-rosecoin,Rosecoin (ROSE),x,replace,,https://x.com/RosecoinTon,listed for the ROSE token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-rosecoin,Rosecoin (ROSE),website,replace,,https://roseton.org,listed for the ROSE token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-paper-plane,Paper Plane (PLANE),x,replace,,https://x.com/paperplane_ton,listed for the PLANE token (the token catalogue of Gram News) (token metadata)
+2026-10-01,token-paper-plane,Paper Plane (PLANE),website,replace,,https://paperplanetoken.site,listed for the PLANE token (the token catalogue of Gram News) (token metadata)
+2026-10-01,resistance-dog,Resistance Dog,website,replace,,https://redoton.com,listed for the REDO token (the token catalogue of Gram News) (token metadata)
+2026-10-01,meridian,Meridian,x,replace,,https://x.com/meridianwtf,listed for the MRDN token (the token catalogue of Gram News) (token metadata)
+2026-10-01,tonup,TONUP,x,replace,,https://x.com/TonUP_io,listed for the UP token (the token catalogue of Gram News) (token metadata)
+2026-10-01,mira,@Mira,x,replace,,https://x.com/MiraTelegramAi,listed for the Mira token (the token catalogue of Gram News) (token metadata)
+2026-10-01,mira,@Mira,website,replace,,https://miracoin.netlify.app/,listed for the Mira token (the token catalogue of Gram News) (token metadata)
+2026-10-01,major-1,@Major,website,replace,,https://major.bot,listed for the MAJOR token (the token catalogue of Gram News) (token metadata)
+2026-10-01,photon,Photon,website,replace,,https://photonbot.tech,listed for the PHOTON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,teleclaw,TeleClaw,x,replace,,https://x.com/Teleclawonton,listed for the Teleclaw token (the token catalogue of Gram News) (token metadata)
+2026-10-01,teleclaw,TeleClaw,website,replace,,https://teleclaw.meme/,listed for the Teleclaw token (the token catalogue of Gram News) (token metadata)
+2026-10-01,aiton,AiTon,x,replace,,https://x.com/btc25onton,listed for the AITON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,aiton,AiTon,website,replace,,https://aitonbtc25.com,listed for the AITON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,tower,Tower,x,replace,,https://x.com/TowerToken,listed for the TOWER token (the token catalogue of Gram News) (token metadata)
+2026-10-01,tower,Tower,website,replace,,https://www.towerecosystem.com,listed for the TOWER token (the token catalogue of Gram News) (token metadata)
+2026-10-01,wonton,WONTON,website,replace,,https://wonton.shop,listed for the WONTON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,spinnercoin,SpinnerCoin,website,replace,,https://spinnercoin.org,listed for the SPN token (the token catalogue of Gram News) (token metadata)
+2026-10-01,frogs-1,Frogs,website,replace,,https://www.frogseth.cc/,listed for the FROGS token (the token catalogue of Gram News) (token metadata)
+2026-10-01,capybara,Capybara,x,replace,,https://x.com/capybara_ton,listed for the CPBR token (the token catalogue of Gram News) (token metadata)
+2026-10-01,capybara,Capybara,website,replace,,https://cpbr.io,listed for the CPBR token (the token catalogue of Gram News) (token metadata)
+2026-10-01,the-virus,The Virus,x,replace,,https://x.com/VIRUSCTO,listed for the VIRUS token (the token catalogue of Gram News) (token metadata)
+2026-10-01,the-virus,The Virus,website,replace,,https://thevirusonton.xyz,listed for the VIRUS token (the token catalogue of Gram News) (token metadata)
+2026-10-01,fanton,Fanton,website,replace,,https://fan-ton.com,listed for the FTON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,hashcash,HashCash,x,replace,,https://x.com/memhash_app,listed for the HASHCASH token (the token catalogue of Gram News) (token metadata)
+2026-10-01,prism-star,PRISM STAR,website,replace,,https://playprismstar.com,listed for the PRISM token (the token catalogue of Gram News) (token metadata)
+2026-10-01,stellarium,STELLARIUM,x,replace,,https://x.com/StellariumRW1,listed for the STL token (the token catalogue of Gram News) (token metadata)
+2026-10-01,stellarium,STELLARIUM,website,replace,,https://stellarium-research.com,listed for the STL token (the token catalogue of Gram News) (token metadata)
+2026-10-01,dropee,Dropee,website,replace,,https://dropee.xyz,listed for the DROPEE token (the token catalogue of Gram News) (token metadata)
+2026-10-01,cats-93sn9i,Cats,website,replace,,https://www.catshouse.live,listed for the CATS token (the token catalogue of Gram News) (token metadata)
+2026-10-01,piggy-bank,Piggy Bank,x,replace,,https://x.com/ItsPiggyBank_,listed for the $Piggy token (the token catalogue of Gram News) (token metadata)
+2026-10-01,goats,GOATS,website,replace,,https://ton.goatsbot.xyz/,listed for the GOATS token (the token catalogue of Gram News) (token metadata)
+2026-10-01,call-of-odin-s-chosen,Call of Odin's Chosen,x,replace,,https://x.com/COC_Web3,listed for the COC token (the token catalogue of Gram News) (token metadata)
+2026-10-01,call-of-odin-s-chosen,Call of Odin's Chosen,website,replace,,https://cocweb3.xyz,listed for the COC token (the token catalogue of Gram News) (token metadata)
+2026-10-01,earn,Earn,x,replace,,https://x.com/EarnTon_,listed for the Earn token (the token catalogue of Gram News) (token metadata)
+2026-10-01,earn,Earn,website,replace,,https://earnton.xyz,listed for the Earn token (the token catalogue of Gram News) (token metadata)
+2026-10-01,richton,RICHTON,telegram,replace,,https://t.me/richton_bank,listed for the RTON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,raccoon,Raccoon,website,replace,,https://raccoonton.com,listed for the ROON token (the token catalogue of Gram News) (token metadata)
+2026-10-01,ton-fomo,Ton Fomo,x,replace,,https://x.com/ton_fomo,listed for the FOMO token (the token catalogue of Gram News) (token metadata)

@@ -8,17 +8,17 @@
 
 | # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **Wallet Pay** ✓ |  | [Site](https://pay.wallet.tg) | 2023-07-13 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 1 | **Wallet Pay** ✓ |  | [Telegram](https://t.me/walletpayofficial) [Site](https://pay.wallet.tg) | 2023-07-13 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 2 | **@Tribute** ✓ | A service for Telegram creators to monetize content through subscriptions, donations,… | [Telegram](https://t.me/tributenewsen) [Bot](https://t.me/tribute) [Site](https://tribute.tg/) [Gram News](https://gramnews.org/apps/tribute-2uz67w) | 2024-01-24 | 142K views, 1.8M MAU | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
-| 3 | **Cryptomus** |  | [X](https://x.com/cryptomus) [Site](https://cryptomus.com/) [Gram News](https://gramnews.org/apps/cryptomus) | 2018-05-04 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 3 | **Cryptomus** |  | [Telegram](https://t.me/cryptomus) [X](https://x.com/cryptomus) [Site](https://cryptomus.com/) [Gram News](https://gramnews.org/apps/cryptomus) | 2018-05-04 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 4 | **NOWPayments** |  | [X](https://x.com/NOWPayments_io) [Site](https://nowpayments.io/) [Gram News](https://gramnews.org/apps/nowpayments) | 2019-05-27 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 5 | **0xProcessing** | Secure crypto payment gateway for global transactions with up to 99.9% acceptance rate | [Telegram](https://t.me/oxprocessing) [X](https://x.com/0Xprocessing) [Site](https://0xprocessing.com) [Gram News](https://gramnews.org/apps/0xprocessing) | 2026-04-29 | 31K views | 2026-10-01 |  |
 | 6 | **Heleket** | A payment gateway for accepting crypto, TON included, on a website or in a Telegram bot,… | [Telegram](https://t.me/heleket) [Site](https://heleket.com) [Gram News](https://gramnews.org/apps/heleket) | 2024-12-25 | 6K views | 2026-09-10 |  |
 | 7 | **Antarctic Wallet** ✓ | Antarctic Wallet – первый полностью легальный и лицензированный криптокошелёк, созданный… | [Telegram](https://t.me/antarcticwallet) [Bot](https://t.me/antarctic_wallet_bot) [Site](https://antarcticwallet.com) | 2023-08-28 | 154K MAU | 2026-10-01 |  |
-| 8 | **Altyn Wallet** ✓ | Пополняйте с любого банка РФ бесплатно, тратьте по всему миру по лучшему курсу | [Bot](https://t.me/altyn_wallet_bot) | 2024-05-21 | 84K MAU |  |  |
-| 9 | **@Hoton** ✓ | Telegram Premium, Stars & $GRAM top-ups — up to 60% cheaper than in-app | [Bot](https://t.me/hoton) | 2026-03-24 |  |  |  |
+| 8 | **Altyn Wallet** ✓ | Пополняйте с любого банка РФ бесплатно, тратьте по всему миру по лучшему курсу | [Telegram](https://t.me/altynwallet) [Bot](https://t.me/altyn_wallet_bot) | 2024-05-21 | 84K MAU |  |  |
+| 9 | **@Hoton** ✓ | Telegram Premium, Stars & $GRAM top-ups — up to 60% cheaper than in-app | [Telegram](https://t.me/hotonnews) [Bot](https://t.me/hoton) | 2026-03-24 |  |  |  |
 | 10 | **TON Pay** ✓ | Your provider to the safety and freedom of The Open Network | [Telegram](https://t.me/tonpay_official) [Bot](https://t.me/tonpay) [Site](https://ton.org/en/pay) [Gram News](https://gramnews.org/apps/tonpay-2) | 2022-05-20 |  | 2025-01-09 | [messari 26](../archive/2026-05-messari.jpg) |
-| 11 | **xStocks** |  | [Site](https://xstocks.fi) | 2025-03-31 |  |  | [messari 26](../archive/2026-05-messari.jpg) |
+| 11 | **xStocks** |  | [Telegram](https://t.me/xstocksfi) [Site](https://xstocks.fi) | 2025-03-31 |  |  | [messari 26](../archive/2026-05-messari.jpg) |
 | 12 | **Mops Stars** |  | [Bot](https://t.me/mopsstarsbot) | 2026-01-14 | 155K MAU |  |  |
 | 13 | **Okpay** | Easy crypto transactions, secure storage, mobile top-ups, & digital red envelopes | [Bot](https://t.me/okaypaybot) | 2023-04-25 | 141K MAU |  |  |
 | 14 | **Vortex Crypto** | Чат канала- Купить звёзды- Менеджеры- За призом отпис 30 минут в лс | [Telegram](https://t.me/vortexcryptoo) [Bot](https://t.me/straxzxstar_bot) | 2025-10-02 | mentioned by 3 TON channels in Q3 | 2026-09-23 |  |
@@ -26,12 +26,12 @@
 | 16 | **KNTxMRKT** | Купить звёзды: ЧАТ канала: ЧАТ // Мафия Прайс Отзывы : По поводу рекламы/совместок… | [Telegram](https://t.me/knt007b) [Bot](https://t.me/knt_stars_bot) | 2025-04-09 | mentioned by 7 TON channels in Q3 | 2026-10-01 |  |
 | 17 | **Звёзды** | Telegram звёзды Правила Соглашение Помощь | [Bot](https://t.me/stars_buddy_bot) | 2026-02-06 | 57K MAU |  |  |
 | 18 | **Kolo Bot** | Single app for spending, sending, and banking! | [Telegram](https://t.me/KoloAnn) [Bot](https://t.me/kolo) [X](https://x.com/KoloHub) [Site](https://kolo.bot/) [Gram News](https://gramnews.org/apps/kolo-bot) | 2024-05-14 | 52K views, 10K MAU | 2026-09-07 |  |
-| 19 | **Advance Stars** |  | [Bot](https://t.me/advancestars_bot) | 2025-07-23 | 39K MAU |  |  |
+| 19 | **Advance Stars** |  | [Telegram](https://t.me/advancestarschannel) [Bot](https://t.me/advancestars_bot) | 2025-07-23 | 39K MAU |  |  |
 | 20 | **Foxy Stars** | Надёжный бот для быстрой покупки Звёзд, Премиум и других цифровых товаров Website:… | [Bot](https://t.me/foxystarsshopbot) | 2026-08-23 | mentioned by 4 TON channels in Q3 |  |  |
 | 21 | **Shiba Bank** | Покупка и продажа Telegram Stars и Premium. Оплата по СБП, картой или криптовалютой | [Telegram](https://t.me/shiba_bank_booms) [Bot](https://t.me/barboskich_stars_bot) | 2026-07-18 | mentioned by 8 TON channels in Q3 | 2026-10-01 |  |
-| 22 | **BuynStars.com** |  | [Bot](https://t.me/buynstars_bot) [Site](https://buynstars.com) | 2025-06-21 | 23K MAU |  |  |
+| 22 | **BuynStars.com** |  | [Telegram](https://t.me/buynstarscom) [Bot](https://t.me/buynstars_bot) [Site](https://buynstars.com) | 2025-06-21 | 23K MAU |  |  |
 | 23 | **PMT (GRAM)** |  | [Bot](https://t.me/pmt_gram_bot) | 2026-08-30 | mentioned by 7 TON channels in Q3 |  |  |
-| 24 | **BitFlick Stars** | Purchase Stars and Premium subscriptions – easy, fast, anonymous Community, reviews –… | [Bot](https://t.me/bfstars) | 2025-11-23 | mentioned by 4 TON channels in Q3 |  |  |
+| 24 | **BitFlick Stars** | Purchase Stars and Premium subscriptions – easy, fast, anonymous Community, reviews –… | [Telegram](https://t.me/bitstarsinfo) [Bot](https://t.me/bfstars) | 2025-11-23 | mentioned by 4 TON channels in Q3 |  |  |
 | 25 | **HelperStars & Premium** | Поможем приобрести «Telegram Stars», TON и подписку «Premium» по низкой цене | [Bot](https://t.me/helperstars_robot) [Gram News](https://gramnews.org/apps/helperstars_robot) | 2022-05-27 | 17K MAU |  |  |
 | 26 | **BFinance** | Issue a virtual crypto card with a replenished cryptocurrency today. Support: Channel | [Telegram](https://t.me/bfinancepay) [Bot](https://t.me/bfinancebot) [X](https://x.com/bfinancepay) [Site](https://bfinance.app) [Gram News](https://gramnews.org/apps/bfinance) | 2023-07-24 | 3K views, 16K MAU | 2026-09-17 |  |
 | 27 | **ЛЭЙМ** | Пополнить запасы звёзд — Помощь — Буст — t.me/boost/lamestars Отзывы —… | [Telegram](https://t.me/lamestars) [Bot](https://t.me/lamestarsbot) | 2025-11-06 | mentioned by 3 TON channels in Q3 | 2026-10-01 |  |
@@ -42,7 +42,7 @@
 | ---: | --- | --- | --- | --- | --- | --- | --- |
 | 28 | **UStars** |  | [X](https://x.com/UStars_exchange) [Gram News](https://gramnews.org/apps/ustars) | 2024-11-20 |  |  |  |
 | 29 | **Adpact** | Book Telegram channel ads with escrow on TON. The bot posts and verifies. Collect… | [Bot](https://t.me/adpactbot) [Site](https://adpact.app/) | 2026-08-18 | mentioned by 13 TON channels in Q3 |  |  |
-| 30 | **BestChange Bot** | The BestChange monitor will select profitable exchangers for cryptocurrencies, payment… | [Bot](https://t.me/bestchange_bot) | 2020-08-26 |  |  |  |
+| 30 | **BestChange Bot** | The BestChange monitor will select profitable exchangers for cryptocurrencies, payment… | [Telegram](https://t.me/bestchange) [Bot](https://t.me/bestchange_bot) | 2020-08-26 |  |  |  |
 | 31 | **Card** | Crypto accounts, cards and payments inside Telegram | [Bot](https://t.me/noncustodialcardbot) | 2026-10 |  |  |  |
 | 32 | **CryptoGas.shop** |  | [Site](https://cryptogas.shop/ton?ref=37027482) [Gram News](https://gramnews.org/apps/cryptogas-shop) | 2024-01 |  |  |  |
 | 33 | **DeCoupons** |  | [Telegram](https://t.me/delab) [Gram News](https://gramnews.org/apps/decoupons) | 2022-10-27 |  |  |  |
@@ -56,7 +56,7 @@
 | 41 | **MugglePay** |  | [X](https://x.com/paymuggle) [GitHub](https://github.com/mugglepay) | 2019-04-03 |  | 2026-03-16 |  |
 | 42 | **MyStars.tg** | Buy Telegram Stars and Premium with TON/USDT, no KYC | [Telegram](https://t.me/mystarstg_official) [Bot](https://t.me/my_stars_tg_bot) [X](https://x.com/MyStars_tg) [Site](https://mystars.tg) [GitHub](https://github.com/mystars-tg) [Gram News](https://gramnews.org/apps/mystars-tg) | 2026-03-31 |  | 2026-09-24 |  |
 | 43 | **PassimPay** | PassimPay – payment gateway for business | [Telegram](https://t.me/Passim_Pay) [Bot](https://t.me/PassimPayAPP_Bot) [X](https://x.com/passimpay) [Site](https://passimpay.io/) [GitHub](https://github.com/Passimpay) [Gram News](https://gramnews.org/apps/passimpay) | 2022-11-07 |  | 2026-09-29 |  |
-| 44 | **PayCrypto.Global** |  | [X](https://x.com/paycryptoglobal) [Site](https://paycrypto.global) [Gram News](https://gramnews.org/apps/paycrypto-global) | 2023-06-15 |  |  |  |
+| 44 | **PayCrypto.Global** |  | [Telegram](https://t.me/paycryptoglobal) [X](https://x.com/paycryptoglobal) [Site](https://paycrypto.global) [Gram News](https://gramnews.org/apps/paycrypto-global) | 2023-06-15 |  |  |  |
 | 45 | **Payhook** |  | [Site](https://payhook.org) [GitHub](https://github.com/beh-land) [Gram News](https://gramnews.org/apps/payhook) | 2021-04-17 |  | 2026-09-09 |  |
 | 46 | **QR2Pay** | Сервис для оплаты QR СБП с помощью USDT - Virtual card c поддержкой Apple\Google pay… | [Bot](https://t.me/qr2pay_bot) | 2026-04-23 | mentioned by 3 TON channels in Q3 |  |  |
 | 47 | **Seconds Market** | A service for buying and selling Telegram Stars | [Telegram](https://t.me/Seconds_market) [Bot](https://t.me/Seconds_market_bot) [X](https://x.com/Seconds_Market) [Site](https://secondsmarket.store) [Gram News](https://gramnews.org/apps/seconds-market) | 2024-12-06 |  |  |  |
@@ -71,7 +71,7 @@
 | 57 | **USDPay** |  | [Site](https://usdpay.me/networks/ton) [Gram News](https://gramnews.org/apps/usdpay) | 2026-05 |  |  |  |
 | 58 | **Vozik Shop** | Купить Звезды и Telegram премиум быстро и удобно! | [Bot](https://t.me/vozikstarsbot) | 2025-07-28 | mentioned by 5 TON channels in Q3 |  |  |
 | 59 | **Wallet Bot** |  | [Gram News](https://gramnews.org/apps/wallet-bot) | 2024-03-29 |  |  |  |
-| 60 | **WebWise Pay** |  | [Bot](https://t.me/webwisepay_bot) | 2025-12-25 | mentioned by 3 TON channels in Q3 |  |  |
+| 60 | **WebWise Pay** |  | [Telegram](https://t.me/webwisepay) [Bot](https://t.me/webwisepay_bot) | 2025-12-25 | mentioned by 3 TON channels in Q3 |  |  |
 | 61 | **WeStars** | خرید استارز و پرمیوم دریافت آنی. Purchase Stars and Premium with instant delivery.… | [Bot](https://t.me/westarsbot) | 2026-08-11 | mentioned by 5 TON channels in Q3 |  |  |
 | 62 | **Starz Market** | A bot for buying and selling Telegram Stars | [Telegram](https://t.me/StarzMarketNews) [Bot](https://t.me/StarzMarketBot) [Site](https://durovs.com) [Gram News](https://gramnews.org/apps/starz-market) | 2025-05-30 |  | 2026-05-28 |  |
 | 63 | **TON Fonates** | Fonates — будущее подарков в крипте | [Telegram](https://t.me/fonates) [Bot](https://t.me/fonatesbot) [GitHub](https://github.com/orgs/Fonates) [Gram News](https://gramnews.org/apps/ton-fonates) | 2024-04-01 |  | 2026-03-12 |  |

@@ -13,5 +13,5 @@
 | 3 | **WenLong** ✓ | Trade Hyperliquid perps right inside Telegram. Deposit from your TON wallet — no KYC, no… | [Telegram](https://t.me/wenlongnews) [Bot](https://t.me/whenlongbot) | 2024-09-20 | 6K views | 2026-09-20 |  |
 | 4 | **Hyperliquid** |  | [Site](https://hyperliquid.xyz) | 2022-10-15 |  |  |  |
 | 5 | **Vooi App** | Join VOOI - Trade, Arbitrage, Earn Rewards / Unlock trading | [Telegram](https://t.me/vooi_app) [Bot](https://t.me/vooiappbot) [Gram News](https://gramnews.org/apps/vooi-app) | 2024-04-16 | 24K views | 2026-09-16 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 6 | **Aster** |  | [Site](https://www.asterdex.com) | 2025-03-14 |  |  |  |
+| 6 | **Aster** |  | [Telegram](https://t.me/asterdex) [Site](https://www.asterdex.com) | 2025-03-14 |  |  |  |
 | 7 | **Lighter** |  | [Site](https://lighter.xyz) | 2025-10 |  |  |  |

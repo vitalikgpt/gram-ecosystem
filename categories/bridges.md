@@ -37,7 +37,7 @@
 
 | # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- | --- |
-| 18 | **Layerswap** |  | [Bot](https://t.me/lowkeybrokeybot) [X](https://x.com/layerswap) [Site](https://layerswap.io) [GitHub](https://github.com/layerswap) | 2021-09-12 |  | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 18 | **Layerswap** |  | [Telegram](https://t.me/layerswap_io) [Bot](https://t.me/lowkeybrokeybot) [X](https://x.com/layerswap) [Site](https://layerswap.io) [GitHub](https://github.com/layerswap) | 2021-09-12 |  | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 19 | **XP.NETWORK** | A powerful NFT bridge connecting 30+ EVM and non-EVM blockchains. Go multichain… | [Telegram](https://t.me/XP_NETWORK_Ann) [Bot](https://t.me/siptg_bot) [X](https://x.com/xpnetwork_) [Site](https://bridge.xp.network/) [GitHub](https://github.com/XP-NETWORK) | 2021-09-30 |  | 2025-05-11 | [ton 25](../archive/2025-07-ton.jpg) |
 
 </details>
