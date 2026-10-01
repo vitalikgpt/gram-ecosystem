@@ -2,7 +2,7 @@
 
 # Infra
 
-[Back to the list](../README.md#infra). 30 projects: 24 active in Q3 2026, 6 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#infra). 31 projects: 24 active in Q3 2026, 7 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -39,7 +39,8 @@
 | ---: | --- | --- | --- | --- | --- | --- |
 | 25 | BotFather |  | [Bot](https://t.me/botfather) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
 | 26 | GetBlock |  | [Telegram](https://t.me/getblockio_eng) [X](https://x.com/getblockio) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 27 | TON Console (TonAPI) |  | [Telegram](https://t.me/tonrostislav) [GitHub](https://github.com/tonkeeper/tonapi) |  | 2023-06-01 |  |
-| 28 | TON Foundation |  | [Telegram](https://t.me/tonfoundation) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
-| 29 | TON Search Engine |  | [Telegram](https://t.me/runner_ton) |  |  |  |
-| 30 | TON Torrents |  | [Telegram](https://t.me/tonrh) [GitHub](https://github.com/xssnick/TON-Torrent) |  | 2025-09-01 |  |
+| 27 | Resistance Storage Bot | Free TON Storage Provider Bag Explorer Mini-App Decentralized Storage Indexer piracy.ton | [Bot](https://t.me/resistoragebot) | mentioned by 5 TON channels in Q3 |  |  |
+| 28 | TON Console (TonAPI) |  | [Telegram](https://t.me/tonrostislav) [GitHub](https://github.com/tonkeeper/tonapi) |  | 2023-06-01 |  |
+| 29 | TON Foundation |  | [Telegram](https://t.me/tonfoundation) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
+| 30 | TON Search Engine |  | [Telegram](https://t.me/runner_ton) |  |  |  |
+| 31 | TON Torrents |  | [Telegram](https://t.me/tonrh) [GitHub](https://github.com/xssnick/TON-Torrent) |  | 2025-09-01 |  |

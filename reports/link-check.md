@@ -1,6 +1,6 @@
 # Link check
 
-3291 projects, 7246 links checked, 1110 need a look.
+3187 projects, 7246 links checked, 1103 need a look.
 
 A mismatch is not always an error: a project may run under another brand. Fix the link in `data/projects.csv` or confirm it in the pull request.
 
@@ -497,7 +497,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | The Treasury | farming | [website](https://ownershipcoin.com) | ownershipcoin.com does not match the name |
 | Tilda | farming | [telegram](https://t.me/TildaAppBot) | not a channel or group (a bot or a personal account) |
 | Tilda | farming | [bot](https://t.me/TildaApp) | a channel or group, not a bot |
-| TLOFT Play & Earn | farming | [x](https://x.com/tveroft) | @tveroft not found (renamed, suspended or deleted) |
 | Token Tails | farming | [bot](https://t.me/catbassadorsbot) | a channel or group, not a bot |
 | TokenXGames | farming | [telegram](https://t.me/TokenXGamesBot) | not a channel or group (a bot or a personal account) |
 | TokenXGames | farming | [bot](https://t.me/tokenxgames) | a channel or group, not a bot |
@@ -887,7 +886,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Annihilation | nftmarkets | [website](https://ton.diamonds/collection/annihilation?tab=items) | http 404 |
 | Art Incubator Coins | nftmarkets | [telegram](https://t.me/beetontoken) | page is "BEETON - самый народный токен", does not match the name |
 | Art Incubator Coins | nftmarkets | [website](https://getgems.io/collection/EQDB6DRfTh8zN-5MzmS9R6U5x44T2yESwuX-5ACXUAx4fMf9) | getgems.io does not match the name |
-| BEAST | nftmarkets | [bot](https://t.me/freegns_bot) | page is "Free gift HFT звезды", does not match the name |
 | Cat Mafia NFT | nftmarkets | [website](https://getgems.io/collection/EQBUhVMKeO5YZ4I151B1DVNbsimI_VWDA_eo7hpw4ITPvUbo) | getgems.io does not match the name |
 | Cats in a parallel | nftmarkets | [website](https://getgems.io/collection/EQCJEMMuZIKwgxpnShxAykSSXqn9Y788ld6mIC7w9EqRayoS) | getgems.io does not match the name |
 | Chainsim | nftmarkets | [bot](https://t.me/chainsim_chat) | a channel or group, not a bot |
@@ -910,7 +908,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | NFT Drop Calendar | nftmarkets | links | no links at all |
 | NFT Scanner | nftmarkets | [telegram](https://t.me/Arbitragescanner_official) | not a channel or group (a bot or a personal account) |
 | NFT TONificaror | nftmarkets | [bot](https://t.me/rb_click_bot) | page is "rbx_click", does not match the name |
-| NFTGalaxy | nftmarkets | [bot](https://t.me/starsfox3ben_bot) | page is "Frog Stars 🐸", does not match the name |
 | NFTWallet | nftmarkets | [telegram](https://t.me/fragmentanalytics) | page is "FRAGMENT USERNAMES / GIFTS / NUMBERS 🧳🏴‍☠️", does not match the name |
 | Nobby.Game Fortune | nftmarkets | [website](https://getgems.io/collection/EQBaE_70Tg9Te7jhdxVD9xPEdAdVt9W_rx1nRXeBK0-zleEZ) | getgems.io does not match the name |
 | NobbyGame Royale SOX | nftmarkets | [website](https://getgems.io/collection/EQAuvOFClTXbGGuSELiZz8tTEWOY-iyBwkUEpsWn-ZEcME4E) | getgems.io does not match the name |
@@ -1076,11 +1073,7 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | TonGo | tools | [telegram](https://t.me/dotTonBot) | not a channel or group (a bot or a personal account) |
 | TonGo | tools | [bot](https://t.me/tongonews) | a channel or group, not a bot |
 | @GroypFi_bot | trading | [telegram](https://t.me/groyp) | page is "Groyper Announcements", does not match the name |
-| topblast.lol | unsorted | [bot](https://t.me/groypsupportbot) | page is "Groyp Support", does not match the name |
-| Gambler's BarberShop 🎱 | unsorted | [bot](https://t.me/inotarobot) | page is "GladOS / Защита и аналитика", does not match the name |
 | Sigma Bot | unsorted | [website](https://sigma.no.pics) | http error |
-| Silph Scope 👻🔭 | unsorted | [bot](https://t.me/groypfi_bot) | page is "Gbot - Trading Bot", does not match the name |
-| Sokolovsky! | unsorted | [bot](https://t.me/romanovadsbot) | page is "@RomanovAdsBot", does not match the name |
 | TON Breach | unsorted | [website](https://tonpvpgame.com) | tonpvpgame.com does not match the name |
 | Vortex Crypto | unsorted | [bot](https://t.me/straxzxstar_bot) | page is "Straxzx Stars", does not match the name |
 | fedafone | vpn | [telegram](https://t.me/Channel_90Rich) | page is "Channel_90Rich", does not match the name |

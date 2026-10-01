@@ -2,7 +2,7 @@
 
 # Trading bots
 
-[Back to the list](../README.md#trading-bots). 30 projects: 15 active in Q3 2026, 15 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#trading-bots). 36 projects: 16 active in Q3 2026, 20 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -12,34 +12,40 @@
 | 2 | PocketFi ✓ | Telegram-native memecoin trading app. | [Telegram](https://t.me/pocketfi) [Bot](https://t.me/pocketfi_bot) [X](https://x.com/pocket_fi) [Site](https://pocketfi.org/) | 236K views, 34K MAU | 2026-09-22 | [ton 25](../archive/2025-07-ton.jpg) |
 | 3 | Maestro |  | [Bot](https://t.me/maestro) [Site](https://www.maestrobots.com) | 95K MAU |  |  |
 | 4 | Upscale ✓ | Upscale – a prop‑trading service without KYC | [Telegram](https://t.me/upscale_news_en) [Bot](https://t.me/UpscaleTradeBot) [X](https://x.com/upscaletrade) [Site](https://app.upscale.trade) | 95K views, 19K MAU | 2026-09-30 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 5 | @GroypFi_bot ✓ |  | [Telegram](https://t.me/groyp) [Bot](https://t.me/groypfi_bot) [X](https://x.com/groyp_on_ton) [Site](https://groypfi.io/) | 91K views | 2026-09-30 |  |
+| 5 | @GroypFi_bot ✓ | Chief Vibrations Officer A dose of this, a hit of that Twitter -… | [Telegram](https://t.me/groyp) [Bot](https://t.me/groypfi_bot) [X](https://x.com/groyp_on_ton) [Site](https://groypfi.io/) | 91K views | 2026-09-30 |  |
 | 6 | @DTrade ✓ |  | [Telegram](https://t.me/dtrade_news) [Bot](https://t.me/dtrade) [X](https://x.com/dtrade_tg) | 9K views | 2026-09-04 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 7 | RedoTrade ✓ |  | [Telegram](https://t.me/gramtrade) | 6K views | 2026-09-02 |  |
 | 8 | @Swapi ✓ |  | [Telegram](https://t.me/swapi_news) [Bot](https://t.me/swapi) | 71 views | 2026-08-26 |  |
 | 9 | ATF | 📌 channel :https://t.me/AI_TRADING_FOREX 🌐 Website: https://www.atftoken.com 🐦 Twitter:… | [Bot](https://t.me/atf_airdrop_bot) | mentioned by 37 TON channels in Q3 |  |  |
 | 10 | Ultra Wallet |  | [Bot](https://t.me/ultrawallettrade_bot) | mentioned by 6 TON channels in Q3 |  |  |
 | 11 | CentPay Escrow 🔐 | Buy • Sell • Escrow • Trade 🔒 Secure Transactions / ⚡ Fast Processing / 🌍 Global… | [Bot](https://t.me/centpaaybot) | mentioned by 4 TON channels in Q3 |  |  |
-| 12 | Elementex AI 🤖 | Elementex AI 🦾 Smart Crypto Investments & AI Trading Bots. 🌐 Official Website:… | [Bot](https://t.me/elementexbot) | mentioned by 17 TON channels in Q3 |  |  |
-| 13 | TradeTON | @TradeTON - Your Telegram Wallet for Trading and Holding Cryptocurrencies Customers… | [Bot](https://t.me/xcrusdbot) | 43K MAU |  |  |
-| 14 | AiPowerTrade, Earn UpTo 7% Daily Earn | Get 135% in just 30 Days | [Bot](https://t.me/aipowertraderbot) | mentioned by 4 TON channels in Q3 |  |  |
-| 15 | Pump.tg | TON token swap aggregator | [Telegram](https://t.me/pumpme_tg) [Bot](https://t.me/pumpn_bot) [X](https://x.com/pumptg_n) [Site](https://pump.tg/) | 2K views | 2026-07-18 |  |
+| 12 | BasedBot | 🌐 Community & Support : https://t.me/BasedBotVerify | [Bot](https://t.me/based_eth_bot) | mentioned by 11 TON channels in Q3 |  |  |
+| 13 | Elementex AI 🤖 | Elementex AI 🦾 Smart Crypto Investments & AI Trading Bots. 🌐 Official Website:… | [Bot](https://t.me/elementexbot) | mentioned by 17 TON channels in Q3 |  |  |
+| 14 | TradeTON | @TradeTON - Your Telegram Wallet for Trading and Holding Cryptocurrencies Customers… | [Bot](https://t.me/xcrusdbot) | 43K MAU |  |  |
+| 15 | AiPowerTrade, Earn UpTo 7% Daily Earn | Get 135% in just 30 Days | [Bot](https://t.me/aipowertraderbot) | mentioned by 4 TON channels in Q3 |  |  |
+| 16 | Pump.tg | TON token swap aggregator | [Telegram](https://t.me/pumpme_tg) [Bot](https://t.me/pumpn_bot) [X](https://x.com/pumptg_n) [Site](https://pump.tg/) | 2K views | 2026-07-18 |  |
 
 ## Quiet
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 16 | AI Market | AI-Market is a platform for automated cryptocurrency trading. 📢 Channel: @AiMarketTrade… | [Bot](https://t.me/aimarkettradebot) | mentioned by 10 TON channels in Q3 |  |  |
-| 17 | DTrade - TON trading bot | Fastest trading bot on TON @dtrade_news @dtrade_news_en @dtrade_chat_ru… | [Bot](https://t.me/dtrade_ton_bot) |  |  |  |
-| 18 | DTrade DC4 Backup | Main bot - @dtrade Dev - @dabload | [Bot](https://t.me/dtrade_dc4_backup_bot) | mentioned by 12 TON channels in Q3 |  |  |
-| 19 | Felix / Farm Stars | support: @traderFelix_admin | [Bot](https://t.me/felix_farm_stars_bot) | mentioned by 13 TON channels in Q3 |  |  |
-| 20 | Libermall Card + Web3 Market | @LibermallBot: Торговая площадка с низкой комиссией. Создавайте, продавайте и покупайте… | [Telegram](https://t.me/libermallsupport) [Bot](https://t.me/libermallbot) | mentioned by 5 TON channels in Q3 |  |  |
-| 21 | lockin app | Social trading for TON, Solana, BNB and Robinhood chains — trade, post calls, follow… | [Bot](https://t.me/tradeonlockinbot) | mentioned by 22 TON channels in Q3 |  |  |
-| 22 | Lucky Pickaxe | Hire miners, collect their shifts and trade crystals for GRAM you can withdraw. An idle… | [Bot](https://t.me/luckypickaxebot) | mentioned by 9 TON channels in Q3 |  |  |
-| 23 | Mite Market | Trade Polymarket Natively on TON with Non-custodial Wallet | [Bot](https://t.me/mite_robot) | mentioned by 5 TON channels in Q3 |  |  |
-| 24 | MultiTools | Social trading for Gram, Solana, BNB & more - trade, post calls, follow winning traders.… | [Bot](https://t.me/multitoools_bot) | mentioned by 3 TON channels in Q3 |  |  |
-| 25 | OnlyOptions: Trading Platform | Earn on changes in asset prices. Channel: @onLy_options_tg Support: @sup_options_bot… | [Bot](https://t.me/only_options_bot) |  |  |  |
-| 26 | Storm & Upscale Support (official) | DM me with any questions about @stormtradebot or @upscaletradebot | [Bot](https://t.me/storm_support_bot) | mentioned by 3 TON channels in Q3 |  |  |
-| 27 | Tinu Sniper Bot | TINU Trading Bot on TON is a powerful tool Part of @toninutools | [Bot](https://t.me/tinusniperbot) | mentioned by 9 TON channels in Q3 |  |  |
-| 28 | Tradowix Rewards | Official TradoWix rewards bot. Join @tradowix_official, send your Trader ID, get your… | [Bot](https://t.me/tradowix_promo_bot) | mentioned by 3 TON channels in Q3 |  |  |
-| 29 | КриптоАтака 24 ⚡️ | Наибыстрейший информационный по крипте 24/7 @cryptoattackbot - мгновенный агрегатор… | [Telegram](https://t.me/cryptoattack24) [Bot](https://t.me/attackconnect_bot) | mentioned by 4 TON channels in Q3 |  |  |
-| 30 | ⚡️Лобушкин молнит | Главный новостной терминал Прислать новость — @zhora Основной канал — @lobushkin Канал в… | [Telegram](https://t.me/lobushkinflash) [Bot](https://t.me/tgpodbor_bot) | mentioned by 3 TON channels in Q3 |  |  |
+| 17 | AI Market | AI-Market is a platform for automated cryptocurrency trading. 📢 Channel: @AiMarketTrade… | [Bot](https://t.me/aimarkettradebot) | mentioned by 10 TON channels in Q3 |  |  |
+| 18 | Bobby | We started as a buy bot, things changed. Bobby also owns the intelligence crypto runs… | [Bot](https://t.me/bobbybuybot) |  |  |  |
+| 19 | CAIHawk Signals | 🎯 Precision LONG signals 📊 SMC • Elliott Wave • TA 🎁 14-Day Free Trial 🔍 Live Proofs →… | [Bot](https://t.me/caihawk_signals_bot) | mentioned by 4 TON channels in Q3 |  |  |
+| 20 | DTrade - TON trading bot | Fastest trading bot on TON @dtrade_news @dtrade_news_en @dtrade_chat_ru… | [Bot](https://t.me/dtrade_ton_bot) |  |  |  |
+| 21 | DTrade DC4 Backup | Main bot - @dtrade Dev - @dabload | [Bot](https://t.me/dtrade_dc4_backup_bot) | mentioned by 12 TON channels in Q3 |  |  |
+| 22 | Felix / Farm Stars | support: @traderFelix_admin | [Bot](https://t.me/felix_farm_stars_bot) | mentioned by 13 TON channels in Q3 |  |  |
+| 23 | Hedger Bot |  | [Bot](https://t.me/hedger_one_bot) | mentioned by 3 TON channels in Q3 |  |  |
+| 24 | lockin app | Social trading for TON, Solana, BNB and Robinhood chains — trade, post calls, follow… | [Bot](https://t.me/tradeonlockinbot) | mentioned by 22 TON channels in Q3 |  |  |
+| 25 | Lucky Pickaxe | Hire miners, collect their shifts and trade crystals for GRAM you can withdraw. An idle… | [Bot](https://t.me/luckypickaxebot) | mentioned by 9 TON channels in Q3 |  |  |
+| 26 | Mite Market | Trade Polymarket Natively on TON with Non-custodial Wallet | [Bot](https://t.me/mite_robot) | mentioned by 5 TON channels in Q3 |  |  |
+| 27 | MultiTools | Social trading for Gram, Solana, BNB & more - trade, post calls, follow winning traders.… | [Bot](https://t.me/multitoools_bot) | mentioned by 3 TON channels in Q3 |  |  |
+| 28 | NoName Trending | Big buys among the tokens tracked by the @BuyNNBot by @NoNameDev support: @pickless404 | [Telegram](https://t.me/nonametrending) [Bot](https://t.me/buynnbot) | mentioned by 10 TON channels in Q3 |  |  |
+| 29 | OnlyOptions: Trading Platform | Earn on changes in asset prices. Channel: @onLy_options_tg Support: @sup_options_bot… | [Bot](https://t.me/only_options_bot) |  |  |  |
+| 30 | Sigma Bot | Sigma Portal: https://t.me/SigmaBotPortal Docs: https://docs.sigma.win/ Home:… | [Telegram](https://t.me/sigmaconnect) [Bot](https://t.me/sigma_buybot) [X](https://x.com/sigmatonbot) [Site](https://sigma.no.pics) | mentioned by 4 TON channels in Q3 |  |  |
+| 31 | Storm & Upscale Support (official) | DM me with any questions about @stormtradebot or @upscaletradebot | [Bot](https://t.me/storm_support_bot) | mentioned by 3 TON channels in Q3 |  |  |
+| 32 | Tinu Sniper Bot | TINU Trading Bot on TON is a powerful tool Part of @toninutools | [Bot](https://t.me/tinusniperbot) | mentioned by 9 TON channels in Q3 |  |  |
+| 33 | TokeHunt |  | [Bot](https://t.me/tokehuntbot) | mentioned by 6 TON channels in Q3 |  |  |
+| 34 | Tradowix Rewards | Official TradoWix rewards bot. Join @tradowix_official, send your Trader ID, get your… | [Bot](https://t.me/tradowix_promo_bot) | mentioned by 3 TON channels in Q3 |  |  |
+| 35 | КриптоАтака 24 ⚡️ | Наибыстрейший информационный по крипте 24/7 @cryptoattackbot - мгновенный агрегатор… | [Telegram](https://t.me/cryptoattack24) [Bot](https://t.me/attackconnect_bot) | mentioned by 4 TON channels in Q3 |  |  |
+| 36 | ⚡️Лобушкин молнит | Главный новостной терминал Прислать новость — @zhora Основной канал — @lobushkin Канал в… | [Telegram](https://t.me/lobushkinflash) [Bot](https://t.me/tgpodbor_bot) | mentioned by 3 TON channels in Q3 |  |  |
