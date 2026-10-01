@@ -766,8 +766,8 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,graph,Graph,x,remove,https://x.com/gramsbet,,"@gramsbet is ""GRAMS.bet"", the account of Grams.bet ✌️ (x profile)"
 2026-10-01,swipelux,Swipelux,x,remove,https://x.com/AlwaysMoneyOrg,,"@AlwaysMoneyOrg is ""AlwaysMoney"", the account of AlwaysMoney Exchange (x profile)"
 2026-10-01,solo,Solo,x,remove,https://x.com/The_StarAI,,"@The_StarAI is ""StarAI"", the account of StarAI (x profile)"
-2026-10-01,ton-dns,TON DNS,x,remove,https://x.com/ton_blockchain,,"@ton_blockchain is ""TON 💎"", the account of TON Core (x profile)"
-2026-10-01,coincodex,CoinCodex,x,remove,https://x.com/ton_blockchain,,"@ton_blockchain is ""TON 💎"", the account of TON Core (x profile)"
+2026-10-01,ton-dns,TON DNS,x,remove,https://x.com/ton_blockchain,,"@ton_blockchain is ""TON 💎"", the account of TON Pay (x profile)"
+2026-10-01,coincodex,CoinCodex,x,remove,https://x.com/ton_blockchain,,"@ton_blockchain is ""TON 💎"", the account of TON Pay (x profile)"
 2026-10-01,solidity-auditor,Solidity auditor,x,confirm,https://x.com/legalkornet,https://x.com/legalkornet,profile links to legal-kornet.com (x profile)
 2026-10-01,bimcoin-ton-defi-protocol,Bimcoin - TON DeFi Protocol.,x,confirm,https://x.com/Bim_Light,https://x.com/Bim_Light,profile links to bimlight.org (x profile)
 2026-10-01,token-soex,SOEX (SOEX),x,remove,https://x.com/Play_SoE,,"@Play_SoE is ""Shelter of Exiles"", the account of The Exiles (x profile)"
@@ -1345,3 +1345,18 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,ropsto,Ropsto,bot,replace,https://t.me/ropsto,https://t.me/ropstobot,@ropstobot is the bot and @ropsto the channel: fields swapped (kind)
 2026-10-01,unlk-casino,UNLK Casino,telegram,replace,https://t.me/UNLKCasinoBot,https://t.me/UNLKCasino,@UNLKCasino is the channel and @UNLKCasinoBot the bot: fields swapped (kind)
 2026-10-01,unlk-casino,UNLK Casino,bot,replace,https://t.me/UNLKCasino,https://t.me/UNLKCasinoBot,@UNLKCasinoBot is the bot and @UNLKCasino the channel: fields swapped (kind)
+2026-10-01,gram-wallet,Gram Wallet,website,confirm,https://gramwallet.io,https://gramwallet.io,"page title ""Get Gram Wallet Gram Wallet"" (site title)"
+2026-10-01,changelly,Changelly,website,confirm,https://apps.apple.com/us/app/crypto-exchange-buy-bitcoin/id1435140380,https://apps.apple.com/us/app/crypto-exchange-buy-bitcoin/id1435140380,"page title ""‎Changelly Exchange・Buy Crypto App - App Store App Store"" (site title)"
+2026-10-01,telegram,Telegram,website,confirm,https://telegram.org,https://telegram.org,"page title ""Telegram Messenger Telegram"" (site title)"
+2026-10-01,kingyton-nft,kingyTON NFT,website,confirm,https://ton.org.in,https://ton.org.in,"page title ""TON NFT — Official Collection for The Open Network TON NFT"" (site title)"
+2026-10-01,ton-domains,TON Domains,website,confirm,https://dns.ton.org/,https://dns.ton.org/,"page title ""TON Domains Get .ton domains"" (site title)"
+2026-10-01,redotrade,RedoTrade,website,confirm,https://redo.trade/,https://redo.trade/,"page title ""RedoTrade — TON Trading Bot"" (site title)"
+2026-10-01,ton-breach,TON Breach,website,confirm,https://tonpvpgame.com,https://tonpvpgame.com,"page title ""TON Breach"" (site title)"
+2026-10-01,the-clean-network,The Clean Network,website,confirm,https://tcn.gg,https://tcn.gg,"page title ""The Clean Network | Protocol Zero"" (site title)"
+2026-10-01,clean-sheets,Clean Sheets,website,confirm,https://cs.ballies.gg,https://cs.ballies.gg,"page title ""Clean Sheets - Football Glory for $BALL!"" (site title)"
+2026-10-01,tom-talentverse,TOM - Talentverse,website,confirm,https://x.com/TalentOriginM,https://x.com/TalentOriginM,"page title ""TOM (@TalentOriginM) / X X (formerly Twitter)"" (site title)"
+2026-10-01,rise-of-cinder-duck,Rise of Cinder Duck,website,confirm,https://rcdweb3.xyz/,https://rcdweb3.xyz/,"page title ""duck"" (site title)"
+2026-10-01,bettor-whales,Bettor Whales,website,confirm,https://app.olawealth.io,https://app.olawealth.io,"page title ""Bettor Whale | OlaWealth OlaWealth | Smart  Crypto-Investing"" (site title)"
+2026-10-01,tgcasino,TGCasino,website,confirm,https://www.tg.casino,https://www.tg.casino,"page title ""TG Casino"" (site title)"
+2026-10-01,1-game,1.GAME,website,confirm,https://1.game/,https://1.game/,"page title ""1.Game"" (site title)"
+2026-10-01,yezbet,YezBet,website,confirm,https://yez.bet,https://yez.bet,"page title ""Yez.bet - decentralized web3 crypto sport betting platform"" (site title)"

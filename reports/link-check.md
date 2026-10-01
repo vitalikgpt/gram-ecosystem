@@ -1,6 +1,6 @@
 # Link check
 
-3178 projects, 6799 links checked, 807 need a look.
+3178 projects, 6799 links checked, 792 need a look.
 
 A mismatch is not always an error: a project may run under another brand. Fix the link in `data/projects.csv` or confirm it in the pull request.
 
@@ -232,7 +232,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | AskTon | farming | links | no links at all |
 | Clean Sheets | farming | [bot](https://t.me/BalliesUniverse_bot) | page is "BalliesUniverse &#036;BALL", does not match the name |
 | Clean Sheets | farming | [x](https://x.com/BalliesUniverse) | @balliesuniverse ("Ballies") does not match the name |
-| Clean Sheets | farming | [website](https://cs.ballies.gg) | cs.ballies.gg does not match the name |
 | CrossFi Tap | farming | [website](https://test.xficonsole.com) | http 521; test.xficonsole.com does not match the name |
 | CryptoCat | farming | [x](https://x.com/SimCat_io) | @simcat_io ("Sim Cat Meme coin") does not match the name |
 | Dogs404 | farming | [telegram](https://t.me/ShoeDogannon) | page is "SHOE DOG ANNOUNCEMENT CHANNEL", does not match the name |
@@ -278,7 +277,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | The Treasury | farming | [bot](https://t.me/ownershipcoinbot) | page is "OwnershipCoin Bot", does not match the name |
 | The Treasury | farming | [x](https://x.com/ownershipcoin) | @ownershipcoin ("Ownership Coin") does not match the name |
 | The Treasury | farming | [website](https://ownershipcoin.com) | ownershipcoin.com does not match the name |
-| TOM - Talentverse | farming | [website](https://x.com/TalentOriginM) | x.com does not match the name |
 | TON Click Bot | farming | links | no links at all |
 | TON NEWS | farming | [x](https://x.com/TonAirdropChat) | @tonairdropchat ("TON NEWS") does not match the name |
 | Ton Ton Coin | farming | [bot](https://t.me/TonTonCoinBot) | a channel or group, not a bot |
@@ -300,7 +298,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Tegen Tap | farming | [telegram](https://t.me/tmail_ton) | page is "Tmail Community 💌", does not match the name |
 | Tegen Tap | farming | [website](https://tmail.ae/) | tmail.ae does not match the name |
 | Rise of Cinder Duck | farming | [x](https://x.com/RCD_Web3) | @rcd_web3 not found (renamed, suspended or deleted) |
-| Rise of Cinder Duck | farming | [website](https://rcdweb3.xyz/) | rcdweb3.xyz does not match the name |
 | ANTOWN | farming | [telegram](https://t.me/ANTTIME_NET) | page is "ANTTIME Announcement", does not match the name |
 | ANTOWN | farming | [x](https://x.com/ANTTIME_NET) | @anttime_net ("ANTTIME / TIME To EARN 💚") does not match the name |
 | ANTOWN | farming | [website](https://anttime.net/) | anttime.net does not match the name |
@@ -358,7 +355,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Rakebit Casino | gambling | [website](https://rake-tracker.com/d152b6adc) | rake-tracker.com does not match the name |
 | 1win 🎰 | gambling | [telegram](https://t.me/tonkeeper_news) | page is "Keeper News", does not match the name |
 | 1win 🎰 | gambling | [website](https://tonkeeper.com/) | tonkeeper.com does not match the name |
-| Bettor Whales | gambling | [website](https://app.olawealth.io) | app.olawealth.io does not match the name |
 | GreenOrRed | gambling | [telegram](https://t.me/web3_ton_game) | page is "Ton Lucky Game - News", does not match the name |
 | GreenOrRed | gambling | [bot](https://t.me/ton_lucky_game_bot) | page is "TON Lucky Game", does not match the name |
 | GreenOrRed | gambling | [website](https://b3t.site/) | b3t.site does not match the name |
@@ -368,7 +364,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Lotteton | gambling | [website](https://lotteton.io/) | http error |
 | Ropsto | gambling | [website](https://ropsto.fun) | http error |
 | Spend-A-TON | gambling | [x](https://x.com/zjor) | @zjor ("Sergey Royz") does not match the name |
-| TGCasino | gambling | [website](https://www.tg.casino) | www.tg.casino does not match the name |
 | ThePredictorX | gambling | [x](https://x.com/thepredictorapp) | @thepredictorapp not found (renamed, suspended or deleted) |
 | TON Lottery | gambling | [telegram](https://t.me/tonproject_bot) | not a channel or group (a bot or a personal account) |
 | Ton Vegas | gambling | [x](https://x.com/TonStars_) | @tonstars_ ("Stars on Ton") does not match the name |
@@ -381,8 +376,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Ton Fomo | gambling | [website](https://tonfomo.fun/) | http 502 |
 | KATON | gambling | [website](https://www.katon.ai) | http 502 |
 | TONKING Network | gambling | [website](https://) | malformed url |
-| 1.GAME | gambling | [website](https://1.game/) | 1.game does not match the name |
-| YezBet | gambling | [website](https://yez.bet) | yez.bet does not match the name |
 | AlanoGames | gambling | [website](https://www.alano.games/) | www.alano.games does not match the name |
 | Skellybets | gambling | [x](https://x.com/SkellyVerse) | @skellyverse ("attackerrr buddy") does not match the name |
 | AlpaTON | gambling | [website](https://alpaton.bid) | http error |
@@ -546,7 +539,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Spend | games | [website](https://zjor.github.io/cv/) | zjor.github.io does not match the name |
 | Stepogram bot | games | [telegram](https://t.me/StepogramAdmin) | not a channel or group (a bot or a personal account) |
 | The Pixels | games | [x](https://x.com/ton_jobs) | @ton_jobs ("TON Jobs") does not match the name |
-| TON Breach | games | [website](https://tonpvpgame.com) | tonpvpgame.com does not match the name |
 | TON Chess | games | [website](https://tonplay.io/games/RDKcT26bNo) | tonplay.io does not match the name |
 | TON Legends | games | [website](https://tonlegends.io) | http 404 |
 | Tooncinator | games | [telegram](https://t.me/Tooncinator) | not a channel or group (a bot or a personal account) |
@@ -562,7 +554,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Russian Roullete | games | [website](https://ruroll.com) | ruroll.com does not match the name |
 | KameTap | games | [telegram](https://t.me/Tongokuchannel) | page is "TONGOKU Channel 🔊", does not match the name |
 | Doonz Squad | games | [bot](https://t.me/doonz_squad_bot) | a channel or group, not a bot |
-| The Clean Network | games | [website](https://tcn.gg) | tcn.gg does not match the name |
 | AURA x CAPITAL | games | [website](https://auraxcapital.com/) | http 404 |
 | Melonia | games | [x](https://x.com/apewealth) | @apewealth ("APE WEALTH") does not match the name |
 | Melonia | games | [website](https://www.apewealth.xyz/) | www.apewealth.xyz does not match the name |
@@ -598,7 +589,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Escape from Zeya | games | [x](https://x.com/insider_ton) | @insider_ton not found (renamed, suspended or deleted) |
 | Escape from Zeya | games | [website](https://tonplay.io/games/DZmrVk1mJ5) | tonplay.io does not match the name |
 | Egg Fight Club | games | [website](https://) | malformed url |
-| Telegram | infra | [website](https://telegram.org) | telegram.org does not match the name |
 | TON Core | infra | [website](https://ton.org) | ton.org does not match the name |
 | Acton | infra | [telegram](https://t.me/theopentooling) | page is "The Open Tooling", does not match the name |
 | TonAPI | infra | [x](https://x.com/Grokton) | @grokton ("Andrew") does not match the name |
@@ -651,7 +641,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | eNOT COIN NFT | nftmarkets | [bot](https://t.me/eNOT_Invest_Bot) | a channel or group, not a bot |
 | GhettoNFT | nftmarkets | [bot](https://t.me/jumanjirobot) | page is "🎲 JUMANJI 🎲", does not match the name |
 | Humans | nftmarkets | [website](https://getgems.io/collection/EQDgUeotvXbB1_YEIhrYvYHj8jO9rY6ud7uIW-TBTQIP2odD) | getgems.io does not match the name |
-| kingyTON NFT | nftmarkets | [website](https://ton.org.in) | ton.org.in does not match the name |
 | Kito so cool | nftmarkets | [bot](https://t.me/nordom_gates_bot) | page is "Nordom Gates", does not match the name |
 | LlamasInPixelHarmony | nftmarkets | [website](https://getgems.io/collection/EQB31ij7PT2XWo2onAdhOVwEWvOrU804b70MD0PPpyqz2qv8) | getgems.io does not match the name |
 | MONAKI | nftmarkets | [website](https://monaki.life) | http 404 |
@@ -664,7 +653,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Resistance Dog | nftmarkets | links | no links at all |
 | TON Diamonds NFT Deployer | nftmarkets | [telegram](https://t.me/tondiamondsbot) | not a channel or group (a bot or a personal account) |
 | TON DOGE COIN & NFT | nftmarkets | [website](https://tondoge.com/) | http error |
-| TON Domains | nftmarkets | [website](https://dns.ton.org/) | dns.ton.org does not match the name |
 | TON Goblins | nftmarkets | [website](https://getgems.io/collection/EQDId39SNQ6HyClTaZRCfanKJ4PdVy5pyY2BwZmubHdSWlmT) | getgems.io does not match the name |
 | Toncoinco | nftmarkets | [bot](https://t.me/gamesbilliardsbot) | page is "8 Ball Billiards AI", does not match the name |
 | TONNY | nftmarkets | [website](https://getgems.io/collection/EQBWTv36dodIGegiXDGohSNicgPUW1Kol6tdjvlKDdeLY50l) | getgems.io does not match the name |
@@ -684,7 +672,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Fragment @username | nftmarkets | [telegram](https://t.me/PieTrade) | page is "Pie / Trading Platform", does not match the name |
 | Fragment @username | nftmarkets | [bot](https://t.me/PieTradeBot) | page is "Pie", does not match the name |
 | Netzprints | nftmarkets | [telegram](https://t.me/netzrun) | page is "NETZRUN VPN Info", does not match the name |
-| Changelly | onramp | [website](https://apps.apple.com/us/app/crypto-exchange-buy-bitcoin/id1435140380) | apps.apple.com does not match the name |
 | Transack | onramp | [telegram](https://t.me/transakfinance) | page is "Transak", does not match the name |
 | Transack | onramp | [x](https://x.com/transak) | @transak ("Transak") does not match the name |
 | DW: Toncoin Buy&Sell | onramp | [telegram](https://t.me/TokenInfinity) | page is "Infinity • Community", does not match the name |
@@ -783,14 +770,12 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | TON Byte | tools | [x](https://x.com/atomhq) | @atomhq ("Atom.com") does not match the name |
 | TON Byte | tools | [website](https://tonbyte.com) | http error |
 | @GroypFi_bot | trading | [telegram](https://t.me/groyp) | page is "Groyper Announcements", does not match the name |
-| RedoTrade | trading | [website](https://redo.trade/) | redo.trade does not match the name |
 | ⚡️Лобушкин молнит | trading | [bot](https://t.me/tgpodbor_bot) | page is "Сергей TgPodbor.ru", does not match the name |
 | КриптоАтака 24 ⚡️ | trading | [bot](https://t.me/attackconnect_bot) | page is "Support CryptoAttack 🦾", does not match the name |
 | Sigma Bot | trading | [website](https://sigma.no.pics) | http error |
 | mgs backstage | vpn | [bot](https://t.me/lumenx_robot) | page is "LumenX / Цифровой хаб", does not match the name |
 | Tony VPN | vpn | [bot](https://t.me/tony_vpn_bot) | a channel or group, not a bot |
 | zonerift VPN | vpn | [telegram](https://t.me/TildaApp) | page is "Tilda Updates", does not match the name |
-| Gram Wallet | wallets | [website](https://gramwallet.io) | gramwallet.io does not match the name |
 | My Wallet | wallets | [telegram](https://t.me/mywalleteng) | page is "My Wallet · News", does not match the name |
 | My Wallet | wallets | [x](https://x.com/mywallet_io) | @mywallet_io ("My Wallet") does not match the name |
 | Tonhub | wallets | [bot](https://t.me/jettonvotebot) | page is "Lucky Vote", does not match the name |
