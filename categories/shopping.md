@@ -2,51 +2,55 @@
 
 # Shopping
 
-[Back to the list](../README.md#shopping). 32 projects: 5 active in Q3 2026, 24 quiet, 3 closed. Statuses are explained in the [README](../README.md#status).
+**32 projects: 5 active, 24 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
-| # | Project | What it is | Links | Q3 signal | Last seen | On maps |
+| # | Project | What it is | Links | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | iCryptoCheck | 💱💼 Your guide to the world of crypto. | [Telegram](https://t.me/iCryptoCheck) [Bot](https://t.me/iCryptoCheckBot) [X](https://x.com/iCryptoCheck) [GitHub](https://github.com/unlimadev/Orniton) [Gram News](https://gramnews.org/apps/icryptocheck) | 42K MAU | 2025-05-15 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 2 | Uquid Shop |  | [Telegram](https://t.me/uquidshop) [Bot](https://t.me/uquidbot) [X](https://x.com/uquidcard) [Gram News](https://gramnews.org/apps/uquid-shop) | 1K MAU | 2026-06-22 |  |
-| 3 | uShopWebBot | Web bot shop builder for Telegram | [Telegram](https://t.me/uShopWeb) [Bot](https://t.me/uShopWebBot) [Site](https://www.ucoz.ru/bot/) [Gram News](https://gramnews.org/apps/ushopwebbot) | 475 views | 2026-07-08 |  |
-| 4 | IrenSystem | IrenSystem - инструмент для предпринимателей и фрилансеров. | [Telegram](https://t.me/irensyst) [Bot](https://t.me/demoirensystembot) [Site](https://irensystem.ru) [Gram News](https://gramnews.org/apps/irensystem) | 56 views | 2026-08-11 |  |
-| 5 | $GOVNO Paper Store |  | [Telegram](https://t.me/govnopaperstore) [Bot](https://t.me/GOVNOPaperBot) [Site](https://govnoton.com/) [Gram News](https://gramnews.org/apps/govno-paper-store) |  | 2026-07-12 |  |
+| 1 | **iCryptoCheck** | Your guide to the world of crypto | [Telegram](https://t.me/iCryptoCheck) [Bot](https://t.me/iCryptoCheckBot) [X](https://x.com/iCryptoCheck) [GitHub](https://github.com/unlimadev/Orniton) [Gram News](https://gramnews.org/apps/icryptocheck) | 42K MAU | 2025-05-15 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 2 | **Uquid Shop** |  | [Telegram](https://t.me/uquidshop) [Bot](https://t.me/uquidbot) [X](https://x.com/uquidcard) [Gram News](https://gramnews.org/apps/uquid-shop) | 1K MAU | 2026-06-22 |  |
+| 3 | **uShopWebBot** | Web bot shop builder for Telegram | [Telegram](https://t.me/uShopWeb) [Bot](https://t.me/uShopWebBot) [Site](https://www.ucoz.ru/bot/) [Gram News](https://gramnews.org/apps/ushopwebbot) | 475 views | 2026-07-08 |  |
+| 4 | **IrenSystem** | IrenSystem - инструмент для предпринимателей и фрилансеров | [Telegram](https://t.me/irensyst) [Bot](https://t.me/demoirensystembot) [Site](https://irensystem.ru) [Gram News](https://gramnews.org/apps/irensystem) | 56 views | 2026-08-11 |  |
+| 5 | **$GOVNO Paper Store** |  | [Telegram](https://t.me/govnopaperstore) [Bot](https://t.me/GOVNOPaperBot) [Site](https://govnoton.com/) [Gram News](https://gramnews.org/apps/govno-paper-store) |  | 2026-07-12 |  |
 
-## Quiet
+<details><summary><b>Quiet: 24</b></summary>
 
-| # | Project | What it is | Links | Q3 signal | Last seen | On maps |
+| # | Project | What it is | Links | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 6 | USDt Gift Shop | USDt Gift Shop — a bot for buying gifts and services with TON stablecoins | [Telegram](https://t.me/fizen_io) [Bot](https://t.me/fizengiftshop_bot) [X](https://x.com/fizenapp) [Site](https://fizen.io/) [Gram News](https://gramnews.org/apps/usdt-gift-shop) |  |  |  |
-| 7 | FileMarket AI | Welcome to the world of FileMarket AI Data! Monetize your data and help major AI… | [Bot](https://t.me/filemarketaiplaybot) [X](https://x.com/FileMarketAI) [Gram News](https://gramnews.org/apps/filemarket-ai) |  |  |  |
-| 8 | TADA mini | 🚖 Ride the new wave, TADA mini for Web3 🤝 | [Telegram](https://t.me/mvlchain_news_en) [Bot](https://t.me/TADA_Ride_Bot) [X](https://x.com/mvlchain) [Site](https://mvlchain.io/) [Gram News](https://gramnews.org/apps/tada-mini) |  |  |  |
-| 9 | Hybrid Savings | ХС: сотни выгодных предложений в одном месте | [Bot](https://t.me/hybridsavingsbot) [X](https://x.com/Hybrid_savings) [Gram News](https://gramnews.org/apps/hybrid-savings) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 10 | Sellz Digital | Create your Telegram digital store, accept orders, manage products, and engage customers. | [Bot](https://t.me/sellzdigitalbot) [Gram News](https://gramnews.org/apps/sellz-digital) |  |  |  |
-| 11 | Richards Baklazhan | Leading AgroFi tap-to-grow global supply chain for distributing eggplants to every… | [Bot](https://t.me/growbaklazhanbot) [Gram News](https://gramnews.org/apps/richards-baklazhan) |  |  |  |
-| 12 | Shop Builder | A Telegram shop with automated product filling and AI support | [Telegram](https://t.me/TGShopNews) [Bot](https://t.me/TGShopsBuilderBot) [X](https://x.com/Twitgram_HQ) [Site](https://tg-shops.com/) [Gram News](https://gramnews.org/apps/shop-builder-2) |  | 2026-03-03 |  |
-| 13 | Shop Builder | A Telegram shop with crypto payments and AI assistants | [Telegram](https://t.me/ShopsBuilder) [Bot](https://t.me/ShopsBuilderBot) [X](https://x.com/shopsbuilder) [Site](https://shopsbuilder.notion.site/helpcenter) [Gram News](https://gramnews.org/apps/shop-builder) |  | 2026-03-03 |  |
-| 14 | Tickyton |  | [Bot](https://t.me/tickytonbot) [Gram News](https://gramnews.org/apps/tickyton) |  |  |  |
-| 15 | AOKI Seller | Start business and open your shop with /start | [Telegram](https://t.me/DigtonFaucet) [Bot](https://t.me/aoki_seller_bot) [X](https://x.com/DigTonApp) [Site](https://aokimarket.com) [Gram News](https://gramnews.org/apps/aoki-seller) |  |  |  |
-| 16 | behind |  | [Bot](https://t.me/bhndbot) [Gram News](https://gramnews.org/apps/behind) |  |  |  |
-| 17 | bionapp | Scan to Pay, access credit up to $300, buy gift cards and earn rewards—all in the Bion… | [Telegram](https://t.me/bionapp_bot) [X](https://x.com/bion_app) [Site](https://www.bionapp.com/) [Gram News](https://gramnews.org/apps/bionapp) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 18 | Cashbacker |  | [Bot](https://t.me/cashbackton_bot) [Site](https://pizzaton.me) [GitHub](https://github.com/pizzaton) [Gram News](https://gramnews.org/apps/cashbacker) |  | 2024-11-24 |  |
-| 19 | Catallaxy | Catallaxy — a marketplace for digital goods and services on TON | [Telegram](https://t.me/catallaxy_ton) [Bot](https://t.me/catallaxy_bot) [X](https://x.com/catallaxy_ton) [Site](https://ctlx.cc) [GitHub](https://github.com/dearjohndoe/ton-agents-marketplace) [Gram News](https://gramnews.org/apps/catallaxy) |  | 2026-08-14 |  |
-| 20 | Coinco | Shop your favorite products in Coinco. Pay with crypto and ship to 200+ countries | [Telegram](https://t.me/coinco_global) [Bot](https://t.me/coinco_bot) [Site](https://coinco.io) [Gram News](https://gramnews.org/apps/coinco) |  |  |  |
-| 21 | GiftX: AI Wishlist | Вишлист, ИИ-подбор подарков, бронирование. Создай список желаний и делись одной ссылкой! | [Bot](https://t.me/giftxtech_bot) [Gram News](https://gramnews.org/apps/giftx-ai-wishlist) |  |  |  |
-| 22 | monomenu |  | [Gram News](https://gramnews.org/apps/monomenu) |  |  |  |
-| 23 | OpenMarketplace |  | [Gram News](https://gramnews.org/apps/openmarketplace) |  |  |  |
-| 24 | TonMart | Shop global products in TonMart. Pay with crypto and ship to 200+ countries. | [Bot](https://t.me/tonmartbot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 25 | Umy.com | Umy.com — hotel and flight bookings with cryptocurrency payments | [Telegram](https://t.me/umyofficialnews) [Bot](https://t.me/umy_official_bot) [X](https://x.com/umycomofficial) [Site](https://umy.com/) [Gram News](https://gramnews.org/apps/umy-com) |  |  |  |
-| 26 | VibeMarket |  | [Telegram](https://t.me/vibecodemarketdev_bot) [Site](https://vibemarket.pro/en) [Gram News](https://gramnews.org/apps/vibemarket) |  |  |  |
-| 27 | WebDosa | WebDosa — a shopping bot in Telegram | [Telegram](https://t.me/undrdosabot) [Bot](https://t.me/undrdosa) [Gram News](https://gramnews.org/apps/webdosa) |  |  |  |
-| 28 | Peravel | 🚀 The Modern Life Solution! 🪙🛒✈️ 🌍 | [Telegram](https://t.me/peraveldefi) [Bot](https://t.me/Peravelbot) [Site](https://app.peravel.com/) [Gram News](https://gramnews.org/apps/peravel) |  | 2025-08-27 |  |
-| 29 | SoftShelf | Маркетплейс цифровых товаров в Telegram | [Telegram](https://t.me/SoftShelf) [Bot](https://t.me/SoftShelfBot) [Gram News](https://gramnews.org/apps/softshelf) |  | 2025-05-05 |  |
+| 6 | **USDt Gift Shop** | USDt Gift Shop — a bot for buying gifts and services with TON stablecoins | [Telegram](https://t.me/fizen_io) [Bot](https://t.me/fizengiftshop_bot) [X](https://x.com/fizenapp) [Site](https://fizen.io/) [Gram News](https://gramnews.org/apps/usdt-gift-shop) |  |  |  |
+| 7 | **FileMarket AI** | Welcome to the world of FileMarket AI Data! Monetize your data and help major AI… | [Bot](https://t.me/filemarketaiplaybot) [X](https://x.com/FileMarketAI) [Gram News](https://gramnews.org/apps/filemarket-ai) |  |  |  |
+| 8 | **TADA mini** | Ride the new wave, TADA mini for Web3 | [Telegram](https://t.me/mvlchain_news_en) [Bot](https://t.me/TADA_Ride_Bot) [X](https://x.com/mvlchain) [Site](https://mvlchain.io/) [Gram News](https://gramnews.org/apps/tada-mini) |  |  |  |
+| 9 | **Hybrid Savings** | ХС: сотни выгодных предложений в одном месте | [Bot](https://t.me/hybridsavingsbot) [X](https://x.com/Hybrid_savings) [Gram News](https://gramnews.org/apps/hybrid-savings) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 10 | **Sellz Digital** | Create your Telegram digital store, accept orders, manage products, and engage customers | [Bot](https://t.me/sellzdigitalbot) [Gram News](https://gramnews.org/apps/sellz-digital) |  |  |  |
+| 11 | **Richards Baklazhan** | Leading AgroFi tap-to-grow global supply chain for distributing eggplants to every… | [Bot](https://t.me/growbaklazhanbot) [Gram News](https://gramnews.org/apps/richards-baklazhan) |  |  |  |
+| 12 | **Shop Builder** | A Telegram shop with automated product filling and AI support | [Telegram](https://t.me/TGShopNews) [Bot](https://t.me/TGShopsBuilderBot) [X](https://x.com/Twitgram_HQ) [Site](https://tg-shops.com/) [Gram News](https://gramnews.org/apps/shop-builder-2) |  | 2026-03-03 |  |
+| 13 | **Shop Builder** | A Telegram shop with crypto payments and AI assistants | [Telegram](https://t.me/ShopsBuilder) [Bot](https://t.me/ShopsBuilderBot) [X](https://x.com/shopsbuilder) [Site](https://shopsbuilder.notion.site/helpcenter) [Gram News](https://gramnews.org/apps/shop-builder) |  | 2026-03-03 |  |
+| 14 | **Tickyton** |  | [Bot](https://t.me/tickytonbot) [Gram News](https://gramnews.org/apps/tickyton) |  |  |  |
+| 15 | **AOKI Seller** | Start business and open your shop with /start | [Telegram](https://t.me/DigtonFaucet) [Bot](https://t.me/aoki_seller_bot) [X](https://x.com/DigTonApp) [Site](https://aokimarket.com) [Gram News](https://gramnews.org/apps/aoki-seller) |  |  |  |
+| 16 | **behind** |  | [Bot](https://t.me/bhndbot) [Gram News](https://gramnews.org/apps/behind) |  |  |  |
+| 17 | **bionapp** | Scan to Pay, access credit up to $300, buy gift cards and earn rewards—all in the Bion… | [Telegram](https://t.me/bionapp_bot) [X](https://x.com/bion_app) [Site](https://www.bionapp.com/) [Gram News](https://gramnews.org/apps/bionapp) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 18 | **Cashbacker** |  | [Bot](https://t.me/cashbackton_bot) [Site](https://pizzaton.me) [GitHub](https://github.com/pizzaton) [Gram News](https://gramnews.org/apps/cashbacker) |  | 2024-11-24 |  |
+| 19 | **Catallaxy** | Catallaxy — a marketplace for digital goods and services on TON | [Telegram](https://t.me/catallaxy_ton) [Bot](https://t.me/catallaxy_bot) [X](https://x.com/catallaxy_ton) [Site](https://ctlx.cc) [GitHub](https://github.com/dearjohndoe/ton-agents-marketplace) [Gram News](https://gramnews.org/apps/catallaxy) |  | 2026-08-14 |  |
+| 20 | **Coinco** | Shop your favorite products in Coinco. Pay with crypto and ship to 200+ countries | [Telegram](https://t.me/coinco_global) [Bot](https://t.me/coinco_bot) [Site](https://coinco.io) [Gram News](https://gramnews.org/apps/coinco) |  |  |  |
+| 21 | **GiftX: AI Wishlist** | Вишлист, ИИ-подбор подарков, бронирование. Создай список желаний и делись одной ссылкой! | [Bot](https://t.me/giftxtech_bot) [Gram News](https://gramnews.org/apps/giftx-ai-wishlist) |  |  |  |
+| 22 | **monomenu** |  | [Gram News](https://gramnews.org/apps/monomenu) |  |  |  |
+| 23 | **OpenMarketplace** |  | [Gram News](https://gramnews.org/apps/openmarketplace) |  |  |  |
+| 24 | **TonMart** | Shop global products in TonMart. Pay with crypto and ship to 200+ countries | [Bot](https://t.me/tonmartbot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 25 | **Umy.com** | Umy.com — hotel and flight bookings with cryptocurrency payments | [Telegram](https://t.me/umyofficialnews) [Bot](https://t.me/umy_official_bot) [X](https://x.com/umycomofficial) [Site](https://umy.com/) [Gram News](https://gramnews.org/apps/umy-com) |  |  |  |
+| 26 | **VibeMarket** |  | [Telegram](https://t.me/vibecodemarketdev_bot) [Site](https://vibemarket.pro/en) [Gram News](https://gramnews.org/apps/vibemarket) |  |  |  |
+| 27 | **WebDosa** | WebDosa — a shopping bot in Telegram | [Telegram](https://t.me/undrdosabot) [Bot](https://t.me/undrdosa) [Gram News](https://gramnews.org/apps/webdosa) |  |  |  |
+| 28 | **Peravel** | The Modern Life Solution! | [Telegram](https://t.me/peraveldefi) [Bot](https://t.me/Peravelbot) [Site](https://app.peravel.com/) [Gram News](https://gramnews.org/apps/peravel) |  | 2025-08-27 |  |
+| 29 | **SoftShelf** | Маркетплейс цифровых товаров в Telegram | [Telegram](https://t.me/SoftShelf) [Bot](https://t.me/SoftShelfBot) [Gram News](https://gramnews.org/apps/softshelf) |  | 2025-05-05 |  |
 
-## Closed
+</details>
 
-| # | Project | What it is | Links | Q3 signal | Last seen | On maps |
+<details><summary><b>Closed: 3</b></summary>
+
+| # | Project | What it is | Links | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 30 | Bounty Bay |  | [X](https://x.com/0xBountyBay) [Site](https://www.bountybay.app/) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 31 | Elephant Store | Don't miss a single sticker — collect them all! | [Telegram](https://t.me/slon_market) [Bot](https://t.me/elephantstorebot) [X](https://x.com/ownthedoge) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 32 | TGGifts |  | [Telegram](https://t.me/tongiftsnews) [Bot](https://t.me/GetTonGifts_Bot) [X](https://x.com/TonGiftsbot) [Site](https://gifts.tg) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
+| 30 | **Bounty Bay** |  | [X](https://x.com/0xBountyBay) [Site](https://www.bountybay.app/) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 31 | **Elephant Store** | Don't miss a single sticker — collect them all! | [Telegram](https://t.me/slon_market) [Bot](https://t.me/elephantstorebot) [X](https://x.com/ownthedoge) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 32 | **TGGifts** |  | [Telegram](https://t.me/tongiftsnews) [Bot](https://t.me/GetTonGifts_Bot) [X](https://x.com/TonGiftsbot) [Site](https://gifts.tg) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
+
+</details>

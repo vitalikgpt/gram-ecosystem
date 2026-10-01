@@ -2,14 +2,14 @@
 
 # NFT collections
 
-[Back to the list](../README.md#nft-collections). 5 projects: 5 active in Q3 2026, 0 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
+**5 projects: 5 active, 0 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
-| # | Project | What it is | Links | Q3 signal | Last seen | On maps |
+| # | Project | What it is | Links | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | Anonymous Numbers ✓ |  | [Site](https://fragment.com/gifts) | $497M |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 2 | Plush Pepe ✓ |  | [Site](https://fragment.com/gifts) | $23M |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 3 | Telegram Usernames ✓ |  | [Site](https://fragment.com/gifts) | $5.7M |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 4 | Scared Cat ✓ |  | [Site](https://fragment.com/gifts) | $5.5M |  |  |
-| 5 | Heart Locket ✓ |  | [Site](https://fragment.com/gifts) | $2.7M |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 1 | **Anonymous Numbers** ✓ |  | [Site](https://fragment.com/gifts) | $497M |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 2 | **Plush Pepe** ✓ |  | [Site](https://fragment.com/gifts) | $23M |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 3 | **Telegram Usernames** ✓ |  | [Site](https://fragment.com/gifts) | $5.7M |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 4 | **Scared Cat** ✓ |  | [Site](https://fragment.com/gifts) | $5.5M |  |  |
+| 5 | **Heart Locket** ✓ |  | [Site](https://fragment.com/gifts) | $2.7M |  | [ton 25](../archive/2025-07-ton.jpg) |

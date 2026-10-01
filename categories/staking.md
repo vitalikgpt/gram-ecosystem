@@ -2,59 +2,63 @@
 
 # Staking
 
-[Back to the list](../README.md#staking). 40 projects: 14 active in Q3 2026, 23 quiet, 3 closed. Statuses are explained in the [README](../README.md#status).
+**40 projects: 14 active, 23 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
-| # | Project | What it is | Links | Q3 signal | Last seen | On maps |
+| # | Project | What it is | Links | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | Hipo ✓ | Hipo Staking — GRAM staking on TON with hGRAM rewards | [Telegram](https://t.me/hipofinance) [Bot](https://t.me/HipoFinanceBot) [X](https://x.com/hipofinance) [Site](https://app.hipo.finance/) [GitHub](https://github.com/HipoFinance) [Gram News](https://gramnews.org/apps/hipo-staking) | 99K views | 2026-10-01 | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 2 | Tonstakers ✓ | Tonstakers – liquid staking app for GRAM | [Telegram](https://t.me/thetonstakers) [Bot](https://t.me/tonstakers_support_bot) [X](https://x.com/tonstakers) [Site](https://app.tonstakers.com/) [Gram News](https://gramnews.org/apps/tonstakers-staking) | 87K views | 2026-08-12 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 3 | Stakee ✓ | TON staking with up to 25% APY and instant withdrawals. | [Telegram](https://t.me/stakeeru) [Bot](https://t.me/StakeeRu) [Site](https://stakee.org) [GitHub](https://github.com/ton-blockchain) [Gram News](https://gramnews.org/apps/stakee) | 8K views | 2026-10-01 | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 4 | KTON ✓ | KTON LST — staking TON with a liquid KTON token | [Telegram](https://t.me/kton_channel) [Bot](https://t.me/ktonio_bot) [X](https://x.com/kton_io) [Site](https://kton.io/) [GitHub](https://github.com/KTON-IO/liquid-staking-contract) [Gram News](https://gramnews.org/apps/kton-lst) | 74 views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
-| 5 | TON Validators ✓ |  | [Bot](https://t.me/tonvalidators_app_bot) [Gram News](https://gramnews.org/apps/ton-validators) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 6 | UTONIC ✓ |  | [Site](https://utonic.org) |  |  | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 7 | bemo ✓ |  | [Site](https://bemo.finance) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 8 | Butterflys | Welcome To 🦋 Butterfly's $BTYS. | [Bot](https://t.me/realbutterflys_bot) [X](https://x.com/Butterflyonton) [Site](https://app.hipo.finance/#/referrer=UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW/) [GitHub](https://github.com/HipoFinance) [Gram News](https://gramnews.org/apps/butterflys) | 14K MAU | 2026-10-01 |  |
-| 9 | bemo V1 | The liquid staking protocol on the TON blockchain. | [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) | TVL $2.1M |  |  |
-| 10 | bemo V2 | The liquid staking protocol on the TON blockchain. | [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) | TVL $0.5M |  |  |
-| 11 | Ethena tsUSDe | tsUSDe is a special version of sUSDe deployed on TON | [X](https://x.com/ethena) [Site](https://www.app.ethena.fi) | TVL $3.0M |  |  |
-| 12 | SettleTON | SettleTON is the First TON Liquidity Pool Index Fund that maximises yields by helping… | [X](https://x.com/TonSettle) [Site](https://x.com/TonSettle) | TVL $83K |  |  |
-| 13 | TonPools | TonPools is a dapp built on the TON Blockchain that offers prize-linked savings… | [X](https://x.com/TonPools_Com) | TVL $16K |  |  |
-| 14 | Tonstakers LSD | The Open Network Liquid Staking protocol empowering TON DeFi ecosystem | [X](https://x.com/tonstakers) [Site](https://tonstakers.com) | TVL $198.5M |  |  |
+| 1 | **Hipo** ✓ | Hipo Staking — GRAM staking on TON with hGRAM rewards | [Telegram](https://t.me/hipofinance) [Bot](https://t.me/HipoFinanceBot) [X](https://x.com/hipofinance) [Site](https://app.hipo.finance/) [GitHub](https://github.com/HipoFinance) [Gram News](https://gramnews.org/apps/hipo-staking) | 99K views | 2026-10-01 | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 2 | **Tonstakers** ✓ | Tonstakers – liquid staking app for GRAM | [Telegram](https://t.me/thetonstakers) [Bot](https://t.me/tonstakers_support_bot) [X](https://x.com/tonstakers) [Site](https://app.tonstakers.com/) [Gram News](https://gramnews.org/apps/tonstakers-staking) | 87K views | 2026-08-12 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 3 | **Stakee** ✓ | TON staking with up to 25% APY and instant withdrawals | [Telegram](https://t.me/stakeeru) [Bot](https://t.me/StakeeRu) [Site](https://stakee.org) [GitHub](https://github.com/ton-blockchain) [Gram News](https://gramnews.org/apps/stakee) | 8K views | 2026-10-01 | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 4 | **KTON** ✓ | KTON LST — staking TON with a liquid KTON token | [Telegram](https://t.me/kton_channel) [Bot](https://t.me/ktonio_bot) [X](https://x.com/kton_io) [Site](https://kton.io/) [GitHub](https://github.com/KTON-IO/liquid-staking-contract) [Gram News](https://gramnews.org/apps/kton-lst) | 74 views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
+| 5 | **TON Validators** ✓ |  | [Bot](https://t.me/tonvalidators_app_bot) [Gram News](https://gramnews.org/apps/ton-validators) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 6 | **UTONIC** ✓ |  | [Site](https://utonic.org) |  |  | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 7 | **bemo** ✓ |  | [Site](https://bemo.finance) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 8 | **Butterflys** | Welcome To Butterfly's $BTYS | [Bot](https://t.me/realbutterflys_bot) [X](https://x.com/Butterflyonton) [Site](https://app.hipo.finance/#/referrer=UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW/) [GitHub](https://github.com/HipoFinance) [Gram News](https://gramnews.org/apps/butterflys) | 14K MAU | 2026-10-01 |  |
+| 9 | **bemo V1** | The liquid staking protocol on the TON blockchain | [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) | TVL $2.1M |  |  |
+| 10 | **bemo V2** | The liquid staking protocol on the TON blockchain | [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) | TVL $0.5M |  |  |
+| 11 | **Ethena tsUSDe** | tsUSDe is a special version of sUSDe deployed on TON | [X](https://x.com/ethena) [Site](https://www.app.ethena.fi) | TVL $3.0M |  |  |
+| 12 | **SettleTON** | SettleTON is the First TON Liquidity Pool Index Fund that maximises yields by helping… | [X](https://x.com/TonSettle) [Site](https://x.com/TonSettle) | TVL $83K |  |  |
+| 13 | **TonPools** | TonPools is a dapp built on the TON Blockchain that offers prize-linked savings… | [X](https://x.com/TonPools_Com) | TVL $16K |  |  |
+| 14 | **Tonstakers LSD** | The Open Network Liquid Staking protocol empowering TON DeFi ecosystem | [X](https://x.com/tonstakers) [Site](https://tonstakers.com) | TVL $198.5M |  |  |
 
-## Quiet
+<details><summary><b>Quiet: 23</b></summary>
 
-| # | Project | What it is | Links | Q3 signal | Last seen | On maps |
+| # | Project | What it is | Links | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 15 | PAKETKA |  | [Bot](https://t.me/paketka2_bot) [Site](https://swap.coffee/dex?referral=user_UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW) [Gram News](https://gramnews.org/apps/paketka) |  |  |  |
-| 16 | Shieldeum Node Rewards |  | [Bot](https://t.me/shieldeumbot) [X](https://x.com/Shieldeum) [Site](https://shieldeum.net) [Gram News](https://gramnews.org/apps/shieldeum-node-rewards) |  |  |  |
-| 17 | tbook | The first embedded RWA liquidity layer that brings institutional-grade tokenized yield… | [Bot](https://t.me/tbook_incentive_bot) [Gram News](https://gramnews.org/apps/tbook) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 18 | Bemo liquid staking | Bemo — a liquid staking platform on the TON blockchain | [Telegram](https://t.me/bemofinance) [Bot](https://t.me/bemo_finance_bot) [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) [Gram News](https://gramnews.org/apps/bemo-liquid-staking) |  | 2026-06-12 |  |
-| 19 | TonFarm |  | [Telegram](https://t.me/TonGame_app) [Bot](https://t.me/tongame_farms_bot) [X](https://x.com/tongameapp) [Site](https://farm.tongame.app/) [Gram News](https://gramnews.org/apps/tonfarm) |  |  |  |
-| 20 | SynQuest | SynQuest is a Telegram mini app offering a stake-play-earn! | [Bot](https://t.me/synquestbot) [Gram News](https://gramnews.org/apps/synquest) |  |  |  |
-| 21 | BounceTon Restaking | No lock, no staking. Move to Faucet Wallet — earn 4.08% yearly paid daily, enjoy free… | [Bot](https://t.me/bounceton_bot) [X](https://x.com/BouncTon) [Gram News](https://gramnews.org/apps/bounceton-restaking) |  |  |  |
-| 22 | Buzz | Welcome to Buzz! We're the busy bees of Web3, here to sweeten your day with fortunes.… | [Bot](https://t.me/buzz_mine_bot) [X](https://x.com/BuzzWeb3_) [Gram News](https://gramnews.org/apps/buzz) |  |  |  |
-| 23 | G9 Token |  | [Bot](https://t.me/g9tokenbot) [Gram News](https://gramnews.org/apps/g9-token) |  |  |  |
-| 24 | YouHold | YouHold is SuperFI app — wallet for earnings, investments and more | [Telegram](https://t.me/youhold) [Bot](https://t.me/youhold_bot) [X](https://x.com/youhold_ton) [Gram News](https://gramnews.org/apps/youhold) |  | 2026-03-10 |  |
-| 25 | NotStakers |  | [Bot](https://t.me/notstacker_bot) [Gram News](https://gramnews.org/apps/notstakers) |  | 2026-06-08 |  |
-| 26 | Bimcoin |  | [Telegram](https://t.me/Bimlight_Group) [Bot](https://t.me/BimlightBot) [X](https://x.com/Bim_Light) [Site](https://bimlight.org) [Gram News](https://gramnews.org/apps/bimcoin-ton-defi-protocol) |  |  |  |
-| 27 | Fanzee |  | [Site](https://app.fanz.ee/staking) [GitHub](https://github.com/viz-cx/viz-gateway) [Gram News](https://gramnews.org/apps/fanzee) |  | 2026-08-30 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) |
-| 28 | Farmix | Leverage yield farming based on TON blockchain | [X](https://x.com/TonFarmix) |  |  |  |
-| 30 | Palette Finance | Earn it without thinking. | [Bot](https://t.me/palettefinancebot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 31 | TON Whales |  | [Telegram](https://t.me/whalessupportbot) [X](https://x.com/whalescorp) [GitHub](https://github.com/tonwhales) |  | 2026-08-13 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 32 | TonStake.com |  | [X](https://x.com/tonstakecom) [Site](https://tonstake.com/) [GitHub](https://github.com/awesome-doge) [Gram News](https://gramnews.org/apps/tonstake-com) |  | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 33 | Tonyielding |  | [X](https://x.com/Tonyielding) [GitHub](https://github.com/marakitio) [Gram News](https://gramnews.org/apps/tonyielding) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 34 | UTN Staking |  | [Telegram](https://t.me/uniton_token) [Site](https://app.unitontoken.com) [Gram News](https://gramnews.org/apps/utn-staking) |  |  |  |
-| 35 | Whales Staking | Ton Whales Staking pool chat for communicating in any language. | [Telegram](https://t.me/stakeonwhales) [X](https://x.com/whalescorp) [Site](https://tonwhales.com/staking) [GitHub](https://github.com/tonwhales) [Gram News](https://gramnews.org/apps/whales-staking) |  | 2026-08-13 |  |
-| 36 | YieldFort Protocol |  | [Bot](https://t.me/ton_yieldfortbot) [X](https://x.com/yieldfort) [Gram News](https://gramnews.org/apps/yieldfort-protocol) |  |  |  |
-| 37 | XBANKING |  | [Telegram](https://t.me/xbanking) [X](https://x.com/xbankingapp) [Site](https://xbanking.org) [GitHub](https://github.com/SecondLive) [Gram News](https://gramnews.org/apps/xbanking) |  | 2025-07-17 |  |
-| 38 | Tonverse |  | [Telegram](https://t.me/GoTonverse) [Bot](https://t.me/gohotbanana_bot) [X](https://x.com/verse_ton) [Gram News](https://gramnews.org/apps/tonverse) |  | 2024-09-10 |  |
+| 15 | **PAKETKA** |  | [Bot](https://t.me/paketka2_bot) [Site](https://swap.coffee/dex?referral=user_UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW) [Gram News](https://gramnews.org/apps/paketka) |  |  |  |
+| 16 | **Shieldeum Node Rewards** |  | [Bot](https://t.me/shieldeumbot) [X](https://x.com/Shieldeum) [Site](https://shieldeum.net) [Gram News](https://gramnews.org/apps/shieldeum-node-rewards) |  |  |  |
+| 17 | **tbook** | The first embedded RWA liquidity layer that brings institutional-grade tokenized yield… | [Bot](https://t.me/tbook_incentive_bot) [Gram News](https://gramnews.org/apps/tbook) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 18 | **Bemo liquid staking** | Bemo — a liquid staking platform on the TON blockchain | [Telegram](https://t.me/bemofinance) [Bot](https://t.me/bemo_finance_bot) [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) [Gram News](https://gramnews.org/apps/bemo-liquid-staking) |  | 2026-06-12 |  |
+| 19 | **TonFarm** |  | [Telegram](https://t.me/TonGame_app) [Bot](https://t.me/tongame_farms_bot) [X](https://x.com/tongameapp) [Site](https://farm.tongame.app/) [Gram News](https://gramnews.org/apps/tonfarm) |  |  |  |
+| 20 | **SynQuest** | SynQuest is a Telegram mini app offering a stake-play-earn! | [Bot](https://t.me/synquestbot) [Gram News](https://gramnews.org/apps/synquest) |  |  |  |
+| 21 | **BounceTon Restaking** | No lock, no staking. Move to Faucet Wallet — earn 4.08% yearly paid daily, enjoy free… | [Bot](https://t.me/bounceton_bot) [X](https://x.com/BouncTon) [Gram News](https://gramnews.org/apps/bounceton-restaking) |  |  |  |
+| 22 | **Buzz** | Welcome to Buzz! We're the busy bees of Web3, here to sweeten your day with fortunes.… | [Bot](https://t.me/buzz_mine_bot) [X](https://x.com/BuzzWeb3_) [Gram News](https://gramnews.org/apps/buzz) |  |  |  |
+| 23 | **G9 Token** |  | [Bot](https://t.me/g9tokenbot) [Gram News](https://gramnews.org/apps/g9-token) |  |  |  |
+| 24 | **YouHold** | YouHold is SuperFI app — wallet for earnings, investments and more | [Telegram](https://t.me/youhold) [Bot](https://t.me/youhold_bot) [X](https://x.com/youhold_ton) [Gram News](https://gramnews.org/apps/youhold) |  | 2026-03-10 |  |
+| 25 | **NotStakers** |  | [Bot](https://t.me/notstacker_bot) [Gram News](https://gramnews.org/apps/notstakers) |  | 2026-06-08 |  |
+| 26 | **Bimcoin** |  | [Telegram](https://t.me/Bimlight_Group) [Bot](https://t.me/BimlightBot) [X](https://x.com/Bim_Light) [Site](https://bimlight.org) [Gram News](https://gramnews.org/apps/bimcoin-ton-defi-protocol) |  |  |  |
+| 27 | **Fanzee** |  | [Site](https://app.fanz.ee/staking) [GitHub](https://github.com/viz-cx/viz-gateway) [Gram News](https://gramnews.org/apps/fanzee) |  | 2026-08-30 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) |
+| 28 | **Farmix** | Leverage yield farming based on TON blockchain | [X](https://x.com/TonFarmix) |  |  |  |
+| 30 | **Palette Finance** | Earn it without thinking | [Bot](https://t.me/palettefinancebot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 31 | **TON Whales** |  | [Telegram](https://t.me/whalessupportbot) [X](https://x.com/whalescorp) [GitHub](https://github.com/tonwhales) |  | 2026-08-13 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 32 | **TonStake.com** |  | [X](https://x.com/tonstakecom) [Site](https://tonstake.com/) [GitHub](https://github.com/awesome-doge) [Gram News](https://gramnews.org/apps/tonstake-com) |  | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 33 | **Tonyielding** |  | [X](https://x.com/Tonyielding) [GitHub](https://github.com/marakitio) [Gram News](https://gramnews.org/apps/tonyielding) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 34 | **UTN Staking** |  | [Telegram](https://t.me/uniton_token) [Site](https://app.unitontoken.com) [Gram News](https://gramnews.org/apps/utn-staking) |  |  |  |
+| 35 | **Whales Staking** | Ton Whales Staking pool chat for communicating in any language | [Telegram](https://t.me/stakeonwhales) [X](https://x.com/whalescorp) [Site](https://tonwhales.com/staking) [GitHub](https://github.com/tonwhales) [Gram News](https://gramnews.org/apps/whales-staking) |  | 2026-08-13 |  |
+| 36 | **YieldFort Protocol** |  | [Bot](https://t.me/ton_yieldfortbot) [X](https://x.com/yieldfort) [Gram News](https://gramnews.org/apps/yieldfort-protocol) |  |  |  |
+| 37 | **XBANKING** |  | [Telegram](https://t.me/xbanking) [X](https://x.com/xbankingapp) [Site](https://xbanking.org) [GitHub](https://github.com/SecondLive) [Gram News](https://gramnews.org/apps/xbanking) |  | 2025-07-17 |  |
+| 38 | **Tonverse** |  | [Telegram](https://t.me/GoTonverse) [Bot](https://t.me/gohotbanana_bot) [X](https://x.com/verse_ton) [Gram News](https://gramnews.org/apps/tonverse) |  | 2024-09-10 |  |
 
-## Closed
+</details>
 
-| # | Project | What it is | Links | Q3 signal | Last seen | On maps |
+<details><summary><b>Closed: 3</b></summary>
+
+| # | Project | What it is | Links | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 29 | MINTODINOS Staking |  | [Gram News](https://gramnews.org/apps/mintodinos-staking) |  |  |  |
-| 39 | Parraton | Yield Optimizer on TON 😎 | [Bot](https://t.me/parraton_bot) [X](https://x.com/parraton_com) | TVL $6K |  | [messari 26](../archive/2026-05-messari.jpg) |
-| 40 | Beetroot Finance | Automated Yield Farming Aggregator on TON blockchain 💎 | [Telegram](https://t.me/BeetrootFinance) [Bot](https://t.me/BeetrootFiBot) [X](https://x.com/beetroot_fi) [Site](https://beetroot.finance) [GitHub](https://github.com/Beetroot-fi) | TVL $1K | 2025-12-25 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 29 | **MINTODINOS Staking** |  | [Gram News](https://gramnews.org/apps/mintodinos-staking) |  |  |  |
+| 39 | **Parraton** | Yield Optimizer on TON | [Bot](https://t.me/parraton_bot) [X](https://x.com/parraton_com) | TVL $6K |  | [messari 26](../archive/2026-05-messari.jpg) |
+| 40 | **Beetroot Finance** | Automated Yield Farming Aggregator on TON blockchain | [Telegram](https://t.me/BeetrootFinance) [Bot](https://t.me/BeetrootFiBot) [X](https://x.com/beetroot_fi) [Site](https://beetroot.finance) [GitHub](https://github.com/Beetroot-fi) | TVL $1K | 2025-12-25 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+
+</details>

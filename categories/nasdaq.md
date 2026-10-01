@@ -2,11 +2,11 @@
 
 # NASDAQ
 
-[Back to the list](../README.md#nasdaq). 2 projects: 2 active in Q3 2026, 0 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
+**2 projects: 2 active, 0 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
-| # | Project | What it is | Links | Q3 signal | Last seen | On maps |
+| # | Project | What it is | Links | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | TON Strategy ✓ |  | [Site](https://tonstrat.com) |  |  |  |
-| 2 | Alpha Compute ✓ |  | [Site](https://alphacompute.com) |  |  |  |
+| 1 | **TON Strategy** ✓ |  | [Site](https://tonstrat.com) |  |  |  |
+| 2 | **Alpha Compute** ✓ |  | [Site](https://alphacompute.com) |  |  |  |

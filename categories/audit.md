@@ -2,47 +2,49 @@
 
 # Security
 
-[Back to the list](../README.md#security). 33 projects: 11 active in Q3 2026, 22 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
+**33 projects: 11 active, 22 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
-| # | Project | What it is | Links | Q3 signal | Last seen | On maps |
+| # | Project | What it is | Links | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | Hacken | Hacken — blockchain security and compliance audit and consulting firm | [Telegram](https://t.me/hackenai) [Bot](https://t.me/kostiantyn_hacken) [X](https://x.com/hackenclub) [Site](https://hacken.io/) [GitHub](https://github.com/hknio) [Gram News](https://gramnews.org/apps/hacken) | 49K views | 2026-09-16 | [ton 25](../archive/2025-07-ton.jpg) |
-| 2 | CertiK | This is the only official channel for CertiK. | [Telegram](https://t.me/certikcommunity) [X](https://x.com/CertiK) [Site](https://www.certik.com) [GitHub](https://github.com/CertiKProject) [Gram News](https://gramnews.org/apps/certik) |  | 2026-09-19 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 3 | SlowMist |  | [X](https://x.com/SlowMist_Team) [Site](https://www.slowmist.com) [GitHub](https://github.com/slowmist) [Gram News](https://gramnews.org/apps/slowmist) |  | 2026-09-30 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 4 | Trail of Bits |  | [Site](https://www.trailofbits.com) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 5 | Quantstamp |  | [Site](https://quantstamp.com) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 6 | HackenProof | HackenProof is a bug bounty platform for crypto business and hackers. | [Telegram](https://t.me/hackenproof) [X](https://x.com/HackenProof) [Site](https://hackenproof.com/) [GitHub](https://github.com/hackenproof) [Gram News](https://gramnews.org/apps/hackenproof) | 7K views | 2026-09-29 | [ton 25](../archive/2025-07-ton.jpg) |
-| 7 | Chainalysis | Building trust in blockchains among people, businesses, and governments. | [Telegram](https://t.me/chainalysisinc) [GitHub](https://github.com/chainalysis) | 9K views | 2026-09-29 | [ton 25](../archive/2025-07-ton.jpg) |
-| 8 | Tonguard ✓ | TON Guard is the first cloud-based solution for the TON blockchain, leveraging AI-driven… | [Telegram](https://t.me/tonguardaml) [Bot](https://t.me/tonguard_bot) [Site](https://tonguard.org/) [Gram News](https://gramnews.org/apps/tonguard) | 420 views | 2026-09-25 | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 9 | TrustaTONApp_bot | AI service for on-chain identity and reputation. | [Bot](https://t.me/trustatonapp_bot) [X](https://x.com/TrustaLabs) [Site](https://trustalabs.ai) [GitHub](https://github.com/mir-one/fingerprints) [Gram News](https://gramnews.org/apps/trustatonapp_bot) | 17K views, 112K MAU | 2026-09-29 |  |
-| 10 | GID Anti-Scam | Крупнейший анти-скам проект в Telegram🛡️ 👮‍♂️ Подать жалобу /report Скам-База… | [Bot](https://t.me/gidbanbot) | mentioned by 4 TON channels in Q3 |  |  |
-| 11 | Nowarp | nowarp.io / github.com/nowarp / x.com/nowarp_io | [Telegram](https://t.me/nowarp_io) [X](https://x.com/nowarp_io) [Site](https://nowarp.io) [GitHub](https://github.com/nowarp) [Gram News](https://gramnews.org/apps/nowarp) |  | 2026-07-13 |  |
+| 1 | **Hacken** | Hacken — blockchain security and compliance audit and consulting firm | [Telegram](https://t.me/hackenai) [Bot](https://t.me/kostiantyn_hacken) [X](https://x.com/hackenclub) [Site](https://hacken.io/) [GitHub](https://github.com/hknio) [Gram News](https://gramnews.org/apps/hacken) | 49K views | 2026-09-16 | [ton 25](../archive/2025-07-ton.jpg) |
+| 2 | **CertiK** | This is the only official channel for CertiK | [Telegram](https://t.me/certikcommunity) [X](https://x.com/CertiK) [Site](https://www.certik.com) [GitHub](https://github.com/CertiKProject) [Gram News](https://gramnews.org/apps/certik) |  | 2026-09-19 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 3 | **SlowMist** |  | [X](https://x.com/SlowMist_Team) [Site](https://www.slowmist.com) [GitHub](https://github.com/slowmist) [Gram News](https://gramnews.org/apps/slowmist) |  | 2026-09-30 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 4 | **Trail of Bits** |  | [Site](https://www.trailofbits.com) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 5 | **Quantstamp** |  | [Site](https://quantstamp.com) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 6 | **HackenProof** | HackenProof is a bug bounty platform for crypto business and hackers | [Telegram](https://t.me/hackenproof) [X](https://x.com/HackenProof) [Site](https://hackenproof.com/) [GitHub](https://github.com/hackenproof) [Gram News](https://gramnews.org/apps/hackenproof) | 7K views | 2026-09-29 | [ton 25](../archive/2025-07-ton.jpg) |
+| 7 | **Chainalysis** | Building trust in blockchains among people, businesses, and governments | [Telegram](https://t.me/chainalysisinc) [GitHub](https://github.com/chainalysis) | 9K views | 2026-09-29 | [ton 25](../archive/2025-07-ton.jpg) |
+| 8 | **Tonguard** ✓ | TON Guard is the first cloud-based solution for the TON blockchain, leveraging AI-driven… | [Telegram](https://t.me/tonguardaml) [Bot](https://t.me/tonguard_bot) [Site](https://tonguard.org/) [Gram News](https://gramnews.org/apps/tonguard) | 420 views | 2026-09-25 | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 9 | **TrustaTONApp_bot** | AI service for on-chain identity and reputation | [Bot](https://t.me/trustatonapp_bot) [X](https://x.com/TrustaLabs) [Site](https://trustalabs.ai) [GitHub](https://github.com/mir-one/fingerprints) [Gram News](https://gramnews.org/apps/trustatonapp_bot) | 17K views, 112K MAU | 2026-09-29 |  |
+| 10 | **GID Anti-Scam** | Крупнейший анти-скам проект в Telegram Подать жалобу /report Скам-База Все ресурсы | [Bot](https://t.me/gidbanbot) | mentioned by 4 TON channels in Q3 |  |  |
+| 11 | **Nowarp** | nowarp.io / github.com/nowarp / x.com/nowarp_io | [Telegram](https://t.me/nowarp_io) [X](https://x.com/nowarp_io) [Site](https://nowarp.io) [GitHub](https://github.com/nowarp) [Gram News](https://gramnews.org/apps/nowarp) |  | 2026-07-13 |  |
 
-## Quiet
+<details><summary><b>Quiet: 22</b></summary>
 
-| # | Project | What it is | Links | Q3 signal | Last seen | On maps |
+| # | Project | What it is | Links | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 12 | Beosin Security | 🛡Beosin Official Telegram Community | [Telegram](https://t.me/beosin) [X](https://x.com/Beosin_com) [Site](https://beosin.com) [Gram News](https://gramnews.org/apps/beosin-security) |  |  |  |
-| 13 | BitOK |  | [Bot](https://t.me/bitok_support) [X](https://x.com/Bitok_org) [GitHub](https://github.com/telegram-bots/BitOk) |  | 2018-12-31 | [ton 25](../archive/2025-07-ton.jpg) |
-| 14 | ChainAware.ai | AI-based Crypto Fraud Detection with a 98% prediction rate | [Bot](https://t.me/ChainAware_Bot) [X](https://x.com/ChainAware) [Site](https://ChainAware.ai) [GitHub](https://github.com/ChainAware/behavioral-prediction-mcp) [Gram News](https://gramnews.org/apps/chainaware-ai) |  | 2026-08-11 |  |
-| 15 | Config44 |  | [Site](https://config44.com) [GitHub](https://github.com/config44) [Gram News](https://gramnews.org/apps/config44) |  | 2026-09-11 |  |
-| 16 | Cryptonite Scanner | TON blockchain token scanner for detecting scam projects | [Telegram](https://t.me/cryptonportal) [Bot](https://t.me/CryptoniteScannerBot) [Site](https://crypton.tools) [Gram News](https://gramnews.org/apps/cryptonite-scanner) |  |  |  |
-| 17 | Decurity |  | [Telegram](https://t.me/defimon_alerts) [X](https://x.com/DecurityHQ) [Site](https://www.decurity.io/) [GitHub](https://github.com/Decurity) [Gram News](https://gramnews.org/apps/decurity) |  | 2026-08-16 |  |
-| 18 | Fuck Scammers |  | [Telegram](https://t.me/fuck_scammers_onTon) [Bot](https://t.me/fuck_scams_bot) [X](https://x.com/Fuck_scams_ton) [Gram News](https://gramnews.org/apps/fuck-scammers) |  |  |  |
-| 19 | Hexens |  | [X](https://x.com/hexensio) [Site](https://hexens.io) [Gram News](https://gramnews.org/apps/hexens) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 20 | JettonTonGuard | TON token analytics: contract, liquidity, holders | [Telegram](https://t.me/JettonTonGuard) [Bot](https://t.me/JettonTonGuard_Bot) [Site](https://app.scriptsnap.site/) [Gram News](https://gramnews.org/apps/jettontonguard) |  |  |  |
-| 21 | QuillAudits | Web3 security research & audits (8+ yrs) | [Telegram](https://t.me/quillaudits_official) [X](https://x.com/quillaudits_ai) [Site](https://quillaudits.com/) [GitHub](https://github.com/Quillhash/QuillAudit_Reports) [Gram News](https://gramnews.org/apps/quillaudits) |  | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
-| 22 | re:doubt |  | [Telegram](https://t.me/uShopWeb) [GitHub](https://github.com/re-doubt) [Gram News](https://gramnews.org/apps/re-doubt) |  | 2025-07-22 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 23 | ScaleBit | MoveBit - The Pioneer in MOVE Security | [Telegram](https://t.me/BitsLabHQ) [X](https://x.com/scalebit_) [Site](https://www.scalebit.xyz) [Gram News](https://gramnews.org/apps/scalebit) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 24 | Scam-detect | Scam-detect. Our mission - your security. | [Bot](https://t.me/scam_detectg_bot) [Gram News](https://gramnews.org/apps/scam-detect) |  |  |  |
-| 25 | Scorechain | Know Your Address / Wallet screening | [Bot](https://t.me/scorechainbot) [X](https://x.com/scorechain) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 26 | Solidity auditor |  | [X](https://x.com/legalkornet) [Site](https://www.legal-kornet.com) [GitHub](https://github.com/Silent47boryara/AuditBadge) [Gram News](https://gramnews.org/apps/solidity-auditor) |  | 2025-11-06 |  |
-| 27 | TokenGuide |  | [Telegram](https://t.me/tokenguidesecurity) [Bot](https://t.me/tokenguide_bot) [X](https://x.com/tokenguideio) [Site](https://tokenguide.io) [Gram News](https://gramnews.org/apps/tokenguide) |  |  |  |
-| 28 | Vidma |  | [Telegram](https://t.me/vidmasecurity) [X](https://x.com/Vidma_security) [Site](https://www.vidma.io) [GitHub](https://github.com/vidma-security) [Gram News](https://gramnews.org/apps/vidma) |  | 2023-06-07 |  |
-| 29 | Web3defender | Web3defender — wallet and link fraud detection | [Telegram](https://t.me/web3defender_alerts) [Bot](https://t.me/web3defender_bot) [Site](https://web3defender.tech) [Gram News](https://gramnews.org/apps/web3defender) |  |  |  |
-| 30 | Spide | IT company in the field of development & cybersecurity. | [Telegram](https://t.me/spide) [Bot](https://t.me/spide_robot) [X](https://x.com/spidesecurity) [Site](https://spide.org) [Gram News](https://gramnews.org/apps/spide) |  | 2025-06-30 |  |
-| 31 | PositiveWeb3 | Web3 Security Research audit.com | [Telegram](https://t.me/positiveweb3) [X](https://x.com/PositiveWeb3) [GitHub](https://github.com/PositiveSecurity) |  | 2026-07-20 | [ton 25](../archive/2025-07-ton.jpg) |
-| 32 | Esprito Protocol | Esprito is an on-chain security analytics company. We offer comprehensive TON analytics… | [Telegram](https://t.me/espritoxyz) [Bot](https://t.me/espritobot) [X](https://x.com/espritoxyz) [Site](https://esprito.com/) [GitHub](https://github.com/espritoxyz) [Gram News](https://gramnews.org/apps/esprito-protocol) |  | 2026-08-30 |  |
-| 33 | Verify |  | [Telegram](https://t.me/verify_ton_ru) [Bot](https://t.me/verify_eng) [Gram News](https://gramnews.org/apps/verify) |  | 2024-08-23 |  |
+| 12 | **Beosin Security** | Beosin Official Telegram Community | [Telegram](https://t.me/beosin) [X](https://x.com/Beosin_com) [Site](https://beosin.com) [Gram News](https://gramnews.org/apps/beosin-security) |  |  |  |
+| 13 | **BitOK** |  | [Bot](https://t.me/bitok_support) [X](https://x.com/Bitok_org) [GitHub](https://github.com/telegram-bots/BitOk) |  | 2018-12-31 | [ton 25](../archive/2025-07-ton.jpg) |
+| 14 | **ChainAware.ai** | AI-based Crypto Fraud Detection with a 98% prediction rate | [Bot](https://t.me/ChainAware_Bot) [X](https://x.com/ChainAware) [Site](https://ChainAware.ai) [GitHub](https://github.com/ChainAware/behavioral-prediction-mcp) [Gram News](https://gramnews.org/apps/chainaware-ai) |  | 2026-08-11 |  |
+| 15 | **Config44** |  | [Site](https://config44.com) [GitHub](https://github.com/config44) [Gram News](https://gramnews.org/apps/config44) |  | 2026-09-11 |  |
+| 16 | **Cryptonite Scanner** | TON blockchain token scanner for detecting scam projects | [Telegram](https://t.me/cryptonportal) [Bot](https://t.me/CryptoniteScannerBot) [Site](https://crypton.tools) [Gram News](https://gramnews.org/apps/cryptonite-scanner) |  |  |  |
+| 17 | **Decurity** |  | [Telegram](https://t.me/defimon_alerts) [X](https://x.com/DecurityHQ) [Site](https://www.decurity.io/) [GitHub](https://github.com/Decurity) [Gram News](https://gramnews.org/apps/decurity) |  | 2026-08-16 |  |
+| 18 | **Fuck Scammers** |  | [Telegram](https://t.me/fuck_scammers_onTon) [Bot](https://t.me/fuck_scams_bot) [X](https://x.com/Fuck_scams_ton) [Gram News](https://gramnews.org/apps/fuck-scammers) |  |  |  |
+| 19 | **Hexens** |  | [X](https://x.com/hexensio) [Site](https://hexens.io) [Gram News](https://gramnews.org/apps/hexens) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 20 | **JettonTonGuard** | TON token analytics: contract, liquidity, holders | [Telegram](https://t.me/JettonTonGuard) [Bot](https://t.me/JettonTonGuard_Bot) [Site](https://app.scriptsnap.site/) [Gram News](https://gramnews.org/apps/jettontonguard) |  |  |  |
+| 21 | **QuillAudits** | Web3 security research & audits (8+ yrs) | [Telegram](https://t.me/quillaudits_official) [X](https://x.com/quillaudits_ai) [Site](https://quillaudits.com/) [GitHub](https://github.com/Quillhash/QuillAudit_Reports) [Gram News](https://gramnews.org/apps/quillaudits) |  | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
+| 22 | **re:doubt** |  | [Telegram](https://t.me/uShopWeb) [GitHub](https://github.com/re-doubt) [Gram News](https://gramnews.org/apps/re-doubt) |  | 2025-07-22 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 23 | **ScaleBit** | MoveBit - The Pioneer in MOVE Security | [Telegram](https://t.me/BitsLabHQ) [X](https://x.com/scalebit_) [Site](https://www.scalebit.xyz) [Gram News](https://gramnews.org/apps/scalebit) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 24 | **Scam-detect** | Scam-detect. Our mission - your security | [Bot](https://t.me/scam_detectg_bot) [Gram News](https://gramnews.org/apps/scam-detect) |  |  |  |
+| 25 | **Scorechain** | Know Your Address / Wallet screening | [Bot](https://t.me/scorechainbot) [X](https://x.com/scorechain) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 26 | **Solidity auditor** |  | [X](https://x.com/legalkornet) [Site](https://www.legal-kornet.com) [GitHub](https://github.com/Silent47boryara/AuditBadge) [Gram News](https://gramnews.org/apps/solidity-auditor) |  | 2025-11-06 |  |
+| 27 | **TokenGuide** |  | [Telegram](https://t.me/tokenguidesecurity) [Bot](https://t.me/tokenguide_bot) [X](https://x.com/tokenguideio) [Site](https://tokenguide.io) [Gram News](https://gramnews.org/apps/tokenguide) |  |  |  |
+| 28 | **Vidma** |  | [Telegram](https://t.me/vidmasecurity) [X](https://x.com/Vidma_security) [Site](https://www.vidma.io) [GitHub](https://github.com/vidma-security) [Gram News](https://gramnews.org/apps/vidma) |  | 2023-06-07 |  |
+| 29 | **Web3defender** | Web3defender — wallet and link fraud detection | [Telegram](https://t.me/web3defender_alerts) [Bot](https://t.me/web3defender_bot) [Site](https://web3defender.tech) [Gram News](https://gramnews.org/apps/web3defender) |  |  |  |
+| 30 | **Spide** | IT company in the field of development & cybersecurity | [Telegram](https://t.me/spide) [Bot](https://t.me/spide_robot) [X](https://x.com/spidesecurity) [Site](https://spide.org) [Gram News](https://gramnews.org/apps/spide) |  | 2025-06-30 |  |
+| 31 | **PositiveWeb3** | Web3 Security Research audit.com | [Telegram](https://t.me/positiveweb3) [X](https://x.com/PositiveWeb3) [GitHub](https://github.com/PositiveSecurity) |  | 2026-07-20 | [ton 25](../archive/2025-07-ton.jpg) |
+| 32 | **Esprito Protocol** | Esprito is an on-chain security analytics company. We offer comprehensive TON analytics… | [Telegram](https://t.me/espritoxyz) [Bot](https://t.me/espritobot) [X](https://x.com/espritoxyz) [Site](https://esprito.com/) [GitHub](https://github.com/espritoxyz) [Gram News](https://gramnews.org/apps/esprito-protocol) |  | 2026-08-30 |  |
+| 33 | **Verify** |  | [Telegram](https://t.me/verify_ton_ru) [Bot](https://t.me/verify_eng) [Gram News](https://gramnews.org/apps/verify) |  | 2024-08-23 |  |
+
+</details>

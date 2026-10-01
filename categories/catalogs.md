@@ -2,24 +2,26 @@
 
 # Catalogues
 
-[Back to the list](../README.md#catalogues). 10 projects: 6 active in Q3 2026, 4 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
+**10 projects: 6 active, 4 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
-| # | Project | What it is | Links | Q3 signal | Last seen | On maps |
+| # | Project | What it is | Links | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | Gram News ✓ | Агрегатор ключевых новостей экосистемы TON. | [Telegram](https://t.me/gramnews) [Site](https://gramnews.org) | 479K views | 2026-10-01 |  |
-| 2 | TON App ✓ |  | [Site](https://ton-game.com) [GitHub](https://github.com/toncenter/ton-wallet) [Gram News](https://gramnews.org/apps/ton) |  | 2025-08-21 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 3 | DYOR.io ✓ |  | [Site](https://dyor.io) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 4 | ton.website ✓ |  | [Site](https://ton.website) |  |  |  |
-| 5 | FindMini.app ✓ | Discover curated selection of the best Telegram Mini Apps | [Telegram](https://t.me/findminiapp) [Site](https://www.findmini.app/) |  | 2026-05-25 | [ton 25](../archive/2025-07-ton.jpg) |
-| 6 | SUPER PLATFORM | 💎 Discover quality platforms worth your attention. | [Bot](https://t.me/yaojingappbot) | mentioned by 6 TON channels in Q3 |  |  |
+| 1 | **Gram News** ✓ | Агрегатор ключевых новостей экосистемы TON | [Telegram](https://t.me/gramnews) [Site](https://gramnews.org) | 479K views | 2026-10-01 |  |
+| 2 | **TON App** ✓ |  | [Site](https://ton-game.com) [GitHub](https://github.com/toncenter/ton-wallet) [Gram News](https://gramnews.org/apps/ton) |  | 2025-08-21 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 3 | **DYOR.io** ✓ |  | [Site](https://dyor.io) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 4 | **ton.website** ✓ |  | [Site](https://ton.website) |  |  |  |
+| 5 | **FindMini.app** ✓ | Discover curated selection of the best Telegram Mini Apps | [Telegram](https://t.me/findminiapp) [Site](https://www.findmini.app/) |  | 2026-05-25 | [ton 25](../archive/2025-07-ton.jpg) |
+| 6 | **SUPER PLATFORM** | Discover quality platforms worth your attention | [Bot](https://t.me/yaojingappbot) | mentioned by 6 TON channels in Q3 |  |  |
 
-## Quiet
+<details><summary><b>Quiet: 4</b></summary>
 
-| # | Project | What it is | Links | Q3 signal | Last seen | On maps |
+| # | Project | What it is | Links | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 7 | Gapps Center | Your Favourite App Center on Telegram gapps.site | [Bot](https://t.me/gappscenter_bot) | mentioned by 4 TON channels in Q3 |  |  |
-| 8 | TON App Center |  | [Telegram](https://t.me/tonappcenterbot) |  |  |  |
-| 9 | Yaya Mini Apps | Yaya community: https://t.me/yaya_gram Dev: @alanchruzh_9 | [Bot](https://t.me/yayaminiapps_bot) | mentioned by 4 TON channels in Q3 |  |  |
-| 10 | Trending Apps | Trending Apps is a community-powered hub spotlighting the most exciting Telegram apps… | [Telegram](https://t.me/trendingapps) |  | 2026-06-22 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 7 | **Gapps Center** | Your Favourite App Center on Telegram gapps.site | [Bot](https://t.me/gappscenter_bot) | mentioned by 4 TON channels in Q3 |  |  |
+| 8 | **TON App Center** |  | [Telegram](https://t.me/tonappcenterbot) |  |  |  |
+| 9 | **Yaya Mini Apps** | Yaya community: Dev | [Bot](https://t.me/yayaminiapps_bot) | mentioned by 4 TON channels in Q3 |  |  |
+| 10 | **Trending Apps** | Trending Apps is a community-powered hub spotlighting the most exciting Telegram apps… | [Telegram](https://t.me/trendingapps) |  | 2026-06-22 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+
+</details>
