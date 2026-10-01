@@ -6,12 +6,12 @@
 
 ## Active
 
-| # | Project | What it is | Links | Activity | Last seen | On maps |
-| ---: | --- | --- | --- | --- | --- | --- |
-| 1 | **Storm Trade** ✓ | Storm Trade — leveraged DEX in Telegram for trading on TON | [Telegram](https://t.me/storm_trade_news) [Bot](https://t.me/StormTradeBot) [X](https://x.com/storm_trade_ton) [Site](https://storm.tg/) [Gram News](https://gramnews.org/apps/storm-trade) | 45K views | 2026-09-28 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 2 | **Tradoor** ✓ | Tradoor is a decentralized exchange for trading options and perpetual futures on TON | [Telegram](https://t.me/tradoor_io) [Bot](https://t.me/tradoor_io_bot) [X](https://x.com/tradoor_io) [Site](https://tradoor.io) [GitHub](https://github.com/TonTradoor) [Gram News](https://gramnews.org/apps/tradoor) | 19K views | 2026-10-01 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 3 | **WenLong** ✓ | Trade Hyperliquid perps right inside Telegram. Deposit from your TON wallet — no KYC, no… | [Telegram](https://t.me/wenlongnews) [Bot](https://t.me/whenlongbot) | 6K views | 2026-09-20 |  |
-| 4 | **Hyperliquid** |  | [Site](https://hyperliquid.xyz) |  |  |  |
-| 5 | **Vooi App** | Join VOOI - Trade, Arbitrage, Earn Rewards / Unlock trading | [Telegram](https://t.me/vooi_app) [Bot](https://t.me/vooiappbot) [Gram News](https://gramnews.org/apps/vooi-app) | 24K views | 2026-09-16 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 6 | **Aster** |  | [Site](https://www.asterdex.com) |  |  |  |
-| 7 | **Lighter** |  | [Site](https://lighter.xyz) |  |  |  |
+| # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
+| ---: | --- | --- | --- | --- | --- | --- | --- |
+| 1 | **Storm Trade** ✓ | Storm Trade — leveraged DEX in Telegram for trading on TON | [Telegram](https://t.me/storm_trade_news) [Bot](https://t.me/StormTradeBot) [X](https://x.com/storm_trade_ton) [Site](https://storm.tg/) [Gram News](https://gramnews.org/apps/storm-trade) | 2023-07-05 | 45K views | 2026-09-28 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 2 | **Tradoor** ✓ | Tradoor is a decentralized exchange for trading options and perpetual futures on TON | [Telegram](https://t.me/tradoor_io) [Bot](https://t.me/tradoor_io_bot) [X](https://x.com/tradoor_io) [Site](https://tradoor.io) [GitHub](https://github.com/TonTradoor) [Gram News](https://gramnews.org/apps/tradoor) | 2024-01-03 | 19K views | 2026-10-01 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 3 | **WenLong** ✓ | Trade Hyperliquid perps right inside Telegram. Deposit from your TON wallet — no KYC, no… | [Telegram](https://t.me/wenlongnews) [Bot](https://t.me/whenlongbot) | 2024-09-20 | 6K views | 2026-09-20 |  |
+| 4 | **Hyperliquid** |  | [Site](https://hyperliquid.xyz) | 2022-10-15 |  |  |  |
+| 5 | **Vooi App** | Join VOOI - Trade, Arbitrage, Earn Rewards / Unlock trading | [Telegram](https://t.me/vooi_app) [Bot](https://t.me/vooiappbot) [Gram News](https://gramnews.org/apps/vooi-app) | 2024-04-16 | 24K views | 2026-09-16 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 6 | **Aster** |  | [Site](https://www.asterdex.com) | 2025-03-14 |  |  |  |
+| 7 | **Lighter** |  | [Site](https://lighter.xyz) | 2025-10 |  |  |  |

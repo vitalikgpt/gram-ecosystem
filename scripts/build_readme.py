@@ -92,11 +92,11 @@ def seen_in(r, prefix=""):
 
 
 def table(items, prefix=""):
-    out = ["| # | Project | What it is | Links | Activity | Last seen | On maps |",
-           "| ---: | --- | --- | --- | --- | --- | --- |"]
+    out = ["| # | Project | What it is | Links | Launched | Activity | Last seen | On maps |",
+           "| ---: | --- | --- | --- | --- | --- | --- | --- |"]
     for r in items:
         name = f"**{cell(r['name'])}**" + (" ✓" if r["native"] == "1" else "")
-        out.append(f"| {r['rank']} | {name} | {short(r['description'])} | {links(r)} | {activity(r)} | {last_seen(r)} | {seen_in(r, prefix)} |")
+        out.append(f"| {r['rank']} | {name} | {short(r['description'])} | {links(r)} | {r.get('launched', '')} | {activity(r)} | {last_seen(r)} | {seen_in(r, prefix)} |")
     return out
 
 
@@ -186,6 +186,7 @@ def build():
         "",
         "- **Status** is measured, not judged: `active`, `quiet` or `closed`.",
         "- **Last seen** is the latest post on the project's own channel, or its latest commit.",
+        "- **Launched** is when the project started or came to TON; `launched_source` says how the date was found.",
         "- **✓** marks projects built for TON, as opposed to global brands and multi-chain services.",
         "- **On maps** links to the ecosystem maps the project appeared on since 2022.",
         "",
@@ -223,7 +224,7 @@ def build():
         "| File | What is in it |",
         "| --- | --- |",
         f"| [data/projects.csv](data/projects.csv) | {len(rows):,} projects, one per row |",
-        f"| [data/channels.csv](data/channels.csv) | {len(chans):,} channels about TON that are not a project's own, with language, theme, posts and views |",
+        f"| [data/channels.csv](data/channels.csv) | {len(chans):,} channels about TON that are not a project's own, with language, theme, creation date, posts and views |",
         "| [data/categories.json](data/categories.json) | categories in display order |",
         f"| [data/link-fixes.csv](data/link-fixes.csv) | {len(fixes):,} link decisions (replaced, removed, confirmed) with evidence |",
         f"| [data/unresolved.csv](data/unresolved.csv) | {len(unresolved)} names from old maps not tied to a project yet |",
@@ -232,8 +233,28 @@ def build():
         "<details><summary><b>Columns of projects.csv</b></summary>",
         "",
         "`category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, "
-        "`github`, `gramnews` (the project's card on gramnews.org), `last_post`, `last_commit`, `launched`, `subscribers`, "
+        "`github`, `gramnews` (the project's card on gramnews.org), `last_post`, `last_commit`, `launched`, `launched_source`, `subscribers`, "
         "`reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.",
+        "",
+        "</details>",
+        "",
+        "<details><summary><b>How launch dates are found</b></summary>",
+        "",
+        "Every project has a `launched` date: when it started, or when an existing company came to TON. "
+        "Precision is `YYYY-MM-DD`, `YYYY-MM` for estimates, or `YYYY` when only the year is known. "
+        "The earliest of these signals wins, and `launched_source` names it:",
+        "",
+        "- its own channel was created (post number one on t.me), or its bot was first mentioned in another channel, "
+        "from an archive of 530 million Telegram posts since 2015;",
+        "- the jetton was minted, the GitHub repository was created, the protocol was listed on DefiLlama;",
+        "- an existing company came to TON: the first post on its own channel that names TON, when that is half a year or more after launch;",
+        "- a catalogue listing: the Gram News library, or the month estimated from a project's number in the ton.app or DYOR catalogue "
+        "(median error 46 days);",
+        "- otherwise a lower bound, worded as such: the earliest ecosystem map, commit or post that shows the project already existed;"
+        " and, as a last resort, the X account or the domain registration.",
+        "",
+        "For games, farming, NFT, casinos and memepads, dates before January 2018 are ignored when a later signal exists: "
+        "they belong to an older channel or a username taken over.",
         "",
         "</details>",
         "",

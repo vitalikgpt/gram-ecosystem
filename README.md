@@ -72,6 +72,7 @@ By reach: post views on the project's own channel from July to September 2026, o
 
 - **Status** is measured, not judged: `active`, `quiet` or `closed`.
 - **Last seen** is the latest post on the project's own channel, or its latest commit.
+- **Launched** is when the project started or came to TON; `launched_source` says how the date was found.
 - **✓** marks projects built for TON, as opposed to global brands and multi-chain services.
 - **On maps** links to the ecosystem maps the project appeared on since 2022.
 
@@ -115,7 +116,7 @@ The `sources` column lists every place a project was found:
 | File | What is in it |
 | --- | --- |
 | [data/projects.csv](data/projects.csv) | 3,184 projects, one per row |
-| [data/channels.csv](data/channels.csv) | 685 channels about TON that are not a project's own, with language, theme, posts and views |
+| [data/channels.csv](data/channels.csv) | 685 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
 | [data/categories.json](data/categories.json) | categories in display order |
 | [data/link-fixes.csv](data/link-fixes.csv) | 1,356 link decisions (replaced, removed, confirmed) with evidence |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
@@ -123,7 +124,21 @@ The `sources` column lists every place a project was found:
 
 <details><summary><b>Columns of projects.csv</b></summary>
 
-`category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `github`, `gramnews` (the project's card on gramnews.org), `last_post`, `last_commit`, `launched`, `subscribers`, `reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.
+`category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `github`, `gramnews` (the project's card on gramnews.org), `last_post`, `last_commit`, `launched`, `launched_source`, `subscribers`, `reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.
+
+</details>
+
+<details><summary><b>How launch dates are found</b></summary>
+
+Every project has a `launched` date: when it started, or when an existing company came to TON. Precision is `YYYY-MM-DD`, `YYYY-MM` for estimates, or `YYYY` when only the year is known. The earliest of these signals wins, and `launched_source` names it:
+
+- its own channel was created (post number one on t.me), or its bot was first mentioned in another channel, from an archive of 530 million Telegram posts since 2015;
+- the jetton was minted, the GitHub repository was created, the protocol was listed on DefiLlama;
+- an existing company came to TON: the first post on its own channel that names TON, when that is half a year or more after launch;
+- a catalogue listing: the Gram News library, or the month estimated from a project's number in the ton.app or DYOR catalogue (median error 46 days);
+- otherwise a lower bound, worded as such: the earliest ecosystem map, commit or post that shows the project already existed; and, as a last resort, the X account or the domain registration.
+
+For games, farming, NFT, casinos and memepads, dates before January 2018 are ignored when a later signal exists: they belong to an older channel or a username taken over.
 
 </details>
 

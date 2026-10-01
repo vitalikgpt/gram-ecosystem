@@ -28,9 +28,13 @@ for i, r in enumerate(csv.DictReader(open("data/projects.csv", encoding="utf-8")
         errors.append(f"{where}: status must be one of {sorted(STATUS)}")
     if r["on_map"] not in ("0", "1"):
         errors.append(f"{where}: on_map must be 0 or 1")
-    for k in ("last_post", "last_commit", "launched"):
+    for k in ("last_post", "last_commit"):
         if r[k] and not DATE.fullmatch(r[k]):
             errors.append(f"{where}: {k} must be YYYY-MM-DD")
+    if r.get("launched") and not re.fullmatch(r"\d{4}(-\d{2}(-\d{2})?)?", r["launched"]):
+        errors.append(f"{where}: launched must be YYYY, YYYY-MM or YYYY-MM-DD")
+    if r.get("launched") and not r.get("launched_source"):
+        errors.append(f"{where}: launched needs launched_source")
     for k in ("subscribers", "mau", "reach_q3", "views_q3", "posts_q3"):
         if r.get(k) and not re.fullmatch(r"\d+", r[k]):
             errors.append(f"{where}: {k} must be a whole number")
@@ -62,6 +66,9 @@ for i, f in enumerate(csv.DictReader(open("data/link-fixes.csv", encoding="utf-8
 for i, r in enumerate(csv.DictReader(open("data/unresolved.csv", encoding="utf-8")), start=2):
     if not r["name"].strip() or not r["seen_on"].strip():
         errors.append(f"data/unresolved.csv:{i}: name and seen_on are required")
+for i, r in enumerate(csv.DictReader(open("data/channels.csv", encoding="utf-8")), start=2):
+    if r.get("created") and not re.fullmatch(r"\d{4}(-\d{2}(-\d{2})?)?", r["created"]):
+        errors.append(f"data/channels.csv:{i}: created must be YYYY, YYYY-MM or YYYY-MM-DD")
 for i, r in enumerate(csv.DictReader(open("data/channels.csv", encoding="utf-8")), start=2):
     if not re.fullmatch(r"https://t\.me/[A-Za-z0-9_]{4,}", r["telegram"]):
         errors.append(f"data/channels.csv:{i}: telegram must look like https://t.me/username")
