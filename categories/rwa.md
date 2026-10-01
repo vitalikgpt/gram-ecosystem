@@ -17,7 +17,7 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 5 | Diamore |  | [Telegram](https://t.me/diamoremarket) [Bot](https://t.me/diamorecryptobot) [X](https://x.com/diamore_market) [Site](https://diamore.co) |  |  |  |
+| 5 | Diamore |  | [Telegram](https://t.me/diamoremarket) [Bot](https://t.me/diamorecryptobot) [X](https://x.com/diamore_market) [Site](https://diamore.co) |  | 2025-11-26 |  |
 | 6 | SOLARIAN TECH |  | [Bot](https://t.me/solariantechbot) |  |  |  |
 | 7 | TokenizeTrade |  | [Telegram](https://t.me/tokenizetrade) [Bot](https://t.me/tokenizetradebot) [X](https://x.com/tokenizetrade) [Site](https://www.tokenize.trade) |  |  |  |
 | 8 | Aqua Protocol |  | [Telegram](https://t.me/aquaprotocolxyz) [X](https://x.com/aquaprotocolxyz) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |

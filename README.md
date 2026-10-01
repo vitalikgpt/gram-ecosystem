@@ -6,9 +6,9 @@ A library of Gram (TON) and core Telegram projects, grouped by what they do, wit
 
 <a href="reports/2026-q3/poster-en-4k.png"><img src="reports/2026-q3/poster-en.png" alt="TON ecosystem, Q3 2026" width="100%"></a>
 
-**3196 projects in 32 categories: 832 active in Q3 2026, 2333 quiet, 31 closed.** 388 of the active ones are on the [Gram News map for Q3 2026](reports/2026-q3) ([article with interactive leaderboards](https://gramnews.org/articles/ton-ecosystem-map-q3-2026)). Plus 685 channels about TON and an [archive of 19 ecosystem maps](archive) by other authors, 2022 to 2026.
+**3196 projects in 32 categories: 931 active in Q3 2026, 2234 quiet, 31 closed.** 388 of the active ones are on the [Gram News map for Q3 2026](reports/2026-q3) ([article with interactive leaderboards](https://gramnews.org/articles/ton-ecosystem-map-q3-2026)). Plus 685 channels about TON and an [archive of 19 ecosystem maps](archive) by other authors, 2022 to 2026.
 
-Every link here is checked. [1103 links need a look](reports/link-check.md) (a wrong account, a dead page, or a name that does not match), and [220 names from older maps](data/unresolved.csv) still need a project to point to. Those two lists are the best place to start contributing. So far 933 links have been replaced or removed and 74 confirmed, each with its evidence, in [data/link-fixes.csv](data/link-fixes.csv).
+Every link here is checked. [1103 links need a look](reports/link-check.md) (a wrong account, a dead page, or a name that does not match), and [220 names from older maps](data/unresolved.csv) still need a project to point to. Those two lists are the best place to start contributing. So far 934 links have been replaced or removed and 74 confirmed, each with its evidence, in [data/link-fixes.csv](data/link-fixes.csv).
 
 ## Contents
 
@@ -16,13 +16,13 @@ Every link here is checked. [1103 links need a look](reports/link-check.md) (a w
 - [Status](#status)
 - [CEX](#cex): 45 active, 83 in all
 - [Custodial](#custodial): 5 active, 5 in all
-- [Wallets](#wallets): 31 active, 107 in all
+- [Wallets](#wallets): 33 active, 107 in all
 - [DEX](#dex): 15 active, 67 in all
-- [Payments](#payments): 23 active, 64 in all
+- [Payments](#payments): 27 active, 64 in all
 - [On-ramp](#on-ramp): 9 active, 15 in all
-- [Infra](#infra): 24 active, 31 in all
+- [Infra](#infra): 25 active, 31 in all
 - [Developer tools](#developer-tools): 15 active, 100 in all
-- [Analytics](#analytics): 27 active, 112 in all
+- [Analytics](#analytics): 31 active, 112 in all
 - [Explorers](#explorers): 6 active, 13 in all
 - [Security](#security): 11 active, 33 in all
 - [Bridges](#bridges): 11 active, 19 in all
@@ -32,20 +32,20 @@ Every link here is checked. [1103 links need a look](reports/link-check.md) (a w
 - [RWA](#rwa): 4 active, 9 in all
 - [NASDAQ](#nasdaq): 2 active, 2 in all
 - [Catalogues](#catalogues): 6 active, 10 in all
-- [Privacy](#privacy): 9 active, 28 in all
+- [Privacy](#privacy): 10 active, 28 in all
 - [NFT collections](#nft-collections): 5 active, 5 in all
 - [Tokens](#tokens): 44 active, 114 in all
-- [NFT & Gifts](#nft--gifts): 64 active, 236 in all
-- [Memepads](#memepads): 13 active, 76 in all
-- [Trading bots](#trading-bots): 16 active, 36 in all
+- [NFT & Gifts](#nft--gifts): 84 active, 236 in all
+- [Memepads](#memepads): 16 active, 76 in all
+- [Trading bots](#trading-bots): 20 active, 36 in all
 - [Social](#social): 19 active, 106 in all
 - [AI](#ai): 14 active, 38 in all
-- [Tools](#tools): 24 active, 76 in all
-- [Shopping](#shopping): 4 active, 32 in all
+- [Tools](#tools): 25 active, 76 in all
+- [Shopping](#shopping): 5 active, 32 in all
 - [Education](#education): 4 active, 26 in all
-- [Games](#games): 98 active, 751 in all
-- [Farming](#farming): 220 active, 766 in all
-- [Casino](#casino): 33 active, 175 in all
+- [Games](#games): 118 active, 751 in all
+- [Farming](#farming): 246 active, 766 in all
+- [Casino](#casino): 45 active, 175 in all
 - [Channels](#channels)
 - [Data files](#data-files)
 - [Contributing](#contributing)
@@ -87,18 +87,18 @@ Within a category, projects on the map come first in map order, then active ones
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | Binance |  | [Telegram](https://t.me/binance_announcements) [Site](https://www.binance.com) | 15.8M views | 2026-09-30 | [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) |
-| 2 | Bybit |  | [Telegram](https://t.me/bybit_announcements) [Site](https://www.bybit.com) | 2.2M views | 2026-09-30 | [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) |
-| 3 | OKX |  | [Telegram](https://t.me/okxannouncements) [Site](https://www.okx.com) | 552K views | 2026-09-30 | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) |
-| 4 | Bitget |  | [Telegram](https://t.me/bitget_announcements) [X](https://x.com/bitget) [Site](https://www.bitget.com) | 8.6M views | 2026-09-30 | [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) |
+| 1 | Binance |  | [Telegram](https://t.me/binance_announcements) [Site](https://www.binance.com) | 15.8M views | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) |
+| 2 | Bybit |  | [Telegram](https://t.me/bybit_announcements) [Site](https://www.bybit.com) | 2.2M views | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) |
+| 3 | OKX |  | [Telegram](https://t.me/okxannouncements) [Site](https://www.okx.com) | 552K views | 2026-10-01 | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) |
+| 4 | Bitget |  | [Telegram](https://t.me/bitget_announcements) [X](https://x.com/bitget) [Site](https://www.bitget.com) | 8.6M views | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) |
 | 5 | Coinbase |  | [Site](https://www.coinbase.com) |  |  |  |
 | 6 | Revolut |  | [Site](https://www.revolut.com) |  |  | [ton 25](archive/2025-07-ton.jpg) |
-| 7 | HTX |  | [Telegram](https://t.me/htx_announcements) [X](https://x.com/TobbotTon) [Site](https://www.htx.com) | 865K views | 2026-09-30 | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) |
-| 8 | KuCoin |  | [Telegram](https://t.me/kucoin_news) [X](https://x.com/KuCoinCom) [Site](https://www.kucoin.com) [GitHub](https://github.com/qutoncash) | 2M views | 2026-09-30 | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) |
-| 9 | MEXC |  | [Telegram](https://t.me/mexcofficialnews) [X](https://x.com/mexc) [Site](https://www.mexc.com) | 798K views | 2026-09-30 | [ton 25](archive/2025-07-ton.jpg) |
+| 7 | HTX |  | [Telegram](https://t.me/htx_announcements) [X](https://x.com/TobbotTon) [Site](https://www.htx.com) | 865K views | 2026-10-01 | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) |
+| 8 | KuCoin |  | [Telegram](https://t.me/kucoin_news) [X](https://x.com/KuCoinCom) [Site](https://www.kucoin.com) [GitHub](https://github.com/qutoncash) | 2M views | 2026-10-01 | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) |
+| 9 | MEXC |  | [Telegram](https://t.me/mexcofficialnews) [X](https://x.com/mexc) [Site](https://www.mexc.com) | 798K views | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) |
 | 10 | bitFlyer |  | [Site](https://bitflyer.com) |  |  |  |
-| 11 | wallex |  | [Telegram](https://t.me/wallexchange) [X](https://x.com/Wallex_ir) [Site](https://wallex.ir) | 1.9M views | 2026-09-30 |  |
-| 12 | اوکی اکسچنج |  | [Telegram](https://t.me/okexir) [Bot](https://t.me/tonairdropfa_bot) [X](https://x.com/okexir) [Site](https://ok-ex.io/) | 1.8M views | 2026-09-30 |  |
+| 11 | wallex |  | [Telegram](https://t.me/wallexchange) [X](https://x.com/Wallex_ir) [Site](https://wallex.ir) | 1.9M views | 2026-10-01 |  |
+| 12 | اوکی اکسچنج |  | [Telegram](https://t.me/okexir) [Bot](https://t.me/tonairdropfa_bot) [X](https://x.com/okexir) [Site](https://ok-ex.io/) | 1.8M views | 2026-10-01 |  |
 
 [All 83 projects in CEX](categories/exchanges.md): 45 active, 37 quiet, 1 closed.
 
@@ -106,11 +106,11 @@ Within a category, projects on the map come first in map order, then active ones
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | @Walt ✓ | Crypto wallet for sending and buying USDT, gold, bitcoin, and other tokens. | [Telegram](https://t.me/walt_news) [Bot](https://t.me/walt) [Site](https://walt.app) | 8M views | 2026-09-29 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) |
+| 1 | @Walt ✓ | Crypto wallet for sending and buying USDT, gold, bitcoin, and other tokens. | [Telegram](https://t.me/walt_news) [Bot](https://t.me/walt) [Site](https://walt.app) | 8M views | 2026-10-01 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) |
 | 2 | @Send ✓ | Crypto Bot is a wallet for buying, selling, and storing cryptocurrency in Telegram. | [Telegram](https://t.me/cryptobotru) [Bot](https://t.me/send) [X](https://x.com/CryptoBotHQ) [GitHub](https://github.com/cryptopay-dev) | 1.5M views, 1.4M MAU | 2026-09-30 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
-| 3 | @XRocket ✓ | xRocket is a wallet and crypto exchange inside Telegram | [Telegram](https://t.me/xrocketnews) [Bot](https://t.me/xrocket) [X](https://x.com/xRocket_tg) [Site](https://xrocket.exchange) | 115K views, 515K MAU | 2026-09-25 | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
+| 3 | @XRocket ✓ | xRocket is a wallet and crypto exchange inside Telegram | [Telegram](https://t.me/xrocketnews) [Bot](https://t.me/xrocket) [X](https://x.com/xRocket_tg) [Site](https://xrocket.exchange) | 115K views, 515K MAU | 2026-10-01 | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
 | 4 | Spell Wallet ✓ |  | [Telegram](https://t.me/spell_wallet) [Bot](https://t.me/spell_wallet_bot) [X](https://x.com/spell_club) [Site](https://spellwallet.io/) | 211K views | 2026-08-01 | [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
-| 5 | Cwallet | Cwallet is a crypto wallet for managing and swapping over 800 assets. | [Telegram](https://t.me/cctipnews) [X](https://x.com/Cwalletofficial) [Site](https://cwallet.com/) | 35K MAU |  |  |
+| 5 | Cwallet | Cwallet is a crypto wallet for managing and swapping over 800 assets. | [Telegram](https://t.me/cctipnews) [X](https://x.com/Cwalletofficial) [Site](https://cwallet.com/) | 35K MAU | 2024-10-22 |  |
 
 [All 5 projects in Custodial](categories/custodial.md): 5 active, 0 quiet, 0 closed.
 
@@ -119,36 +119,36 @@ Within a category, projects on the map come first in map order, then active ones
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | Gram Wallet ✓ | A non-custodial Gram wallet built into Telegram itself: the owner holds the keys, and… | [Site](https://gramwallet.io) |  |  |  |
-| 2 | Keeper ✓ | Tonkeeper is a wallet. It allows managing TON and contacting support. | [Telegram](https://t.me/keeper_en) [Bot](https://t.me/tonkeeper) [X](https://x.com/tonkeeper) [Site](https://tonkeeper.page.link/LFgS) [GitHub](https://github.com/tonkeeper/tonkeeper-web) | 3.8M views, 34K MAU | 2026-09-28 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) [messari 26](archive/2026-05-messari.jpg) |
+| 2 | Keeper ✓ | Tonkeeper is a wallet. It allows managing TON and contacting support. | [Telegram](https://t.me/keeper_en) [Bot](https://t.me/tonkeeper) [X](https://x.com/tonkeeper) [Site](https://tonkeeper.page.link/LFgS) [GitHub](https://github.com/tonkeeper/tonkeeper-web) | 3.8M views, 34K MAU | 2026-10-01 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 3 | My Wallet ✓ |  | [Telegram](https://t.me/mywalleteng) [Bot](https://t.me/mytonwalletbot) [X](https://x.com/mywallet_io) [Site](https://mytonwallet.io) [GitHub](https://github.com/mytonwalletorg) | 201K views | 2026-09-25 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) [messari 26](archive/2026-05-messari.jpg) |
-| 4 | Tonhub ✓ |  | [Telegram](https://t.me/tonhub) [Bot](https://t.me/jettonvotebot) [Site](https://tonhub.com/dl) |  |  | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
+| 4 | Tonhub ✓ |  | [Telegram](https://t.me/tonhub) [Bot](https://t.me/jettonvotebot) [Site](https://tonhub.com/dl) |  | 2026-04-09 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 5 | Trust Wallet |  | [Telegram](https://t.me/trust_announcements) [X](https://x.com/trustwallet) [Site](https://trustwallet.com) [GitHub](https://github.com/trustwallet) | 1.4M views | 2026-10-01 | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) |
 | 6 | Bitget Wallet | Bitget Wallet is a crypto wallet for everyday finance. | [Telegram](https://t.me/bitget_wallet) [Bot](https://t.me/bitgetofficialbot) [X](https://x.com/BitgetWallet) [Site](https://web3.bitget.com/) [GitHub](https://github.com/bitgetwallet/download) | 34K MAU | 2025-12-11 |  |
 | 7 | OKX Wallet |  | [Site](https://web3.okx.com) |  |  |  |
 | 8 | Binance Wallet |  | [Site](https://www.binance.com/en/web3wallet) |  |  |  |
 | 9 | Bybit Wallet |  | [Site](https://www.bybit.com/en/web3) |  |  |  |
 | 10 | SafePal |  | [Telegram](https://t.me/safepal_official) [X](https://x.com/SafePal) [Site](https://www.safepal.com) [GitHub](https://github.com/SafePalWallet) | 109K views | 2026-09-24 | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) |
-| 11 | Tangem |  | [Telegram](https://t.me/tangem) [Site](https://tangem.com) [GitHub](https://github.com/tangem) | 327K views | 2026-09-30 | [ton 25](archive/2025-07-ton.jpg) |
+| 11 | Tangem |  | [Telegram](https://t.me/tangem) [Site](https://tangem.com) [GitHub](https://github.com/tangem) | 327K views | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) |
 | 12 | Ledger |  | [Site](https://www.ledger.com) |  |  | [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) |
 
-[All 107 projects in Wallets](categories/wallets.md): 31 active, 74 quiet, 2 closed.
+[All 107 projects in Wallets](categories/wallets.md): 33 active, 72 quiet, 2 closed.
 
 ## DEX
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | STON.fi ✓ | STON.fi — swap tokens across TON, EVM, and TRON in one interface | [Telegram](https://t.me/stonfidex) [Bot](https://t.me/ston_fi) [X](https://x.com/ston_fi) [Site](https://ston.fi) [GitHub](https://github.com/ston-fi) | 425K views | 2026-09-30 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) [messari 26](archive/2026-05-messari.jpg) |
-| 2 | STON.fi Bot ✓ |  | [Telegram](https://t.me/stonfidex) [Bot](https://t.me/stonfi_bot) [X](https://x.com/ston_fi) [Site](https://app.ston.fi) [GitHub](https://github.com/ston-fi) | 425K views, 27K MAU | 2026-09-30 |  |
-| 3 | DeDust ✓ | Decentralized exchange on TON | [Telegram](https://t.me/dedust_en) [Bot](https://t.me/dedustBot) [X](https://x.com/dedust_io) [Site](https://dedust.io) [GitHub](https://github.com/dedust-io) |  | 2026-05-07 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
+| 1 | STON.fi ✓ | STON.fi — swap tokens across TON, EVM, and TRON in one interface | [Telegram](https://t.me/stonfidex) [Bot](https://t.me/ston_fi) [X](https://x.com/ston_fi) [Site](https://ston.fi) [GitHub](https://github.com/ston-fi) | 425K views | 2026-10-01 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) [messari 26](archive/2026-05-messari.jpg) |
+| 2 | STON.fi Bot ✓ |  | [Telegram](https://t.me/stonfidex) [Bot](https://t.me/stonfi_bot) [X](https://x.com/ston_fi) [Site](https://app.ston.fi) [GitHub](https://github.com/ston-fi) | 425K views, 27K MAU | 2026-10-01 |  |
+| 3 | DeDust ✓ | Decentralized exchange on TON | [Telegram](https://t.me/dedust_en) [Bot](https://t.me/dedustBot) [X](https://x.com/dedust_io) [Site](https://dedust.io) [GitHub](https://github.com/dedust-io) |  | 2026-06-15 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 4 | swap.coffee ✓ |  | [Telegram](https://t.me/swap_coffee) [Bot](https://t.me/swapcoffeebot) [X](https://x.com/swap_coffee_ton) [Site](https://swap.coffee/dex) | 4K views | 2026-08-12 | [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) |
 | 5 | TONCO ✓ | TONCO — a decentralized exchange on TON with concentrated liquidity | [Telegram](https://t.me/tonco_io) [Bot](https://t.me/tonco_io_bot) [X](https://x.com/tonco_io) [Site](https://tonco.io) [GitHub](https://github.com/cryptoalgebra/tonco-demo) | 2K views | 2026-09-17 | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 6 | Torch Finance ✓ |  | [Bot](https://t.me/torch_finance_bot) [Site](https://torch.finance) [GitHub](https://github.com/torch-core) |  | 2026-06-30 | [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 7 | Megaton Finance ✓ |  | [Site](https://megaton.fi) [GitHub](https://github.com/megaton-fi) |  | 2023-03-03 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 8 | Brivox | Brivox is built specifically for the future of decentralized finance. | [Bot](https://t.me/brivoxwbe3_bot) | mentioned by 9 TON channels in Q3 |  |  |
-| 9 | CoffinMeme | CoffinMeme is a mini app for fighting "shitcoins" on TON. | [Telegram](https://t.me/coffin_en) [Bot](https://t.me/memecoffin_bot) [Site](https://coffin.meme) | TVL $23K |  |  |
-| 10 | BiniChain DEX App | Created by Binibit.com | [Telegram](https://t.me/binibitnews) [Bot](https://t.me/binichain_bot) | mentioned by 9 TON channels in Q3 |  |  |
-| 11 | TON Hedge |  | [Telegram](https://t.me/ton_hedge) [Bot](https://t.me/ton_hedge_bot) [X](https://x.com/tonhedge) | TVL $25K |  | [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
-| 12 | Simple swap |  | [Telegram](https://t.me/just_a_simple_coin) [Bot](https://t.me/SwapSCBot) [X](https://x.com/SimpleCoin_Move) [Site](https://simple-coin.xyz/) | 251 views | 2026-07-07 |  |
+| 9 | Rebor | Rebor is a bot for trading tokens on a decentralized exchange. | [Telegram](https://t.me/ReborCoin) [Bot](https://t.me/ReborCoinBot) [X](https://x.com/Reborcoin) [Site](https://rebor.xyz) | 282K MAU | 2026-07-10 |  |
+| 10 | CoffinMeme | CoffinMeme is a mini app for fighting "shitcoins" on TON. | [Telegram](https://t.me/coffin_en) [Bot](https://t.me/memecoffin_bot) [Site](https://coffin.meme) | TVL $23K | 2025-04-11 |  |
+| 11 | BiniChain DEX App | Created by Binibit.com | [Telegram](https://t.me/binibitnews) [Bot](https://t.me/binichain_bot) | mentioned by 9 TON channels in Q3 | 2026-09-29 |  |
+| 12 | TON Hedge |  | [Telegram](https://t.me/ton_hedge) [Bot](https://t.me/ton_hedge_bot) [X](https://x.com/tonhedge) | TVL $25K | 2025-06-16 | [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
 
 [All 67 projects in DEX](categories/dex.md): 15 active, 50 quiet, 2 closed.
 
@@ -157,30 +157,30 @@ Within a category, projects on the map come first in map order, then active ones
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | Wallet Pay ✓ |  | [Site](https://pay.wallet.tg) |  |  | [ton 25](archive/2025-07-ton.jpg) |
-| 2 | @Tribute ✓ | A service for Telegram creators to monetize content through subscriptions, donations,… | [Telegram](https://t.me/tributenewsen) [Bot](https://t.me/tribute) [Site](https://tribute.tg/) | 142K views, 1.8M MAU | 2026-09-30 | [ton 25](archive/2025-07-ton.jpg) |
+| 2 | @Tribute ✓ | A service for Telegram creators to monetize content through subscriptions, donations,… | [Telegram](https://t.me/tributenewsen) [Bot](https://t.me/tribute) [Site](https://tribute.tg/) | 142K views, 1.8M MAU | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) |
 | 3 | Cryptomus |  | [X](https://x.com/cryptomus) [Site](https://cryptomus.com/) |  |  | [ton 25](archive/2025-07-ton.jpg) |
 | 4 | NOWPayments |  | [X](https://x.com/NOWPayments_io) [Site](https://nowpayments.io/) |  |  | [ton 25](archive/2025-07-ton.jpg) |
-| 5 | 0xProcessing |  | [Telegram](https://t.me/oxprocessing) [X](https://x.com/0Xprocessing) [Site](https://0xprocessing.com) | 31K views | 2026-09-29 |  |
+| 5 | 0xProcessing |  | [Telegram](https://t.me/oxprocessing) [X](https://x.com/0Xprocessing) [Site](https://0xprocessing.com) | 31K views | 2026-10-01 |  |
 | 6 | Heleket | A payment gateway for accepting crypto, TON included, on a website or in a Telegram bot,… | [Telegram](https://t.me/heleket) [Site](https://heleket.com) | 6K views | 2026-09-10 |  |
-| 7 | Antarctic Wallet ✓ | Antarctic Wallet – первый полностью легальный и лицензированный криптокошелёк, созданный… | [Telegram](https://t.me/antarcticwallet) [Bot](https://t.me/antarctic_wallet_bot) | 154K MAU |  |  |
+| 7 | Antarctic Wallet ✓ | Antarctic Wallet – первый полностью легальный и лицензированный криптокошелёк, созданный… | [Telegram](https://t.me/antarcticwallet) [Bot](https://t.me/antarctic_wallet_bot) | 154K MAU | 2026-10-01 |  |
 | 8 | Altyn Wallet ✓ |  | [Bot](https://t.me/altyn_wallet_bot) | 84K MAU |  |  |
 | 9 | @Hoton ✓ |  | [Bot](https://t.me/hoton) |  |  |  |
-| 10 | TON Pay ✓ |  | [Telegram](https://t.me/tonpay_official) [Bot](https://t.me/tonpay) [Site](https://ton.org/en/pay) |  |  | [messari 26](archive/2026-05-messari.jpg) |
+| 10 | TON Pay ✓ |  | [Telegram](https://t.me/tonpay_official) [Bot](https://t.me/tonpay) [Site](https://ton.org/en/pay) |  | 2025-01-09 | [messari 26](archive/2026-05-messari.jpg) |
 | 11 | xStocks |  | [Site](https://xstocks.fi) |  |  | [messari 26](archive/2026-05-messari.jpg) |
 | 12 | Mops Stars / Купить Звёзды |  | [Bot](https://t.me/mopsstarsbot) | 155K MAU |  |  |
 
-[All 64 projects in Payments](categories/payments.md): 23 active, 40 quiet, 1 closed.
+[All 64 projects in Payments](categories/payments.md): 27 active, 36 quiet, 1 closed.
 
 ## On-ramp
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | MoonPay |  | [X](https://x.com/moonpay) [Site](https://www.moonpay.com) |  |  | [ton 25](archive/2025-07-ton.jpg) |
-| 2 | Changelly |  | [Telegram](https://t.me/changelly) [Site](https://apps.apple.com/us/app/crypto-exchange-buy-bitcoin/id1435140380) [GitHub](https://github.com/changelly) | 65K views | 2026-09-30 | [ton 25](archive/2025-07-ton.jpg) |
+| 2 | Changelly |  | [Telegram](https://t.me/changelly) [Site](https://apps.apple.com/us/app/crypto-exchange-buy-bitcoin/id1435140380) [GitHub](https://github.com/changelly) | 65K views | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) |
 | 3 | ChangeNOW |  | [X](https://x.com/ChangeNOW) [Site](https://changenow.io) [GitHub](https://github.com/ChangeNow-io) |  | 2021-09-06 | [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 4 | Alchemy Pay |  | [Site](https://alchemypay.org) |  |  | [ton 25](archive/2025-07-ton.jpg) |
 | 5 | Transak |  | [Site](https://transak.com) |  |  |  |
-| 6 | Itez |  | [Telegram](https://t.me/itezofficial) [X](https://x.com/Itezofficial) [Site](https://itez.com/) | 2K views | 2026-09-29 | [ton 25](archive/2025-07-ton.jpg) |
+| 6 | Itez |  | [Telegram](https://t.me/itezofficial) [X](https://x.com/Itezofficial) [Site](https://itez.com/) | 2K views | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) |
 | 7 | MultiKassa Bot ✓ | MultiKassa bot lets you exchange cash rubles for cryptocurrency | [Telegram](https://t.me/multikassa_channel) [Bot](https://t.me/multikassa_bot) [X](https://x.com/multikassa) [Site](https://multikassa.com/) | 64 views | 2026-09-21 |  |
 | 8 | Mercuryo |  | [Site](https://mercuryo.io) |  |  | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 9 | Prosto Exchange | Платите криптой по QR. Покупка и вывод на карту, наличные по миру. ProstoEx -легальный… | [Bot](https://t.me/prostoexbot) | mentioned by 5 TON channels in Q3 |  |  |
@@ -195,7 +195,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 2 | Fragment ✓ |  | [Site](https://fragment.com) |  |  | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 3 | TON Core ✓ |  | [Telegram](https://t.me/toncore) [Site](https://ton.org) | 45K views | 2026-09-23 | [ton 25](archive/2025-07-ton.jpg) |
 | 4 | Acton ✓ | A unified command-line toolchain for TON smart contracts in Tolk — project setup, tests,… | [Telegram](https://t.me/theopentooling) [Site](https://ton-blockchain.github.io/acton/) [GitHub](https://github.com/ton-blockchain/acton) | 4K views | 2026-09-30 |  |
-| 5 | Tolk ✓ |  | [Telegram](https://t.me/tolk_lang) [Site](https://docs.ton.org/v3/documentation/smart-contracts/tolk/overview) |  |  | [messari 26](archive/2026-05-messari.jpg) |
+| 5 | Tolk ✓ |  | [Telegram](https://t.me/tolk_lang) [Site](https://docs.ton.org/v3/documentation/smart-contracts/tolk/overview) |  | 2026-09-23 | [messari 26](archive/2026-05-messari.jpg) |
 | 6 | Pyth |  | [Site](https://www.pyth.network) |  |  | [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 7 | RedStone | A modular oracle delivering data for DeFi to EVM and non-EVM chains, TON included. | [Site](https://www.redstone.finance) [GitHub](https://github.com/redstone-finance) | commit 2026-10-01 | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 8 | TON Multisig ✓ |  | [Site](https://multisig.ton.org) |  |  |  |
@@ -204,24 +204,24 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | Tact ✓ |  | [Site](https://tact-lang.org) |  |  |  |
 | 12 | Blueprint ✓ |  | [Site](https://github.com/ton-org/blueprint) |  |  | [tonpost 23](archive/2023-10-tonpost.jpg) |
 
-[All 31 projects in Infra](categories/infra.md): 24 active, 7 quiet, 0 closed.
+[All 31 projects in Infra](categories/infra.md): 25 active, 6 quiet, 0 closed.
 
 ## Developer tools
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | TonTon Games |  | [Telegram](https://t.me/tikitons) | 25K views | 2026-08-31 | [ton 25](archive/2025-07-ton.jpg) |
+| 1 | TonTon Games |  | [Telegram](https://t.me/tikitons) | 25K views | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) |
 | 2 | Durev Bot |  | [Telegram](https://t.me/poveldurev) [Bot](https://t.me/durevrobot) [X](https://x.com/poveldurev) [Site](https://dedust.io/swap/TON/DUREV) | 16K views | 2026-08-14 |  |
 | 3 | FolioTrade | Automated crypto trading bot | [Telegram](https://t.me/foliostack) [Bot](https://t.me/FolioTradeBot) [Site](https://trade.foliostack.net) | 57 views | 2026-08-15 |  |
 | 4 | Chainbase Network |  | [X](https://x.com/ChainbaseHQ) [Site](https://chainbase.com) [GitHub](https://github.com/chainbase-labs) | commit 2026-09-16 | 2026-09-16 |  |
-| 5 | IntelliJ Idea plugin |  | [Telegram](https://t.me/actiqapp) [X](https://x.com/actiqapp) [Site](https://plugins.jetbrains.com/plugin/23382-ton) [GitHub](https://github.com/actiquest-dev) | commit 2026-08-27 | 2026-08-27 | [tonpost 23](archive/2023-10-tonpost.jpg) |
-| 6 | Minter |  | [Telegram](https://t.me/moonpacket_bot) [Bot](https://t.me/moonpacketchat) [Site](https://minter.ton.org) |  |  |  |
-| 7 | nessshon/tonutils | High-level SDK and toolkit. | [GitHub](https://github.com/nessshon/tonutils) | commit 2026-09-02 | 2026-09-02 |  |
-| 8 | Orbs |  | [X](https://x.com/orbs_network) [Site](https://www.orbs.com) [GitHub](https://github.com/orbs-network) | commit 2026-10-01 | 2026-10-01 | [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton 25](archive/2025-07-ton.jpg) |
-| 9 | Softstack |  | [X](https://x.com/softstackHQ) [Site](https://softstack.io) [GitHub](https://github.com/softstack) | commit 2026-09-29 | 2026-09-29 |  |
-| 10 | tact.vim | Vim 8+ plugin. | [GitHub](https://github.com/tact-lang/tact.vim) | commit 2026-07-08 | 2026-07-08 |  |
-| 11 | TON Testnet Faucet |  | [Site](https://ton.run/#/faucet) [GitHub](https://github.com/awesome-doge) | commit 2026-10-01 | 2026-10-01 |  |
-| 12 | tonlib-rs | Rust SDK for TON. | [GitHub](https://github.com/ston-fi/tonlib-rs) | commit 2026-08-12 | 2026-08-12 |  |
+| 5 | Minter |  | [Telegram](https://t.me/moonpacket_bot) [Bot](https://t.me/moonpacketchat) [Site](https://minter.ton.org) |  |  |  |
+| 6 | nessshon/tonutils | High-level SDK and toolkit. | [GitHub](https://github.com/nessshon/tonutils) | commit 2026-09-02 | 2026-09-02 |  |
+| 7 | Orbs |  | [X](https://x.com/orbs_network) [Site](https://www.orbs.com) [GitHub](https://github.com/orbs-network) | commit 2026-10-01 | 2026-10-01 | [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton 25](archive/2025-07-ton.jpg) |
+| 8 | Softstack |  | [X](https://x.com/softstackHQ) [Site](https://softstack.io) [GitHub](https://github.com/softstack) | commit 2026-09-29 | 2026-09-29 |  |
+| 9 | tact.vim | Vim 8+ plugin. | [GitHub](https://github.com/tact-lang/tact.vim) | commit 2026-07-08 | 2026-07-08 |  |
+| 10 | TON Testnet Faucet |  | [Site](https://ton.run/#/faucet) [GitHub](https://github.com/awesome-doge) | commit 2026-10-01 | 2026-10-01 |  |
+| 11 | tonlib-rs | Rust SDK for TON. | [GitHub](https://github.com/ston-fi/tonlib-rs) | commit 2026-08-12 | 2026-08-12 |  |
+| 12 | tonutils/tonconnect | Python SDK for TON Connect. | [GitHub](https://github.com/nessshon/tonutils) | commit 2026-09-02 | 2026-09-02 |  |
 
 [All 100 projects in Developer tools](categories/devtools.md): 15 active, 84 quiet, 1 closed.
 
@@ -239,10 +239,10 @@ Within a category, projects on the map come first in map order, then active ones
 | 8 | anton.tools ✓ |  | [Site](https://anton.tools) [GitHub](https://github.com/tonindexer) |  | 2025-07-01 | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) |
 | 9 | see.tg ✓ |  | [Site](https://see.tg) |  |  |  |
 | 10 | TGStat |  | [Site](https://tgstat.com) |  |  |  |
-| 11 | CryptoWhale |  | [Telegram](https://t.me/whalebotalerts) [Bot](https://t.me/cryptowhalebot) [X](https://x.com/icebergy) | 1.5M views, 13K MAU | 2026-09-30 |  |
-| 12 | CoinCodex |  | [Telegram](https://t.me/toncoin) [Site](https://coincodex.com/crypto/toncoin/) [GitHub](https://github.com/newton-blockchain) | 676K views | 2026-07-21 |  |
+| 11 | New Listings Feed | Snappiest digital asset listings clearinghouse. http://newlistings.pro WebSocket:… | [Telegram](https://t.me/newlistingsfeed) [Bot](https://t.me/newlistingsfeed_bot) | mentioned by 4 TON channels in Q3 | 2026-10-01 |  |
+| 12 | CryptoWhale |  | [Telegram](https://t.me/whalebotalerts) [Bot](https://t.me/cryptowhalebot) [X](https://x.com/icebergy) | 238K views, 13K MAU | 2026-10-01 |  |
 
-[All 112 projects in Analytics](categories/analytics.md): 27 active, 84 quiet, 1 closed.
+[All 112 projects in Analytics](categories/analytics.md): 31 active, 80 quiet, 1 closed.
 
 ## Explorers
 
@@ -269,9 +269,9 @@ Within a category, projects on the map come first in map order, then active ones
 | 6 | HackenProof |  | [Telegram](https://t.me/hackenproof) [X](https://x.com/HackenProof) [Site](https://hackenproof.com/) [GitHub](https://github.com/hackenproof) | 7K views | 2026-09-29 | [ton 25](archive/2025-07-ton.jpg) |
 | 7 | Chainalysis |  | [Telegram](https://t.me/chainalysisinc) [GitHub](https://github.com/chainalysis) | 9K views | 2026-09-29 | [ton 25](archive/2025-07-ton.jpg) |
 | 8 | Tonguard ✓ |  | [Telegram](https://t.me/tonguardaml) [Bot](https://t.me/tonguard_bot) [Site](https://tonguard.org/) | 420 views | 2026-09-25 | [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
-| 9 | GID Anti-Scam | Крупнейший анти-скам проект в Telegram🛡️ 👮‍♂️ Подать жалобу /report Скам-База… | [Bot](https://t.me/gidbanbot) | mentioned by 4 TON channels in Q3 |  |  |
-| 10 | TrustaTONApp_bot | AI service for on-chain identity and reputation. | [Telegram](https://t.me/trustalabsann) [Bot](https://t.me/trustatonapp_bot) [X](https://x.com/TrustaLabs) [Site](https://trustalabs.ai) [GitHub](https://github.com/mir-one/fingerprints) | 17K views, 112K MAU | 2026-09-29 |  |
-| 11 | Nowarp |  | [Telegram](https://t.me/nowarp_io) [X](https://x.com/nowarp_io) [Site](https://nowarp.io) [GitHub](https://github.com/nowarp) | 61 views | 2026-07-13 |  |
+| 9 | TrustaTONApp_bot | AI service for on-chain identity and reputation. | [Telegram](https://t.me/trustalabsann) [Bot](https://t.me/trustatonapp_bot) [X](https://x.com/TrustaLabs) [Site](https://trustalabs.ai) [GitHub](https://github.com/mir-one/fingerprints) | 17K views, 112K MAU | 2026-09-29 |  |
+| 10 | GID Anti-Scam | Крупнейший анти-скам проект в Telegram🛡️ 👮‍♂️ Подать жалобу /report Скам-База… | [Bot](https://t.me/gidbanbot) | mentioned by 4 TON channels in Q3 |  |  |
+| 11 | Nowarp |  | [Telegram](https://t.me/nowarp_io) [X](https://x.com/nowarp_io) [Site](https://nowarp.io) [GitHub](https://github.com/nowarp) |  | 2026-07-13 |  |
 
 [All 33 projects in Security](categories/audit.md): 11 active, 22 quiet, 0 closed.
 
@@ -282,11 +282,11 @@ Within a category, projects on the map come first in map order, then active ones
 | 1 | Symbiosis |  | [Telegram](https://t.me/symbiosis_announcements) [X](https://x.com/symbiosis_fi) [Site](https://app.symbiosis.finance/) [GitHub](https://github.com/symbiosis-finance) | 8K views | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 2 | LayerZero |  | [Site](https://layerzero.network) |  |  | [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 3 | Stargate |  | [Site](https://stargate.finance) |  |  | [ton 25](archive/2025-07-ton.jpg) |
-| 4 | Rubic |  | [Telegram](https://t.me/cryptorubic) [Bot](https://t.me/RubicSupportBot) [X](https://x.com/cryptorubic) [Site](https://app.rubic.exchange) | 11K views | 2026-09-25 |  |
-| 5 | TAC ✓ |  | [Telegram](https://t.me/tacbuild) [Bot](https://t.me/tacairdrop_bot) |  |  | [ton 25](archive/2025-07-ton.jpg) |
+| 4 | Rubic |  | [Telegram](https://t.me/cryptorubic) [Bot](https://t.me/RubicSupportBot) [X](https://x.com/cryptorubic) [Site](https://app.rubic.exchange) | 11K views | 2026-09-30 |  |
+| 5 | TAC ✓ |  | [Telegram](https://t.me/tacbuild) [Bot](https://t.me/tacairdrop_bot) |  | 2025-09-22 | [ton 25](archive/2025-07-ton.jpg) |
 | 6 | NEAR Intents |  | [Site](https://near-intents.org) |  |  |  |
-| 7 | TonTake Bridge |  | [Telegram](https://t.me/TonTake) [X](https://x.com/tontakegame) | 110K views | 2026-09-30 |  |
-| 8 | Orbit Bridge |  | [Telegram](https://t.me/OrbitChainChannel) [Bot](https://t.me/bion_announcements) [X](https://x.com/Orbit_Chain) [Site](https://bridge.orbitchain.io/) [GitHub](https://github.com/orbit-chain) | TVL $20K | 2026-09-02 | [ton 25](archive/2025-07-ton.jpg) |
+| 7 | TonTake Bridge |  | [Telegram](https://t.me/TonTake) [X](https://x.com/tontakegame) | 84K views | 2026-10-01 |  |
+| 8 | Orbit Bridge |  | [Telegram](https://t.me/OrbitChainChannel) [Bot](https://t.me/bion_announcements) [X](https://x.com/Orbit_Chain) [Site](https://bridge.orbitchain.io/) [GitHub](https://github.com/orbit-chain) | TVL $20K | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) |
 | 9 | SoDEX Bridge | SoDEX is a high-performance order book decentralized exchange (DEX) built on ValueChain. | [X](https://x.com/sodex_official) [Site](https://ssi.sosovalue.com) | TVL $12K |  |  |
 | 10 | TAC Cross Chain Layer | TAC Cross Chain Layer is a messaging and custody layer connecting TON and TAC EVM,… | [X](https://x.com/tacbuild) [Site](https://tac.build) | TVL $1.7M |  |  |
 | 11 | TON ↔ BSC |  | [Telegram](https://t.me/contest) [Bot](https://t.me/cryptouser_bot) [Site](https://bridge.ton.org) [GitHub](https://github.com/ton-blockchain) |  | 2026-10-01 |  |
@@ -300,7 +300,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 1 | Hipo ✓ | Hipo Staking — GRAM staking on TON with hGRAM rewards | [Telegram](https://t.me/hipofinance) [Bot](https://t.me/HipoFinanceBot) [X](https://x.com/hipofinance) [Site](https://app.hipo.finance/) [GitHub](https://github.com/HipoFinance) | 99K views | 2026-10-01 | [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 2 | Tonstakers ✓ | Tonstakers – liquid staking app for GRAM | [Telegram](https://t.me/thetonstakers) [Bot](https://t.me/tonstakers_support_bot) [X](https://x.com/tonstakers) [Site](https://app.tonstakers.com/) | 87K views | 2026-08-12 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 3 | Stakee ✓ | TON staking with up to 25% APY and instant withdrawals. | [Telegram](https://t.me/stakeeru) [Bot](https://t.me/StakeeRu) [Site](https://stakee.org) [GitHub](https://github.com/ton-blockchain) | 8K views | 2026-10-01 | [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
-| 4 | KTON ✓ | KTON LST — staking TON with a liquid KTON token | [Telegram](https://t.me/kton_channel) [Bot](https://t.me/ktonio_bot) [X](https://x.com/kton_io) [Site](https://kton.io/) [GitHub](https://github.com/KTON-IO/liquid-staking-contract) | 74 views | 2026-09-28 | [ton 25](archive/2025-07-ton.jpg) |
+| 4 | KTON ✓ | KTON LST — staking TON with a liquid KTON token | [Telegram](https://t.me/kton_channel) [Bot](https://t.me/ktonio_bot) [X](https://x.com/kton_io) [Site](https://kton.io/) [GitHub](https://github.com/KTON-IO/liquid-staking-contract) | 74 views | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) |
 | 5 | TON Validators ✓ |  | [Bot](https://t.me/tonvalidators_app_bot) |  |  | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) |
 | 6 | UTONIC ✓ |  | [Site](https://utonic.org) |  |  | [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 7 | bemo ✓ |  | [Site](https://bemo.finance) |  |  | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) [messari 26](archive/2026-05-messari.jpg) |
@@ -324,7 +324,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 6 | Octalend ✓ | Octalend — NFT and gift-backed lending on TON | [Telegram](https://t.me/octalend) [Bot](https://t.me/octalend_bot) [X](https://x.com/octalend) [Site](https://octalend.xyz) | 542 views | 2026-09-24 |  |
 | 7 | Aqua Protocol (CDP) ✓ |  | [Telegram](https://t.me/aquaprotocolxyzchannel) [Bot](https://t.me/AquaProtocolxyz_Bot) [X](https://x.com/aquaprotocolxyz) [Site](https://aquaprotocol.xyz/?utm_source=tonapp&utm_medium=ecosystem&utm_campaign=aqua) | 487 views | 2026-09-29 |  |
 | 8 | Delea Finance ✓ |  | [Telegram](https://t.me/delea_finance) [Bot](https://t.me/delea_app_bot) [X](https://x.com/DeleaFinance) [Site](https://delea.finance/) | 1 views | 2026-09-09 | [messari 26](archive/2026-05-messari.jpg) |
-| 9 | Affluent ✓ | Affluent is a Telegram mini app for staking | [Telegram](https://t.me/Affluent) [Bot](https://t.me/affluentappbot) [X](https://x.com/affluentorg) [Site](https://affluent.org) |  |  | [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) [messari 26](archive/2026-05-messari.jpg) |
+| 9 | Affluent ✓ | Affluent is a Telegram mini app for staking | [Telegram](https://t.me/Affluent) [Bot](https://t.me/affluentappbot) [X](https://x.com/affluentorg) [Site](https://affluent.org) |  | 2026-06-10 | [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 10 | Telegram USD | Telegram USD is a blue-chip-backed stablecoin on the TON blockchain, designed for… | [Site](https://torch.finance) | TVL $0.4M |  |  |
 
 [All 14 projects in Lending](categories/lending.md): 10 active, 4 quiet, 0 closed.
@@ -334,7 +334,7 @@ Within a category, projects on the map come first in map order, then active ones
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | Storm Trade ✓ | Storm Trade — leveraged DEX in Telegram for trading on TON | [Telegram](https://t.me/storm_trade_news) [Bot](https://t.me/StormTradeBot) [X](https://x.com/storm_trade_ton) [Site](https://storm.tg/) | 45K views | 2026-09-28 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) [messari 26](archive/2026-05-messari.jpg) |
-| 2 | Tradoor ✓ | Tradoor is a decentralized exchange for trading options and perpetual futures on TON. | [Telegram](https://t.me/tradoor_io) [Bot](https://t.me/tradoor_io_bot) [X](https://x.com/tradoor_io) [Site](https://tradoor.io) [GitHub](https://github.com/TonTradoor) | 19K views | 2026-09-30 | [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
+| 2 | Tradoor ✓ | Tradoor is a decentralized exchange for trading options and perpetual futures on TON. | [Telegram](https://t.me/tradoor_io) [Bot](https://t.me/tradoor_io_bot) [X](https://x.com/tradoor_io) [Site](https://tradoor.io) [GitHub](https://github.com/TonTradoor) | 19K views | 2026-10-01 | [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 3 | WenLong ✓ |  | [Telegram](https://t.me/wenlongnews) [Bot](https://t.me/whenlongbot) | 6K views | 2026-09-20 |  |
 | 4 | Hyperliquid |  | [Site](https://hyperliquid.xyz) |  |  |  |
 | 5 | Vooi App |  | [Telegram](https://t.me/vooi_app) [Bot](https://t.me/vooiappbot) | 24K views | 2026-09-16 | [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
@@ -367,11 +367,11 @@ Within a category, projects on the map come first in map order, then active ones
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | Gram News ✓ |  | [Telegram](https://t.me/gramnews) [Site](https://gramnews.org) | 479K views | 2026-09-30 |  |
+| 1 | Gram News ✓ |  | [Telegram](https://t.me/gramnews) [Site](https://gramnews.org) | 479K views | 2026-10-01 |  |
 | 2 | TON App ✓ |  | [Site](https://ton-game.com) [GitHub](https://github.com/toncenter/ton-wallet) |  | 2025-08-21 | [tonpost 23](archive/2023-10-tonpost.jpg) [ton 25](archive/2025-07-ton.jpg) |
 | 3 | DYOR.io ✓ |  | [Site](https://dyor.io) |  |  | [ton 25](archive/2025-07-ton.jpg) |
 | 4 | ton.website ✓ |  | [Site](https://ton.website) |  |  |  |
-| 5 | FindMini.app ✓ |  | [Telegram](https://t.me/findminiapp) |  |  | [ton 25](archive/2025-07-ton.jpg) |
+| 5 | FindMini.app ✓ |  | [Telegram](https://t.me/findminiapp) |  | 2026-05-25 | [ton 25](archive/2025-07-ton.jpg) |
 | 6 | SUPER PLATFORM | 💎 Discover quality platforms worth your attention. | [Bot](https://t.me/yaojingappbot) | mentioned by 6 TON channels in Q3 |  |  |
 
 [All 10 projects in Catalogues](categories/catalogs.md): 6 active, 4 quiet, 0 closed.
@@ -382,15 +382,16 @@ Within a category, projects on the map come first in map order, then active ones
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | TonMobile eSIM ✓ | Mobile eSIM Purchaser | [Telegram](https://t.me/tonmobile_en) [Bot](https://t.me/MobileSuppBot) [X](https://x.com/tonmobile_esim) [Site](https://tonmobile.com) | 6K views, 42K MAU | 2026-08-25 | [ton 25](archive/2025-07-ton.jpg) |
 | 2 | SnapSIM ✓ |  | [Bot](https://t.me/snapsimbot) [Site](https://snapsim.online) | 13K MAU |  |  |
-| 3 | Durev VPN ✓ | Durev VPN is a VPN service for fast and reliable internet access. | [Telegram](https://t.me/durevvpn) [Bot](https://t.me/DureVpnBot) [Site](https://durevpn.com/) | 812K views, 244K MAU | 2026-09-23 |  |
+| 3 | Durev VPN ✓ | Durev VPN is a VPN service for fast and reliable internet access. | [Telegram](https://t.me/durevvpn) [Bot](https://t.me/DureVpnBot) [Site](https://durevpn.com/) | 812K views, 244K MAU | 2026-09-30 |  |
 | 4 | Resistance Tools ✓ | An open-source privacy toolkit for TON, run through the @ResistanceToolsBot bot. | [Telegram](https://t.me/resistancetools) [Bot](https://t.me/ResistanceToolsBot) [Site](https://resistance.dog) | 5K views | 2026-09-20 |  |
 | 5 | 1323vpn |  | [Telegram](https://t.me/vpn1323) [Bot](https://t.me/vpn1323bot) | 283 views | 2026-09-24 |  |
 | 6 | Connecton VPN ✓ |  | [Telegram](https://t.me/connectonbot) [GitHub](https://github.com/Connecton) | 26 views | 2026-09-15 | [tonpost 23](archive/2023-10-tonpost.jpg) |
 | 7 | Need VPN & eSIM | Fast & Stable VPN & eSIM. Channel: @needapp Support: @need_supp_bot | [Bot](https://t.me/need) | mentioned by 16 TON channels in Q3 |  |  |
 | 8 | VPN Скруджа 🛜 | 📡 VPN Сервис для избранных 💬Помощь: @ScroogeHelp Канал: @ScroogeVPN | [Bot](https://t.me/scroogevpnrobot) | mentioned by 8 TON channels in Q3 |  |  |
 | 9 | Связь VPN⚡️ | Безопасный, Быстрый, Удобный и Лучший VPN на рынке с приятной ценой Наш канал:… | [Bot](https://t.me/svyazvpnrobot) | mentioned by 5 TON channels in Q3 |  |  |
+| 10 | WayLuckyVPN / Channel | @wayluckyvpn_bot - WayLuckyVPN bot @wayluckyvpnadmin - WayLuckyVPN Support account | [Telegram](https://t.me/wayluckyvpnchannel) [Bot](https://t.me/wayluckyvpn_bot) | mentioned by 3 TON channels in Q3 | 2026-07-09 |  |
 
-[All 28 projects in Privacy](categories/vpn.md): 9 active, 19 quiet, 0 closed.
+[All 28 projects in Privacy](categories/vpn.md): 10 active, 18 quiet, 0 closed.
 
 ## NFT collections
 
@@ -409,17 +410,17 @@ Within a category, projects on the map come first in map order, then active ones
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | GROYP ✓ |  | [Telegram](https://t.me/groyp) | +213% | 2026-09-30 |  |
-| 2 | UTYA ✓ |  | [Telegram](https://t.me/MagicVipClub) [Bot](https://t.me/utyagamebot) [X](https://x.com/Utya_game) [Site](https://taplink.cc/utyagame) | +102% |  |  |
-| 3 | XROCK ✓ | Token of xRocket, the exchange and wallet inside Telegram. | [Telegram](https://t.me/xrocketnews) [Bot](https://t.me/xrocket) [X](https://x.com/xRocket_tg) | +74% | 2026-09-25 |  |
+| 2 | UTYA ✓ |  | [Telegram](https://t.me/MagicVipClub) [Bot](https://t.me/utyagamebot) [X](https://x.com/Utya_game) [Site](https://taplink.cc/utyagame) | +102% | 2026-07-11 |  |
+| 3 | XROCK ✓ | Token of xRocket, the exchange and wallet inside Telegram. | [Telegram](https://t.me/xrocketnews) [Bot](https://t.me/xrocket) [X](https://x.com/xRocket_tg) | +74% | 2026-10-01 |  |
 | 4 | CHERRY ✓ |  | [Telegram](https://t.me/HotCherryTG) [Bot](https://t.me/cherrygame_io_bot) | +58% | 2026-08-24 |  |
 | 5 | BabyDoge ✓ |  | [Telegram](https://t.me/babydogecoin) | +47% | 2026-09-23 | [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) |
 | 6 | HPO ✓ |  | [Telegram](https://t.me/HipoFinance) | +45% | 2026-09-21 |  |
-| 7 | NOT ✓ |  | [Telegram](https://t.me/notcoin) | +33% |  | [ton 25](archive/2025-07-ton.jpg) |
+| 7 | NOT ✓ |  | [Telegram](https://t.me/notcoin) | +33% | 2026-06-08 | [ton 25](archive/2025-07-ton.jpg) |
 | 8 | DOGS ✓ |  | [Telegram](https://t.me/dogs_community) | +31% | 2026-09-18 | [ton 25](archive/2025-07-ton.jpg) |
 | 9 | RECA ✓ |  |  | +25% |  |  |
-| 10 | STON ✓ |  | [Telegram](https://t.me/stonfidex) [X](https://x.com/ston_fi) [Site](https://ston.fi) | +13% | 2026-09-30 |  |
-| 11 | Blum (BLUM) |  | [Telegram](https://t.me/blumcrypto) | mcap $564K, 217,333 holders | 2026-09-29 |  |
-| 12 | TONNEL Network (TONNEL) |  | [Telegram](https://t.me/tonnel_en) | mcap $0K, 18,037 holders | 2026-09-27 |  |
+| 10 | STON ✓ |  | [Telegram](https://t.me/stonfidex) [X](https://x.com/ston_fi) [Site](https://ston.fi) | +13% | 2026-10-01 |  |
+| 11 | Blum (BLUM) |  | [Telegram](https://t.me/blumcrypto) | mcap $564K, 217,333 holders | 2026-10-01 |  |
+| 12 | Catizen (CATI) |  | [Telegram](https://t.me/CatizenAnn) | mcap $39.6M, 1,631,846 holders | 2026-09-23 |  |
 
 [All 114 projects in Tokens](categories/tokens.md): 44 active, 70 quiet, 0 closed.
 
@@ -428,11 +429,11 @@ Within a category, projects on the map come first in map order, then active ones
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | Getgems ✓ |  | [Telegram](https://t.me/getgems) [X](https://x.com/getgemsdotio) [Site](https://getgems.io/) [GitHub](https://github.com/getgems-io) | 272K views | 2026-09-29 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) [messari 26](archive/2026-05-messari.jpg) |
-| 2 | Tonnel ✓ | P2P TON lending service against Telegram gifts. | [Telegram](https://t.me/tonnel_en) [Bot](https://t.me/tonnel_network_bot) [X](https://x.com/tonnel_network) [Site](https://Tonnel.network) [GitHub](https://github.com/Tonnel-Network/core) | 2.8M views, 125K MAU | 2026-09-27 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) |
+| 2 | Tonnel ✓ | P2P TON lending service against Telegram gifts. | [Telegram](https://t.me/tonnel_en) [Bot](https://t.me/tonnel_network_bot) [X](https://x.com/tonnel_network) [Site](https://Tonnel.network) [GitHub](https://github.com/Tonnel-Network/core) | 2.8M views, 125K MAU | 2026-10-01 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) |
 | 3 | @MRKT ✓ | A Telegram marketplace for digital assets — gifts, stickers and more, with floor-price… | [Bot](https://t.me/mrkt) | 382K MAU |  | [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 4 | Marketapp ✓ |  | [Bot](https://t.me/nfttonificatorbot) [Site](https://marketapp.ws) |  |  | [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) |
-| 5 | @Portals ✓ | Portals Market is a marketplace for trading gifts and items. | [Telegram](https://t.me/portals_community) [Bot](https://t.me/portals) [X](https://x.com/portalsmarket) | 1.8M views, 298K MAU | 2026-09-21 | [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) [messari 26](archive/2026-05-messari.jpg) |
-| 6 | Gift Satellite ✓ |  | [Telegram](https://t.me/giftsatellite) [Bot](https://t.me/gift_satellite_bot) | 431K views, 21K MAU | 2026-09-29 | [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
+| 5 | @Portals ✓ | Portals Market is a marketplace for trading gifts and items. | [Telegram](https://t.me/portals_community) [Bot](https://t.me/portals) [X](https://x.com/portalsmarket) | 1.8M views, 298K MAU | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) [messari 26](archive/2026-05-messari.jpg) |
+| 6 | Gift Satellite ✓ |  | [Telegram](https://t.me/giftsatellite) [Bot](https://t.me/gift_satellite_bot) | 431K views, 21K MAU | 2026-10-01 | [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
 | 7 | webdom ✓ |  | [Bot](https://t.me/webdom_tgbot) [Site](https://webdom.market) |  |  | [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
 | 8 | Telegifts ✓ |  | [Telegram](https://t.me/telegiftsapp) [Bot](https://t.me/telegiftsappbot) | 19K views | 2026-09-10 | [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
 | 9 | Pixel Market ✓ |  | [Telegram](https://t.me/pixelmarket_fam) [Bot](https://t.me/pixelmarket_support) [X](https://x.com/PixelMarketX) [Site](https://notpixel.org) | 120K views | 2026-09-29 |  |
@@ -440,26 +441,26 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | Get Gifts ✓ |  | [Site](https://telegram-gifts.ru) |  |  |  |
 | 12 | Swift Gifts ✓ |  | [Telegram](https://t.me/swiftgifts_news) [Bot](https://t.me/giftbot) | 31K views | 2026-09-10 | [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
 
-[All 236 projects in NFT & Gifts](categories/nftmarkets.md): 64 active, 170 quiet, 2 closed.
+[All 236 projects in NFT & Gifts](categories/nftmarkets.md): 84 active, 150 quiet, 2 closed.
 
 ## Memepads
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | TopBlast ✓ |  | [Telegram](https://t.me/topblastdotlol) | 59K views | 2026-09-30 |  |
+| 1 | TopBlast ✓ |  | [Telegram](https://t.me/topblastdotlol) | 59K views | 2026-10-01 |  |
 | 2 | Meridian ✓ |  | [Telegram](https://t.me/meridian_wtf) [Site](https://getgems.io/collection/EQAVGhk_3rUA3ypZAZ1SkVGZIaDt7UdvwA4jsSGRKRo-MRDN) | 4K views | 2026-08-04 | [tonpost 23](archive/2023-10-tonpost.jpg) |
-| 3 | @Blum ✓ | Blum Memepad is a trading platform for launching and trading meme coins. | [Telegram](https://t.me/blumcrypto_memepad) [Bot](https://t.me/blum) [X](https://x.com/blumcrypto) [Site](https://blum.io) | 266K MAU |  | [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
+| 3 | @Blum ✓ | Blum Memepad is a trading platform for launching and trading meme coins. | [Telegram](https://t.me/blumcrypto_memepad) [Bot](https://t.me/blum) [X](https://x.com/blumcrypto) [Site](https://blum.io) | 266K MAU | 2026-02-06 | [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
 | 4 | BigPump ✓ |  | [Telegram](https://t.me/bigpumphub) | 40K views | 2026-09-16 | [ton 25](archive/2025-07-ton.jpg) |
-| 5 | Uranus ✓ |  | [Telegram](https://t.me/nonameuranus) | 25K views | 2026-09-30 |  |
+| 5 | Uranus ✓ |  | [Telegram](https://t.me/nonameuranus) | 25K views | 2026-10-01 |  |
 | 6 | JVault ✓ | JVault is a protocol for staking, launchpad, and locker on TON. | [Telegram](https://t.me/jvault) [Bot](https://t.me/JVaultBot) [X](https://x.com/JVault_app) [Site](https://jvault.xyz) [GitHub](https://github.com/JVault-app) | 2K views | 2026-08-17 | [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) |
 | 7 | PumpMeme ✓ |  | [Telegram](https://t.me/pumpmemenews) [Bot](https://t.me/pumpmeme_bot) [X](https://x.com/PumpMemeClub) | 2K views | 2026-09-26 |  |
-| 8 | DuckChain | DuckChain is a service for staking and bridging crypto assets. | [Telegram](https://t.me/duckchainann) [Bot](https://t.me/duckchain_bot) [X](https://x.com/duck_chain) [Site](https://bridge.duckchain.io) | 70K views, 24K MAU | 2026-07-20 | [ton 25](archive/2025-07-ton.jpg) |
+| 8 | DuckChain | DuckChain is a service for staking and bridging crypto assets. | [Telegram](https://t.me/duckchainann) [Bot](https://t.me/duckchain_bot) [X](https://x.com/duck_chain) [Site](https://bridge.duckchain.io) | 71K views, 24K MAU | 2026-07-20 | [ton 25](archive/2025-07-ton.jpg) |
 | 9 | Pumplyx Competition |  | [Bot](https://t.me/pumplyxcompetitionbot) | mentioned by 5 TON channels in Q3 |  |  |
-| 10 | Clarnium Games | Clarnium Games — a platform for launching tokens and earning meme coins through quests… | [Telegram](https://t.me/clarnium) [Bot](https://t.me/ClarniumGame_bot) [X](https://x.com/clarnium_io) [Site](https://clarnium.io/) | 10K MAU |  |  |
-| 11 | Wizzwoods |  | [Bot](https://t.me/wizzwoodsbot) [Site](https://wizzwoods.com/) | 6K MAU |  |  |
-| 12 | NitroChain | NitroChain — blockchain infrastructure for fast and low-cost transactions | [Telegram](https://t.me/NitrochainNews) [Bot](https://t.me/nitrochainbot) [X](https://x.com/Nitrochainapp) [Site](https://nitrochain.space/) | 3K views, 59 MAU | 2026-08-04 |  |
+| 10 | PLAYS Hub |  | [Telegram](https://t.me/PlayshubAnn) [Bot](https://t.me/playshubbot) [X](https://x.com/PlaysHub) | 308 views, 25K MAU | 2026-09-28 |  |
+| 11 | W3BFLIX |  | [Bot](https://t.me/w3bflixbot) | 19K MAU |  | [ton-degen 24](archive/2024-06-ton-degen.jpg) |
+| 12 | Clarnium Games | Clarnium Games — a platform for launching tokens and earning meme coins through quests… | [Telegram](https://t.me/clarnium) [Bot](https://t.me/ClarniumGame_bot) [X](https://x.com/clarnium_io) [Site](https://clarnium.io/) | 10K MAU | 2026-06-08 |  |
 
-[All 76 projects in Memepads](categories/launchpads.md): 13 active, 62 quiet, 1 closed.
+[All 76 projects in Memepads](categories/launchpads.md): 16 active, 59 quiet, 1 closed.
 
 ## Trading bots
 
@@ -468,17 +469,17 @@ Within a category, projects on the map come first in map order, then active ones
 | 1 | @Trade ✓ |  | [Bot](https://t.me/trade) | 336K MAU |  | [ton 25](archive/2025-07-ton.jpg) [tradoor 25](archive/2025-08-tradoor.jpg) |
 | 2 | PocketFi ✓ | Telegram-native memecoin trading app. | [Telegram](https://t.me/pocketfi) [Bot](https://t.me/pocketfi_bot) [X](https://x.com/pocket_fi) [Site](https://pocketfi.org/) | 236K views, 34K MAU | 2026-09-22 | [ton 25](archive/2025-07-ton.jpg) |
 | 3 | Maestro |  | [Bot](https://t.me/maestro) [Site](https://www.maestrobots.com) | 95K MAU |  |  |
-| 4 | Upscale ✓ | Upscale – a prop‑trading service without KYC | [Telegram](https://t.me/upscale_news_en) [Bot](https://t.me/UpscaleTradeBot) [X](https://x.com/upscaletrade) [Site](https://app.upscale.trade) | 95K views, 19K MAU | 2026-09-30 | [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
+| 4 | Upscale ✓ | Upscale – a prop‑trading service without KYC | [Telegram](https://t.me/upscale_news_en) [Bot](https://t.me/UpscaleTradeBot) [X](https://x.com/upscaletrade) [Site](https://app.upscale.trade) | 95K views, 19K MAU | 2026-10-01 | [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
 | 5 | @GroypFi_bot ✓ | Chief Vibrations Officer A dose of this, a hit of that Twitter -… | [Telegram](https://t.me/groyp) [Bot](https://t.me/groypfi_bot) [X](https://x.com/groyp_on_ton) [Site](https://groypfi.io/) | 91K views | 2026-09-30 |  |
 | 6 | @DTrade ✓ |  | [Telegram](https://t.me/dtrade_news) [Bot](https://t.me/dtrade) [X](https://x.com/dtrade_tg) | 9K views | 2026-09-04 | [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
-| 7 | RedoTrade ✓ |  | [Telegram](https://t.me/gramtrade) | 6K views | 2026-09-02 |  |
+| 7 | RedoTrade ✓ |  | [Telegram](https://t.me/gramtrade) | 6K views | 2026-10-01 |  |
 | 8 | @Swapi ✓ |  | [Telegram](https://t.me/swapi_news) [Bot](https://t.me/swapi) | 71 views | 2026-08-26 |  |
 | 9 | ATF | 📌 channel :https://t.me/AI_TRADING_FOREX 🌐 Website: https://www.atftoken.com 🐦 Twitter:… | [Bot](https://t.me/atf_airdrop_bot) | mentioned by 37 TON channels in Q3 |  |  |
-| 10 | Ultra Wallet |  | [Bot](https://t.me/ultrawallettrade_bot) | mentioned by 6 TON channels in Q3 |  |  |
-| 11 | CentPay Escrow 🔐 | Buy • Sell • Escrow • Trade 🔒 Secure Transactions / ⚡ Fast Processing / 🌍 Global… | [Bot](https://t.me/centpaaybot) | mentioned by 4 TON channels in Q3 |  |  |
-| 12 | BasedBot | 🌐 Community & Support : https://t.me/BasedBotVerify | [Bot](https://t.me/based_eth_bot) | mentioned by 11 TON channels in Q3 |  |  |
+| 10 | ⚡️Лобушкин молнит | Главный новостной терминал Прислать новость — @zhora Основной канал — @lobushkin Канал в… | [Telegram](https://t.me/lobushkinflash) [Bot](https://t.me/tgpodbor_bot) | mentioned by 3 TON channels in Q3 | 2026-10-01 |  |
+| 11 | КриптоАтака 24 ⚡️ | Наибыстрейший информационный по крипте 24/7 @cryptoattackbot - мгновенный агрегатор… | [Telegram](https://t.me/cryptoattack24) [Bot](https://t.me/attackconnect_bot) | mentioned by 4 TON channels in Q3 | 2026-10-01 |  |
+| 12 | Ultra Wallet |  | [Bot](https://t.me/ultrawallettrade_bot) | mentioned by 6 TON channels in Q3 |  |  |
 
-[All 36 projects in Trading bots](categories/trading.md): 16 active, 20 quiet, 0 closed.
+[All 36 projects in Trading bots](categories/trading.md): 20 active, 16 quiet, 0 closed.
 
 ## Social
 
@@ -488,7 +489,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 2 | TON Dating ✓ | TON Dating is a selective dating community with verified profiles. | [Telegram](https://t.me/tondatingchannel) [Bot](https://t.me/TonDating_bot) [Site](https://ton.dating) | 19K views, 72K MAU | 2026-08-20 | [ton 25](archive/2025-07-ton.jpg) |
 | 3 | @Major ✓ | Major is a Telegram app with its own token, NFT market, games, and staking. | [Bot](https://t.me/major) [X](https://x.com/majoroftelegram) | 117K MAU |  | [ton 25](archive/2025-07-ton.jpg) |
 | 4 | @IPredict ✓ |  | [Bot](https://t.me/ipredict) | 18K MAU |  |  |
-| 5 | cult of not ✓ |  | [Telegram](https://t.me/cultofnot) | 1.2M views | 2026-09-30 |  |
+| 5 | cult of not ✓ |  | [Telegram](https://t.me/cultofnot) | 1.2M views | 2026-10-01 |  |
 | 6 | iMe app | iMe Wallet: a wallet for the LIME token and cryptocurrency management. | [Telegram](https://t.me/ime_en) [Bot](https://t.me/iMe_lime_bot) [X](https://x.com/iMePlatform) [Site](https://www.imem.app/) [GitHub](https://github.com/imemessenger) | 83K views, 59K MAU | 2026-09-30 | [ton 25](archive/2025-07-ton.jpg) |
 | 7 | Tmail ✓ | Tmail — a secure Web3‑Web2 email service on TON | [Telegram](https://t.me/tmailofficial) [Bot](https://t.me/tmail_ton_bot) [X](https://x.com/tmail_ton) [Site](https://tmail.ae/) | 42K views, 11K MAU | 2026-09-27 |  |
 | 8 | Tonex ✓ |  | [Telegram](https://t.me/tonex_app) [Site](https://tonex.app) | 18K views | 2026-09-29 | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) |
@@ -504,16 +505,16 @@ Within a category, projects on the map come first in map order, then active ones
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | AI Lab | Cooperation - @AiLabSupport_robot | [Bot](https://t.me/ailab_robot) | mentioned by 33 TON channels in Q3 |  |  |
-| 2 | MOONBERG AI BOT | MOONBERG AI BOT — AI-powered crypto trading tool | [Telegram](https://t.me/moonbergai) [Bot](https://t.me/moonbergai_bot) [X](https://x.com/moonberg) [Site](https://moonberg.com) [GitHub](https://github.com/Emmet-Finance) | 141K views, 12K MAU | 2026-09-10 |  |
+| 2 | MOONBERG AI BOT | MOONBERG AI BOT — AI-powered crypto trading tool | [Telegram](https://t.me/moonbergai) [Bot](https://t.me/moonbergai_bot) [X](https://x.com/moonberg) [Site](https://moonberg.com) [GitHub](https://github.com/Emmet-Finance) | 142K views, 12K MAU | 2026-09-10 |  |
 | 3 | Spru | 🐙 ИИ, который делает за тебя Поддержка - @spru_support_bot | [Bot](https://t.me/spru_agent_bot) | mentioned by 3 TON channels in Q3 |  |  |
 | 4 | AgentBook 🤖 |  | [Bot](https://t.me/agentbookbot) | mentioned by 5 TON channels in Q3 |  |  |
-| 5 | Reverie | A mini app for chatting with virtual characters who have their own memory and… | [Bot](https://t.me/reverie_ai_bot) | 53K MAU |  |  |
+| 5 | Reverie | A mini app for chatting with virtual characters who have their own memory and… | [Bot](https://t.me/reverie_ai_bot) | 50K MAU |  |  |
 | 6 | AE _Digital Tech | AE (AI Energy) powers always-on execution and stability,helping strategies run smarter,… | [Bot](https://t.me/ae_dx_bot) | mentioned by 3 TON channels in Q3 |  |  |
 | 7 | Quant IA |  | [Bot](https://t.me/thequantaibot) | mentioned by 15 TON channels in Q3 |  |  |
 | 8 | Guardian | An intelligent group management bot with portal, buy bot and AI features 🔥… | [Bot](https://t.me/mevfreeportalbot) | 27K MAU |  |  |
 | 9 | Bter9 AI 2.5% | USDT balance to level up your agent and boost your daily income! @Bter9_Support | [Bot](https://t.me/bter9bot) | mentioned by 4 TON channels in Q3 |  |  |
 | 10 | AmberMarket / оплата GPT • Claude • Steam • PS Store | Магазин цифровых товаров в Telegram. | [Bot](https://t.me/ambermarket_official_bot) | mentioned by 5 TON channels in Q3 |  |  |
-| 11 | Creator. AI Video |  | [Telegram](https://t.me/creator_prompts) [Bot](https://t.me/creator_ai_tech_bot) [Site](https://Gensta.ai) | 15K views, 19K MAU | 2026-09-27 |  |
+| 11 | Creator. AI Video |  | [Telegram](https://t.me/creator_prompts) [Bot](https://t.me/creator_ai_tech_bot) [Site](https://Gensta.ai) | 16K views, 19K MAU | 2026-09-27 |  |
 | 12 | TeleClaw | Your personal AI agent | [Bot](https://t.me/claw) | mentioned by 3 TON channels in Q3 |  |  |
 
 [All 38 projects in AI](categories/ai.md): 14 active, 24 quiet, 0 closed.
@@ -522,40 +523,41 @@ Within a category, projects on the map come first in map order, then active ones
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | Randomize Bot 🎲 (Рандомайзер) | Конкурсный бот телеграм. Инструкция - https://cutt.ly/21DTeSP | [Bot](https://t.me/randomized) | mentioned by 35 TON channels in Q3 |  |  |
-| 2 | RandomGodBot⚡️ (Рандомайзер) | Руководство - https://cutt.ly/zJI2tz9 Открытый код - https://cutt.ly/TW1BVwH Канал бота… | [Bot](https://t.me/random) | mentioned by 83 TON channels in Q3 |  |  |
-| 3 | RandomGodBot⚡️ (Рандомайзер) | Руководство - https://cutt.ly/zJI2tz9 Открытый код - https://cutt.ly/TW1BVwH Канал бота… | [Bot](https://t.me/randomgodbot) | mentioned by 51 TON channels in Q3 |  |  |
-| 4 | Random Beast 🏆 | Розыгрыши в Telegram с проверкой подписки, защитой от ботов и без рекламы. News:… | [Bot](https://t.me/randombeast_bot) | mentioned by 50 TON channels in Q3 |  |  |
-| 5 | Best Random Bot 🎁 (Конкурсный бот для розыгрышей / Рандомайзер) | Канал и инструкция: @BestRandom_info Служба поддержки: @BestRandom_support_bot Владелец:… | [Bot](https://t.me/bestrandom_bot) | mentioned by 24 TON channels in Q3 |  |  |
-| 6 | Stickers Bot | A bot for creating Telegram stickers and tracking their usage statistics. | [Bot](https://t.me/stickers) | 648K MAU |  |  |
-| 7 | Safeguard | The most extensive security and buy tracking platform on Telegram Powering @Trending… | [Bot](https://t.me/safeguard) | mentioned by 7 TON channels in Q3 |  |  |
-| 8 | PR GRAM | PR GRAM — a promotion platform for Telegram. Support chat: @prgram_help News:… | [Bot](https://t.me/gram_piarbot) | mentioned by 5 TON channels in Q3 |  |  |
-| 9 | The Daily TON Support Bot |  | [Telegram](https://t.me/thedailyton) [Bot](https://t.me/dailytonsupport_bot) [X](https://x.com/the_daily_ton) | 170K views | 2026-09-29 |  |
-| 10 | XDAO | Create DAOs. Co-own assets, formalize agreements, manage budgets and decisions. Join the… | [Telegram](https://t.me/xdaoapp) [Bot](https://t.me/xdao_ton_bot) | mentioned by 10 TON channels in Q3 |  |  |
-| 11 | VoteBot | This bot will help you create polls and share them with friends. | [Bot](https://t.me/vote) | 144K MAU |  |  |
-| 12 | Pixlands | Pixlands is a utility for asset management. | [Telegram](https://t.me/pixlands) [Bot](https://t.me/pixlandsbot) | 75K views, 32K MAU | 2026-08-21 |  |
+| 1 | Екатерина Мизулина | Директор Лиги безопасного интернета, член Общественной палаты России Сообщить об опасном… | [Telegram](https://t.me/ekaterina_mizulina) [Bot](https://t.me/ekaterinamizulina_bot) | mentioned by 8 TON channels in Q3 | 2026-10-01 |  |
+| 2 | Randomize Bot 🎲 (Рандомайзер) | Конкурсный бот телеграм. Инструкция - https://cutt.ly/21DTeSP | [Bot](https://t.me/randomized) | mentioned by 35 TON channels in Q3 |  |  |
+| 3 | RandomGodBot⚡️ (Рандомайзер) | Руководство - https://cutt.ly/zJI2tz9 Открытый код - https://cutt.ly/TW1BVwH Канал бота… | [Bot](https://t.me/random) | mentioned by 83 TON channels in Q3 |  |  |
+| 4 | RandomGodBot⚡️ (Рандомайзер) | Руководство - https://cutt.ly/zJI2tz9 Открытый код - https://cutt.ly/TW1BVwH Канал бота… | [Bot](https://t.me/randomgodbot) | mentioned by 51 TON channels in Q3 |  |  |
+| 5 | XDAO | Create DAOs. Co-own assets, formalize agreements, manage budgets and decisions. Join the… | [Telegram](https://t.me/xdaoapp) [Bot](https://t.me/xdao_ton_bot) | mentioned by 10 TON channels in Q3 | 2026-09-25 |  |
+| 6 | Random Beast 🏆 | Розыгрыши в Telegram с проверкой подписки, защитой от ботов и без рекламы. News:… | [Bot](https://t.me/randombeast_bot) | mentioned by 50 TON channels in Q3 |  |  |
+| 7 | Best Random Bot 🎁 (Конкурсный бот для розыгрышей / Рандомайзер) | Канал и инструкция: @BestRandom_info Служба поддержки: @BestRandom_support_bot Владелец:… | [Bot](https://t.me/bestrandom_bot) | mentioned by 24 TON channels in Q3 |  |  |
+| 8 | Stickers Bot | A bot for creating Telegram stickers and tracking their usage statistics. | [Bot](https://t.me/stickers) | 629K MAU |  |  |
+| 9 | Safeguard | The most extensive security and buy tracking platform on Telegram Powering @Trending… | [Bot](https://t.me/safeguard) | mentioned by 7 TON channels in Q3 |  |  |
+| 10 | PR GRAM | PR GRAM — a promotion platform for Telegram. Support chat: @prgram_help News:… | [Bot](https://t.me/gram_piarbot) | mentioned by 5 TON channels in Q3 |  |  |
+| 11 | Tuberg | Бот-ведущий для розыгрыша призов Новости: @tuberg_game По всем вопросам: @millerenos | [Telegram](https://t.me/tuberg_game) [Bot](https://t.me/millerenos_bot) | mentioned by 12 TON channels in Q3 | 2026-09-30 |  |
+| 12 | The Daily TON Support Bot |  | [Telegram](https://t.me/thedailyton) [Bot](https://t.me/dailytonsupport_bot) [X](https://x.com/the_daily_ton) | 173K views | 2026-10-01 |  |
 
-[All 76 projects in Tools](categories/tools.md): 24 active, 52 quiet, 0 closed.
+[All 76 projects in Tools](categories/tools.md): 25 active, 51 quiet, 0 closed.
 
 ## Shopping
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | iCryptoCheck |  | [Telegram](https://t.me/iCryptoCheck) [Bot](https://t.me/iCryptoCheckBot) [X](https://x.com/iCryptoCheck) [GitHub](https://github.com/unlimadev/Orniton) | 42K MAU | 2025-05-15 | [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
-| 2 | Uquid Shop |  | [Telegram](https://t.me/uquidshop) [Bot](https://t.me/uquidbot) [X](https://x.com/uquidcard) | 1K MAU |  |  |
-| 3 | uShopWebBot | Web bot shop builder for Telegram | [Telegram](https://t.me/uShopWeb) [Bot](https://t.me/uShopWebBot) [Site](https://www.ucoz.ru/bot/) | 471 views | 2026-07-08 |  |
+| 2 | Uquid Shop |  | [Telegram](https://t.me/uquidshop) [Bot](https://t.me/uquidbot) [X](https://x.com/uquidcard) | 1K MAU | 2026-06-22 |  |
+| 3 | uShopWebBot | Web bot shop builder for Telegram | [Telegram](https://t.me/uShopWeb) [Bot](https://t.me/uShopWebBot) [Site](https://www.ucoz.ru/bot/) | 475 views | 2026-07-08 |  |
 | 4 | IrenSystem |  | [Telegram](https://t.me/irensyst) [Bot](https://t.me/demoirensystembot) [Site](https://irensystem.ru) | 56 views | 2026-08-11 |  |
+| 5 | $GOVNO Paper Store |  | [Telegram](https://t.me/govnopaperstore) [Bot](https://t.me/GOVNOPaperBot) [Site](https://govnoton.com/) |  | 2026-07-12 |  |
 
-[All 32 projects in Shopping](categories/shopping.md): 4 active, 25 quiet, 3 closed.
+[All 32 projects in Shopping](categories/shopping.md): 5 active, 24 quiet, 3 closed.
 
 ## Education
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | Be Unstoppable | Be Unstoppable — a cryptocurrency wallet supporting Bitcoin, Ethereum, and Zcash | [Telegram](https://t.me/unstoppable_announcements) [Bot](https://t.me/BeUnstoppable_bot) [X](https://x.com/unstoppablebyhs) [Site](https://unstoppable.money/) [GitHub](https://github.com/horizontalsystems) | 252K views, 10K MAU | 2026-10-01 |  |
-| 2 | TonNewbie |  | [Telegram](https://t.me/tonnewbie) [Bot](https://t.me/blockspinbot) [X](https://x.com/ru) | 227K views | 2026-09-28 |  |
+| 1 | TonNewbie |  | [Telegram](https://t.me/tonnewbie) [Bot](https://t.me/blockspinbot) [X](https://x.com/ru) | 201K views | 2026-09-28 |  |
+| 2 | Be Unstoppable | Be Unstoppable — a cryptocurrency wallet supporting Bitcoin, Ethereum, and Zcash | [Telegram](https://t.me/unstoppable_announcements) [Bot](https://t.me/BeUnstoppable_bot) [X](https://x.com/unstoppablebyhs) [Site](https://unstoppable.money/) [GitHub](https://github.com/horizontalsystems) | 84K views, 10K MAU | 2026-10-01 |  |
 | 3 | iQuizMaster |  | [Bot](https://t.me/iquizmaster_bot) [X](https://x.com/snapsterbot) | 20K MAU |  |  |
-| 4 | BehLand - Web3 L2E | BehLand — an educational platform with Web3 elements | [Telegram](https://t.me/BehLand_Official) [Bot](https://t.me/BehLand_gp) [X](https://x.com/BehLandOfficial) [Site](https://beh.land) [GitHub](https://github.com/beh-land) | 6K views | 2026-09-29 |  |
+| 4 | BehLand - Web3 L2E | BehLand — an educational platform with Web3 elements | [Telegram](https://t.me/BehLand_Official) [Bot](https://t.me/BehLand_gp) [X](https://x.com/BehLandOfficial) [Site](https://beh.land) [GitHub](https://github.com/beh-land) | 6K views | 2026-10-01 |  |
 
 [All 26 projects in Education](categories/education.md): 4 active, 22 quiet, 0 closed.
 
@@ -564,57 +566,57 @@ Within a category, projects on the map come first in map order, then active ones
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | Dogs ✓ | A gaming mini app for the $DOGS memecoin with NFTs and tournaments. | [Telegram](https://t.me/dogs) [Bot](https://t.me/dogshouse_bot) [X](https://x.com/realDogsHouse) [Site](https://dogs.dev/links) | 2.9M views, 161K MAU | 2026-09-18 |  |
-| 2 | CITY Holder ✓ | CITY Holder Game is a Build-to-Earn game where you build your city in Telegram. | [Telegram](https://t.me/city_holder) [Bot](https://t.me/cityholderbot) [X](https://x.com/City_Holder) [Site](https://holder.city/) | 2.2M views, 48K MAU | 2026-09-30 |  |
+| 2 | CITY Holder ✓ | CITY Holder Game is a Build-to-Earn game where you build your city in Telegram. | [Telegram](https://t.me/city_holder) [Bot](https://t.me/cityholderbot) [X](https://x.com/City_Holder) [Site](https://holder.city/) | 2.2M views, 48K MAU | 2026-10-01 |  |
 | 3 | Catizen ✓ | Catizen is a cat-themed simulation game on Telegram. | [Telegram](https://t.me/catizenann) [Bot](https://t.me/catizenbot) [X](https://x.com/CatizenAI) [Site](https://catizen.ai/) | 1.4M views, 83K MAU | 2026-09-23 | [coin98-games 24](archive/2024-05-coin98-games.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) |
-| 4 | Gatto ✓ | Gatto — 3v3 card battle game with pets on TON | [Telegram](https://t.me/gatto_game) [Bot](https://t.me/gatto_gamebot) [X](https://x.com/Gatto_game) [Site](https://gatto.pw/) | 1.3M views | 2026-09-30 | [coin98-games 24](archive/2024-02-coin98-games.jpg) [coin98-games 24](archive/2024-05-coin98-games.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
+| 4 | Gatto ✓ | Gatto — 3v3 card battle game with pets on TON | [Telegram](https://t.me/gatto_game) [Bot](https://t.me/gatto_gamebot) [X](https://x.com/Gatto_game) [Site](https://gatto.pw/) | 1.3M views | 2026-10-01 | [coin98-games 24](archive/2024-02-coin98-games.jpg) [coin98-games 24](archive/2024-05-coin98-games.jpg) [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton 25](archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
 | 5 | GAMEE ✓ |  | [Telegram](https://t.me/gameechannel) [Bot](https://t.me/gamee) [X](https://x.com/GAMEEToken) [Site](https://gamee.com) | 1.2M views, 279K MAU | 2026-09-29 | [ton 25](archive/2025-07-ton.jpg) |
 | 6 | PlayDeck ✓ | PlayDeck is a Telegram mini app offering over 250 free games. | [Telegram](https://t.me/playdecksupport) [Bot](https://t.me/playdeckbot) [X](https://x.com/playdeckgames) [GitHub](https://github.com/ton-play) | 987K MAU | 2025-11-12 | [coin98-games 24](archive/2024-02-coin98-games.jpg) [coin98-games 24](archive/2024-05-coin98-games.jpg) [ton 25](archive/2025-07-ton.jpg) |
-| 7 | Fomo Fighters ✓ | Fomo Fighters is a game where you develop your city, join a clan, and fight in wars. | [Telegram](https://t.me/fomo_fighters) [Bot](https://t.me/fomo_fighters_bot) | 833K views, 37K MAU | 2026-09-29 |  |
-| 8 | TON Kombat ✓ | TON Kombat is a Web3 RPG game with elements of strategy and character progression. | [Telegram](https://t.me/tonkombatofficial) [Bot](https://t.me/ton_kombat_bot) [X](https://x.com/TONKombat) [Site](https://tokkombat.com/) | 372K views, 36K MAU | 2026-09-29 |  |
+| 7 | Fomo Fighters ✓ | Fomo Fighters is a game where you develop your city, join a clan, and fight in wars. | [Telegram](https://t.me/fomo_fighters) [Bot](https://t.me/fomo_fighters_bot) | 833K views, 37K MAU | 2026-10-01 |  |
+| 8 | TON Kombat ✓ | TON Kombat is a Web3 RPG game with elements of strategy and character progression. | [Telegram](https://t.me/tonkombatofficial) [Bot](https://t.me/ton_kombat_bot) [X](https://x.com/TONKombat) [Site](https://tokkombat.com/) | 372K views, 36K MAU | 2026-09-30 |  |
 | 9 | TON Poker ✓ |  | [Telegram](https://t.me/tonpokerroom) [Bot](https://t.me/mytonpokerbot) | 221K views | 2026-09-30 | [ton 25](archive/2025-07-ton.jpg) |
-| 10 | EdChess ✓ | EdChess is a chess game with the ability to earn $GRAM. | [Telegram](https://t.me/edchessss) [Bot](https://t.me/edchess_bot) [X](https://x.com/join) [GitHub](https://github.com/PadTON) | 152K views, 34K MAU | 2026-09-29 | [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
+| 10 | EdChess ✓ | EdChess is a chess game with the ability to earn $GRAM. | [Telegram](https://t.me/edchessss) [Bot](https://t.me/edchess_bot) [X](https://x.com/join) [GitHub](https://github.com/PadTON) | 152K views, 34K MAU | 2026-10-01 | [ton-degen 24](archive/2024-06-ton-degen.jpg) [ton-cis-hub-q2 25](archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](archive/2025-ton-cis-hub.jpg) |
 | 11 | Sleepagotchi ✓ |  | [Telegram](https://t.me/sleepagotchi) | 92K views | 2026-09-17 | [ton 25](archive/2025-07-ton.jpg) |
-| 12 | Pixelmania ✓ |  | [Telegram](https://t.me/pixelmania) [Bot](https://t.me/pixel_mania_bot) | 33K views, 81K MAU | 2026-09-28 |  |
+| 12 | Pixelmania ✓ |  | [Telegram](https://t.me/pixelmania) [Bot](https://t.me/pixel_mania_bot) | 33K views, 81K MAU | 2026-10-01 |  |
 
-[All 751 projects in Games](categories/games.md): 98 active, 647 quiet, 6 closed.
+[All 751 projects in Games](categories/games.md): 118 active, 627 quiet, 6 closed.
 
 ## Farming
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | Boinkers ✓ | Boinkers 💩💎 game: upgrade your Boinkers, earn Moons, and travel to new planets. | [Telegram](https://t.me/boinkersnews) [Bot](https://t.me/boinker_bot) [X](https://x.com/BoinkersIO) | 15.5M views, 807K MAU | 2026-09-30 | [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
-| 2 | Time Farm ✓ | A gamified Telegram app for completing tasks and earning SECOND tokens. | [Telegram](https://t.me/timefarmchannel) [Bot](https://t.me/timefarmcryptobot) [X](https://x.com/ChronotechNews) [Site](https://Chrono.tech) | 7.7M views, 107K MAU | 2026-09-30 |  |
-| 3 | Agent 301 ✓ |  | [Telegram](https://t.me/app301) [Bot](https://t.me/agent301bot) [X](https://x.com/301Community) | 2.2M views, 264K MAU | 2026-09-30 |  |
-| 4 | Hrum ✓ | Hrum is a fortune cookie app for predictions and earning tokens. | [Telegram](https://t.me/hrumfam) [Bot](https://t.me/hrummebot) [X](https://x.com/tonco_io) [Site](https://tonco.io/) | 1.9M views, 51K MAU | 2026-09-30 |  |
-| 5 | CEXIO Power Tap ✓ | CEX.IO Power Tap is a crypto earning game. | [Telegram](https://t.me/cexio_announcements) [Bot](https://t.me/cexio_tap_bot) [X](https://x.com/cex_io) [Site](https://earn.cex.io/) | 1.5M views, 28K MAU | 2026-09-30 |  |
+| 1 | Boinkers ✓ | Boinkers 💩💎 game: upgrade your Boinkers, earn Moons, and travel to new planets. | [Telegram](https://t.me/boinkersnews) [Bot](https://t.me/boinker_bot) [X](https://x.com/BoinkersIO) | 15.5M views, 807K MAU | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) [messari 26](archive/2026-05-messari.jpg) |
+| 2 | Time Farm ✓ | A gamified Telegram app for completing tasks and earning SECOND tokens. | [Telegram](https://t.me/timefarmchannel) [Bot](https://t.me/timefarmcryptobot) [X](https://x.com/ChronotechNews) [Site](https://Chrono.tech) | 7.7M views, 107K MAU | 2026-10-01 |  |
+| 3 | Agent 301 ✓ |  | [Telegram](https://t.me/app301) [Bot](https://t.me/agent301bot) [X](https://x.com/301Community) | 2.2M views, 264K MAU | 2026-10-01 |  |
+| 4 | Hrum ✓ | Hrum is a fortune cookie app for predictions and earning tokens. | [Telegram](https://t.me/hrumfam) [Bot](https://t.me/hrummebot) [X](https://x.com/tonco_io) [Site](https://tonco.io/) | 1.9M views, 51K MAU | 2026-10-01 |  |
+| 5 | CEXIO Power Tap ✓ | CEX.IO Power Tap is a crypto earning game. | [Telegram](https://t.me/cexio_announcements) [Bot](https://t.me/cexio_tap_bot) [X](https://x.com/cex_io) [Site](https://earn.cex.io/) | 1.5M views, 28K MAU | 2026-10-01 |  |
 | 6 | Rich Dog Game ✓ | A play-to-earn Telegram mini-app where players earn in-game currency and can generate… | [Telegram](https://t.me/richdogsupport) [Bot](https://t.me/richdoggamebot) [X](https://x.com/RichDogGame) [Site](https://richdog.io) | 1.3M MAU |  |  |
-| 7 | Dropee ✓ | Dropee is a game where you build an empire and earn rewards. | [Telegram](https://t.me/dropee_community) [Bot](https://t.me/dropeebot) | 1.1M views, 56K MAU | 2026-09-28 |  |
-| 8 | SuperEarn ✓ |  | [Telegram](https://t.me/superearn) [X](https://x.com/superdapp) [Site](https://superearn.org) | 1M views | 2026-09-30 |  |
-| 9 | Super Wallet ✓ | Super Wallet — a wallet for earning crypto through staking and liquidity | [Telegram](https://t.me/superearn) [Bot](https://t.me/superdappbot) [X](https://x.com/superdapp) [Site](https://superearn.com/wallet) | 1M views | 2026-09-30 |  |
+| 7 | Dropee ✓ | Dropee is a game where you build an empire and earn rewards. | [Telegram](https://t.me/dropee_community) [Bot](https://t.me/dropeebot) | 1.1M views, 56K MAU | 2026-10-01 |  |
+| 8 | SuperEarn ✓ |  | [Telegram](https://t.me/superearn) [X](https://x.com/superdapp) [Site](https://superearn.org) | 1M views | 2026-10-01 |  |
+| 9 | Super Wallet ✓ | Super Wallet — a wallet for earning crypto through staking and liquidity | [Telegram](https://t.me/superearn) [Bot](https://t.me/superdappbot) [X](https://x.com/superdapp) [Site](https://superearn.com/wallet) | 1M views | 2026-10-01 |  |
 | 10 | My Duck ✓ |  | [Bot](https://t.me/myduck) | 851K MAU |  |  |
-| 11 | Hamster Kombat ✓ | Hamster Kombat is a game where you manage a game development studio and earn rewards. | [Telegram](https://t.me/hamsterkombat_official) [Bot](https://t.me/hamster_kombat_bot) [X](https://x.com/hamster_kombat) | 833K MAU |  | [ton-degen 24](archive/2024-06-ton-degen.jpg) |
+| 11 | Hamster Kombat ✓ | Hamster Kombat is a game where you manage a game development studio and earn rewards. | [Telegram](https://t.me/hamsterkombat_official) [Bot](https://t.me/hamster_kombat_bot) [X](https://x.com/hamster_kombat) | 833K MAU | 2024-09-21 | [ton-degen 24](archive/2024-06-ton-degen.jpg) |
 | 12 | HOT Wallet ✓ | HOT Wallet is a multichain crypto wallet within Telegram. | [Telegram](https://t.me/hotonnear) [Bot](https://t.me/herewalletbot) [X](https://x.com/hotdao_) | 672K views, 188K MAU | 2026-09-30 | [ton 25](archive/2025-07-ton.jpg) |
 
-[All 766 projects in Farming](categories/farming.md): 220 active, 543 quiet, 3 closed.
+[All 766 projects in Farming](categories/farming.md): 246 active, 517 quiet, 3 closed.
 
 ## Casino
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | VIRUS GAME ✓ | 🦠Канал: @omicron 🦠Поддержка: @Virussupport_bot 🦠Депозит подарками: @virusgift | [Telegram](https://t.me/omicron) [Bot](https://t.me/virus_play_bot) | 11M views, 744K MAU | 2026-09-29 |  |
-| 2 | Epic Gift ✓ | Epic Gift is a mini-app for earning and invitations. | [Telegram](https://t.me/epic_gift_official) [Bot](https://t.me/epic_gift_bot) | 10M views, 940K MAU | 2026-09-30 |  |
-| 3 | Easy Gift ✓ | Easy Gift is a game where users earn stars and receive gifts. | [Telegram](https://t.me/easygiftnews) [Bot](https://t.me/easygiftdropbot) | 4.5M views, 261K MAU | 2026-09-29 |  |
-| 4 | Gorilla Case ✓ | 🎁 Выиграй NFT-подарки мечты! | [Telegram](https://t.me/gorilla_news) [Bot](https://t.me/gorillacasebot) [X](https://x.com/gorillacase) | 4.4M views, 421K MAU | 2026-09-28 |  |
+| 1 | VIRUS GAME ✓ | 🦠Канал: @omicron 🦠Поддержка: @Virussupport_bot 🦠Депозит подарками: @virusgift | [Telegram](https://t.me/omicron) [Bot](https://t.me/virus_play_bot) | 11M views, 744K MAU | 2026-10-01 |  |
+| 2 | Epic Gift ✓ | Epic Gift is a mini-app for earning and invitations. | [Telegram](https://t.me/epic_gift_official) [Bot](https://t.me/epic_gift_bot) | 10M views, 940K MAU | 2026-10-01 |  |
+| 3 | Easy Gift ✓ | Easy Gift is a game where users earn stars and receive gifts. | [Telegram](https://t.me/easygiftnews) [Bot](https://t.me/easygiftdropbot) | 4.5M views, 261K MAU | 2026-10-01 |  |
+| 4 | Gorilla Case ✓ | 🎁 Выиграй NFT-подарки мечты! | [Telegram](https://t.me/gorilla_news) [Bot](https://t.me/gorillacasebot) [X](https://x.com/gorillacase) | 4.4M views, 421K MAU | 2026-10-01 |  |
 | 5 | Rocket Gift ✓ | Rocket Gift is a game with "Mines", "Crash", and "Fortune Spin" modes. | [Telegram](https://t.me/rocket_gift) [Bot](https://t.me/rocketxappbot) | 3.3M views, 150K MAU | 2026-09-30 |  |
-| 6 | TopGift ✓ | Community: @TopGiftNews | [Telegram](https://t.me/topgiftnews) [Bot](https://t.me/topgiftrobot) | 1.8M views, 68K MAU | 2026-09-29 |  |
-| 7 | HunnyPlay ✓ |  | [Telegram](https://t.me/hunnyfinancenews) [Bot](https://t.me/hunnyplay_bot) [X](https://x.com/HunnyPlay_) [Site](https://hunnyplay.io/?utm_source=ton-app&utm_medium=open-app&utm_campaign=profile-hunnyplay-web) | 661K views, 17K MAU | 2026-09-30 |  |
+| 6 | TopGift ✓ | Community: @TopGiftNews | [Telegram](https://t.me/topgiftnews) [Bot](https://t.me/topgiftrobot) | 1.8M views, 68K MAU | 2026-10-01 |  |
+| 7 | HunnyPlay ✓ |  | [Telegram](https://t.me/hunnyfinancenews) [Bot](https://t.me/hunnyplay_bot) [X](https://x.com/HunnyPlay_) [Site](https://hunnyplay.io/?utm_source=ton-app&utm_medium=open-app&utm_campaign=profile-hunnyplay-web) | 661K views, 17K MAU | 2026-10-01 |  |
 | 8 | Gifts Battle ✓ | Gifts Battle is a mini app for opening NFT cases. | [Telegram](https://t.me/giftsbattle) [Bot](https://t.me/giftsbattle_bot) | 650K views, 126K MAU | 2026-09-29 |  |
 | 9 | @TonPlay ✓ |  | [Bot](https://t.me/tonplay) [Site](https://tonplay.io) | 547K MAU |  | [tonpost 23](archive/2023-10-tonpost.jpg) [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) |
-| 10 | Rolls ✓ | PVP game with Telegram Gifts | [Telegram](https://t.me/rolls_tv) [Bot](https://t.me/rollsgame_bot) | 455K views, 131K MAU | 2026-09-29 | [messari 26](archive/2026-05-messari.jpg) |
-| 11 | Mell Gifts ✓ | Mell Gifts — a mini app for completing tasks and receiving NFTs | [Telegram](https://t.me/mellgifts) [Bot](https://t.me/mellgifts_bot) | 447K views, 30K MAU | 2026-09-30 |  |
-| 12 | StarsCase ✓ | A mini-app for opening virtual cases to win Telegram Stars, TON, and NFT gifts. | [Telegram](https://t.me/starsik) [Bot](https://t.me/starscase_robot) | 386K views, 34K MAU | 2026-09-27 |  |
+| 10 | Rolls ✓ | PVP game with Telegram Gifts | [Telegram](https://t.me/rolls_tv) [Bot](https://t.me/rollsgame_bot) | 455K views, 131K MAU | 2026-10-01 | [messari 26](archive/2026-05-messari.jpg) |
+| 11 | Mell Gifts ✓ | Mell Gifts — a mini app for completing tasks and receiving NFTs | [Telegram](https://t.me/mellgifts) [Bot](https://t.me/mellgifts_bot) | 447K views, 30K MAU | 2026-10-01 |  |
+| 12 | StarsCase ✓ | A mini-app for opening virtual cases to win Telegram Stars, TON, and NFT gifts. | [Telegram](https://t.me/starsik) [Bot](https://t.me/starscase_robot) | 386K views, 34K MAU | 2026-09-30 |  |
 
-[All 175 projects in Casino](categories/gambling.md): 33 active, 141 quiet, 1 closed.
+[All 175 projects in Casino](categories/gambling.md): 45 active, 129 quiet, 1 closed.
 
 ## Channels
 

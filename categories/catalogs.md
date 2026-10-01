@@ -8,11 +8,11 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | Gram News ✓ |  | [Telegram](https://t.me/gramnews) [Site](https://gramnews.org) | 479K views | 2026-09-30 |  |
+| 1 | Gram News ✓ |  | [Telegram](https://t.me/gramnews) [Site](https://gramnews.org) | 479K views | 2026-10-01 |  |
 | 2 | TON App ✓ |  | [Site](https://ton-game.com) [GitHub](https://github.com/toncenter/ton-wallet) |  | 2025-08-21 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 3 | DYOR.io ✓ |  | [Site](https://dyor.io) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 4 | ton.website ✓ |  | [Site](https://ton.website) |  |  |  |
-| 5 | FindMini.app ✓ |  | [Telegram](https://t.me/findminiapp) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 5 | FindMini.app ✓ |  | [Telegram](https://t.me/findminiapp) |  | 2026-05-25 | [ton 25](../archive/2025-07-ton.jpg) |
 | 6 | SUPER PLATFORM | 💎 Discover quality platforms worth your attention. | [Bot](https://t.me/yaojingappbot) | mentioned by 6 TON channels in Q3 |  |  |
 
 ## Quiet
@@ -21,5 +21,5 @@
 | ---: | --- | --- | --- | --- | --- | --- |
 | 7 | Gapps Center | Your Favourite App Center on Telegram gapps.site | [Bot](https://t.me/gappscenter_bot) | mentioned by 4 TON channels in Q3 |  |  |
 | 8 | TON App Center |  | [Telegram](https://t.me/tonappcenterbot) |  |  |  |
-| 9 | Trending Apps |  | [Telegram](https://t.me/trendingapps) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 10 | Yaya Mini Apps | Yaya community: https://t.me/yaya_gram Dev: @alanchruzh_9 | [Bot](https://t.me/yayaminiapps_bot) | mentioned by 4 TON channels in Q3 |  |  |
+| 9 | Yaya Mini Apps | Yaya community: https://t.me/yaya_gram Dev: @alanchruzh_9 | [Bot](https://t.me/yayaminiapps_bot) | mentioned by 4 TON channels in Q3 |  |  |
+| 10 | Trending Apps |  | [Telegram](https://t.me/trendingapps) |  | 2026-06-22 | [tonpost 23](../archive/2023-10-tonpost.jpg) |

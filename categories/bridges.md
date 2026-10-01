@@ -11,11 +11,11 @@
 | 1 | Symbiosis |  | [Telegram](https://t.me/symbiosis_announcements) [X](https://x.com/symbiosis_fi) [Site](https://app.symbiosis.finance/) [GitHub](https://github.com/symbiosis-finance) | 8K views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 2 | LayerZero |  | [Site](https://layerzero.network) |  |  | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 3 | Stargate |  | [Site](https://stargate.finance) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 4 | Rubic |  | [Telegram](https://t.me/cryptorubic) [Bot](https://t.me/RubicSupportBot) [X](https://x.com/cryptorubic) [Site](https://app.rubic.exchange) | 11K views | 2026-09-25 |  |
-| 5 | TAC ✓ |  | [Telegram](https://t.me/tacbuild) [Bot](https://t.me/tacairdrop_bot) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 4 | Rubic |  | [Telegram](https://t.me/cryptorubic) [Bot](https://t.me/RubicSupportBot) [X](https://x.com/cryptorubic) [Site](https://app.rubic.exchange) | 11K views | 2026-09-30 |  |
+| 5 | TAC ✓ |  | [Telegram](https://t.me/tacbuild) [Bot](https://t.me/tacairdrop_bot) |  | 2025-09-22 | [ton 25](../archive/2025-07-ton.jpg) |
 | 6 | NEAR Intents |  | [Site](https://near-intents.org) |  |  |  |
-| 7 | TonTake Bridge |  | [Telegram](https://t.me/TonTake) [X](https://x.com/tontakegame) | 110K views | 2026-09-30 |  |
-| 8 | Orbit Bridge |  | [Telegram](https://t.me/OrbitChainChannel) [Bot](https://t.me/bion_announcements) [X](https://x.com/Orbit_Chain) [Site](https://bridge.orbitchain.io/) [GitHub](https://github.com/orbit-chain) | TVL $20K | 2026-09-02 | [ton 25](../archive/2025-07-ton.jpg) |
+| 7 | TonTake Bridge |  | [Telegram](https://t.me/TonTake) [X](https://x.com/tontakegame) | 84K views | 2026-10-01 |  |
+| 8 | Orbit Bridge |  | [Telegram](https://t.me/OrbitChainChannel) [Bot](https://t.me/bion_announcements) [X](https://x.com/Orbit_Chain) [Site](https://bridge.orbitchain.io/) [GitHub](https://github.com/orbit-chain) | TVL $20K | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
 | 9 | SoDEX Bridge | SoDEX is a high-performance order book decentralized exchange (DEX) built on ValueChain. | [X](https://x.com/sodex_official) [Site](https://ssi.sosovalue.com) | TVL $12K |  |  |
 | 10 | TAC Cross Chain Layer | TAC Cross Chain Layer is a messaging and custody layer connecting TON and TAC EVM,… | [X](https://x.com/tacbuild) [Site](https://tac.build) | TVL $1.7M |  |  |
 | 11 | TON ↔ BSC |  | [Telegram](https://t.me/contest) [Bot](https://t.me/cryptouser_bot) [Site](https://bridge.ton.org) [GitHub](https://github.com/ton-blockchain) |  | 2026-10-01 |  |
@@ -27,13 +27,13 @@
 | 12 | AnyTap |  | [Bot](https://t.me/anytap_bot) [X](https://x.com/anytap_dapps) |  |  |  |
 | 13 | TON Bridge | Bridge for transferring USDT and USDC from other chains to TON | [Telegram](https://t.me/tonbankcard) [Bot](https://t.me/TONBridge_robot) [Site](https://bridge.tonbankcard.com) [GitHub](https://github.com/xlabtg) |  | 2026-09-28 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 14 | Axai on Waves |  | [Bot](https://t.me/wavesaxaibot) [X](https://x.com/wxnetwork) |  |  |  |
-| 15 | island3 |  | [Telegram](https://t.me/dedust_en) [Site](https://bridge.rangersprotocol.com/) [GitHub](https://github.com/rangersprotocolcode) |  | 2025-07-28 |  |
-| 16 | Transit Swap |  | [X](https://x.com/TransitFinance) [Site](https://swap.transit.finance/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 17 | VIZ gateway | VIZ gateway — bridge between GRAM and Solana chains for wVIZ | [Telegram](https://t.me/viz_world) [Bot](https://t.me/viz_cx) [Site](https://gateway.viz.cx) [GitHub](https://github.com/viz-cx/viz-gateway) |  | 2026-08-30 |  |
+| 15 | Transit Swap |  | [X](https://x.com/TransitFinance) [Site](https://swap.transit.finance/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 16 | VIZ gateway | VIZ gateway — bridge between GRAM and Solana chains for wVIZ | [Telegram](https://t.me/viz_world) [Bot](https://t.me/viz_cx) [Site](https://gateway.viz.cx) [GitHub](https://github.com/viz-cx/viz-gateway) |  | 2026-08-30 |  |
+| 17 | island3 |  | [Telegram](https://t.me/dedust_en) [Site](https://bridge.rangersprotocol.com/) [GitHub](https://github.com/rangersprotocolcode) |  | 2026-06-15 |  |
 
 ## Closed
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 18 | Layerswap |  | [Bot](https://t.me/lowkeybrokeybot) [X](https://x.com/layerswap) [Site](https://layerswap.io) [GitHub](https://github.com/layerswap) |  | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 19 | XP.NETWORK |  | [Telegram](https://t.me/XP_NETWORK_Ann) [Bot](https://t.me/siptg_bot) [X](https://x.com/xpnetwork_) [Site](https://bridge.xp.network/) [GitHub](https://github.com/XP-NETWORK) |  | 2025-02-07 | [ton 25](../archive/2025-07-ton.jpg) |
+| 19 | XP.NETWORK |  | [Telegram](https://t.me/XP_NETWORK_Ann) [Bot](https://t.me/siptg_bot) [X](https://x.com/xpnetwork_) [Site](https://bridge.xp.network/) [GitHub](https://github.com/XP-NETWORK) |  | 2025-05-11 | [ton 25](../archive/2025-07-ton.jpg) |

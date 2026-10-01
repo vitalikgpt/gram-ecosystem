@@ -2,7 +2,7 @@
 
 # Infra
 
-[Back to the list](../README.md#infra). 31 projects: 24 active in Q3 2026, 7 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#infra). 31 projects: 25 active in Q3 2026, 6 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -12,7 +12,7 @@
 | 2 | Fragment ✓ |  | [Site](https://fragment.com) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 3 | TON Core ✓ |  | [Telegram](https://t.me/toncore) [Site](https://ton.org) | 45K views | 2026-09-23 | [ton 25](../archive/2025-07-ton.jpg) |
 | 4 | Acton ✓ | A unified command-line toolchain for TON smart contracts in Tolk — project setup, tests,… | [Telegram](https://t.me/theopentooling) [Site](https://ton-blockchain.github.io/acton/) [GitHub](https://github.com/ton-blockchain/acton) | 4K views | 2026-09-30 |  |
-| 5 | Tolk ✓ |  | [Telegram](https://t.me/tolk_lang) [Site](https://docs.ton.org/v3/documentation/smart-contracts/tolk/overview) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
+| 5 | Tolk ✓ |  | [Telegram](https://t.me/tolk_lang) [Site](https://docs.ton.org/v3/documentation/smart-contracts/tolk/overview) |  | 2026-09-23 | [messari 26](../archive/2026-05-messari.jpg) |
 | 6 | Pyth |  | [Site](https://www.pyth.network) |  |  | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 7 | RedStone | A modular oracle delivering data for DeFi to EVM and non-EVM chains, TON included. | [Site](https://www.redstone.finance) [GitHub](https://github.com/redstone-finance) | commit 2026-10-01 | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 8 | TON Multisig ✓ |  | [Site](https://multisig.ton.org) |  |  |  |
@@ -28,19 +28,19 @@
 | 18 | TON Storage ✓ |  | [Site](https://docs.ton.org/v3/guidelines/web3/ton-storage/storage-daemon) |  |  | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 19 | MyTonCtrl ✓ |  | [Site](https://github.com/ton-blockchain/mytonctrl) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 20 | TON Verifier ✓ |  | [X](https://x.com/LevelQFinance) [Site](https://verifier.ton.org) [GitHub](https://github.com/ton-blockchain/verifier) | commit 2026-09-15 | 2026-09-15 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 21 | Cocoon ✓ | A decentralized network for confidential AI inference — GPU owners are paid in TON for… | [Telegram](https://t.me/cocoon) [Site](https://cocoon.doge.tg) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
-| 22 | DTON GraphQL |  | [Telegram](https://t.me/tvorogme) [GitHub](https://github.com/disintar) | commit 2026-09-28 | 2026-09-28 |  |
-| 23 | NOWNodes |  | [Telegram](https://t.me/nownodes) [X](https://x.com/NowNodes) [GitHub](https://github.com/NOWNodes) | commit 2026-09-30 | 2026-09-30 |  |
-| 24 | TON Access |  | [Telegram](https://t.me/orbsnetwork) [GitHub](https://github.com/orbs-network) | commit 2026-10-01 | 2026-10-01 |  |
+| 21 | Cocoon ✓ | A decentralized network for confidential AI inference — GPU owners are paid in TON for… | [Telegram](https://t.me/cocoon) [Site](https://cocoon.doge.tg) |  | 2025-11-30 | [messari 26](../archive/2026-05-messari.jpg) |
+| 22 | BotFather |  | [Bot](https://t.me/botfather) | 7.6M MAU |  | [messari 26](../archive/2026-05-messari.jpg) |
+| 23 | DTON GraphQL |  | [Telegram](https://t.me/tvorogme) [GitHub](https://github.com/disintar) | commit 2026-09-28 | 2026-09-28 |  |
+| 24 | NOWNodes |  | [Telegram](https://t.me/nownodes) [X](https://x.com/NowNodes) [GitHub](https://github.com/NOWNodes) | commit 2026-09-30 | 2026-09-30 |  |
+| 25 | TON Access |  | [Telegram](https://t.me/orbsnetwork) [GitHub](https://github.com/orbs-network) | commit 2026-10-01 | 2026-10-01 |  |
 
 ## Quiet
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 25 | BotFather |  | [Bot](https://t.me/botfather) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
 | 26 | GetBlock |  | [Telegram](https://t.me/getblockio_eng) [X](https://x.com/getblockio) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 27 | Resistance Storage Bot | Free TON Storage Provider Bag Explorer Mini-App Decentralized Storage Indexer piracy.ton | [Bot](https://t.me/resistoragebot) | mentioned by 5 TON channels in Q3 |  |  |
 | 28 | TON Console (TonAPI) |  | [Telegram](https://t.me/tonrostislav) [GitHub](https://github.com/tonkeeper/tonapi) |  | 2023-06-01 |  |
-| 29 | TON Foundation |  | [Telegram](https://t.me/tonfoundation) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
-| 30 | TON Search Engine |  | [Telegram](https://t.me/runner_ton) |  |  |  |
-| 31 | TON Torrents |  | [Telegram](https://t.me/tonrh) [GitHub](https://github.com/xssnick/TON-Torrent) |  | 2025-09-01 |  |
+| 29 | TON Search Engine |  | [Telegram](https://t.me/runner_ton) |  |  |  |
+| 30 | TON Torrents |  | [Telegram](https://t.me/tonrh) [GitHub](https://github.com/xssnick/TON-Torrent) |  | 2025-09-01 |  |
+| 31 | TON Foundation |  | [Telegram](https://t.me/tonfoundation) |  | 2024-07-29 | [messari 26](../archive/2026-05-messari.jpg) |
