@@ -2,8 +2,6 @@
 
 <img src="assets/cover.jpg" alt="Gram Ecosystem: TON and Telegram projects" width="100%">
 
-# Gram Ecosystem
-
 <img src="https://img.shields.io/badge/projects-3%2C184-5aa9ff?style=flat-square" alt="projects: 3,184"> <img src="https://img.shields.io/badge/active-928-4cd08a?style=flat-square" alt="active: 928"> <img src="https://img.shields.io/badge/categories-32-5aa9ff?style=flat-square" alt="categories: 32"> <img src="https://img.shields.io/badge/links%20fixed-1%2C268-f2b84b?style=flat-square" alt="links fixed: 1,268"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
 
 **Every TON and Telegram project we could verify: 3,184 of them in 32 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 6,854 links are checked every week; 1,268 wrong ones have been fixed so far, each with its evidence.

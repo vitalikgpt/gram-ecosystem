@@ -143,8 +143,6 @@ def build():
         "",
         '<img src="assets/cover.jpg" alt="Gram Ecosystem: TON and Telegram projects" width="100%">',
         "",
-        "# Gram Ecosystem",
-        "",
         " ".join(f'<img src="{badge(a, b, c)}" alt="{a}: {b}">' for a, b, c in badges)
         + f' <a href="https://github.com/{REPO}/actions/workflows/check.yml"><img src="https://github.com/{REPO}/actions/workflows/check.yml/badge.svg" alt="data check"></a>',
         "",
