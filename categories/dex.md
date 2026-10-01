@@ -9,19 +9,19 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | STON.fi ✓ | STON.fi — swap tokens across TON, EVM, and TRON in one interface | [Telegram](https://t.me/stonfidex) [Bot](https://t.me/ston_fi) [X](https://x.com/ston_fi) [Site](https://ston.fi) [GitHub](https://github.com/ston-fi) | 425K views | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 2 | STON.fi Bot ✓ |  | [Telegram](https://t.me/stonfidex) [Bot](https://t.me/stonfi_bot) [X](https://x.com/ston_fi) [Site](https://app.ston.fi) [GitHub](https://github.com/ston-fi) | 425K views, 27K MAU | 2026-10-01 |  |
+| 2 | STON.fi Bot ✓ | STON.fi: Cross-chain DeFi, without the chaos. | [Telegram](https://t.me/stonfidex) [Bot](https://t.me/stonfi_bot) [X](https://x.com/ston_fi) [Site](https://app.ston.fi) [GitHub](https://github.com/ston-fi) | 425K views, 27K MAU | 2026-10-01 |  |
 | 3 | DeDust ✓ | Decentralized exchange on TON | [Telegram](https://t.me/dedust_en) [Bot](https://t.me/dedustBot) [X](https://x.com/dedust_io) [Site](https://dedust.io) [GitHub](https://github.com/dedust-io) |  | 2026-06-15 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 4 | swap.coffee ✓ |  | [Telegram](https://t.me/swap_coffee) [Bot](https://t.me/swapcoffeebot) [X](https://x.com/swap_coffee_ton) [Site](https://swap.coffee/dex) | 4K views | 2026-08-12 | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
+| 4 | swap.coffee ✓ | The most effective DEX Aggregator on TON. Smart routing and transaction splitting. | [Telegram](https://t.me/swap_coffee) [Bot](https://t.me/swapcoffeebot) [X](https://x.com/swap_coffee_ton) [Site](https://swap.coffee/dex) | 4K views | 2026-08-12 | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
 | 5 | TONCO ✓ | TONCO — a decentralized exchange on TON with concentrated liquidity | [Telegram](https://t.me/tonco_io) [Bot](https://t.me/tonco_io_bot) [X](https://x.com/tonco_io) [Site](https://tonco.io) [GitHub](https://github.com/cryptoalgebra/tonco-demo) | 2K views | 2026-09-17 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 6 | Torch Finance ✓ |  | [Bot](https://t.me/torch_finance_bot) [Site](https://torch.finance) [GitHub](https://github.com/torch-core) |  | 2026-06-30 | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 6 | Torch Finance ✓ | 🚀 Torch DEX - Stable Swap on TON | [Bot](https://t.me/torch_finance_bot) [Site](https://torch.finance) [GitHub](https://github.com/torch-core) |  | 2026-06-30 | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 7 | Megaton Finance ✓ |  | [Site](https://megaton.fi) [GitHub](https://github.com/megaton-fi) |  | 2023-03-03 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 8 | Brivox | Brivox is built specifically for the future of decentralized finance. | [Bot](https://t.me/brivoxwbe3_bot) | mentioned by 9 TON channels in Q3 |  |  |
 | 9 | Rebor | Rebor is a bot for trading tokens on a decentralized exchange. | [Telegram](https://t.me/ReborCoin) [Bot](https://t.me/ReborCoinBot) [X](https://x.com/Reborcoin) [Site](https://rebor.xyz) | 282K MAU | 2026-07-10 |  |
 | 10 | CoffinMeme | CoffinMeme is a mini app for fighting "shitcoins" on TON. | [Telegram](https://t.me/coffin_en) [Bot](https://t.me/memecoffin_bot) [Site](https://coffin.meme) | TVL $23K | 2025-04-11 |  |
 | 11 | BiniChain DEX App | Created by Binibit.com | [Telegram](https://t.me/binibitnews) [Bot](https://t.me/binichain_bot) | mentioned by 9 TON channels in Q3 | 2026-09-29 |  |
-| 12 | TON Hedge |  | [Telegram](https://t.me/ton_hedge) [Bot](https://t.me/ton_hedge_bot) [X](https://x.com/tonhedge) | TVL $25K | 2025-06-16 | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 12 | TON Hedge | New generation trading platform on TON blockchain 💎 | [Telegram](https://t.me/ton_hedge) [Bot](https://t.me/ton_hedge_bot) [X](https://x.com/tonhedge) | TVL $25K | 2025-06-16 | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 13 | Tegro Finance | TegroFinance - A next evolution DeFi exchange on The Open Network (TON). | [X](https://x.com/TegroDEX) | TVL $13K |  |  |
-| 14 | Simple swap |  | [Telegram](https://t.me/just_a_simple_coin) [Bot](https://t.me/SwapSCBot) [X](https://x.com/SimpleCoin_Move) [Site](https://simple-coin.xyz/) |  | 2026-07-07 |  |
+| 14 | Simple swap | Simple Coin - дефляционный и ревардный токен, направленный на всеобщую децентрализацию.… | [Telegram](https://t.me/just_a_simple_coin) [Bot](https://t.me/SwapSCBot) [X](https://x.com/SimpleCoin_Move) [Site](https://simple-coin.xyz/) |  | 2026-07-07 |  |
 | 15 | Bidask | Bidask – a decentralized exchange on TON for token trading and liquidity provision | [Telegram](https://t.me/bidask) [Bot](https://t.me/bidask_protocol_bot) [X](https://x.com/BidaskProtocol) [Site](https://bidask.finance/) | TVL $97K | 2026-06-09 | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 
 ## Quiet
@@ -31,23 +31,23 @@
 | 16 | Rainbow.ag | Rainbow.ag - a swap aggregator on TON using GRAM. | [Telegram](https://t.me/rainbow_swap) [Bot](https://t.me/rainbow_swap_bot) [X](https://x.com/rainbow_swap) [Site](https://rainbow.ag/) [GitHub](https://github.com/0xblackbot/rainbow-swap) |  | 2026-09-17 | [ton 25](../archive/2025-07-ton.jpg) |
 | 17 | Titan | Titan is a decentralized exchange for token swaps on the TON network. | [Telegram](https://t.me/TitanTrading) [Bot](https://t.me/TitanTradeBot) [X](https://x.com/titanaggregator) [GitHub](https://github.com/titan-tg) |  | 2025-01-16 | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
 | 18 | Unibot V2 |  | [Bot](https://t.me/unibotsniper_bot) |  |  |  |
-| 19 | SnapX |  | [Telegram](https://t.me/SnapX_official) [Bot](https://t.me/snapx_prod_bot) [X](https://x.com/snapx_co) [GitHub](https://github.com/snapx-co) |  | 2025-11-11 |  |
+| 19 | SnapX | Filter the Noise. Print the Gains. | [Telegram](https://t.me/SnapX_official) [Bot](https://t.me/snapx_prod_bot) [X](https://x.com/snapx_co) [GitHub](https://github.com/snapx-co) |  | 2025-11-11 |  |
 | 20 | ChainCrops |  | [Bot](https://t.me/chaincrops_bot) [Site](https://traffic.adsgram.ai/campaigns) |  |  |  |
 | 21 | Graph | Graph — a trading terminal for digital assets on Solana | [Bot](https://t.me/graph_dex_bot) [Site](https://terminal.graphdex.io/sol/pulse) |  |  |  |
-| 22 | Gain Bot |  | [Bot](https://t.me/the_gain_bot) |  |  |  |
-| 23 | Bitrall |  | [Bot](https://t.me/bitrall_bot) |  |  |  |
-| 24 | Alton Trader |  | [Telegram](https://t.me/alton_trade) [Bot](https://t.me/altontraderbot) [X](https://x.com/TradeAlton) [Site](https://altons.trade) |  |  |  |
-| 25 | Alpha Dex |  | [Telegram](https://t.me/hotonnear) [Bot](https://t.me/alpha_web3_bot) [X](https://x.com/hotdao_) |  | 2026-09-29 |  |
-| 26 | Electra App |  | [Telegram](https://t.me/electra_channel) [Bot](https://t.me/electraappbot) [X](https://x.com/ElectraTrade) [Site](https://electra.trade) | TVL $9K | 2025-11-26 |  |
+| 22 | Gain Bot | Gain your digital sovereignty in Web3. | [Bot](https://t.me/the_gain_bot) |  |  |  |
+| 23 | Bitrall | 🤖Bitrall is a decentralized hybrid cryptocurrency exchange built on artificial… | [Bot](https://t.me/bitrall_bot) |  |  |  |
+| 24 | Alton Trader | AltonTrade - Future DEX on TON Blockchain / Empowering decentralized finance. 💹 Trade… | [Telegram](https://t.me/alton_trade) [Bot](https://t.me/altontraderbot) [X](https://x.com/TradeAlton) [Site](https://altons.trade) |  |  |  |
+| 25 | Alpha Dex | One terminal, limitless tools, infinite gains. | [Telegram](https://t.me/hotonnear) [Bot](https://t.me/alpha_web3_bot) [X](https://x.com/hotdao_) |  | 2026-09-29 |  |
+| 26 | Electra App | Trade easy, send BTC to the moon, farm points, and get rewarded! | [Telegram](https://t.me/electra_channel) [Bot](https://t.me/electraappbot) [X](https://x.com/ElectraTrade) [Site](https://electra.trade) | TVL $9K | 2025-11-26 |  |
 | 27 | Vanilla Finance |  | [Bot](https://t.me/vanilla_finance_bot) |  |  |  |
-| 28 | Joker Swap |  | [Bot](https://t.me/jokerswapbot) [X](https://x.com/joker__swap) |  |  |  |
+| 28 | Joker Swap | Joker Swap get free tokens for using your DEX wallet | [Bot](https://t.me/jokerswapbot) [X](https://x.com/joker__swap) |  |  |  |
 | 29 | VitooCoin |  | [Bot](https://t.me/vitoocoinbot) |  |  |  |
-| 30 | Kibble Exchange |  | [Telegram](https://t.me/KibbleAnnouncement) [Bot](https://t.me/KibbleExchangeBot) [X](https://x.com/KibbleExchange) |  | 2024-06-06 |  |
+| 30 | Kibble Exchange | Forging Tomorrow’s DeFi with AI Precision! 🔥 | [Telegram](https://t.me/KibbleAnnouncement) [Bot](https://t.me/KibbleExchangeBot) [X](https://x.com/KibbleExchange) |  | 2024-06-06 |  |
 | 31 | DEX BOOSTER GOLD |  | [Bot](https://t.me/dex_booster_bot) |  |  |  |
-| 32 | ION Finance |  | [Telegram](https://t.me/IONFINANCE_OFFICIAL) [Bot](https://t.me/ion_finance_bot) [X](https://x.com/Ion_Finance) [Site](https://ionfi.xyz/) [GitHub](https://github.com/ion-finance) |  | 2025-07-09 | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 32 | ION Finance | Official ION Finance Community Telegram Group, managed by the ION Finance Foundation… | [Telegram](https://t.me/IONFINANCE_OFFICIAL) [Bot](https://t.me/ion_finance_bot) [X](https://x.com/Ion_Finance) [Site](https://ionfi.xyz/) [GitHub](https://github.com/ion-finance) |  | 2025-07-09 | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 33 | xAurum BTC DCA |  | [Bot](https://t.me/xaurumbot) |  |  |  |
-| 34 | MyTonSwap |  | [Telegram](https://t.me/MyTonSwap) [Bot](https://t.me/MyTonSwap_bot) [X](https://x.com/MyTonSwap) |  | 2025-03-04 | [ton 25](../archive/2025-07-ton.jpg) |
-| 35 | Exchangel |  | [Bot](https://t.me/exchangel_bot) |  |  |  |
+| 34 | MyTonSwap | Dex Aggregator & Trading Bot On TON | [Telegram](https://t.me/MyTonSwap) [Bot](https://t.me/MyTonSwap_bot) [X](https://x.com/MyTonSwap) |  | 2025-03-04 | [ton 25](../archive/2025-07-ton.jpg) |
+| 35 | Exchangel | Calculate values of cryptocurrencies in multiple currencies | [Bot](https://t.me/exchangel_bot) |  |  |  |
 | 36 | Crouton Finance | Crouton is a decentralized exchange (DEX) and automated market maker (AMM) on TON,… | [X](https://x.com/croutonfi) |  |  |  |
 | 37 | Crypton Buy Bot | Crypton Buy Bot — tool for buying tokens on the TON blockchain | [Bot](https://t.me/CryptonBuyBot) [Site](https://crypton.tools) |  |  |  |
 | 38 | Crypton Super Bot | Crypton Super Bot — trading bot for the TON blockchain | [Bot](https://t.me/CryptonSuperbot) [Site](https://crypton.tools) |  |  |  |
@@ -58,30 +58,30 @@
 | 43 | EXTON | State of the Art Chat: https://t.me/beetonchat BEETON: https://t.me/beetontoken BOOST:… | [Telegram](https://t.me/exton_orders) [Bot](https://t.me/EXTON_SWAP_BOT) |  |  |  |
 | 44 | LoneToken CABOT |  |  |  |  |  |
 | 45 | PancakeSwap |  | [Site](https://pancakeswap.finance/swap?outputcurrency=0x76a797a59ba2c17726896976b7b3747bfd1d220f) [GitHub](https://github.com/pancakeswap) |  | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 46 | Polkaswap DEX |  | [Telegram](https://t.me/polkaswap) [Bot](https://t.me/polkaswap_io_bot) [X](https://x.com/polkaswap) [Site](https://polkaswap.io) [GitHub](https://github.com/sora-xor/polkaswap-exchange-web) |  | 2026-10-01 |  |
+| 46 | Polkaswap DEX | Polkaswap DEX: Built for an interoperable future | [Telegram](https://t.me/polkaswap) [Bot](https://t.me/polkaswap_io_bot) [X](https://x.com/polkaswap) [Site](https://polkaswap.io) [GitHub](https://github.com/sora-xor/polkaswap-exchange-web) |  | 2026-10-01 |  |
 | 47 | Prebit.io | Prebit.io — a decentralized exchange for trading Bitcoin with leverage up to 1001× | [Bot](https://t.me/PrebitAuthBot) [X](https://x.com/prebit_io) [Site](https://www.prebit.io) |  |  |  |
 | 48 | Snorter Bot |  | [Site](https://bs_6847cd65.medexa.care) |  |  |  |
 | 49 | SwapSwop |  | [Site](https://swapswop.io/) |  |  |  |
 | 50 | UpFin Trading Bot |  | [Telegram](https://t.me/upfin_bot) [Bot](https://t.me/UpFinChannel) [X](https://x.com/UpFinTrade) [Site](https://bit.ly/4lKLauS) |  |  |  |
 | 51 | UTYABSWAP |  | [Bot](https://t.me/utyabswapbot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 52 | What Swap |  | [Bot](https://t.me/what_swap_bot) [X](https://x.com/bigbangdear) [Site](https://what-swap.vercel.app/) [GitHub](https://github.com/bigbanghere/what-swap) |  | 2025-12-18 |  |
-| 53 | XBOT |  | [Bot](https://t.me/chainspyrobot) [X](https://x.com/twinbyxbot) |  |  |  |
+| 53 | XBOT | Crypto tools and DEX trading right in your Telegram | [Bot](https://t.me/chainspyrobot) [X](https://x.com/twinbyxbot) |  |  |  |
 | 54 | xDelta |  | [Telegram](https://t.me/xdelta_bot) [Bot](https://t.me/xdelta_finance) [X](https://x.com/xdelta_finance) [Site](https://xdelta.fi/?utm_source=tonapp) |  |  |  |
 | 55 | Capital DEX |  | [Bot](https://t.me/TONPlanetsBot) [X](https://x.com/curio_invest) [Site](https://capitaldex.exchange) [GitHub](https://github.com/CurioTeam) |  | 2026-10-01 |  |
 | 56 | MARS DEX | MARS DEX — marketplace for trading resources on Mars | [Bot](https://t.me/TONPlanetsBot) [Site](https://mars.tonplanets.com/en/dex/?from=TON&to=EQAL6e1UNPFksn8198qOD6KICnplw6f9cMIFuQW3xV9ld3Ro) |  | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
 | 57 | Uniswap |  | [Telegram](https://t.me/ime_en) [Site](https://app.uniswap.org/#/swap?outputcurrency=0x582d872a1b094fc48f5de31d3b73f2d9be47def1) |  | 2026-09-30 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 58 | Nomiswap |  | [Site](https://nomiswap.io/swap?outputCurrency=0x76A797A59Ba2C17726896976B7B3747BfD1d220f) [GitHub](https://github.com/nominex) |  | 2026-09-21 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 59 | Trade TOKEN |  | [Telegram](https://t.me/gumcoin) [Site](https://gumcoin.org/) |  | 2026-09-05 |  |
-| 60 | PAPA CARLO BOT |  | [Telegram](https://t.me/papacarlotoken) [Bot](https://t.me/papacarlobot_bot) [X](https://x.com/PCtoken) |  | 2026-05-04 |  |
+| 60 | PAPA CARLO BOT | ✅ Official Channel of the Project | [Telegram](https://t.me/papacarlotoken) [Bot](https://t.me/papacarlobot_bot) [X](https://x.com/PCtoken) |  | 2026-05-04 |  |
 | 61 | Moon.cx |  | [Telegram](https://t.me/mooncx_ru) [Site](https://moon.cx/) |  | 2026-03-27 | [ton 25](../archive/2025-07-ton.jpg) |
 | 62 | Swap App |  | [Telegram](https://t.me/swapapp_news) [Bot](https://t.me/swapairbot) [X](https://x.com/SwapAppTon) |  | 2026-03-12 |  |
 | 63 | Trading Bot |  | [Bot](https://t.me/MyTonSwap_Trading_bot) |  | 2025-03-04 |  |
-| 64 | Memeboost |  | [Telegram](https://t.me/MemeBoost_app) [Bot](https://t.me/meme_boost_bot) [X](https://x.com/MemeBoostBot) |  | 2024-09-11 |  |
-| 65 | The Gate |  | [Telegram](https://t.me/TheGateR) [X](https://x.com/TheGate562007) [Site](https://thegate.fun) |  | 2024-06-05 | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
+| 64 | Memeboost | The most popular #memecoin launchpad on , bringing 1 billion users to memecoins! | [Telegram](https://t.me/MemeBoost_app) [Bot](https://t.me/meme_boost_bot) [X](https://x.com/MemeBoostBot) |  | 2024-09-11 |  |
+| 65 | The Gate | You can view and join right away. | [Telegram](https://t.me/TheGateR) [X](https://x.com/TheGate562007) [Site](https://thegate.fun) |  | 2024-06-05 | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
 
 ## Closed
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 66 | TOB Bot |  | [Bot](https://t.me/tob_ton_trading_bot) [X](https://x.com/TobbotTon) [Site](https://tobbot.io/) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 66 | TOB Bot | TOB 🤖 - The Fastest Trading Bot on TON | [Bot](https://t.me/tob_ton_trading_bot) [X](https://x.com/TobbotTon) [Site](https://tobbot.io/) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 67 | TonTradingBot |  | [Bot](https://t.me/tontrade) [X](https://x.com/TonTradingBot) [Site](https://tontradingbot.com/) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |

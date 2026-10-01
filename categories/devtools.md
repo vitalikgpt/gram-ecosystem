@@ -32,11 +32,11 @@
 | 17 | TONChemy |  | [Bot](https://t.me/tonchemybot) |  |  |  |
 | 18 | TapUp |  | [Bot](https://t.me/tapup_bot) [X](https://x.com/tapup_tg) |  |  |  |
 | 19 | DECODE UR SEED |  | [Bot](https://t.me/decodeseedbot) |  |  |  |
-| 20 | Shuttle |  | [Telegram](https://t.me/Shuttle_ads) [Bot](https://t.me/shuttle_ton_bot) |  |  |  |
+| 20 | Shuttle | We are here for great things🚀 | [Telegram](https://t.me/Shuttle_ads) [Bot](https://t.me/shuttle_ton_bot) |  |  |  |
 | 21 | TonBubble |  | [Bot](https://t.me/tonbubblebot) |  |  |  |
 | 22 | The Wall Street |  | [Telegram](https://t.me/the_wallstreet_news) [Bot](https://t.me/the_wallstreet_bot) |  | 2024-07-12 |  |
 | 23 | Tonano |  | [Telegram](https://t.me/tonanoOfficial) [Bot](https://t.me/tonanobot) [X](https://x.com/Ton_scription) [Site](https://tonano.io/) |  |  |  |
-| 24 | To The Moon |  | [Telegram](https://t.me/utyablack) [Bot](https://t.me/moon_land_bot) [X](https://x.com/moonplay_games) [Site](https://moonplay.io) |  |  |  |
+| 24 | To The Moon | A space adventure where you build and launch your spaceship, mine coins, and secure a… | [Telegram](https://t.me/utyablack) [Bot](https://t.me/moon_land_bot) [X](https://x.com/moonplay_games) [Site](https://moonplay.io) |  |  |  |
 | 25 | @tonconnect/sdk | JavaScript SDK for TON Connect 2.0. | [Site](https://www.npmjs.com/package/@tonconnect/sdk) |  |  |  |
 | 26 | Adradar |  | [X](https://x.com/adradar_xyz) [Site](https://adradar.xyz) |  |  |  |
 | 27 | Anonymous Numbers Market Analytics | Fragment market statistics. | [GitHub](https://github.com/qpwedev/anonymous-numbers-market-analytics) |  | 2023-11-02 |  |
@@ -47,14 +47,14 @@
 | 32 | Chainstack TON Faucet | Daily TON testnet refills. | [Site](https://faucet.chainstack.com/ton-testnet-faucet) |  |  |  |
 | 33 | custon | Custom wallet address generator in JavaScript. | [GitHub](https://github.com/TON-NFT/custon) |  | 2023-11-03 |  |
 | 34 | darttonconnect | Dart SDK for mobile apps. | [GitHub](https://github.com/romanovichim/dartTonconnect) |  | 2023-11-14 |  |
-| 35 | DeLab |  | [Bot](https://t.me/delabbot) [X](https://x.com/delabteam) [GitHub](https://github.com/delab-team) |  | 2025-12-09 | [ton 25](../archive/2025-07-ton.jpg) |
+| 35 | DeLab | You can view and join right away. | [Bot](https://t.me/delabbot) [X](https://x.com/delabteam) [GitHub](https://github.com/delab-team) |  | 2025-12-09 | [ton 25](../archive/2025-07-ton.jpg) |
 | 36 | delab-team/connect | Multi-protocol SDK with unified interface. | [GitHub](https://github.com/delab-team/connect) |  | 2023-06-13 |  |
-| 37 | Directual no-code |  | [Bot](https://t.me/Directual_bot) [X](https://x.com/directual) [Site](https://readme.directual.com/plugins/using-plugins/blockchain-web3/ton-the-open-network) |  |  |  |
+| 37 | Directual no-code | Your smart Telegram assistant for Directual — get key updates and manage your account… | [Bot](https://t.me/Directual_bot) [X](https://x.com/directual) [Site](https://readme.directual.com/plugins/using-plugins/blockchain-web3/ton-the-open-network) |  |  |  |
 | 38 | foton | Comprehensive toolkit for TON dApps. | [GitHub](https://github.com/VanishMax/foton) |  | 2025-08-24 |  |
 | 39 | go/tonconnect | GO SDK for TON Connect. | [GitHub](https://github.com/cameo-engineering/tonconnect) |  | 2024-07-16 |  |
 | 40 | IntelliJ IDEs Plugin | TON development for JetBrains IDEs. | [Site](https://plugins.jetbrains.com/plugin/23382-ton) |  |  |  |
 | 41 | Language Server (LSP Server) | Supports Sublime Text, (Neo)Vim, Helix, and other editors with LSP support. | [GitHub](https://github.com/tact-lang/tact-language-server) |  | 2026-06-26 |  |
-| 42 | LFG AI Market |  | [Telegram](https://t.me/lfg_ai_bot) [Bot](https://t.me/ruhunt) [Site](https://lfg-ton-marketplace.vercel.app) |  |  |  |
+| 42 | LFG AI Market | Первый и единственный маркет ИИ-решений на TON. | [Telegram](https://t.me/lfg_ai_bot) [Bot](https://t.me/ruhunt) [Site](https://lfg-ton-marketplace.vercel.app) |  |  |  |
 | 43 | Misti Static Analyzer |  | [Telegram](https://t.me/tonsec_chat) [GitHub](https://github.com/nowarp/misti) |  | 2026-02-25 |  |
 | 44 | Multisender | Multisender sends tokens and NFTs to multiple recipients in just three clicks | [Telegram](https://t.me/MultiSender) [Bot](https://t.me/MultisenderTONBot) [X](https://x.com/multi_sender) [Site](https://multisender.app/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 45 | Nimbus API |  | [Site](https://getnimbus.io) |  |  |  |
@@ -67,7 +67,7 @@
 | 52 | Sublime Text Plugin | FunC support for Sublime. | [GitHub](https://github.com/savva425/func_plugin_sublimetext3) |  | 2023-01-26 |  |
 | 53 | SwiftyTON | Swift SDK with async/await support. |  |  |  |  |
 | 54 | Testnet Faucet |  | [Bot](https://t.me/paybis_crypto_exchange_bot) |  |  |  |
-| 55 | titon.network |  | [Telegram](https://t.me/titonnet) [X](https://x.com/titonnet) [Site](https://titon.network) |  |  |  |
+| 55 | titon.network | Shared security stack for TON | [Telegram](https://t.me/titonnet) [X](https://x.com/titonnet) [Site](https://titon.network) |  |  |  |
 | 56 | TMA Dev |  | [Telegram](https://t.me/twa_dev) [GitHub](https://github.com/twa-dev) |  | 2025-02-05 |  |
 | 57 | TON & TG Dev Tools |  | [Site](https://mehrdadjeyrani.ir) [GitHub](https://github.com/MGamerica) |  | 2026-06-01 |  |
 | 58 | TON Bulksender |  | [Telegram](https://t.me/bulksender) [X](https://x.com/TokenBulksender) [Site](https://ton.bulksender.app) |  |  |  |
@@ -76,8 +76,8 @@
 | 61 | Ton Inu Scanner | TON blockchain scanner for token analysis | [Bot](https://t.me/TonChainScannerBot) [X](https://x.com/toninutools) [Site](https://toninu.tech/) |  |  |  |
 | 62 | Ton Meme Bot | A bot for trading memecoins on TON | [Bot](https://t.me/memefun_tradingbot) [X](https://x.com/ton_meme_trader) [Site](https://linktr.ee/ton_meme) |  |  |  |
 | 63 | Ton Site Builder | Ton Web3 Site Builder.Based on Ton Storage. | [Bot](https://t.me/ton_site_builder_bot) | mentioned by 7 TON channels in Q3 |  |  |
-| 64 | Ton Tracker |  | [Bot](https://t.me/tonscanerbot) |  |  |  |
-| 65 | TON Web IDE |  | [Telegram](https://t.me/ton_web_ide) [GitHub](https://github.com/tact-lang/web-ide) |  | 2026-06-23 |  |
+| 64 | Ton Tracker | ⚡️ The fastest TON wallet sniper bot with smart filter | [Bot](https://t.me/tonscanerbot) |  |  |  |
+| 65 | TON Web IDE | Boost your web3 coding journey with us. | [Telegram](https://t.me/ton_web_ide) [Site](https://ide.ton.org) [GitHub](https://github.com/tact-lang/web-ide) |  | 2026-06-23 |  |
 | 66 | ton-blockchain/tonlib-go | Official Golang TonLib wrapper. | [GitHub](https://github.com/ton-blockchain/tonlib-go) |  | 2021-07-06 |  |
 | 67 | ton-community/twa-template | TWA template with TON integration. | [GitHub](https://github.com/ton-community/twa-template) |  | 2023-10-20 |  |
 | 68 | ton-core/ton | Cross-platform client by ton-core. | [GitHub](https://github.com/ton-core/ton) |  | 2024-07-16 |  |
@@ -99,7 +99,7 @@
 | 84 | Vanity TON |  | [Bot](https://t.me/earnigram_group) [Site](https://vanity.earnigram.com) |  |  |  |
 | 85 | VS Code Plugin | FunC syntax highlighting and tools. | [Site](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode) |  |  |  |
 | 86 | Xircus |  | [Bot](https://t.me/xircus_bot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 87 | Xtontracker |  | [Telegram](https://t.me/xtontracker) |  |  |  |
+| 87 | Xtontracker | This group for discussing and resolving issues for xtontracker.com service | [Telegram](https://t.me/xtontracker) |  |  |  |
 | 88 | yungwine/TonTools | High-level library for HTTP/ADNL. | [GitHub](https://github.com/yungwine/TonTools) |  | 2024-07-24 |  |
 | 89 | TON Domain Info bot |  | [Telegram](https://t.me/coincraddle_en) [Bot](https://t.me/coincraddle_change_bot) |  | 2026-09-30 |  |
 | 90 | Tonana |  | [Telegram](https://t.me/nums888) [Bot](https://t.me/nums888bot) [X](https://x.com/tonanadao) [Site](https://github.com/tonanadao) [GitHub](https://github.com/fluidicon.png) |  | 2026-09-24 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
@@ -107,11 +107,11 @@
 | 92 | TON NoCode SDK |  | [Telegram](https://t.me/safemoonTon) [Bot](https://t.me/safeTONdotFun) [X](https://x.com/SafetonPad) [Site](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) |  | 2026-08-24 |  |
 | 93 | Development Wallet |  | [Site](https://test.tonhub.com/dl) [GitHub](https://github.com/TractionEye) |  | 2026-06-23 |  |
 | 94 | Jetton Arbitrage |  | [Telegram](https://t.me/TGShopNews) [Bot](https://t.me/TGShopsBuilderBot) |  | 2026-03-03 |  |
-| 95 | TONX |  | [Telegram](https://t.me/tonxstudio) |  | 2025-10-31 | [ton 25](../archive/2025-07-ton.jpg) |
+| 95 | TONX | TONX is the SuperApp platform layer that enables builders to create the new Web3 economy. | [Telegram](https://t.me/tonxstudio) [Site](https://tonx.ai/) |  | 2025-10-31 | [ton 25](../archive/2025-07-ton.jpg) |
 | 96 | 8XR |  | [Telegram](https://t.me/gam8s) [X](https://x.com/8xr_engine) |  | 2025-10-18 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 97 | TONX API |  | [Telegram](https://t.me/tonxapi) [X](https://x.com/TONXAPI) [Site](https://tonxapi.com/) [GitHub](https://github.com/tonxapi/sample) |  | 2025-07-01 | [tradoor 25](../archive/2025-08-tradoor.jpg) |
-| 98 | TON.SKI Access |  | [Telegram](https://t.me/tonski_eng) [Site](https://ton.ski/access/) |  | 2025-03-05 | [ton 25](../archive/2025-07-ton.jpg) |
-| 99 | Oneclicksender |  | [Telegram](https://t.me/OneClickSender) [X](https://x.com/Oneclicksender) [Site](https://ton.oneclicksender.com/) |  | 2025-02-05 |  |
+| 97 | TONX API | Support the development of TON by offering an array of robust tools for a seamless… | [Telegram](https://t.me/tonxapi) [X](https://x.com/TONXAPI) [Site](https://tonxapi.com/) [GitHub](https://github.com/tonxapi/sample) |  | 2025-07-01 | [tradoor 25](../archive/2025-08-tradoor.jpg) |
+| 98 | TON.SKI Access | An ecosystem for TON Sites | [Telegram](https://t.me/tonski_eng) [Site](https://ton.ski/access/) |  | 2025-03-05 | [ton 25](../archive/2025-07-ton.jpg) |
+| 99 | Oneclicksender | You can view and join right away. | [Telegram](https://t.me/OneClickSender) [X](https://x.com/Oneclicksender) [Site](https://ton.oneclicksender.com/) |  | 2025-02-05 |  |
 
 ## Closed
 

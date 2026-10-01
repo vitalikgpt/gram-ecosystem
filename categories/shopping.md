@@ -8,10 +8,10 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | iCryptoCheck |  | [Telegram](https://t.me/iCryptoCheck) [Bot](https://t.me/iCryptoCheckBot) [X](https://x.com/iCryptoCheck) [GitHub](https://github.com/unlimadev/Orniton) | 42K MAU | 2025-05-15 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 1 | iCryptoCheck | 💱💼 Your guide to the world of crypto. | [Telegram](https://t.me/iCryptoCheck) [Bot](https://t.me/iCryptoCheckBot) [X](https://x.com/iCryptoCheck) [GitHub](https://github.com/unlimadev/Orniton) | 42K MAU | 2025-05-15 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 2 | Uquid Shop |  | [Telegram](https://t.me/uquidshop) [Bot](https://t.me/uquidbot) [X](https://x.com/uquidcard) | 1K MAU | 2026-06-22 |  |
 | 3 | uShopWebBot | Web bot shop builder for Telegram | [Telegram](https://t.me/uShopWeb) [Bot](https://t.me/uShopWebBot) [Site](https://www.ucoz.ru/bot/) | 475 views | 2026-07-08 |  |
-| 4 | IrenSystem |  | [Telegram](https://t.me/irensyst) [Bot](https://t.me/demoirensystembot) [Site](https://irensystem.ru) | 56 views | 2026-08-11 |  |
+| 4 | IrenSystem | IrenSystem - инструмент для предпринимателей и фрилансеров. | [Telegram](https://t.me/irensyst) [Bot](https://t.me/demoirensystembot) [Site](https://irensystem.ru) | 56 views | 2026-08-11 |  |
 | 5 | $GOVNO Paper Store |  | [Telegram](https://t.me/govnopaperstore) [Bot](https://t.me/GOVNOPaperBot) [Site](https://govnoton.com/) |  | 2026-07-12 |  |
 
 ## Quiet
@@ -19,28 +19,28 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 6 | USDt Gift Shop | USDt Gift Shop — a bot for buying gifts and services with TON stablecoins | [Telegram](https://t.me/fizen_io) [Bot](https://t.me/fizengiftshop_bot) [X](https://x.com/fizenapp) [Site](https://fizen.io/) |  |  |  |
-| 7 | FileMarket AI |  | [Bot](https://t.me/filemarketaiplaybot) [X](https://x.com/FileMarketAI) |  |  |  |
-| 8 | TADA mini |  | [Telegram](https://t.me/mvlchain_news_en) [Bot](https://t.me/TADA_Ride_Bot) [X](https://x.com/mvlchain) [Site](https://mvlchain.io/) |  | 2026-07-21 |  |
-| 9 | Hybrid Savings |  | [Bot](https://t.me/hybridsavingsbot) [X](https://x.com/Hybrid_savings) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 10 | Sellz Digital |  | [Bot](https://t.me/sellzdigitalbot) |  |  |  |
-| 11 | Richards Baklazhan |  | [Bot](https://t.me/growbaklazhanbot) |  |  |  |
+| 7 | FileMarket AI | Welcome to the world of FileMarket AI Data! Monetize your data and help major AI… | [Bot](https://t.me/filemarketaiplaybot) [X](https://x.com/FileMarketAI) |  |  |  |
+| 8 | TADA mini | 🚖 Ride the new wave, TADA mini for Web3 🤝 | [Telegram](https://t.me/mvlchain_news_en) [Bot](https://t.me/TADA_Ride_Bot) [X](https://x.com/mvlchain) [Site](https://mvlchain.io/) |  | 2026-07-21 |  |
+| 9 | Hybrid Savings | ХС: сотни выгодных предложений в одном месте | [Bot](https://t.me/hybridsavingsbot) [X](https://x.com/Hybrid_savings) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 10 | Sellz Digital | Create your Telegram digital store, accept orders, manage products, and engage customers. | [Bot](https://t.me/sellzdigitalbot) |  |  |  |
+| 11 | Richards Baklazhan | Leading AgroFi tap-to-grow global supply chain for distributing eggplants to every… | [Bot](https://t.me/growbaklazhanbot) |  |  |  |
 | 12 | Shop Builder | A Telegram shop with automated product filling and AI support | [Telegram](https://t.me/TGShopNews) [Bot](https://t.me/TGShopsBuilderBot) [X](https://x.com/Twitgram_HQ) [Site](https://tg-shops.com/) |  | 2026-03-03 |  |
 | 13 | Shop Builder | A Telegram shop with crypto payments and AI assistants | [Telegram](https://t.me/ShopsBuilder) [Bot](https://t.me/ShopsBuilderBot) [X](https://x.com/shopsbuilder) [Site](https://shopsbuilder.notion.site/helpcenter) |  | 2026-03-03 |  |
 | 14 | Tickyton |  | [Bot](https://t.me/tickytonbot) |  |  |  |
 | 15 | behind |  | [Bot](https://t.me/bhndbot) |  |  |  |
-| 16 | bionapp |  | [Telegram](https://t.me/bionapp_bot) [Bot](https://t.me/bion_announcements) [X](https://x.com/bion_app) [Site](https://www.bionapp.com/) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 16 | bionapp | Scan to Pay, access credit up to $300, buy gift cards and earn rewards—all in the Bion… | [Telegram](https://t.me/bionapp_bot) [Bot](https://t.me/bion_announcements) [X](https://x.com/bion_app) [Site](https://www.bionapp.com/) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 17 | Cashbacker |  | [Bot](https://t.me/cashbackton_bot) [Site](https://pizzaton.me) [GitHub](https://github.com/pizzaton) |  | 2024-11-24 |  |
 | 18 | Catallaxy | Catallaxy — a marketplace for digital goods and services on TON | [Telegram](https://t.me/catallaxy_bot) [Bot](https://t.me/catallaxy_ton) [X](https://x.com/catallaxy_ton) [Site](https://ctlx.cc) [GitHub](https://github.com/dearjohndoe/ton-agents-marketplace) |  | 2026-08-14 |  |
-| 19 | Coinco |  | [Telegram](https://t.me/coinco_bot) [Bot](https://t.me/coinco_global) [Site](https://coinco.io) |  |  |  |
-| 20 | GiftX: AI Wishlist |  | [Telegram](https://t.me/giftxtech_bot) |  |  |  |
-| 21 | OpenMarketplace |  | [Telegram](https://t.me/MarketplaceTeleBot) [Bot](https://t.me/OpenMarketplaces) |  |  |  |
-| 22 | TonMart |  | [Bot](https://t.me/tonmartbot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 19 | Coinco | Shop your favorite products in Coinco. Pay with crypto and ship to 200+ countries | [Telegram](https://t.me/coinco_bot) [Bot](https://t.me/coinco_global) [Site](https://coinco.io) |  |  |  |
+| 20 | GiftX: AI Wishlist | Вишлист, ИИ-подбор подарков, бронирование. Создай список желаний и делись одной ссылкой! | [Telegram](https://t.me/giftxtech_bot) |  |  |  |
+| 21 | OpenMarketplace | You can view and join right away. | [Telegram](https://t.me/MarketplaceTeleBot) [Bot](https://t.me/OpenMarketplaces) |  |  |  |
+| 22 | TonMart | Shop global products in TonMart. Pay with crypto and ship to 200+ countries. | [Bot](https://t.me/tonmartbot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 23 | Umy.com | Umy.com — hotel and flight bookings with cryptocurrency payments | [Telegram](https://t.me/umyofficialnews) [Bot](https://t.me/umy_official_bot) [X](https://x.com/umycomofficial) [Site](https://umy.com/) |  |  |  |
 | 24 | VibeMarket |  | [Telegram](https://t.me/vibecodemarketdev_bot) [Site](https://vibemarket.pro/en) |  |  |  |
 | 25 | WebDosa | WebDosa — a shopping bot in Telegram | [Telegram](https://t.me/undrdosabot) [Bot](https://t.me/undrdosa) |  |  |  |
-| 26 | AOKI Seller |  | [Telegram](https://t.me/DigtonFaucet) [Bot](https://t.me/aoki_seller_bot) [X](https://x.com/DigTonApp) [Site](https://aokimarket.com) |  | 2025-09-12 |  |
-| 27 | Peravel |  | [Telegram](https://t.me/peraveldefi) [Bot](https://t.me/Peravelbot) [Site](https://app.peravel.com/) |  | 2025-08-27 |  |
-| 28 | SoftShelf |  | [Telegram](https://t.me/SoftShelf) [Bot](https://t.me/SoftShelfBot) |  | 2025-05-05 |  |
+| 26 | AOKI Seller | Start business and open your shop with /start | [Telegram](https://t.me/DigtonFaucet) [Bot](https://t.me/aoki_seller_bot) [X](https://x.com/DigTonApp) [Site](https://aokimarket.com) |  | 2025-09-12 |  |
+| 27 | Peravel | 🚀 The Modern Life Solution! 🪙🛒✈️ 🌍 | [Telegram](https://t.me/peraveldefi) [Bot](https://t.me/Peravelbot) [Site](https://app.peravel.com/) |  | 2025-08-27 |  |
+| 28 | SoftShelf | Маркетплейс цифровых товаров в Telegram | [Telegram](https://t.me/SoftShelf) [Bot](https://t.me/SoftShelfBot) |  | 2025-05-05 |  |
 | 29 | monomenu |  | [Telegram](https://t.me/ton_portfel) [Bot](https://t.me/ton_portfel_bot) |  | 2024-11-01 |  |
 
 ## Closed
@@ -48,5 +48,5 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 30 | Bounty Bay |  | [Bot](https://t.me/pakcoin_kombat_bot) [X](https://x.com/0xBountyBay) [Site](https://www.bountybay.app/) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 31 | Elephant Store |  | [Telegram](https://t.me/slon_market) [Bot](https://t.me/elephantstorebot) [X](https://x.com/ownthedoge) |  | 2026-08-14 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 31 | Elephant Store | Don't miss a single sticker — collect them all! | [Telegram](https://t.me/slon_market) [Bot](https://t.me/elephantstorebot) [X](https://x.com/ownthedoge) |  | 2026-08-14 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 32 | TGGifts |  | [Telegram](https://t.me/tongiftsnews) [Bot](https://t.me/GetTonGifts_Bot) [X](https://x.com/TonGiftsbot) [Site](https://gifts.tg) |  | 2026-02-10 | [messari 26](../archive/2026-05-messari.jpg) |

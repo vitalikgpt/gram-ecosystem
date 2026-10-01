@@ -9,11 +9,11 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | MoonPay |  | [X](https://x.com/moonpay) [Site](https://www.moonpay.com) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 2 | Changelly |  | [Telegram](https://t.me/changelly) [Site](https://apps.apple.com/us/app/crypto-exchange-buy-bitcoin/id1435140380) [GitHub](https://github.com/changelly) | 65K views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
+| 2 | Changelly | Exchange crypto → changelly.page.link/telegram | [Telegram](https://t.me/changelly) [Site](https://apps.apple.com/us/app/crypto-exchange-buy-bitcoin/id1435140380) [GitHub](https://github.com/changelly) | 65K views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
 | 3 | ChangeNOW |  | [X](https://x.com/ChangeNOW) [Site](https://changenow.io) [GitHub](https://github.com/ChangeNow-io) |  | 2021-09-06 | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 4 | Alchemy Pay |  | [Site](https://alchemypay.org) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 5 | Transak |  | [Site](https://transak.com) |  |  |  |
-| 6 | Itez |  | [Telegram](https://t.me/itezofficial) [X](https://x.com/Itezofficial) [Site](https://itez.com/) | 2K views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
+| 6 | Itez | Buy, sell, swap and store digital assets in one app. OTC, off-ramp and payment solutions… | [Telegram](https://t.me/itezofficial) [X](https://x.com/Itezofficial) [Site](https://itez.com/) | 2K views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
 | 7 | MultiKassa Bot ✓ | MultiKassa bot lets you exchange cash rubles for cryptocurrency | [Telegram](https://t.me/multikassa_channel) [Bot](https://t.me/multikassa_bot) [X](https://x.com/multikassa) [Site](https://multikassa.com/) | 64 views | 2026-09-21 |  |
 | 8 | Mercuryo |  | [Site](https://mercuryo.io) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 9 | Prosto Exchange | Платите криптой по QR. Покупка и вывод на карту, наличные по миру. ProstoEx -легальный… | [Bot](https://t.me/prostoexbot) | mentioned by 5 TON channels in Q3 |  |  |
@@ -22,9 +22,9 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 10 | Avanchange |  | [Bot](https://t.me/avanchange_bot) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 10 | Avanchange | Fast and secure crypto exchange since 2018. Buy, sell, or swap. | [Bot](https://t.me/avanchange_bot) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 11 | AWX Crypto SHOP | Покупка и продажа крипто за фиат в офисах по всему Миру! | [Bot](https://t.me/awexcryptobot) |  |  |  |
 | 12 | GRAM в Рубли | 💎 Автоматический обмен GRAM в рубли с выводом на банковскую карту. 🔒 Без верификации /… | [Bot](https://t.me/gramtorub_bot) | mentioned by 6 TON channels in Q3 |  |  |
-| 13 | HoudiniSwap |  | [Bot](https://t.me/houdiniswap_bot) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
+| 13 | HoudiniSwap | HoudiniSwap bot will enable you to create exchanges directly within Telegram | [Bot](https://t.me/houdiniswap_bot) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
 | 14 | ONLY / P2P | Канал: @p2pru Комьюнити: @forum_by_only | [Bot](https://t.me/only_pays_bot) | mentioned by 3 TON channels in Q3 |  |  |
 | 15 | Transack |  | [Telegram](https://t.me/transakfinance) [X](https://x.com/transak) [GitHub](https://github.com/Transak) |  | 2026-08-26 |  |

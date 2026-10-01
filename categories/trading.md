@@ -8,15 +8,15 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | @Trade ✓ |  | [Bot](https://t.me/trade) | 336K MAU |  | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
+| 1 | @Trade ✓ | Обменивайтесь подарками в | [Bot](https://t.me/trade) | 336K MAU |  | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
 | 2 | PocketFi ✓ | Telegram-native memecoin trading app. | [Telegram](https://t.me/pocketfi) [Bot](https://t.me/pocketfi_bot) [X](https://x.com/pocket_fi) [Site](https://pocketfi.org/) | 236K views, 34K MAU | 2026-09-22 | [ton 25](../archive/2025-07-ton.jpg) |
 | 3 | Maestro |  | [Bot](https://t.me/maestro) [Site](https://www.maestrobots.com) | 95K MAU |  |  |
 | 4 | Upscale ✓ | Upscale – a prop‑trading service without KYC | [Telegram](https://t.me/upscale_news_en) [Bot](https://t.me/UpscaleTradeBot) [X](https://x.com/upscaletrade) [Site](https://app.upscale.trade) | 95K views, 19K MAU | 2026-10-01 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 5 | @GroypFi_bot ✓ | Chief Vibrations Officer A dose of this, a hit of that Twitter -… | [Telegram](https://t.me/groyp) [Bot](https://t.me/groypfi_bot) [X](https://x.com/groyp_on_ton) [Site](https://groypfi.io/) | 91K views | 2026-09-30 |  |
-| 6 | @DTrade ✓ |  | [Telegram](https://t.me/dtrade_news) [Bot](https://t.me/dtrade) [X](https://x.com/dtrade_tg) | 9K views | 2026-09-04 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 7 | RedoTrade ✓ |  | [Telegram](https://t.me/gramtrade) | 6K views | 2026-10-01 |  |
-| 8 | @Swapi ✓ |  | [Telegram](https://t.me/swapi_news) [Bot](https://t.me/swapi) | 71 views | 2026-08-26 |  |
-| 9 | ATF | 📌 channel :https://t.me/AI_TRADING_FOREX 🌐 Website: https://www.atftoken.com 🐦 Twitter:… | [Bot](https://t.me/atf_airdrop_bot) | mentioned by 37 TON channels in Q3 |  |  |
+| 6 | @DTrade ✓ | News channel for the lightning fast trading bot on TON | [Telegram](https://t.me/dtrade_news) [Bot](https://t.me/dtrade) [X](https://x.com/dtrade_tg) | 9K views | 2026-09-04 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 7 | RedoTrade ✓ |  | [Telegram](https://t.me/gramtrade) [X](https://x.com/redo_trade) [Site](https://redo.trade/) | 6K views | 2026-10-01 |  |
+| 8 | @Swapi ✓ | You can view and join right away. | [Telegram](https://t.me/swapi_news) [Bot](https://t.me/swapi) | 71 views | 2026-08-26 |  |
+| 9 | ATF | 📌 channel :https://t.me/AI_TRADING_FOREX 🌐 Website: https://www.atftoken.com 🐦 Twitter:… | [Bot](https://t.me/atf_airdrop_bot) [X](https://x.com/ai_trading_frx) [Site](https://www.atftoken.com) | mentioned by 37 TON channels in Q3 |  |  |
 | 10 | ⚡️Лобушкин молнит | Главный новостной терминал Прислать новость — @zhora Основной канал — @lobushkin Канал в… | [Telegram](https://t.me/lobushkinflash) [Bot](https://t.me/tgpodbor_bot) | mentioned by 3 TON channels in Q3 | 2026-10-01 |  |
 | 11 | КриптоАтака 24 ⚡️ | Наибыстрейший информационный по крипте 24/7 @cryptoattackbot - мгновенный агрегатор… | [Telegram](https://t.me/cryptoattack24) [Bot](https://t.me/attackconnect_bot) | mentioned by 4 TON channels in Q3 | 2026-10-01 |  |
 | 12 | Ultra Wallet |  | [Bot](https://t.me/ultrawallettrade_bot) | mentioned by 6 TON channels in Q3 |  |  |
@@ -35,7 +35,7 @@
 | ---: | --- | --- | --- | --- | --- | --- |
 | 21 | AI Market | AI-Market is a platform for automated cryptocurrency trading. 📢 Channel: @AiMarketTrade… | [Bot](https://t.me/aimarkettradebot) | mentioned by 10 TON channels in Q3 |  |  |
 | 22 | Bobby | We started as a buy bot, things changed. Bobby also owns the intelligence crypto runs… | [Bot](https://t.me/bobbybuybot) |  |  |  |
-| 23 | CAIHawk Signals | 🎯 Precision LONG signals 📊 SMC • Elliott Wave • TA 🎁 14-Day Free Trial 🔍 Live Proofs →… | [Bot](https://t.me/caihawk_signals_bot) | mentioned by 4 TON channels in Q3 |  |  |
+| 23 | CAIHawk Signals | 🎯 Precision LONG signals 📊 SMC • Elliott Wave • TA 🎁 14-Day Free Trial 🔍 Live Proofs →… | [Bot](https://t.me/caihawk_signals_bot) [Site](https://signals.caihawk.com) | mentioned by 4 TON channels in Q3 |  |  |
 | 24 | DTrade - TON trading bot | Fastest trading bot on TON @dtrade_news @dtrade_news_en @dtrade_chat_ru… | [Bot](https://t.me/dtrade_ton_bot) |  |  |  |
 | 25 | DTrade DC4 Backup | Main bot - @dtrade Dev - @dabload | [Bot](https://t.me/dtrade_dc4_backup_bot) | mentioned by 12 TON channels in Q3 |  |  |
 | 26 | Felix / Farm Stars | support: @traderFelix_admin | [Bot](https://t.me/felix_farm_stars_bot) | mentioned by 13 TON channels in Q3 |  |  |

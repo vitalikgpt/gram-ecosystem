@@ -18,10 +18,10 @@
 | 8 | Guardian | An intelligent group management bot with portal, buy bot and AI features 🔥… | [Bot](https://t.me/mevfreeportalbot) | 27K MAU |  |  |
 | 9 | Bter9 AI 2.5% | USDT balance to level up your agent and boost your daily income! @Bter9_Support | [Bot](https://t.me/bter9bot) | mentioned by 4 TON channels in Q3 |  |  |
 | 10 | AmberMarket / оплата GPT • Claude • Steam • PS Store | Магазин цифровых товаров в Telegram. | [Bot](https://t.me/ambermarket_official_bot) | mentioned by 5 TON channels in Q3 |  |  |
-| 11 | Creator. AI Video |  | [Telegram](https://t.me/creator_prompts) [Bot](https://t.me/creator_ai_tech_bot) [Site](https://Gensta.ai) | 16K views, 19K MAU | 2026-09-27 |  |
+| 11 | Creator. AI Video | Создавай ии видео и фото в боте 👉 или на сайте 👉 www.gensta.ai | [Telegram](https://t.me/creator_prompts) [Bot](https://t.me/creator_ai_tech_bot) [Site](https://Gensta.ai) | 16K views, 19K MAU | 2026-09-27 |  |
 | 12 | TeleClaw | Your personal AI agent | [Bot](https://t.me/claw) | mentioned by 3 TON channels in Q3 |  |  |
 | 13 | Sentism | Sentism — AI-powered tool for automating DeFi operations | [Telegram](https://t.me/sentismcommunity) [Bot](https://t.me/SentismAIBot) [X](https://x.com/Sentism_ai) [Site](https://sentism.ai) | 3K views, 11K MAU | 2026-09-02 |  |
-| 14 | Meme Me |  | [Bot](https://t.me/mememebot_bot) | 10K MAU |  |  |
+| 14 | Meme Me | Ready to turn your photos into epic memes? Upload your picture and watch the magic… | [Bot](https://t.me/mememebot_bot) | 10K MAU |  |  |
 
 ## Quiet
 
@@ -30,14 +30,14 @@
 | 15 | Cocktail App | Your endless fantasy | [Bot](https://t.me/cocktailappbot) |  |  |  |
 | 16 | HabbitHero |  | [Bot](https://t.me/habbithero_bot) |  |  |  |
 | 17 | GraFun Bot |  | [Bot](https://t.me/grafunbot) |  |  |  |
-| 18 | PartonaAI App |  | [Bot](https://t.me/partona_bot) |  |  |  |
+| 18 | PartonaAI App | Captivating AI character fantasies to explore, imagined by the community. | [Bot](https://t.me/partona_bot) |  |  |  |
 | 19 | SWAYE AI |  | [Bot](https://t.me/swaye_ai_bot) |  |  |  |
 | 20 | JarvisBot |  | [Bot](https://t.me/jarvisbot_ai_bot) [X](https://x.com/booinuinfo) |  |  |  |
-| 21 | MozoAI Bot |  | [Telegram](https://t.me/ShillGuardOfficial) [Bot](https://t.me/mozoai_bot) [X](https://x.com/Mozo_xyz) |  | 2026-09-30 |  |
-| 22 | Tearline Bot |  | [Bot](https://t.me/tearlineai_bot) |  |  |  |
-| 23 | Yoda AI |  | [Bot](https://t.me/yodabot) |  |  |  |
+| 21 | MozoAI Bot | Self-improving Knowledge Hub for AI | [Telegram](https://t.me/ShillGuardOfficial) [Bot](https://t.me/mozoai_bot) [X](https://x.com/Mozo_xyz) |  | 2026-09-30 |  |
+| 22 | Tearline Bot | Supercharge your AI agent with clean financial data | [Bot](https://t.me/tearlineai_bot) |  |  |  |
+| 23 | Yoda AI | Talk with Yoda anytime you want. | [Bot](https://t.me/yodabot) |  |  |  |
 | 24 | NeronAI |  | [Telegram](https://t.me/neron_news) [Bot](https://t.me/neronai_bot) [Site](https://neron.ai) |  |  |  |
-| 25 | NexaBit AI |  | [Telegram](https://t.me/nexabitHQ) [Bot](https://t.me/NexaBit_Tap_bot) [X](https://x.com/nexabitHQ) [Site](https://nexabit.web.app) |  | 2024-10-19 |  |
+| 25 | NexaBit AI | L3 AI blockchain powered by Arkham Intelligence and OpenAI. | [Telegram](https://t.me/nexabitHQ) [Bot](https://t.me/NexaBit_Tap_bot) [X](https://x.com/nexabitHQ) [Site](https://nexabit.web.app) |  | 2024-10-19 |  |
 | 26 | AiTon | Next Gen Ai Research project AiTon | [Bot](https://t.me/iaiton_bot) | mentioned by 5 TON channels in Q3 |  |  |
 | 27 | Alpha Track ~~ bot | AI-powered crypto intelligence. Your channels → filtered, categorized, delivered. Alpha,… | [Bot](https://t.me/alphatrack_ai_bot) | mentioned by 8 TON channels in Q3 |  |  |
 | 28 | Duck Ai App | Deploy & Manage Ai Agents easily Channel: @MyDuckAi Support: @zkproof | [Bot](https://t.me/teleduckaibot) | mentioned by 7 TON channels in Q3 |  |  |
@@ -48,6 +48,6 @@
 | 33 | Neural Networks | Помощь — @Neyrosetka_com | [Bot](https://t.me/chatgpt_tgm_bot) [GitHub](https://github.com/Stenix777/Neural-network-telegram) |  | 2024-05-21 |  |
 | 34 | OLOID X AI | Официальный бот LLC OLOID X | [Bot](https://t.me/oloidxauth_bot) | mentioned by 3 TON channels in Q3 |  |  |
 | 35 | Omniracle AI Search | Omniracle AI Search — tool for analyzing fast-moving topics on the internet | [Telegram](https://t.me/omniracle) [Bot](https://t.me/omniracle_bot) [X](https://x.com/omniracle) [Site](https://omniracle.com) |  |  |  |
-| 36 | Plate AI |  | [Bot](https://t.me/plateaibot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 36 | Plate AI | Snap. Know. Eat. Your free AI calorie tracker 🍽️ | [Bot](https://t.me/plateaibot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 37 | Fragment Neuro Bot |  | [Telegram](https://t.me/TeletonApp) [Bot](https://t.me/TeletonOfficialAppBot) [X](https://x.com/teletonapp) |  | 2025-01-04 |  |
 | 38 | Fragment Checker Bot |  |  |  | 2024-09-08 |  |

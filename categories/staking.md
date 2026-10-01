@@ -15,7 +15,7 @@
 | 5 | TON Validators ✓ |  | [Bot](https://t.me/tonvalidators_app_bot) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 6 | UTONIC ✓ |  | [Site](https://utonic.org) |  |  | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 7 | bemo ✓ |  | [Site](https://bemo.finance) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 8 | Butterflys |  | [Telegram](https://t.me/HipoFinance) [Bot](https://t.me/realbutterflys_bot) [X](https://x.com/Butterflyonton) [Site](https://app.hipo.finance/#/referrer=UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW/) [GitHub](https://github.com/HipoFinance) | 14K MAU | 2026-10-01 |  |
+| 8 | Butterflys | Welcome To 🦋 Butterfly's $BTYS. | [Telegram](https://t.me/HipoFinance) [Bot](https://t.me/realbutterflys_bot) [X](https://x.com/Butterflyonton) [Site](https://app.hipo.finance/#/referrer=UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW/) [GitHub](https://github.com/HipoFinance) | 14K MAU | 2026-10-01 |  |
 | 9 | bemo V1 | The liquid staking protocol on the TON blockchain. | [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) | TVL $2.1M |  |  |
 | 10 | bemo V2 | The liquid staking protocol on the TON blockchain. | [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) | TVL $0.5M |  |  |
 | 11 | Ethena tsUSDe | tsUSDe is a special version of sUSDe deployed on TON | [X](https://x.com/ethena) [Site](https://www.app.ethena.fi) | TVL $3.0M |  |  |
@@ -29,32 +29,32 @@
 | ---: | --- | --- | --- | --- | --- | --- |
 | 15 | PAKETKA |  | [Bot](https://t.me/paketka2_bot) [Site](https://swap.coffee/dex?referral=user_UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW) |  |  |  |
 | 16 | Shieldeum Node Rewards |  | [Telegram](https://t.me/predicton_news) [Bot](https://t.me/shieldeumbot) [X](https://x.com/Shieldeum) [Site](https://shieldeum.net) |  | 2025-07-27 |  |
-| 17 | tbook |  | [Bot](https://t.me/tbook_incentive_bot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 17 | tbook | The first embedded RWA liquidity layer that brings institutional-grade tokenized yield… | [Bot](https://t.me/tbook_incentive_bot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 18 | Bemo liquid staking | Bemo — a liquid staking platform on the TON blockchain | [Telegram](https://t.me/bemofinance) [Bot](https://t.me/bemo_finance_bot) [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) |  | 2026-06-12 |  |
 | 19 | TonFarm |  | [Telegram](https://t.me/TonGame_app) [Bot](https://t.me/tongame_farms_bot) [X](https://x.com/tongameapp) [Site](https://farm.tongame.app/) |  | 2026-09-28 |  |
-| 20 | SynQuest |  | [Bot](https://t.me/synquestbot) |  |  |  |
-| 21 | BounceTon Restaking |  | [Bot](https://t.me/bounceton_bot) [X](https://x.com/BouncTon) |  |  |  |
-| 22 | Buzz |  | [Bot](https://t.me/buzz_mine_bot) [X](https://x.com/BuzzWeb3_) |  |  |  |
+| 20 | SynQuest | SynQuest is a Telegram mini app offering a stake-play-earn! | [Bot](https://t.me/synquestbot) |  |  |  |
+| 21 | BounceTon Restaking | No lock, no staking. Move to Faucet Wallet — earn 4.08% yearly paid daily, enjoy free… | [Bot](https://t.me/bounceton_bot) [X](https://x.com/BouncTon) |  |  |  |
+| 22 | Buzz | Welcome to Buzz! We're the busy bees of Web3, here to sweeten your day with fortunes.… | [Bot](https://t.me/buzz_mine_bot) [X](https://x.com/BuzzWeb3_) |  |  |  |
 | 23 | G9 Token |  | [Bot](https://t.me/g9tokenbot) |  |  |  |
-| 24 | YouHold |  | [Telegram](https://t.me/youhold) [Bot](https://t.me/youhold_bot) [X](https://x.com/youhold_ton) |  | 2026-03-10 |  |
+| 24 | YouHold | YouHold is SuperFI app — wallet for earnings, investments and more | [Telegram](https://t.me/youhold) [Bot](https://t.me/youhold_bot) [X](https://x.com/youhold_ton) |  | 2026-03-10 |  |
 | 25 | NotStakers |  | [Telegram](https://t.me/notcoin) [Bot](https://t.me/notstacker_bot) |  | 2026-06-08 |  |
 | 26 | Bimcoin - TON DeFi Protocol. |  | [Telegram](https://t.me/Bimlight_Group) [Bot](https://t.me/BimlightBot) [X](https://x.com/Bim_Light) [Site](https://bimlight.org) |  |  |  |
 | 27 | Fanzee |  | [Telegram](https://t.me/viz_world) [Bot](https://t.me/viz_cx) [Site](https://app.fanz.ee/staking) [GitHub](https://github.com/viz-cx/viz-gateway) |  | 2026-08-30 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) |
 | 28 | Farmix | Leverage yield farming based on TON blockchain | [X](https://x.com/TonFarmix) |  |  |  |
 | 29 | MINTODINOS Staking |  |  |  |  |  |
-| 30 | Palette Finance |  | [Bot](https://t.me/palettefinancebot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 30 | Palette Finance | Earn it without thinking. | [Bot](https://t.me/palettefinancebot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 31 | TON Whales |  | [Telegram](https://t.me/whalessupportbot) [X](https://x.com/whalescorp) [GitHub](https://github.com/tonwhales) |  | 2026-08-13 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 32 | TonStake.com |  | [Bot](https://t.me/AveSniperBot) [X](https://x.com/tonstakecom) [Site](https://tonstake.com/) [GitHub](https://github.com/awesome-doge) |  | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 33 | Tonyielding |  | [X](https://x.com/Tonyielding) [GitHub](https://github.com/marakitio) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 34 | Whales Staking |  | [Telegram](https://t.me/stakeonwhales) [X](https://x.com/whalescorp) [Site](https://tonwhales.com/staking) [GitHub](https://github.com/tonwhales) |  | 2026-08-13 |  |
-| 35 | YieldFort Protocol |  | [Bot](https://t.me/ton_yieldfortbot) [X](https://x.com/yieldfort) |  |  |  |
+| 34 | Whales Staking | Ton Whales Staking pool chat for communicating in any language. | [Telegram](https://t.me/stakeonwhales) [X](https://x.com/whalescorp) [Site](https://tonwhales.com/staking) [GitHub](https://github.com/tonwhales) |  | 2026-08-13 |  |
+| 35 | YieldFort Protocol | You can view and join right away. | [Bot](https://t.me/ton_yieldfortbot) [X](https://x.com/yieldfort) |  |  |  |
 | 36 | UTN Staking |  | [Telegram](https://t.me/uniton_token) [Site](https://app.unitontoken.com) |  | 2026-08-05 |  |
 | 37 | XBANKING |  | [Telegram](https://t.me/xbanking) [X](https://x.com/xbankingapp) [Site](https://xbanking.org) [GitHub](https://github.com/SecondLive) |  | 2025-07-17 |  |
-| 38 | Tonverse |  | [Telegram](https://t.me/GoTonverse) [Bot](https://t.me/gohotbanana_bot) [X](https://x.com/verse_ton) |  | 2024-09-10 |  |
+| 38 | Tonverse | You can view and join right away. | [Telegram](https://t.me/GoTonverse) [Bot](https://t.me/gohotbanana_bot) [X](https://x.com/verse_ton) |  | 2024-09-10 |  |
 
 ## Closed
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 39 | Parraton | Yield Optimizer on TON 😎 | [Bot](https://t.me/parraton_bot) [X](https://x.com/parraton_com) | TVL $6K |  | [messari 26](../archive/2026-05-messari.jpg) |
-| 40 | Beetroot Finance |  | [Telegram](https://t.me/BeetrootFinance) [Bot](https://t.me/BeetrootFiBot) [X](https://x.com/beetroot_fi) [Site](https://beetroot.finance) [GitHub](https://github.com/Beetroot-fi) | TVL $1K | 2025-12-25 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 40 | Beetroot Finance | Automated Yield Farming Aggregator on TON blockchain 💎 | [Telegram](https://t.me/BeetrootFinance) [Bot](https://t.me/BeetrootFiBot) [X](https://x.com/beetroot_fi) [Site](https://beetroot.finance) [GitHub](https://github.com/Beetroot-fi) | TVL $1K | 2025-12-25 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |

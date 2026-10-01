@@ -8,19 +8,19 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | Getgems ✓ |  | [Telegram](https://t.me/getgems) [X](https://x.com/getgemsdotio) [Site](https://getgems.io/) [GitHub](https://github.com/getgems-io) | 272K views | 2026-09-29 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 1 | Getgems ✓ | getgems.io — the Home of NFT collections on The Open Network - an ultra-fast, secure,… | [Telegram](https://t.me/getgems) [X](https://x.com/getgemsdotio) [Site](https://getgems.io/) [GitHub](https://github.com/getgems-io) | 272K views | 2026-09-29 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 2 | Tonnel ✓ | P2P TON lending service against Telegram gifts. | [Telegram](https://t.me/tonnel_en) [Bot](https://t.me/tonnel_network_bot) [X](https://x.com/tonnel_network) [Site](https://Tonnel.network) [GitHub](https://github.com/Tonnel-Network/core) | 2.8M views, 125K MAU | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 3 | @MRKT ✓ | A Telegram marketplace for digital assets — gifts, stickers and more, with floor-price… | [Bot](https://t.me/mrkt) | 382K MAU |  | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 4 | Marketapp ✓ |  | [Bot](https://t.me/nfttonificatorbot) [Site](https://marketapp.ws) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 4 | Marketapp ✓ | Advanced Solution for NFT traders on TON | [Bot](https://t.me/nfttonificatorbot) [Site](https://marketapp.ws) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 5 | @Portals ✓ | Portals Market is a marketplace for trading gifts and items. | [Telegram](https://t.me/portals_community) [Bot](https://t.me/portals) [X](https://x.com/portalsmarket) | 1.8M views, 298K MAU | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 6 | Gift Satellite ✓ |  | [Telegram](https://t.me/giftsatellite) [Bot](https://t.me/gift_satellite_bot) | 431K views, 21K MAU | 2026-10-01 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 7 | webdom ✓ |  | [Bot](https://t.me/webdom_tgbot) [Site](https://webdom.market) |  |  | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 8 | Telegifts ✓ |  | [Telegram](https://t.me/telegiftsapp) [Bot](https://t.me/telegiftsappbot) | 19K views | 2026-09-10 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 6 | Gift Satellite ✓ | Gift Satellite — твой спутник в мире трейдинга подарками. | [Telegram](https://t.me/giftsatellite) [Bot](https://t.me/gift_satellite_bot) | 431K views, 21K MAU | 2026-10-01 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 7 | webdom ✓ | The first and most functional marketplace for TON DNS domains and usernames on Tolk. | [Bot](https://t.me/webdom_tgbot) [Site](https://webdom.market) |  |  | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 8 | Telegifts ✓ | Telegifts is the first full-featured Telegram Gifts explorer for iOS / Android / TMA | [Telegram](https://t.me/telegiftsapp) [Bot](https://t.me/telegiftsappbot) [Site](https://telegifts.app/download) | 19K views | 2026-09-10 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 9 | Pixel Market ✓ |  | [Telegram](https://t.me/pixelmarket_fam) [Bot](https://t.me/pixelmarket_support) [X](https://x.com/PixelMarketX) [Site](https://notpixel.org) | 120K views | 2026-09-29 |  |
 | 10 | Laffka NFT ✓ |  | [Telegram](https://t.me/laffkanft) [Bot](https://t.me/laffkastickerbot) | 26K views | 2026-09-30 |  |
 | 11 | Get Gifts ✓ |  | [Site](https://telegram-gifts.ru) |  |  |  |
-| 12 | Swift Gifts ✓ |  | [Telegram](https://t.me/swiftgifts_news) [Bot](https://t.me/giftbot) | 31K views | 2026-09-10 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 13 | @Thermos ✓ |  | [Telegram](https://t.me/thermos_news) [Bot](https://t.me/thermos) | 27K MAU | 2026-05-18 | [ton 25](../archive/2025-07-ton.jpg) |
+| 12 | Swift Gifts ✓ | Telegram Gifts Aggregator | [Telegram](https://t.me/swiftgifts_news) [Bot](https://t.me/giftbot) [X](https://x.com/swiftgifts_fun) [Site](https://web.swiftgifts.tg/) | 31K views | 2026-09-10 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 13 | @Thermos ✓ | Gift & Stickers Aggregator by team | [Telegram](https://t.me/thermos_news) [Bot](https://t.me/thermos) | 27K MAU | 2026-05-18 | [ton 25](../archive/2025-07-ton.jpg) |
 | 14 | BeSigned ✓ |  | [Telegram](https://t.me/besigned) [Bot](https://t.me/besignedbot) | 26K views | 2026-09-27 |  |
 | 15 | Palace Market ✓ |  | [Telegram](https://t.me/palaceproject) [Bot](https://t.me/palacenftbot) | 4K views | 2026-08-30 | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 16 | @Tags Bot ✓ | A bot for buying and selling NFT and non-NFT tags | [Telegram](https://t.me/tagged) [Bot](https://t.me/tags) [Site](https://tagsbot.netlify.app) | 4K views | 2026-09-27 |  |
@@ -84,10 +84,10 @@
 | 74 | Ton Fish Box | FISH is a meme token inspired by $PEPE. | [Telegram](https://t.me/tonfish_tg) [Bot](https://t.me/Tonsifisifhbot) [X](https://x.com/tonfish_tg) [Site](https://www.tonfish.io/) | 7K views | 2026-08-26 |  |
 | 75 | daolama.co lending | 514 NFT with utility at daolama.co service. | [Telegram](https://t.me/daolama) [Bot](https://t.me/daolama_bot) [X](https://x.com/daolama_ton) [Site](https://daolama.co/nft-collection?utm_source=tonapp&utm_medium=marketplace&utm_campaign=NFT) | 4K views | 2026-09-24 |  |
 | 76 | Chess Pieces | A unique NFT collection of 3600 Chess Pieces from the Chess Zombies metaverse - summon… | [Telegram](https://t.me/chesszombies) [X](https://x.com/SHEDEVERstudio) [Site](https://chesszombies.fun) | 2K views | 2026-09-14 |  |
-| 77 | StarAI |  | [Telegram](https://t.me/StarAI_Channel) [Bot](https://t.me/thestaraibot) [X](https://x.com/The_StarAI) [Site](https://starai.pro/) | 1K MAU |  |  |
+| 77 | StarAI | The world’s first AI multimodal asset Marketplace. | [Telegram](https://t.me/StarAI_Channel) [Bot](https://t.me/thestaraibot) [X](https://x.com/The_StarAI) [Site](https://starai.pro/) | 1K MAU |  |  |
 | 78 | Stalin Party Card | Stalin Party Card - is a collection of 1000 NFT party cards that are used in the Stalin… | [Telegram](https://t.me/StalinFoundation) [Site](https://) | 223 views | 2026-07-04 |  |
 | 79 | TONBANKCARD TECH | The TONBANKCARD ecosystem virtual NFT card will enable cardholders to use closed… | [Telegram](https://t.me/tonbankcard) [Bot](https://t.me/tonbankcard_bot) [Site](https://getgems.io/collection/EQAjHkHtt1MIoU5c7dks73Rz8NMxAA3oStSrcQ_qgn3il-Le) | 207 views | 2026-08-28 |  |
-| 80 | TRIBE marketplace |  | [Telegram](https://t.me/tribe_ton) [Bot](https://t.me/Tribeton_bot) [X](https://x.com/tribeton) [Site](https://tribeton.io) | 13 views, 80 MAU | 2026-09-19 |  |
+| 80 | TRIBE marketplace | WEB3 producer for content creators 👩‍🎨 tribeton.io | [Telegram](https://t.me/tribe_ton) [Bot](https://t.me/Tribeton_bot) [X](https://x.com/tribeton) [Site](https://tribeton.io) | 13 views, 80 MAU | 2026-09-19 |  |
 | 81 | Ton Street Boys | Коллекция из 2500 фотографий уличных пацанов, борющихся с испытаниями жития в гетто,… | [Telegram](https://t.me/tonstreetboys) [Bot](https://t.me/TsbWarsBot) | 32 views | 2026-08-17 |  |
 | 82 | ПOSTNEIRONIA | history of cursed humor and AI evolution | [Telegram](https://t.me/postneironia) [Site](https://getgems.io/user/EQD7TF4JB0hOz1nBOPDRVKyl14eGnMm7LcYzk_8A-7KMjalE) | 12 views | 2026-09-25 |  |
 | 83 | Ton Hedgehog | 1111 different hand-drawn pixel hedgehogs. | [Telegram](https://t.me/hedgehog_ton) [Site](https://) | 3 views | 2026-09-04 |  |
@@ -99,10 +99,10 @@
 | ---: | --- | --- | --- | --- | --- | --- |
 | 85 | Market Makers | Discover the Market Makers - an epic NFT collection by Storm Trade, where trading meets… | [Telegram](https://t.me/storm_trade_news) [Bot](https://t.me/StormTradeBot) [Site](https://getgems.io/market-makers) | 45K views | 2026-09-28 |  |
 | 86 | Mining NFT | VirtualsWorlds is a SocialFi + GameFi We have combined the mechanics of these two areas… | [Telegram](https://t.me/MagicVipClub) [Bot](https://t.me/MiningChatbot) [X](https://x.com/VirtualsWorlds) | 30K views | 2026-07-11 |  |
-| 87 | DMT Holder Assistant |  | [Bot](https://t.me/dmt_community_bot) |  |  |  |
-| 88 | Cubes |  | [Bot](https://t.me/cubesonthewater_bot) |  |  |  |
+| 87 | DMT Holder Assistant | That’s an official bot for DMT token community. | [Bot](https://t.me/dmt_community_bot) |  |  |  |
+| 88 | Cubes | The most questionable cubes on planet. | [Bot](https://t.me/cubesonthewater_bot) |  |  |  |
 | 89 | TonPixel |  | [Bot](https://t.me/tonpixel2049_bot) [X](https://x.com/TonPixelWorld) |  |  |  |
-| 90 | Shardify |  | [Telegram](https://t.me/shardify) [Bot](https://t.me/shardify_bot) [X](https://x.com/shardify_app) [Site](https://shardify.app) |  | 2025-12-06 | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) |
+| 90 | Shardify | Shardify: Split NFTs into tokens, buy/sell them to own a piece of NFT. | [Telegram](https://t.me/shardify) [Bot](https://t.me/shardify_bot) [X](https://x.com/shardify_app) [Site](https://shardify.app) |  | 2025-12-06 | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) |
 | 91 | Farty Beetle NFT Bot |  | [Bot](https://t.me/fart_beetle_bot) |  |  |  |
 | 92 | DropGift |  | [Telegram](https://t.me/tondartist) [Bot](https://t.me/dropgiftbot) |  | 2025-12-28 |  |
 | 93 | Toniqueapp |  | [Bot](https://t.me/tonique_bot) |  |  |  |
@@ -115,7 +115,7 @@
 | 100 | Apex Loot | Channel: @Apex_Lootbag Deposit: @apexrelayer Support: @Apexloot_support | [Bot](https://t.me/apexloot_bot) | mentioned by 12 TON channels in Q3 |  |  |
 | 101 | Basilisk | 🐉 Basilisk — событие игры Crownville. Расти василисков, зови друзей, забирай TON и… | [Bot](https://t.me/basiliskcrownvillebot) | mentioned by 10 TON channels in Q3 |  |  |
 | 102 | BitcoinJet | Это уникальный проект с возможностью заработка |  |  |  |  |
-| 103 | Bubble | Channel: @bubble_store Chat: t.me/+br7OxEiFXygzNzY0 X.сom: https://x.com/Bubbleagg… | [Bot](https://t.me/bubble_market_bot) | mentioned by 7 TON channels in Q3 |  |  |
+| 103 | Bubble | Channel: @bubble_store Chat: t.me/+br7OxEiFXygzNzY0 X.сom: https://x.com/Bubbleagg… | [Bot](https://t.me/bubble_market_bot) [X](https://x.com/Bubbleagg) | mentioned by 7 TON channels in Q3 |  |  |
 | 104 | CAMELS 🐪 | You can only earn 🎁 $Camels Airdrop based on your referrals 👥, the age of your Telegram… | [X](https://x.com/CamelsHouse) |  |  |  |
 | 105 | Cat Mafia NFT | Уникальная коллекция NFT Cat Mafia, найди себе мафиози по вкусу! | [Site](https://getgems.io/collection/EQBUhVMKeO5YZ4I151B1DVNbsimI_VWDA_eo7hpw4ITPvUbo) |  |  |  |
 | 106 | Cats in a parallel | 0% royalty. | [Site](https://getgems.io/collection/EQCJEMMuZIKwgxpnShxAykSSXqn9Y788ld6mIC7w9EqRayoS) |  |  |  |
@@ -127,7 +127,7 @@
 | 112 | Emojii | Create a Telegram identity like no one else. | [Bot](https://t.me/emojii_robot) |  |  |  |
 | 113 | eNOT COIN NFT | eNOT NFT Collection | [Telegram](https://t.me/eNOTCLUB) [Bot](https://t.me/eNOT_Invest_Bot) [Site](https://enot.info) |  |  |  |
 | 114 | Fuse | Launching with Web2, Web3, and Fusion collections that make culture collectible on-chain | [Bot](https://t.me/fusestickerbot) |  |  |  |
-| 115 | G-Bots |  | [Bot](https://t.me/gbots_bot) [Site](https://getgems.io/collection/gbots) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 115 | G-Bots | Бот для розыгрышей G-BOTS 🤖 | [Bot](https://t.me/gbots_bot) [Site](https://getgems.io/collection/gbots) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 116 | GCvpn • VPN Proxy Telegram |  | [Bot](https://t.me/giftchangesvpnbot) | mentioned by 3 TON channels in Q3 |  |  |
 | 117 | GhettoNFT |  | [Telegram](https://t.me/ghetton) [Bot](https://t.me/jumanjirobot) |  |  |  |
 | 118 | Gift Guarant | Все сделки проводятся строго ВНУТРИ БОТА! Сделки в чатах - мошенничество. Комиссия - 3%… | [Bot](https://t.me/giftguarantbot) | mentioned by 6 TON channels in Q3 |  |  |
@@ -153,8 +153,8 @@
 | 138 | MINTODINOS | Привет, ты слышал новость? | [Site](https://getgems.io/collection/mintodinos) |  |  |  |
 | 139 | MONAKI | Discover a closed community of builders, NFT collectors and crypto enthusiasts. | [Site](https://monaki.life) |  |  |  |
 | 140 | Montessori School | Welcome to the universe of the Montessori School NFT serial! |  |  |  |  |
-| 141 | Mutant Gifts |  | [Bot](https://t.me/mutantgiftsbot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 142 | NameCatcher |  | [Bot](https://t.me/NameCatcherBot) [GitHub](https://github.com/productmap/namecatcher-skills) |  | 2026-07-16 |  |
+| 141 | Mutant Gifts | Mutant Gift Gifts Mutantgiftsbot | [Bot](https://t.me/mutantgiftsbot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 142 | NameCatcher | Telegram usernames as an asset — catch mints, score any name, track the market. | [Bot](https://t.me/NameCatcherBot) [GitHub](https://github.com/productmap/namecatcher-skills) |  | 2026-07-16 |  |
 | 143 | NFT Collection Planner | Экспериментируй и создавай свои коллекции подарков Официальный канал:… | [Bot](https://t.me/giftconstruct_bot) | mentioned by 3 TON channels in Q3 |  |  |
 | 144 | NFT Drop Calendar |  |  |  |  |  |
 | 145 | NFT ONE |  | [X](https://x.com/nftoneio) [Site](https://nftone.io/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
@@ -174,13 +174,13 @@
 | 159 | RAT GIFTS |  | [Bot](https://t.me/ratgiftsbot) | mentioned by 5 TON channels in Q3 |  |  |
 | 160 | Reels | Every game counts. Every move can bring a Telegram gift. Are you in? Support:… | [Bot](https://t.me/open_reels_bot) | mentioned by 11 TON channels in Q3 |  |  |
 | 161 | Resistance Dog |  |  |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 162 | Rich Cats |  | [Bot](https://t.me/richcatsbot) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 162 | Rich Cats | First customizable NFT for Telegram, based on TON. | [Bot](https://t.me/richcatsbot) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 163 | Royal Case | 👑Сокровища короны у тебя в руках! Channel:@royal_cases Support: @royalcasesupp | [Bot](https://t.me/royal_case_bot) | mentioned by 6 TON channels in Q3 |  |  |
 | 164 | Royals | Play. Trade. Collect. But only one takes the crown. Support: @royals_gift Channel:… | [Bot](https://t.me/royals_market_bot) |  |  |  |
 | 165 | Royaltycoin |  | [Bot](https://t.me/Royaltycoin_bot) |  |  |  |
 | 166 | SafeApe | Торгуй по реальным графикам на виртуальный банк, забирай кейсы, турниры и сезонные… | [Bot](https://t.me/safe_ape_bot) | mentioned by 5 TON channels in Q3 |  |  |
 | 167 | Shuttles | 🚀 Shuttles is a cosmic Web3 game on Telegram. Battle in PvP, upgrade your shuttle, and… | [Bot](https://t.me/shuttles_moon_bot) | mentioned by 13 TON channels in Q3 |  |  |
-| 168 | SimpleNFT |  | [Bot](https://t.me/simplenftbot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 168 | SimpleNFT | Simplifying web3 monetization for developers. For creators by creators. | [Bot](https://t.me/simplenftbot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 169 | SMART TIGERS | This is the first collection of Smart Tigers on the NFT TON blockchain 💎 by ceoa. |  |  |  |  |
 | 170 | SPACEDISCOSHEEP | SPACEDISCOSHEEP is an NFT collection of 888 hand drawn sheep, inspired by an artwork of… |  |  |  |  |
 | 171 | SpinMi | Creating animated coin emojis in Telegram | [Telegram](https://t.me/spinmibot) [Bot](https://t.me/spinminews) [X](https://x.com/spinmibot) [Site](https://spinmi.xyz) |  |  |  |
@@ -227,22 +227,22 @@
 | 212 | 🪐 ASTROPUNK | A beautiful and unusual collection of astro-monkeys with their own history that are… | [Site](https://getgems.io/collection/EQB9cmgY_7BAeufdhYacKRTrxniEnJwyTvQJWAm2xlw48cdf) |  |  |  |
 | 213 | Telegram Stickers / Стикеры | Самый большой каталог стикеров телеграм! Сделать свои стикеры: @MoiStikiBot 💬Чат… | [Telegram](https://t.me/tgsticker) [Bot](https://t.me/moistikibot) | mentioned by 4 TON channels in Q3 | 2026-10-01 |  |
 | 214 | Art Incubator Coins | Craft your very own BEETON COIN, cast in gleaming gold, that showers its owner with… | [Telegram](https://t.me/beetontoken) [Bot](https://t.me/art_incubator_bot) [Site](https://getgems.io/collection/EQDB6DRfTh8zN-5MzmS9R6U5x44T2yESwuX-5ACXUAx4fMf9) |  | 2026-07-30 |  |
-| 215 | Chainsim |  | [Telegram](https://t.me/getchainsim) [Bot](https://t.me/chainsim_chat) [X](https://x.com/getchainsim) [Site](https://app.chainsim.io) [GitHub](https://github.com/chainsim/sdk-node) |  | 2026-06-11 |  |
+| 215 | Chainsim | Chainsim Official Channel 💎 | [Telegram](https://t.me/getchainsim) [Bot](https://t.me/chainsim_chat) [X](https://x.com/getchainsim) [Site](https://app.chainsim.io) [GitHub](https://github.com/chainsim/sdk-node) |  | 2026-06-11 |  |
 | 216 | Helmets | In Helmets, you embark on an exciting journey where you can collect points by completing… | [Telegram](https://t.me/tonhelmets) [Bot](https://t.me/helmetsbot) [Site](https://getgems.io/helmets) |  | 2026-05-29 |  |
 | 217 | HAVEUN | Приложение для размещения Юзернеймов, Вы можете добавить свой Юзернейм в виде… | [Telegram](https://t.me/Haveuncom) [Bot](https://t.me/haveun_bot) [Site](https://haveun.com/) |  | 2026-05-24 |  |
 | 218 | Meta Panthers | @LibermallBot: Торговая площадка с низкой комиссией. Создавайте, продавайте и покупайте… | [Telegram](https://t.me/metapanthers_ru) [Bot](https://t.me/libermallbot) [X](https://x.com/LibermallNFT) [Site](https://metapanthers.ru) [GitHub](https://github.com/LiberMall) |  | 2026-09-20 |  |
-| 219 | Market Playmuse |  | [Telegram](https://t.me/playmuse) [X](https://x.com/playmuseton) [Site](https://playmuse.org) |  | 2025-12-25 |  |
-| 220 | Playmuse |  | [Telegram](https://t.me/playmuse) |  | 2025-12-25 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 219 | Market Playmuse | Playmuse is a Web 3.0 service developed based on The Open Network blockchain. The… | [Telegram](https://t.me/playmuse) [X](https://x.com/playmuseton) [Site](https://playmuse.org) |  | 2025-12-25 |  |
+| 220 | Playmuse | Playmuse is a Web 3.0 service developed based on The Open Network blockchain. The… | [Telegram](https://t.me/playmuse) |  | 2025-12-25 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 221 | xRareio |  | [Telegram](https://t.me/versus_announcements) [Bot](https://t.me/tonexappbot) |  | 2025-11-01 |  |
 | 222 | Nobby.Game Fortune | Embark on this secretive journey, and let the whispers of fortune guide your path to the… | [Telegram](https://t.me/nobbygameru) [Bot](https://t.me/nobbygame_bot) [X](https://x.com/NobbyGame) [Site](https://getgems.io/collection/EQBaE_70Tg9Te7jhdxVD9xPEdAdVt9W_rx1nRXeBK0-zleEZ) |  | 2025-09-24 |  |
 | 223 | NobbyGame Royale SOX | Step into rarity with this exclusive collection of NFT socks, where each limited-edition… | [Telegram](https://t.me/nobbygameru) [Bot](https://t.me/nobbygame_bot) [X](https://x.com/NobbyGame) [Site](https://getgems.io/collection/EQAuvOFClTXbGGuSELiZz8tTEWOY-iyBwkUEpsWn-ZEcME4E) |  | 2025-09-24 |  |
 | 224 | Tonium World | Once upon a time, at the dawn of the universe, there was a primordial element — Tonium. | [Telegram](https://t.me/ToniumWorld) [Bot](https://t.me/ToniumWorldBot) |  | 2025-08-06 |  |
-| 225 | The Anime |  | [Telegram](https://t.me/TheAnime2024) [Site](https://getgems.io/theanime) |  | 2025-07-23 |  |
+| 225 | The Anime | The Anime is a collection of 20K Anime NFTs - Unique digital collectibles living on TON… | [Telegram](https://t.me/TheAnime2024) [Site](https://getgems.io/theanime) |  | 2025-07-23 |  |
 | 226 | Fragment @username |  | [Telegram](https://t.me/PieTrade) [Bot](https://t.me/PieTradeBot) |  | 2025-06-28 |  |
-| 227 | Succulents Dreams |  | [Telegram](https://t.me/tonsucculents) [Bot](https://t.me/tonsucculents_bot) [X](https://x.com/tonsucculents) [Site](https://getgems.io/collection/tonsucculents) |  | 2025-01-15 |  |
+| 227 | Succulents Dreams | Первая негенеративная коллекция NFT суккулентов, владение которыми позволяет получить… | [Telegram](https://t.me/tonsucculents) [Bot](https://t.me/tonsucculents_bot) [X](https://x.com/tonsucculents) [Site](https://getgems.io/collection/tonsucculents) |  | 2025-01-15 |  |
 | 228 | Netzprints | Get lifetime discount on NETZ.RUN VPN services while holding NFT | [Telegram](https://t.me/netzrun) [Site](https://getgems.io/netzprints) |  | 2024-12-31 |  |
-| 229 | POLYTEND (Auction) |  | [Telegram](https://t.me/anonymous_numbers_auction) |  | 2024-11-15 |  |
-| 230 | POLYTEND (DOM) |  | [Telegram](https://t.me/anonymous_numbers_dom) [Bot](https://t.me/airdropvwsbot) [GitHub](https://github.com/MagicVipPeople) |  | 2024-11-15 |  |
+| 229 | POLYTEND (Auction) | On auction: Telegram Anonymous Numbers. | [Telegram](https://t.me/anonymous_numbers_auction) |  | 2024-11-15 |  |
+| 230 | POLYTEND (DOM) | Depth of Market: Telegram Anonymous Numbers. | [Telegram](https://t.me/anonymous_numbers_dom) [Bot](https://t.me/airdropvwsbot) [GitHub](https://github.com/MagicVipPeople) |  | 2024-11-15 |  |
 | 231 | Angga Code | The Angga Code NFT project aims to develop a robust and integrated digital ecosystem… | [Telegram](https://t.me/anggacode) |  | 2024-11-08 |  |
 | 232 | :Ghosts | Images from the NFT collection ":Ghosts" depict samurais standing with their backs… | [Telegram](https://t.me/ghosts_ru) [Bot](https://t.me/GhostonBot) [X](https://x.com/ghosts_ton) [Site](https://getgems.io/collection/ghosts) |  | 2024-08-31 |  |
 | 233 | Cookie NFT | NFT collection for joining a private chat | [Telegram](https://t.me/cookiestokens) |  | 2024-07-07 |  |
@@ -253,4 +253,4 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 235 | Disintar.io |  | [Site](https://disintar.io/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 236 | TON Gifts |  | [Bot](https://t.me/giftstonbot) [X](https://x.com/joinretrocoin) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 236 | TON Gifts | 🎁 Отправляйте NFT подарки в Telegram, чтобы порадовать друзей и близких. Поддержка | [Bot](https://t.me/giftstonbot) [X](https://x.com/joinretrocoin) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |

@@ -8,9 +8,9 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | TonNewbie |  | [Telegram](https://t.me/tonnewbie) [Bot](https://t.me/blockspinbot) [X](https://x.com/ru) | 201K views | 2026-09-28 |  |
+| 1 | TonNewbie | Канал посвящён новостям и полезной информации для Вашего развития в крипто мире. | [Telegram](https://t.me/tonnewbie) [Bot](https://t.me/blockspinbot) [X](https://x.com/ru) | 201K views | 2026-09-28 |  |
 | 2 | Be Unstoppable | Be Unstoppable — a cryptocurrency wallet supporting Bitcoin, Ethereum, and Zcash | [Telegram](https://t.me/unstoppable_announcements) [Bot](https://t.me/BeUnstoppable_bot) [X](https://x.com/unstoppablebyhs) [Site](https://unstoppable.money/) [GitHub](https://github.com/horizontalsystems) | 84K views, 10K MAU | 2026-10-01 |  |
-| 3 | iQuizMaster |  | [Bot](https://t.me/iquizmaster_bot) [X](https://x.com/snapsterbot) | 20K MAU |  |  |
+| 3 | iQuizMaster | Seize the chance to grab a million pounds, showcase your strength, and win huge prizes | [Bot](https://t.me/iquizmaster_bot) [X](https://x.com/snapsterbot) | 20K MAU |  |  |
 | 4 | BehLand - Web3 L2E | BehLand — an educational platform with Web3 elements | [Telegram](https://t.me/BehLand_Official) [Bot](https://t.me/BehLand_gp) [X](https://x.com/BehLandOfficial) [Site](https://beh.land) [GitHub](https://github.com/beh-land) | 6K views | 2026-10-01 |  |
 
 ## Quiet
@@ -21,21 +21,21 @@
 | 6 | BrainGames |  | [Telegram](https://t.me/caspertma) [Bot](https://t.me/braingamesappbot) |  | 2025-04-09 |  |
 | 7 | Join Studihub |  | [Telegram](https://t.me/PieTrade) [Bot](https://t.me/joinstudihub_bot) [Site](https://pie.trading) |  | 2025-06-28 |  |
 | 8 | WordBooX |  | [Bot](https://t.me/wordboox_bot) [X](https://x.com/watchlist_id) |  |  |  |
-| 9 | Leap |  | [Telegram](https://t.me/leap_app) [Bot](https://t.me/leapapp_bot) [X](https://x.com/hey_leap) |  | 2024-11-16 |  |
+| 9 | Leap | Have fun, earn Leaps and learn crypto - for free and with friends. | [Telegram](https://t.me/leap_app) [Bot](https://t.me/leapapp_bot) [X](https://x.com/hey_leap) |  | 2024-11-16 |  |
 | 10 | Botanica |  | [Bot](https://t.me/botanica_school_bot) |  |  |  |
-| 11 | Vottun Dojo |  | [Bot](https://t.me/vottundojobot) [GitHub](https://github.com/BradDev01) |  | 2023-01-26 |  |
-| 12 | Salala Training AI |  | [Bot](https://t.me/salala_ai_training_bot) |  |  |  |
+| 11 | Vottun Dojo | Hello! Welcome to Shuriken, the place to master your Web3 skills🥷💻 | [Bot](https://t.me/vottundojobot) [GitHub](https://github.com/BradDev01) |  | 2023-01-26 |  |
+| 12 | Salala Training AI | Hyra AI provides pre-trained AI models to predict or make decisions based on new… | [Bot](https://t.me/salala_ai_training_bot) |  |  |  |
 | 13 | Tonal | Tonal — a bot with a personal AI mentor for self-discovery and creativity | [Telegram](https://t.me/tonalwin) [Bot](https://t.me/tonalwinbot) [X](https://x.com/tonalwin) |  | 2024-10-08 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 14 | LingoTon |  | [Bot](https://t.me/lingoton_bot) [X](https://x.com/lingoton_app) |  |  |  |
+| 14 | LingoTon | Tired of just learning languages or aimlessly maintaining streaks in other apps? No more! | [Bot](https://t.me/lingoton_bot) [X](https://x.com/lingoton_app) |  |  |  |
 | 15 | TonTon by Intract |  | [Telegram](https://t.me/tontonminiapp) [Bot](https://t.me/tonton_intract_bot) [X](https://x.com/TonTon_Intract) [Site](https://ton.bulksender.app) |  | 2025-03-13 |  |
-| 16 | Catia Eduverse |  | [Bot](https://t.me/catia_gamebot) [X](https://x.com/WeAreCatia) [Site](https://catia.co/) |  |  |  |
-| 17 | Trading Simulator |  | [Bot](https://t.me/trading_simulation_bot) |  |  |  |
-| 18 | Roblet |  | [Bot](https://t.me/roblet_io_bot) |  |  |  |
-| 19 | Crazy Llama English |  | [Bot](https://t.me/CrazyLlamaEnglish_bot) |  |  |  |
+| 16 | Catia Eduverse | Learn something fun today and earn amazing rewards! | [Bot](https://t.me/catia_gamebot) [X](https://x.com/WeAreCatia) [Site](https://catia.co/) |  |  |  |
+| 17 | Trading Simulator | Trading Simulator - Learn trading easily and enjoyably! 📈✨ Real charts, intuitive… | [Bot](https://t.me/trading_simulation_bot) |  |  |  |
+| 18 | Roblet | Learn and Earn with Roblet! | [Bot](https://t.me/roblet_io_bot) |  |  |  |
+| 19 | Crazy Llama English | 📚 Изучай английский язык с помощью удобных тренировок и заданий. Тренировка слов.… | [Bot](https://t.me/CrazyLlamaEnglish_bot) |  |  |  |
 | 20 | FunC Lessons |  | [Telegram](https://t.me/ton_learn) [GitHub](https://github.com/romanovichim/TonFunClessons_Eng) |  | 2024-07-07 |  |
-| 21 | Tact Language |  | [Telegram](https://t.me/tactlang) [X](https://x.com/tact_language) [GitHub](https://github.com/tact-lang) |  | 2026-07-29 |  |
+| 21 | Tact Language | Group for discussing Tact programming language in English | [Telegram](https://t.me/tactlang) [X](https://x.com/tact_language) [GitHub](https://github.com/tact-lang) |  | 2026-07-29 |  |
 | 22 | Tinlake | Tinlake is an educational mini-app on Telegram. | [Bot](https://t.me/tinlake_bot) [X](https://x.com/AppTinlake) |  |  |  |
 | 23 | Дневник разработчика на TON |  | [Bot](https://t.me/pandalotterybot) |  |  |  |
 | 24 | Дневник стартапера |  | [Bot](https://t.me/chaingptai_bot) [Site](https://www.chaingpt.org/) |  |  |  |
 | 25 | Мнимый в крипте |  | [Telegram](https://t.me/pixilandofficial) [Bot](https://t.me/pixiland_bot) [Site](https://pixiland.app) |  |  |  |
-| 26 | Lazy Reader |  | [Telegram](https://t.me/lazyreader_channel) [Bot](https://t.me/lazyreader_bot) [Site](https://lazy-reader.com/) |  | 2025-08-06 |  |
+| 26 | Lazy Reader | You can view and join right away. | [Telegram](https://t.me/lazyreader_channel) [Bot](https://t.me/lazyreader_bot) [Site](https://lazy-reader.com/) |  | 2025-08-06 |  |

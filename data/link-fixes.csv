@@ -244,7 +244,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,mono-farm,Mono Farm🍀,telegram,remove,https://t.me/MonoFarmCN,,username does not exist on t.me on 2026-10-01
 2026-10-01,mono-farm,Mono Farm🍀,x,remove,https://x.com/Glow_Stories,,"same account listed for unrelated projects: Glow, Mono Farm🍀"
 2026-10-01,monorix,Monorix,bot,remove,https://t.me/monorixbot,,username does not exist on t.me on 2026-10-01
-2026-10-01,monsterrr,MonsteRRR,x,remove,https://x.com/anonclub8,,"same account listed for unrelated projects: ANON Space, MonsteRRR"
+2026-10-01,monsterrr,MonsteRRR,x,remove,https://x.com/anonclub8,,"same account listed for unrelated projects: ANON (ANON), ANON Space, MonsteRRR"
 2026-10-01,mooli,Mooli,website,remove,https://ton.mooli.app/,,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,moon-app,MOON App,x,remove,https://x.com/EntertaimentCGS,,"same account listed for unrelated projects: CryptoMine CGS, MOON App"
 2026-10-01,moonberg-ai-bot,MOONBERG AI BOT,website,replace,https://coming.It,https://moonberg.com,https://t.me/moonbergai
@@ -405,6 +405,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,testnet-faucet,Testnet Faucet,x,remove,https://x.com/paybis,,"same account listed for unrelated projects: Paybis Wallet, Testnet Faucet, Toncoin Converter"
 2026-10-01,tgcasino,TGCasino,bot,remove,https://t.me/tgcasinoofficialbot,,username does not exist on t.me on 2026-10-01
 2026-10-01,tgr-boost,TGR Boost,x,replace,https://x.com/TegroTON,https://x.com/tgrtoken,https://t.me/tegrotonbot
+2026-10-01,the-exiles,The Exiles,x,remove,https://x.com/Play_SoE,,"same account listed for unrelated projects: SOEX (SOEX), The Exiles"
 2026-10-01,the-gate,The Gate,bot,remove,https://t.me/thegates_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,the-queue,The Queue,x,remove,https://x.com/yieldfort,,"same account listed for unrelated projects: YieldFort Protocol, The Queue"
 2026-10-01,thearthgame,THEarthGame,x,remove,https://x.com/mylegonton,,"same account listed for unrelated projects: THEarthGame, mylegton, MyLeg"
@@ -770,6 +771,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,coincodex,CoinCodex,x,remove,https://x.com/ton_blockchain,,"@ton_blockchain is ""TON 💎"", the account of TON Core (x profile)"
 2026-10-01,solidity-auditor,Solidity auditor,x,confirm,https://x.com/legalkornet,https://x.com/legalkornet,profile links to legal-kornet.com (x profile)
 2026-10-01,bimcoin-ton-defi-protocol,Bimcoin - TON DeFi Protocol.,x,confirm,https://x.com/Bim_Light,https://x.com/Bim_Light,profile links to bimlight.org (x profile)
+2026-10-01,token-soex,SOEX (SOEX),x,remove,https://x.com/Play_SoE,,"@Play_SoE is ""Shelter of Exiles"", the account of The Exiles (x profile)"
 2026-10-01,market-makers,Market Makers,x,remove,https://x.com/storm_trade_ton,,"@storm_trade_ton is ""Storm Trade ⚡️"", the account of Storm Trade (x profile)"
 2026-10-01,the-anime,The Anime,x,remove,https://x.com/H1997_x,,"@H1997_x is ""Arts of Generation | AI NFTs"", the account of LOA Hero (x profile)"
 2026-10-01,the-future-is-ton,the future is TON,x,confirm,https://x.com/cointool,https://x.com/cointool,profile links to ct.app (x profile)
@@ -798,6 +800,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,ton-fingerprints,TON Fingerprints,website,remove,https://nft.mir.one/fingerprints,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,tondons,TONDONS,website,remove,https://tondons.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,white-rabbit-ton,White Rabbit TON,website,remove,https://whiteclub.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,playmuse,Playmuse,website,remove,https://playmuse.org,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,tonium-world,Tonium World,website,remove,https://tonium.world,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,angga-code,Angga Code,website,remove,https://angga.me,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,cookie-nft,Cookie NFT,website,remove,https://cookietoken.net/,,site is gone: domain does not resolve on 2026-10-01 (dns)
