@@ -12,7 +12,6 @@ import sys
 import urllib.parse
 
 REPO = "vitalikgpt/gram-ecosystem"
-CHANNELS_SHOWN = 20
 TOP_REACH = 12
 PROBLEMS = "reports/link-check.md"
 SOURCES = {
@@ -224,7 +223,7 @@ def build():
         "| File | What is in it |",
         "| --- | --- |",
         f"| [data/projects.csv](data/projects.csv) | {len(rows):,} projects, one per row |",
-        f"| [data/channels.csv](data/channels.csv) | {len(chans):,} channels about TON that are not a project's own, with posts and views |",
+        f"| [data/channels.csv](data/channels.csv) | {len(chans):,} channels about TON that are not a project's own, with language, theme, posts and views |",
         "| [data/categories.json](data/categories.json) | categories in display order |",
         f"| [data/link-fixes.csv](data/link-fixes.csv) | {len(fixes):,} link decisions (replaced, removed, confirmed) with evidence |",
         f"| [data/unresolved.csv](data/unresolved.csv) | {len(unresolved)} names from old maps not tied to a project yet |",
@@ -246,14 +245,27 @@ def build():
         "",
         "## Channels",
         "",
-        f"Top {CHANNELS_SHOWN} channels about TON by post views from July to September 2026; all {len(chans):,} in "
-        "[data/channels.csv](data/channels.csv).",
+        f"{len(chans):,} channels write about TON without being a project's own. Together they have "
+        f"{fmt(sum(int(c['subscribers'] or 0) for c in chans))} subscribers and published "
+        f"{sum(int(c['posts_q3'] or 0) for c in chans):,} posts with {fmt(sum(int(c['views_q3'] or 0) for c in chans))} views "
+        "from July to September 2026. The full list with each channel's numbers is in [data/channels.csv](data/channels.csv).",
         "",
-        "| # | Channel | Subscribers | Views |",
-        "| ---: | --- | ---: | ---: |",
+        "| Theme | Channels | Subscribers | Posts | Views | Largest |",
+        "| --- | ---: | ---: | ---: | ---: | --- |",
     ]
-    for c in chans[:CHANNELS_SHOWN]:
-        out.append(f"| {c['rank']} | [{cell(c['name'])}]({c['telegram']}) | {fmt(c['subscribers'])} | {fmt(c['views_q3'])} |")
+    themes = {}
+    for c in chans:
+        themes.setdefault(c.get("theme") or "Other", []).append(c)
+    for t, cs in sorted(themes.items(), key=lambda kv: -sum(int(c["views_q3"] or 0) for c in kv[1])):
+        big = sorted(cs, key=lambda c: -int(c["views_q3"] or 0))[:3]
+        out.append(f"| {t} | {len(cs)} | {fmt(sum(int(c['subscribers'] or 0) for c in cs))} | "
+                   f"{sum(int(c['posts_q3'] or 0) for c in cs):,} | {fmt(sum(int(c['views_q3'] or 0) for c in cs))} | "
+                   + ", ".join(f"[{cell(c['name'])}]({c['telegram']})" for c in big) + " |")
+    langs = {}
+    for c in chans:
+        langs[c.get("language") or "other"] = langs.get(c.get("language") or "other", 0) + 1
+    names = {"ru": "Russian", "en": "English", "fa": "Persian", "uk": "Ukrainian", "ar": "Arabic", "id": "Indonesian", "zh": "Chinese"}
+    out += ["", "By language: " + ", ".join(f"{names.get(k, k)} {v}" for k, v in sorted(langs.items(), key=lambda kv: -kv[1]) if v >= 3) + "."]
     out += [
         "",
         "## Contribute",

@@ -115,7 +115,7 @@ The `sources` column lists every place a project was found:
 | File | What is in it |
 | --- | --- |
 | [data/projects.csv](data/projects.csv) | 3,184 projects, one per row |
-| [data/channels.csv](data/channels.csv) | 685 channels about TON that are not a project's own, with posts and views |
+| [data/channels.csv](data/channels.csv) | 685 channels about TON that are not a project's own, with language, theme, posts and views |
 | [data/categories.json](data/categories.json) | categories in display order |
 | [data/link-fixes.csv](data/link-fixes.csv) | 1,356 link decisions (replaced, removed, confirmed) with evidence |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
@@ -134,30 +134,18 @@ The `sources` column lists every place a project was found:
 
 ## Channels
 
-Top 20 channels about TON by post views from July to September 2026; all 685 in [data/channels.csv](data/channels.csv).
+685 channels write about TON without being a project's own. Together they have 78.3M subscribers and published 98,822 posts with 286.5M views from July to September 2026. The full list with each channel's numbers is in [data/channels.csv](data/channels.csv).
 
-| # | Channel | Subscribers | Views |
-| ---: | --- | ---: | ---: |
-| 1 | [Pavel Durov](https://t.me/durov) | 10.6M | 80.3M |
-| 2 | [crypto_okop](https://t.me/crypto_okop) | 142K | 8.8M |
-| 3 | [TONka→GRAM.smska](https://t.me/smska) | 468K | 7.6M |
-| 4 | [BALENCIAGA](https://t.me/groza) | 577K | 5.9M |
-| 5 | [Типичный Инвестор](https://t.me/eduardinvest) | 1.3M | 5.8M |
-| 6 | [YO vs Smash](https://t.me/yovssmash) | 27K | 4.9M |
-| 7 | [bape](https://t.me/bape) | 869K | 4.4M |
-| 8 | [BOROV_TUT](https://t.me/borov_club) | 92K | 4.1M |
-| 9 | [TON AirDrop (RU)](https://t.me/tonairdrop_ru) | 1.1M | 3.7M |
-| 10 | [Adele Toberg](https://t.me/adele_toberg) | 6K | 3.6M |
-| 11 | [Дайте TON!](https://t.me/givemetonru) |  | 3.5M |
-| 12 | [I’m Pepe](https://t.me/pepe_vlog) | 943K | 3.2M |
-| 13 | [SAGE AIRDROPS ( Crypto )](https://t.me/sageairdrops) | 44K | 3.1M |
-| 14 | [ПУШИСТЫЙ ИНВЕСТОР](https://t.me/fluffy_investor) | 396K | 3.1M |
-| 15 | [Крипта Скруджа](https://t.me/crypta) | 551K | 2.9M |
-| 16 | [На стояНке](https://t.me/getsendgifts) | 42K | 2.7M |
-| 17 | [PAPA CULT](https://t.me/papa666cult) | 863K | 2.4M |
-| 18 | [Gift News](https://t.me/gift_newstg) | 52K | 2.3M |
-| 19 | [Ladesov Crypto](https://t.me/eeusd) | 1.1M | 2.3M |
-| 20 | [Крипто Дядя](https://t.me/dadyacrypto) | 231K | 2.2M |
+| Theme | Channels | Subscribers | Posts | Views | Largest |
+| --- | ---: | ---: | ---: | ---: | --- |
+| Authors and blogs | 256 | 30.1M | 29,618 | 150M | [Pavel Durov](https://t.me/durov), [crypto_okop](https://t.me/crypto_okop), [BALENCIAGA](https://t.me/groza) |
+| Gifts and NFT | 239 | 20.1M | 33,941 | 67.9M | [bape](https://t.me/bape), [BOROV_TUT](https://t.me/borov_club), [I’m Pepe](https://t.me/pepe_vlog) |
+| Airdrops and farming | 80 | 16.8M | 13,650 | 25.4M | [TON AirDrop (RU)](https://t.me/tonairdrop_ru), [SAGE AIRDROPS ( Crypto )](https://t.me/sageairdrops), [Free Earnings](https://t.me/aird555) |
+| Trading and signals | 29 | 1.8M | 3,884 | 17.6M | [TONka→GRAM.smska](https://t.me/smska), [YO vs Smash](https://t.me/yovssmash), [MrKiaTeam / Candoo Trade / آموزش ترید از زیر صفر](https://t.me/candootrade) |
+| Investing and analytics | 17 | 3.6M | 3,669 | 13.4M | [Типичный Инвестор](https://t.me/eduardinvest), [Дайте TON!](https://t.me/givemetonru), [ПУШИСТЫЙ ИНВЕСТОР](https://t.me/fluffy_investor) |
+| News and media | 64 | 6M | 14,060 | 12.3M | [Крипта Скруджа](https://t.me/crypta), [CryptoDays 2.0](https://t.me/cryptodays), [Bitpapa Media](https://t.me/bitpapa_io) |
+
+By language: Russian 447, English 204, Persian 10, Ukrainian 6, Arabic 5, Indonesian 4, Chinese 3.
 
 ## Contribute
 
