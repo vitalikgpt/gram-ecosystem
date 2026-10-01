@@ -8,21 +8,21 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | Tonscan.org ✓ |  | [Telegram](https://t.me/catchain) [Site](https://tonscan.org) | 8K views | 2026-09-18 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 2 | Tonviewer ✓ |  | [X](https://x.com/bestramp_io) [Site](https://tonviewer.com) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 3 | Tonscan.com ✓ |  | [X](https://x.com/bastion) [Site](https://tonscan.com) |  |  |  |
-| 4 | Actonscan ✓ | An open-source TON explorer by TON Core — accounts, transactions, blocks, tokens and… | [Site](https://actonscan.com) |  |  |  |
-| 5 | TON NFT Explorer ✓ |  | [Telegram](https://t.me/this_is_ton) [Site](https://explorer.tonnft.tools) | 6K views | 2026-09-17 |  |
+| 1 | Tonscan.org ✓ |  | [Telegram](https://t.me/catchain) [Site](https://tonscan.org) [Gram News](https://gramnews.org/apps/tonscan) | 8K views | 2026-09-18 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 2 | Tonviewer ✓ |  | [X](https://x.com/bestramp_io) [Site](https://tonviewer.com) [Gram News](https://gramnews.org/apps/tonviewer) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 3 | Tonscan.com ✓ |  | [X](https://x.com/bastion) [Site](https://tonscan.com) [Gram News](https://gramnews.org/apps/tonscan-com) |  |  |  |
+| 4 | Actonscan ✓ | An open-source TON explorer by TON Core — accounts, transactions, blocks, tokens and… | [Site](https://actonscan.com) [Gram News](https://gramnews.org/apps/actonscan) |  |  |  |
+| 5 | TON NFT Explorer ✓ |  | [Telegram](https://t.me/this_is_ton) [Site](https://explorer.tonnft.tools) [Gram News](https://gramnews.org/apps/ton-nft-explorer) | 6K views | 2026-09-17 |  |
 | 6 | TonScan.info ✓ |  | [Site](https://tonscan.info) |  |  |  |
 
 ## Quiet
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 7 | 3xpl |  | [X](https://x.com/3xplcom) [Site](https://3xpl.com/ton) [GitHub](https://github.com/3xplcom) |  | 2026-07-19 | [ton 25](../archive/2025-07-ton.jpg) |
-| 8 | Dton |  | [Site](https://dton.io) [GitHub](https://github.com/StalinFoundation) |  | 2024-04-21 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 7 | 3xpl |  | [X](https://x.com/3xplcom) [Site](https://3xpl.com/ton) [GitHub](https://github.com/3xplcom) [Gram News](https://gramnews.org/apps/3xpl) |  | 2026-07-19 | [ton 25](../archive/2025-07-ton.jpg) |
+| 8 | Dton |  | [Site](https://dton.io) [GitHub](https://github.com/StalinFoundation) [Gram News](https://gramnews.org/apps/dton) |  | 2024-04-21 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 9 | M3TA | Just Web3 data made simple, enabled by AI 📊 | [Telegram](https://t.me/m3ta_analytics) [X](https://x.com/M3TA_Analytics) |  |  |  |
-| 10 | OKX Explorer |  | [Telegram](https://t.me/OKXOfficial_English) [X](https://x.com/okxexplorer) [Site](https://www.okx.com/web3/explorer) |  |  |  |
-| 11 | TON Atlas |  | [Bot](https://t.me/tonatlasbot) [Site](https://8xr.io) |  |  |  |
-| 12 | Whales Explorer |  | [Site](https://tonwhales.com/explorer) [GitHub](https://github.com/tonwhales) |  | 2026-08-13 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 10 | OKX Explorer |  | [Telegram](https://t.me/OKXOfficial_English) [X](https://x.com/okxexplorer) [Site](https://www.okx.com/web3/explorer) [Gram News](https://gramnews.org/apps/okx-explorer) |  |  |  |
+| 11 | TON Atlas |  | [Bot](https://t.me/tonatlasbot) [Site](https://8xr.io) [Gram News](https://gramnews.org/apps/tonatlasbot) |  |  |  |
+| 12 | Whales Explorer |  | [Site](https://tonwhales.com/explorer) [GitHub](https://github.com/tonwhales) [Gram News](https://gramnews.org/apps/whales-explorer) |  | 2026-08-13 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 13 | Tenere Explorer | Audiatur et altera pars. Universal token The Open Network. Max Supply 210,000,000 | [Telegram](https://t.me/teneretoken) |  | 2024-12-15 |  |

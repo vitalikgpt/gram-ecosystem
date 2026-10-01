@@ -8,28 +8,28 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | Symbiosis | The latest news on the development of the symbiotic blockchain metaverse. | [Telegram](https://t.me/symbiosis_announcements) [X](https://x.com/symbiosis_fi) [Site](https://app.symbiosis.finance/) [GitHub](https://github.com/symbiosis-finance) | 8K views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 1 | Symbiosis | The latest news on the development of the symbiotic blockchain metaverse. | [Telegram](https://t.me/symbiosis_announcements) [X](https://x.com/symbiosis_fi) [Site](https://app.symbiosis.finance/) [GitHub](https://github.com/symbiosis-finance) [Gram News](https://gramnews.org/apps/symbiosis) | 8K views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 2 | LayerZero |  | [Site](https://layerzero.network) |  |  | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 3 | Stargate |  | [Site](https://stargate.finance) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 4 | Rubic | Rubic - Best Rate Finder & Crypto Swap Aggregator | [Telegram](https://t.me/cryptorubic) [Bot](https://t.me/RubicSupportBot) [X](https://x.com/cryptorubic) [Site](https://app.rubic.exchange) | 11K views | 2026-09-30 |  |
+| 4 | Rubic | Rubic - Best Rate Finder & Crypto Swap Aggregator | [Telegram](https://t.me/cryptorubic) [Bot](https://t.me/RubicSupportBot) [X](https://x.com/cryptorubic) [Site](https://app.rubic.exchange) [Gram News](https://gramnews.org/apps/rubic) | 11K views | 2026-09-30 |  |
 | 5 | TAC ✓ |  | [Telegram](https://t.me/tacbuild) [Bot](https://t.me/tacairdrop_bot) |  | 2025-09-22 | [ton 25](../archive/2025-07-ton.jpg) |
 | 6 | NEAR Intents |  | [Site](https://near-intents.org) |  |  |  |
-| 7 | TonTake Bridge | Благотворительно-развлекательная криптоорганизация. | [Telegram](https://t.me/TonTake) [X](https://x.com/tontakegame) | 84K views | 2026-10-01 |  |
-| 8 | Orbit Bridge | Orbit Chain Announcement Channel | [Telegram](https://t.me/OrbitChainChannel) [X](https://x.com/Orbit_Chain) [Site](https://bridge.orbitchain.io/) [GitHub](https://github.com/orbit-chain) | TVL $20K | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
+| 7 | TonTake Bridge | Благотворительно-развлекательная криптоорганизация. | [Telegram](https://t.me/TonTake) [X](https://x.com/tontakegame) [Gram News](https://gramnews.org/apps/tontake-bridge) | 84K views | 2026-10-01 |  |
+| 8 | Orbit Bridge | Orbit Chain Announcement Channel | [Telegram](https://t.me/OrbitChainChannel) [X](https://x.com/Orbit_Chain) [Site](https://bridge.orbitchain.io/) [GitHub](https://github.com/orbit-chain) [Gram News](https://gramnews.org/apps/orbit-bridge) | TVL $20K | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
 | 9 | SoDEX Bridge | SoDEX is a high-performance order book decentralized exchange (DEX) built on ValueChain. | [X](https://x.com/sodex_official) [Site](https://ssi.sosovalue.com) | TVL $12K |  |  |
 | 10 | TAC Cross Chain Layer | TAC Cross Chain Layer is a messaging and custody layer connecting TON and TAC EVM,… | [X](https://x.com/tacbuild) [Site](https://tac.build) | TVL $1.7M |  |  |
-| 11 | TON ↔ BSC |  | [Telegram](https://t.me/contest) [Bot](https://t.me/cryptouser_bot) [Site](https://bridge.ton.org) [GitHub](https://github.com/ton-blockchain) |  | 2026-10-01 |  |
+| 11 | TON ↔ BSC |  | [Telegram](https://t.me/contest) [Bot](https://t.me/cryptouser_bot) [Site](https://bridge.ton.org) [GitHub](https://github.com/ton-blockchain) [Gram News](https://gramnews.org/apps/ton-bsc) |  | 2026-10-01 |  |
 
 ## Quiet
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 12 | AnyTap | AnyTap helps Telegram users transition into the TON ecosystem through onchain tasks and… | [Bot](https://t.me/anytap_bot) [X](https://x.com/anytap_dapps) |  |  |  |
-| 13 | TON Bridge | Bridge for transferring USDT and USDC from other chains to TON | [Bot](https://t.me/TONBridge_robot) [Site](https://bridge.tonbankcard.com) [GitHub](https://github.com/xlabtg) |  | 2026-09-28 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 14 | Axai on Waves |  | [Bot](https://t.me/wavesaxaibot) [X](https://x.com/wxnetwork) |  |  |  |
-| 15 | island3 |  | [Site](https://bridge.rangersprotocol.com/) [GitHub](https://github.com/rangersprotocolcode) |  | 2025-07-28 |  |
-| 16 | Transit Swap |  | [X](https://x.com/TransitFinance) [Site](https://swap.transit.finance/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 17 | VIZ gateway | VIZ gateway — bridge between GRAM and Solana chains for wVIZ | [Telegram](https://t.me/viz_world) [Site](https://gateway.viz.cx) [GitHub](https://github.com/viz-cx/viz-gateway) |  | 2026-08-30 |  |
+| 12 | AnyTap | AnyTap helps Telegram users transition into the TON ecosystem through onchain tasks and… | [Bot](https://t.me/anytap_bot) [X](https://x.com/anytap_dapps) [Gram News](https://gramnews.org/apps/anytap) |  |  |  |
+| 13 | TON Bridge | Bridge for transferring USDT and USDC from other chains to TON | [Bot](https://t.me/TONBridge_robot) [Site](https://bridge.tonbankcard.com) [GitHub](https://github.com/xlabtg) [Gram News](https://gramnews.org/apps/ton-bridge) |  | 2026-09-28 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 14 | Axai on Waves |  | [Bot](https://t.me/wavesaxaibot) [X](https://x.com/wxnetwork) [Gram News](https://gramnews.org/apps/axai-on-waves) |  |  |  |
+| 15 | island3 |  | [Site](https://bridge.rangersprotocol.com/) [GitHub](https://github.com/rangersprotocolcode) [Gram News](https://gramnews.org/apps/island3) |  | 2025-07-28 |  |
+| 16 | Transit Swap |  | [X](https://x.com/TransitFinance) [Site](https://swap.transit.finance/) [Gram News](https://gramnews.org/apps/transit-swap) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 17 | VIZ gateway | VIZ gateway — bridge between GRAM and Solana chains for wVIZ | [Telegram](https://t.me/viz_world) [Site](https://gateway.viz.cx) [GitHub](https://github.com/viz-cx/viz-gateway) [Gram News](https://gramnews.org/apps/viz-gateway) |  | 2026-08-30 |  |
 
 ## Closed
 

@@ -9,9 +9,9 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | GROYP ✓ | Oldest living memecoin on Ton 💎 | [Telegram](https://t.me/groyp) [X](https://x.com/groyp_on_ton) [Site](https://groypfi.io) | +213% | 2026-09-30 |  |
-| 2 | UTYA ✓ |  | [Telegram](https://t.me/MagicVipClub) [Bot](https://t.me/utyagamebot) [X](https://x.com/Utya_game) [Site](https://taplink.cc/utyagame) | +102% | 2026-07-11 |  |
+| 2 | UTYA ✓ |  | [Telegram](https://t.me/MagicVipClub) [Bot](https://t.me/utyagamebot) [X](https://x.com/Utya_game) [Site](https://taplink.cc/utyagame) [Gram News](https://gramnews.org/apps/utyagame) | +102% | 2026-07-11 |  |
 | 3 | XROCK ✓ | Token of xRocket, the exchange and wallet inside Telegram. | [Telegram](https://t.me/xrocketnews) [Bot](https://t.me/xrocket) [X](https://x.com/xRocket_tg) | +74% | 2026-10-01 |  |
-| 4 | CHERRY ✓ |  | [Telegram](https://t.me/HotCherryTG) [Bot](https://t.me/cherrygame_io_bot) | +58% | 2026-08-24 |  |
+| 4 | CHERRY ✓ |  | [Telegram](https://t.me/HotCherryTG) [Bot](https://t.me/cherrygame_io_bot) [Gram News](https://gramnews.org/apps/cherry-game) | +58% | 2026-08-24 |  |
 | 5 | BabyDoge ✓ | BabyDoge, a top 200 cryptocurrency, blends meme culture with a thriving Web3 ecosystem. | [Telegram](https://t.me/babydogecoin) | +47% | 2026-09-23 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 6 | HPO ✓ | Stake GRAM on TON with Hipo - liquid staking with top APY | [Telegram](https://t.me/HipoFinance) [Site](https://hipo.finance) | +45% | 2026-09-21 |  |
 | 7 | NOT ✓ |  | [Telegram](https://t.me/notcoin) | +33% | 2026-06-08 | [ton 25](../archive/2025-07-ton.jpg) |

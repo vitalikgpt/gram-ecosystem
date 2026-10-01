@@ -47,6 +47,8 @@ for i, r in enumerate(csv.DictReader(open("data/projects.csv", encoding="utf-8")
             errors.append(f"{where}: {k} must look like https://t.me/username")
     if r["x"] and not re.fullmatch(r"https://x\.com/[A-Za-z0-9_]{1,15}", r["x"]):
         errors.append(f"{where}: x must look like https://x.com/handle")
+    if r.get("gramnews") and not re.fullmatch(r"https://gramnews\.org/apps/[a-z0-9_-]+", r["gramnews"]):
+        errors.append(f"{where}: gramnews must look like https://gramnews.org/apps/slug")
     if r["github"] and not re.fullmatch(r"https://github\.com/[A-Za-z0-9_.-]+(/[A-Za-z0-9_.-]+)?", r["github"]):
         errors.append(f"{where}: github must look like https://github.com/owner or https://github.com/owner/repo")
 slugs = seen

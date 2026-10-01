@@ -10,41 +10,41 @@
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | Binance | Binance Official English Group | [Telegram](https://t.me/binance_announcements) [Site](https://www.binance.com) | 15.8M views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
 | 2 | Bybit | BYBIT is a trading platform that caters to the needs of all types of traders. | [Telegram](https://t.me/bybit_announcements) [Site](https://www.bybit.com) | 2.2M views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
-| 3 | OKX |  | [Telegram](https://t.me/okxannouncements) [Site](https://www.okx.com) | 552K views | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
-| 4 | Bitget | 📢Official Bitget English Announcements Channel | [Telegram](https://t.me/bitget_announcements) [X](https://x.com/bitget) [Site](https://www.bitget.com) | 8.6M views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
+| 3 | OKX |  | [Telegram](https://t.me/okxannouncements) [Site](https://www.okx.com) [Gram News](https://gramnews.org/apps/okx) | 552K views | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
+| 4 | Bitget | 📢Official Bitget English Announcements Channel | [Telegram](https://t.me/bitget_announcements) [X](https://x.com/bitget) [Site](https://www.bitget.com) [Gram News](https://gramnews.org/apps/bitget) | 8.6M views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
 | 5 | Coinbase |  | [Site](https://www.coinbase.com) |  |  |  |
 | 6 | Revolut |  | [Site](https://www.revolut.com) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 7 | HTX | HTX Official English Group | [Telegram](https://t.me/htx_announcements) [X](https://x.com/TobbotTon) [Site](https://www.htx.com) | 865K views | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 8 | KuCoin | Leading global crypto platform built on trust / 40M+ users worldwide | [Telegram](https://t.me/kucoin_news) [X](https://x.com/KuCoinCom) [Site](https://www.kucoin.com) [GitHub](https://github.com/qutoncash) | 2M views | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 9 | MEXC |  | [Telegram](https://t.me/mexcofficialnews) [X](https://x.com/mexc) [Site](https://www.mexc.com) | 798K views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
+| 7 | HTX | HTX Official English Group | [Telegram](https://t.me/htx_announcements) [X](https://x.com/TobbotTon) [Site](https://www.htx.com) [Gram News](https://gramnews.org/apps/huobi) | 865K views | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 8 | KuCoin | Leading global crypto platform built on trust / 40M+ users worldwide | [Telegram](https://t.me/kucoin_news) [X](https://x.com/KuCoinCom) [Site](https://www.kucoin.com) [GitHub](https://github.com/qutoncash) [Gram News](https://gramnews.org/apps/kucoin) | 2M views | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 9 | MEXC |  | [Telegram](https://t.me/mexcofficialnews) [X](https://x.com/mexc) [Site](https://www.mexc.com) [Gram News](https://gramnews.org/apps/mexc-cex) | 798K views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
 | 10 | bitFlyer |  | [Site](https://bitflyer.com) |  |  |  |
-| 11 | wallex |  | [Telegram](https://t.me/wallexchange) [X](https://x.com/Wallex_ir) [Site](https://wallex.ir) | 1.9M views | 2026-10-01 |  |
-| 12 | اوکی اکسچنج |  | [Telegram](https://t.me/okexir) [Bot](https://t.me/tonairdropfa_bot) [X](https://x.com/okexir) [Site](https://ok-ex.io/) | 1.8M views | 2026-10-01 |  |
-| 13 | Bitpin | بیت‌پین؛ تجربه سرمایه‌گذاری نوین | [Telegram](https://t.me/bitpin) [X](https://x.com/bitpinmarket) [Site](https://bitpin.ir/) | 1.4M views | 2026-10-01 |  |
-| 14 | Swapster | Храните, Отправляйте, Обменивайте. Акции, криптовалюта. | [Telegram](https://t.me/swpstr) [Bot](https://t.me/swapsterbot) [X](https://x.com/swapsterteam) | 117K views | 2026-10-01 |  |
-| 15 | Bit2Me |  | [Telegram](https://t.me/bit2me_es) [X](https://x.com/Bit2Me) [Site](https://www.bit2me.com) [GitHub](https://github.com/bit2me-devs) | 50K views | 2026-09-21 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 16 | XCrypto |  | [Telegram](https://t.me/xcryptoen) | 43K MAU | 2026-05-25 |  |
-| 17 | StealthEX | This is an official Telegram Account of | [Telegram](https://t.me/stealthex) [X](https://x.com/StealthEX_io) [Site](https://stealthex.io/?ref=y83bSWcwSs) | 35K views | 2026-10-01 |  |
-| 18 | Quickex | Swap $BTC, $ETH, $XMR and other coins at best rate. | [Telegram](https://t.me/quickex_en) [X](https://x.com/QuickEx_Tweets) [Site](https://quickex.io/?utm_source=tonapp) | 34K views | 2026-10-01 |  |
-| 19 | Exolix Exchange |  | [Telegram](https://t.me/exolixcom) [X](https://x.com/exolix_com) [Site](https://exolix.com/) | 28K views | 2026-10-01 |  |
-| 20 | SwapSpace | SwapSpace is an instant cryptocurrency exchange aggregator | [Telegram](https://t.me/swapspace) [X](https://x.com/SwapSpaceCo) [Site](https://swapspace.co/) | 17K views | 2026-10-01 |  |
-| 21 | xKuCoin |  | [Bot](https://t.me/xkucoinbot) | 11K MAU |  |  |
-| 22 | FixedFloat | FixedFloat — Instant, fully automatic cryptocurrency exchange with rates tailored to… | [Telegram](https://t.me/fixedfloat) [X](https://x.com/fixedfloat) [Site](https://fixedfloat.com/) | 11K views | 2026-09-30 |  |
-| 23 | ChangeHero Bot | A crypto exchange bot with no accounts required | [Telegram](https://t.me/chcryptonews) [Bot](https://t.me/ChangeHeroBot) [X](https://x.com/Changehero_io) [Site](https://changehero.io) | 10K views | 2026-10-01 |  |
-| 24 | NAGA Everything Trading | Welcome to the NAGA Everything Trading Community! | [Telegram](https://t.me/naga_everything_trading) [Bot](https://t.me/nagatrading_bot) [X](https://x.com/cedelabs) [Site](https://github.com/cedelabs/cede.store) | 9K views | 2026-10-01 |  |
-| 25 | Bitmit | 💱صرافی ارز دیجیتال بیت میت | [Telegram](https://t.me/bitmit_co) [X](https://x.com/bitmit_co) [Site](https://bitmit.co/price/TON) | 6K views | 2026-09-30 |  |
-| 26 | LetsExchange.io | Cryptocurrency exchange with a wide range of cryptocurrencies and networks. | [Telegram](https://t.me/letsexchange_io) [Bot](https://t.me/LetsExchange_official_bot) [X](https://x.com/letsexchange_io) [Site](https://letsexchange.io/) | 6K views | 2026-09-23 |  |
-| 27 | COYTX |  | [Telegram](https://t.me/coytx) [Bot](https://t.me/coytxcombot) [X](https://x.com/coytxcom) [Site](https://coytx.com) | 5K views | 2026-07-29 |  |
-| 28 | Block Card Future | Block Card is a TMA system inside Telergam with the TON blockchain. | [Telegram](https://t.me/blockcard_bc) [Bot](https://t.me/BlockCardFutureBot) [X](https://x.com/BlockCardTON) | 4K views | 2026-08-17 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 29 | CrystalTrade | CrystalTrade Crypto Exchange. | [Telegram](https://t.me/crystaltradeorg) [Bot](https://t.me/crystaltradebot) [X](https://x.com/crystaltradeorg) [Site](https://crystal-trade.org/) | 4K views | 2026-10-01 |  |
-| 30 | Dex-Trade |  | [Telegram](https://t.me/dex_trade) [Bot](https://t.me/dex_trade_com_bot) [X](https://x.com/dextrade_) [Site](https://dex-trade.com/) | 3K views | 2026-08-17 |  |
-| 31 | Xgram | Xgram is a service for fast and secure cryptocurrency exchange. | [Telegram](https://t.me/xgram_io) [Bot](https://t.me/xgram_io_bot) [X](https://x.com/xgram_io) [Site](https://xgram.io/) | 1K views | 2026-09-17 |  |
-| 32 | AlwaysMoney Exchange | Блог про крипту, финансы, саморазвитие | [Telegram](https://t.me/alwaysmoneyorg) [X](https://x.com/AlwaysMoneyOrg) [Site](https://alwaysmoney.org/) | 934 views | 2026-10-01 |  |
-| 33 | CoinCraddle | CoinCraddle — crypto exchange without registration | [Telegram](https://t.me/coincraddle_en) [Bot](https://t.me/coincraddle_change_bot) [X](https://x.com/coincraddle) [Site](https://coincraddle.com/) | 363 views | 2026-09-30 |  |
-| 34 | TONBANKCARD Exchange | TONBANKCARD – crypto exchange in Telegram | [Telegram](https://t.me/tonbankcard) [X](https://x.com/tonbankcard) [Site](https://exchange.tonbankcard.com) [GitHub](https://github.com/xlabtg) | 254 views | 2026-09-28 |  |
-| 35 | Explace |  | [Telegram](https://t.me/explaceio) [X](https://x.com/Explaceio) [Site](https://explace.io/) | 198 views | 2026-09-30 |  |
-| 36 | Bitstorage |  | [Telegram](https://t.me/bitstoragefinancechannel) [X](https://x.com/BitstorageFin) [Site](https://bitstorage.finance/) | 14 views | 2026-08-08 |  |
-| 37 | Gate |  | [Site](https://www.gate.io) |  |  | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
+| 11 | wallex |  | [Telegram](https://t.me/wallexchange) [X](https://x.com/Wallex_ir) [Site](https://wallex.ir) [Gram News](https://gramnews.org/apps/wallex) | 1.9M views | 2026-10-01 |  |
+| 12 | اوکی اکسچنج |  | [Telegram](https://t.me/okexir) [Bot](https://t.me/tonairdropfa_bot) [X](https://x.com/okexir) [Site](https://ok-ex.io/) [Gram News](https://gramnews.org/apps/yrdrp-twn-frsy) | 1.8M views | 2026-10-01 |  |
+| 13 | Bitpin | بیت‌پین؛ تجربه سرمایه‌گذاری نوین | [Telegram](https://t.me/bitpin) [X](https://x.com/bitpinmarket) [Site](https://bitpin.ir/) [Gram News](https://gramnews.org/apps/bitpin) | 1.4M views | 2026-10-01 |  |
+| 14 | Swapster | Храните, Отправляйте, Обменивайте. Акции, криптовалюта. | [Telegram](https://t.me/swpstr) [Bot](https://t.me/swapsterbot) [X](https://x.com/swapsterteam) [Gram News](https://gramnews.org/apps/swapster) | 117K views | 2026-10-01 |  |
+| 15 | Bit2Me |  | [Telegram](https://t.me/bit2me_es) [X](https://x.com/Bit2Me) [Site](https://www.bit2me.com) [GitHub](https://github.com/bit2me-devs) [Gram News](https://gramnews.org/apps/bit2me) | 50K views | 2026-09-21 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 16 | XCrypto |  | [Telegram](https://t.me/xcryptoen) [Gram News](https://gramnews.org/apps/xcrypto) | 43K MAU | 2026-05-25 |  |
+| 17 | StealthEX | This is an official Telegram Account of | [Telegram](https://t.me/stealthex) [X](https://x.com/StealthEX_io) [Site](https://stealthex.io/?ref=y83bSWcwSs) [Gram News](https://gramnews.org/apps/stealthex) | 35K views | 2026-10-01 |  |
+| 18 | Quickex | Swap $BTC, $ETH, $XMR and other coins at best rate. | [Telegram](https://t.me/quickex_en) [X](https://x.com/QuickEx_Tweets) [Site](https://quickex.io/?utm_source=tonapp) [Gram News](https://gramnews.org/apps/quickex) | 34K views | 2026-10-01 |  |
+| 19 | Exolix Exchange |  | [Telegram](https://t.me/exolixcom) [X](https://x.com/exolix_com) [Site](https://exolix.com/) [Gram News](https://gramnews.org/apps/exolix-exchange) | 28K views | 2026-10-01 |  |
+| 20 | SwapSpace | SwapSpace is an instant cryptocurrency exchange aggregator | [Telegram](https://t.me/swapspace) [X](https://x.com/SwapSpaceCo) [Site](https://swapspace.co/) [Gram News](https://gramnews.org/apps/swapspace) | 17K views | 2026-10-01 |  |
+| 21 | xKuCoin |  | [Bot](https://t.me/xkucoinbot) [Gram News](https://gramnews.org/apps/xkucoin) | 11K MAU |  |  |
+| 22 | FixedFloat | FixedFloat — Instant, fully automatic cryptocurrency exchange with rates tailored to… | [Telegram](https://t.me/fixedfloat) [X](https://x.com/fixedfloat) [Site](https://fixedfloat.com/) [Gram News](https://gramnews.org/apps/fixedfloat) | 11K views | 2026-09-30 |  |
+| 23 | ChangeHero Bot | A crypto exchange bot with no accounts required | [Telegram](https://t.me/chcryptonews) [Bot](https://t.me/ChangeHeroBot) [X](https://x.com/Changehero_io) [Site](https://changehero.io) [Gram News](https://gramnews.org/apps/changehero-bot) | 10K views | 2026-10-01 |  |
+| 24 | NAGA Everything Trading | Welcome to the NAGA Everything Trading Community! | [Telegram](https://t.me/naga_everything_trading) [Bot](https://t.me/nagatrading_bot) [X](https://x.com/cedelabs) [Site](https://github.com/cedelabs/cede.store) [Gram News](https://gramnews.org/apps/naga-everything-trading) | 9K views | 2026-10-01 |  |
+| 25 | Bitmit | 💱صرافی ارز دیجیتال بیت میت | [Telegram](https://t.me/bitmit_co) [X](https://x.com/bitmit_co) [Site](https://bitmit.co/price/TON) [Gram News](https://gramnews.org/apps/bitmit) | 6K views | 2026-09-30 |  |
+| 26 | LetsExchange.io | Cryptocurrency exchange with a wide range of cryptocurrencies and networks. | [Telegram](https://t.me/letsexchange_io) [Bot](https://t.me/LetsExchange_official_bot) [X](https://x.com/letsexchange_io) [Site](https://letsexchange.io/) [Gram News](https://gramnews.org/apps/letsexchange-io) | 6K views | 2026-09-23 |  |
+| 27 | COYTX |  | [Telegram](https://t.me/coytx) [Bot](https://t.me/coytxcombot) [X](https://x.com/coytxcom) [Site](https://coytx.com) [Gram News](https://gramnews.org/apps/coytx) | 5K views | 2026-07-29 |  |
+| 28 | Block Card Future | Block Card is a TMA system inside Telergam with the TON blockchain. | [Telegram](https://t.me/blockcard_bc) [Bot](https://t.me/BlockCardFutureBot) [X](https://x.com/BlockCardTON) [Gram News](https://gramnews.org/apps/block-card-future) | 4K views | 2026-08-17 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 29 | CrystalTrade | CrystalTrade Crypto Exchange. | [Telegram](https://t.me/crystaltradeorg) [Bot](https://t.me/crystaltradebot) [X](https://x.com/crystaltradeorg) [Site](https://crystal-trade.org/) [Gram News](https://gramnews.org/apps/crystaltrade) | 4K views | 2026-10-01 |  |
+| 30 | Dex-Trade |  | [Telegram](https://t.me/dex_trade) [Bot](https://t.me/dex_trade_com_bot) [X](https://x.com/dextrade_) [Site](https://dex-trade.com/) [Gram News](https://gramnews.org/apps/dex-trade) | 3K views | 2026-08-17 |  |
+| 31 | Xgram | Xgram is a service for fast and secure cryptocurrency exchange. | [Telegram](https://t.me/xgram_io) [Bot](https://t.me/xgram_io_bot) [X](https://x.com/xgram_io) [Site](https://xgram.io/) [Gram News](https://gramnews.org/apps/xgram) | 1K views | 2026-09-17 |  |
+| 32 | AlwaysMoney Exchange | Блог про крипту, финансы, саморазвитие | [Telegram](https://t.me/alwaysmoneyorg) [X](https://x.com/AlwaysMoneyOrg) [Site](https://alwaysmoney.org/) [Gram News](https://gramnews.org/apps/alwaysmoney-exchange) | 934 views | 2026-10-01 |  |
+| 33 | CoinCraddle | CoinCraddle — crypto exchange without registration | [Telegram](https://t.me/coincraddle_en) [Bot](https://t.me/coincraddle_change_bot) [X](https://x.com/coincraddle) [Site](https://coincraddle.com/) [Gram News](https://gramnews.org/apps/coincraddle) | 363 views | 2026-09-30 |  |
+| 34 | TONBANKCARD Exchange | TONBANKCARD – crypto exchange in Telegram | [Telegram](https://t.me/tonbankcard) [X](https://x.com/tonbankcard) [Site](https://exchange.tonbankcard.com) [GitHub](https://github.com/xlabtg) [Gram News](https://gramnews.org/apps/tonbankcard-exchange) | 254 views | 2026-09-28 |  |
+| 35 | Explace |  | [Telegram](https://t.me/explaceio) [X](https://x.com/Explaceio) [Site](https://explace.io/) [Gram News](https://gramnews.org/apps/explace) | 198 views | 2026-09-30 |  |
+| 36 | Bitstorage |  | [Telegram](https://t.me/bitstoragefinancechannel) [X](https://x.com/BitstorageFin) [Site](https://bitstorage.finance/) [Gram News](https://gramnews.org/apps/bitstorage) | 14 views | 2026-08-08 |  |
+| 37 | Gate |  | [Site](https://www.gate.io) [Gram News](https://gramnews.org/apps/gate-io) |  |  | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
 | 38 | WhiteBIT |  | [Telegram](https://t.me/whitebit) [Site](https://whitebit.com) |  | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
 | 39 | BingX | Empowering Traders. Elevate your crypto trading game at BingX. | [X](https://x.com/BingXOfficial) [Site](https://bingx.com) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 40 | Bitunix | Global Crypto Derivatives Exchange. Better Liquidity, Better Trading | [X](https://x.com/BitunixOfficial) [Site](https://www.bitunix.com) |  |  |  |
@@ -58,31 +58,31 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 46 | HunteX | Support Officer 💛🖤 / I NEVER DM 1ST! / Leverage the Power of 1000x / Visit for More… | [Telegram](https://t.me/Rezzky_HunteX) [Bot](https://t.me/HuntexBot) [X](https://x.com/huntex_bot) [Site](https://huntex.io/) |  |  |  |
-| 47 | Nominex Exchange App | Nominex - crypto exchange with an internal token NMX distributed via YieldFarming | [Telegram](https://t.me/NominexExchange) [Bot](https://t.me/nominex_exchange_bot) [X](https://x.com/NominexExchange) [Site](https://nominex.io) |  |  |  |
-| 48 | 90Rich |  | [Telegram](https://t.me/Channel_90Rich) |  |  |  |
+| 46 | HunteX | Support Officer 💛🖤 / I NEVER DM 1ST! / Leverage the Power of 1000x / Visit for More… | [Telegram](https://t.me/Rezzky_HunteX) [Bot](https://t.me/HuntexBot) [X](https://x.com/huntex_bot) [Site](https://huntex.io/) [Gram News](https://gramnews.org/apps/huntex) |  |  |  |
+| 47 | Nominex Exchange App | Nominex - crypto exchange with an internal token NMX distributed via YieldFarming | [Telegram](https://t.me/NominexExchange) [Bot](https://t.me/nominex_exchange_bot) [X](https://x.com/NominexExchange) [Site](https://nominex.io) [Gram News](https://gramnews.org/apps/nominex-exchange-app) |  |  |  |
+| 48 | 90Rich |  | [Telegram](https://t.me/Channel_90Rich) [Gram News](https://gramnews.org/apps/90rich) |  |  |  |
 | 49 | Arkham Exchange | Arkham is a centralized cryptocurrency exchange offering both Spot & Perps and is… | [X](https://x.com/ArkhamIntel) [Site](https://arkm.com/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 50 | Azbit |  | [Bot](https://t.me/TON_NFT_Market_HYBRA_bot) [Site](https://azbit.com) |  |  |  |
-| 51 | Biconomy.com |  | [Telegram](https://t.me/Biconomycom) [X](https://x.com/BiconomyCom) [Site](https://www.biconomy.com/en) |  |  |  |
-| 52 | BIT |  | [X](https://x.com/BITofficial_EN) [Site](https://www.bit.com) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 53 | BitcoinVN |  | [X](https://x.com/bitcoinvn_io) [Site](https://bitcoinvn.io) |  |  |  |
+| 50 | Azbit |  | [Bot](https://t.me/TON_NFT_Market_HYBRA_bot) [Site](https://azbit.com) [Gram News](https://gramnews.org/apps/azbit) |  |  |  |
+| 51 | Biconomy.com |  | [Telegram](https://t.me/Biconomycom) [X](https://x.com/BiconomyCom) [Site](https://www.biconomy.com/en) [Gram News](https://gramnews.org/apps/biconomy-com) |  |  |  |
+| 52 | BIT |  | [X](https://x.com/BITofficial_EN) [Site](https://www.bit.com) [Gram News](https://gramnews.org/apps/bit) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 53 | BitcoinVN |  | [X](https://x.com/bitcoinvn_io) [Site](https://bitcoinvn.io) [Gram News](https://gramnews.org/apps/bitcoinvn) |  |  |  |
 | 54 | Bitkub | No.1 licensed bitcoin exchange in Thailand that offers services to individuals who… | [X](https://x.com/BitkubOfficial) [Site](https://www.bitkub.com/) |  |  |  |
-| 55 | BYDFi |  | [Site](https://www.bydfi.com/) |  |  |  |
-| 56 | CoinEx |  | [Site](https://www.coinex.com/) |  |  |  |
-| 57 | Cryptobotex |  |  |  |  |  |
-| 58 | DigiFinex |  | [Site](https://www.digifinex.com) |  |  |  |
-| 59 | Dualcoin |  | [Site](https://dualcoin.io/en) |  |  |  |
-| 60 | EXMO | Официальный Telegram канал криптовалютной платформы EXMO.me | [Telegram](https://t.me/exmome_official) [Bot](https://t.me/GrinderyAIBot) [Site](https://exmo.me/trade/ton_usdt) [GitHub](https://github.com/grindery-io) |  | 2025-11-27 |  |
+| 55 | BYDFi |  | [Site](https://www.bydfi.com/) [Gram News](https://gramnews.org/apps/bydfi) |  |  |  |
+| 56 | CoinEx |  | [Site](https://www.coinex.com/) [Gram News](https://gramnews.org/apps/coinex) |  |  |  |
+| 57 | Cryptobotex |  | [Gram News](https://gramnews.org/apps/cryptobotex) |  |  |  |
+| 58 | DigiFinex |  | [Site](https://www.digifinex.com) [Gram News](https://gramnews.org/apps/digifinex) |  |  |  |
+| 59 | Dualcoin |  | [Site](https://dualcoin.io/en) [Gram News](https://gramnews.org/apps/dualcoin) |  |  |  |
+| 60 | EXMO | Официальный Telegram канал криптовалютной платформы EXMO.me | [Telegram](https://t.me/exmome_official) [Bot](https://t.me/GrinderyAIBot) [Site](https://exmo.me/trade/ton_usdt) [GitHub](https://github.com/grindery-io) [Gram News](https://gramnews.org/apps/exmo) |  | 2025-11-27 |  |
 | 61 | Flipster | Flipster has a wide selection of over 300 perpetual futures listings, including Bitcoin… | [X](https://x.com/flipster_io) [Site](https://flipster.io) |  |  |  |
-| 63 | Matrixport |  | [Site](https://www.matrixport.com/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 64 | NovaDax |  | [Telegram](https://t.me/livehub_to) [X](https://x.com/livehub_to) [Site](https://www.novadax.com.br/product/orderbook?pair=TON_BRL) |  |  |  |
+| 63 | Matrixport |  | [Site](https://www.matrixport.com/) [Gram News](https://gramnews.org/apps/matrixport) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 64 | NovaDax |  | [Telegram](https://t.me/livehub_to) [X](https://x.com/livehub_to) [Site](https://www.novadax.com.br/product/orderbook?pair=TON_BRL) [Gram News](https://gramnews.org/apps/novadax) |  |  |  |
 | 65 | OSL Exchange | OSL Digital Securities is Hong Kong’s first and most established SFC-licensed and… | [X](https://x.com/OSL_HK) [Site](https://www.osl.com/en) |  |  |  |
 | 66 | Websea | Websea provides a comprehensive suite of trading and financial products, including Spot… | [X](https://x.com/webseaofficial) [Site](https://www.websea.com/) |  |  |  |
-| 67 | Excoino |  | [Telegram](https://t.me/excoino) [Bot](https://t.me/tonbuytechbot) [X](https://x.com/excoino) [Site](https://excoino.com) |  | 2026-06-03 |  |
+| 67 | Excoino |  | [Telegram](https://t.me/excoino) [Bot](https://t.me/tonbuytechbot) [X](https://x.com/excoino) [Site](https://excoino.com) [Gram News](https://gramnews.org/apps/excoino) |  | 2026-06-03 |  |
 
 ## Closed
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 62 | LBank Exchange |  |  |  |  |  |
+| 62 | LBank Exchange |  | [Gram News](https://gramnews.org/apps/lbank-exchange) |  |  |  |
 | 68 | Neocrypto |  | [Site](https://neocrypto.net) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |

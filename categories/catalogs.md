@@ -9,7 +9,7 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | Gram News ✓ | Агрегатор ключевых новостей экосистемы TON. | [Telegram](https://t.me/gramnews) [Site](https://gramnews.org) | 479K views | 2026-10-01 |  |
-| 2 | TON App ✓ |  | [Site](https://ton-game.com) [GitHub](https://github.com/toncenter/ton-wallet) |  | 2025-08-21 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 2 | TON App ✓ |  | [Site](https://ton-game.com) [GitHub](https://github.com/toncenter/ton-wallet) [Gram News](https://gramnews.org/apps/ton) |  | 2025-08-21 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 3 | DYOR.io ✓ |  | [Site](https://dyor.io) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 4 | ton.website ✓ |  | [Site](https://ton.website) |  |  |  |
 | 5 | FindMini.app ✓ | Discover curated selection of the best Telegram Mini Apps | [Telegram](https://t.me/findminiapp) [Site](https://www.findmini.app/) |  | 2026-05-25 | [ton 25](../archive/2025-07-ton.jpg) |

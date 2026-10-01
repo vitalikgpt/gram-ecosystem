@@ -48,8 +48,8 @@ def cell(s):
 
 def links(r):
     out = []
-    for key, label in (("telegram", "Telegram"), ("bot", "Bot"), ("x", "X"), ("website", "Site"), ("github", "GitHub")):
-        if r[key]:
+    for key, label in (("telegram", "Telegram"), ("bot", "Bot"), ("x", "X"), ("website", "Site"), ("github", "GitHub"), ("gramnews", "Gram News")):
+        if r.get(key):
             out.append(f"[{label}]({r[key]})")
     return " ".join(out)
 
@@ -223,7 +223,7 @@ def build():
         "## Data files",
         "",
         "- [data/projects.csv](data/projects.csv): one row per project. Columns: `category`, `rank`, `name`, `slug`, "
-        "`status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `github`, `last_post`, "
+        "`status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `github`, `gramnews` (the project's card on gramnews.org), `last_post`, "
         "`last_commit`, `launched`, `subscribers`, `reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.",
         "- [data/categories.json](data/categories.json): categories in display order.",
         "- [data/channels.csv](data/channels.csv): channels about TON with quarterly posts and views.",

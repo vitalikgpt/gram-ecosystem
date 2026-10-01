@@ -9,11 +9,11 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | @Trade ✓ | Обменивайтесь подарками в | [Bot](https://t.me/trade) | 336K MAU |  | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
-| 2 | PocketFi ✓ | Telegram-native memecoin trading app. | [Telegram](https://t.me/pocketfi) [Bot](https://t.me/pocketfi_bot) [X](https://x.com/pocket_fi) [Site](https://pocketfi.org/) | 236K views, 34K MAU | 2026-09-22 | [ton 25](../archive/2025-07-ton.jpg) |
+| 2 | PocketFi ✓ | Telegram-native memecoin trading app. | [Telegram](https://t.me/pocketfi) [Bot](https://t.me/pocketfi_bot) [X](https://x.com/pocket_fi) [Site](https://pocketfi.org/) [Gram News](https://gramnews.org/apps/pocketfi) | 236K views, 34K MAU | 2026-09-22 | [ton 25](../archive/2025-07-ton.jpg) |
 | 3 | Maestro |  | [Bot](https://t.me/maestro) [Site](https://www.maestrobots.com) | 95K MAU |  |  |
-| 4 | Upscale ✓ | Upscale – a prop‑trading service without KYC | [Telegram](https://t.me/upscale_news_en) [Bot](https://t.me/UpscaleTradeBot) [X](https://x.com/upscaletrade) [Site](https://app.upscale.trade) | 95K views, 19K MAU | 2026-10-01 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 5 | @GroypFi_bot ✓ | Chief Vibrations Officer A dose of this, a hit of that Twitter -… | [Telegram](https://t.me/groyp) [Bot](https://t.me/groypfi_bot) [X](https://x.com/groyp_on_ton) [Site](https://groypfi.io/) | 91K views | 2026-09-30 |  |
-| 6 | @DTrade ✓ | News channel for the lightning fast trading bot on TON | [Telegram](https://t.me/dtrade_news) [Bot](https://t.me/dtrade) [X](https://x.com/dtrade_tg) | 9K views | 2026-09-04 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 4 | Upscale ✓ | Upscale – a prop‑trading service without KYC | [Telegram](https://t.me/upscale_news_en) [Bot](https://t.me/UpscaleTradeBot) [X](https://x.com/upscaletrade) [Site](https://app.upscale.trade) [Gram News](https://gramnews.org/apps/upscale) | 95K views, 19K MAU | 2026-10-01 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 5 | @GroypFi_bot ✓ | Chief Vibrations Officer A dose of this, a hit of that Twitter -… | [Telegram](https://t.me/groyp) [Bot](https://t.me/groypfi_bot) [X](https://x.com/groyp_on_ton) [Site](https://groypfi.io/) [Gram News](https://gramnews.org/apps/groypfi) | 91K views | 2026-09-30 |  |
+| 6 | @DTrade ✓ | News channel for the lightning fast trading bot on TON | [Telegram](https://t.me/dtrade_news) [Bot](https://t.me/dtrade) [X](https://x.com/dtrade_tg) [Gram News](https://gramnews.org/apps/dtrade) | 9K views | 2026-09-04 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 7 | RedoTrade ✓ |  | [Telegram](https://t.me/gramtrade) [X](https://x.com/redo_trade) [Site](https://redo.trade/) | 6K views | 2026-10-01 |  |
 | 8 | @Swapi ✓ |  | [Telegram](https://t.me/swapi_news) [Bot](https://t.me/swapi) | 71 views | 2026-08-26 |  |
 | 9 | ATF | 📌 channel :https://t.me/AI_TRADING_FOREX 🌐 Website: https://www.atftoken.com 🐦 Twitter:… | [Bot](https://t.me/atf_airdrop_bot) [X](https://x.com/ai_trading_frx) [Site](https://www.atftoken.com) | mentioned by 37 TON channels in Q3 |  |  |
@@ -26,7 +26,7 @@
 | 16 | Sigma Bot | Sigma Portal: https://t.me/SigmaBotPortal Docs: https://docs.sigma.win/ Home:… | [Telegram](https://t.me/sigmaconnect) [Bot](https://t.me/sigma_buybot) [X](https://x.com/sigmatonbot) [Site](https://sigma.no.pics) | mentioned by 4 TON channels in Q3 | 2026-09-22 |  |
 | 17 | TradeTON | @TradeTON - Your Telegram Wallet for Trading and Holding Cryptocurrencies Customers… | [Bot](https://t.me/xcrusdbot) | 43K MAU |  |  |
 | 18 | AiPowerTrade, Earn UpTo 7% Daily Earn | Get 135% in just 30 Days | [Bot](https://t.me/aipowertraderbot) | mentioned by 4 TON channels in Q3 |  |  |
-| 19 | Pump.tg | TON token swap aggregator | [Telegram](https://t.me/pumpme_tg) [Bot](https://t.me/pumpn_bot) [X](https://x.com/pumptg_n) [Site](https://pump.tg/) | 2K views | 2026-07-18 |  |
+| 19 | Pump.tg | TON token swap aggregator | [Telegram](https://t.me/pumpme_tg) [Bot](https://t.me/pumpn_bot) [X](https://x.com/pumptg_n) [Site](https://pump.tg/) [Gram News](https://gramnews.org/apps/pump-tg) | 2K views | 2026-07-18 |  |
 | 20 | NoName Trending | Big buys among the tokens tracked by the @BuyNNBot by @NoNameDev support: @pickless404 | [Telegram](https://t.me/nonametrending) [Bot](https://t.me/buynnbot) | mentioned by 10 TON channels in Q3 | 2026-10-01 |  |
 
 ## Quiet
@@ -48,5 +48,5 @@
 | 33 | Tinu Sniper Bot | TINU Trading Bot on TON is a powerful tool Part of @toninutools | [Bot](https://t.me/tinusniperbot) | mentioned by 9 TON channels in Q3 |  |  |
 | 34 | TokeHunt |  | [Bot](https://t.me/tokehuntbot) | mentioned by 6 TON channels in Q3 |  |  |
 | 35 | Tradowix Rewards | Official TradoWix rewards bot. Join @tradowix_official, send your Trader ID, get your… | [Bot](https://t.me/tradowix_promo_bot) | mentioned by 3 TON channels in Q3 |  |  |
-| 36 | DXS: Trade The World | Новости проекта, а также полезная информация о мире криптовалют и трейдинга. | [Telegram](https://t.me/dxsapp) [X](https://x.com/DXSapp) [Site](https://dxs.app) |  | 2025-11-17 |  |
-| 37 | Optsnap Trading |  | [Telegram](https://t.me/opt_snap) [Site](https://optsnap.com/) |  | 2024-09-08 |  |
+| 36 | DXS: Trade The World | Новости проекта, а также полезная информация о мире криптовалют и трейдинга. | [Telegram](https://t.me/dxsapp) [X](https://x.com/DXSapp) [Site](https://dxs.app) [Gram News](https://gramnews.org/apps/dxs-trade-the-world) |  | 2025-11-17 |  |
+| 37 | Optsnap Trading |  | [Telegram](https://t.me/opt_snap) [Site](https://optsnap.com/) [Gram News](https://gramnews.org/apps/optsnap-trading) |  | 2024-09-08 |  |
