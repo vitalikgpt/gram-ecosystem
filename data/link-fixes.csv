@@ -654,9 +654,9 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,tonpie,TONpie,bot,remove,https://t.me/Explaceio,,"@Explaceio is the bot of Explace (""Explace"") (tg-probe)"
 2026-10-01,whowhere,WhoWhere,telegram,remove,https://t.me/Earnigram_Vanity_Ton_Bot,,"@Earnigram_Vanity_Ton_Bot is the telegram of Vanity TON (""Vanity Ton"") (tg-probe)"
 2026-10-01,fragment-checker-bot,Fragment Checker Bot,telegram,remove,https://t.me/opt_snap,,"@opt_snap is the telegram of Optsnap Trading (""OptSnap Trading"") (tg-probe)"
-2026-10-01,access,Access,telegram,remove,https://t.me/strayclashgame,,"@strayclashgame is the telegram of Stray Clash (""Stray Clash"") (tg-probe)"
 2026-10-01,novacont-lite,NovaCont Lite,telegram,remove,https://t.me/NovaCont_Lite_bot,,"@NovaCont_Lite_bot is a bot, moved to the bot field (tg-probe)"
 2026-10-01,novacont-lite,NovaCont Lite,bot,replace,,https://t.me/NovaCont_Lite_bot,"@NovaCont_Lite_bot is a bot, moved from the telegram field (tg-probe)"
+2026-10-01,access,Access,telegram,remove,https://t.me/strayclashgame,,"@strayclashgame is the telegram of Stray Clash (""Stray Clash"") (tg-probe)"
 2026-10-01,splitfast,SplitFast,telegram,remove,https://t.me/SplitFastBot,,"@SplitFastBot is a bot, moved to the bot field (tg-probe)"
 2026-10-01,splitfast,SplitFast,bot,replace,,https://t.me/SplitFastBot,"@SplitFastBot is a bot, moved from the telegram field (tg-probe)"
 2026-10-01,ton-byte,TON Byte,telegram,remove,https://t.me/defexa,,"@defexa is the telegram of Defexa (""Defexa"") (tg-probe)"
@@ -1154,10 +1154,10 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,swipelux,Swipelux,bot,remove,https://t.me/alwaysmoneyorg,,"@alwaysmoneyorg is a channel (""AlwaysMoney - Crypto Exchange""), not a bot (kind)"
 2026-10-01,swipelux,Swipelux,telegram,remove,https://t.me/alwaysmoney_sup,,"@alwaysmoney_sup (""AlwaysMoney"") is a personal account, not the project channel (kind)"
 2026-10-01,ton-console-tonapi,TON Console (TonAPI),telegram,remove,https://t.me/tonrostislav,,"@tonrostislav (""Rostislav Rudakov"") is a personal account, not the project channel (kind)"
+2026-10-01,tonnode,TONNode,bot,remove,https://t.me/tonnode_chat,,"@tonnode_chat is a group (""TONNode Community🛠""), not a bot (kind)"
 2026-10-01,apps-father,Apps Father,telegram,replace,https://t.me/apps_father_bot,https://t.me/apps_father,@apps_father is the channel and @apps_father_bot the bot: fields swapped (kind)
 2026-10-01,apps-father,Apps Father,bot,replace,https://t.me/apps_father,https://t.me/apps_father_bot,@apps_father_bot is the bot and @apps_father the channel: fields swapped (kind)
 2026-10-01,ton-nocode-sdk,TON NoCode SDK,bot,remove,https://t.me/safeTONdotFun,,"@safeTONdotFun is a group (""SAFETON.FUN""), not a bot (kind)"
-2026-10-01,tonnode,TONNode,bot,remove,https://t.me/tonnode_chat,,"@tonnode_chat is a group (""TONNode Community🛠""), not a bot (kind)"
 2026-10-01,block-watch,Block Watch,bot,remove,https://t.me/BWDevapp,,"@BWDevapp is a channel (""BWDev""), not a bot (kind)"
 2026-10-01,tonmarketcap,Tonmarketcap,telegram,replace,https://t.me/ton_market_cap_bot,https://t.me/tonmarketcap_channel,@tonmarketcap_channel is the channel and @ton_market_cap_bot the bot: fields swapped (kind)
 2026-10-01,tonmarketcap,Tonmarketcap,bot,replace,https://t.me/tonmarketcap_channel,https://t.me/ton_market_cap_bot,@ton_market_cap_bot is the bot and @tonmarketcap_channel the channel: fields swapped (kind)

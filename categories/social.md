@@ -80,7 +80,7 @@
 | 65 | Twitton |  | [Bot](https://t.me/twitton_bot) [X](https://x.com/web3Twitton) |  |  |  |
 | 66 | @Placce |  | [Bot](https://t.me/placcerobot) | mentioned by 6 TON channels in Q3 |  |  |
 | 67 | ART VNUKICH |  | [Bot](https://t.me/art_vnukich_bot) | mentioned by 4 TON channels in Q3 |  |  |
-| 68 | Asiqpai | ASIQPAI is a music-focused Telegram Mini App built on TON and powered by the ASIQ… | [Telegram](https://t.me/asiqpaihub) [Bot](https://t.me/asiqpai_bot) [X](https://x.com/asiqpai) [Site](https://asiqpai.site) |  |  |  |
+| 68 | Asiqpai | ASIQPAI is a music-focused Telegram Mini App built on TON and powered by the ASIQ… | [Telegram](https://t.me/asiqpaihub) [Bot](https://t.me/asiqpai_bot) [X](https://x.com/asiqpai) [Site](https://asiqpai.site) [GitHub](https://github.com/qaztrap/asiqpai) |  | 2026-10-01 |  |
 | 69 | Atomic Star | ⚛ Платформа для коммуникации с Web3 продуктами проекта StalinFoundation на базе… | [Bot](https://t.me/AtomicStarBot) [GitHub](https://github.com/StalinFoundation) |  | 2024-04-21 | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 70 | Ausum | The ultimate challenge platform on Telegram. ausum.social | [Bot](https://t.me/ausum_bot) | mentioned by 4 TON channels in Q3 |  |  |
 | 71 | Fibarium |  | [Bot](https://t.me/fibariumbot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |

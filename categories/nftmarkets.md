@@ -85,7 +85,7 @@
 | 75 | daolama.co lending | 514 NFT with utility at daolama.co service. | [Telegram](https://t.me/daolama) [Bot](https://t.me/daolama_bot) [X](https://x.com/daolama_ton) [Site](https://daolama.co/nft-collection?utm_source=tonapp&utm_medium=marketplace&utm_campaign=NFT) | 4K views | 2026-09-24 |  |
 | 76 | Chess Pieces | A unique NFT collection of 3600 Chess Pieces from the Chess Zombies metaverse - summon… | [Telegram](https://t.me/chesszombies) [X](https://x.com/SHEDEVERstudio) [Site](https://chesszombies.fun) | 2K views | 2026-09-14 |  |
 | 77 | StarAI | The world’s first AI multimodal asset Marketplace. | [Telegram](https://t.me/StarAI_Channel) [Bot](https://t.me/thestaraibot) [X](https://x.com/The_StarAI) [Site](https://starai.pro/) | 1K MAU |  |  |
-| 78 | Stalin Party Card | Stalin Party Card - is a collection of 1000 NFT party cards that are used in the Stalin… | [Telegram](https://t.me/StalinFoundation) [Site](https://) | 223 views | 2026-07-04 |  |
+| 78 | Stalin Party Card | Stalin Party Card - is a collection of 1000 NFT party cards that are used in the Stalin… | [Telegram](https://t.me/StalinFoundation) [Site](https://) [GitHub](https://github.com/StalinFoundation) | 223 views | 2026-07-04 |  |
 | 79 | TONBANKCARD TECH | The TONBANKCARD ecosystem virtual NFT card will enable cardholders to use closed… | [Telegram](https://t.me/tonbankcard) [Bot](https://t.me/tonbankcard_bot) [Site](https://getgems.io/collection/EQAjHkHtt1MIoU5c7dks73Rz8NMxAA3oStSrcQ_qgn3il-Le) | 207 views | 2026-08-28 |  |
 | 80 | TRIBE marketplace | WEB3 producer for content creators 👩‍🎨 tribeton.io | [Telegram](https://t.me/tribe_ton) [Bot](https://t.me/Tribeton_bot) [X](https://x.com/tribeton) [Site](https://tribeton.io) | 13 views, 80 MAU | 2026-09-19 |  |
 | 81 | Ton Street Boys | Коллекция из 2500 фотографий уличных пацанов, борющихся с испытаниями жития в гетто,… | [Telegram](https://t.me/tonstreetboys) [Bot](https://t.me/TsbWarsBot) | 32 views | 2026-08-17 |  |
@@ -98,7 +98,7 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 85 | Market Makers | Discover the Market Makers - an epic NFT collection by Storm Trade, where trading meets… | [Site](https://getgems.io/market-makers) | 45K views | 2026-09-28 |  |
-| 86 | Mining NFT | VirtualsWorlds is a SocialFi + GameFi We have combined the mechanics of these two areas… | [Telegram](https://t.me/MagicVipClub) [Bot](https://t.me/MiningChatbot) [X](https://x.com/VirtualsWorlds) | 30K views | 2026-07-11 |  |
+| 86 | Mining NFT | VirtualsWorlds is a SocialFi + GameFi We have combined the mechanics of these two areas… | [Telegram](https://t.me/MagicVipClub) [Bot](https://t.me/MiningChatbot) [X](https://x.com/VirtualsWorlds) [GitHub](https://github.com/MagicVipPeople) | 30K views | 2026-07-11 |  |
 | 87 | DMT Holder Assistant | That’s an official bot for DMT token community. | [Bot](https://t.me/dmt_community_bot) |  |  |  |
 | 88 | Cubes | The most questionable cubes on planet. | [Bot](https://t.me/cubesonthewater_bot) |  |  |  |
 | 89 | TonPixel |  | [Bot](https://t.me/tonpixel2049_bot) [X](https://x.com/TonPixelWorld) |  |  |  |

@@ -557,7 +557,7 @@
 | 546 | Forge |  | [Telegram](https://t.me/jettrade_public) [Bot](https://t.me/forge_game_bot) [X](https://x.com/forge_game_bot) |  |  |  |
 | 547 | Forge Hero | Join the action-packed world of Forge Hero, a highly rewarding Idle-RPG built directly… | [Telegram](https://t.me/ForgeHero) [Bot](https://t.me/ForgeHeroBot) [Site](https://playforgehero.com/) |  |  |  |
 | 548 | Forton |  | [Bot](https://t.me/fortonbot) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
-| 549 | Fronex | Fronex is a Telegram-native platform for social prediction gaming on TON. | [Telegram](https://t.me/fronex_official) [Bot](https://t.me/fronexfun_bot) [X](https://x.com/fronexhq) [Site](https://fronex.fun) |  |  |  |
+| 549 | Fronex | Fronex is a Telegram-native platform for social prediction gaming on TON. | [Telegram](https://t.me/fronex_official) [Bot](https://t.me/fronexfun_bot) [X](https://x.com/fronexhq) [Site](https://fronex.fun) [GitHub](https://github.com/fronexhq) |  | 2026-07-03 |  |
 | 550 | GamePat |  | [Bot](https://t.me/gamepatbot) | mentioned by 3 TON channels in Q3 |  |  |
 | 551 | Games Catalog | We hand-pick web2/web3 Telegram games for you so you can enjoy playing them solo or with… | [Site](https://8xr.io) |  |  |  |
 | 552 | Games Platform |  | [Site](https://8xr.io) |  |  |  |
@@ -741,7 +741,7 @@
 | 731 | Sylvan Clash | Greetings, forest defenders and strategy enthusiasts! | [Telegram](https://t.me/SylvanClashAnn) [Bot](https://t.me/Sylvan_Clash_bot) |  | 2024-10-24 |  |
 | 732 | Timer | It's simple: Step 1 When you open Timer firstly you see the screen with dates input. | [Telegram](https://t.me/Timer_community) [Bot](https://t.me/Timer_community_bot) [X](https://x.com/Timer_community) [Site](https://timer.rip/) |  | 2024-10-13 |  |
 | 733 | HUG Community | 🌐 Our plans are to develop products and a crypto social network where $HUG will be… | [Telegram](https://t.me/hugcommunity) [Bot](https://t.me/hugcommunity_bot) [X](https://x.com/communityhug) |  | 2024-10-09 |  |
-| 734 | Not Quiz |  | [Telegram](https://t.me/NotQuiz) [Bot](https://t.me/notquizbot) [X](https://x.com/notquiz_nqz) |  | 2024-09-28 | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
+| 734 | Not Quiz |  | [Telegram](https://t.me/NotQuiz) [Bot](https://t.me/notquizbot) [X](https://x.com/notquiz_nqz) [GitHub](https://github.com/Not-Quiz) |  | 2024-09-28 | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
 | 735 | TON Cook | 💎 Play TON, Earn TON / Top 10 idle gaming publisher on App Store | [Telegram](https://t.me/TONCook_Announcements) [Bot](https://t.me/toncookbot) [X](https://x.com/theTONCook) |  | 2024-09-20 |  |
 | 736 | Mars Race | MarsRace game is where speed and strategy are your keys to victory. | [Telegram](https://t.me/marsrace) [Bot](https://t.me/MarsRace_bot) [X](https://x.com/mars4_me) [Site](https://www.mars4.me) |  | 2024-09-19 |  |
 | 737 | Chess2 Gowin - $GOW | chess community with millions of players and fans. | [Telegram](https://t.me/chessgowin) [Bot](https://t.me/chess_gowin_bot) |  | 2024-09-14 |  |

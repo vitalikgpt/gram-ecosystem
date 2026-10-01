@@ -6,7 +6,7 @@ A library of Gram (TON) and core Telegram projects, grouped by what they do, wit
 
 <a href="reports/2026-q3/poster-en-4k.png"><img src="reports/2026-q3/poster-en.png" alt="TON ecosystem, Q3 2026" width="100%"></a>
 
-**3186 projects in 32 categories: 927 active in Q3 2026, 2178 quiet, 81 closed.** 388 of the active ones are on the [Gram News map for Q3 2026](reports/2026-q3) ([article with interactive leaderboards](https://gramnews.org/articles/ton-ecosystem-map-q3-2026)). Plus 685 channels about TON and an [archive of 19 ecosystem maps](archive) by other authors, 2022 to 2026.
+**3186 projects in 32 categories: 930 active in Q3 2026, 2175 quiet, 81 closed.** 388 of the active ones are on the [Gram News map for Q3 2026](reports/2026-q3) ([article with interactive leaderboards](https://gramnews.org/articles/ton-ecosystem-map-q3-2026)). Plus 685 channels about TON and an [archive of 19 ecosystem maps](archive) by other authors, 2022 to 2026.
 
 Every link here is checked. [792 links need a look](reports/link-check.md) (a wrong account, a dead page, or a name that does not match), and [220 names from older maps](data/unresolved.csv) still need a project to point to. Those two lists are the best place to start contributing. So far 1272 links have been replaced or removed and 89 confirmed, each with its evidence, in [data/link-fixes.csv](data/link-fixes.csv).
 
@@ -21,7 +21,7 @@ Every link here is checked. [792 links need a look](reports/link-check.md) (a wr
 - [Payments](#payments): 27 active, 69 in all
 - [On-ramp](#on-ramp): 9 active, 21 in all
 - [Infra](#infra): 25 active, 31 in all
-- [Developer tools](#developer-tools): 15 active, 100 in all
+- [Developer tools](#developer-tools): 17 active, 100 in all
 - [Analytics](#analytics): 31 active, 113 in all
 - [Explorers](#explorers): 6 active, 13 in all
 - [Security](#security): 11 active, 33 in all
@@ -40,7 +40,7 @@ Every link here is checked. [792 links need a look](reports/link-check.md) (a wr
 - [Trading bots](#trading-bots): 20 active, 37 in all
 - [Social](#social): 19 active, 106 in all
 - [AI](#ai): 15 active, 39 in all
-- [Tools](#tools): 24 active, 75 in all
+- [Tools](#tools): 25 active, 75 in all
 - [Shopping](#shopping): 5 active, 32 in all
 - [Education](#education): 4 active, 26 in all
 - [Games](#games): 118 active, 751 in all
@@ -221,9 +221,9 @@ Within a category, projects on the map come first in map order, then active ones
 | 9 | Softstack |  | [X](https://x.com/softstackHQ) [Site](https://softstack.io) [GitHub](https://github.com/softstack) | commit 2026-09-29 | 2026-09-29 |  |
 | 10 | tact.vim | Vim 8+ plugin. | [GitHub](https://github.com/tact-lang/tact.vim) | commit 2026-07-08 | 2026-07-08 |  |
 | 11 | TON Testnet Faucet |  | [Site](https://ton.run/#/faucet) [GitHub](https://github.com/awesome-doge) | commit 2026-10-01 | 2026-10-01 |  |
-| 12 | tonlib-rs | Rust SDK for TON. | [GitHub](https://github.com/ston-fi/tonlib-rs) | commit 2026-08-12 | 2026-08-12 |  |
+| 12 | TONify | TONify is a free, browser-based converter for TON addresses. | [Site](https://alexmubarakshin.github.io/tonify/) [GitHub](https://github.com/AlexMubarakshin/tonify) | commit 2026-08-23 | 2026-08-23 |  |
 
-[All 100 projects in Developer tools](categories/devtools.md): 15 active, 82 quiet, 3 closed.
+[All 100 projects in Developer tools](categories/devtools.md): 17 active, 80 quiet, 3 closed.
 
 ## Analytics
 
@@ -536,7 +536,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | Tuberg | Бот-ведущий для розыгрыша призов Новости: @tuberg_game По всем вопросам: @millerenos | [Telegram](https://t.me/tuberg_game) [Bot](https://t.me/millerenos_bot) | mentioned by 12 TON channels in Q3 | 2026-09-30 |  |
 | 12 | VoteBot | This bot will help you create polls and share them with friends. | [Bot](https://t.me/vote) | 144K MAU |  |  |
 
-[All 75 projects in Tools](categories/tools.md): 24 active, 49 quiet, 2 closed.
+[All 75 projects in Tools](categories/tools.md): 25 active, 48 quiet, 2 closed.
 
 ## Shopping
 
