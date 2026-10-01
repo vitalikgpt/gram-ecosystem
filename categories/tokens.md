@@ -83,7 +83,7 @@
 | 68 | **Ton Inu (TINU)** |  | [Telegram](https://t.me/toninutools) [X](https://x.com/toninutools) [Site](https://toninu.tech) | 2024-01-07 | mcap $86K, 7,127 holders |  |  |
 | 69 | **Tonio (TONIO)** |  | [Telegram](https://t.me/toniomeme) [X](https://x.com/TonioMeme) [Site](https://www.toniomeme.com) | 2025-06-24 | mcap $39K, 2,477 holders |  |  |
 | 70 | **Tonk** | $TONK An entire ecosystem for traders on $TON and the first multichain influencer… | [Telegram](https://t.me/tonkinu_official) [X](https://x.com/tonkinubot) [Site](https://tonk.bot) | 2024-01-20 |  |  | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) |
-| 71 | **Tony The Duck** | The Quackiest Duck on TON | [Telegram](https://t.me/tonytheduck) [X](https://x.com/theducktony) | 2024-01-13 |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 71 | **Tony The Duck** | The Quackiest Duck on TON | [Telegram](https://t.me/tonytheduck) [X](https://x.com/theducktony) [Site](https://tonytheduck.com) | 2024-01-13 |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 72 | **Tower (TOWER)** | Powered by $TOWER, experience pioneering blockchain game features and earn rewards from… | [Telegram](https://t.me/TowerToken) [X](https://x.com/TowerToken) [Site](https://www.towerecosystem.com) | 2024-01-22 | mcap $938K, 1,305 holders |  |  |
 | 73 | **WOOF (WOOF)** |  | [X](https://x.com/LostDogsCo) [Site](https://x.com/lostdogsco) | 2024-12-23 | mcap $0K, 108,932 holders |  |  |
 | 74 | **X Empire (X)** |  | [X](https://x.com/xempiregame) [Site](https://xempire.io) | 2024-10-11 | mcap $0K, 555,528 holders |  |  |
@@ -115,7 +115,7 @@
 | 100 | **Redo** | Welcome to the Digital Resistance | [Telegram](https://t.me/redotoken) [X](https://x.com/redotoken) [Site](https://redoton.com) | 2024-01-09 |  | 2025-01-13 |  |
 | 101 | **Resistance Dog (REDO)** | Welcome to the Digital Resistance | [Telegram](https://t.me/redotoken) [X](https://x.com/redotoken) [Site](https://redoton.com) | 2024-01-09 | mcap $5.8M, 27,265 holders | 2025-01-13 |  |
 | 102 | **Shitcoin (SHIT)** | Главный Shitcoin, чтобы править всеми | [Telegram](https://t.me/Shitcoinrun) [X](https://x.com/shitcoinrun) [Site](https://tonshitcoin.xyz/) | 2024-05-09 | mcap $32K, 17,539 holders | 2024-11-20 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 103 | **Hedgehog in the Fog** | It’s just hedgehog in the fog on TON. Listing is on 5th of June on StonFi | [Telegram](https://t.me/hedgehoginthefogen) [X](https://x.com/hedgehogton) | 2024-06-05 |  | 2024-11-14 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 103 | **Hedgehog in the Fog** | It’s just hedgehog in the fog on TON. Listing is on 5th of June on StonFi | [Telegram](https://t.me/hedgehoginthefogen) [X](https://x.com/hedgehogton) [Site](https://www.hedgehoginthefog.xyz) | 2024-06-05 |  | 2024-11-14 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 104 | **Resistance Girl (REGI)** |  | [Telegram](https://t.me/ResistanceGirlCoin) [X](https://x.com/regitoncoin) [Site](https://regiton.net) | 2024-03-13 | mcap $48K, 5,677 holders | 2024-10-30 |  |
 | 105 | **SAD MEOW (SADMEOW)** |  | [Telegram](https://t.me/sadmeowcto_portal) [X](https://x.com/SadMeowMP3) [Site](https://sadmeow.lol) | 2024-10-11 | mcap $52K, 1,367 holders | 2024-10-13 |  |
 | 106 | **meh (MEH)** |  | [Telegram](https://t.me/mehtoken) [X](https://x.com/meh_ton) [Site](https://meh.promo) | 2024-04-06 | mcap $23K, 13,200 holders | 2024-09-07 |  |

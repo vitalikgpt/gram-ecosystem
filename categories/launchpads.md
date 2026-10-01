@@ -85,7 +85,7 @@
 | 70 | **TON INU Launchpad** |  | [Telegram](https://t.me/toninutools) [Bot](https://t.me/theontonbot) [X](https://x.com/toninutools) [Site](https://app.toninu.tech/launchpad) [Gram News](https://gramnews.org/apps/ton-inu-launchpad) | 2024-01-12 |  |  |  |
 | 71 | **ton.fun** |  | [Bot](https://t.me/tonfunbot) | 2024-10-16 |  |  | [messari 26](../archive/2026-05-messari.jpg) |
 | 72 | **TonPump.app** | TonPump Memes Launchpad Community | [Telegram](https://t.me/tonpump_community) [X](https://x.com/TonPump_app) | 2024-12-06 | TVL $2K |  |  |
-| 73 | **TONUP** |  | [X](https://x.com/TonUP_io) [Site](https://tonup.io/) [Gram News](https://gramnews.org/apps/tonup) | 2023-04 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 73 | **TONUP** |  | [Telegram](https://t.me/tonup_io) [X](https://x.com/TonUP_io) [Site](https://tonup.io/) [Gram News](https://gramnews.org/apps/tonup) | 2023-04 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 74 | **Orexn** |  | [Telegram](https://t.me/OrexnApp) [Bot](https://t.me/Orexnbot) [X](https://x.com/OrexnX) [Gram News](https://gramnews.org/apps/orexn) | 2025-07-25 |  | 2026-05-02 |  |
 | 75 | **Ton Launchpad** |  | [Telegram](https://t.me/TheTonlaunch_pad) [Bot](https://t.me/tonlaunchpadofficial_bot) [X](https://x.com/thetonlaunchpad) [Site](https://tonlaunchpad.com/) [Gram News](https://gramnews.org/apps/ton-launchpad) | 2025-04-09 |  | 2025-04-10 |  |
 | 76 | **Capitalist** |  | [Telegram](https://t.me/capitalist_web3) [Bot](https://t.me/wisekeeperbot) [X](https://x.com/capitalistweb3) [Gram News](https://gramnews.org/apps/capitalist) | 2024-10-25 |  | 2024-10-25 |  |

@@ -24,7 +24,7 @@
 | 14 | **LikeBot** | A cool bot to create posts with emoji-based like buttons | [Bot](https://t.me/like) [Gram News](https://gramnews.org/apps/like) | 2016-04-10 | 582K MAU |  |  |
 | 15 | **TonTake (TAKE)** | Благотворительно-развлекательная криптоорганизация | [Telegram](https://t.me/TonTake) [Bot](https://t.me/TonTakeChatbot) [X](https://x.com/TonTakeGame) [Gram News](https://gramnews.org/apps/tontake-take) | 2022-05-10 | 84K views | 2026-10-01 |  |
 | 16 | **$PAPA CULT BOT** | 𝕏 Twitter Telegram Chat | [Telegram](https://t.me/papa666cult) [Bot](https://t.me/papacultbot) [X](https://x.com/papa666cult) | 2026-08-28 | mentioned by 5 TON channels in Q3 |  |  |
-| 17 | **ZIFRETTA** | Комплекс Web3 проектов на блокчейне TON | [Telegram](https://t.me/zifretta_ecosystem) [Bot](https://t.me/zifretta_bot) | 2024-04-16 | 73K views, 12K MAU | 2026-09-30 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 17 | **ZIFRETTA** | Комплекс Web3 проектов на блокчейне TON | [Telegram](https://t.me/zifretta_ecosystem) [Bot](https://t.me/zifretta_bot) [Site](https://zifretta.com) | 2024-04-16 | 73K views, 12K MAU | 2026-09-30 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 18 | **loofta** | Loofta — payment service allowing transfers in tokens or bank accounts | [Telegram](https://t.me/loofta) [Bot](https://t.me/looftabot) [X](https://x.com/looftaxyz) [Site](https://loofta.xyz) [Gram News](https://gramnews.org/apps/loofta) | 2024-08-12 | 12K views | 2026-10-01 |  |
 | 19 | **digiverse** | Digiverse is an on-chain marketplace with a Shop & Earn function | [Telegram](https://t.me/digibuycommunity) [Bot](https://t.me/digibuy_bot) [Gram News](https://gramnews.org/apps/digiverse-pzj157) | 2024-08-13 | 53 views | 2026-08-12 |  |
 

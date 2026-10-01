@@ -54,7 +54,7 @@
 | 44 | **Bird's Empire** |  | [Telegram](https://t.me/birdsempirenews) [Bot](https://t.me/birdsempirebot) | 2025-09-26 | mentioned by 4 TON channels in Q3 |  |  |
 | 45 | **PaidZ** |  | [Bot](https://t.me/paldz_bot) | 2026-08-24 | mentioned by 13 TON channels in Q3 |  |  |
 | 46 | **Edge of Empire** | A strategy game in Telegram: build a village and defenses, lead the raids yourself.… | [Bot](https://t.me/edgeofempirebot) | 2025-10-15 | mentioned by 23 TON channels in Q3 |  |  |
-| 47 | **MGRMGA World** |  | [Telegram](https://t.me/mgrmgachannel) [Bot](https://t.me/mgrmga_bot) | 2026-08-07 | mentioned by 13 TON channels in Q3 |  |  |
+| 47 | **MGRMGA World** |  | [Telegram](https://t.me/mgrmgachannel) [Bot](https://t.me/mgrmga_bot) [X](https://x.com/mgrmga) | 2026-08-07 | mentioned by 13 TON channels in Q3 |  |  |
 | 48 | **JASWER** | JASWER — Your gateway to something bigger | [Bot](https://t.me/jaswer_bot) | 2026-08-11 | mentioned by 4 TON channels in Q3 |  |  |
 | 49 | **1ST.GAME** | Your favorite crypto entertainment destination — unlock exclusive features, rewards, and… | [Bot](https://t.me/the1stgamebot) | 2026-10 | 36K MAU |  |  |
 | 50 | **Archive** | ARCHIVE - интерактивная история, которую решает сообщество. Выбирай путь, предсказывай… | [Bot](https://t.me/durovcapsbot) | 2024-09-20 | mentioned by 31 TON channels in Q3 |  |  |
@@ -428,7 +428,7 @@
 | 416 | **PizzaGems** | Pizza Mining / Minting on TON | [Telegram](https://t.me/pizzagems) [Bot](https://t.me/pizzagems_bot) [X](https://x.com/pizza_gems) [Gram News](https://gramnews.org/apps/pizzagems) | 2024-04-01 |  | 2025-06-26 |  |
 | 417 | **Catopia** |  | [Bot](https://t.me/catopia_game_bot) [X](https://x.com/Catopia_online) [Gram News](https://gramnews.org/apps/catopia) | 2024-06-23 |  |  |  |
 | 418 | **TapViking** | TapViking - Tap in to Riches. Fren, welcome to the Best Game. Be Rich with Viking | [Bot](https://t.me/tapviking_bot) [Gram News](https://gramnews.org/apps/tapviking) | 2024-05-19 |  |  |  |
-| 419 | **The Virus** |  | [Bot](https://t.me/the_virus_bot) [X](https://x.com/VIRUSCTO) [Site](https://thevirusonton.xyz) [Gram News](https://gramnews.org/apps/the-virus) | 2024-06 |  |  |  |
+| 419 | **The Virus** |  | [Telegram](https://t.me/thevirusonton) [Bot](https://t.me/the_virus_bot) [X](https://x.com/VIRUSCTO) [Site](https://thevirusonton.xyz) [Gram News](https://gramnews.org/apps/the-virus) | 2024-06 |  |  |  |
 | 420 | **Checkers With Friends** | Checkers is a fun, classic board game that you can play with your friends without… | [Bot](https://t.me/startcheckersbot) [Gram News](https://gramnews.org/apps/checkers-with-friends) | 2024-05-18 |  |  |  |
 | 421 | **NOTMEME app** |  | [Telegram](https://t.me/notmeme_app) [Bot](https://t.me/notmemeappbot) [X](https://x.com/notmeme_app) [Gram News](https://gramnews.org/apps/notmeme-app) | 2024-04-21 |  | 2024-12-08 |  |
 | 422 | **BunnyApp** |  | [Telegram](https://t.me/bunnyAppSupport) [Bot](https://t.me/bunnyappbot) [Gram News](https://gramnews.org/apps/bunnyapp) | 2024-04-21 |  |  |  |
@@ -646,7 +646,7 @@
 | 636 | **STARGAME** | Guess how far the racket will fly and get tokens on your balance | [Telegram](https://t.me/StarWalletBot_Ru) [Bot](https://t.me/StarwalletBot) | 2024-07 |  |  |  |
 | 637 | **Stars Gold** |  | [Telegram](https://t.me/referral_game) [Bot](https://t.me/starsgd_bot) | 2024-09-27 | mentioned by 5 TON channels in Q3 |  |  |
 | 638 | **State.io** | Real-time strategy: clash with rivals and take over the map | [Bot](https://t.me/stateio_bot) |  |  |  |  |
-| 639 | **STELLARIUM** | Galaxy for everyone! | [Bot](https://t.me/timegalaxy_bot) [X](https://x.com/StellariumRW1) [Site](https://stellarium-research.com) | 2026-06-15 | mentioned by 5 TON channels in Q3 |  |  |
+| 639 | **STELLARIUM** | Galaxy for everyone! | [Telegram](https://t.me/stellariumresearch) [Bot](https://t.me/timegalaxy_bot) [X](https://x.com/StellariumRW1) [Site](https://stellarium-research.com) | 2026-06-15 | mentioned by 5 TON channels in Q3 |  |  |
 | 640 | **Stepogram bot** | Stepogram bot is an app for tracking steps and nutrition | [Telegram](https://t.me/StepogramAdmin) [Bot](https://t.me/stepogrambot) [Site](https://Stepogram.com) [Gram News](https://gramnews.org/apps/stepogram-bot) | 2022-08-31 |  |  | [coin98-games 24](../archive/2024-02-coin98-games.jpg) [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
 | 641 | **SunSpace JUMP** | SunSpace JUMP - a competitive game: jump, reach the TOP and win prizes! | [Bot](https://t.me/sunspacejump_bot) | 2025-04-04 | mentioned by 5 TON channels in Q3 |  |  |
 | 642 | **Supermarket** | Are you ready to become a wealthy supermarket owner? | [Telegram](https://t.me/supermarketgroup) [Bot](https://t.me/SupermarketGameBot) | 2024-12-19 |  |  |  |

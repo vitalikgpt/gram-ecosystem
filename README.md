@@ -2,9 +2,9 @@
 
 <img src="assets/cover.jpg" alt="Gram Ecosystem: TON and Telegram projects" width="100%">
 
-<img src="https://img.shields.io/badge/projects-3%2C221-5aa9ff?style=flat-square" alt="projects: 3,221"> <img src="https://img.shields.io/badge/active-928-4cd08a?style=flat-square" alt="active: 928"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/links%20fixed-1%2C851-f2b84b?style=flat-square" alt="links fixed: 1,851"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
+<img src="https://img.shields.io/badge/projects-3%2C221-5aa9ff?style=flat-square" alt="projects: 3,221"> <img src="https://img.shields.io/badge/active-928-4cd08a?style=flat-square" alt="active: 928"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/links%20fixed-1%2C872-f2b84b?style=flat-square" alt="links fixed: 1,872"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
 
-**Every TON and Telegram project we could verify: 3,221 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 7,458 links are checked every week; 1,851 wrong ones have been fixed so far, each with its evidence.
+**Every TON and Telegram project we could verify: 3,221 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 7,479 links are checked every week; 1,872 wrong ones have been fixed so far, each with its evidence.
 
 Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, build on it.
 
@@ -140,7 +140,7 @@ The `sources` column lists every place a project was found:
 | [data/projects.csv](data/projects.csv) | 3,221 projects, one per row |
 | [data/channels.csv](data/channels.csv) | 685 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
 | [data/categories.json](data/categories.json) | categories in display order |
-| [data/link-fixes.csv](data/link-fixes.csv) | 1,940 link decisions (replaced, removed, confirmed) with evidence |
+| [data/link-fixes.csv](data/link-fixes.csv) | 1,961 link decisions (replaced, removed, confirmed) with evidence |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
 | [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |
 | [reports/link-check.md](reports/link-check.md) | 770 links that failed the last check |

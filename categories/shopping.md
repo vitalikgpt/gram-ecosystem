@@ -12,7 +12,7 @@
 | 2 | **Uquid Shop** |  | [Telegram](https://t.me/uquidshop) [Bot](https://t.me/uquidbot) [X](https://x.com/uquidcard) [Gram News](https://gramnews.org/apps/uquid-shop) | 2024-05-16 | 1K MAU | 2026-06-22 |  |
 | 3 | **uShopWebBot** | Web bot shop builder for Telegram | [Telegram](https://t.me/uShopWeb) [Bot](https://t.me/uShopWebBot) [Site](https://www.ucoz.ru/bot/) [Gram News](https://gramnews.org/apps/ushopwebbot) | 2022-12-05 | 475 views | 2026-07-08 |  |
 | 4 | **IrenSystem** | IrenSystem - инструмент для предпринимателей и фрилансеров | [Telegram](https://t.me/irensyst) [Bot](https://t.me/demoirensystembot) [Site](https://irensystem.ru) [Gram News](https://gramnews.org/apps/irensystem) | 2023-03-22 | 56 views | 2026-08-11 |  |
-| 5 | **$GOVNO Paper Store** |  | [Telegram](https://t.me/govnopaperstore) [Bot](https://t.me/GOVNOPaperBot) [Site](https://govnoton.com/) [Gram News](https://gramnews.org/apps/govno-paper-store) | 2025-02-13 |  | 2026-07-12 |  |
+| 5 | **$GOVNO Paper Store** |  | [Telegram](https://t.me/govnopaperstore) [Bot](https://t.me/GOVNOPaperBot) [X](https://x.com/govno_on_ton) [Site](https://govnoton.com/) [Gram News](https://gramnews.org/apps/govno-paper-store) | 2025-02-13 |  | 2026-07-12 |  |
 
 <details><summary><b>Quiet: 24</b></summary>
 

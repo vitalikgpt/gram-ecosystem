@@ -45,7 +45,7 @@
 | 30 | **Xeno Network** |  | [Telegram](https://t.me/xenonetworkio) [Bot](https://t.me/xenonetwork_bot) [Gram News](https://gramnews.org/apps/xeno-network) | 2024-06-24 |  |  |  |
 | 31 | **Tonflix Wallet** |  | [Bot](https://t.me/tonflixwallet_bot) [Gram News](https://gramnews.org/apps/tonflix-wallet) | 2024-09-03 |  |  |  |
 | 32 | **water bot** |  | [Telegram](https://t.me/water_ton) [Bot](https://t.me/water_ton_bot) [Gram News](https://gramnews.org/apps/water-bot) | 2024-04-04 |  |  |  |
-| 33 | **TryTON Wallet** |  | [Bot](https://t.me/trytonwalletbot) [Gram News](https://gramnews.org/apps/tryton-wallet) | 2024-03-24 |  |  |  |
+| 33 | **TryTON Wallet** |  | [Bot](https://t.me/trytonwalletbot) [X](https://x.com/tryton_on_ton) [Site](https://tryton-on-ton.com) [Gram News](https://gramnews.org/apps/tryton-wallet) | 2024-03-24 |  |  |  |
 | 34 | **BOOL BOT** |  | [Bot](https://t.me/boolfamily_bot) [Gram News](https://gramnews.org/apps/bool-bot) | 2024-06-12 |  |  |  |
 | 35 | **Pixel Wallet** | Hello Pixel is a fully on-chain gamified hub in TG mini-app for retail integration into… | [Bot](https://t.me/pixel_wallet_bot) [X](https://x.com/hellopixelverse) [Gram News](https://gramnews.org/apps/pixel-wallet) | 2023-11-11 | TVL $8K |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 36 | **Pluto Top** | Welcome to the Pluto Top-up Center！ | [Bot](https://t.me/plutotopupbot) [Gram News](https://gramnews.org/apps/pluto-top) | 2024-06-28 |  |  |  |

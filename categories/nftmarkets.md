@@ -2,7 +2,7 @@
 
 # NFT & Gifts
 
-**236 projects: 84 active, 135 quiet, 17 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**236 projects: 84 active, 136 quiet, 16 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -30,7 +30,7 @@
 | 20 | **StarsovBot** |  | [Telegram](https://t.me/starsovnews) [Bot](https://t.me/starsovbot) | 2022-08-11 | mentioned by 7 TON channels in Q3 |  |  |
 | 21 | **EDGE GIFT** |  | [Telegram](https://t.me/edge_gift) [Bot](https://t.me/edge_gift_bot) | 2025-09-15 | mentioned by 17 TON channels in Q3 |  |  |
 | 22 | **Rocket-Number** |  | [Telegram](https://t.me/rockettg) [Bot](https://t.me/rocketnumberbot) | 2024-04-26 | mentioned by 5 TON channels in Q3 | 2026-09-30 |  |
-| 23 | **Goodies** |  | [Telegram](https://t.me/goodies) [Bot](https://t.me/getgoodies_bot) | 2025-06-15 | mentioned by 12 TON channels in Q3 | 2026-10-01 |  |
+| 23 | **Goodies** |  | [Telegram](https://t.me/goodies) [Bot](https://t.me/getgoodies_bot) [X](https://x.com/goodies_tg) | 2025-06-15 | mentioned by 12 TON channels in Q3 | 2026-10-01 |  |
 | 24 | **Frog Case** | Выиграйте NFT-подарки, о которых всегда мечтали! | [Telegram](https://t.me/frogcasenews) [Bot](https://t.me/frogcasebot) | 2025-05-03 | mentioned by 42 TON channels in Q3 |  |  |
 | 25 | **Portals Market** | Open the portal. Trade your gifts | [Bot](https://t.me/portals_market_bot) | 2025-06-09 | mentioned by 4 TON channels in Q3 |  |  |
 | 26 | **Gift Go** | A Telegram mini app for selling gift stickers with an authentication error page on open | [Telegram](https://t.me/gift_board) [Bot](https://t.me/giftgobot) [Gram News](https://gramnews.org/apps/gift-go) | 2025-06-02 | 292K MAU | 2025-07-27 |  |
@@ -93,7 +93,7 @@
 | 83 | **Ton Hedgehog** | 1111 different hand-drawn pixel hedgehogs | [Telegram](https://t.me/hedgehog_ton) [Site](https://) | 2026-09-04 | 3 views | 2026-09-04 |  |
 | 84 | **Aqua Genesis NFTs** |  | [Telegram](https://t.me/aquaprotocolxyzchannelen) [X](https://x.com/aquaprotocolxyz) [Site](https://x.com/aquaprotocolxyz) [Gram News](https://gramnews.org/apps/aqua-genesis-nfts) | 2023-12-03 |  | 2026-09-29 |  |
 
-<details><summary><b>Quiet: 135</b></summary>
+<details><summary><b>Quiet: 136</b></summary>
 
 | # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- | --- |
@@ -145,7 +145,7 @@
 | 135 | **Humans** | Уникальная, лимитированная коллекция NFT аватаров на базе TON, выбери свой аватар! | [Site](https://getgems.io/collection/EQDgUeotvXbB1_YEIhrYvYHj8jO9rY6ud7uIW-TBTQIP2odD) | 2023-02 |  |  |  |
 | 136 | **Ihuima NFT** | Самый ху#вый бот в мире Новости | [Telegram](https://t.me/ihuyma) [Bot](https://t.me/ihuima_bot) | 2026-07-01 | mentioned by 6 TON channels in Q3 |  |  |
 | 137 | **kingyTON NFT** | A unique animated collection of 315 items on significant events of the TON project | [Telegram](https://t.me/investkingyru) [Site](https://ton.org.in) | 2023-05 |  |  |  |
-| 138 | **Kito so cool** |  | [Telegram](https://t.me/kitocommunity) [Bot](https://t.me/nordom_gates_bot) [X](https://x.com/kitosocool) [Gram News](https://gramnews.org/apps/kito-so-cool) | 2024-06-10 |  |  |  |
+| 138 | **Kito so cool** |  | [Telegram](https://t.me/kitocommunity) [Bot](https://t.me/nordom_gates_bot) [X](https://x.com/kitosocool) [Site](https://kitoton.com) [Gram News](https://gramnews.org/apps/kito-so-cool) | 2024-06-10 |  |  |  |
 | 139 | **Knuckles TON** | Knuckles TON is everything you need | [Telegram](https://t.me/knucklesonton) [Site](https://getgems.io/knuckleston) | 2024-03 |  |  |  |
 | 140 | **LlamasInPixelHarmony** | Llamas In Pixel Harmony is a symbol of the strength, tenacity and endurance of the TON… | [Telegram](https://t.me/LlamasInPixelHarmony) [Site](https://getgems.io/collection/EQB31ij7PT2XWo2onAdhOVwEWvOrU804b70MD0PPpyqz2qv8) | 2023-12 |  |  |  |
 | 142 | **Memeland** | Memeland is a Web3 application for earning crypto with memes and NFTs | [Bot](https://t.me/metaland_bot) [X](https://x.com/memeland_tg) [Gram News](https://gramnews.org/apps/memeland) | 2025-01-14 |  |  |  |
@@ -187,6 +187,7 @@
 | 182 | **TEIKO** | The TEIKŌ project combines web3 and web2 for artists and art enthusiasts | [Telegram](https://t.me/teiko) | 2023-06 |  |  |  |
 | 183 | **Telegram Numbers** | Trade IDs not tied to a SIM card which allow logging into Telegram with your blockchain… | [Site](https://fragment.com/numbers) | 2022-12-06 |  |  |  |
 | 184 | **Telegram Stickers** | Самый большой каталог стикеров телеграм! Сделать свои стикеры: Чат Прислать свой пак в… | [Telegram](https://t.me/tgsticker) [Bot](https://t.me/moistikibot) | 2020-08-11 | mentioned by 4 TON channels in Q3 |  |  |
+| 185 | **Tenere Slopy** | Пиксельная NFT коллекция с розыгрышем 12000 TON среди всех владельцев NFT Tenere Slopy… | [X](https://x.com/slopymeme) | 2023-06 |  |  |  |
 | 187 | **Tmarket** | Shop for NFT email domains, Telegram stars & premium, eSIMs, top-up Steam and more | [Telegram](https://t.me/tmarket) [Bot](https://t.me/tmarkettonbot) | 2025-05-07 | mentioned by 6 TON channels in Q3 |  |  |
 | 188 | **TON AVATARS** | TON AVATARS — collection of 5,555 unique NFT Avatars on the TON blockchain, created in… | [Site](https://tonavatars.to/) | 2024-01 |  |  |  |
 | 189 | **TON Diamonds NFT** | TON Diamonds NFT collection contains 10,000 unique animated diamonds that grant… | [Telegram](https://t.me/sheidlinart) [Site](https://ton.diamonds) | 2023-06 |  |  |  |
@@ -235,7 +236,7 @@
 
 </details>
 
-<details><summary><b>Closed: 17</b></summary>
+<details><summary><b>Closed: 16</b></summary>
 
 | # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- | --- |
@@ -249,7 +250,6 @@
 | 150 | **NFT Drop Calendar** |  | [Gram News](https://gramnews.org/apps/nft-drop-calendar) | 2024-01 |  |  |  |
 | 176 | **SMART TIGERS** | This is the first collection of Smart Tigers on the NFT TON blockchain by ceoa |  | 2023-06 |  |  |  |
 | 177 | **SPACEDISCOSHEEP** | SPACEDISCOSHEEP is an NFT collection of 888 hand drawn sheep, inspired by an artwork of… |  | 2022-12 |  |  |  |
-| 185 | **Tenere Slopy** | Пиксельная NFT коллекция с розыгрышем 12000 TON среди всех владельцев NFT Tenere Slopy… |  | 2023-06 |  |  |  |
 | 186 | **Tenere Wanderlust** | Tenere Wanderlust is a limited edition collection of 365 unique live NFT |  | 2023-06 |  |  |  |
 | 193 | **TON Fingerprints** | This is a NFT collection of 10 000 unique digital fingerprints created based on the… |  | 2023-08 |  |  |  |
 | 198 | **TONDONS** | A unique multifunctional NFT collection of TONDONS in The Open Network Collect TON Dons,… |  | 2023-06 |  |  |  |

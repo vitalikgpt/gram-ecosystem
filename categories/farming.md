@@ -189,7 +189,7 @@
 | 179 | **CRYPTICO** | CRYPTICO — a game about trading and character leveling | [Telegram](https://t.me/cryptico_app) [X](https://x.com/cryptico_app) | 2024-10-07 | 27K views | 2026-09-04 |  |
 | 180 | **HoneyInc New Guaranteed USDT Airdrop** |  | [Telegram](https://t.me/thehivegoop) [Bot](https://t.me/honeyincnewguaranteedairdropbot) [Site](https://honeyinc.app/) | 2025-12-07 | mentioned by 4 TON channels in Q3 |  |  |
 | 181 | **72Hashes** | Your 72Hashes contract is ready | [Bot](https://t.me/gramhashes72bot) | 2026-06-26 | mentioned by 3 TON channels in Q3 |  |  |
-| 182 | **Otters** | Otters is a gamified Telegram Mini App built on TON that rewards users through daily… | [Telegram](https://t.me/otters_games) [X](https://x.com/OttersComm) | 2024-12-08 | 25K views | 2026-08-31 |  |
+| 182 | **Otters** | Otters is a gamified Telegram Mini App built on TON that rewards users through daily… | [Telegram](https://t.me/otters_games) [X](https://x.com/OttersComm) [Site](https://otters.games) | 2024-12-08 | 25K views | 2026-08-31 |  |
 | 183 | **PythoDex Airdrop** |  | [Bot](https://t.me/pythodexairdropbot) | 2026-08-20 | mentioned by 3 TON channels in Q3 |  |  |
 | 184 | **ChiliVersus** | Join ChiliVersus, where you dive into popular rivalries, embrace the versus spirit, fuel… | [Bot](https://t.me/ChiliVersusBot) [X](https://x.com/ChiliVersus) | 2024-11-19 | 25K MAU |  |  |
 | 185 | **Huevos** | Build your farm, earn CHICKENS, complete tasks & unlock referral rewards! | [Bot](https://t.me/huevos_farm_bot) | 2026-08-18 | mentioned by 3 TON channels in Q3 |  |  |
@@ -214,7 +214,7 @@
 | 204 | **Innovative Usdt** | Innovative USDT / Earn BANANA through tasks, ads & referrals. Convert to USDT I… | [Telegram](https://t.me/innovativeusdt) [Bot](https://t.me/innovativeusdtbot) | 2026-08-03 | mentioned by 3 TON channels in Q3 |  |  |
 | 205 | **Paygent Airdrop** |  | [Bot](https://t.me/paygentairdropbot) | 2026-08-24 | mentioned by 4 TON channels in Q3 |  |  |
 | 206 | **Flagship Crypto** | Flagship Crypto — a mini app for gaming and earning $FYI tokens | [Telegram](https://t.me/flagship_announcements) [Bot](https://t.me/Flagshipfyibot) [X](https://x.com/FlagshipFYI) [Gram News](https://gramnews.org/apps/flagship-crypto) | 2023-11-16 | 751 views, 15K MAU | 2026-07-02 |  |
-| 207 | **Asteroid Shiba** | Season 1 is live on Asteroid Shiba. Discover asteroids, earn ASTRO, and grow your… | [Bot](https://t.me/asteroidshiba_app_bot) | 2026-07-16 | mentioned by 19 TON channels in Q3 |  |  |
+| 207 | **Asteroid Shiba** | Season 1 is live on Asteroid Shiba. Discover asteroids, earn ASTRO, and grow your… | [Telegram](https://t.me/astroidshiba_ton) [Bot](https://t.me/asteroidshiba_app_bot) [X](https://x.com/asteroidton) [Site](https://www.asteroidshiba-ton.xyz) | 2026-07-16 | mentioned by 19 TON channels in Q3 |  |  |
 | 208 | **Virtual Mine** | Instant USDT Mining just by Tasks | [Bot](https://t.me/virtual_mine_rbot) | 2026-09-17 | mentioned by 3 TON channels in Q3 |  |  |
 | 209 | **FishFarm** | Рыбная ферма с настоящими деньгами. Лови, качай, выводи в GRAM | [Bot](https://t.me/fish_farmings_bot) | 2026-08-17 | mentioned by 5 TON channels in Q3 |  |  |
 | 210 | **Escomine** |  | [Telegram](https://t.me/escominepey) [Bot](https://t.me/escominerbot) | 2026-07-01 | mentioned by 10 TON channels in Q3 |  |  |
@@ -375,7 +375,7 @@
 | 360 | **XNX Crypto Clicker** |  | [Bot](https://t.me/xnxcoin_bot) [Gram News](https://gramnews.org/apps/xnx-crypto-clicker) | 2024-05 |  |  |  |
 | 361 | **GobblUp** | Munch on $GOBBL tokens & join the biggest food revolution in Web3! Claim your Free… | [Bot](https://t.me/gobblupbot) [X](https://x.com/gmgobbl) [Gram News](https://gramnews.org/apps/gobblup) | 2021-11-05 |  |  |  |
 | 362 | **Alpha World** |  | [Telegram](https://t.me/alphaworldofficial) [Bot](https://t.me/thealphaworld_bot) [X](https://x.com/CryptoAlpha2025) [Gram News](https://gramnews.org/apps/alpha-world) | 2024-04-17 |  | 2025-01-26 |  |
-| 363 | **BABYTON** | EARN FREE BABYTON TOKEN LISTING VERY SOON ON #TON CHAIN | [Bot](https://t.me/babytonmining_bot) [X](https://x.com/babiytonn) [Gram News](https://gramnews.org/apps/babyton) | 2025-06-14 |  |  |  |
+| 363 | **BABYTON** | EARN FREE BABYTON TOKEN LISTING VERY SOON ON #TON CHAIN | [Bot](https://t.me/babytonmining_bot) [X](https://x.com/babiytonn) [Site](https://www.babyton.pro) [Gram News](https://gramnews.org/apps/babyton) | 2025-06-14 |  |  |  |
 | 364 | **GVWS** | GVWS is an app for giveaways! | [Telegram](https://t.me/tecteam) [Bot](https://t.me/gvws_bot) [X](https://x.com/tecteam_) [Gram News](https://gramnews.org/apps/gvws) | 2023-12-17 |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 365 | **Tea Farm** | P2E game where players grow, produce, and sell tea using TON blockchain | [Telegram](https://t.me/teafarmcoin) [Bot](https://t.me/teafarmtownbot) [X](https://x.com/teafarmtown) [Site](https://teafarmcoin.com/) [Gram News](https://gramnews.org/apps/tea-farm) | 2022-07-04 |  | 2025-07-23 |  |
 | 366 | **Tap Goose Adventure** | Play, earn coins, invite friends | [Bot](https://t.me/tap_igoose_bot) [Gram News](https://gramnews.org/apps/tap-goose-adventure) | 2022-11-07 |  |  |  |
