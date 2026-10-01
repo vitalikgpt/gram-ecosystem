@@ -28,6 +28,10 @@
   "label": "Infra"
  },
  {
+  "key": "devtools",
+  "label": "Developer tools"
+ },
+ {
   "key": "analytics",
   "label": "Analytics"
  },
@@ -94,6 +98,22 @@
  {
   "key": "social",
   "label": "Social"
+ },
+ {
+  "key": "ai",
+  "label": "AI"
+ },
+ {
+  "key": "tools",
+  "label": "Tools"
+ },
+ {
+  "key": "shopping",
+  "label": "Shopping"
+ },
+ {
+  "key": "education",
+  "label": "Education"
  },
  {
   "key": "games",

@@ -13,6 +13,7 @@ Checks
             (catalogues often carry someone else's account)
   website   the site answers, and its domain shares a word with the name
             (or the site is a known shared host such as GitHub)
+  github    the repository or account exists
 
 Usage: python3 scripts/check_links.py [--offline]
 --offline skips network requests and runs only the name-matching checks.
@@ -97,9 +98,22 @@ def check_site(url, name_words):
     return status
 
 
+def check_github(url):
+    if OFFLINE:
+        return "unchecked"
+    code, _ = fetch(url)
+    if code == 404:
+        return "repository or account not found"
+    if code in (0, 429) or code >= 500:
+        return "ok"   # rate limit or outage, not evidence of a dead repo
+    return "ok" if code < 400 else f"http {code}"
+
+
 def check_row(r):
     nw = words(r["name"], r["slug"].replace("-", " "))
     out = {}
+    if r["status"] == "closed":
+        return r, out   # closed projects keep their links for history; nothing to fix
     if r["telegram"]:
         out["telegram"] = check_tme(r["telegram"])
     if r["bot"]:
@@ -108,16 +122,18 @@ def check_row(r):
         out["x"] = check_x(r["x"], nw)
     if r["website"]:
         out["website"] = check_site(r["website"], nw)
-    if not any(r[k] for k in ("telegram", "bot", "x", "website")):
+    if r.get("github"):
+        out["github"] = check_github(r["github"])
+    if not any(r.get(k) for k in ("telegram", "bot", "x", "website", "github")):
         out["links"] = "no links at all"
     return r, out
 
 
 def main():
     rows = list(csv.DictReader(open("data/projects.csv", encoding="utf-8")))
-    with ThreadPoolExecutor(4) as ex:
+    with ThreadPoolExecutor(6) as ex:
         results = list(ex.map(check_row, rows))
-    problems = [(r, k, v, r.get(k, "")) for r, out in results for k, v in out.items() if v != "ok"]
+    problems = [(r, k, v, r.get(k, "")) for r, out in results for k, v in out.items() if v not in ("ok", "unchecked")]
     total = sum(len(out) for _, out in results)
     lines = [
         "# Link check",
@@ -134,6 +150,9 @@ def main():
     for r, kind, status, url in sorted(problems, key=lambda p: (p[0]["category"], int(p[0]["rank"]))):
         shown = f"[{kind}]({url})" if url else kind
         lines.append(f"| {r['name']} | {r['category']} | {shown} | {status} |")
+    if OFFLINE:   # CI smoke run: report only, keep the last full check on disk
+        print(f"{len(problems)} name mismatches in {total} links (offline, report not written)")
+        return
     open("reports/link-check.md", "w", encoding="utf-8").write("\n".join(lines) + "\n")
     print(f"{len(problems)} problems in {total} links -> reports/link-check.md")
 

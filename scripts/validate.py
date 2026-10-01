@@ -7,7 +7,9 @@ import sys
 
 errors = []
 cats = {c["key"] for c in json.load(open("data/categories.json", encoding="utf-8"))}
-EVIDENCE = {"telegram", "x", "gramnews", "mau", "site", "market", "editor"}
+EVIDENCE = {"telegram", "x", "gramnews", "mau", "site", "market", "editor", "github"}
+STATUS = {"active", "quiet", "closed"}
+DATE = re.compile(r"\d{4}-\d{2}-\d{2}")
 seen = set()
 for i, r in enumerate(csv.DictReader(open("data/projects.csv", encoding="utf-8")), start=2):
     where = f"data/projects.csv:{i} ({r.get('name')})"
@@ -20,12 +22,21 @@ for i, r in enumerate(csv.DictReader(open("data/projects.csv", encoding="utf-8")
     if r["slug"] in seen:
         errors.append(f"{where}: duplicate slug '{r['slug']}'")
     seen.add(r["slug"])
-    if r["native"] not in ("0", "1"):
-        errors.append(f"{where}: native must be 0 or 1")
+    if r["native"] not in ("0", "1", ""):
+        errors.append(f"{where}: native must be 0, 1 or empty")
+    if r["status"] not in STATUS:
+        errors.append(f"{where}: status must be one of {sorted(STATUS)}")
+    if r["on_map"] not in ("0", "1"):
+        errors.append(f"{where}: on_map must be 0 or 1")
+    for k in ("last_post", "last_commit"):
+        if r[k] and not DATE.fullmatch(r[k]):
+            errors.append(f"{where}: {k} must be YYYY-MM-DD")
+    if not r["sources"].strip():  # github-pr is fine for a project added by hand
+        errors.append(f"{where}: sources must name where the project was found")
     for e in filter(None, r["evidence"].split("+")):
         if e not in EVIDENCE:
             errors.append(f"{where}: unknown evidence '{e}'")
-    for k in ("telegram", "bot", "x", "website"):
+    for k in ("telegram", "bot", "x", "website", "github"):
         if r[k] and not r[k].startswith("https://"):
             errors.append(f"{where}: {k} must be an https:// link")
     for k in ("telegram", "bot"):
@@ -33,6 +44,11 @@ for i, r in enumerate(csv.DictReader(open("data/projects.csv", encoding="utf-8")
             errors.append(f"{where}: {k} must look like https://t.me/username")
     if r["x"] and not re.fullmatch(r"https://x\.com/[A-Za-z0-9_]{1,15}", r["x"]):
         errors.append(f"{where}: x must look like https://x.com/handle")
+    if r["github"] and not re.fullmatch(r"https://github\.com/[A-Za-z0-9_.-]+(/[A-Za-z0-9_.-]+)?", r["github"]):
+        errors.append(f"{where}: github must look like https://github.com/owner or https://github.com/owner/repo")
+for i, r in enumerate(csv.DictReader(open("data/unresolved.csv", encoding="utf-8")), start=2):
+    if not r["name"].strip() or not r["seen_on"].strip():
+        errors.append(f"data/unresolved.csv:{i}: name and seen_on are required")
 for i, r in enumerate(csv.DictReader(open("data/channels.csv", encoding="utf-8")), start=2):
     if not re.fullmatch(r"https://t\.me/[A-Za-z0-9_]{4,}", r["telegram"]):
         errors.append(f"data/channels.csv:{i}: telegram must look like https://t.me/username")
