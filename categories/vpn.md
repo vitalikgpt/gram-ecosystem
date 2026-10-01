@@ -13,7 +13,7 @@
 | 3 | Durev VPN ✓ | Durev VPN is a VPN service for fast and reliable internet access. | [Telegram](https://t.me/durevvpn) [Bot](https://t.me/DureVpnBot) [Site](https://durevpn.com/) | 812K views, 244K MAU | 2026-09-30 |  |
 | 4 | Resistance Tools ✓ | An open-source privacy toolkit for TON, run through the @ResistanceToolsBot bot. | [Telegram](https://t.me/resistancetools) [Bot](https://t.me/ResistanceToolsBot) [Site](https://resistance.dog) | 5K views | 2026-09-20 |  |
 | 5 | 1323vpn | Публикуем новости и обновления VPN'а | [Telegram](https://t.me/vpn1323) [Bot](https://t.me/vpn1323bot) | 283 views | 2026-09-24 |  |
-| 6 | Connecton VPN ✓ | You can view and join right away. | [Telegram](https://t.me/connectonbot) [GitHub](https://github.com/Connecton) | 26 views | 2026-09-15 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 6 | Connecton VPN ✓ |  | [Telegram](https://t.me/connectonbot) [GitHub](https://github.com/Connecton) | 26 views | 2026-09-15 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 7 | Need VPN & eSIM | Fast & Stable VPN & eSIM. Channel: @needapp Support: @need_supp_bot | [Bot](https://t.me/need) | mentioned by 16 TON channels in Q3 |  |  |
 | 8 | VPN Скруджа 🛜 | 📡 VPN Сервис для избранных 💬Помощь: @ScroogeHelp Канал: @ScroogeVPN | [Bot](https://t.me/scroogevpnrobot) | mentioned by 8 TON channels in Q3 |  |  |
 | 9 | Связь VPN⚡️ | Безопасный, Быстрый, Удобный и Лучший VPN на рынке с приятной ценой Наш канал:… | [Bot](https://t.me/svyazvpnrobot) | mentioned by 5 TON channels in Q3 |  |  |
@@ -35,7 +35,7 @@
 | 20 | NETZ.RUN VPN | Fast and reliable VPN service in Telegram | [Bot](https://t.me/netzrun_bot) |  |  |  |
 | 21 | Plume Proxy | Fast & Affordable Rotating Proxy Servers | [Bot](https://t.me/plumeproxy_bot) |  |  |  |
 | 22 | PlusOne VPN |  | [Bot](https://t.me/plusonevpn_bot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 23 | Tony VPN | You can view and join right away. | [Bot](https://t.me/tony_vpn_bot) |  |  |  |
+| 23 | Tony VPN |  | [Bot](https://t.me/tony_vpn_bot) |  |  |  |
 | 24 | VPN4TON |  | [Bot](https://t.me/vpn4ton_bot) |  |  |  |
 | 25 | Gram VPN | A VPN inside Telegram — the @GramVBot bot opens blocked websites through a… | [Telegram](https://t.me/GramVPN) [Bot](https://t.me/GramVBot) |  | 2026-06-24 |  |
 | 26 | zonerift VPN | Buy Premium VPN with Telegram Stars and TON | [Telegram](https://t.me/TildaApp) [Bot](https://t.me/zoneriftvpn_bot) [X](https://x.com/zoneriftvpn) |  | 2025-09-27 |  |

@@ -1,6 +1,6 @@
 # Link check
 
-3187 projects, 7246 links checked, 998 need a look.
+3178 projects, 7246 links checked, 997 need a look.
 
 A mismatch is not always an error: a project may run under another brand. Fix the link in `data/projects.csv` or confirm it in the pull request.
 
@@ -911,7 +911,6 @@ A mismatch is not always an error: a project may run under another brand. Fix th
 | Photon | social | [telegram](https://t.me/ThePhoton_Bot) | not a channel or group (a bot or a personal account) |
 | Photon | social | [bot](https://t.me/The_Photon_app) | a channel or group, not a bot |
 | StickerFace | social | [website](https://stickerface.io/) | http 502 |
-| Support Day | social | links | no links at all |
 | Telegram one Top | social | links | no links at all |
 | the future is TON | social | [website](https://ct.app) | ct.app does not match the name |
 | The Saudis TON | social | [bot](https://t.me/SauSpaceBot) | page is "Sau Space", does not match the name |

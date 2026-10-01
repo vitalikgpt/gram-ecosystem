@@ -128,7 +128,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,election-wars,Election Wars,website,remove,https://delabteam.com,,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,elympics,Elympics,telegram,remove,https://t.me/FoxiCoinBot,,username does not exist on t.me on 2026-10-01
 2026-10-01,elympics,Elympics,website,remove,https://foxiscoin.com/,,site is gone: domain does not resolve on 2026-10-01
-2026-10-01,exchangel,Exchangel,x,remove,https://x.com/onmetahq,,"same account listed for unrelated projects: Onmeta, Exchangel"
+2026-10-01,exchangel,Exchangel,x,remove,https://x.com/onmetahq,,"same account listed for unrelated projects: Exchangel, Onmeta"
 2026-10-01,exmo,EXMO,x,remove,https://x.com/grindery_io,,"same account listed for unrelated projects: EXMO, TreasureTapper"
 2026-10-01,exousdt-farming-bot-app,EXOUSDT Farming Bot APP,x,remove,https://x.com/OlaWealth_xyz,,"same account listed for unrelated projects: EXOUSDT Farming Bot APP, Bettor Whales"
 2026-10-01,exton,EXTON,x,remove,https://x.com/depinsim,,"same account listed for unrelated projects: EXTON, Depinsim"
@@ -276,7 +276,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,not-bored-puppies-bot,Not Bored Puppies Bot,x,remove,https://x.com/anytap_dapps,,"same account listed for unrelated projects: AnyTap, Not Bored Puppies Bot"
 2026-10-01,not-task,Not Task,x,remove,https://x.com/TonGiftsbot,,"same account listed for unrelated projects: Not Task, TGGifts"
 2026-10-01,notai,NOTAI,telegram,remove,https://t.me/CryptoRivieraNews,,username does not exist on t.me on 2026-10-01
-2026-10-01,notai,NOTAI,x,remove,https://x.com/CryptoRivieraAI,,"same account listed for unrelated projects: NOTAI, CryptoRiviera"
+2026-10-01,notai,NOTAI,x,remove,https://x.com/CryptoRivieraAI,,"same account listed for unrelated projects: CryptoRiviera, NOTAI"
 2026-10-01,notbabycoinfam,NotBabyCoinFAM,telegram,remove,https://t.me/tonyielding,,username does not exist on t.me on 2026-10-01
 2026-10-01,notbabycoinfam,NotBabyCoinFAM,website,remove,https://www.tonyielding.com/,,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,notbabycoinfam,NotBabyCoinFAM,x,remove,https://x.com/Tonyielding,,"same account listed for unrelated projects: Tonyielding, NotBabyCoinFAM"
@@ -376,7 +376,6 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,sunkong-bot,SunKong Bot,x,remove,https://x.com/zjor,,"same account listed for unrelated projects: SunKong Bot, Spend, Spend-A-TON"
 2026-10-01,supercluster,SUPERCLUSTER,x,remove,https://x.com/dragondotbot,,"same account listed for unrelated projects: Dragon, SUPERCLUSTER"
 2026-10-01,superearn,SuperEarn,x,confirm,https://x.com/superdapp,https://x.com/superdapp,https://superearn.org
-2026-10-01,support-day,Support Day,x,remove,https://x.com/ton_shiba,,"same account listed for unrelated projects: Support Day, Ton Shiba Inu"
 2026-10-01,swiftyton,SwiftyTON,github,remove,https://github.com/labraburn/SwiftyTON,,GitHub returns 404 on 2026-10-01
 2026-10-01,synquest,SynQuest,x,remove,https://x.com/Fishwar_io,,"same account listed for unrelated projects: SynQuest, Fishwar"
 2026-10-01,t-card,T - Card,x,remove,https://x.com/Tools_MiniApps,,"same account listed for unrelated projects: Bivreost Wallet, T - Card"
@@ -542,9 +541,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,trustatonapp-bot,TrustaTONApp_bot,x,confirm,https://x.com/TrustaLabs,https://x.com/TrustaLabs,https://t.me/trustalabsann posts link to x.com/trustalabs
 2026-10-01,elephantstorebot,Elephant Store,x,confirm,https://x.com/ownthedoge,https://x.com/ownthedoge,https://t.me/slon_market posts link to x.com/ownthedoge
 2026-10-01,explace,Explace,bot,remove,https://t.me/Explaceio,,@Explaceio is a channel and already in the telegram field (tg-probe)
-2026-10-01,bitpapa,Bitpapa,bot,remove,https://t.me/memefun_tradingbot,,"@memefun_tradingbot is the bot of Ton Meme Bot (""Ton Meme Bot"") (tg-probe)"
 2026-10-01,bydfi,BYDFi,telegram,remove,https://t.me/tonpreseller_bot,,"@tonpreseller_bot is the telegram of Preseller (""Preseller"") (tg-probe)"
-2026-10-01,onmeta,Onmeta,bot,remove,https://t.me/puparty_bot,,"@puparty_bot is the bot of Puparty (""Puparty🎮"") (tg-probe)"
 2026-10-01,sender,Sender,bot,remove,https://t.me/HuntexBot,,"@HuntexBot is the bot of HunteX (""HunteX"") (tg-probe)"
 2026-10-01,tondevwallet,TonDevWallet,bot,remove,https://t.me/kitongame_bot,,"@kitongame_bot is the bot of KITON (""KITON"") (tg-probe)"
 2026-10-01,xjetswapbot,xJetSwapBot,telegram,remove,https://t.me/Basic_reality_bot,,"@Basic_reality_bot is the telegram of Basic Reality (""Basic reality"") (tg-probe)"
@@ -571,6 +568,8 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,decoupons,DeCoupons,bot,remove,https://t.me/delabtonbot,,"@delabtonbot is the bot of DeWallet (""DeWallet"") (tg-probe)"
 2026-10-01,play-wallet,Play Wallet,bot,remove,https://t.me/chatgalatone_bot,,"@chatgalatone_bot is the bot of ChatGalaTon (""ChatGalaTon"") (tg-probe)"
 2026-10-01,quton-cash-qtc,QuTON Cash (QTC),bot,remove,https://t.me/simple_tap_bot,,"@simple_tap_bot is the bot of Simple Coin (""Simple Coin"") (tg-probe)"
+2026-10-01,bitpapa,Bitpapa,bot,remove,https://t.me/memefun_tradingbot,,"@memefun_tradingbot is the bot of Ton Meme Bot (""Ton Meme Bot"") (tg-probe)"
+2026-10-01,onmeta,Onmeta,bot,remove,https://t.me/puparty_bot,,"@puparty_bot is the bot of Puparty (""Puparty🎮"") (tg-probe)"
 2026-10-01,chainbase-network,Chainbase Network,bot,remove,https://t.me/the_rocket_bot,,"@the_rocket_bot is the bot of The Rocket 🚀 (""THE ROCKET 🚀"") (tg-probe)"
 2026-10-01,nimbus-api,Nimbus API,bot,remove,https://t.me/cryptomillionaireapp_bot,,"@cryptomillionaireapp_bot is the bot of Crypto Millionaire Bot (""Crypto Millionaire Bot"") (tg-probe)"
 2026-10-01,spyton-buybot,SpyTON BuyBot,telegram,remove,https://t.me/Tonspybuybot,,"@Tonspybuybot is a bot, moved to the bot field (tg-probe)"
@@ -767,8 +766,8 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,graph,Graph,x,remove,https://x.com/gramsbet,,"@gramsbet is ""GRAMS.bet"", the account of Grams.bet ✌️ (x profile)"
 2026-10-01,swipelux,Swipelux,x,remove,https://x.com/AlwaysMoneyOrg,,"@AlwaysMoneyOrg is ""AlwaysMoney"", the account of AlwaysMoney Exchange (x profile)"
 2026-10-01,solo,Solo,x,remove,https://x.com/The_StarAI,,"@The_StarAI is ""StarAI"", the account of StarAI (x profile)"
-2026-10-01,ton-dns,TON DNS,x,remove,https://x.com/ton_blockchain,,"@ton_blockchain is ""TON 💎"", the account of TON Core (x profile)"
-2026-10-01,coincodex,CoinCodex,x,remove,https://x.com/ton_blockchain,,"@ton_blockchain is ""TON 💎"", the account of TON Core (x profile)"
+2026-10-01,ton-dns,TON DNS,x,remove,https://x.com/ton_blockchain,,"@ton_blockchain is ""TON 💎"", the account of TON Pay (x profile)"
+2026-10-01,coincodex,CoinCodex,x,remove,https://x.com/ton_blockchain,,"@ton_blockchain is ""TON 💎"", the account of TON Pay (x profile)"
 2026-10-01,solidity-auditor,Solidity auditor,x,confirm,https://x.com/legalkornet,https://x.com/legalkornet,profile links to legal-kornet.com (x profile)
 2026-10-01,bimcoin-ton-defi-protocol,Bimcoin - TON DeFi Protocol.,x,confirm,https://x.com/Bim_Light,https://x.com/Bim_Light,profile links to bimlight.org (x profile)
 2026-10-01,token-soex,SOEX (SOEX),x,remove,https://x.com/Play_SoE,,"@Play_SoE is ""Shelter of Exiles"", the account of The Exiles (x profile)"
@@ -778,7 +777,6 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,tonvstake,TONvsTAKE,x,remove,https://x.com/TonTakeGame,,"@TonTakeGame is ""@TonTake"", the account of Zernosklad (x profile)"
 2026-10-01,frutoncrypto,Frutoncrypto,x,remove,https://x.com/Pleasure_PLQT,,"@Pleasure_PLQT is ""Pleasure Quest"", the account of Pleasure Quest (x profile)"
 2026-10-01,wheelofwhalesbot,@WheelOfWhalesBot,x,remove,https://x.com/whalegames_en,,"@WhaleGames_en is ""Whale"", the account of Whale (x profile)"
-2026-10-01,gaspump-1,GasPump,website,remove,https://gaspump.tg,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,tonflow-wallet,Tonflow Wallet,website,remove,https://tonflow.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,papa-carlo-bot,PAPA CARLO BOT,website,remove,https://papacarlo.tech,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,dashpool,DashPool,website,remove,https://dashpool.ai,,site is gone: domain does not resolve on 2026-10-01 (dns)
@@ -807,6 +805,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,cossacks-nft,Cossacks NFT,website,remove,https://cossacks.shop/,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,ton-gifts,TON Gifts,website,remove,https://retrocoin.me,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,plays-hub,PLAYS Hub,website,remove,https://playshub.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,gaspump-1,GasPump,website,remove,https://gaspump.tg,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,digiverse-pzj157,digiverse,website,remove,https://tgapp.digibuy.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,the-saudis-ton,The Saudis TON,website,remove,https://thesaudis.ton-s.cam,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,commander,Commander,website,remove,https://www.toncommander.fun/,,site is gone: domain does not resolve on 2026-10-01 (dns)
@@ -1022,9 +1021,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,bit,BIT,telegram,remove,https://t.me/storm_trade_news,,"@storm_trade_news (""Storm Trade | News ⚡️"") belongs to Storm Trade (shared link)"
 2026-10-01,market-makers,Market Makers,telegram,remove,https://t.me/storm_trade_news,,"@storm_trade_news (""Storm Trade | News ⚡️"") belongs to Storm Trade (shared link)"
 2026-10-01,cryptobotex,Cryptobotex,telegram,remove,https://t.me/multikassa_channel,,"@multikassa_channel (""MultiKassa - сервис обмена криптовалют"") belongs to MultiKassa Bot (shared link)"
-2026-10-01,jettons-price-alerts,Jettons Price Alerts,telegram,remove,https://t.me/StarzMarketNews,,"@starzmarketnews ("""") belongs to Starz Market (shared link)"
 2026-10-01,fedafone,fedafone,telegram,remove,https://t.me/Channel_90Rich,,"@channel_90rich ("""") belongs to 90Rich (shared link)"
-2026-10-01,simpleswap,SimpleSwap,telegram,remove,https://t.me/raskrutichannel,,"@raskrutichannel (""Erzy | Раскрутка телеграм канала"") belongs to Erzy Channel Collab (shared link)"
 2026-10-01,lbank-exchange,LBank Exchange,telegram,remove,https://t.me/nexabitHQ,,"@nexabithq ("""") belongs to NexaBit AI (shared link)"
 2026-10-01,me-earn,Me Earn,telegram,remove,https://t.me/architecton_tech,,"@architecton_tech (""Architecton Wallet MEDIA ARC🦄"") belongs to Architect.ton (shared link)"
 2026-10-01,mixin-messenger,Mixin Messenger,telegram,remove,https://t.me/bulksender,,"@bulksender (""Token BulkSender"") belongs to TON Bulksender (shared link)"
@@ -1037,8 +1034,10 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,uniswap,Uniswap,telegram,remove,https://t.me/ime_en,,"@ime_en (""iMe: Telegram AI Messenger"") belongs to iMe app (shared link)"
 2026-10-01,tmnt-game,TMNT Game,telegram,remove,https://t.me/ime_en,,"@ime_en (""iMe: Telegram AI Messenger"") belongs to iMe app (shared link)"
 2026-10-01,payhook,Payhook,telegram,remove,https://t.me/BehLand_Official,,"@behland_official ("""") belongs to BehLand - Web3 L2E (shared link)"
+2026-10-01,jettons-price-alerts,Jettons Price Alerts,telegram,remove,https://t.me/StarzMarketNews,,"@starzmarketnews ("""") belongs to Starz Market (shared link)"
 2026-10-01,wallet-bot,Wallet Bot,telegram,remove,https://t.me/apiton,,"@apiton (""apiTON — explore blockchain"") belongs to apiTON (shared link)"
 2026-10-01,token-inside,TOKEN INSIDE,telegram,remove,https://t.me/solobank,,"@solobank (""Username sotiladi"") belongs to Solo (shared link)"
+2026-10-01,simpleswap,SimpleSwap,telegram,remove,https://t.me/raskrutichannel,,"@raskrutichannel (""Erzy | Раскрутка телеграм канала"") belongs to Erzy Channel Collab (shared link)"
 2026-10-01,minter,Minter,telegram,remove,https://t.me/moonpacket_bot,,"@moonpacket_bot (""moonpacket_bot"") belongs to moonpacket (shared link)"
 2026-10-01,tonana,Tonana,telegram,remove,https://t.me/nums888,,"@nums888 (""Numbers 888 / Announcements"") belongs to Numbers 888 (shared link)"
 2026-10-01,jetton-arbitrage,Jetton Arbitrage,telegram,remove,https://t.me/TGShopNews,,"@tgshopnews ("""") belongs to Shop Builder (shared link)"
@@ -1089,7 +1088,6 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,bit,BIT,bot,remove,https://t.me/StormTradeBot,,"@stormtradebot ("""") belongs to Storm Trade (shared link)"
 2026-10-01,market-makers,Market Makers,bot,remove,https://t.me/StormTradeBot,,"@stormtradebot ("""") belongs to Storm Trade (shared link)"
 2026-10-01,cryptobotex,Cryptobotex,bot,remove,https://t.me/multikassa_bot,,"@multikassa_bot (""MultiKassa - сервис обмена криптовалют"") belongs to MultiKassa Bot (shared link)"
-2026-10-01,simpleswap,SimpleSwap,bot,remove,https://t.me/ErzyNetWebBot,,"@erzynetwebbot ("""") belongs to Erzy Channel Collab (shared link)"
 2026-10-01,lbank-exchange,LBank Exchange,bot,remove,https://t.me/NexaBit_Tap_bot,,"@nexabit_tap_bot ("""") belongs to NexaBit AI (shared link)"
 2026-10-01,testnet-faucet,Testnet Faucet,bot,remove,https://t.me/paybis_crypto_exchange_bot,,"@paybis_crypto_exchange_bot (""Paybis"") belongs to Paybis Wallet (shared link)"
 2026-10-01,toncoin-converter,Toncoin Converter,bot,remove,https://t.me/paybis_crypto_exchange_bot,,"@paybis_crypto_exchange_bot (""Paybis"") belongs to Paybis Wallet (shared link)"
@@ -1103,6 +1101,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,payhook,Payhook,bot,remove,https://t.me/BehLand_gp,,"@behland_gp ("""") belongs to BehLand - Web3 L2E (shared link)"
 2026-10-01,wallet-bot,Wallet Bot,bot,remove,https://t.me/apitonBot,,"@apitonbot ("""") belongs to apiTON (shared link)"
 2026-10-01,token-inside,TOKEN INSIDE,bot,remove,https://t.me/solobankbot,,"@solobankbot (""Solo"") belongs to Solo (shared link)"
+2026-10-01,simpleswap,SimpleSwap,bot,remove,https://t.me/ErzyNetWebBot,,"@erzynetwebbot ("""") belongs to Erzy Channel Collab (shared link)"
 2026-10-01,minter,Minter,bot,remove,https://t.me/moonpacketchat,,"@moonpacketchat (""moonpacket Chat"") belongs to moonpacket (shared link)"
 2026-10-01,askton,AskTon,bot,remove,https://t.me/Directual_bot,,"@directual_bot ("""") belongs to Directual no-code (shared link)"
 2026-10-01,vanity-ton,Vanity TON,bot,remove,https://t.me/earnigram_group,,"@earnigram_group (""Earnigram Community"") belongs to Earnigram Fantasy (shared link)"

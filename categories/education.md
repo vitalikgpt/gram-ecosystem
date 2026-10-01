@@ -38,4 +38,4 @@
 | 23 | Дневник разработчика на TON |  |  |  |  |  |
 | 24 | Дневник стартапера |  | [Bot](https://t.me/chaingptai_bot) [Site](https://www.chaingpt.org/) |  |  |  |
 | 25 | Мнимый в крипте |  | [Telegram](https://t.me/pixilandofficial) [Bot](https://t.me/pixiland_bot) [Site](https://pixiland.app) |  |  |  |
-| 26 | Lazy Reader | You can view and join right away. | [Telegram](https://t.me/lazyreader_channel) [Bot](https://t.me/lazyreader_bot) [Site](https://lazy-reader.com/) |  | 2025-08-06 |  |
+| 26 | Lazy Reader |  | [Telegram](https://t.me/lazyreader_channel) [Bot](https://t.me/lazyreader_bot) [Site](https://lazy-reader.com/) |  | 2025-08-06 |  |

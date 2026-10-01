@@ -28,7 +28,7 @@
 | 13 | BitOK |  | [Telegram](https://t.me/bitok_support) [X](https://x.com/Bitok_org) [GitHub](https://github.com/telegram-bots/BitOk) |  | 2018-12-31 | [ton 25](../archive/2025-07-ton.jpg) |
 | 14 | ChainAware.ai | AI-based Crypto Fraud Detection with a 98% prediction rate | [Bot](https://t.me/ChainAware_Bot) [X](https://x.com/ChainAware) [Site](https://ChainAware.ai) [GitHub](https://github.com/ChainAware/behavioral-prediction-mcp) |  | 2026-08-11 |  |
 | 15 | Config44 |  | [Site](https://config44.com) [GitHub](https://github.com/config44) |  | 2026-09-11 |  |
-| 16 | Fuck Scammers | You can view and join right away. | [Telegram](https://t.me/fuck_scammers_onTon) [Bot](https://t.me/fuck_scams_bot) [X](https://x.com/Fuck_scams_ton) |  |  |  |
+| 16 | Fuck Scammers |  | [Telegram](https://t.me/fuck_scammers_onTon) [Bot](https://t.me/fuck_scams_bot) [X](https://x.com/Fuck_scams_ton) |  |  |  |
 | 17 | Hexens |  | [X](https://x.com/hexensio) [Site](https://hexens.io) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 18 | JettonTonGuard | TON token analytics: contract, liquidity, holders | [Telegram](https://t.me/JettonTonGuard_Bot) [Bot](https://t.me/JettonTonGuard) [Site](https://app.scriptsnap.site/) |  |  |  |
 | 19 | QuillAudits | Web3 security research & audits (8+ yrs) | [Telegram](https://t.me/quillaudits_official) [X](https://x.com/quillaudits_ai) [Site](https://quillaudits.com/) [GitHub](https://github.com/Quillhash/QuillAudit_Reports) |  | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
@@ -36,7 +36,7 @@
 | 21 | Scam-detect | Scam-detect. Our mission - your security. | [Bot](https://t.me/scam_detectg_bot) |  |  |  |
 | 22 | Scorechain | Know Your Address / Wallet screening | [Bot](https://t.me/scorechainbot) [X](https://x.com/scorechain) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 23 | Solidity auditor |  | [Telegram](https://t.me/LegalKornet) [X](https://x.com/legalkornet) [Site](https://www.legal-kornet.com) [GitHub](https://github.com/Silent47boryara/AuditBadge) |  | 2025-11-06 |  |
-| 24 | TokenGuide | You can view and join right away. | [Telegram](https://t.me/tokenguidesecurity) [Bot](https://t.me/tokenguide_bot) [X](https://x.com/tokenguideio) [Site](https://tokenguide.io) |  |  |  |
+| 24 | TokenGuide |  | [Telegram](https://t.me/tokenguidesecurity) [Bot](https://t.me/tokenguide_bot) [X](https://x.com/tokenguideio) [Site](https://tokenguide.io) |  |  |  |
 | 25 | Vidma |  | [Telegram](https://t.me/vidmasecurity) [X](https://x.com/Vidma_security) [Site](https://www.vidma.io) [GitHub](https://github.com/vidma-security) |  | 2023-06-07 |  |
 | 26 | Web3defender | Web3defender — wallet and link fraud detection | [Telegram](https://t.me/web3defender_bot) [Bot](https://t.me/web3defender_alerts) [Site](https://web3defender.tech) |  |  |  |
 | 27 | Decurity |  | [Telegram](https://t.me/defimon_alerts) [X](https://x.com/DecurityHQ) [Site](https://www.decurity.io/) [GitHub](https://github.com/Decurity) |  | 2026-10-01 |  |

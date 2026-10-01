@@ -63,7 +63,7 @@
 | 48 | Ton Raffles Bot | tonraffles.app — TON Ecosystem for everyone 💎 | [Bot](https://t.me/tonraffle_bot) [Site](https://tonraffles.app) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 49 | TruHar Game | Vote for Trump or Harris and get a prize. If you guess the real election winner, you’ll… | [Bot](https://t.me/truharbot) |  |  |  |
 | 50 | Raffley | Raffley is like the party planner of Telegram, where Raffles, Predictions and Community… | [Telegram](https://t.me/raffleychannel) [Bot](https://t.me/raffleybot) |  | 2025-01-15 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 51 | Magic Pot | You can view and join right away. | [Telegram](https://t.me/magicpot_fam) [Bot](https://t.me/magic_pot_bot) [Site](https://magicpot.xyz) [GitHub](https://github.com/hangarx) |  | 2024-12-15 |  |
+| 51 | Magic Pot |  | [Telegram](https://t.me/magicpot_fam) [Bot](https://t.me/magic_pot_bot) [Site](https://magicpot.xyz) [GitHub](https://github.com/hangarx) |  | 2024-12-15 |  |
 | 52 | Jetton lucky spin | Lucky spin — Free Spin-2-Earn Telegram Game | [Bot](https://t.me/jetton_lucky_spin_bot) |  |  |  |
 | 53 | Solexai | Building The Sentiment Markets Protocol on BASE (by Coinbase) | [Bot](https://t.me/solex_ai_bot) |  |  |  |
 | 54 | WOW3 Coin Flip | WOW3 Coin Flip — a coin flip mini-game in Telegram | [Telegram](https://t.me/wow3_official) [Bot](https://t.me/wow3_bot) [X](https://x.com/WOW3_Official) [Site](https://wow3.app/) |  | 2026-04-27 |  |
@@ -174,14 +174,14 @@
 | 159 | 💎Ton Texas CowBoy💎 | 💎 Try New and Exciting Texas Holdem Casual Game!! | [Telegram](https://t.me/Ton_TexasCowboy) |  | 2025-05-07 |  |
 | 160 | AlanoGames | AlanoGames is a decentralized Web3 gaming project that builds a collection of fair and… | [Telegram](https://t.me/AlanoGames_Channel) [Bot](https://t.me/AlanoGames_Bot) [X](https://x.com/AlanoGames) [Site](https://www.alano.games/) |  | 2025-04-29 |  |
 | 161 | ULURU BET | Join ULURU BET a web3 #Gamblefi Casino & Sportbook App! | [Telegram](https://t.me/ulurubet) |  | 2025-04-11 |  |
-| 162 | Slot Game | You can view and join right away. | [Telegram](https://t.me/slotgame_ton) [X](https://x.com/slotgame_ton) [Site](https://slotgame.buzz) |  | 2025-04-10 |  |
+| 162 | Slot Game |  | [Telegram](https://t.me/slotgame_ton) [X](https://x.com/slotgame_ton) [Site](https://slotgame.buzz) |  | 2025-04-10 |  |
 | 163 | Cyberpunk R | ✅Fairness Play ✅Airdrops ✅Drand on chain ✅Invite high rate Commissions ✅Rakeback high… | [Telegram](https://t.me/cyberpunkrchannel) [Bot](https://t.me/cyberpunkrbot) [X](https://x.com/Cyberpunk_R) |  | 2025-03-13 |  |
 | 164 | TON Lucky | Join Fair Web3 Lottery on Telegram! | [Telegram](https://t.me/ton_lucky_channel) [Bot](https://t.me/lucky_tonbot) |  | 2025-02-16 |  |
 | 165 | TONJiggle | TON Dont Jiggle Jiggle it Folds | [Telegram](https://t.me/tonjiggle) [X](https://x.com/TonJiggle) |  | 2025-01-01 |  |
 | 166 | Skellybets | SkellyBets is where the magic happens! | [Telegram](https://t.me/SkellybetsChannel) [X](https://x.com/SkellyVerse) [Site](https://skellybets.com/) |  | 2024-12-13 |  |
 | 167 | TON Bingo | The funniest lottery project on TON! | [Telegram](https://t.me/ton_bingo) [Bot](https://t.me/tonbingo_bot) |  | 2024-11-21 |  |
 | 168 | Megadice | Full Web3.0 Megadice game on the TON blockchain! | [Telegram](https://t.me/megadiceton) |  | 2024-11-05 |  |
-| 169 | AlpaTON | You can view and join right away. | [Telegram](https://t.me/alpaton_channel) [Site](https://alpaton.bid) [GitHub](https://github.com/alpaton) |  | 2024-10-26 |  |
+| 169 | AlpaTON |  | [Telegram](https://t.me/alpaton_channel) [Site](https://alpaton.bid) [GitHub](https://github.com/alpaton) |  | 2024-10-26 |  |
 | 170 | TON Crypto Games |  | [Telegram](https://t.me/tonslotgames) [Bot](https://t.me/tonslotgames_bot) |  | 2024-08-19 |  |
 | 171 | B3t Dice |  | [Telegram](https://t.me/b3t_channel) [Bot](https://t.me/b3tdicebot) [X](https://x.com/bit3rn_bot) [Site](https://b3t.site/) |  | 2024-07-07 |  |
 | 172 | Tonbet App | Tonbet – a betting bot for cryptocurrency tokens | [Telegram](https://t.me/tonbetapp) [Bot](https://t.me/tonbetapp_bot) [X](https://x.com/tonbetapp) [Site](https://tonbetapp.com) |  | 2024-05-17 |  |
@@ -192,4 +192,4 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 175 | Predicton | You can view and join right away. | [Telegram](https://t.me/predicton_news) [Bot](https://t.me/predicton_tbot) [X](https://x.com/predicton_tbot) [Site](https://predicton.live) |  | 2025-07-27 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 175 | Predicton |  | [Telegram](https://t.me/predicton_news) [Bot](https://t.me/predicton_tbot) [X](https://x.com/predicton_tbot) [Site](https://predicton.live) |  | 2025-07-27 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |

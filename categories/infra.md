@@ -43,4 +43,4 @@
 | 28 | TON Console (TonAPI) |  | [Telegram](https://t.me/tonrostislav) [GitHub](https://github.com/tonkeeper/tonapi) |  | 2023-06-01 |  |
 | 29 | TON Search Engine |  | [Telegram](https://t.me/runner_ton) |  |  |  |
 | 30 | TON Torrents |  | [Telegram](https://t.me/tonrh) [GitHub](https://github.com/xssnick/TON-Torrent) |  | 2025-09-01 |  |
-| 31 | TON Foundation | You can view and join right away. | [Telegram](https://t.me/tonfoundation) |  | 2024-07-29 | [messari 26](../archive/2026-05-messari.jpg) |
+| 31 | TON Foundation |  | [Telegram](https://t.me/tonfoundation) |  | 2024-07-29 | [messari 26](../archive/2026-05-messari.jpg) |

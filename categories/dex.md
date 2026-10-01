@@ -77,7 +77,7 @@
 | 62 | Swap App |  | [Telegram](https://t.me/swapapp_news) [Bot](https://t.me/swapairbot) [X](https://x.com/SwapAppTon) |  | 2026-03-12 |  |
 | 63 | Trading Bot |  | [Bot](https://t.me/MyTonSwap_Trading_bot) |  | 2025-03-04 |  |
 | 64 | Memeboost | The most popular #memecoin launchpad on , bringing 1 billion users to memecoins! | [Telegram](https://t.me/MemeBoost_app) [Bot](https://t.me/meme_boost_bot) [X](https://x.com/MemeBoostBot) |  | 2024-09-11 |  |
-| 65 | The Gate | You can view and join right away. | [Telegram](https://t.me/TheGateR) [X](https://x.com/TheGate562007) [Site](https://thegate.fun) |  | 2024-06-05 | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
+| 65 | The Gate |  | [Telegram](https://t.me/TheGateR) [X](https://x.com/TheGate562007) [Site](https://thegate.fun) |  | 2024-06-05 | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
 
 ## Closed
 

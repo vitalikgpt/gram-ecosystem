@@ -20,7 +20,7 @@
 | 10 | EdChess ✓ | EdChess is a chess game with the ability to earn $GRAM. | [Telegram](https://t.me/edchessss) [Bot](https://t.me/edchess_bot) [X](https://x.com/join) [GitHub](https://github.com/PadTON) | 152K views, 34K MAU | 2026-10-01 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 11 | Sleepagotchi ✓ | App for Sleep. Play Sleepagotchi LITE to earn points. | [Telegram](https://t.me/sleepagotchi) [Site](https://sleepagotchi.freshdesk.com/) | 92K views | 2026-09-17 | [ton 25](../archive/2025-07-ton.jpg) |
 | 12 | Pixelmania ✓ | Find the golden pixel and win 1,000,000 Stars! | [Telegram](https://t.me/pixelmania) [Bot](https://t.me/pixel_mania_bot) | 33K views, 81K MAU | 2026-10-01 |  |
-| 13 | Pixel World ✓ | You can view and join right away. | [Telegram](https://t.me/pixelworld_channel) [Bot](https://t.me/pixelworld) | 1 views, 50K MAU | 2026-09-14 |  |
+| 13 | Pixel World ✓ |  | [Telegram](https://t.me/pixelworld_channel) [Bot](https://t.me/pixelworld) | 1 views, 50K MAU | 2026-09-14 |  |
 | 14 | Tiny Verse ✓ | One thing is certain: the great journey of STARSDUST has begun. | [Telegram](https://t.me/tvappchannel) [Bot](https://t.me/tverse) | 6K views, 48K MAU | 2026-09-01 | [ton 25](../archive/2025-07-ton.jpg) |
 | 15 | Not Games ✓ | NotGames is a gaming profile app with a market for trading items. | [Telegram](https://t.me/thenotgames) [Bot](https://t.me/notgames_bot) [X](https://x.com/playnotgames) [Site](https://x.com/notappx) | 5K views, 33K MAU | 2026-09-08 |  |
 | 16 | Uni Jump ✓ | Uni Jump is a game in Telegram | [Bot](https://t.me/unijump_bot) [X](https://x.com/uni_jump) | 22K MAU |  | [messari 26](../archive/2026-05-messari.jpg) |
@@ -74,15 +74,15 @@
 | 64 | TikTak | A collectible game where time works for you. Wind up the clocks! ⏰ Channel… | [Bot](https://t.me/tiktakclocksbot) | mentioned by 3 TON channels in Q3 |  |  |
 | 65 | Universe 🌀 | Start adventure your Universe! Channel: @universe_main Public: @universe_public Support:… | [Bot](https://t.me/universe_mainbot) | mentioned by 26 TON channels in Q3 |  |  |
 | 66 | Trusta TON App | Trusta is the No.1 AI-driven identity and reputation protocol for Web3 that helps to… | [Telegram](https://t.me/TrustalabsAnn) [Bot](https://t.me/TrustaTONApp_bot) [X](https://x.com/TrustaLabs) [Site](https://www.trustalabs.ai/) | 17K views | 2026-09-29 |  |
-| 67 | TONs of Dungeons | You can view and join right away. | [Telegram](https://t.me/tonsofdungeons) [Bot](https://t.me/tonsofdungeons_bot) [X](https://x.com/tonsofdungeons) | 471 views, 17K MAU | 2026-08-05 |  |
+| 67 | TONs of Dungeons |  | [Telegram](https://t.me/tonsofdungeons) [Bot](https://t.me/tonsofdungeons_bot) [X](https://x.com/tonsofdungeons) | 471 views, 17K MAU | 2026-08-05 |  |
 | 68 | Pyramids and Gods | Support - @Pyramid_support_bot | [Bot](https://t.me/pyramids_and_gods_bot) | mentioned by 19 TON channels in Q3 |  |  |
 | 69 | CardHouse | Банк: @CardHouseBank (Сверяйте юзернеймы!) Канал: @CardHouseApp Чат: @CardHouseChat… | [Bot](https://t.me/thecardhouse_bot) | mentioned by 23 TON channels in Q3 |  |  |
 | 70 | Arena Games | ArenaVS is AI-Powered Platform for Web3 Games , Agents & NFT Marketplace. | [Telegram](https://t.me/ArenaGamesNews) [Bot](https://t.me/arenavsbot) [X](https://x.com/Arenaweb3) [Site](https://arenavs.com/) [GitHub](https://github.com/Stenix777/Neural-network-telegram) | 14K MAU | 2026-08-12 |  |
 | 71 | Life: Zero 🏙 | Start from zero. Make a name. @lifezero | [Bot](https://t.me/lifezero_bot) | mentioned by 20 TON channels in Q3 |  |  |
-| 72 | Junlala | You can view and join right away. | [Telegram](https://t.me/junlalanews) [Bot](https://t.me/junlalaaibot) [X](https://x.com/JunLaLaltd) | 2 views, 13K MAU | 2026-09-27 |  |
+| 72 | Junlala |  | [Telegram](https://t.me/junlalanews) [Bot](https://t.me/junlalaaibot) [X](https://x.com/JunLaLaltd) | 2 views, 13K MAU | 2026-09-27 |  |
 | 73 | The 2 Chairs | This hilarious game was inspired by the widely popular meme about the difficult choice… | [Telegram](https://t.me/the2chairs) [Bot](https://t.me/the2chairs_bot) [X](https://x.com/the2chairs) | 13K MAU | 2024-10-24 |  |
 | 74 | DoomsDay Tyranny | News: https://t.me/DoomsdayTyranny Chat: @Doomsdaytyranny_chat Support:… | [Bot](https://t.me/doomsdaytyrannybot) | mentioned by 8 TON channels in Q3 |  |  |
-| 75 | String Games | You can view and join right away. | [Telegram](https://t.me/stringgames) [Bot](https://t.me/string_gamesbot) [X](https://x.com/StringGames_SOL) | 9K views, 12K MAU | 2026-10-01 |  |
+| 75 | String Games |  | [Telegram](https://t.me/stringgames) [Bot](https://t.me/string_gamesbot) [X](https://x.com/StringGames_SOL) | 9K views, 12K MAU | 2026-10-01 |  |
 | 76 | CatsXWar | Cat warriors, epic battles! ⚔️ Defend & conquer in cutest TON tower defense! | [Telegram](https://t.me/mytonwalleten) [Bot](https://t.me/catsxwarbot) [Site](https://mytonwallet.io/) [GitHub](https://github.com/mytonwalletorg/mytonwallet) | 12K MAU | 2026-10-01 |  |
 | 77 | SnakeTON | Contact for business inquiries | [Telegram](https://t.me/SnakeTON_Game) [Bot](https://t.me/snaketon_bot) [X](https://x.com/SnakeTON_Game) | 455 views, 12K MAU | 2026-08-05 | [coin98-games 24](../archive/2024-05-coin98-games.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 78 | TON Shooter Bot 🎮 |  | [Bot](https://t.me/tonshooterbot) | mentioned by 4 TON channels in Q3 |  |  |
@@ -90,7 +90,7 @@
 | 80 | RegalIsland | Regal Island is an amazing Casual Game for EVERYONE! | [Bot](https://t.me/richisland_bot) | 11K MAU |  |  |
 | 81 | BombGram | Bomb, collect gems, climb the leaderboard and become the ultimate Bomber! 💣💎 | [Bot](https://t.me/bomgram_bot) | mentioned by 7 TON channels in Q3 |  |  |
 | 82 | UNO GAME BOT | Join group @UnoCardGC | [Bot](https://t.me/unocardappbot) | mentioned by 6 TON channels in Q3 |  |  |
-| 83 | Scor | You can view and join right away. | [Telegram](https://t.me/SCORtoken) [Bot](https://t.me/scor_games_bot) [X](https://x.com/scorprotocol) | 899 views, 10K MAU | 2026-07-02 |  |
+| 83 | Scor |  | [Telegram](https://t.me/SCORtoken) [Bot](https://t.me/scor_games_bot) [X](https://x.com/scorprotocol) | 899 views, 10K MAU | 2026-07-02 |  |
 | 84 | ANON Space | Play to earn inside Telegram. | [Telegram](https://t.me/anon_club) [Bot](https://t.me/anonearnbot) [X](https://x.com/anonclub8) | 10K MAU | 2026-09-30 |  |
 | 85 | Fortune City |  | [Bot](https://t.me/fortunecityappbot) | mentioned by 8 TON channels in Q3 |  |  |
 | 86 | Bcoin 2048 | Твой личный автоскупщик тг-подарков и культовая игра 2048 в одном месте! | [Telegram](https://t.me/bcoin2048_ru_channel) [Bot](https://t.me/bcoin2048bot) [X](https://x.com/bcoin2048) | 10K MAU | 2026-05-30 |  |
@@ -108,10 +108,10 @@
 | 98 | Nakamoto Games | The ultimate #Play to #Earn #Gaming Platform | [Telegram](https://t.me/NakamotoGamesNews) [Bot](https://t.me/nakagamesbot) [X](https://x.com/nakamotoGames) [Site](https://www.nakamoto.games/) | 3K views | 2026-09-24 | [coin98-games 24](../archive/2024-02-coin98-games.jpg) [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
 | 99 | Night Club | Build your Night Club empire on TON blockchain. | [Telegram](https://t.me/nightclubonline) [Bot](https://t.me/tonightclubbot) [X](https://x.com/nightclubtonbot) [Site](https://ibizagaming.xyz) | 2K views, 3K MAU | 2026-09-09 |  |
 | 100 | Chess Zombies | If you love TBS, RPG or Chess, then you definitely need to play Chess Zombies! | [Telegram](https://t.me/chesszombies) [X](https://x.com/SHEDEVERstudio) [Site](https://chesszombies.fun) | 2K views | 2026-09-14 |  |
-| 101 | BodyPUMP | You can view and join right away. | [Telegram](https://t.me/bodypump_app) [Bot](https://t.me/bodypump_app_bot) [X](https://x.com/bodypumpapp) [Site](https://twitter.com/bodypumpapp) | 42 views, 2K MAU | 2026-09-25 |  |
+| 101 | BodyPUMP |  | [Telegram](https://t.me/bodypump_app) [Bot](https://t.me/bodypump_app_bot) [X](https://x.com/bodypumpapp) [Site](https://twitter.com/bodypumpapp) | 42 views, 2K MAU | 2026-09-25 |  |
 | 102 | GH Arena | Fight x Level Up x Earn $GH | [Telegram](https://t.me/gh_coin) [Bot](https://t.me/gharenabot) [X](https://x.com/Tfarmio) | 2K views, 321 MAU | 2026-09-08 |  |
 | 103 | xCombat |  | [Bot](https://t.me/xcombat_bot) | 2K MAU |  |  |
-| 104 | Animal Village | You can view and join right away. | [Telegram](https://t.me/animal_village_ann) [Bot](https://t.me/Animal_village_bot) | 57 views, 1K MAU | 2026-07-24 |  |
+| 104 | Animal Village |  | [Telegram](https://t.me/animal_village_ann) [Bot](https://t.me/Animal_village_bot) | 57 views, 1K MAU | 2026-07-24 |  |
 | 105 | Direct Games Bot | Play Games Directly in Telegram. | [Bot](https://t.me/directgamesbot) | 1K MAU |  |  |
 | 106 | Flutter Bees | Flutter Bees is a vibrant gaming network for interactive challenges and community… | [Telegram](https://t.me/FlutterBees) [Bot](https://t.me/FlutterBees_bot) [X](https://x.com/FlutterBees_X) [Site](https://www.flutterbees.app) [GitHub](https://github.com/flutter-bees) | 1K views, 237 MAU | 2026-10-01 |  |
 | 107 | VWS Utilities |  | [Telegram](https://t.me/miningvws) [GitHub](https://github.com/MagicVipPeople) | 1K views | 2026-07-11 |  |
@@ -146,7 +146,7 @@
 | 131 | Space Cartels | Space Cartels is a turn-based web3 game where you become a Cartel Boss on Planet X in… | [Telegram](https://t.me/spacecartels) [Bot](https://t.me/spacecartelsbot) [X](https://x.com/SpaceCartels) [Site](https://spacecartels.com/) |  | 2026-05-07 |  |
 | 132 | BattleRoll |  | [Bot](https://t.me/battleroll_bot) |  |  |  |
 | 133 | Pool Degens | Pool Degens - Even the wildlife takes a shot - Play and Farm $POOLD. | [Bot](https://t.me/pooldegen_bot) |  |  |  |
-| 134 | MajyoTreasureBot | You can view and join right away. | [Telegram](https://t.me/MajyoTreasure) [Bot](https://t.me/majyotreasurebot) [X](https://x.com/MajyoGame) |  | 2025-11-20 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 134 | MajyoTreasureBot |  | [Telegram](https://t.me/MajyoTreasure) [Bot](https://t.me/majyotreasurebot) [X](https://x.com/MajyoGame) |  | 2025-11-20 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 135 | Jetbi | Join Jetbi channel 👉 @jetbi | [Telegram](https://t.me/jetbi) [Bot](https://t.me/jetbibot) |  | 2025-10-24 |  |
 | 136 | Breakout | 🎮 Play games and earn ZFB & TRX on Breakout! 🌟 | [Bot](https://t.me/breakoutgamesbot) |  |  |  |
 | 137 | KaBoom | KaBoom is an app for discovering and trading cryptocurrencies. | [Bot](https://t.me/kaboom_meme_bot) [X](https://x.com/kaboom_meme) |  |  |  |
@@ -172,14 +172,14 @@
 | 157 | Musgard |  | [Bot](https://t.me/musgard_bot) |  |  |  |
 | 158 | Football Legends | Football game with earnings from swiping | [Telegram](https://t.me/fball_legends) [Bot](https://t.me/fball_legends_bot) [Site](https://telega.io/c/fball_legends) |  | 2025-07-20 |  |
 | 159 | Spike Game |  |  |  |  |  |
-| 160 | Sanctum AI | You can view and join right away. | [Telegram](https://t.me/SanctumAI_Ann) [Bot](https://t.me/sanctumai_bot) [X](https://x.com/Sanctum_AI) |  | 2025-12-25 |  |
+| 160 | Sanctum AI |  | [Telegram](https://t.me/SanctumAI_Ann) [Bot](https://t.me/sanctumai_bot) [X](https://x.com/Sanctum_AI) |  | 2025-12-25 |  |
 | 161 | Dogin Hood |  | [Bot](https://t.me/doginhood_bot) [X](https://x.com/doginhood_io) |  |  |  |
 | 162 | Cartel | Work your way up the Cartel ranks and make a name for yourself in this intense trading… | [Telegram](https://t.me/cartel_game_community) [Bot](https://t.me/cartel_game_bot) [X](https://x.com/cartelgameton) |  | 2024-10-29 |  |
 | 163 | CryptoWorms | Earn the $worm token by eating it on the map. Play | [Telegram](https://t.me/cryptowormslive) [Bot](https://t.me/cryptowormbot) |  |  |  |
 | 164 | MarsGO | MarsGO — Farm points, upgrade your rocket, build your crew, conquer Mars, and claim your… | [Bot](https://t.me/marsgo_bot) |  |  |  |
 | 165 | HangarX Gaming | HangarX: Your all-in-one Web3 gaming portal! Choose from multiple games, play, and earn… | [Bot](https://t.me/hangarxgaming_bot) [X](https://x.com/Hangarxio) [Site](https://HangarX.io) [GitHub](https://github.com/hangarx) |  | 2024-12-15 |  |
 | 166 | PepexVerse |  | [Telegram](https://t.me/pepexsupport) [Bot](https://t.me/pepexversebot) |  |  |  |
-| 167 | Catmoonity | You can view and join right away. | [Telegram](https://t.me/catmoonity) [Bot](https://t.me/catmoonitybot) [X](https://x.com/catmoonity) |  |  |  |
+| 167 | Catmoonity |  | [Telegram](https://t.me/catmoonity) [Bot](https://t.me/catmoonitybot) [X](https://x.com/catmoonity) |  |  |  |
 | 168 | PUSH Coin | 🛹 Gateway to The World of Plank Pushers | [Bot](https://t.me/plankpushers_bot) [X](https://x.com/bemo_finance) [Site](https://bemo.fi/) |  | 2026-06-12 |  |
 | 169 | Mirrion Beyond | A cyberpunk game with survival and hacking elements | [Telegram](https://t.me/MirrionBeyond) [Bot](https://t.me/mirrionbeyondbot) [X](https://x.com/MirrionBeyond) [Site](https://store.steampowered.com/?snr=1_1056_4_18_global-header&curator_clanid=45363409) |  |  |  |
 | 170 | efootballmanager |  | [Telegram](https://t.me/EFootballManager) [Bot](https://t.me/efootballmanagerbot) |  |  |  |
@@ -214,9 +214,9 @@
 | 199 | Nifis Hunt Bot | ✨ With successful hunts, you could earn up to 10x your investment! Small risks with big… | [Bot](https://t.me/nifishuntbot) [X](https://x.com/NifisHunt) |  |  |  |
 | 200 | CryptoHacker |  | [Telegram](https://t.me/CryptoHackerTMA) [X](https://x.com/CryptoHackerTMA) [Site](https://cryptohacker.pro/) |  |  |  |
 | 201 | SpinnerCoin | P2E crypto game with NFT powered by TON blockchain | [Telegram](https://t.me/SpinnerCoin) [Bot](https://t.me/spinnercoin_bot) [X](https://x.com/spinnercoin) |  | 2024-12-30 |  |
-| 202 | Bunny Blitz | You can view and join right away. | [Telegram](https://t.me/bunnyblitz) [Bot](https://t.me/bunnyblitz_bot) [X](https://x.com/bunnyblitzapp) [Site](https://www.bunnyblitz.io) |  |  |  |
+| 202 | Bunny Blitz |  | [Telegram](https://t.me/bunnyblitz) [Bot](https://t.me/bunnyblitz_bot) [X](https://x.com/bunnyblitzapp) [Site](https://www.bunnyblitz.io) |  |  |  |
 | 203 | ClickARBUZ |  | [Bot](https://t.me/wmclick_bot) |  |  |  |
-| 204 | PokeTON | You can view and join right away. | [Telegram](https://t.me/PoketonOrg_Ann) [Bot](https://t.me/poketonorg_bot) [X](https://x.com/Byin_Fun) |  | 2025-04-24 |  |
+| 204 | PokeTON |  | [Telegram](https://t.me/PoketonOrg_Ann) [Bot](https://t.me/poketonorg_bot) [X](https://x.com/Byin_Fun) |  | 2025-04-24 |  |
 | 205 | Cybers Cat | Meow my fren, lets mining cats together 🙀 | [Bot](https://t.me/cyberscatbot) |  |  |  |
 | 206 | NEKO Box | Мем токен, расположившийся в сети TON. Присоединяйся к нам, будем рады видеть тебя в… | [Telegram](https://t.me/neco_arc_ton) [Bot](https://t.me/nekoapp_bot) [X](https://x.com/tongochi) |  | 2024-09-23 |  |
 | 207 | OctocrazeBot | Connect Socially & Earn Profits with Drifting Bottles in the #TON Ecosystem. | [Telegram](https://t.me/OctocrazeAnnouncement) [Bot](https://t.me/octocrazebot) [X](https://x.com/octocraze) |  | 2024-11-12 |  |
@@ -238,20 +238,20 @@
 | 223 | Taitiko Arena Bot | Taitiko is where creativity meets power in a captivating fusion of beautiful characters… | [Telegram](https://t.me/taitiko_official) [Bot](https://t.me/taitikoarena_bot) [X](https://x.com/TaitikoOfficial) [Site](https://www.taitiko.com/) |  | 2026-03-08 |  |
 | 224 | NANOZAP | NanoZap - Zap your way to the top! ⚡️ | [Bot](https://t.me/nanozap_bot) |  |  |  |
 | 225 | Mimiland | Game Together, Friend Forever | [Bot](https://t.me/mimiland_appbot) [X](https://x.com/TheMimiland) |  |  |  |
-| 226 | BRICSTONS | You can view and join right away. | [Telegram](https://t.me/Bricstons) [Bot](https://t.me/bricstonshubbot) |  | 2024-11-19 |  |
+| 226 | BRICSTONS |  | [Telegram](https://t.me/Bricstons) [Bot](https://t.me/bricstonshubbot) |  | 2024-11-19 |  |
 | 227 | Meow Kingdom | The 1st social interaction game build on #SEI | [Telegram](https://t.me/meowkingdom_channel) [Bot](https://t.me/meowkingdombot) [X](https://x.com/meowkingdom_io) [Site](https://meowkingdom.io/) |  | 2024-12-13 |  |
 | 228 | Greedy Ball | Claim Ball and get airdropped everyday! | [Telegram](https://t.me/greedy_ball) [Bot](https://t.me/greedyballbot) [X](https://x.com/greedy_ball) |  |  |  |
 | 229 | TFARM |  | [Telegram](https://t.me/tfarm_exchange) [Bot](https://t.me/tfarmpixelbot) [X](https://x.com/Tfarmio) [Site](https://docs.tfarm.io/) |  |  | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
 | 230 | Pina Mania | TON's wildest ride! 🎮 The first ServerFi game🌟.All for Pina Mania, Pina Mania for all. | [Telegram](https://t.me/PinaManiaAnn) [Bot](https://t.me/pinamaniabot) [X](https://x.com/PinaManiaX) |  | 2025-03-31 |  |
 | 231 | PonchKickBot |  | [Bot](https://t.me/ponchkick_bot) [X](https://x.com/ponchiqs) [Site](https://symbiosis.finance) |  | 2026-09-21 |  |
-| 232 | AI Buddy | You can view and join right away. | [Telegram](https://t.me/ai_buddy_support) [Bot](https://t.me/ai_buddy_gamebot) |  |  |  |
+| 232 | AI Buddy |  | [Telegram](https://t.me/ai_buddy_support) [Bot](https://t.me/ai_buddy_gamebot) |  |  |  |
 | 233 | Owls 🦉 |  | [Telegram](https://t.me/owlslabs) [Bot](https://t.me/owlsonton_bot) [X](https://x.com/owlsonton) |  | 2025-04-09 |  |
 | 234 | TON Pirate Kings |  | [Telegram](https://t.me/TONPirateKings) [Bot](https://t.me/tonpiratekings_bot) [X](https://x.com/tonpiratekings) |  |  |  |
 | 235 | QuizCraze | QuizCraze is a fun quiz game to test your knowledge, earn Q-Coins, and compete with… | [Telegram](https://t.me/quizcrazeofficial) [Bot](https://t.me/quizcrazebot) [X](https://x.com/quizzcraze) [Site](https://quizcraze.net) |  | 2024-10-22 |  |
 | 236 | Magic Muffins | Magic Muffins have landed on Telegram | [Bot](https://t.me/magicmuffins_bot) |  |  |  |
 | 237 | Panda Frenzy | Release your inner bamboo ⛩️ | [Telegram](https://t.me/pandafrenzy) [Bot](https://t.me/pandafrenzybot) [X](https://x.com/PandaFrenzyApp) |  | 2024-12-02 |  |
-| 238 | Coco Park | You can view and join right away. | [Telegram](https://t.me/cocopark_group) [Bot](https://t.me/cocopark_airdrop_bot) [X](https://x.com/cocopark_io) [Site](https://cocopark.io) |  | 2026-01-30 |  |
-| 239 | Cat vs Alien | You can view and join right away. | [Telegram](https://t.me/catvsalien_ton) [Bot](https://t.me/catvsalienbot) [X](https://x.com/catvsalien) |  |  |  |
+| 238 | Coco Park |  | [Telegram](https://t.me/cocopark_group) [Bot](https://t.me/cocopark_airdrop_bot) [X](https://x.com/cocopark_io) [Site](https://cocopark.io) |  | 2026-01-30 |  |
+| 239 | Cat vs Alien |  | [Telegram](https://t.me/catvsalien_ton) [Bot](https://t.me/catvsalienbot) [X](https://x.com/catvsalien) |  |  |  |
 | 240 | Nothing |  | [Bot](https://t.me/nothingiobot) [X](https://x.com/nothingsio) |  |  |  |
 | 241 | TON ROLL Games | TON ROLL Games — survival game with bomb-throwing mechanics | [Telegram](https://t.me/tonroll_support) [Bot](https://t.me/tonroll_bot) [Site](https://tonroll.com) |  |  | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
 | 242 | BaaTapBot | Phase 1 of the airdrop is complete! 🎉 Winners are being analyzed, and rewards will be… | [Bot](https://t.me/baatapbot) |  |  |  |
@@ -274,10 +274,10 @@
 | 259 | Clickmiobot | Gaming platform for competitive matches in popular video games with real-money bets | [Bot](https://t.me/clickmio_bot) [X](https://x.com/miomi_game) [Site](https://miomi.game/games/?game=kick-mio) |  |  |  |
 | 260 | ParadiseTap | Official Paradise game App | [Bot](https://t.me/paradisetapbot) |  | 2026-07-15 |  |
 | 261 | Televerse Odyssey | A Proof-of-Profile-Picture Experiment. Claim your Resistance Dog Profile Picture &… | [Bot](https://t.me/torchodyssey_bot) |  |  |  |
-| 262 | Capcap Bara | You can view and join right away. | [Telegram](https://t.me/capcapbara) [Bot](https://t.me/capcap_bara_bot) [X](https://x.com/CapcapBara) [Site](https://x.com/CapcapBara) |  | 2025-02-16 |  |
+| 262 | Capcap Bara |  | [Telegram](https://t.me/capcapbara) [Bot](https://t.me/capcap_bara_bot) [X](https://x.com/CapcapBara) [Site](https://x.com/CapcapBara) |  | 2025-02-16 |  |
 | 263 | ZESH: To The Moon |  | [Bot](https://t.me/zeshtothemoonbot) [X](https://x.com/zeshapps) [Site](https://zesh.io) |  |  |  |
 | 264 | Anomaly Launcher Bot |  | [Bot](https://t.me/anomaly_launch_bot) |  |  |  |
-| 265 | BeHappy | You can view and join right away. | [Telegram](https://t.me/behappymanager) [Bot](https://t.me/ibehappybot) [X](https://x.com/TractionEye) [Site](https://tractioneye.xyz/) [GitHub](https://github.com/TractionEye) |  | 2026-04-10 |  |
+| 265 | BeHappy |  | [Telegram](https://t.me/behappymanager) [Bot](https://t.me/ibehappybot) [X](https://x.com/TractionEye) [Site](https://tractioneye.xyz/) [GitHub](https://github.com/TractionEye) |  | 2026-04-10 |  |
 | 266 | Election Wars |  | [Bot](https://t.me/election_wars_bot) [GitHub](https://github.com/delab-team) |  | 2025-12-09 |  |
 | 267 | Tomo cat |  | [Bot](https://t.me/tomo_cat_bot) |  |  |  |
 | 268 | Swarm | Decentralized deliberative prediction markets | [Bot](https://t.me/getswarmed_bot) [X](https://x.com/getswarmed) |  |  |  |
@@ -293,7 +293,7 @@
 | 278 | Gala Music Coin |  | [Bot](https://t.me/galamusicminerearntrezbot) |  |  |  |
 | 279 | Playnation |  | [Bot](https://t.me/playnation_bot) |  |  |  |
 | 280 | Agent Tarot | An AI-powered tarot card agent🔮TG Mini App powered by AgentLayer. | [Bot](https://t.me/agent_tarot_bot) |  |  |  |
-| 281 | Rocket Rush | You can view and join right away. | [Telegram](https://t.me/Rocketrush) [Bot](https://t.me/rocket_rush_bot) [X](https://x.com/RocketRush_TON) |  |  |  |
+| 281 | Rocket Rush |  | [Telegram](https://t.me/Rocketrush) [Bot](https://t.me/rocket_rush_bot) [X](https://x.com/RocketRush_TON) |  |  |  |
 | 282 | Hamsta Pilot | Upgrade your Hamsta pilot🐹 | [Bot](https://t.me/hamstapilot_bot) |  |  |  |
 | 283 | PokeyQuestBot | Ready to conquer the Monster world? Catch, Upgrade, and Maximize your rewards to become… | [Bot](https://t.me/pokequest_bot) |  |  |  |
 | 284 | BearFi Bot |  | [Bot](https://t.me/bearfi_officialbot) [X](https://x.com/BearFiBot) |  |  |  |
@@ -301,7 +301,7 @@
 | 286 | Punk City | Punk City is a strategy game with elements of character collection and progression. | [Telegram](https://t.me/punkton) [Bot](https://t.me/punkcity2094bot) [X](https://x.com/TonPunks) [Site](https://punkcity.bot/) [GitHub](https://github.com/TON-Punks/punk-city-hack-a-tonx) |  | 2026-04-23 | [tonpost 23](../archive/2023-10-tonpost.jpg) [coin98-games 24](../archive/2024-02-coin98-games.jpg) [coin98-games 24](../archive/2024-05-coin98-games.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 287 | AI Worlds Games |  | [Bot](https://t.me/aiworlds_games_bot) [X](https://x.com/AIWORLDSGAMES) |  |  |  |
 | 288 | CashClick | 📸✨ Earn rewards by engaging with art & photography on a secure blockchain platform. Join… | [Bot](https://t.me/cashclickappbot) [X](https://x.com/CashClickApp) |  |  |  |
-| 289 | Doomer Story | You can view and join right away. | [Telegram](https://t.me/doomer_ton) [Bot](https://t.me/doomerstory_bot) [Site](https://octalend.xyz) |  | 2025-10-10 |  |
+| 289 | Doomer Story |  | [Telegram](https://t.me/doomer_ton) [Bot](https://t.me/doomerstory_bot) [Site](https://octalend.xyz) |  | 2025-10-10 |  |
 | 290 | Boosteam | is a Telegram Boosts Exchange ⚡️ | [Telegram](https://t.me/boosteamchannel) [Bot](https://t.me/boosteambot) |  |  |  |
 | 291 | Button |  | [Bot](https://t.me/thebuttongamebot) |  |  |  |
 | 292 | Kuroro Ranch | A PvP creature battle game available in Telegram | [Telegram](https://t.me/KuroroOfficial) [Bot](https://t.me/kurororanchbot) [X](https://x.com/kurorobeast) [Site](https://kuroro.com/) |  | 2025-09-12 |  |
@@ -317,7 +317,7 @@
 | 302 | LoveTap Token | Lovetap Token is a viral telegram game | [Bot](https://t.me/lovetap_bot) |  |  |  |
 | 303 | Play Lolypto |  | [Bot](https://t.me/lolypto_bot) |  |  |  |
 | 304 | Coinegg Bot |  | [Bot](https://t.me/coinegg_miner_bot) |  |  |  |
-| 305 | Monsta | You can view and join right away. | [Telegram](https://t.me/monstagameclub) [Bot](https://t.me/monstagamebot) [X](https://x.com/monstagame) |  | 2025-02-25 |  |
+| 305 | Monsta |  | [Telegram](https://t.me/monstagameclub) [Bot](https://t.me/monstagamebot) [X](https://x.com/monstagame) |  | 2025-02-25 |  |
 | 306 | Capybara TapTap | 💰Tap for fun and airdrops! 💰 | [Telegram](https://t.me/capybara_taptap_community) [Bot](https://t.me/capybara_taptap_bot) [X](https://x.com/capybara_guild) |  | 2024-09-20 |  |
 | 307 | Not Bored Puppies Bot | Tap, collect and mine coins! Hunt for Giveaways & Airdrops! | [Telegram](https://t.me/notboredpuppies_news) [Bot](https://t.me/notboredpuppies_bot) |  | 2024-11-26 |  |
 | 308 | GabbyWorld | Play Gabby World V2 BETA, earn $TON prizes and get additional Gabby Points Airdrop! 🎁 | [Bot](https://t.me/gabbyworldbot) |  |  |  |
@@ -329,7 +329,7 @@
 | 314 | P1: Mypal |  | [Bot](https://t.me/p1_mypal_bot) |  |  |  |
 | 315 | BitBall | Welcome to BitBall, the Best Web3 Sport Game Metaverse! $BBB TGE in weeks. Join Us to… | [Bot](https://t.me/bitballgamebot) |  |  |  |
 | 316 | Capytal War | Capytal War onboard supporting | [Telegram](https://t.me/capytal_war) [Bot](https://t.me/capytalwar_bot) [X](https://x.com/CapytalWar) [Site](https://atherlabs.com/) |  | 2025-01-14 |  |
-| 317 | Elfbird | You can view and join right away. | [Telegram](https://t.me/Elfbirds) [Bot](https://t.me/Elfbirdbot) [X](https://x.com/Elfbirds) [Site](https://elfbird.app/) [GitHub](https://github.com/pornofnd) |  | 2026-05-23 |  |
+| 317 | Elfbird |  | [Telegram](https://t.me/Elfbirds) [Bot](https://t.me/Elfbirdbot) [X](https://x.com/Elfbirds) [Site](https://elfbird.app/) [GitHub](https://github.com/pornofnd) |  | 2026-05-23 |  |
 | 318 | Tonmons | Коллекционная пошаговая MMORPG в Telegram WebApp | [Telegram](https://t.me/tonmons) [Bot](https://t.me/tonmons_bot) [X](https://x.com/ceosanya) |  | 2026-03-16 |  |
 | 319 | Apes Gang | The Apest Telegram memecoin 💎 | [Bot](https://t.me/apesgang_bot) [X](https://x.com/apes_telegram) [Site](https://apesgang.xyz) |  |  |  |
 | 320 | Merge Pals | The official announcement channel of | [Telegram](https://t.me/mergepalsofficial) [Bot](https://t.me/mergepalsbot) [X](https://x.com/MergePals) [GitHub](https://github.com/lkyton) |  | 2025-12-03 |  |
@@ -375,7 +375,7 @@
 | 360 | Bomb Crypto BCOIN | The pixel art game inspired by the Bomberman game is built on blockchain and designed… | [Telegram](https://t.me/BombCryptoGroup) [Bot](https://t.me/bombcrypto_io_bot) [X](https://x.com/BombCryptoGame) [Site](https://bombcrypto.io/) |  |  |  |
 | 361 | Panda Kombat | Join Panda Kombat 🐼⚔️ in an epic adventure! Are YOU the chosen one to lead the Panda… | [Bot](https://t.me/pandakombat_official_bot) [GitHub](https://github.com/evaafi) |  | 2026-08-30 |  |
 | 362 | First Grow |  | [Bot](https://t.me/firstduck_bot) |  |  |  |
-| 363 | TapPop | You can view and join right away. | [Telegram](https://t.me/TapPopAI) [Bot](https://t.me/tappopbot) [X](https://x.com/TapPop_AI) |  |  |  |
+| 363 | TapPop |  | [Telegram](https://t.me/TapPopAI) [Bot](https://t.me/tappopbot) [X](https://x.com/TapPop_AI) |  |  |  |
 | 364 | FERMASOSEDI GAME | 👨‍🌾 Join FERMA! Solve the Combo, play Jumping Pig, and win crypto prizes: 3,000,000… | [Bot](https://t.me/fermasosedibot) |  |  |  |
 | 365 | Wormfare Slap |  | [Bot](https://t.me/wormfare_slap_bot) [X](https://x.com/wormfare) |  |  |  |
 | 366 | Gemsee |  | [Telegram](https://t.me/gemseee) [Bot](https://t.me/gemsee_bot) [X](https://x.com/gemseeton) [Site](https://gemsee.gitbook.io/gemsee) |  | 2025-01-06 |  |
@@ -389,7 +389,7 @@
 | 374 | Billion Gems |  | [Bot](https://t.me/billiongems_bot) |  |  |  |
 | 375 | DreamCoin | Spin it all and farm gold in the next-level Telegram game! | [Bot](https://t.me/dreamcoinofficial_bot) |  |  |  |
 | 376 | Monkey | Find out the age and value of your Telegram account and get our MONKEY token for FREE 🙉 | [Bot](https://t.me/monkeycost_bot) [X](https://x.com/Monkey_on_TON) |  |  |  |
-| 377 | GD Coin | You can view and join right away. | [Telegram](https://t.me/GDCoinChannel) [Bot](https://t.me/gdcoinminerbot) |  |  |  |
+| 377 | GD Coin |  | [Telegram](https://t.me/GDCoinChannel) [Bot](https://t.me/gdcoinminerbot) |  |  |  |
 | 378 | AkedoBot |  |  |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 379 | Ponke TON game | Ready to join the Ponke TON army? | [Bot](https://t.me/ponketon_bot) |  |  |  |
 | 380 | Pig of Ton | Play, Enjoy and Earn Airdrop. | [Telegram](https://t.me/pigofton) [Bot](https://t.me/pigoftonbot) [X](https://x.com/PigOfTon) [Site](https://pigofton.com/) |  |  | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
@@ -398,7 +398,7 @@
 | 383 | GoalPixels | Football Manager - Build your Football Empire | [Telegram](https://t.me/GoalPixels) [Bot](https://t.me/goalpixelsbot) [X](https://x.com/GoalPixels) |  | 2026-02-02 | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 384 | Genopets | Compete in retro PvP battles for Weekly Airdrops with friends! | [Bot](https://t.me/genopets_pixelton_bot) [X](https://x.com/genopets) |  |  |  |
 | 385 | Coco Rush | Coco Rush — a mini app for slot games with bonuses and wheel spins | [Bot](https://t.me/cocorush_bot) [X](https://x.com/BONS_social) [Site](https://solscan.io/token/BCNT4t3rv5Hva8RnUtJUJLnxzeFAabcYp8CghC1SmWin) |  |  |  |
-| 386 | Clayton Game | You can view and join right away. | [Telegram](https://t.me/clayton) [Bot](https://t.me/claytoncoinbot) [X](https://x.com/ClaytonOnTon) [Site](https://claytoncoin.com/) |  | 2025-05-22 |  |
+| 386 | Clayton Game |  | [Telegram](https://t.me/clayton) [Bot](https://t.me/claytoncoinbot) [X](https://x.com/ClaytonOnTon) [Site](https://claytoncoin.com/) |  | 2025-05-22 |  |
 | 387 | Capybara |  | [Bot](https://t.me/capybara_authbot) |  |  |  |
 | 388 | FLIES | Join, Collect $FLIES for the future airdrop | [Bot](https://t.me/flieshouse_bot) |  |  |  |
 | 389 | TONWifey |  | [Bot](https://t.me/tonwifey_bot) |  |  |  |
@@ -423,7 +423,7 @@
 | 408 | PAPERCOIN |  | [Telegram](https://t.me/tonceocreator) [Bot](https://t.me/papercoinbot) [Site](https://getgems.io/collection/EQBKyOBYgqJZx46kfW4pxo6K8QU72POfsTWnEZKaq5qGnb99) |  |  |  |
 | 409 | Duckygram | Collectible game where you hatch and breed unique ducks on Telegram to earn $EGG tokens | [Bot](https://t.me/duckygram_bot) |  |  |  |
 | 410 | The Queue | Play The Queue, a fun Telegram game with real TON prizes. Test your endurance! 👀 | [Bot](https://t.me/thequeue_bot) |  |  |  |
-| 411 | ALCOCOIN APP | You can view and join right away. | [Telegram](https://t.me/alcocoins) [Bot](https://t.me/alcocoin_bot) [X](https://x.com/alcocoinapp) |  | 2025-12-10 |  |
+| 411 | ALCOCOIN APP |  | [Telegram](https://t.me/alcocoins) [Bot](https://t.me/alcocoin_bot) [X](https://x.com/alcocoinapp) |  | 2025-12-10 |  |
 | 412 | Devomon |  | [Bot](https://t.me/devomontabmasterbot) |  |  |  |
 | 413 | Sheep Royale 2 | Бот доступен только во ВКонткате | [Bot](https://t.me/sheeproyale2_game_bot) |  |  |  |
 | 414 | Pacbot |  | [Bot](https://t.me/teampacbot) [X](https://x.com/pacbotapp) |  |  |  |
@@ -435,7 +435,7 @@
 | 420 | TapViking | TapViking - Tap in to Riches. Fren, welcome to the Best Game. Be Rich with Viking | [Bot](https://t.me/tapviking_bot) |  |  |  |
 | 421 | The Virus |  | [Bot](https://t.me/the_virus_bot) |  |  |  |
 | 422 | Checkers With Friends | Checkers is a fun, classic board game that you can play with your friends without… | [Bot](https://t.me/startcheckersbot) |  |  |  |
-| 423 | NOTMEME app | You can view and join right away. | [Telegram](https://t.me/notmeme_app) [Bot](https://t.me/notmemeappbot) [X](https://x.com/notmeme_app) |  | 2024-12-08 |  |
+| 423 | NOTMEME app |  | [Telegram](https://t.me/notmeme_app) [Bot](https://t.me/notmemeappbot) [X](https://x.com/notmeme_app) |  | 2024-12-08 |  |
 | 424 | BunnyApp |  | [Telegram](https://t.me/bunnyAppSupport) [Bot](https://t.me/bunnyappbot) |  |  |  |
 | 425 | Totemancer | Strategic PvP board game: capture land, chain bonus turns, collect Totems. | [Telegram](https://t.me/Totemancer) [Bot](https://t.me/TotemancerBot) [X](https://x.com/Totemancer) [Site](https://totemancer.com) [GitHub](https://github.com/Totemancer) |  | 2026-02-24 |  |
 | 426 | Endless Siege Game |  | [Bot](https://t.me/endlesssiegegamebot) |  |  |  |
@@ -534,7 +534,7 @@
 | 519 | Cyber Fish | @Ddart33 - admin | [Bot](https://t.me/cyberfishgamebot) | mentioned by 3 TON channels in Q3 |  |  |
 | 520 | Cyber Village |  |  |  |  |  |
 | 521 | DARK-ROULETTE | Roulette is one of the $DARK token applications. | [Telegram](https://t.me/dl_roulette_bot) [Bot](https://t.me/nftroulette) [X](https://x.com/darkcoinmeme) |  |  |  |
-| 522 | DecrypTON | You can view and join right away. | [Bot](https://t.me/DecrypTON_Bot) [X](https://x.com/Decryp_TON) |  |  |  |
+| 522 | DecrypTON |  | [Bot](https://t.me/DecrypTON_Bot) [X](https://x.com/Decryp_TON) |  |  |  |
 | 523 | Dfantasy | Dfantasy is an on-chain Web3 fantasy football game. | [Telegram](https://t.me/dfantasy_pro) [Bot](https://t.me/dfantasy_bot) [X](https://x.com/dFantasy_pro) |  |  |  |
 | 524 | Digitcoin | Digitcoin ($DIGIT) is a gamified NFT platform that bridges digital collectibles with… | [Telegram](https://t.me/digitcoin) [Bot](https://t.me/digitcoin_community) [X](https://x.com/thedigitcoin) [Site](https://digitcoin.io) |  |  |  |
 | 525 | DogePee |  | [Bot](https://t.me/dogeepee_bot) [X](https://x.com/DogePeeCoin) [Site](https://kibble.exchange/) |  |  |  |
@@ -571,7 +571,7 @@
 | 556 | GRAM TOWN 🎡 |  | [Bot](https://t.me/gramtownbot) | mentioned by 3 TON channels in Q3 |  |  |
 | 557 | Grand Galore Tarot | AI agent from Renesansse. | [Telegram](https://t.me/thotheye) [Bot](https://t.me/GrandGaloreTarotBot) [Site](https://www.grandgalore.xyz/app) |  |  |  |
 | 558 | Grimoire PVP | Улучшай и скрещивай существ, сражайся на арене, получай пассивный доход Чат -… | [Bot](https://t.me/grimoirepvp_bot) | mentioned by 5 TON channels in Q3 |  |  |
-| 559 | GSHAKE | You can view and join right away. | [Bot](https://t.me/gshake_bot) [X](https://x.com/GSHAKE_app) |  |  |  |
+| 559 | GSHAKE |  | [Bot](https://t.me/gshake_bot) [X](https://x.com/GSHAKE_app) |  |  |  |
 | 560 | Gu$$i coin runner Game | Web3 play-2-earn skill-based game on TON 💎 | [Telegram](https://t.me/gussicoin) [Bot](https://t.me/gussicoin_bot) [X](https://x.com/Gussi_coin) [GitHub](https://github.com/m2fund) |  | 2024-12-07 |  |
 | 561 | Happy Digger |  | [Bot](https://t.me/happydiggerbot) | mentioned by 9 TON channels in Q3 |  |  |
 | 562 | HashCash | HashCash is a revolutionary app designed to change the way we approach digital security… | [Telegram](https://t.me/HashCashCommunity) [Bot](https://t.me/HashCashApp_bot) [Site](https://hashcash.top/) |  |  |  |
@@ -596,7 +596,7 @@
 | 581 | Masterverses | MasterVerses is the first AI-powered Web3 spiritual discovery platform, revolutionizing… | [Telegram](https://t.me/Master_verses) [Bot](https://t.me/masterversess_bot) [X](https://x.com/Masterverses) |  |  |  |
 | 582 | Memes Corp. | The Year 2069... | [Bot](https://t.me/memescorpbot) [X](https://x.com/memescorp_) |  |  |  |
 | 583 | MEMHUNT CRYPTOGAME | Играй и зарабатывай в турнирах на 20,000 $USDT каждый месяц! 📱 Анонсы: @memhuntcom 💬 Чат… | [Bot](https://t.me/memhuntcom_bot) | mentioned by 5 TON channels in Q3 |  |  |
-| 584 | MemHustle | You can view and join right away. | [Telegram](https://t.me/memhustlecom) [Bot](https://t.me/memhustle_bot) [X](https://x.com/MemHustleArmy) [Site](https://memhustle.com/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 584 | MemHustle |  | [Telegram](https://t.me/memhustlecom) [Bot](https://t.me/memhustle_bot) [X](https://x.com/MemHustleArmy) [Site](https://memhustle.com/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 585 | MeowRushBot |  | [Bot](https://t.me/meowrushbot) | mentioned by 3 TON channels in Q3 |  |  |
 | 586 | Millennium | Millenium - платформа развлечений и заработка! Турниры «Две башни», головоломки, рыбалка. | [Bot](https://t.me/milennium_bot) | mentioned by 11 TON channels in Q3 |  |  |
 | 587 | Mnemonics | Play-to-earn decipher game for airdrop 🎮 😈 💸 | [Bot](https://t.me/mnmncs_bot) [X](https://x.com/Mnemonics_coin) |  |  |  |
@@ -612,7 +612,7 @@
 | 597 | Pandai | AI-powered, Financial assistant bot. | [Telegram](https://t.me/PandaiToken) [Bot](https://t.me/PandaiAirdropBot) [X](https://x.com/PandaTradeClub) [Site](https://pandaitoken.com/) |  |  |  |
 | 598 | Penalty |  | [Bot](https://t.me/penaltygoalbot) | mentioned by 3 TON channels in Q3 |  |  |
 | 599 | Pengubot |  | [Bot](https://t.me/heypengubot) | mentioned by 9 TON channels in Q3 |  |  |
-| 600 | PEPE'S Leap Adventure | You can view and join right away. | [Telegram](https://t.me/pepesleapadventure) [Bot](https://t.me/pepeleapadventurebot) [X](https://x.com/Pepeleap) [Site](https://www.pepesleap.com/) |  |  |  |
+| 600 | PEPE'S Leap Adventure |  | [Telegram](https://t.me/pepesleapadventure) [Bot](https://t.me/pepeleapadventurebot) [X](https://x.com/Pepeleap) [Site](https://www.pepesleap.com/) |  |  |  |
 | 601 | PetTap | 🌐 Transform social media use into an immersive, rewarding journey. | [Bot](https://t.me/pettapbot) |  |  |  |
 | 602 | PIXEL SHARK |  | [Bot](https://t.me/pixelsharkbot) | mentioned by 7 TON channels in Q3 |  |  |
 | 603 | PRISM STAR | PRISM STAR is a fantasy card collection and battle game built for the TON ecosystem. | [Bot](https://t.me/PrismStarGameBot) [X](https://x.com/PlayPrismStar) |  |  |  |
@@ -665,7 +665,7 @@
 | 650 | Unknown |  | [Telegram](https://t.me/unknown) [Bot](https://t.me/coin_unk_bot) [GitHub](https://github.com/coin-unknown) |  |  |  |
 | 651 | VnukQuest |  | [Bot](https://t.me/vnukquestbot) | mentioned by 3 TON channels in Q3 |  |  |
 | 652 | Volarian Heist |  | [Bot](https://t.me/volarianheist_bot) [X](https://x.com/volarisgames) [Site](https://volaris.games) |  |  |  |
-| 653 | Wallet League | You can view and join right away. | [Telegram](https://t.me/WalletLeague) [Bot](https://t.me/walletleaguebot) |  |  |  |
+| 653 | Wallet League |  | [Telegram](https://t.me/WalletLeague) [Bot](https://t.me/walletleaguebot) |  |  |  |
 | 654 | Wars Stars: Expedition |  | [Bot](https://t.me/wars_stars_bot) | mentioned by 7 TON channels in Q3 |  |  |
 | 655 | Wassie Whomps |  | [Bot](https://t.me/wassiewhompsbot) |  |  |  |
 | 656 | Web3 Gem | Automatic deposits and withdrawals, play to win at | [Telegram](https://t.me/web3gem_ch) [Bot](https://t.me/web3gem_bot) |  |  |  |
@@ -687,7 +687,7 @@
 | 672 | BattleOfMemes |  | [Bot](https://t.me/baom_game_bot) [X](https://x.com/battleofmemes_) |  | 2026-07-13 |  |
 | 673 | Crazy Camels Game | 🐪 The official channel of Crazy Camels! | [Telegram](https://t.me/crazy_camels) [Bot](https://t.me/cmlgamebot) |  | 2026-06-19 |  |
 | 674 | KameTap |  | [Telegram](https://t.me/Tongokuchannel) [Bot](https://t.me/kametap_bot) [GitHub](https://github.com/clickerspace) |  | 2026-05-27 |  |
-| 675 | Doonz Squad | You can view and join right away. | [Telegram](https://t.me/Doonz_Squad_bot) [Bot](https://t.me/doonz_squad_bot) [X](https://x.com/Cardoonz) |  | 2026-05-18 |  |
+| 675 | Doonz Squad |  | [Telegram](https://t.me/Doonz_Squad_bot) [Bot](https://t.me/doonz_squad_bot) [X](https://x.com/Cardoonz) |  | 2026-05-18 |  |
 | 676 | AEC TON |  | [Telegram](https://t.me/AECTONOfficial) [X](https://x.com/AEC_TON) |  | 2026-05-15 |  |
 | 677 | The Clean Network | Welcome to 2083. | [Telegram](https://t.me/TheCleanNetwork) [Bot](https://t.me/TheCleanNetworkAppBot) [X](https://x.com/TCN_Protocol) [Site](https://tcn.gg) |  | 2026-05-10 |  |
 | 678 | CoderX | Blackhat-style Telegram Web3 clicker. Earn CXR, invite operators, climb the network. | [Telegram](https://t.me/coderx_news) [Bot](https://t.me/coderxcr_bot) |  | 2026-05-01 |  |
@@ -711,8 +711,8 @@
 | 696 | Pixieland | PixieLand is more than just a Web3 breeding game. | [Telegram](https://t.me/PixieLand_io) [Bot](https://t.me/PixieLand_io_bot) [X](https://x.com/Pixieland_io) |  | 2025-09-08 |  |
 | 697 | BIRDS | The Game & AI Abstraction Layer on Sui | [Telegram](https://t.me/Birds_announcement) [Bot](https://t.me/birdx2_bot) |  | 2025-08-29 |  |
 | 698 | Corn Battles | CORN BATTLES - это новый умопомрачительный батлер с яркими персонажами - кукурузами! | [Telegram](https://t.me/corn_battles) [Bot](https://t.me/corn) |  | 2025-08-29 |  |
-| 699 | TONopolis | You can view and join right away. | [Telegram](https://t.me/TonopolisGame) [Bot](https://t.me/tonopolisbot) [X](https://x.com/TonopolisGame) |  | 2025-08-27 |  |
-| 700 | Solitaire Suzume | You can view and join right away. | [Telegram](https://t.me/suzume_news) [Bot](https://t.me/solitaire_szm_bot) [X](https://x.com/suzumeio) |  | 2025-07-30 |  |
+| 699 | TONopolis |  | [Telegram](https://t.me/TonopolisGame) [Bot](https://t.me/tonopolisbot) [X](https://x.com/TonopolisGame) |  | 2025-08-27 |  |
+| 700 | Solitaire Suzume |  | [Telegram](https://t.me/suzume_news) [Bot](https://t.me/solitaire_szm_bot) [X](https://x.com/suzumeio) |  | 2025-07-30 |  |
 | 701 | Mortal Klicker |  | [Telegram](https://t.me/moklgamefi) [Bot](https://t.me/mokl_io_bot) [Site](https://esprito.com) [GitHub](https://github.com/espritoxyz) |  | 2026-08-30 |  |
 | 702 | LOTSY | Welcome to LOTSY 🎉 We are building a Blockchain Lottery Syndicate integrated with the… | [Telegram](https://t.me/lotsy_community) [Bot](https://t.me/LOTSY_bot) [X](https://x.com/lotsyteam) [Site](https://lotsy.xyz/) |  | 2025-04-23 |  |
 | 703 | YuliGo | YuliGO is an exciting Telegram mini-app that brings the Yuliverse ecosystem to life in… | [Telegram](https://t.me/Yuligo_official) [Bot](https://t.me/yuligo_chat) [X](https://x.com/TheYuliverse) [Site](https://discord.com/invite/yuliverse-official) |  | 2025-04-22 |  |
@@ -723,7 +723,7 @@
 | 708 | Monorix | The largest crypto community on Telegram. | [Telegram](https://t.me/monorixofficial) [X](https://x.com/themonorix) [Site](https://www.monorix.com) |  | 2025-03-20 |  |
 | 709 | GoldenBlock | Smash gold nuggets! Go crazy for coins! | [Telegram](https://t.me/hashblockann) [Bot](https://t.me/goldenblock_bot) [X](https://x.com/GoldenBlock_AI) [Site](https://linktr.ee/GoldenBlock) |  | 2025-03-13 |  |
 | 710 | Lucky TON | Possessing this token is believed to attract prosperity and luck. | [Telegram](https://t.me/lkyton) [Bot](https://t.me/lkytonbot) [X](https://x.com/luckyton8) |  | 2025-02-15 | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
-| 711 | Tapjenix | You can view and join right away. | [Telegram](https://t.me/TapJenix) [Bot](https://t.me/tapjenixbot) [X](https://x.com/TapJenix) |  | 2025-02-01 |  |
+| 711 | Tapjenix |  | [Telegram](https://t.me/TapJenix) [Bot](https://t.me/tapjenixbot) [X](https://x.com/TapJenix) |  | 2025-02-01 |  |
 | 712 | Tonrare | Игровая web3 экосистема и платформа | [Telegram](https://t.me/tonrare_games) |  | 2025-01-30 |  |
 | 713 | CatsVSRats | CatsVSRats - Battle Between Two World 🐱🔥🐭 | [Telegram](https://t.me/catsvsrats) [Bot](https://t.me/catsvsratsbot) [X](https://x.com/cats_vs_rats) [Site](https://gmail.com) |  | 2025-01-29 |  |
 | 714 | King of Dragons | Are you ready to embark on a magical journey to become the King of Dragons 👑!!! | [Telegram](https://t.me/KODAnnouncement) [Bot](https://t.me/KingofDragons_bot) [X](https://x.com/KingofDragos) |  | 2025-01-24 |  |
@@ -737,13 +737,13 @@
 | 722 | OpenGaming | 🕹️Play, rank up, and collect drops 💧 in a community-oriented gaming ecosystem! | [Telegram](https://t.me/OpenGamingAnn) [Bot](https://t.me/ogappbot) |  | 2024-11-21 |  |
 | 723 | Planetor |  | [Telegram](https://t.me/PlanetorNews) [Bot](https://t.me/planetorbot) [X](https://x.com/PlanetorGame) [Site](https://planetor.io/) |  | 2024-11-21 |  |
 | 724 | STARGAME | Guess how far the racket will fly and get tokens on your balance. | [Telegram](https://t.me/StarWalletBot_Ru) [Bot](https://t.me/StarwalletBot) |  | 2024-11-21 |  |
-| 725 | Catirace | You can view and join right away. | [Telegram](https://t.me/catirace14) [Bot](https://t.me/catirace_bot) [X](https://x.com/netMinePi) |  | 2024-11-19 |  |
+| 725 | Catirace |  | [Telegram](https://t.me/catirace14) [Bot](https://t.me/catirace_bot) [X](https://x.com/netMinePi) |  | 2024-11-19 |  |
 | 726 | Magiton | Magiton is an epic magical adventure where you become a wizard on a quest to recover a… | [Telegram](https://t.me/magiton_gem) [Bot](https://t.me/magitonbot) [X](https://x.com/MagiTON_game) |  | 2024-11-18 |  |
 | 727 | Sylvan Clash | Greetings, forest defenders and strategy enthusiasts! | [Telegram](https://t.me/SylvanClashAnn) [Bot](https://t.me/Sylvan_Clash_bot) |  | 2024-10-24 |  |
 | 728 | Timer | It's simple: Step 1 When you open Timer firstly you see the screen with dates input. | [Telegram](https://t.me/Timer_community) [Bot](https://t.me/Timer_community_bot) [X](https://x.com/Timer_community) [Site](https://timer.rip/) |  | 2024-10-13 |  |
 | 729 | HUG Community | 🌐 Our plans are to develop products and a crypto social network where $HUG will be… | [Telegram](https://t.me/hugcommunity) [Bot](https://t.me/hugcommunity_bot) [X](https://x.com/communityhug) |  | 2024-10-09 |  |
 | 730 | ISEKAI Adventure | In this mysterious and different world adventure, you will play as a warrior, challenge… | [Telegram](https://t.me/BotGameyard) [Bot](https://t.me/Tonisekaibot) [X](https://x.com/Bot_Gameyard) |  | 2024-10-09 |  |
-| 731 | Not Quiz | You can view and join right away. | [Telegram](https://t.me/NotQuiz) [Bot](https://t.me/notquizbot) [X](https://x.com/notquiz_nqz) |  | 2024-09-28 | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
+| 731 | Not Quiz |  | [Telegram](https://t.me/NotQuiz) [Bot](https://t.me/notquizbot) [X](https://x.com/notquiz_nqz) |  | 2024-09-28 | [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
 | 732 | TON Cook | 💎 Play TON, Earn TON / Top 10 idle gaming publisher on App Store | [Telegram](https://t.me/TONCook_Announcements) [Bot](https://t.me/toncookbot) [X](https://x.com/theTONCook) |  | 2024-09-20 |  |
 | 733 | Mars Race | MarsRace game is where speed and strategy are your keys to victory. | [Telegram](https://t.me/marsrace) [Bot](https://t.me/MarsRace_bot) [X](https://x.com/mars4_me) [Site](https://www.mars4.me) |  | 2024-09-19 |  |
 | 734 | SCRATS | SCRATS, the meme coin, was inspired by the character Scrat, the squirrel from the… | [Telegram](https://t.me/scratchmemecoin) [Bot](https://t.me/scrats_kleym1_bot) [X](https://x.com/ScratchMemeCoin) [Site](https://bot.cryptosymbiotic.com/?user_id=1) |  | 2024-09-18 |  |

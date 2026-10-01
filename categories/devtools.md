@@ -47,7 +47,7 @@
 | 32 | Chainstack TON Faucet | Daily TON testnet refills. | [Site](https://faucet.chainstack.com/ton-testnet-faucet) |  |  |  |
 | 33 | custon | Custom wallet address generator in JavaScript. | [GitHub](https://github.com/TON-NFT/custon) |  | 2023-11-03 |  |
 | 34 | darttonconnect | Dart SDK for mobile apps. | [GitHub](https://github.com/romanovichim/dartTonconnect) |  | 2023-11-14 |  |
-| 35 | DeLab | You can view and join right away. | [Bot](https://t.me/delabbot) [X](https://x.com/delabteam) [GitHub](https://github.com/delab-team) |  | 2025-12-09 | [ton 25](../archive/2025-07-ton.jpg) |
+| 35 | DeLab |  | [Bot](https://t.me/delabbot) [X](https://x.com/delabteam) [GitHub](https://github.com/delab-team) |  | 2025-12-09 | [ton 25](../archive/2025-07-ton.jpg) |
 | 36 | delab-team/connect | Multi-protocol SDK with unified interface. | [GitHub](https://github.com/delab-team/connect) |  | 2023-06-13 |  |
 | 37 | Directual no-code | Your smart Telegram assistant for Directual — get key updates and manage your account… | [Bot](https://t.me/Directual_bot) [X](https://x.com/directual) [Site](https://readme.directual.com/plugins/using-plugins/blockchain-web3/ton-the-open-network) |  |  |  |
 | 38 | foton | Comprehensive toolkit for TON dApps. | [GitHub](https://github.com/VanishMax/foton) |  | 2025-08-24 |  |
@@ -111,7 +111,7 @@
 | 96 | 8XR |  | [Telegram](https://t.me/gam8s) [X](https://x.com/8xr_engine) |  | 2025-10-18 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 97 | TONX API | Support the development of TON by offering an array of robust tools for a seamless… | [Telegram](https://t.me/tonxapi) [X](https://x.com/TONXAPI) [Site](https://tonxapi.com/) [GitHub](https://github.com/tonxapi/sample) |  | 2025-07-01 | [tradoor 25](../archive/2025-08-tradoor.jpg) |
 | 98 | TON.SKI Access | An ecosystem for TON Sites | [Telegram](https://t.me/tonski_eng) [Site](https://ton.ski/access/) |  | 2025-03-05 | [ton 25](../archive/2025-07-ton.jpg) |
-| 99 | Oneclicksender | You can view and join right away. | [Telegram](https://t.me/OneClickSender) [X](https://x.com/Oneclicksender) [Site](https://ton.oneclicksender.com/) |  | 2025-02-05 |  |
+| 99 | Oneclicksender |  | [Telegram](https://t.me/OneClickSender) [X](https://x.com/Oneclicksender) [Site](https://ton.oneclicksender.com/) |  | 2025-02-05 |  |
 
 ## Closed
 

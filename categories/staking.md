@@ -47,10 +47,10 @@
 | 32 | TonStake.com |  | [X](https://x.com/tonstakecom) [Site](https://tonstake.com/) [GitHub](https://github.com/awesome-doge) |  | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 33 | Tonyielding |  | [X](https://x.com/Tonyielding) [GitHub](https://github.com/marakitio) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 34 | Whales Staking | Ton Whales Staking pool chat for communicating in any language. | [Telegram](https://t.me/stakeonwhales) [X](https://x.com/whalescorp) [Site](https://tonwhales.com/staking) [GitHub](https://github.com/tonwhales) |  | 2026-08-13 |  |
-| 35 | YieldFort Protocol | You can view and join right away. | [Bot](https://t.me/ton_yieldfortbot) [X](https://x.com/yieldfort) |  |  |  |
+| 35 | YieldFort Protocol |  | [Bot](https://t.me/ton_yieldfortbot) [X](https://x.com/yieldfort) |  |  |  |
 | 36 | UTN Staking |  | [Telegram](https://t.me/uniton_token) [Site](https://app.unitontoken.com) |  | 2026-08-05 |  |
 | 37 | XBANKING |  | [Telegram](https://t.me/xbanking) [X](https://x.com/xbankingapp) [Site](https://xbanking.org) [GitHub](https://github.com/SecondLive) |  | 2025-07-17 |  |
-| 38 | Tonverse | You can view and join right away. | [Telegram](https://t.me/GoTonverse) [Bot](https://t.me/gohotbanana_bot) [X](https://x.com/verse_ton) |  | 2024-09-10 |  |
+| 38 | Tonverse |  | [Telegram](https://t.me/GoTonverse) [Bot](https://t.me/gohotbanana_bot) [X](https://x.com/verse_ton) |  | 2024-09-10 |  |
 
 ## Closed
 

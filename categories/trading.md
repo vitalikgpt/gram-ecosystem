@@ -2,7 +2,7 @@
 
 # Trading bots
 
-[Back to the list](../README.md#trading-bots). 36 projects: 20 active in Q3 2026, 16 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
+[Back to the list](../README.md#trading-bots). 37 projects: 20 active in Q3 2026, 17 quiet, 0 closed. Statuses are explained in the [README](../README.md#status).
 
 ## Active
 
@@ -15,7 +15,7 @@
 | 5 | @GroypFi_bot ✓ | Chief Vibrations Officer A dose of this, a hit of that Twitter -… | [Telegram](https://t.me/groyp) [Bot](https://t.me/groypfi_bot) [X](https://x.com/groyp_on_ton) [Site](https://groypfi.io/) | 91K views | 2026-09-30 |  |
 | 6 | @DTrade ✓ | News channel for the lightning fast trading bot on TON | [Telegram](https://t.me/dtrade_news) [Bot](https://t.me/dtrade) [X](https://x.com/dtrade_tg) | 9K views | 2026-09-04 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 7 | RedoTrade ✓ |  | [Telegram](https://t.me/gramtrade) [X](https://x.com/redo_trade) [Site](https://redo.trade/) | 6K views | 2026-10-01 |  |
-| 8 | @Swapi ✓ | You can view and join right away. | [Telegram](https://t.me/swapi_news) [Bot](https://t.me/swapi) | 71 views | 2026-08-26 |  |
+| 8 | @Swapi ✓ |  | [Telegram](https://t.me/swapi_news) [Bot](https://t.me/swapi) | 71 views | 2026-08-26 |  |
 | 9 | ATF | 📌 channel :https://t.me/AI_TRADING_FOREX 🌐 Website: https://www.atftoken.com 🐦 Twitter:… | [Bot](https://t.me/atf_airdrop_bot) [X](https://x.com/ai_trading_frx) [Site](https://www.atftoken.com) | mentioned by 37 TON channels in Q3 |  |  |
 | 10 | ⚡️Лобушкин молнит | Главный новостной терминал Прислать новость — @zhora Основной канал — @lobushkin Канал в… | [Telegram](https://t.me/lobushkinflash) [Bot](https://t.me/tgpodbor_bot) | mentioned by 3 TON channels in Q3 | 2026-10-01 |  |
 | 11 | КриптоАтака 24 ⚡️ | Наибыстрейший информационный по крипте 24/7 @cryptoattackbot - мгновенный агрегатор… | [Telegram](https://t.me/cryptoattack24) [Bot](https://t.me/attackconnect_bot) | mentioned by 4 TON channels in Q3 | 2026-10-01 |  |
@@ -45,7 +45,8 @@
 | 30 | Mite Market | Trade Polymarket Natively on TON with Non-custodial Wallet | [Bot](https://t.me/mite_robot) | mentioned by 5 TON channels in Q3 |  |  |
 | 31 | MultiTools | Social trading for Gram, Solana, BNB & more - trade, post calls, follow winning traders.… | [Bot](https://t.me/multitoools_bot) | mentioned by 3 TON channels in Q3 |  |  |
 | 32 | OnlyOptions: Trading Platform | Earn on changes in asset prices. Channel: @onLy_options_tg Support: @sup_options_bot… | [Bot](https://t.me/only_options_bot) |  |  |  |
-| 33 | Storm & Upscale Support (official) | DM me with any questions about @stormtradebot or @upscaletradebot | [Bot](https://t.me/storm_support_bot) | mentioned by 3 TON channels in Q3 |  |  |
-| 34 | Tinu Sniper Bot | TINU Trading Bot on TON is a powerful tool Part of @toninutools | [Bot](https://t.me/tinusniperbot) | mentioned by 9 TON channels in Q3 |  |  |
-| 35 | TokeHunt |  | [Bot](https://t.me/tokehuntbot) | mentioned by 6 TON channels in Q3 |  |  |
-| 36 | Tradowix Rewards | Official TradoWix rewards bot. Join @tradowix_official, send your Trader ID, get your… | [Bot](https://t.me/tradowix_promo_bot) | mentioned by 3 TON channels in Q3 |  |  |
+| 33 | Tinu Sniper Bot | TINU Trading Bot on TON is a powerful tool Part of @toninutools | [Bot](https://t.me/tinusniperbot) | mentioned by 9 TON channels in Q3 |  |  |
+| 34 | TokeHunt |  | [Bot](https://t.me/tokehuntbot) | mentioned by 6 TON channels in Q3 |  |  |
+| 35 | Tradowix Rewards | Official TradoWix rewards bot. Join @tradowix_official, send your Trader ID, get your… | [Bot](https://t.me/tradowix_promo_bot) | mentioned by 3 TON channels in Q3 |  |  |
+| 36 | DXS: Trade The World | Новости проекта, а также полезная информация о мире криптовалют и трейдинга. | [Telegram](https://t.me/dxsapp) [X](https://x.com/DXSapp) [Site](https://dxs.app) |  | 2025-11-17 |  |
+| 37 | Optsnap Trading |  | [Telegram](https://t.me/opt_snap) [Site](https://optsnap.com/) |  | 2024-09-08 |  |
