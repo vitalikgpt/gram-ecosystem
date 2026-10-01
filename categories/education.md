@@ -18,8 +18,8 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 5 | XPLUS | XPLUS Game is a game within Telegram. | [Bot](https://t.me/xplusio_bot) [X](https://x.com/xplusio) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 6 | BrainGames |  | [Telegram](https://t.me/caspertma) [Bot](https://t.me/braingamesappbot) |  | 2025-04-09 |  |
-| 7 | Join Studihub |  | [Telegram](https://t.me/PieTrade) [Bot](https://t.me/joinstudihub_bot) [Site](https://pie.trading) |  | 2025-06-28 |  |
+| 6 | BrainGames |  | [Telegram](https://t.me/caspertma) [Bot](https://t.me/braingamesappbot) |  |  |  |
+| 7 | Join Studihub |  | [Telegram](https://t.me/PieTrade) [Bot](https://t.me/joinstudihub_bot) [Site](https://pie.trading) |  |  |  |
 | 8 | WordBooX |  | [Bot](https://t.me/wordboox_bot) [X](https://x.com/watchlist_id) |  |  |  |
 | 9 | Leap | Have fun, earn Leaps and learn crypto - for free and with friends. | [Telegram](https://t.me/leap_app) [Bot](https://t.me/leapapp_bot) [X](https://x.com/hey_leap) |  | 2024-11-16 |  |
 | 10 | Botanica |  | [Bot](https://t.me/botanica_school_bot) |  |  |  |

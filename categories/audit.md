@@ -28,21 +28,21 @@
 | 13 | BitOK |  | [Bot](https://t.me/bitok_support) [X](https://x.com/Bitok_org) [GitHub](https://github.com/telegram-bots/BitOk) |  | 2018-12-31 | [ton 25](../archive/2025-07-ton.jpg) |
 | 14 | ChainAware.ai | AI-based Crypto Fraud Detection with a 98% prediction rate | [Bot](https://t.me/ChainAware_Bot) [X](https://x.com/ChainAware) [Site](https://ChainAware.ai) [GitHub](https://github.com/ChainAware/behavioral-prediction-mcp) |  | 2026-08-11 |  |
 | 15 | Config44 |  | [Site](https://config44.com) [GitHub](https://github.com/config44) |  | 2026-09-11 |  |
-| 16 | Fuck Scammers |  | [Telegram](https://t.me/fuck_scammers_onTon) [Bot](https://t.me/fuck_scams_bot) [X](https://x.com/Fuck_scams_ton) |  |  |  |
-| 17 | Hexens |  | [X](https://x.com/hexensio) [Site](https://hexens.io) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 18 | JettonTonGuard | TON token analytics: contract, liquidity, holders | [Telegram](https://t.me/JettonTonGuard) [Bot](https://t.me/JettonTonGuard_Bot) [Site](https://app.scriptsnap.site/) |  |  |  |
-| 19 | QuillAudits | Web3 security research & audits (8+ yrs) | [Telegram](https://t.me/quillaudits_official) [X](https://x.com/quillaudits_ai) [Site](https://quillaudits.com/) [GitHub](https://github.com/Quillhash/QuillAudit_Reports) |  | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
-| 20 | ScaleBit | MoveBit - The Pioneer in MOVE Security | [Telegram](https://t.me/BitsLabHQ) [X](https://x.com/scalebit_) [Site](https://www.scalebit.xyz) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 21 | Scam-detect | Scam-detect. Our mission - your security. | [Bot](https://t.me/scam_detectg_bot) |  |  |  |
-| 22 | Scorechain | Know Your Address / Wallet screening | [Bot](https://t.me/scorechainbot) [X](https://x.com/scorechain) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 23 | Solidity auditor |  | [X](https://x.com/legalkornet) [Site](https://www.legal-kornet.com) [GitHub](https://github.com/Silent47boryara/AuditBadge) |  | 2025-11-06 |  |
-| 24 | TokenGuide |  | [Telegram](https://t.me/tokenguidesecurity) [Bot](https://t.me/tokenguide_bot) [X](https://x.com/tokenguideio) [Site](https://tokenguide.io) |  |  |  |
-| 25 | Vidma |  | [Telegram](https://t.me/vidmasecurity) [X](https://x.com/Vidma_security) [Site](https://www.vidma.io) [GitHub](https://github.com/vidma-security) |  | 2023-06-07 |  |
-| 26 | Web3defender | Web3defender — wallet and link fraud detection | [Telegram](https://t.me/web3defender_alerts) [Bot](https://t.me/web3defender_bot) [Site](https://web3defender.tech) |  |  |  |
-| 27 | Decurity |  | [Telegram](https://t.me/defimon_alerts) [X](https://x.com/DecurityHQ) [Site](https://www.decurity.io/) [GitHub](https://github.com/Decurity) |  | 2026-10-01 |  |
-| 28 | re:doubt |  | [Telegram](https://t.me/uShopWeb) [GitHub](https://github.com/re-doubt) |  | 2026-07-08 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 29 | Spide | IT company in the field of development & cybersecurity. | [Telegram](https://t.me/spide) [Bot](https://t.me/spide_robot) [X](https://x.com/spidesecurity) [Site](https://spide.org) |  | 2025-06-30 |  |
-| 30 | PositiveWeb3 | Web3 Security Research audit.com | [Telegram](https://t.me/positiveweb3) [X](https://x.com/PositiveWeb3) [GitHub](https://github.com/PositiveSecurity) |  | 2026-07-20 | [ton 25](../archive/2025-07-ton.jpg) |
-| 31 | Esprito Protocol | Esprito is an on-chain security analytics company. We offer comprehensive TON analytics… | [Telegram](https://t.me/espritoxyz) [Bot](https://t.me/espritobot) [X](https://x.com/espritoxyz) [Site](https://esprito.com/) [GitHub](https://github.com/espritoxyz) |  | 2026-08-30 |  |
-| 32 | Cryptonite Scanner | TON blockchain token scanner for detecting scam projects | [Telegram](https://t.me/cryptonportal) [Bot](https://t.me/CryptoniteScannerBot) [Site](https://crypton.tools) |  | 2024-09-27 |  |
+| 16 | Cryptonite Scanner | TON blockchain token scanner for detecting scam projects | [Telegram](https://t.me/cryptonportal) [Bot](https://t.me/CryptoniteScannerBot) [Site](https://crypton.tools) |  |  |  |
+| 17 | Decurity |  | [Telegram](https://t.me/defimon_alerts) [X](https://x.com/DecurityHQ) [Site](https://www.decurity.io/) [GitHub](https://github.com/Decurity) |  | 2026-08-16 |  |
+| 18 | Fuck Scammers |  | [Telegram](https://t.me/fuck_scammers_onTon) [Bot](https://t.me/fuck_scams_bot) [X](https://x.com/Fuck_scams_ton) |  |  |  |
+| 19 | Hexens |  | [X](https://x.com/hexensio) [Site](https://hexens.io) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 20 | JettonTonGuard | TON token analytics: contract, liquidity, holders | [Telegram](https://t.me/JettonTonGuard) [Bot](https://t.me/JettonTonGuard_Bot) [Site](https://app.scriptsnap.site/) |  |  |  |
+| 21 | QuillAudits | Web3 security research & audits (8+ yrs) | [Telegram](https://t.me/quillaudits_official) [X](https://x.com/quillaudits_ai) [Site](https://quillaudits.com/) [GitHub](https://github.com/Quillhash/QuillAudit_Reports) |  | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
+| 22 | re:doubt |  | [Telegram](https://t.me/uShopWeb) [GitHub](https://github.com/re-doubt) |  | 2025-07-22 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 23 | ScaleBit | MoveBit - The Pioneer in MOVE Security | [Telegram](https://t.me/BitsLabHQ) [X](https://x.com/scalebit_) [Site](https://www.scalebit.xyz) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 24 | Scam-detect | Scam-detect. Our mission - your security. | [Bot](https://t.me/scam_detectg_bot) |  |  |  |
+| 25 | Scorechain | Know Your Address / Wallet screening | [Bot](https://t.me/scorechainbot) [X](https://x.com/scorechain) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 26 | Solidity auditor |  | [X](https://x.com/legalkornet) [Site](https://www.legal-kornet.com) [GitHub](https://github.com/Silent47boryara/AuditBadge) |  | 2025-11-06 |  |
+| 27 | TokenGuide |  | [Telegram](https://t.me/tokenguidesecurity) [Bot](https://t.me/tokenguide_bot) [X](https://x.com/tokenguideio) [Site](https://tokenguide.io) |  |  |  |
+| 28 | Vidma |  | [Telegram](https://t.me/vidmasecurity) [X](https://x.com/Vidma_security) [Site](https://www.vidma.io) [GitHub](https://github.com/vidma-security) |  | 2023-06-07 |  |
+| 29 | Web3defender | Web3defender — wallet and link fraud detection | [Telegram](https://t.me/web3defender_alerts) [Bot](https://t.me/web3defender_bot) [Site](https://web3defender.tech) |  |  |  |
+| 30 | Spide | IT company in the field of development & cybersecurity. | [Telegram](https://t.me/spide) [Bot](https://t.me/spide_robot) [X](https://x.com/spidesecurity) [Site](https://spide.org) |  | 2025-06-30 |  |
+| 31 | PositiveWeb3 | Web3 Security Research audit.com | [Telegram](https://t.me/positiveweb3) [X](https://x.com/PositiveWeb3) [GitHub](https://github.com/PositiveSecurity) |  | 2026-07-20 | [ton 25](../archive/2025-07-ton.jpg) |
+| 32 | Esprito Protocol | Esprito is an on-chain security analytics company. We offer comprehensive TON analytics… | [Telegram](https://t.me/espritoxyz) [Bot](https://t.me/espritobot) [X](https://x.com/espritoxyz) [Site](https://esprito.com/) [GitHub](https://github.com/espritoxyz) |  | 2026-08-30 |  |
 | 33 | Verify |  | [Telegram](https://t.me/verify_ton_ru) [Bot](https://t.me/verify_eng) |  | 2024-08-23 |  |

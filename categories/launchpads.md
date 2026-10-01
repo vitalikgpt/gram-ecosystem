@@ -41,7 +41,7 @@
 | 26 | OpenTap by Openpad |  | [Bot](https://t.me/openpadbot) [X](https://x.com/Openpad_io) |  |  |  |
 | 27 | 2040World | PvP game on a space station with avatars and combat | [Bot](https://t.me/world2040_bot) [X](https://x.com/2040World) [Site](https://cloudflare.com) |  |  |  |
 | 28 | RoOLZ | RoOLZ — a Telegram roleplay game with NFTs and agentic gameplay | [Telegram](https://t.me/roolznft) [Bot](https://t.me/roolzquest_bot) [X](https://x.com/AtriumNft) [Site](https://Atrium.art) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 29 | Bankcoin | Master Banking, Earn Bitcoin... | [Bot](https://t.me/bankcoins_bot) [X](https://x.com/realDogsHouse) |  | 2026-09-18 |  |
+| 29 | Bankcoin | Master Banking, Earn Bitcoin... | [Bot](https://t.me/bankcoins_bot) [X](https://x.com/realDogsHouse) |  |  |  |
 | 30 | Snap Fly Bot | Snap Fly / Snap & Earn - Play for airdrop 🐸 | [Telegram](https://t.me/SnapFly_updates) [Bot](https://t.me/snapfly_game_bot) [X](https://x.com/SnapFly_xyz) [Site](https://docs.snapfly.xyz/) |  | 2025-09-16 |  |
 | 31 | PinGo | PinGo Punny Bot - Wrapped your telegram | [Bot](https://t.me/pingo_minibot) [X](https://x.com/PinGoAI) [Site](https://pingo.work) |  |  |  |
 | 32 | LUMO | ⚡️Tap, trade, connect, grow and… farm LUMO Tokens! Next generation wallet. Made by team | [Bot](https://t.me/cryptolumo_bot) |  |  |  |

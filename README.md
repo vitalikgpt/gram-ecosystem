@@ -214,14 +214,14 @@ Within a category, projects on the map come first in map order, then active ones
 | 2 | Durev Bot |  | [Telegram](https://t.me/poveldurev) [Bot](https://t.me/durevrobot) [X](https://x.com/poveldurev) [Site](https://dedust.io/swap/TON/DUREV) | 16K views | 2026-08-14 |  |
 | 3 | FolioTrade | Automated crypto trading bot | [Telegram](https://t.me/foliostack) [Bot](https://t.me/FolioTradeBot) [Site](https://trade.foliostack.net) | 57 views | 2026-08-15 |  |
 | 4 | Chainbase Network |  | [X](https://x.com/ChainbaseHQ) [Site](https://chainbase.com) [GitHub](https://github.com/chainbase-labs) | commit 2026-09-16 | 2026-09-16 |  |
-| 5 | Minter |  | [Site](https://minter.ton.org) |  |  |  |
-| 6 | nessshon/tonutils | High-level SDK and toolkit. | [GitHub](https://github.com/nessshon/tonutils) | commit 2026-09-02 | 2026-09-02 |  |
-| 7 | Orbs |  | [X](https://x.com/orbs_network) [Site](https://www.orbs.com) [GitHub](https://github.com/orbs-network) | commit 2026-10-01 | 2026-10-01 | [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton 25](archive/2025-07-ton.jpg) |
-| 8 | Softstack |  | [X](https://x.com/softstackHQ) [Site](https://softstack.io) [GitHub](https://github.com/softstack) | commit 2026-09-29 | 2026-09-29 |  |
-| 9 | tact.vim | Vim 8+ plugin. | [GitHub](https://github.com/tact-lang/tact.vim) | commit 2026-07-08 | 2026-07-08 |  |
-| 10 | TON Testnet Faucet |  | [Site](https://ton.run/#/faucet) [GitHub](https://github.com/awesome-doge) | commit 2026-10-01 | 2026-10-01 |  |
-| 11 | tonlib-rs | Rust SDK for TON. | [GitHub](https://github.com/ston-fi/tonlib-rs) | commit 2026-08-12 | 2026-08-12 |  |
-| 12 | tonutils/tonconnect | Python SDK for TON Connect. | [GitHub](https://github.com/nessshon/tonutils) | commit 2026-09-02 | 2026-09-02 |  |
+| 5 | IntelliJ Idea plugin |  | [Telegram](https://t.me/actiqapp) [X](https://x.com/actiqapp) [Site](https://plugins.jetbrains.com/plugin/23382-ton) [GitHub](https://github.com/actiquest-dev) | commit 2026-08-27 | 2026-08-27 | [tonpost 23](archive/2023-10-tonpost.jpg) |
+| 6 | Minter |  | [Site](https://minter.ton.org) |  |  |  |
+| 7 | nessshon/tonutils | High-level SDK and toolkit. | [GitHub](https://github.com/nessshon/tonutils) | commit 2026-09-02 | 2026-09-02 |  |
+| 8 | Orbs |  | [X](https://x.com/orbs_network) [Site](https://www.orbs.com) [GitHub](https://github.com/orbs-network) | commit 2026-10-01 | 2026-10-01 | [dwf-ventures 24](archive/2024-06-dwf-ventures.jpg) [ton 25](archive/2025-07-ton.jpg) |
+| 9 | Softstack |  | [X](https://x.com/softstackHQ) [Site](https://softstack.io) [GitHub](https://github.com/softstack) | commit 2026-09-29 | 2026-09-29 |  |
+| 10 | tact.vim | Vim 8+ plugin. | [GitHub](https://github.com/tact-lang/tact.vim) | commit 2026-07-08 | 2026-07-08 |  |
+| 11 | TON Testnet Faucet |  | [Site](https://ton.run/#/faucet) [GitHub](https://github.com/awesome-doge) | commit 2026-10-01 | 2026-10-01 |  |
+| 12 | tonlib-rs | Rust SDK for TON. | [GitHub](https://github.com/ston-fi/tonlib-rs) | commit 2026-08-12 | 2026-08-12 |  |
 
 [All 100 projects in Developer tools](categories/devtools.md): 15 active, 82 quiet, 3 closed.
 
@@ -677,7 +677,7 @@ Channels about TON that are not a project's own, by post views over the quarter.
 
 ## Data files
 
-- [data/projects.csv](data/projects.csv): one row per project. Columns: `category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `github`, `last_post`, `last_commit`, `reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.
+- [data/projects.csv](data/projects.csv): one row per project. Columns: `category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `github`, `last_post`, `last_commit`, `launched`, `subscribers`, `reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.
 - [data/categories.json](data/categories.json): categories in display order.
 - [data/channels.csv](data/channels.csv): channels about TON with quarterly posts and views.
 - [data/unresolved.csv](data/unresolved.csv): names seen on ecosystem maps that are not tied to a project yet.

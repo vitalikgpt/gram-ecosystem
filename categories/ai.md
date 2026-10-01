@@ -34,7 +34,7 @@
 | 19 | PartonaAI App | Captivating AI character fantasies to explore, imagined by the community. | [Bot](https://t.me/partona_bot) |  |  |  |
 | 20 | SWAYE AI |  | [Bot](https://t.me/swaye_ai_bot) |  |  |  |
 | 21 | JarvisBot |  | [Bot](https://t.me/jarvisbot_ai_bot) [X](https://x.com/booinuinfo) |  |  |  |
-| 22 | MozoAI Bot | Self-improving Knowledge Hub for AI | [Telegram](https://t.me/ShillGuardOfficial) [Bot](https://t.me/mozoai_bot) [X](https://x.com/Mozo_xyz) |  | 2026-09-30 |  |
+| 22 | MozoAI Bot | Self-improving Knowledge Hub for AI | [Telegram](https://t.me/ShillGuardOfficial) [Bot](https://t.me/mozoai_bot) [X](https://x.com/Mozo_xyz) |  |  |  |
 | 23 | Tearline Bot | Supercharge your AI agent with clean financial data | [Bot](https://t.me/tearlineai_bot) |  |  |  |
 | 24 | Yoda AI | Talk with Yoda anytime you want. | [Bot](https://t.me/yodabot) |  |  |  |
 | 25 | NeronAI |  | [Telegram](https://t.me/neron_news) [Bot](https://t.me/neronai_bot) [Site](https://neron.ai) |  |  |  |
@@ -42,18 +42,18 @@
 | 27 | AiTon | Next Gen Ai Research project AiTon | [Bot](https://t.me/iaiton_bot) | mentioned by 5 TON channels in Q3 |  |  |
 | 28 | Alpha Track ~~ bot | AI-powered crypto intelligence. Your channels → filtered, categorized, delivered. Alpha,… | [Bot](https://t.me/alphatrack_ai_bot) | mentioned by 8 TON channels in Q3 |  |  |
 | 29 | Duck Ai App | Deploy & Manage Ai Agents easily Channel: @MyDuckAi Support: @zkproof | [Bot](https://t.me/teleduckaibot) | mentioned by 7 TON channels in Q3 |  |  |
-| 30 | GMAI | GMAI — developer tool for Solana dApps with AI integration | [Telegram](https://t.me/gmAI_Ann) [Bot](https://t.me/gmdotaibot) [X](https://x.com/gm_dot_ai) [Site](https://docs.gm.ai/how-we-work/gmai-framework) |  |  |  |
-| 31 | Kamana AI 🐸 | Start your $KAMANA 🐸 journey and reap the rewards in $TON 💎 • TG Channel: @KamanaAnn •… | [Bot](https://t.me/kamanaai_bot) |  |  |  |
-| 32 | NEONEXA AI | 📲 News: @TonMasons 👥 Neonexa Network: @MasonGameBot 🌐 Web: tonmason.com 🛠 Support:… | [Bot](https://t.me/tonmasonaibot) | mentioned by 3 TON channels in Q3 |  |  |
-| 33 | NEONEXA Network | 📲 News: @TonMasons 🧠 NEONEXA AI: @TonMasonAIbot 🌐 Web: tonmason.com 🛠 Support:… | [Telegram](https://t.me/tonmasons_ru) [Bot](https://t.me/masongamebot) | mentioned by 5 TON channels in Q3 |  |  |
-| 34 | Neural Networks | Помощь — @Neyrosetka_com | [Bot](https://t.me/chatgpt_tgm_bot) [GitHub](https://github.com/Stenix777/Neural-network-telegram) |  | 2024-05-21 |  |
-| 35 | OLOID X AI | Официальный бот LLC OLOID X | [Bot](https://t.me/oloidxauth_bot) | mentioned by 3 TON channels in Q3 |  |  |
-| 36 | Omniracle AI Search | Omniracle AI Search — tool for analyzing fast-moving topics on the internet | [Telegram](https://t.me/omniracle) [Bot](https://t.me/omniracle_bot) [X](https://x.com/omniracle) [Site](https://omniracle.com) |  |  |  |
-| 37 | Plate AI | Snap. Know. Eat. Your free AI calorie tracker 🍽️ | [Bot](https://t.me/plateaibot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 38 | Fragment Neuro Bot |  | [Telegram](https://t.me/TeletonApp) [Bot](https://t.me/TeletonOfficialAppBot) [X](https://x.com/teletonapp) |  | 2025-01-04 |  |
+| 31 | Fragment Neuro Bot |  | [Telegram](https://t.me/TeletonApp) [Bot](https://t.me/TeletonOfficialAppBot) [X](https://x.com/teletonapp) |  |  |  |
+| 32 | GMAI | GMAI — developer tool for Solana dApps with AI integration | [Telegram](https://t.me/gmAI_Ann) [Bot](https://t.me/gmdotaibot) [X](https://x.com/gm_dot_ai) [Site](https://docs.gm.ai/how-we-work/gmai-framework) |  |  |  |
+| 33 | Kamana AI 🐸 | Start your $KAMANA 🐸 journey and reap the rewards in $TON 💎 • TG Channel: @KamanaAnn •… | [Bot](https://t.me/kamanaai_bot) |  |  |  |
+| 34 | NEONEXA AI | 📲 News: @TonMasons 👥 Neonexa Network: @MasonGameBot 🌐 Web: tonmason.com 🛠 Support:… | [Bot](https://t.me/tonmasonaibot) | mentioned by 3 TON channels in Q3 |  |  |
+| 35 | NEONEXA Network | 📲 News: @TonMasons 🧠 NEONEXA AI: @TonMasonAIbot 🌐 Web: tonmason.com 🛠 Support:… | [Telegram](https://t.me/tonmasons_ru) [Bot](https://t.me/masongamebot) | mentioned by 5 TON channels in Q3 |  |  |
+| 36 | Neural Networks | Помощь — @Neyrosetka_com | [Bot](https://t.me/chatgpt_tgm_bot) [GitHub](https://github.com/Stenix777/Neural-network-telegram) |  | 2024-05-21 |  |
+| 37 | OLOID X AI | Официальный бот LLC OLOID X | [Bot](https://t.me/oloidxauth_bot) | mentioned by 3 TON channels in Q3 |  |  |
+| 38 | Omniracle AI Search | Omniracle AI Search — tool for analyzing fast-moving topics on the internet | [Telegram](https://t.me/omniracle) [Bot](https://t.me/omniracle_bot) [X](https://x.com/omniracle) [Site](https://omniracle.com) |  |  |  |
+| 39 | Plate AI | Snap. Know. Eat. Your free AI calorie tracker 🍽️ | [Bot](https://t.me/plateaibot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 
 ## Closed
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 39 | Fragment Checker Bot |  |  |  | 2024-09-08 |  |
+| 30 | Fragment Checker Bot |  |  |  |  |  |

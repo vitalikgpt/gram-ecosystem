@@ -18,6 +18,8 @@ for f in fixes:
         continue
     if r[f["field"]] == f["old"]:
         r[f["field"]] = f["new"]
+        if f["field"] == "telegram" and "subscribers" in r:
+            r["subscribers"] = ""  # the count belonged to the old channel
         n += 1
 # A quiet project whose every link turned out dead is closed: the evidence is in link-fixes.csv.
 DEAD = ("does not exist", "site is gone", "returns 404")

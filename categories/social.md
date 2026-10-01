@@ -81,39 +81,39 @@
 | 66 | @Placce |  | [Bot](https://t.me/placcerobot) | mentioned by 6 TON channels in Q3 |  |  |
 | 67 | ART VNUKICH |  | [Bot](https://t.me/art_vnukich_bot) | mentioned by 4 TON channels in Q3 |  |  |
 | 68 | Asiqpai | ASIQPAI is a music-focused Telegram Mini App built on TON and powered by the ASIQ… | [Telegram](https://t.me/asiqpaihub) [Bot](https://t.me/asiqpai_bot) [X](https://x.com/asiqpai) [Site](https://asiqpai.site) |  |  |  |
-| 69 | Ausum | The ultimate challenge platform on Telegram. ausum.social | [Bot](https://t.me/ausum_bot) | mentioned by 4 TON channels in Q3 |  |  |
-| 70 | Fibarium |  | [Bot](https://t.me/fibariumbot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 71 | Fox Tails |  | [Bot](https://t.me/BearAMLBot) [Site](https://foxtails.io) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 72 | GoatVote |  | [Bot](https://t.me/goatvotebot) | mentioned by 3 TON channels in Q3 |  |  |
-| 73 | Hamsterbabybot | First Meme Community on Ton for Hamster Lovers .. $NOT just got a baby 💰💰💰 | [Bot](https://t.me/hansterbabybot) |  |  |  |
-| 74 | Host.tg | Host.tg — an app for organizing and participating in events via Telegram | [X](https://x.com/HostAppHQ) [Site](https://host.tg) |  |  |  |
-| 75 | INFINITY | INFINITY is an evolving visual world inside Telegram. | [Telegram](https://t.me/infinity_bid) [Bot](https://t.me/infinity_bid_bot) [Site](https://infinity.bid/) |  |  |  |
-| 76 | MAROHA | 🩷 Pink MAROHA on TON | [Bot](https://t.me/maroha_hubbot) | mentioned by 3 TON channels in Q3 |  |  |
-| 77 | NEONEXA · Hub 💎 | Всё про NEONEXA в одном месте — спокойно и по делу, без давления. | [Bot](https://t.me/tonmason_newsbot) | mentioned by 4 TON channels in Q3 |  |  |
-| 78 | NFT Access Guardian Bot | NFT Access Guardian Bot: Verifies NFT ownership for exclusive chat access. | [Bot](https://t.me/access_ton_control_bot) |  |  |  |
-| 79 | NFTune |  | [Bot](https://t.me/nftunebot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 80 | Peace Da Love |  | [Site](https://peacedalove.com) |  |  |  |
-| 81 | Photon | Photon - a social app to express yourself, discover your friends, and bring your dreams… | [Telegram](https://t.me/The_Photon_app) [Bot](https://t.me/ThePhoton_Bot) [X](https://x.com/photon_friends) |  |  |  |
-| 82 | Spiritual Hub | Spiritual hub - mindfulness app aggregator | [Bot](https://t.me/spiritualhubbot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 83 | StickerFace | Press /start to create your personal Sticker Pack🔥 | [Bot](https://t.me/stickerfacebot) [Site](https://stickerface.io/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 84 | Telegram one Top |  |  |  |  |  |
-| 85 | the future is TON |  | [X](https://x.com/cointool) [Site](https://ct.app) [GitHub](https://github.com/cointool-app) |  | 2026-09-23 |  |
-| 86 | The Saudis TON |  | [Bot](https://t.me/SauSpaceBot) [X](https://x.com/TheSaudisTON) |  |  |  |
-| 87 | Tnc | https://t.me/tnc_community | [Bot](https://t.me/tontncbot) | mentioned by 19 TON channels in Q3 |  |  |
-| 88 | TON ID | Build your reputation with every app you use and every contribution you make | [Bot](https://t.me/ton_society_bot) |  |  |  |
-| 89 | TON Vote |  | [Telegram](https://t.me/tonvotesupportgroup) [GitHub](https://github.com/orbs-network/dao-vote) |  | 2026-06-04 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 90 | ton.place |  | [Site](https://ton.place) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 91 | TONpie |  | [Site](https://tonpie.io) |  |  |  |
-| 92 | TonsOfFriends |  | [Bot](https://t.me/toftechbot) [X](https://x.com/TonsOfFriends) [Site](https://app.tonfriends.tech) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 93 | vnukiсh | 👋 Привет, Друг! Ты попал в систему награждения активности Внукича | [Bot](https://t.me/vnukich_bot) | mentioned by 5 TON channels in Q3 |  |  |
-| 94 | Wall Telegram | Wall Telegram is a social network with posts, graffiti, and music. | [Telegram](https://t.me/wall_people) [Bot](https://t.me/wall) [Site](https://wall.tg) |  |  |  |
-| 95 | Web3Events |  | [X](https://x.com/Web3Events_ai) |  |  |  |
-| 96 | WhoWhere |  |  |  |  |  |
-| 97 | Криптохалва |  | [Bot](https://t.me/beeton_kriptohalva_bot) |  |  |  |
-| 98 | WAP 🐵 |  | [Telegram](https://t.me/h0nworld) [Bot](https://t.me/weareprime_bot) [Site](https://h0n.io) |  | 2026-08-26 |  |
-| 99 | Atomic Star | ⚛ Платформа для коммуникации с Web3 продуктами проекта StalinFoundation на базе… | [Bot](https://t.me/AtomicStarBot) [GitHub](https://github.com/StalinFoundation) |  | 2026-07-04 | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 100 | Hubz Chat | Hubz Chat — a chat bot for verifying members by wallets and NFTs | [Telegram](https://t.me/Hubz_News) [Bot](https://t.me/hubz_app_bot) [X](https://x.com/hubz_chat) [Site](https://hubz.io/) |  | 2026-03-10 |  |
-| 101 | FireTon Drop |  | [Telegram](https://t.me/moklgamefi) [Bot](https://t.me/mokl_io_bot) |  | 2025-06-19 |  |
+| 69 | Atomic Star | ⚛ Платформа для коммуникации с Web3 продуктами проекта StalinFoundation на базе… | [Bot](https://t.me/AtomicStarBot) [GitHub](https://github.com/StalinFoundation) |  | 2024-04-21 | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 70 | Ausum | The ultimate challenge platform on Telegram. ausum.social | [Bot](https://t.me/ausum_bot) | mentioned by 4 TON channels in Q3 |  |  |
+| 71 | Fibarium |  | [Bot](https://t.me/fibariumbot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 72 | FireTon Drop |  | [Telegram](https://t.me/moklgamefi) [Bot](https://t.me/mokl_io_bot) |  |  |  |
+| 73 | Fox Tails |  | [Bot](https://t.me/BearAMLBot) [Site](https://foxtails.io) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 74 | GoatVote |  | [Bot](https://t.me/goatvotebot) | mentioned by 3 TON channels in Q3 |  |  |
+| 75 | Hamsterbabybot | First Meme Community on Ton for Hamster Lovers .. $NOT just got a baby 💰💰💰 | [Bot](https://t.me/hansterbabybot) |  |  |  |
+| 76 | Host.tg | Host.tg — an app for organizing and participating in events via Telegram | [X](https://x.com/HostAppHQ) [Site](https://host.tg) |  |  |  |
+| 77 | INFINITY | INFINITY is an evolving visual world inside Telegram. | [Telegram](https://t.me/infinity_bid) [Bot](https://t.me/infinity_bid_bot) [Site](https://infinity.bid/) |  |  |  |
+| 78 | MAROHA | 🩷 Pink MAROHA on TON | [Bot](https://t.me/maroha_hubbot) | mentioned by 3 TON channels in Q3 |  |  |
+| 79 | NEONEXA · Hub 💎 | Всё про NEONEXA в одном месте — спокойно и по делу, без давления. | [Bot](https://t.me/tonmason_newsbot) | mentioned by 4 TON channels in Q3 |  |  |
+| 80 | NFT Access Guardian Bot | NFT Access Guardian Bot: Verifies NFT ownership for exclusive chat access. | [Bot](https://t.me/access_ton_control_bot) |  |  |  |
+| 81 | NFTune |  | [Bot](https://t.me/nftunebot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 82 | Peace Da Love |  | [Site](https://peacedalove.com) |  |  |  |
+| 83 | Photon | Photon - a social app to express yourself, discover your friends, and bring your dreams… | [Telegram](https://t.me/The_Photon_app) [Bot](https://t.me/ThePhoton_Bot) [X](https://x.com/photon_friends) |  |  |  |
+| 84 | Spiritual Hub | Spiritual hub - mindfulness app aggregator | [Bot](https://t.me/spiritualhubbot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 85 | StickerFace | Press /start to create your personal Sticker Pack🔥 | [Bot](https://t.me/stickerfacebot) [Site](https://stickerface.io/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 86 | Telegram one Top |  |  |  |  |  |
+| 87 | the future is TON |  | [X](https://x.com/cointool) [Site](https://ct.app) [GitHub](https://github.com/cointool-app) |  | 2026-09-23 |  |
+| 88 | The Saudis TON |  | [Bot](https://t.me/SauSpaceBot) [X](https://x.com/TheSaudisTON) |  |  |  |
+| 89 | Tnc | https://t.me/tnc_community | [Bot](https://t.me/tontncbot) | mentioned by 19 TON channels in Q3 |  |  |
+| 90 | TON ID | Build your reputation with every app you use and every contribution you make | [Bot](https://t.me/ton_society_bot) |  |  |  |
+| 91 | TON Vote |  | [Telegram](https://t.me/tonvotesupportgroup) [GitHub](https://github.com/orbs-network/dao-vote) |  | 2026-06-04 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 92 | ton.place |  | [Site](https://ton.place) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 93 | TONpie |  | [Site](https://tonpie.io) |  |  |  |
+| 94 | TonsOfFriends |  | [Bot](https://t.me/toftechbot) [X](https://x.com/TonsOfFriends) [Site](https://app.tonfriends.tech) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 95 | vnukiсh | 👋 Привет, Друг! Ты попал в систему награждения активности Внукича | [Bot](https://t.me/vnukich_bot) | mentioned by 5 TON channels in Q3 |  |  |
+| 96 | Wall Telegram | Wall Telegram is a social network with posts, graffiti, and music. | [Telegram](https://t.me/wall_people) [Bot](https://t.me/wall) [Site](https://wall.tg) |  |  |  |
+| 97 | WAP 🐵 |  | [Telegram](https://t.me/h0nworld) [Bot](https://t.me/weareprime_bot) [Site](https://h0n.io) |  |  |  |
+| 98 | Web3Events |  | [X](https://x.com/Web3Events_ai) |  |  |  |
+| 99 | WhoWhere |  |  |  |  |  |
+| 100 | Криптохалва |  | [Bot](https://t.me/beeton_kriptohalva_bot) |  |  |  |
+| 101 | Hubz Chat | Hubz Chat — a chat bot for verifying members by wallets and NFTs | [Telegram](https://t.me/Hubz_News) [Bot](https://t.me/hubz_app_bot) [X](https://x.com/hubz_chat) [Site](https://hubz.io/) |  | 2026-03-10 |  |
 | 102 | TON Stars |  | [Telegram](https://t.me/ton_stars_official) [Bot](https://t.me/ton_stars_app_bot) [X](https://x.com/tonstarsapp) [Site](https://) |  | 2025-04-11 | [coin98-games 24](../archive/2024-05-coin98-games.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 103 | Commander |  | [Telegram](https://t.me/commander_ton) [X](https://x.com/commanderton) |  | 2024-06-19 |  |
 

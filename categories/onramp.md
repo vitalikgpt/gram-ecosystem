@@ -26,11 +26,11 @@
 | 11 | Avanchange | Fast and secure crypto exchange since 2018. Buy, sell, or swap. | [Bot](https://t.me/avanchange_bot) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
 | 12 | AWX Crypto SHOP | Покупка и продажа крипто за фиат в офисах по всему Миру! | [Bot](https://t.me/awexcryptobot) |  |  |  |
 | 13 | Bitpapa |  | [X](https://x.com/bitpapa_io) [Site](https://bitpapa.com) |  |  |  |
-| 14 | GRAM в Рубли | 💎 Автоматический обмен GRAM в рубли с выводом на банковскую карту. 🔒 Без верификации /… | [Bot](https://t.me/gramtorub_bot) | mentioned by 6 TON channels in Q3 |  |  |
-| 15 | HoudiniSwap | HoudiniSwap bot will enable you to create exchanges directly within Telegram | [Bot](https://t.me/houdiniswap_bot) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
-| 16 | ONLY / P2P | Канал: @p2pru Комьюнити: @forum_by_only | [Bot](https://t.me/only_pays_bot) | mentioned by 3 TON channels in Q3 |  |  |
-| 17 | Onmeta |  | [Telegram](https://t.me/onmetatg) [X](https://x.com/onmetahq) [Site](https://onmeta.in/) [GitHub](https://github.com/onmetahq) |  | 2026-02-16 |  |
-| 18 | Onramp |  | [Site](https://onramp.money/main/buy/?appId=1&coinCode=ton) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 19 | Transack |  | [Telegram](https://t.me/transakfinance) [X](https://x.com/transak) [GitHub](https://github.com/Transak) |  | 2026-08-26 |  |
-| 20 | SimpleSwap |  | [Site](https://simpleswap.io/?utm_source=tonapp&utm_medium=portal&utm_campaign=exchange) |  | 2025-02-18 |  |
-| 21 | DW: Toncoin Buy&Sell | Buy & Sale TON Coin with great rate in few clicks. The part of the ecosystem. | [Telegram](https://t.me/TokenInfinity) [Bot](https://t.me/DW_tonbot) |  | 2025-01-13 |  |
+| 14 | DW: Toncoin Buy&Sell | Buy & Sale TON Coin with great rate in few clicks. The part of the ecosystem. | [Telegram](https://t.me/TokenInfinity) [Bot](https://t.me/DW_tonbot) |  |  |  |
+| 15 | GRAM в Рубли | 💎 Автоматический обмен GRAM в рубли с выводом на банковскую карту. 🔒 Без верификации /… | [Bot](https://t.me/gramtorub_bot) | mentioned by 6 TON channels in Q3 |  |  |
+| 16 | HoudiniSwap | HoudiniSwap bot will enable you to create exchanges directly within Telegram | [Bot](https://t.me/houdiniswap_bot) |  |  | [messari 26](../archive/2026-05-messari.jpg) |
+| 17 | ONLY / P2P | Канал: @p2pru Комьюнити: @forum_by_only | [Bot](https://t.me/only_pays_bot) | mentioned by 3 TON channels in Q3 |  |  |
+| 18 | Onmeta |  | [Telegram](https://t.me/onmetatg) [X](https://x.com/onmetahq) [Site](https://onmeta.in/) [GitHub](https://github.com/onmetahq) |  | 2026-02-16 |  |
+| 19 | Onramp |  | [Site](https://onramp.money/main/buy/?appId=1&coinCode=ton) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 20 | SimpleSwap |  | [Site](https://simpleswap.io/?utm_source=tonapp&utm_medium=portal&utm_campaign=exchange) |  |  |  |
+| 21 | Transack |  | [Telegram](https://t.me/transakfinance) [X](https://x.com/transak) [GitHub](https://github.com/Transak) |  | 2026-08-26 |  |

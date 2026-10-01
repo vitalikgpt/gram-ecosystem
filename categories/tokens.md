@@ -24,7 +24,7 @@
 | 14 | Capybobo (PYBOBO) | PYBOBO, Your Capy, Your Culture, Your Coin. | [Telegram](https://t.me/CapyboboNews) | mcap $23.6M, 12,277 holders | 2026-09-18 |  |
 | 15 | TONNEL Network (TONNEL) | TONNEL Network is a zero-knowledge privacy protocol on the TON blockchain | [Telegram](https://t.me/tonnel_en) [Site](https://Tonnel.network) | mcap $0K, 18,037 holders | 2026-10-01 |  |
 | 16 | Not Pixel (PX) | mexc.com/exchange/PX_USDT | [Telegram](https://t.me/notpixel_channel) | mcap $2.6M, 1,168,885 holders | 2026-09-29 |  |
-| 17 | GEMSTON (GEMSTON) |  |  | mcap $0K, 16,239 holders | 2026-10-01 |  |
+| 17 | GEMSTON (GEMSTON) |  |  | mcap $0K, 16,239 holders | 2026-09-30 |  |
 | 18 | GoMining (GOMINING) | GoMining — Mine Bitcoin. Use Bitcoin. All in one app. | [Telegram](https://t.me/gmt_token) | mcap $7.3M, 2,365 holders | 2026-09-30 |  |
 | 19 | TON Station (MRSOON) | Premium Game Distribution TG Platform by Sidus Heroes & SuperVerse. | [Telegram](https://t.me/tonstationgames) | mcap $93K, 100,744 holders | 2026-08-04 |  |
 | 20 | Hipo Staked GRAM (HGRAM) | Stake GRAM on TON with Hipo - liquid staking with top APY | [Telegram](https://t.me/HipoFinance) [Site](https://hipo.finance) | mcap $10.7M, 23,192 holders | 2026-09-21 |  |
@@ -65,39 +65,39 @@
 | 51 | Ethena tsUSDe (tsUSDe) |  |  | mcap $2.5M, 3,219 holders |  |  |
 | 52 | Ethena USDe (USDe) |  |  | mcap $185.7M, 5,080 holders |  |  |
 | 53 | Fish |  | [Telegram](https://t.me/tonfish_en) [X](https://x.com/tonfish_tg) |  |  |  |
-| 54 | Hot Cherry |  | [Telegram](https://t.me/hotcherry_ton) [X](https://x.com/hotcherry_ton) |  |  |  |
-| 55 | jUSDT (jUSDT) |  |  | mcap $466K, 20,659 holders |  |  |
-| 56 | Make TON Great Again (MTONGA) |  | [Telegram](https://t.me/mtonga_meme) | mcap $470K, 6,987 holders |  |  |
-| 57 | MOEW (MOEW) | Official $MOEW Community group 🐾 🐱 | [Telegram](https://t.me/moewcommunty) | mcap $1.5M, 1,207 holders |  |  |
-| 58 | NikolAI (NIKO) | The Meme, The Myth, The AI Machina. | [Telegram](https://t.me/NikolAIToncoinChat) [Site](https://nikolai.meme/) | mcap $575K, 7,521 holders |  |  |
-| 59 | Peng |  | [X](https://x.com/pengtoncoin) |  |  |  |
-| 60 | PinGo (PINGO) |  | [Telegram](https://t.me/PinGo_AI) [X](https://x.com/PinGoAI) | mcap $4.2M, 12,278 holders |  |  |
-| 61 | PirateCash (PIRATE) | PIRATECASH ($PIRATE) – cryptocurrency for privacy 🛡️and freedom 🏴‍☠️ | [Telegram](https://t.me/PirateCash_ENG) [Site](https://p.cash) | mcap $1.6M, 3,468 holders |  |  |
-| 62 | Shard.Zone | Lightweight inscription protocol based on TON and inspired by the Ordinals NFT on Bitcoin. | [Telegram](https://t.me/tonshardzone) [X](https://x.com/ShardMarket) |  |  |  |
-| 63 | sTONks (STONKS) | The First Trading Bot on TON | [Telegram](https://t.me/stonksonton) | mcap $193K, 1,892 holders |  |  |
-| 64 | The Resistance Girl |  | [Telegram](https://t.me/resistancegirl) [X](https://x.com/regitoncoin) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 65 | TOGE |  | [Telegram](https://t.me/togeofficial) [X](https://x.com/TOGE_TON) |  |  |  |
-| 66 | Ton Inu (TINU) |  | [Telegram](https://t.me/toninutools) | mcap $86K, 7,127 holders |  |  |
-| 67 | Tonio (TONIO) |  | [Telegram](https://t.me/toniomeme) | mcap $39K, 2,477 holders |  |  |
-| 68 | Tonk | $TONK An entire ecosystem for traders on $TON and the first multichain influencer… | [Telegram](https://t.me/tonkinu_official) [X](https://x.com/tonkinubot) |  |  | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) |
-| 69 | Tony The Duck | The Quackiest Duck on TON 🦆 | [Telegram](https://t.me/tonytheduck) [X](https://x.com/theducktony) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 70 | Tower (TOWER) | Powered by $TOWER, experience pioneering blockchain game features and earn rewards from… | [Telegram](https://t.me/TowerToken) | mcap $938K, 1,305 holders |  |  |
-| 72 | GOVNO (GOVNO) |  | [Telegram](https://t.me/cryptover1eng) | mcap $135K, 4,405 holders | 2026-07-12 |  |
-| 73 | EvoSimGame (ESIM) | EvoLife — switch on your new lifestyle and earn with every MB. | [Telegram](https://t.me/evolife_channel) [X](https://x.com/evo_evolife) | mcap $1K, 2,350 holders | 2026-06-22 |  |
-| 74 | DeDust (DUST) |  | [Telegram](https://t.me/dedust_en) | mcap $0K, 24,790 holders | 2026-06-15 |  |
-| 75 | TON Raffles (RAFF) |  | [Telegram](https://t.me/tonraffles_en) [Site](https://tonraffles.app) | mcap $0K, 142,933 holders | 2026-05-26 |  |
-| 76 | Bombie (BOMB) | Survive the Apocalypse, Airdrop is Key! | [Telegram](https://t.me/BombieNews) | mcap $112K, 57,868 holders | 2026-05-20 |  |
-| 77 | Vertus (VERT) | Official channel of Vertus | [Telegram](https://t.me/the_vertus) [X](https://x.com/the_vertus) | mcap $487K, 143,178 holders | 2026-05-13 |  |
-| 78 | Gentleman (MAN) |  | [Telegram](https://t.me/gentlemanton) | mcap $87K, 1,759 holders | 2026-05-10 |  |
-| 79 | Huebel Bolt |  | [Telegram](https://t.me/boltfoundation) [X](https://x.com/boltlabston) |  | 2026-05-06 |  |
-| 80 | DIAMOND HANDS (DIAMOND) |  | [Telegram](https://t.me/DiamondHandsonTON) | mcap $208K, 1,344 holders | 2026-05-05 |  |
-| 81 | Grm (GRM) |  | [Telegram](https://t.me/gramcoinorg) | mcap $1.7M, 90,868 holders | 2026-05-04 |  |
-| 82 | Spintria (SP) | Spintria (SP) is a token on the TON network created for anonymous and quick access to… | [Telegram](https://t.me/spintr) | mcap $207K, 3,300 holders | 2026-04-28 |  |
-| 83 | CATS (CATS) | Only $CATS the meowest Telegram native token. Join meow | [Telegram](https://t.me/Cats_housewtf) | mcap $112K, 205,090 holders | 2026-04-27 |  |
-| 84 | PunkCity (PUNK) | The first NFT on the TON Blockchain. | [Telegram](https://t.me/TONPunksENG) [X](https://x.com/TonPunks) | mcap $273K, 57,793 holders | 2026-04-23 |  |
-| 85 | OwnershipCoin (OC) | The Community-run Chill Gallery on TON. We are the Gallery that doesn't take itself too… | [Telegram](https://t.me/ownershipcoin) | mcap $0K, 14,794 holders | 2026-04-16 |  |
-| 86 | Amocucinare (AMORE) |  | [Telegram](https://t.me/amoreAIcrypto) [Site](https://amorecoin.love/) | mcap $488K, 5,212 holders | 2026-03-01 |  |
-| 87 | WOOF (WOOF) |  |  | mcap $0K, 108,932 holders | 2026-02-21 |  |
+| 54 | GOVNO (GOVNO) |  | [Telegram](https://t.me/cryptover1eng) | mcap $135K, 4,405 holders |  |  |
+| 55 | Grm (GRM) |  | [Telegram](https://t.me/gramcoinorg) | mcap $1.7M, 90,868 holders |  |  |
+| 56 | Hot Cherry |  | [Telegram](https://t.me/hotcherry_ton) [X](https://x.com/hotcherry_ton) |  |  |  |
+| 57 | jUSDT (jUSDT) |  |  | mcap $466K, 20,659 holders |  |  |
+| 58 | Make TON Great Again (MTONGA) |  | [Telegram](https://t.me/mtonga_meme) | mcap $470K, 6,987 holders |  |  |
+| 59 | MOEW (MOEW) | Official $MOEW Community group 🐾 🐱 | [Telegram](https://t.me/moewcommunty) | mcap $1.5M, 1,207 holders |  |  |
+| 60 | NikolAI (NIKO) | The Meme, The Myth, The AI Machina. | [Telegram](https://t.me/NikolAIToncoinChat) [Site](https://nikolai.meme/) | mcap $575K, 7,521 holders |  |  |
+| 61 | Peng |  | [X](https://x.com/pengtoncoin) |  |  |  |
+| 62 | PinGo (PINGO) |  | [Telegram](https://t.me/PinGo_AI) [X](https://x.com/PinGoAI) | mcap $4.2M, 12,278 holders |  |  |
+| 63 | PirateCash (PIRATE) | PIRATECASH ($PIRATE) – cryptocurrency for privacy 🛡️and freedom 🏴‍☠️ | [Telegram](https://t.me/PirateCash_ENG) [Site](https://p.cash) | mcap $1.6M, 3,468 holders |  |  |
+| 64 | Shard.Zone | Lightweight inscription protocol based on TON and inspired by the Ordinals NFT on Bitcoin. | [Telegram](https://t.me/tonshardzone) [X](https://x.com/ShardMarket) |  |  |  |
+| 65 | sTONks (STONKS) | The First Trading Bot on TON | [Telegram](https://t.me/stonksonton) | mcap $193K, 1,892 holders |  |  |
+| 66 | The Resistance Girl |  | [Telegram](https://t.me/resistancegirl) [X](https://x.com/regitoncoin) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 67 | TOGE |  | [Telegram](https://t.me/togeofficial) [X](https://x.com/TOGE_TON) |  |  |  |
+| 68 | Ton Inu (TINU) |  | [Telegram](https://t.me/toninutools) | mcap $86K, 7,127 holders |  |  |
+| 69 | Tonio (TONIO) |  | [Telegram](https://t.me/toniomeme) | mcap $39K, 2,477 holders |  |  |
+| 70 | Tonk | $TONK An entire ecosystem for traders on $TON and the first multichain influencer… | [Telegram](https://t.me/tonkinu_official) [X](https://x.com/tonkinubot) |  |  | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) |
+| 71 | Tony The Duck | The Quackiest Duck on TON 🦆 | [Telegram](https://t.me/tonytheduck) [X](https://x.com/theducktony) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 72 | Tower (TOWER) | Powered by $TOWER, experience pioneering blockchain game features and earn rewards from… | [Telegram](https://t.me/TowerToken) | mcap $938K, 1,305 holders |  |  |
+| 73 | WOOF (WOOF) |  |  | mcap $0K, 108,932 holders |  |  |
+| 75 | EvoSimGame (ESIM) | EvoLife — switch on your new lifestyle and earn with every MB. | [Telegram](https://t.me/evolife_channel) [X](https://x.com/evo_evolife) | mcap $1K, 2,350 holders | 2026-06-22 |  |
+| 76 | DeDust (DUST) |  | [Telegram](https://t.me/dedust_en) | mcap $0K, 24,790 holders | 2026-06-15 |  |
+| 77 | TON Raffles (RAFF) |  | [Telegram](https://t.me/tonraffles_en) [Site](https://tonraffles.app) | mcap $0K, 142,933 holders | 2026-05-26 |  |
+| 78 | Bombie (BOMB) | Survive the Apocalypse, Airdrop is Key! | [Telegram](https://t.me/BombieNews) | mcap $112K, 57,868 holders | 2026-05-20 |  |
+| 79 | Vertus (VERT) | Official channel of Vertus | [Telegram](https://t.me/the_vertus) [X](https://x.com/the_vertus) | mcap $487K, 143,178 holders | 2026-05-13 |  |
+| 80 | Gentleman (MAN) |  | [Telegram](https://t.me/gentlemanton) | mcap $87K, 1,759 holders | 2026-05-10 |  |
+| 81 | Huebel Bolt |  | [Telegram](https://t.me/boltfoundation) [X](https://x.com/boltlabston) |  | 2026-05-06 |  |
+| 82 | DIAMOND HANDS (DIAMOND) |  | [Telegram](https://t.me/DiamondHandsonTON) | mcap $208K, 1,344 holders | 2026-05-05 |  |
+| 83 | Spintria (SP) | Spintria (SP) is a token on the TON network created for anonymous and quick access to… | [Telegram](https://t.me/spintr) | mcap $207K, 3,300 holders | 2026-04-28 |  |
+| 84 | CATS (CATS) | Only $CATS the meowest Telegram native token. Join meow | [Telegram](https://t.me/Cats_housewtf) | mcap $112K, 205,090 holders | 2026-04-27 |  |
+| 85 | PunkCity (PUNK) | The first NFT on the TON Blockchain. | [Telegram](https://t.me/TONPunksENG) [X](https://x.com/TonPunks) | mcap $273K, 57,793 holders | 2026-04-23 |  |
+| 86 | OwnershipCoin (OC) | The Community-run Chill Gallery on TON. We are the Gallery that doesn't take itself too… | [Telegram](https://t.me/ownershipcoin) | mcap $0K, 14,794 holders | 2026-04-16 |  |
+| 87 | Amocucinare (AMORE) |  | [Telegram](https://t.me/amoreAIcrypto) [Site](https://amorecoin.love/) | mcap $488K, 5,212 holders | 2026-03-01 |  |
 | 88 | GOATS (GOATS) |  | [Telegram](https://t.me/realgoats_channel) [X](https://x.com/GOATS_immortal) | mcap $347K, 120,815 holders | 2026-02-10 |  |
 | 89 | TON Cats Jetton |  | [Telegram](https://t.me/toncats_tg) [X](https://x.com/toncats_tg) |  | 2026-02-01 |  |
 | 90 | Hamster Kombat (HMSTR) |  | [Telegram](https://t.me/hamster_kombat) | mcap $11.0M, 1,344,213 holders | 2026-01-20 |  |
@@ -131,4 +131,4 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 46 | bemo Staked TON (STTON) |  |  | mcap $2.1M, 16,210 holders |  |  |
-| 71 | X Empire (X) |  |  | mcap $0K, 555,528 holders |  |  |
+| 74 | X Empire (X) |  |  | mcap $0K, 555,528 holders |  |  |

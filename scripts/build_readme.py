@@ -224,7 +224,7 @@ def build():
         "",
         "- [data/projects.csv](data/projects.csv): one row per project. Columns: `category`, `rank`, `name`, `slug`, "
         "`status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `github`, `last_post`, "
-        "`last_commit`, `reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.",
+        "`last_commit`, `launched`, `subscribers`, `reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.",
         "- [data/categories.json](data/categories.json): categories in display order.",
         "- [data/channels.csv](data/channels.csv): channels about TON with quarterly posts and views.",
         "- [data/unresolved.csv](data/unresolved.csv): names seen on ecosystem maps that are not tied to a project yet.",

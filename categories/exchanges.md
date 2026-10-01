@@ -60,29 +60,29 @@
 | ---: | --- | --- | --- | --- | --- | --- |
 | 46 | HunteX | Support Officer 💛🖤 / I NEVER DM 1ST! / Leverage the Power of 1000x / Visit for More… | [Telegram](https://t.me/Rezzky_HunteX) [Bot](https://t.me/HuntexBot) [X](https://x.com/huntex_bot) [Site](https://huntex.io/) |  |  |  |
 | 47 | Nominex Exchange App | Nominex - crypto exchange with an internal token NMX distributed via YieldFarming | [Telegram](https://t.me/NominexExchange) [Bot](https://t.me/nominex_exchange_bot) [X](https://x.com/NominexExchange) [Site](https://nominex.io) |  |  |  |
-| 48 | Arkham Exchange | Arkham is a centralized cryptocurrency exchange offering both Spot & Perps and is… | [X](https://x.com/ArkhamIntel) [Site](https://arkm.com/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 49 | Azbit |  | [Bot](https://t.me/TON_NFT_Market_HYBRA_bot) [Site](https://azbit.com) |  |  |  |
-| 50 | Biconomy.com |  | [Telegram](https://t.me/Biconomycom) [X](https://x.com/BiconomyCom) [Site](https://www.biconomy.com/en) |  |  |  |
-| 51 | BitcoinVN |  | [X](https://x.com/bitcoinvn_io) [Site](https://bitcoinvn.io) |  |  |  |
-| 52 | Bitkub | No.1 licensed bitcoin exchange in Thailand that offers services to individuals who… | [X](https://x.com/BitkubOfficial) [Site](https://www.bitkub.com/) |  |  |  |
-| 53 | BYDFi |  | [Site](https://www.bydfi.com/) |  |  |  |
-| 54 | CoinEx |  | [Site](https://www.coinex.com/) |  |  |  |
-| 55 | DigiFinex |  | [Site](https://www.digifinex.com) |  |  |  |
-| 56 | Dualcoin |  | [Site](https://dualcoin.io/en) |  |  |  |
-| 57 | EXMO | Официальный Telegram канал криптовалютной платформы EXMO.me | [Telegram](https://t.me/exmome_official) [Bot](https://t.me/GrinderyAIBot) [Site](https://exmo.me/trade/ton_usdt) [GitHub](https://github.com/grindery-io) |  | 2025-11-27 |  |
-| 58 | Flipster | Flipster has a wide selection of over 300 perpetual futures listings, including Bitcoin… | [X](https://x.com/flipster_io) [Site](https://flipster.io) |  |  |  |
-| 59 | Matrixport |  | [Site](https://www.matrixport.com/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 60 | OSL Exchange | OSL Digital Securities is Hong Kong’s first and most established SFC-licensed and… | [X](https://x.com/OSL_HK) [Site](https://www.osl.com/en) |  |  |  |
-| 61 | Websea | Websea provides a comprehensive suite of trading and financial products, including Spot… | [X](https://x.com/webseaofficial) [Site](https://www.websea.com/) |  |  |  |
-| 62 | BIT |  | [X](https://x.com/BITofficial_EN) [Site](https://www.bit.com) |  | 2026-09-28 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 63 | Cryptobotex |  |  |  | 2026-09-21 |  |
-| 64 | Excoino |  | [Telegram](https://t.me/excoino) [Bot](https://t.me/tonbuytechbot) [X](https://x.com/excoino) [Site](https://excoino.com) |  | 2026-06-03 |  |
-| 65 | NovaDax |  | [Telegram](https://t.me/livehub_to) [X](https://x.com/livehub_to) [Site](https://www.novadax.com.br/product/orderbook?pair=TON_BRL) |  | 2025-05-04 |  |
-| 66 | 90Rich |  | [Telegram](https://t.me/Channel_90Rich) |  | 2025-04-10 |  |
+| 48 | 90Rich |  | [Telegram](https://t.me/Channel_90Rich) |  |  |  |
+| 49 | Arkham Exchange | Arkham is a centralized cryptocurrency exchange offering both Spot & Perps and is… | [X](https://x.com/ArkhamIntel) [Site](https://arkm.com/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 50 | Azbit |  | [Bot](https://t.me/TON_NFT_Market_HYBRA_bot) [Site](https://azbit.com) |  |  |  |
+| 51 | Biconomy.com |  | [Telegram](https://t.me/Biconomycom) [X](https://x.com/BiconomyCom) [Site](https://www.biconomy.com/en) |  |  |  |
+| 52 | BIT |  | [X](https://x.com/BITofficial_EN) [Site](https://www.bit.com) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 53 | BitcoinVN |  | [X](https://x.com/bitcoinvn_io) [Site](https://bitcoinvn.io) |  |  |  |
+| 54 | Bitkub | No.1 licensed bitcoin exchange in Thailand that offers services to individuals who… | [X](https://x.com/BitkubOfficial) [Site](https://www.bitkub.com/) |  |  |  |
+| 55 | BYDFi |  | [Site](https://www.bydfi.com/) |  |  |  |
+| 56 | CoinEx |  | [Site](https://www.coinex.com/) |  |  |  |
+| 57 | Cryptobotex |  |  |  |  |  |
+| 58 | DigiFinex |  | [Site](https://www.digifinex.com) |  |  |  |
+| 59 | Dualcoin |  | [Site](https://dualcoin.io/en) |  |  |  |
+| 60 | EXMO | Официальный Telegram канал криптовалютной платформы EXMO.me | [Telegram](https://t.me/exmome_official) [Bot](https://t.me/GrinderyAIBot) [Site](https://exmo.me/trade/ton_usdt) [GitHub](https://github.com/grindery-io) |  | 2025-11-27 |  |
+| 61 | Flipster | Flipster has a wide selection of over 300 perpetual futures listings, including Bitcoin… | [X](https://x.com/flipster_io) [Site](https://flipster.io) |  |  |  |
+| 63 | Matrixport |  | [Site](https://www.matrixport.com/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 64 | NovaDax |  | [Telegram](https://t.me/livehub_to) [X](https://x.com/livehub_to) [Site](https://www.novadax.com.br/product/orderbook?pair=TON_BRL) |  |  |  |
+| 65 | OSL Exchange | OSL Digital Securities is Hong Kong’s first and most established SFC-licensed and… | [X](https://x.com/OSL_HK) [Site](https://www.osl.com/en) |  |  |  |
+| 66 | Websea | Websea provides a comprehensive suite of trading and financial products, including Spot… | [X](https://x.com/webseaofficial) [Site](https://www.websea.com/) |  |  |  |
+| 67 | Excoino |  | [Telegram](https://t.me/excoino) [Bot](https://t.me/tonbuytechbot) [X](https://x.com/excoino) [Site](https://excoino.com) |  | 2026-06-03 |  |
 
 ## Closed
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 67 | LBank Exchange |  |  |  | 2024-10-19 |  |
+| 62 | LBank Exchange |  |  |  |  |  |
 | 68 | Neocrypto |  | [Site](https://neocrypto.net) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |

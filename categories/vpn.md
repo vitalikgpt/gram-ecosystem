@@ -27,22 +27,22 @@
 | 12 | Acton VPN | Быстрый и надёжный VPN. | [Bot](https://t.me/actonvpn_bot) | mentioned by 6 TON channels in Q3 |  |  |
 | 13 | ConnectMeGuru eSIM | Instant travel eSIMs for 190+ countries. Buy, install & manage data plans directly in… | [Bot](https://t.me/esim_connectmeguru_bot) [X](https://x.com/connectmeguru) [Site](https://www.connectmeguru.com) |  |  |  |
 | 14 | DARK VPN | Телеграм - @D_K_VPN Вебсайт - cabinet.dark-vpn.com Вконтакте - vk.ru/darkvpn_official… | [Bot](https://t.me/darklightvpn_bot) | mentioned by 4 TON channels in Q3 |  |  |
-| 15 | Gimme VPN |  | [Bot](https://t.me/gimmelifevpn_bot) | mentioned by 5 TON channels in Q3 |  |  |
-| 16 | hitvpnbot | Быстрый и безопасный VPN сервис | [Bot](https://t.me/hitvpnbot) |  |  |  |
-| 17 | Kent VPN | Шифрование трафика, анонимность поисков и обход белых списков. Работает даже в бункере.… | [Bot](https://t.me/vpn_kentbot) | mentioned by 3 TON channels in Q3 |  |  |
-| 18 | mgs backstage | Дискорд - https://discord.gg/qCXgwjVTv ———— 💻 Лучший VPN - в разработке 🏃‍♂️ Хаб для… | [Telegram](https://t.me/mgsbackstage) [Bot](https://t.me/lumenx_robot) | mentioned by 3 TON channels in Q3 |  |  |
-| 19 | Molly VPN | 🦒MOLLY - скоростной анонимный VPN 📱Канал - @mollyVpn_community | [Bot](https://t.me/mollyvpnbot_bot) | mentioned by 4 TON channels in Q3 |  |  |
-| 20 | NETZ.RUN VPN | Fast and reliable VPN service in Telegram | [Bot](https://t.me/netzrun_bot) |  |  |  |
-| 21 | Plume Proxy | Fast & Affordable Rotating Proxy Servers | [Bot](https://t.me/plumeproxy_bot) |  |  |  |
-| 22 | PlusOne VPN |  | [Bot](https://t.me/plusonevpn_bot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 23 | Tony VPN |  | [Bot](https://t.me/tony_vpn_bot) |  |  |  |
-| 24 | VPN4TON |  | [Bot](https://t.me/vpn4ton_bot) |  |  |  |
-| 25 | Gram VPN | A VPN inside Telegram — the @GramVBot bot opens blocked websites through a… | [Telegram](https://t.me/GramVPN) [Bot](https://t.me/GramVBot) |  | 2026-06-24 |  |
-| 26 | zonerift VPN | Buy Premium VPN with Telegram Stars and TON | [Telegram](https://t.me/TildaApp) [Bot](https://t.me/zoneriftvpn_bot) [X](https://x.com/zoneriftvpn) |  | 2025-09-27 |  |
+| 16 | Gimme VPN |  | [Bot](https://t.me/gimmelifevpn_bot) | mentioned by 5 TON channels in Q3 |  |  |
+| 17 | hitvpnbot | Быстрый и безопасный VPN сервис | [Bot](https://t.me/hitvpnbot) |  |  |  |
+| 18 | Kent VPN | Шифрование трафика, анонимность поисков и обход белых списков. Работает даже в бункере.… | [Bot](https://t.me/vpn_kentbot) | mentioned by 3 TON channels in Q3 |  |  |
+| 19 | mgs backstage | Дискорд - https://discord.gg/qCXgwjVTv ———— 💻 Лучший VPN - в разработке 🏃‍♂️ Хаб для… | [Telegram](https://t.me/mgsbackstage) [Bot](https://t.me/lumenx_robot) | mentioned by 3 TON channels in Q3 |  |  |
+| 20 | Molly VPN | 🦒MOLLY - скоростной анонимный VPN 📱Канал - @mollyVpn_community | [Bot](https://t.me/mollyvpnbot_bot) | mentioned by 4 TON channels in Q3 |  |  |
+| 21 | NETZ.RUN VPN | Fast and reliable VPN service in Telegram | [Bot](https://t.me/netzrun_bot) |  |  |  |
+| 22 | Plume Proxy | Fast & Affordable Rotating Proxy Servers | [Bot](https://t.me/plumeproxy_bot) |  |  |  |
+| 23 | PlusOne VPN |  | [Bot](https://t.me/plusonevpn_bot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
+| 24 | Tony VPN |  | [Bot](https://t.me/tony_vpn_bot) |  |  |  |
+| 25 | VPN4TON |  | [Bot](https://t.me/vpn4ton_bot) |  |  |  |
+| 26 | zonerift VPN | Buy Premium VPN with Telegram Stars and TON | [Telegram](https://t.me/TildaApp) [Bot](https://t.me/zoneriftvpn_bot) [X](https://x.com/zoneriftvpn) |  |  |  |
+| 27 | Gram VPN | A VPN inside Telegram — the @GramVBot bot opens blocked websites through a… | [Telegram](https://t.me/GramVPN) [Bot](https://t.me/GramVBot) |  | 2026-06-24 |  |
 | 28 | telegramconnect | Earn crypto and get access to 15M WiFi passwords with ! | [Telegram](https://t.me/townwifi) [Bot](https://t.me/townwifibot) |  | 2024-06-21 |  |
 
 ## Closed
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 27 | fedafone |  |  |  | 2025-04-10 |  |
+| 15 | fedafone |  |  |  |  |  |

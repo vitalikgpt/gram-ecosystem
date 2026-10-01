@@ -28,10 +28,10 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 15 | PAKETKA |  | [Bot](https://t.me/paketka2_bot) [Site](https://swap.coffee/dex?referral=user_UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW) |  |  |  |
-| 16 | Shieldeum Node Rewards |  | [Bot](https://t.me/shieldeumbot) [X](https://x.com/Shieldeum) [Site](https://shieldeum.net) |  | 2025-07-27 |  |
+| 16 | Shieldeum Node Rewards |  | [Bot](https://t.me/shieldeumbot) [X](https://x.com/Shieldeum) [Site](https://shieldeum.net) |  |  |  |
 | 17 | tbook | The first embedded RWA liquidity layer that brings institutional-grade tokenized yield… | [Bot](https://t.me/tbook_incentive_bot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 18 | Bemo liquid staking | Bemo — a liquid staking platform on the TON blockchain | [Telegram](https://t.me/bemofinance) [Bot](https://t.me/bemo_finance_bot) [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) |  | 2026-06-12 |  |
-| 19 | TonFarm |  | [Telegram](https://t.me/TonGame_app) [Bot](https://t.me/tongame_farms_bot) [X](https://x.com/tongameapp) [Site](https://farm.tongame.app/) |  | 2026-09-28 |  |
+| 19 | TonFarm |  | [Telegram](https://t.me/TonGame_app) [Bot](https://t.me/tongame_farms_bot) [X](https://x.com/tongameapp) [Site](https://farm.tongame.app/) |  |  |  |
 | 20 | SynQuest | SynQuest is a Telegram mini app offering a stake-play-earn! | [Bot](https://t.me/synquestbot) |  |  |  |
 | 21 | BounceTon Restaking | No lock, no staking. Move to Faucet Wallet — earn 4.08% yearly paid daily, enjoy free… | [Bot](https://t.me/bounceton_bot) [X](https://x.com/BouncTon) |  |  |  |
 | 22 | Buzz | Welcome to Buzz! We're the busy bees of Web3, here to sweeten your day with fortunes.… | [Bot](https://t.me/buzz_mine_bot) [X](https://x.com/BuzzWeb3_) |  |  |  |
@@ -45,9 +45,9 @@
 | 31 | TON Whales |  | [Telegram](https://t.me/whalessupportbot) [X](https://x.com/whalescorp) [GitHub](https://github.com/tonwhales) |  | 2026-08-13 | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) |
 | 32 | TonStake.com |  | [X](https://x.com/tonstakecom) [Site](https://tonstake.com/) [GitHub](https://github.com/awesome-doge) |  | 2026-10-01 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 33 | Tonyielding |  | [X](https://x.com/Tonyielding) [GitHub](https://github.com/marakitio) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 34 | Whales Staking | Ton Whales Staking pool chat for communicating in any language. | [Telegram](https://t.me/stakeonwhales) [X](https://x.com/whalescorp) [Site](https://tonwhales.com/staking) [GitHub](https://github.com/tonwhales) |  | 2026-08-13 |  |
-| 35 | YieldFort Protocol |  | [Bot](https://t.me/ton_yieldfortbot) [X](https://x.com/yieldfort) |  |  |  |
-| 36 | UTN Staking |  | [Telegram](https://t.me/uniton_token) [Site](https://app.unitontoken.com) |  | 2026-08-05 |  |
+| 34 | UTN Staking |  | [Telegram](https://t.me/uniton_token) [Site](https://app.unitontoken.com) |  |  |  |
+| 35 | Whales Staking | Ton Whales Staking pool chat for communicating in any language. | [Telegram](https://t.me/stakeonwhales) [X](https://x.com/whalescorp) [Site](https://tonwhales.com/staking) [GitHub](https://github.com/tonwhales) |  | 2026-08-13 |  |
+| 36 | YieldFort Protocol |  | [Bot](https://t.me/ton_yieldfortbot) [X](https://x.com/yieldfort) |  |  |  |
 | 37 | XBANKING |  | [Telegram](https://t.me/xbanking) [X](https://x.com/xbankingapp) [Site](https://xbanking.org) [GitHub](https://github.com/SecondLive) |  | 2025-07-17 |  |
 | 38 | Tonverse |  | [Telegram](https://t.me/GoTonverse) [Bot](https://t.me/gohotbanana_bot) [X](https://x.com/verse_ton) |  | 2024-09-10 |  |
 

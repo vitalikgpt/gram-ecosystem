@@ -12,17 +12,17 @@
 | 2 | Durev Bot |  | [Telegram](https://t.me/poveldurev) [Bot](https://t.me/durevrobot) [X](https://x.com/poveldurev) [Site](https://dedust.io/swap/TON/DUREV) | 16K views | 2026-08-14 |  |
 | 3 | FolioTrade | Automated crypto trading bot | [Telegram](https://t.me/foliostack) [Bot](https://t.me/FolioTradeBot) [Site](https://trade.foliostack.net) | 57 views | 2026-08-15 |  |
 | 4 | Chainbase Network |  | [X](https://x.com/ChainbaseHQ) [Site](https://chainbase.com) [GitHub](https://github.com/chainbase-labs) | commit 2026-09-16 | 2026-09-16 |  |
-| 5 | Minter |  | [Site](https://minter.ton.org) |  |  |  |
-| 6 | nessshon/tonutils | High-level SDK and toolkit. | [GitHub](https://github.com/nessshon/tonutils) | commit 2026-09-02 | 2026-09-02 |  |
-| 7 | Orbs |  | [X](https://x.com/orbs_network) [Site](https://www.orbs.com) [GitHub](https://github.com/orbs-network) | commit 2026-10-01 | 2026-10-01 | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 8 | Softstack |  | [X](https://x.com/softstackHQ) [Site](https://softstack.io) [GitHub](https://github.com/softstack) | commit 2026-09-29 | 2026-09-29 |  |
-| 9 | tact.vim | Vim 8+ plugin. | [GitHub](https://github.com/tact-lang/tact.vim) | commit 2026-07-08 | 2026-07-08 |  |
-| 10 | TON Testnet Faucet |  | [Site](https://ton.run/#/faucet) [GitHub](https://github.com/awesome-doge) | commit 2026-10-01 | 2026-10-01 |  |
-| 11 | tonlib-rs | Rust SDK for TON. | [GitHub](https://github.com/ston-fi/tonlib-rs) | commit 2026-08-12 | 2026-08-12 |  |
-| 12 | tonutils/tonconnect | Python SDK for TON Connect. | [GitHub](https://github.com/nessshon/tonutils) | commit 2026-09-02 | 2026-09-02 |  |
-| 13 | xssnick/tonutils-go | Comprehensive Go SDK. | [GitHub](https://github.com/xssnick/tonutils-go) | commit 2026-10-01 | 2026-10-01 |  |
-| 14 | yungwine/pytoniq | SDK with LiteClient and TLB. | [GitHub](https://github.com/yungwine/pytoniq) | commit 2026-10-01 | 2026-10-01 |  |
-| 15 | IntelliJ Idea plugin |  | [Telegram](https://t.me/actiqapp) [X](https://x.com/actiqapp) [Site](https://plugins.jetbrains.com/plugin/23382-ton) [GitHub](https://github.com/actiquest-dev) | commit 2026-08-27 | 2026-08-27 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 5 | IntelliJ Idea plugin |  | [Telegram](https://t.me/actiqapp) [X](https://x.com/actiqapp) [Site](https://plugins.jetbrains.com/plugin/23382-ton) [GitHub](https://github.com/actiquest-dev) | commit 2026-08-27 | 2026-08-27 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 6 | Minter |  | [Site](https://minter.ton.org) |  |  |  |
+| 7 | nessshon/tonutils | High-level SDK and toolkit. | [GitHub](https://github.com/nessshon/tonutils) | commit 2026-09-02 | 2026-09-02 |  |
+| 8 | Orbs |  | [X](https://x.com/orbs_network) [Site](https://www.orbs.com) [GitHub](https://github.com/orbs-network) | commit 2026-10-01 | 2026-10-01 | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton 25](../archive/2025-07-ton.jpg) |
+| 9 | Softstack |  | [X](https://x.com/softstackHQ) [Site](https://softstack.io) [GitHub](https://github.com/softstack) | commit 2026-09-29 | 2026-09-29 |  |
+| 10 | tact.vim | Vim 8+ plugin. | [GitHub](https://github.com/tact-lang/tact.vim) | commit 2026-07-08 | 2026-07-08 |  |
+| 11 | TON Testnet Faucet |  | [Site](https://ton.run/#/faucet) [GitHub](https://github.com/awesome-doge) | commit 2026-10-01 | 2026-10-01 |  |
+| 12 | tonlib-rs | Rust SDK for TON. | [GitHub](https://github.com/ston-fi/tonlib-rs) | commit 2026-08-12 | 2026-08-12 |  |
+| 13 | tonutils/tonconnect | Python SDK for TON Connect. | [GitHub](https://github.com/nessshon/tonutils) | commit 2026-09-02 | 2026-09-02 |  |
+| 14 | xssnick/tonutils-go | Comprehensive Go SDK. | [GitHub](https://github.com/xssnick/tonutils-go) | commit 2026-10-01 | 2026-10-01 |  |
+| 15 | yungwine/pytoniq | SDK with LiteClient and TLB. | [GitHub](https://github.com/yungwine/pytoniq) | commit 2026-10-01 | 2026-10-01 |  |
 
 ## Quiet
 
@@ -49,62 +49,62 @@
 | 34 | darttonconnect | Dart SDK for mobile apps. | [GitHub](https://github.com/romanovichim/dartTonconnect) |  | 2023-11-14 |  |
 | 35 | DeLab |  | [Bot](https://t.me/delabbot) [X](https://x.com/delabteam) [GitHub](https://github.com/delab-team) |  | 2025-12-09 | [ton 25](../archive/2025-07-ton.jpg) |
 | 36 | delab-team/connect | Multi-protocol SDK with unified interface. | [GitHub](https://github.com/delab-team/connect) |  | 2023-06-13 |  |
-| 37 | Directual no-code | Your smart Telegram assistant for Directual — get key updates and manage your account… | [Bot](https://t.me/Directual_bot) [X](https://x.com/directual) [Site](https://readme.directual.com/plugins/using-plugins/blockchain-web3/ton-the-open-network) |  |  |  |
-| 38 | foton | Comprehensive toolkit for TON dApps. | [GitHub](https://github.com/VanishMax/foton) |  | 2025-08-24 |  |
-| 39 | go/tonconnect | GO SDK for TON Connect. | [GitHub](https://github.com/cameo-engineering/tonconnect) |  | 2024-07-16 |  |
-| 40 | IntelliJ IDEs Plugin | TON development for JetBrains IDEs. | [Site](https://plugins.jetbrains.com/plugin/23382-ton) |  |  |  |
-| 41 | Language Server (LSP Server) | Supports Sublime Text, (Neo)Vim, Helix, and other editors with LSP support. | [GitHub](https://github.com/tact-lang/tact-language-server) |  | 2026-06-26 |  |
-| 42 | LFG AI Market | Первый и единственный маркет ИИ-решений на TON. | [Telegram](https://t.me/lfg_ai_bot) [Bot](https://t.me/ruhunt) [Site](https://lfg-ton-marketplace.vercel.app) |  |  |  |
-| 43 | Misti Static Analyzer |  | [Telegram](https://t.me/tonsec_chat) [GitHub](https://github.com/nowarp/misti) |  | 2026-02-25 |  |
-| 44 | Multisender | Multisender sends tokens and NFTs to multiple recipients in just three clicks | [Telegram](https://t.me/MultiSender) [Bot](https://t.me/MultisenderTONBot) [X](https://x.com/multi_sender) [Site](https://multisender.app/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 45 | Nimbus API |  | [Site](https://getnimbus.io) |  |  |  |
-| 47 | orbs-network/ton-access | Decentralized RPC access. | [GitHub](https://github.com/orbs-network/ton-access) |  | 2023-09-05 |  |
-| 48 | Port3 |  | [Site](https://twitter.com/Port3Network) |  |  |  |
-| 49 | pytonconnect | Alternative Python SDK. | [Site](https://pypi.org/project/pytonconnect/) |  |  |  |
-| 50 | SpyTON BuyBot |  | [Bot](https://t.me/Tonspybuybot) [X](https://x.com/hubspyton) |  |  |  |
-| 51 | sTONks  / Buy Bot | sTONks / Buy Bot — multichain trading bot | [Telegram](https://t.me/sTONksTrendingBot) [Bot](https://t.me/stonks_sniper_bot) [X](https://x.com/tonstonks) [Site](https://stonksbots.com/) |  |  |  |
-| 52 | Sublime Text Plugin | FunC support for Sublime. | [GitHub](https://github.com/savva425/func_plugin_sublimetext3) |  | 2023-01-26 |  |
-| 54 | Testnet Faucet |  |  |  |  |  |
-| 55 | titon.network | Shared security stack for TON | [Telegram](https://t.me/titonnet) [X](https://x.com/titonnet) [Site](https://titon.network) |  |  |  |
-| 56 | TMA Dev |  | [Telegram](https://t.me/twa_dev) [GitHub](https://github.com/twa-dev) |  | 2025-02-05 |  |
-| 57 | TON & TG Dev Tools |  | [Site](https://mehrdadjeyrani.ir) [GitHub](https://github.com/MGamerica) |  | 2026-06-01 |  |
-| 58 | TON Bulksender |  | [Telegram](https://t.me/bulksender) [X](https://x.com/TokenBulksender) [Site](https://ton.bulksender.app) |  |  |  |
-| 59 | TON INU BuyBot | TON INU BuyBot — a bot for buying the TINU token on the TON network | [Bot](https://t.me/TonBuyTechBot) [X](https://x.com/toninutools) [Site](https://toninu.tech/) |  |  |  |
-| 60 | TON INU Locker |  | [Telegram](https://t.me/toninutools) [X](https://x.com/toninutools) [Site](https://app.toninu.tech/locker) |  |  |  |
-| 61 | Ton Inu Scanner | TON blockchain scanner for token analysis | [Bot](https://t.me/TonChainScannerBot) [X](https://x.com/toninutools) [Site](https://toninu.tech/) |  |  |  |
-| 62 | Ton Meme Bot | A bot for trading memecoins on TON | [Bot](https://t.me/memefun_tradingbot) [X](https://x.com/ton_meme_trader) [Site](https://linktr.ee/ton_meme) |  |  |  |
-| 63 | Ton Site Builder | Ton Web3 Site Builder.Based on Ton Storage. | [Bot](https://t.me/ton_site_builder_bot) | mentioned by 7 TON channels in Q3 |  |  |
-| 64 | Ton Tracker | ⚡️ The fastest TON wallet sniper bot with smart filter | [Bot](https://t.me/tonscanerbot) |  |  |  |
-| 65 | TON Web IDE | Boost your web3 coding journey with us. | [Telegram](https://t.me/ton_web_ide) [GitHub](https://github.com/tact-lang/web-ide) |  | 2026-06-23 |  |
-| 66 | ton-blockchain/tonlib-go | Official Golang TonLib wrapper. | [GitHub](https://github.com/ton-blockchain/tonlib-go) |  | 2021-07-06 |  |
-| 67 | ton-community/twa-template | TWA template with TON integration. | [GitHub](https://github.com/ton-community/twa-template) |  | 2023-10-20 |  |
-| 68 | ton-core/ton | Cross-platform client by ton-core. | [GitHub](https://github.com/ton-core/ton) |  | 2024-07-16 |  |
-| 69 | ton-k8s | Self-hosted TON network with Kubernetes and Docker. | [GitHub](https://github.com/disintar/ton-k8s) |  | 2024-01-19 |  |
-| 70 | ton-kotlin | Kotlin SDK for JVM applications. | [GitHub](https://github.com/andreypfau/ton-kotlin) |  | 2025-11-11 |  |
-| 71 | tonfactory/tonsdk | Cells and contract wrappers. | [GitHub](https://github.com/tonfactory/tonsdk) |  | 2024-10-06 |  |
-| 72 | TONify | TONify is a free, browser-based converter for TON addresses. | [Site](https://alexmubarakshin.github.io/tonify/) |  |  |  |
-| 73 | TONNode | TONNode gives you direct access to TON without running a node. | [Telegram](https://t.me/tonnode) [Site](https://tonnode.io) |  |  |  |
-| 74 | TonSdk.NET | C# (.NET, Unity) SDK. | [GitHub](https://github.com/continuation-team/TonSdk.NET) |  | 2025-08-19 |  |
-| 75 | Tonutils Proxy | User-friendly TON Proxy implementation. | [GitHub](https://github.com/xssnick/Tonutils-Proxy) |  | 2025-11-02 |  |
-| 76 | tonutils-dart | Dart/Flutter SDK for mobile apps. | [GitHub](https://github.com/novusnota/tonutils-dart) |  | 2024-09-12 |  |
-| 77 | TONX Testnet Faucet | Web-based faucet service. | [Site](https://faucet.tonxapi.com/) |  |  |  |
-| 78 | TONX.JS | JavaScript SDK for TONX API. | [GitHub](https://github.com/frigatebird-studio/TONX.js) |  | 2025-01-16 |  |
-| 79 | twa-dev/boilerplate | Starter boilerplate for TWAs. | [GitHub](https://github.com/twa-dev/Boilerplate) |  | 2023-09-18 |  |
-| 80 | twa-dev/Mark42 | UI library optimized for TWAs. | [GitHub](https://github.com/twa-dev/Mark42) |  | 2024-10-04 |  |
-| 81 | twa-dev/sdk | SDK package for TWA development. | [GitHub](https://github.com/twa-dev/sdk) |  | 2025-02-05 |  |
-| 82 | TxTracer | Tool to emulate and trace any transaction from TON blockchain. | [Site](https://txtracer.ton.org) |  |  |  |
-| 83 | unity/tonconnect | Unity SDK for TON Connect. | [GitHub](https://github.com/continuation-team/unity-ton-connect) |  | 2024-07-01 |  |
-| 84 | Vanity TON |  | [Site](https://vanity.earnigram.com) |  |  |  |
-| 85 | VS Code Plugin | FunC syntax highlighting and tools. | [Site](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode) |  |  |  |
-| 86 | Xircus |  | [Bot](https://t.me/xircus_bot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 87 | Xtontracker | This group for discussing and resolving issues for xtontracker.com service | [Telegram](https://t.me/xtontracker) |  |  |  |
-| 88 | yungwine/TonTools | High-level library for HTTP/ADNL. | [GitHub](https://github.com/yungwine/TonTools) |  | 2024-07-24 |  |
-| 89 | TON Domain Info bot |  |  |  | 2026-09-30 |  |
-| 90 | Tonana |  | [X](https://x.com/tonanadao) [Site](https://github.com/tonanadao) [GitHub](https://github.com/fluidicon.png) |  | 2026-09-24 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 91 | Rift |  | [Site](https://rift.skyring.io) [GitHub](https://github.com/sky-ring) |  | 2026-08-28 |  |
-| 92 | TON NoCode SDK |  | [Telegram](https://t.me/safemoonTon) [X](https://x.com/SafetonPad) [Site](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) |  | 2026-08-24 |  |
-| 93 | Development Wallet |  | [Site](https://test.tonhub.com/dl) [GitHub](https://github.com/TractionEye) |  | 2026-06-23 |  |
-| 94 | Jetton Arbitrage |  |  |  | 2026-03-03 |  |
+| 37 | Development Wallet |  | [Site](https://test.tonhub.com/dl) [GitHub](https://github.com/TractionEye) |  | 2026-04-10 |  |
+| 38 | Directual no-code | Your smart Telegram assistant for Directual — get key updates and manage your account… | [Bot](https://t.me/Directual_bot) [X](https://x.com/directual) [Site](https://readme.directual.com/plugins/using-plugins/blockchain-web3/ton-the-open-network) |  |  |  |
+| 39 | foton | Comprehensive toolkit for TON dApps. | [GitHub](https://github.com/VanishMax/foton) |  | 2025-08-24 |  |
+| 40 | go/tonconnect | GO SDK for TON Connect. | [GitHub](https://github.com/cameo-engineering/tonconnect) |  | 2024-07-16 |  |
+| 41 | IntelliJ IDEs Plugin | TON development for JetBrains IDEs. | [Site](https://plugins.jetbrains.com/plugin/23382-ton) |  |  |  |
+| 42 | Jetton Arbitrage |  |  |  |  |  |
+| 43 | Language Server (LSP Server) | Supports Sublime Text, (Neo)Vim, Helix, and other editors with LSP support. | [GitHub](https://github.com/tact-lang/tact-language-server) |  | 2026-06-26 |  |
+| 44 | LFG AI Market | Первый и единственный маркет ИИ-решений на TON. | [Telegram](https://t.me/lfg_ai_bot) [Bot](https://t.me/ruhunt) [Site](https://lfg-ton-marketplace.vercel.app) |  |  |  |
+| 45 | Misti Static Analyzer |  | [Telegram](https://t.me/tonsec_chat) [GitHub](https://github.com/nowarp/misti) |  | 2026-02-25 |  |
+| 46 | Multisender | Multisender sends tokens and NFTs to multiple recipients in just three clicks | [Telegram](https://t.me/MultiSender) [Bot](https://t.me/MultisenderTONBot) [X](https://x.com/multi_sender) [Site](https://multisender.app/) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
+| 47 | Nimbus API |  | [Site](https://getnimbus.io) |  |  |  |
+| 49 | orbs-network/ton-access | Decentralized RPC access. | [GitHub](https://github.com/orbs-network/ton-access) |  | 2023-09-05 |  |
+| 50 | Port3 |  | [Site](https://twitter.com/Port3Network) |  |  |  |
+| 51 | pytonconnect | Alternative Python SDK. | [Site](https://pypi.org/project/pytonconnect/) |  |  |  |
+| 52 | Rift |  | [Site](https://rift.skyring.io) [GitHub](https://github.com/sky-ring) |  | 2025-09-11 |  |
+| 53 | SpyTON BuyBot |  | [Bot](https://t.me/Tonspybuybot) [X](https://x.com/hubspyton) |  |  |  |
+| 54 | sTONks  / Buy Bot | sTONks / Buy Bot — multichain trading bot | [Telegram](https://t.me/sTONksTrendingBot) [Bot](https://t.me/stonks_sniper_bot) [X](https://x.com/tonstonks) [Site](https://stonksbots.com/) |  |  |  |
+| 55 | Sublime Text Plugin | FunC support for Sublime. | [GitHub](https://github.com/savva425/func_plugin_sublimetext3) |  | 2023-01-26 |  |
+| 57 | Testnet Faucet |  |  |  |  |  |
+| 58 | titon.network | Shared security stack for TON | [Telegram](https://t.me/titonnet) [X](https://x.com/titonnet) [Site](https://titon.network) |  |  |  |
+| 59 | TMA Dev |  | [Telegram](https://t.me/twa_dev) [GitHub](https://github.com/twa-dev) |  | 2025-02-05 |  |
+| 60 | TON & TG Dev Tools |  | [Site](https://mehrdadjeyrani.ir) [GitHub](https://github.com/MGamerica) |  | 2026-06-01 |  |
+| 61 | TON Bulksender |  | [Telegram](https://t.me/bulksender) [X](https://x.com/TokenBulksender) [Site](https://ton.bulksender.app) |  |  |  |
+| 62 | TON Domain Info bot |  |  |  |  |  |
+| 63 | TON INU BuyBot | TON INU BuyBot — a bot for buying the TINU token on the TON network | [Bot](https://t.me/TonBuyTechBot) [X](https://x.com/toninutools) [Site](https://toninu.tech/) |  |  |  |
+| 64 | TON INU Locker |  | [Telegram](https://t.me/toninutools) [X](https://x.com/toninutools) [Site](https://app.toninu.tech/locker) |  |  |  |
+| 65 | Ton Inu Scanner | TON blockchain scanner for token analysis | [Bot](https://t.me/TonChainScannerBot) [X](https://x.com/toninutools) [Site](https://toninu.tech/) |  |  |  |
+| 66 | Ton Meme Bot | A bot for trading memecoins on TON | [Bot](https://t.me/memefun_tradingbot) [X](https://x.com/ton_meme_trader) [Site](https://linktr.ee/ton_meme) |  |  |  |
+| 67 | TON NoCode SDK |  | [Telegram](https://t.me/safemoonTon) [X](https://x.com/SafetonPad) [Site](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) |  |  |  |
+| 68 | Ton Site Builder | Ton Web3 Site Builder.Based on Ton Storage. | [Bot](https://t.me/ton_site_builder_bot) | mentioned by 7 TON channels in Q3 |  |  |
+| 69 | Ton Tracker | ⚡️ The fastest TON wallet sniper bot with smart filter | [Bot](https://t.me/tonscanerbot) |  |  |  |
+| 70 | TON Web IDE | Boost your web3 coding journey with us. | [Telegram](https://t.me/ton_web_ide) [GitHub](https://github.com/tact-lang/web-ide) |  | 2026-06-23 |  |
+| 71 | ton-blockchain/tonlib-go | Official Golang TonLib wrapper. | [GitHub](https://github.com/ton-blockchain/tonlib-go) |  | 2021-07-06 |  |
+| 72 | ton-community/twa-template | TWA template with TON integration. | [GitHub](https://github.com/ton-community/twa-template) |  | 2023-10-20 |  |
+| 73 | ton-core/ton | Cross-platform client by ton-core. | [GitHub](https://github.com/ton-core/ton) |  | 2024-07-16 |  |
+| 74 | ton-k8s | Self-hosted TON network with Kubernetes and Docker. | [GitHub](https://github.com/disintar/ton-k8s) |  | 2024-01-19 |  |
+| 75 | ton-kotlin | Kotlin SDK for JVM applications. | [GitHub](https://github.com/andreypfau/ton-kotlin) |  | 2025-11-11 |  |
+| 76 | Tonana |  | [X](https://x.com/tonanadao) [Site](https://github.com/tonanadao) [GitHub](https://github.com/fluidicon.png) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 77 | tonfactory/tonsdk | Cells and contract wrappers. | [GitHub](https://github.com/tonfactory/tonsdk) |  | 2024-10-06 |  |
+| 78 | TONify | TONify is a free, browser-based converter for TON addresses. | [Site](https://alexmubarakshin.github.io/tonify/) |  |  |  |
+| 79 | TONNode | TONNode gives you direct access to TON without running a node. | [Telegram](https://t.me/tonnode) [Site](https://tonnode.io) |  |  |  |
+| 80 | TonSdk.NET | C# (.NET, Unity) SDK. | [GitHub](https://github.com/continuation-team/TonSdk.NET) |  | 2025-08-19 |  |
+| 81 | Tonutils Proxy | User-friendly TON Proxy implementation. | [GitHub](https://github.com/xssnick/Tonutils-Proxy) |  | 2025-11-02 |  |
+| 82 | tonutils-dart | Dart/Flutter SDK for mobile apps. | [GitHub](https://github.com/novusnota/tonutils-dart) |  | 2024-09-12 |  |
+| 83 | TONX Testnet Faucet | Web-based faucet service. | [Site](https://faucet.tonxapi.com/) |  |  |  |
+| 84 | TONX.JS | JavaScript SDK for TONX API. | [GitHub](https://github.com/frigatebird-studio/TONX.js) |  | 2025-01-16 |  |
+| 85 | twa-dev/boilerplate | Starter boilerplate for TWAs. | [GitHub](https://github.com/twa-dev/Boilerplate) |  | 2023-09-18 |  |
+| 86 | twa-dev/Mark42 | UI library optimized for TWAs. | [GitHub](https://github.com/twa-dev/Mark42) |  | 2024-10-04 |  |
+| 87 | twa-dev/sdk | SDK package for TWA development. | [GitHub](https://github.com/twa-dev/sdk) |  | 2025-02-05 |  |
+| 88 | TxTracer | Tool to emulate and trace any transaction from TON blockchain. | [Site](https://txtracer.ton.org) |  |  |  |
+| 89 | unity/tonconnect | Unity SDK for TON Connect. | [GitHub](https://github.com/continuation-team/unity-ton-connect) |  | 2024-07-01 |  |
+| 90 | Vanity TON |  | [Site](https://vanity.earnigram.com) |  |  |  |
+| 91 | VS Code Plugin | FunC syntax highlighting and tools. | [Site](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode) |  |  |  |
+| 92 | Xircus |  | [Bot](https://t.me/xircus_bot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 93 | Xtontracker | This group for discussing and resolving issues for xtontracker.com service | [Telegram](https://t.me/xtontracker) |  |  |  |
+| 94 | yungwine/TonTools | High-level library for HTTP/ADNL. | [GitHub](https://github.com/yungwine/TonTools) |  | 2024-07-24 |  |
 | 95 | TONX | TONX is the SuperApp platform layer that enables builders to create the new Web3 economy. | [Telegram](https://t.me/tonxstudio) [Site](https://tonx.ai/) |  | 2025-10-31 | [ton 25](../archive/2025-07-ton.jpg) |
 | 96 | 8XR |  | [Telegram](https://t.me/gam8s) [X](https://x.com/8xr_engine) |  | 2025-10-18 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 97 | TONX API | Support the development of TON by offering an array of robust tools for a seamless… | [Telegram](https://t.me/tonxapi) [X](https://x.com/TONXAPI) [Site](https://tonxapi.com/) [GitHub](https://github.com/tonxapi/sample) |  | 2025-07-01 | [tradoor 25](../archive/2025-08-tradoor.jpg) |
@@ -115,6 +115,6 @@
 
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 46 | node-tonlib | Node.js C++ addon for TON. |  |  |  |  |
-| 53 | SwiftyTON | Swift SDK with async/await support. |  |  |  |  |
+| 48 | node-tonlib | Node.js C++ addon for TON. |  |  |  |  |
+| 56 | SwiftyTON | Swift SDK with async/await support. |  |  |  |  |
 | 100 | WebDeployer |  | [Site](https://ratingers.pythonanywhere.com/deployer/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |

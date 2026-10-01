@@ -28,9 +28,12 @@ for i, r in enumerate(csv.DictReader(open("data/projects.csv", encoding="utf-8")
         errors.append(f"{where}: status must be one of {sorted(STATUS)}")
     if r["on_map"] not in ("0", "1"):
         errors.append(f"{where}: on_map must be 0 or 1")
-    for k in ("last_post", "last_commit"):
+    for k in ("last_post", "last_commit", "launched"):
         if r[k] and not DATE.fullmatch(r[k]):
             errors.append(f"{where}: {k} must be YYYY-MM-DD")
+    for k in ("subscribers", "mau", "reach_q3", "views_q3", "posts_q3"):
+        if r.get(k) and not re.fullmatch(r"\d+", r[k]):
+            errors.append(f"{where}: {k} must be a whole number")
     if not r["sources"].strip():  # github-pr is fine for a project added by hand
         errors.append(f"{where}: sources must name where the project was found")
     for e in filter(None, r["evidence"].split("+")):
