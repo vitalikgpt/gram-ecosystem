@@ -61,7 +61,7 @@
 | 47 | Prebit.io | Prebit.io — a decentralized exchange for trading Bitcoin with leverage up to 1001× | [Bot](https://t.me/PrebitAuthBot) [X](https://x.com/prebit_io) [Site](https://www.prebit.io) |  |  |  |
 | 48 | Snorter Bot |  | [Site](https://bs_6847cd65.medexa.care) |  |  |  |
 | 49 | SwapSwop |  | [Site](https://swapswop.io/) |  |  |  |
-| 50 | UpFin Trading Bot |  | [Telegram](https://t.me/upfin_bot) [Bot](https://t.me/UpFinChannel) [X](https://x.com/UpFinTrade) [Site](https://bit.ly/4lKLauS) |  |  |  |
+| 50 | UpFin Trading Bot |  | [Telegram](https://t.me/upfin_bot) [X](https://x.com/UpFinTrade) [Site](https://bit.ly/4lKLauS) |  |  |  |
 | 51 | UTYABSWAP |  | [Bot](https://t.me/utyabswapbot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 52 | What Swap |  | [Bot](https://t.me/what_swap_bot) [X](https://x.com/bigbangdear) [Site](https://what-swap.vercel.app/) [GitHub](https://github.com/bigbanghere/what-swap) |  | 2025-12-18 |  |
 | 53 | XBOT | Crypto tools and DEX trading right in your Telegram | [Bot](https://t.me/chainspyrobot) [X](https://x.com/twinbyxbot) |  |  |  |

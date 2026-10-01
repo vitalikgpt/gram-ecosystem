@@ -28,12 +28,12 @@
 | 13 | Shop Builder | A Telegram shop with crypto payments and AI assistants | [Telegram](https://t.me/ShopsBuilder) [Bot](https://t.me/ShopsBuilderBot) [X](https://x.com/shopsbuilder) [Site](https://shopsbuilder.notion.site/helpcenter) |  | 2026-03-03 |  |
 | 14 | Tickyton |  | [Bot](https://t.me/tickytonbot) |  |  |  |
 | 15 | behind |  | [Bot](https://t.me/bhndbot) |  |  |  |
-| 16 | bionapp | Scan to Pay, access credit up to $300, buy gift cards and earn rewards—all in the Bion… | [Telegram](https://t.me/bionapp_bot) [Bot](https://t.me/bion_announcements) [X](https://x.com/bion_app) [Site](https://www.bionapp.com/) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| 16 | bionapp | Scan to Pay, access credit up to $300, buy gift cards and earn rewards—all in the Bion… | [Telegram](https://t.me/bionapp_bot) [X](https://x.com/bion_app) [Site](https://www.bionapp.com/) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 17 | Cashbacker |  | [Bot](https://t.me/cashbackton_bot) [Site](https://pizzaton.me) [GitHub](https://github.com/pizzaton) |  | 2024-11-24 |  |
-| 18 | Catallaxy | Catallaxy — a marketplace for digital goods and services on TON | [Telegram](https://t.me/catallaxy_bot) [Bot](https://t.me/catallaxy_ton) [X](https://x.com/catallaxy_ton) [Site](https://ctlx.cc) [GitHub](https://github.com/dearjohndoe/ton-agents-marketplace) |  | 2026-08-14 |  |
-| 19 | Coinco | Shop your favorite products in Coinco. Pay with crypto and ship to 200+ countries | [Telegram](https://t.me/coinco_bot) [Bot](https://t.me/coinco_global) [Site](https://coinco.io) |  |  |  |
-| 20 | GiftX: AI Wishlist | Вишлист, ИИ-подбор подарков, бронирование. Создай список желаний и делись одной ссылкой! | [Telegram](https://t.me/giftxtech_bot) |  |  |  |
-| 21 | OpenMarketplace |  | [Telegram](https://t.me/MarketplaceTeleBot) [Bot](https://t.me/OpenMarketplaces) |  |  |  |
+| 18 | Catallaxy | Catallaxy — a marketplace for digital goods and services on TON | [Telegram](https://t.me/catallaxy_ton) [Bot](https://t.me/catallaxy_bot) [X](https://x.com/catallaxy_ton) [Site](https://ctlx.cc) [GitHub](https://github.com/dearjohndoe/ton-agents-marketplace) |  | 2026-08-14 |  |
+| 19 | Coinco | Shop your favorite products in Coinco. Pay with crypto and ship to 200+ countries | [Telegram](https://t.me/coinco_global) [Bot](https://t.me/coinco_bot) [Site](https://coinco.io) |  |  |  |
+| 20 | GiftX: AI Wishlist | Вишлист, ИИ-подбор подарков, бронирование. Создай список желаний и делись одной ссылкой! | [Bot](https://t.me/giftxtech_bot) |  |  |  |
+| 21 | OpenMarketplace |  |  |  |  |  |
 | 22 | TonMart | Shop global products in TonMart. Pay with crypto and ship to 200+ countries. | [Bot](https://t.me/tonmartbot) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 23 | Umy.com | Umy.com — hotel and flight bookings with cryptocurrency payments | [Telegram](https://t.me/umyofficialnews) [Bot](https://t.me/umy_official_bot) [X](https://x.com/umycomofficial) [Site](https://umy.com/) |  |  |  |
 | 24 | VibeMarket |  | [Telegram](https://t.me/vibecodemarketdev_bot) [Site](https://vibemarket.pro/en) |  |  |  |

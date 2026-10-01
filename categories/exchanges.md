@@ -85,4 +85,4 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 67 | LBank Exchange |  |  |  | 2024-10-19 |  |
-| 68 | Neocrypto |  | [Telegram](https://t.me/cryptoviewerton_bot) [Bot](https://t.me/cryptoviewerton) [Site](https://neocrypto.net) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 68 | Neocrypto |  | [Site](https://neocrypto.net) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |

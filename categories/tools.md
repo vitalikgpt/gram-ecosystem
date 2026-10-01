@@ -28,7 +28,7 @@
 | 18 | Guarant | 🤝 Make your transactions without any problems! | [Bot](https://t.me/GuarantAppBot) [X](https://x.com/GuarantApp) | 21K MAU |  |  |
 | 19 | Crypto Office | Crypto Office - Your helper in crypto world 🌎 News: @officeappnews Support:… | [Bot](https://t.me/office_app_bot) | 12K MAU |  |  |
 | 20 | webappz | webappz авто-магазины/меню в telegram | [Telegram](https://t.me/webappz) [Bot](https://t.me/webappzconnectbot) [Site](https://webappz.org) | 2K views, 993 MAU | 2026-07-20 |  |
-| 21 | SOREN | SOREN is a digital identity layer on the TON blockchain. | [Telegram](https://t.me/SORENCHANNEL) [Bot](https://t.me/SORENCOMMUNITY) [X](https://x.com/ownsoren) [Site](https://www.soren.today/) | 2K views | 2026-09-08 |  |
+| 21 | SOREN | SOREN is a digital identity layer on the TON blockchain. | [Telegram](https://t.me/SORENCHANNEL) [X](https://x.com/ownsoren) [Site](https://www.soren.today/) | 2K views | 2026-09-08 |  |
 | 22 | TON Box |  | [Site](https://storage-two.vercel.app/) [GitHub](https://github.com/tonwhales) | commit 2026-08-13 | 2026-08-13 |  |
 | 23 | Workix | Workix — platform for finding and applying to freelance tasks | [Bot](https://t.me/workix_tbot) [Site](https://workix.co) [GitHub](https://github.com/facetoplace/Workix) | commit 2026-09-23 | 2026-09-23 |  |
 | 24 | Portal Network | Portal Network — a bot for managing a network of electric vehicle charging stations | [Telegram](https://t.me/portal_energy) [Bot](https://t.me/portal_network_bot) [X](https://x.com/PortalNetwork_) [Site](https://portalnetwork.tech) |  | 2026-08-10 |  |
@@ -65,10 +65,10 @@
 | 51 | 2FA | Two-Factor Authentication for TON | [Bot](https://t.me/tgmfabot) | mentioned by 15 TON channels in Q3 |  |  |
 | 52 | Access | Set up a custom access to your private group or channel. Built by independent devs as… | [Bot](https://t.me/access_app_bot) | mentioned by 11 TON channels in Q3 |  |  |
 | 54 | Bulksender |  | [Bot](https://t.me/bulksenderbot) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 55 | Exact Receipt | Exact Receipt is a TON-native, watch-only payment request and receipt service. | [Telegram](https://t.me/WDK_Wallet_bot) [Bot](https://t.me/exactreceipt) [Site](https://exactreceipt.com/) |  |  |  |
+| 55 | Exact Receipt | Exact Receipt is a TON-native, watch-only payment request and receipt service. | [Telegram](https://t.me/exactreceipt) [Bot](https://t.me/WDK_Wallet_bot) [Site](https://exactreceipt.com/) |  |  |  |
 | 56 | Find & Check |  | [Bot](https://t.me/findcheckbot) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 57 | Foldee | Foldee — приложение, где можно сохранять ссылки, заметки по папкам и устанавливать… | [Bot](https://t.me/foldee_bot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 58 | Manage Ton Subdomain | Manage .ton subdomains directly in Telegram. | [Telegram](https://t.me/ton_subdomain_bot) [Site](https://subdomain.earnigram.com) |  |  |  |
+| 58 | Manage Ton Subdomain | Manage .ton subdomains directly in Telegram. | [Bot](https://t.me/ton_subdomain_bot) [Site](https://subdomain.earnigram.com) |  |  |  |
 | 59 | NovaCont Lite | NovaCont Lite is a non-custodial escrow Mini App on TON. | [Bot](https://t.me/NovaCont_Lite_bot) [X](https://x.com/getnovacont) [Site](https://novacont.tech) |  |  |  |
 | 60 | RevYou | Collect client reviews in one place you control. Own your data, earn rewards, be your… | [Telegram](https://t.me/revyou_announcements) [Bot](https://t.me/revyou_bot) [X](https://x.com/revyouxyz) |  |  |  |
 | 61 | SplitFast | SplitFast — a mini app for splitting expenses in Telegram | [Bot](https://t.me/SplitFastBot) [Site](https://splitfast.io) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
@@ -77,7 +77,7 @@
 | 64 | TON Grafana | Blockchain metrics visualization. | [Site](https://tonmon.xyz/) |  |  |  |
 | 65 | TON Multisender | Batch transaction tool for TON and Jettons. | [Site](https://ton.multisender.app/) |  |  |  |
 | 66 | TON Sign |  | [Telegram](https://t.me/tondocsign_bot) [Site](https://tonsign.com/privacy?lang=en) |  |  |  |
-| 67 | TonGo | TonGo — a .ton domains and subdomains management service | [Telegram](https://t.me/dotTonBot) [Bot](https://t.me/tongonews) [Site](https://tongo.run) [GitHub](https://github.com/tongochi/DEX) |  | 2023-12-14 | [tonpost 23](../archive/2023-10-tonpost.jpg) [coin98-games 24](../archive/2024-02-coin98-games.jpg) [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
+| 67 | TonGo | TonGo — a .ton domains and subdomains management service | [Site](https://tongo.run) [GitHub](https://github.com/tongochi/DEX) |  | 2023-12-14 | [tonpost 23](../archive/2023-10-tonpost.jpg) [coin98-games 24](../archive/2024-02-coin98-games.jpg) [coin98-games 24](../archive/2024-05-coin98-games.jpg) |
 | 68 | UserCoin App | UserCoin can evaluate the value of your username based on data from the Fragment. | [Bot](https://t.me/crypto_iq_bot) |  |  |  |
 | 69 | WorkHub | Платформа для поиска работников и заказов под любые задачи! Telegram: @workhub_official | [Bot](https://t.me/workhubapp_bot) | mentioned by 9 TON channels in Q3 |  |  |
 | 70 | AdBuy |  | [Telegram](https://t.me/Crypton_Deploys) |  | 2026-07-20 |  |

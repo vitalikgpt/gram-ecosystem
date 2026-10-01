@@ -779,8 +779,11 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,wheelofwhalesbot,@WheelOfWhalesBot,x,remove,https://x.com/whalegames_en,,"@WhaleGames_en is ""Whale"", the account of Whale (x profile)"
 2026-10-01,tonflow-wallet,Tonflow Wallet,website,remove,https://tonflow.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,papa-carlo-bot,PAPA CARLO BOT,website,remove,https://papacarlo.tech,,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-web-ide,TON Web IDE,website,remove,https://ide.ton.org,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,dashpool,DashPool,website,remove,https://dashpool.ai,,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,dton-forum,dTON Forum,website,remove,https://tech.dton.сo,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,ton-research,Ton Research,website,remove,https://www.flutterbees.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,token-hamster-kombat,Hamster Kombat (HMSTR),website,remove,https://hamster.network,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,ton-street-boys,Ton Street Boys,website,remove,https://tonstreetboys.xyz,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,mining-nft,Mining NFT,website,remove,https://virtualsworlds.online,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,3-14xl-pixel,3.14XL (Pixel),website,remove,https://pi.oberton.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
@@ -818,6 +821,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,monkeyrush,MonkeyRush,website,remove,https://monkeyrush.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,bird,BIRD,website,remove,https://birdton.site,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,puparty,Puparty,website,remove,https://puparty.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,flutter-bees,Flutter Bees,website,remove,https://www.flutterbees.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,dealton,DealTON,website,remove,https://www.dealton.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,ludoton,LudoTON,website,remove,https://www.ludoton.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,bear-ton,Bear TON,website,remove,https://www.tonbear.vip/,,site is gone: domain does not resolve on 2026-10-01 (dns)
@@ -869,6 +873,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,racoin-app,Racoin APP,website,remove,https://racoin.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,wallet-league,Wallet League,website,remove,https://walletleague.club,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,aec-ton,AEC TON,website,remove,https://aecton.space/,,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tonion,Tonion,website,remove,https://tonion.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,ton-realm,Ton Realm,website,remove,https://tonrealm.com/landing,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,pixieland,Pixieland,website,remove,https://PixieLand.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,corn-battles,Corn Battles,website,remove,https://tonbox.me,,site is gone: domain does not resolve on 2026-10-01 (dns)
@@ -892,6 +897,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,yumify,Yumify,website,remove,https://yumify.one,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,happy-farmer,Happy Farmer,website,remove,https://www.happyfarmer.ai/,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,dakecoin,Dakecoin,website,remove,https://dake.xyz/,,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,hamster,Hamster,website,remove,https://hamster.network,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,humanpass,HumanPass,website,remove,https://www.humanpass.ai,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,chiliversus,ChiliVersus,website,remove,https://chiliversus.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,boom,$BOOM,website,remove,https://tonbox.me,,site is gone: domain does not resolve on 2026-10-01 (dns)
@@ -1127,3 +1133,215 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,crypto-masons,Crypto Masons,bot,remove,https://t.me/masson_game_bot,,"@masson_game_bot (""Crypto Mason Game"") belongs to Crypto Mason Game (shared link)"
 2026-10-01,go-app,Go! App,bot,remove,https://t.me/thegoprojectBot,,"@thegoprojectbot (""Go!"") belongs to Go! (shared link)"
 2026-10-01,ttcoin,TTCoin,bot,remove,https://t.me/tontoncoinbot,,"@tontoncoinbot (""tontoncoinbot"") belongs to Ton Ton Coin (shared link)"
+2026-10-01,neocrypto,Neocrypto,bot,remove,https://t.me/cryptoviewerton,,"@cryptoviewerton is a channel (""CryptoViewer""), not a bot (kind)"
+2026-10-01,neocrypto,Neocrypto,telegram,remove,https://t.me/cryptoviewerton_bot,,"@cryptoviewerton_bot (""💎 CryptoViewer | Open alpha"") is a bot, not the project channel (kind)"
+2026-10-01,hn-wallet,HN wallet,telegram,remove,https://t.me/HN_Wallet_bot,,"@HN_Wallet_bot is a bot, moved to the bot field (kind)"
+2026-10-01,hn-wallet,HN wallet,bot,replace,,https://t.me/HN_Wallet_bot,@HN_Wallet_bot moved from the telegram field (kind)
+2026-10-01,openmask,OpenMask,telegram,remove,https://t.me/CryptoMind_TON_BOT,,"@CryptoMind_TON_BOT (""CryptoMind_TON"") is a bot, not the project channel (kind)"
+2026-10-01,fintopio,Fintopio,bot,remove,https://t.me/fintopio,,"@fintopio is a group (""Gram Club - OTC""), not a bot (kind)"
+2026-10-01,upfin-trading-bot,UpFin Trading Bot,bot,remove,https://t.me/UpFinChannel,,"@UpFinChannel is a channel (""UpFin""), not a bot (kind)"
+2026-10-01,lafton-bot,LaFTon Bot,telegram,replace,https://t.me/LaFTonBot,https://t.me/LaFTon,@LaFTon is the channel and @LaFTonBot the bot: fields swapped (kind)
+2026-10-01,lafton-bot,LaFTon Bot,bot,replace,https://t.me/LaFTon,https://t.me/LaFTonBot,@LaFTonBot is the bot and @LaFTon the channel: fields swapped (kind)
+2026-10-01,mugglepay,MugglePay,telegram,remove,https://t.me/mugglechatbot,,"@mugglechatbot (""MuggleChatBot"") is a bot, not the project channel (kind)"
+2026-10-01,mystars-tg,MyStars.tg,telegram,replace,https://t.me/my_stars_tg_bot,https://t.me/mystarstg_official,@mystarstg_official is the channel and @my_stars_tg_bot the bot: fields swapped (kind)
+2026-10-01,mystars-tg,MyStars.tg,bot,replace,https://t.me/mystarstg_official,https://t.me/my_stars_tg_bot,@my_stars_tg_bot is the bot and @mystarstg_official the channel: fields swapped (kind)
+2026-10-01,passimpay,PassimPay,telegram,replace,https://t.me/PassimPayAPP_Bot,https://t.me/Passim_Pay,@Passim_Pay is the channel and @PassimPayAPP_Bot the bot: fields swapped (kind)
+2026-10-01,passimpay,PassimPay,bot,replace,https://t.me/Passim_Pay,https://t.me/PassimPayAPP_Bot,@PassimPayAPP_Bot is the bot and @Passim_Pay the channel: fields swapped (kind)
+2026-10-01,seconds-market,Seconds Market,telegram,replace,https://t.me/Seconds_market_bot,https://t.me/Seconds_market,@Seconds_market is the channel and @Seconds_market_bot the bot: fields swapped (kind)
+2026-10-01,seconds-market,Seconds Market,bot,replace,https://t.me/Seconds_market,https://t.me/Seconds_market_bot,@Seconds_market_bot is the bot and @Seconds_market the channel: fields swapped (kind)
+2026-10-01,starstore,StarStore,telegram,replace,https://t.me/TgStarStore_bot,https://t.me/StarStore_app,@StarStore_app is the channel and @TgStarStore_bot the bot: fields swapped (kind)
+2026-10-01,starstore,StarStore,bot,replace,https://t.me/StarStore_app,https://t.me/TgStarStore_bot,@TgStarStore_bot is the bot and @StarStore_app the channel: fields swapped (kind)
+2026-10-01,swipelux,Swipelux,bot,remove,https://t.me/alwaysmoneyorg,,"@alwaysmoneyorg is a channel (""AlwaysMoney - Crypto Exchange""), not a bot (kind)"
+2026-10-01,swipelux,Swipelux,telegram,remove,https://t.me/alwaysmoney_sup,,"@alwaysmoney_sup (""AlwaysMoney"") is a personal account, not the project channel (kind)"
+2026-10-01,ton-console-tonapi,TON Console (TonAPI),telegram,remove,https://t.me/tonrostislav,,"@tonrostislav (""Rostislav Rudakov"") is a personal account, not the project channel (kind)"
+2026-10-01,apps-father,Apps Father,telegram,replace,https://t.me/apps_father_bot,https://t.me/apps_father,@apps_father is the channel and @apps_father_bot the bot: fields swapped (kind)
+2026-10-01,apps-father,Apps Father,bot,replace,https://t.me/apps_father,https://t.me/apps_father_bot,@apps_father_bot is the bot and @apps_father the channel: fields swapped (kind)
+2026-10-01,tonnode,TONNode,bot,remove,https://t.me/tonnode_chat,,"@tonnode_chat is a group (""TONNode Community🛠""), not a bot (kind)"
+2026-10-01,ton-nocode-sdk,TON NoCode SDK,bot,remove,https://t.me/safeTONdotFun,,"@safeTONdotFun is a group (""SAFETON.FUN""), not a bot (kind)"
+2026-10-01,block-watch,Block Watch,bot,remove,https://t.me/BWDevapp,,"@BWDevapp is a channel (""BWDev""), not a bot (kind)"
+2026-10-01,tonmarketcap,Tonmarketcap,telegram,replace,https://t.me/ton_market_cap_bot,https://t.me/tonmarketcap_channel,@tonmarketcap_channel is the channel and @ton_market_cap_bot the bot: fields swapped (kind)
+2026-10-01,tonmarketcap,Tonmarketcap,bot,replace,https://t.me/tonmarketcap_channel,https://t.me/ton_market_cap_bot,@ton_market_cap_bot is the bot and @tonmarketcap_channel the channel: fields swapped (kind)
+2026-10-01,tonkol,Tonkol,bot,remove,https://t.me/tonkoltrades,,"@tonkoltrades is a channel (""TONKOL""), not a bot (kind)"
+2026-10-01,bitok,BitOK,telegram,remove,https://t.me/bitok_support,,"@bitok_support is a bot or account, moved to the bot field (kind)"
+2026-10-01,bitok,BitOK,bot,replace,,https://t.me/bitok_support,@bitok_support moved from the telegram field (kind)
+2026-10-01,jettontonguard,JettonTonGuard,telegram,replace,https://t.me/JettonTonGuard_Bot,https://t.me/JettonTonGuard,@JettonTonGuard is the channel and @JettonTonGuard_Bot the bot: fields swapped (kind)
+2026-10-01,jettontonguard,JettonTonGuard,bot,replace,https://t.me/JettonTonGuard,https://t.me/JettonTonGuard_Bot,@JettonTonGuard_Bot is the bot and @JettonTonGuard the channel: fields swapped (kind)
+2026-10-01,solidity-auditor,Solidity auditor,telegram,remove,https://t.me/LegalKornet,,"@LegalKornet (""Oleg Arefev"") is a personal account, not the project channel (kind)"
+2026-10-01,web3defender,Web3defender,telegram,replace,https://t.me/web3defender_bot,https://t.me/web3defender_alerts,@web3defender_alerts is the channel and @web3defender_bot the bot: fields swapped (kind)
+2026-10-01,web3defender,Web3defender,bot,replace,https://t.me/web3defender_alerts,https://t.me/web3defender_bot,@web3defender_bot is the bot and @web3defender_alerts the channel: fields swapped (kind)
+2026-10-01,orbit-bridge,Orbit Bridge,bot,remove,https://t.me/bion_announcements,,"@bion_announcements is a channel (""bion Announcements""), not a bot (kind)"
+2026-10-01,viz-gateway,VIZ gateway,bot,remove,https://t.me/viz_cx,,"@viz_cx is a group (""VIZ.cx""), not a bot (kind)"
+2026-10-01,gogift,GoGift,telegram,replace,https://t.me/GoGift_official_bot,https://t.me/GoGift_announcements,@GoGift_announcements is the channel and @GoGift_official_bot the bot: fields swapped (kind)
+2026-10-01,gogift,GoGift,bot,replace,https://t.me/GoGift_announcements,https://t.me/GoGift_official_bot,@GoGift_official_bot is the bot and @GoGift_announcements the channel: fields swapped (kind)
+2026-10-01,nft-scanner,NFT Scanner,telegram,remove,https://t.me/Arbitragescanner_official,,"@Arbitragescanner_official is a bot or account, moved to the bot field (kind)"
+2026-10-01,nft-scanner,NFT Scanner,bot,replace,,https://t.me/Arbitragescanner_official,@Arbitragescanner_official moved from the telegram field (kind)
+2026-10-01,spinmi,SpinMi,telegram,replace,https://t.me/spinmibot,https://t.me/spinminews,@spinminews is the channel and @spinmibot the bot: fields swapped (kind)
+2026-10-01,spinmi,SpinMi,bot,replace,https://t.me/spinminews,https://t.me/spinmibot,@spinmibot is the bot and @spinminews the channel: fields swapped (kind)
+2026-10-01,volya-hype,VOLYA HYPE,telegram,replace,https://t.me/volyamintbot,https://t.me/volya_ton,@volya_ton is the channel and @volyamintbot the bot: fields swapped (kind)
+2026-10-01,volya-hype,VOLYA HYPE,bot,replace,https://t.me/volya_ton,https://t.me/volyamintbot,@volyamintbot is the bot and @volya_ton the channel: fields swapped (kind)
+2026-10-01,chainsim,Chainsim,bot,remove,https://t.me/chainsim_chat,,"@chainsim_chat is a group (""Chainsim Community""), not a bot (kind)"
+2026-10-01,solanaforge,SolanaForge,bot,remove,https://t.me/SolanaForgeChannel,,"@SolanaForgeChannel is a channel (""SolanaForgeChannel""), not a bot (kind)"
+2026-10-01,asiqpai,Asiqpai,telegram,replace,https://t.me/asiqpai_bot,https://t.me/asiqpaihub,@asiqpaihub is the channel and @asiqpai_bot the bot: fields swapped (kind)
+2026-10-01,asiqpai,Asiqpai,bot,replace,https://t.me/asiqpaihub,https://t.me/asiqpai_bot,@asiqpai_bot is the bot and @asiqpaihub the channel: fields swapped (kind)
+2026-10-01,infinity,INFINITY,telegram,replace,https://t.me/infinity_bid_bot,https://t.me/infinity_bid,@infinity_bid is the channel and @infinity_bid_bot the bot: fields swapped (kind)
+2026-10-01,infinity,INFINITY,bot,replace,https://t.me/infinity_bid,https://t.me/infinity_bid_bot,@infinity_bid_bot is the bot and @infinity_bid the channel: fields swapped (kind)
+2026-10-01,photon,Photon,telegram,replace,https://t.me/ThePhoton_Bot,https://t.me/The_Photon_app,@The_Photon_app is the channel and @ThePhoton_Bot the bot: fields swapped (kind)
+2026-10-01,photon,Photon,bot,replace,https://t.me/The_Photon_app,https://t.me/ThePhoton_Bot,@ThePhoton_Bot is the bot and @The_Photon_app the channel: fields swapped (kind)
+2026-10-01,wall-telegram,Wall Telegram,telegram,replace,https://t.me/wall,https://t.me/wall_people,@wall_people is the channel and @wall the bot: fields swapped (kind)
+2026-10-01,wall-telegram,Wall Telegram,bot,replace,https://t.me/wall_people,https://t.me/wall,@wall is the bot and @wall_people the channel: fields swapped (kind)
+2026-10-01,dogwifhood,DOGWIFHOOD,bot,remove,https://t.me/dogwifhoodANN,,"@dogwifhoodANN is a channel (""dogwifhood announcements""), not a bot (kind)"
+2026-10-01,soren,SOREN,bot,remove,https://t.me/SORENCOMMUNITY,,"@SORENCOMMUNITY is a group (""SOREN COMMUNITY""), not a bot (kind)"
+2026-10-01,exact-receipt,Exact Receipt,telegram,replace,https://t.me/WDK_Wallet_bot,https://t.me/exactreceipt,@exactreceipt is the channel and @WDK_Wallet_bot the bot: fields swapped (kind)
+2026-10-01,exact-receipt,Exact Receipt,bot,replace,https://t.me/exactreceipt,https://t.me/WDK_Wallet_bot,@WDK_Wallet_bot is the bot and @exactreceipt the channel: fields swapped (kind)
+2026-10-01,manage-ton-subdomain,Manage Ton Subdomain,telegram,remove,https://t.me/ton_subdomain_bot,,"@ton_subdomain_bot is a bot, moved to the bot field (kind)"
+2026-10-01,manage-ton-subdomain,Manage Ton Subdomain,bot,replace,,https://t.me/ton_subdomain_bot,@ton_subdomain_bot moved from the telegram field (kind)
+2026-10-01,tongo,TonGo,bot,remove,https://t.me/tongonews,,"@tongonews is a channel (""tongo.run""), not a bot (kind)"
+2026-10-01,tongo,TonGo,telegram,remove,https://t.me/dotTonBot,,"@dotTonBot (""TON Subdomains"") is a bot, not the project channel (kind)"
+2026-10-01,bionapp,bionapp,bot,remove,https://t.me/bion_announcements,,"@bion_announcements is a channel (""bion Announcements""), not a bot (kind)"
+2026-10-01,catallaxy,Catallaxy,telegram,replace,https://t.me/catallaxy_bot,https://t.me/catallaxy_ton,@catallaxy_ton is the channel and @catallaxy_bot the bot: fields swapped (kind)
+2026-10-01,catallaxy,Catallaxy,bot,replace,https://t.me/catallaxy_ton,https://t.me/catallaxy_bot,@catallaxy_bot is the bot and @catallaxy_ton the channel: fields swapped (kind)
+2026-10-01,coinco,Coinco,telegram,replace,https://t.me/coinco_bot,https://t.me/coinco_global,@coinco_global is the channel and @coinco_bot the bot: fields swapped (kind)
+2026-10-01,coinco,Coinco,bot,replace,https://t.me/coinco_global,https://t.me/coinco_bot,@coinco_bot is the bot and @coinco_global the channel: fields swapped (kind)
+2026-10-01,giftx-ai-wishlist,GiftX: AI Wishlist,telegram,remove,https://t.me/giftxtech_bot,,"@giftxtech_bot is a bot, moved to the bot field (kind)"
+2026-10-01,giftx-ai-wishlist,GiftX: AI Wishlist,bot,replace,,https://t.me/giftxtech_bot,@giftxtech_bot moved from the telegram field (kind)
+2026-10-01,openmarketplace,OpenMarketplace,bot,remove,https://t.me/OpenMarketplaces,,"@OpenMarketplaces is a channel (""OpenMarketplace""), not a bot (kind)"
+2026-10-01,openmarketplace,OpenMarketplace,telegram,remove,https://t.me/MarketplaceTeleBot,,"@MarketplaceTeleBot (""Marketplace"") is a bot, not the project channel (kind)"
+2026-10-01,behland-web3-l2e,BehLand - Web3 L2E,bot,remove,https://t.me/BehLand_gp,,"@BehLand_gp is a group (""BehLand_GP""), not a bot (kind)"
+2026-10-01,pepexverse,PepexVerse,telegram,remove,https://t.me/pepexsupport,,"@pepexsupport (""PepeX Support"") is a personal account, not the project channel (kind)"
+2026-10-01,papercoin,PAPERCOIN,telegram,remove,https://t.me/tonceocreator,,"@tonceocreator (""gself #TotalHash"") is a personal account, not the project channel (kind)"
+2026-10-01,minigamecenter,MiniGameCenter,telegram,remove,https://t.me/MiniGame,,"@MiniGame (""MiniGame"") is a personal account, not the project channel (kind)"
+2026-10-01,afk-loot,AFK Loot,telegram,replace,https://t.me/afklootgame_bot,https://t.me/afklootgame,@afklootgame is the channel and @afklootgame_bot the bot: fields swapped (kind)
+2026-10-01,afk-loot,AFK Loot,bot,replace,https://t.me/afklootgame,https://t.me/afklootgame_bot,@afklootgame_bot is the bot and @afklootgame the channel: fields swapped (kind)
+2026-10-01,basic-reality,Basic Reality,telegram,replace,https://t.me/Basic_reality_bot,https://t.me/basic_reality_chat,@basic_reality_chat is the channel and @Basic_reality_bot the bot: fields swapped (kind)
+2026-10-01,basic-reality,Basic Reality,bot,replace,https://t.me/basic_reality_chat,https://t.me/Basic_reality_bot,@Basic_reality_bot is the bot and @basic_reality_chat the channel: fields swapped (kind)
+2026-10-01,boxing-star-x,Boxing Star X,telegram,remove,https://t.me/boxingstarx,,"@boxingstarx is a bot or account, moved to the bot field (kind)"
+2026-10-01,boxing-star-x,Boxing Star X,bot,replace,,https://t.me/boxingstarx,@boxingstarx moved from the telegram field (kind)
+2026-10-01,cryptogrove,CryptoGrove,telegram,replace,https://t.me/Grove_crypto_bot,https://t.me/cryptogrove_channel,@cryptogrove_channel is the channel and @Grove_crypto_bot the bot: fields swapped (kind)
+2026-10-01,cryptogrove,CryptoGrove,bot,replace,https://t.me/cryptogrove_channel,https://t.me/Grove_crypto_bot,@Grove_crypto_bot is the bot and @cryptogrove_channel the channel: fields swapped (kind)
+2026-10-01,dark-roulette,DARK-ROULETTE,telegram,replace,https://t.me/dl_roulette_bot,https://t.me/nftroulette,@nftroulette is the channel and @dl_roulette_bot the bot: fields swapped (kind)
+2026-10-01,dark-roulette,DARK-ROULETTE,bot,replace,https://t.me/nftroulette,https://t.me/dl_roulette_bot,@dl_roulette_bot is the bot and @nftroulette the channel: fields swapped (kind)
+2026-10-01,digitcoin,Digitcoin,telegram,replace,https://t.me/digitcoin,https://t.me/digitcoin_community,@digitcoin_community is the channel and @digitcoin the bot: fields swapped (kind)
+2026-10-01,digitcoin,Digitcoin,bot,replace,https://t.me/digitcoin_community,https://t.me/digitcoin,@digitcoin is the bot and @digitcoin_community the channel: fields swapped (kind)
+2026-10-01,forge-hero,Forge Hero,telegram,replace,https://t.me/ForgeHeroBot,https://t.me/ForgeHero,@ForgeHero is the channel and @ForgeHeroBot the bot: fields swapped (kind)
+2026-10-01,forge-hero,Forge Hero,bot,replace,https://t.me/ForgeHero,https://t.me/ForgeHeroBot,@ForgeHeroBot is the bot and @ForgeHero the channel: fields swapped (kind)
+2026-10-01,fronex,Fronex,telegram,replace,https://t.me/fronexfun_bot,https://t.me/fronex_official,@fronex_official is the channel and @fronexfun_bot the bot: fields swapped (kind)
+2026-10-01,fronex,Fronex,bot,replace,https://t.me/fronex_official,https://t.me/fronexfun_bot,@fronexfun_bot is the bot and @fronex_official the channel: fields swapped (kind)
+2026-10-01,gram-city,GRAM CITY,telegram,replace,https://t.me/gramcity_games_bot,https://t.me/gramcity_chat,@gramcity_chat is the channel and @gramcity_games_bot the bot: fields swapped (kind)
+2026-10-01,gram-city,GRAM CITY,bot,replace,https://t.me/gramcity_chat,https://t.me/gramcity_games_bot,@gramcity_games_bot is the bot and @gramcity_chat the channel: fields swapped (kind)
+2026-10-01,moon-cards,Moon Cards,telegram,replace,https://t.me/MooncardsBot,https://t.me/mooncards,@mooncards is the channel and @MooncardsBot the bot: fields swapped (kind)
+2026-10-01,moon-cards,Moon Cards,bot,replace,https://t.me/mooncards,https://t.me/MooncardsBot,@MooncardsBot is the bot and @mooncards the channel: fields swapped (kind)
+2026-10-01,notto,Notto,telegram,replace,https://t.me/nottogame_bot,https://t.me/notto,@notto is the channel and @nottogame_bot the bot: fields swapped (kind)
+2026-10-01,notto,Notto,bot,replace,https://t.me/notto,https://t.me/nottogame_bot,@nottogame_bot is the bot and @notto the channel: fields swapped (kind)
+2026-10-01,racoin-app,Racoin APP,telegram,replace,https://t.me/racoin_appbot,https://t.me/racoin_community,@racoin_community is the channel and @racoin_appbot the bot: fields swapped (kind)
+2026-10-01,racoin-app,Racoin APP,bot,replace,https://t.me/racoin_community,https://t.me/racoin_appbot,@racoin_appbot is the bot and @racoin_community the channel: fields swapped (kind)
+2026-10-01,rockpaperscissorfu,RockPaperScissorFU🖕,bot,remove,https://t.me/XXXX_by_tallyup,,"@XXXX_by_tallyup is a channel (""Rock Paper Scissors FU 🖕 (by TallyUP)""), not a bot (kind)"
+2026-10-01,rockpaperscissorfu,RockPaperScissorFU🖕,telegram,remove,https://t.me/rpsfu_bot,,"@rpsfu_bot (""Rock Paper Scissors FU"") is a bot, not the project channel (kind)"
+2026-10-01,ton-tarria,Ton Tarria,telegram,replace,https://t.me/Tontarria_bot,https://t.me/TonTarria,@TonTarria is the channel and @Tontarria_bot the bot: fields swapped (kind)
+2026-10-01,ton-tarria,Ton Tarria,bot,replace,https://t.me/TonTarria,https://t.me/Tontarria_bot,@Tontarria_bot is the bot and @TonTarria the channel: fields swapped (kind)
+2026-10-01,tonly-trade,Tonly Trade,telegram,replace,https://t.me/Tonly_app_bot,https://t.me/tonly_app,@tonly_app is the channel and @Tonly_app_bot the bot: fields swapped (kind)
+2026-10-01,tonly-trade,Tonly Trade,bot,replace,https://t.me/tonly_app,https://t.me/Tonly_app_bot,@Tonly_app_bot is the bot and @tonly_app the channel: fields swapped (kind)
+2026-10-01,yuligo,YuliGo,bot,remove,https://t.me/yuligo_chat,,"@yuligo_chat is a group (""YuliGo""), not a bot (kind)"
+2026-10-01,cryptico,CRYPTICO,bot,remove,https://t.me/CisChatCryptico,,"@CisChatCryptico is a group (""CIS Chat ""CRYPTICO""""), not a bot (kind)"
+2026-10-01,otters,Otters,bot,remove,https://t.me/ottersgames,,"@ottersgames is a channel (""Otters Announcement""), not a bot (kind)"
+2026-10-01,earnigram-fantasy,Earnigram Fantasy,bot,remove,https://t.me/Earnigram_Group,,"@Earnigram_Group is a group (""Earnigram Community""), not a bot (kind)"
+2026-10-01,apexhash,#ApexHash,telegram,replace,https://t.me/apexhash_bot,https://t.me/apexhashcommunity,@apexhashcommunity is the channel and @apexhash_bot the bot: fields swapped (kind)
+2026-10-01,apexhash,#ApexHash,bot,replace,https://t.me/apexhashcommunity,https://t.me/apexhash_bot,@apexhash_bot is the bot and @apexhashcommunity the channel: fields swapped (kind)
+2026-10-01,1xmm-market-master,1xMM Market Master,telegram,replace,https://t.me/OneXMM_bot,https://t.me/onexmm_official,@onexmm_official is the channel and @OneXMM_bot the bot: fields swapped (kind)
+2026-10-01,1xmm-market-master,1xMM Market Master,bot,replace,https://t.me/onexmm_official,https://t.me/OneXMM_bot,@OneXMM_bot is the bot and @onexmm_official the channel: fields swapped (kind)
+2026-10-01,astrex,ASTREX,telegram,replace,https://t.me/astrex_bot,https://t.me/astrex_game,@astrex_game is the channel and @astrex_bot the bot: fields swapped (kind)
+2026-10-01,astrex,ASTREX,bot,replace,https://t.me/astrex_game,https://t.me/astrex_bot,@astrex_bot is the bot and @astrex_game the channel: fields swapped (kind)
+2026-10-01,buinkers,Buinkers,telegram,replace,https://t.me/buinkersbot,https://t.me/buinkers,@buinkers is the channel and @buinkersbot the bot: fields swapped (kind)
+2026-10-01,buinkers,Buinkers,bot,replace,https://t.me/buinkers,https://t.me/buinkersbot,@buinkersbot is the bot and @buinkers the channel: fields swapped (kind)
+2026-10-01,bytelords,ByteLords,telegram,replace,https://t.me/ByteLords_bot,https://t.me/ByteLordsChannel,@ByteLordsChannel is the channel and @ByteLords_bot the bot: fields swapped (kind)
+2026-10-01,bytelords,ByteLords,bot,replace,https://t.me/ByteLordsChannel,https://t.me/ByteLords_bot,@ByteLords_bot is the bot and @ByteLordsChannel the channel: fields swapped (kind)
+2026-10-01,chasing-jiggy,Chasing Jiggy,telegram,replace,https://t.me/ChasingJiggybot,https://t.me/chasingjiggycommunity,@chasingjiggycommunity is the channel and @ChasingJiggybot the bot: fields swapped (kind)
+2026-10-01,chasing-jiggy,Chasing Jiggy,bot,replace,https://t.me/chasingjiggycommunity,https://t.me/ChasingJiggybot,@ChasingJiggybot is the bot and @chasingjiggycommunity the channel: fields swapped (kind)
+2026-10-01,dig-it-gold-game,Dig It Gold Game,telegram,replace,https://t.me/dig_it_game_bot,https://t.me/DigItGoldGame,@DigItGoldGame is the channel and @dig_it_game_bot the bot: fields swapped (kind)
+2026-10-01,dig-it-gold-game,Dig It Gold Game,bot,replace,https://t.me/DigItGoldGame,https://t.me/dig_it_game_bot,@dig_it_game_bot is the bot and @DigItGoldGame the channel: fields swapped (kind)
+2026-10-01,doggiezen,DoggieZen,telegram,replace,https://t.me/doggiezenbot,https://t.me/doggiezen,@doggiezen is the channel and @doggiezenbot the bot: fields swapped (kind)
+2026-10-01,doggiezen,DoggieZen,bot,replace,https://t.me/doggiezen,https://t.me/doggiezenbot,@doggiezenbot is the bot and @doggiezen the channel: fields swapped (kind)
+2026-10-01,earnigram-prediction,Earnigram Prediction,bot,remove,https://t.me/earnigram,,"@earnigram is a channel (""Earnigram Announcement""), not a bot (kind)"
+2026-10-01,feline-dynasty,Feline Dynasty,telegram,replace,https://t.me/FelineDynastyBot,https://t.me/FelineDynastyOfficial,@FelineDynastyOfficial is the channel and @FelineDynastyBot the bot: fields swapped (kind)
+2026-10-01,feline-dynasty,Feline Dynasty,bot,replace,https://t.me/FelineDynastyOfficial,https://t.me/FelineDynastyBot,@FelineDynastyBot is the bot and @FelineDynastyOfficial the channel: fields swapped (kind)
+2026-10-01,goalchain,GoalChain,telegram,replace,https://t.me/goalchainbot,https://t.me/goalchain,@goalchain is the channel and @goalchainbot the bot: fields swapped (kind)
+2026-10-01,goalchain,GoalChain,bot,replace,https://t.me/goalchain,https://t.me/goalchainbot,@goalchainbot is the bot and @goalchain the channel: fields swapped (kind)
+2026-10-01,gold-age,Gold Age,telegram,replace,https://t.me/goldageio_bot,https://t.me/goldagechat,@goldagechat is the channel and @goldageio_bot the bot: fields swapped (kind)
+2026-10-01,gold-age,Gold Age,bot,replace,https://t.me/goldagechat,https://t.me/goldageio_bot,@goldageio_bot is the bot and @goldagechat the channel: fields swapped (kind)
+2026-10-01,gold-bux,Gold Bux,telegram,replace,https://t.me/GBux_Bot,https://t.me/gold_bux,@gold_bux is the channel and @GBux_Bot the bot: fields swapped (kind)
+2026-10-01,gold-bux,Gold Bux,bot,replace,https://t.me/gold_bux,https://t.me/GBux_Bot,@GBux_Bot is the bot and @gold_bux the channel: fields swapped (kind)
+2026-10-01,gumcoin,Gumcoin,telegram,replace,https://t.me/gumcoinBot,https://t.me/gumcoin,@gumcoin is the channel and @gumcoinBot the bot: fields swapped (kind)
+2026-10-01,gumcoin,Gumcoin,bot,replace,https://t.me/gumcoin,https://t.me/gumcoinBot,@gumcoinBot is the bot and @gumcoin the channel: fields swapped (kind)
+2026-10-01,hempton,Hempton,telegram,replace,https://t.me/hempton_bot,https://t.me/Hempton_CIS,@Hempton_CIS is the channel and @hempton_bot the bot: fields swapped (kind)
+2026-10-01,hempton,Hempton,bot,replace,https://t.me/Hempton_CIS,https://t.me/hempton_bot,@hempton_bot is the bot and @Hempton_CIS the channel: fields swapped (kind)
+2026-10-01,hydroponic-game,Hydroponic Game,telegram,replace,https://t.me/Hydrogame_bot,https://t.me/hydroponicgame,@hydroponicgame is the channel and @Hydrogame_bot the bot: fields swapped (kind)
+2026-10-01,hydroponic-game,Hydroponic Game,bot,replace,https://t.me/hydroponicgame,https://t.me/Hydrogame_bot,@Hydrogame_bot is the bot and @hydroponicgame the channel: fields swapped (kind)
+2026-10-01,iqcoin,IQcoin,telegram,replace,https://t.me/IQcoinApp_Bot,https://t.me/IQCOIN_Smart_Community,@IQCOIN_Smart_Community is the channel and @IQcoinApp_Bot the bot: fields swapped (kind)
+2026-10-01,iqcoin,IQcoin,bot,replace,https://t.me/IQCOIN_Smart_Community,https://t.me/IQcoinApp_Bot,@IQcoinApp_Bot is the bot and @IQCOIN_Smart_Community the channel: fields swapped (kind)
+2026-10-01,lll-lossless-lottery,LLL Lossless Lottery,telegram,replace,https://t.me/lll_space_bot,https://t.me/lll_space,@lll_space is the channel and @lll_space_bot the bot: fields swapped (kind)
+2026-10-01,lll-lossless-lottery,LLL Lossless Lottery,bot,replace,https://t.me/lll_space,https://t.me/lll_space_bot,@lll_space_bot is the bot and @lll_space the channel: fields swapped (kind)
+2026-10-01,malldriven-game,MallDriven Game,telegram,replace,https://t.me/MallDrivenBot,https://t.me/MallDriven,@MallDriven is the channel and @MallDrivenBot the bot: fields swapped (kind)
+2026-10-01,malldriven-game,MallDriven Game,bot,replace,https://t.me/MallDriven,https://t.me/MallDrivenBot,@MallDrivenBot is the bot and @MallDriven the channel: fields swapped (kind)
+2026-10-01,mars2049,Mars2049,telegram,replace,https://t.me/Mars2049_Bot,https://t.me/mars2049channel,@mars2049channel is the channel and @Mars2049_Bot the bot: fields swapped (kind)
+2026-10-01,mars2049,Mars2049,bot,replace,https://t.me/mars2049channel,https://t.me/Mars2049_Bot,@Mars2049_Bot is the bot and @mars2049channel the channel: fields swapped (kind)
+2026-10-01,moonpacket,moonpacket,telegram,replace,https://t.me/moonpacket_bot,https://t.me/moonpacketchat,@moonpacketchat is the channel and @moonpacket_bot the bot: fields swapped (kind)
+2026-10-01,moonpacket,moonpacket,bot,replace,https://t.me/moonpacketchat,https://t.me/moonpacket_bot,@moonpacket_bot is the bot and @moonpacketchat the channel: fields swapped (kind)
+2026-10-01,neo-tokyo-2099,NEO-TOKYO: 2099,telegram,replace,https://t.me/protocol2099_bot,https://t.me/ntp2099,@ntp2099 is the channel and @protocol2099_bot the bot: fields swapped (kind)
+2026-10-01,neo-tokyo-2099,NEO-TOKYO: 2099,bot,replace,https://t.me/ntp2099,https://t.me/protocol2099_bot,@protocol2099_bot is the bot and @ntp2099 the channel: fields swapped (kind)
+2026-10-01,nexus-coin,Nexus Coin,telegram,replace,https://t.me/nexuscoinofficial_bot,https://t.me/NexusCoinSohbet,@NexusCoinSohbet is the channel and @nexuscoinofficial_bot the bot: fields swapped (kind)
+2026-10-01,nexus-coin,Nexus Coin,bot,replace,https://t.me/NexusCoinSohbet,https://t.me/nexuscoinofficial_bot,@nexuscoinofficial_bot is the bot and @NexusCoinSohbet the channel: fields swapped (kind)
+2026-10-01,orbitfall,OrbitFall,telegram,replace,https://t.me/OrbitFallBot,https://t.me/OrbitfallNews,@OrbitfallNews is the channel and @OrbitFallBot the bot: fields swapped (kind)
+2026-10-01,orbitfall,OrbitFall,bot,replace,https://t.me/OrbitfallNews,https://t.me/OrbitFallBot,@OrbitFallBot is the bot and @OrbitfallNews the channel: fields swapped (kind)
+2026-10-01,pixel-hunter,Pixel Hunter,telegram,replace,https://t.me/PixelHuntergame_bot,https://t.me/pixelhuntergames_offical,@pixelhuntergames_offical is the channel and @PixelHuntergame_bot the bot: fields swapped (kind)
+2026-10-01,pixel-hunter,Pixel Hunter,bot,replace,https://t.me/pixelhuntergames_offical,https://t.me/PixelHuntergame_bot,@PixelHuntergame_bot is the bot and @pixelhuntergames_offical the channel: fields swapped (kind)
+2026-10-01,pokergram,Pokergram,telegram,replace,https://t.me/PokergramComBot,https://t.me/Pokergramnews,@Pokergramnews is the channel and @PokergramComBot the bot: fields swapped (kind)
+2026-10-01,pokergram,Pokergram,bot,replace,https://t.me/Pokergramnews,https://t.me/PokergramComBot,@PokergramComBot is the bot and @Pokergramnews the channel: fields swapped (kind)
+2026-10-01,projectfade,PROJECTFADE,telegram,replace,https://t.me/projectfade_bot,https://t.me/projectfade,@projectfade is the channel and @projectfade_bot the bot: fields swapped (kind)
+2026-10-01,projectfade,PROJECTFADE,bot,replace,https://t.me/projectfade,https://t.me/projectfade_bot,@projectfade_bot is the bot and @projectfade the channel: fields swapped (kind)
+2026-10-01,quantum-core,Quantum Core,telegram,replace,https://t.me/quantum_core_game_bot,https://t.me/quantumcoregame,@quantumcoregame is the channel and @quantum_core_game_bot the bot: fields swapped (kind)
+2026-10-01,quantum-core,Quantum Core,bot,replace,https://t.me/quantumcoregame,https://t.me/quantum_core_game_bot,@quantum_core_game_bot is the bot and @quantumcoregame the channel: fields swapped (kind)
+2026-10-01,qubbi,Qubbi,bot,remove,https://t.me/gemstargames,,"@gemstargames is a channel (""Gemstar""), not a bot (kind)"
+2026-10-01,quiz-wars,Quiz Wars,telegram,replace,https://t.me/quizwars_bot,https://t.me/quizwars,@quizwars is the channel and @quizwars_bot the bot: fields swapped (kind)
+2026-10-01,quiz-wars,Quiz Wars,bot,replace,https://t.me/quizwars,https://t.me/quizwars_bot,@quizwars_bot is the bot and @quizwars the channel: fields swapped (kind)
+2026-10-01,rarecrows,Rarecrows,bot,remove,https://t.me/RarecrowAnnouncements,,"@RarecrowAnnouncements is a channel (""Rarecrow Announcements""), not a bot (kind)"
+2026-10-01,rignite,Rignite,telegram,replace,https://t.me/RigniteBot,https://t.me/RigniteOfficial,@RigniteOfficial is the channel and @RigniteBot the bot: fields swapped (kind)
+2026-10-01,rignite,Rignite,bot,replace,https://t.me/RigniteOfficial,https://t.me/RigniteBot,@RigniteBot is the bot and @RigniteOfficial the channel: fields swapped (kind)
+2026-10-01,rumble-arcade,Rumble Arcade,telegram,replace,https://t.me/RumbleArcadeBot,https://t.me/RumbleArcadeNews,@RumbleArcadeNews is the channel and @RumbleArcadeBot the bot: fields swapped (kind)
+2026-10-01,rumble-arcade,Rumble Arcade,bot,replace,https://t.me/RumbleArcadeNews,https://t.me/RumbleArcadeBot,@RumbleArcadeBot is the bot and @RumbleArcadeNews the channel: fields swapped (kind)
+2026-10-01,runiverse-idle,Runiverse Idle,telegram,replace,https://t.me/runiverseidlebot,https://t.me/runiverseidle,@runiverseidle is the channel and @runiverseidlebot the bot: fields swapped (kind)
+2026-10-01,runiverse-idle,Runiverse Idle,bot,replace,https://t.me/runiverseidle,https://t.me/runiverseidlebot,@runiverseidlebot is the bot and @runiverseidle the channel: fields swapped (kind)
+2026-10-01,sans-feed-the-wolf,SANS — Feed the Wolf,telegram,replace,https://t.me/sanslicekilisbot,https://t.me/sanslicekilisduyuru,@sanslicekilisduyuru is the channel and @sanslicekilisbot the bot: fields swapped (kind)
+2026-10-01,sans-feed-the-wolf,SANS — Feed the Wolf,bot,replace,https://t.me/sanslicekilisduyuru,https://t.me/sanslicekilisbot,@sanslicekilisbot is the bot and @sanslicekilisduyuru the channel: fields swapped (kind)
+2026-10-01,sengoku-ton,Sengoku TON,bot,remove,https://t.me/sengoku_ton_chat,,"@sengoku_ton_chat is a group, moved to the telegram field (kind)"
+2026-10-01,sengoku-ton,Sengoku TON,telegram,replace,,https://t.me/sengoku_ton_chat,"@sengoku_ton_chat is a channel or group, moved from the bot field (kind)"
+2026-10-01,slime-smith,Slime Smith,telegram,replace,https://t.me/SlimeSmithBot,https://t.me/slimeminigames,@slimeminigames is the channel and @SlimeSmithBot the bot: fields swapped (kind)
+2026-10-01,slime-smith,Slime Smith,bot,replace,https://t.me/slimeminigames,https://t.me/SlimeSmithBot,@SlimeSmithBot is the bot and @slimeminigames the channel: fields swapped (kind)
+2026-10-01,star-industry,Star Industry,telegram,replace,https://t.me/starindustry_bot,https://t.me/starindustry_channel,@starindustry_channel is the channel and @starindustry_bot the bot: fields swapped (kind)
+2026-10-01,star-industry,Star Industry,bot,replace,https://t.me/starindustry_channel,https://t.me/starindustry_bot,@starindustry_bot is the bot and @starindustry_channel the channel: fields swapped (kind)
+2026-10-01,taptopia,TapTopia,telegram,replace,https://t.me/taptopiaio_bot,https://t.me/taptopia_io,@taptopia_io is the channel and @taptopiaio_bot the bot: fields swapped (kind)
+2026-10-01,taptopia,TapTopia,bot,replace,https://t.me/taptopia_io,https://t.me/taptopiaio_bot,@taptopiaio_bot is the bot and @taptopia_io the channel: fields swapped (kind)
+2026-10-01,tilda,Tilda,telegram,replace,https://t.me/TildaAppBot,https://t.me/TildaApp,@TildaApp is the channel and @TildaAppBot the bot: fields swapped (kind)
+2026-10-01,tilda,Tilda,bot,replace,https://t.me/TildaApp,https://t.me/TildaAppBot,@TildaAppBot is the bot and @TildaApp the channel: fields swapped (kind)
+2026-10-01,tokenxgames,TokenXGames,telegram,replace,https://t.me/TokenXGamesBot,https://t.me/tokenxgames,@tokenxgames is the channel and @TokenXGamesBot the bot: fields swapped (kind)
+2026-10-01,tokenxgames,TokenXGames,bot,replace,https://t.me/tokenxgames,https://t.me/TokenXGamesBot,@TokenXGamesBot is the bot and @tokenxgames the channel: fields swapped (kind)
+2026-10-01,tradyfi,TradyFi,telegram,replace,https://t.me/tradyfi_token_bot,https://t.me/TradyFiCC,@TradyFiCC is the channel and @tradyfi_token_bot the bot: fields swapped (kind)
+2026-10-01,tradyfi,TradyFi,bot,replace,https://t.me/TradyFiCC,https://t.me/tradyfi_token_bot,@tradyfi_token_bot is the bot and @TradyFiCC the channel: fields swapped (kind)
+2026-10-01,versus,Versus,telegram,replace,https://t.me/versus_app_bot,https://t.me/versus_community,@versus_community is the channel and @versus_app_bot the bot: fields swapped (kind)
+2026-10-01,versus,Versus,bot,replace,https://t.me/versus_community,https://t.me/versus_app_bot,@versus_app_bot is the bot and @versus_community the channel: fields swapped (kind)
+2026-10-01,vow-to-earn,VOW TO EARN,telegram,replace,https://t.me/vow_to_earn_bot,https://t.me/vow_crypto,@vow_crypto is the channel and @vow_to_earn_bot the bot: fields swapped (kind)
+2026-10-01,vow-to-earn,VOW TO EARN,bot,replace,https://t.me/vow_crypto,https://t.me/vow_to_earn_bot,@vow_to_earn_bot is the bot and @vow_crypto the channel: fields swapped (kind)
+2026-10-01,wovula,Wovula,telegram,replace,https://t.me/wovula_bot,https://t.me/wovula_official,@wovula_official is the channel and @wovula_bot the bot: fields swapped (kind)
+2026-10-01,wovula,Wovula,bot,replace,https://t.me/wovula_official,https://t.me/wovula_bot,@wovula_bot is the bot and @wovula_official the channel: fields swapped (kind)
+2026-10-01,slimak-adventures,Slimak Adventures,bot,remove,https://t.me/slimak_adventures,,"@slimak_adventures is a group (""Slimak Adventures Chat""), not a bot (kind)"
+2026-10-01,ai-angels,Ai Angels,bot,remove,https://t.me/AI_Angels_Official,,"@AI_Angels_Official is a group (""AI Angels Official""), not a bot (kind)"
+2026-10-01,casino-tg,Casino.tg,bot,remove,https://t.me/CasinoTGCommunity,,"@CasinoTGCommunity is a group, moved to the telegram field (kind)"
+2026-10-01,casino-tg,Casino.tg,telegram,replace,,https://t.me/CasinoTGCommunity,"@CasinoTGCommunity is a channel or group, moved from the bot field (kind)"
+2026-10-01,lucky-knight,Lucky Knight,telegram,replace,https://t.me/LuckyKnightBot,https://t.me/LuckyKnight_channel,@LuckyKnight_channel is the channel and @LuckyKnightBot the bot: fields swapped (kind)
+2026-10-01,lucky-knight,Lucky Knight,bot,replace,https://t.me/LuckyKnight_channel,https://t.me/LuckyKnightBot,@LuckyKnightBot is the bot and @LuckyKnight_channel the channel: fields swapped (kind)
+2026-10-01,mines-ton-giveaways,Mines Ton Giveaways,telegram,replace,https://t.me/mines_predictior_bot,https://t.me/mines_ton,@mines_ton is the channel and @mines_predictior_bot the bot: fields swapped (kind)
+2026-10-01,mines-ton-giveaways,Mines Ton Giveaways,bot,replace,https://t.me/mines_ton,https://t.me/mines_predictior_bot,@mines_predictior_bot is the bot and @mines_ton the channel: fields swapped (kind)
+2026-10-01,rocket-case,Rocket Case,telegram,replace,https://t.me/RocketCaseBot,https://t.me/RocketCaseNews,@RocketCaseNews is the channel and @RocketCaseBot the bot: fields swapped (kind)
+2026-10-01,rocket-case,Rocket Case,bot,replace,https://t.me/RocketCaseNews,https://t.me/RocketCaseBot,@RocketCaseBot is the bot and @RocketCaseNews the channel: fields swapped (kind)
+2026-10-01,ropsto,Ropsto,telegram,replace,https://t.me/ropstobot,https://t.me/ropsto,@ropsto is the channel and @ropstobot the bot: fields swapped (kind)
+2026-10-01,ropsto,Ropsto,bot,replace,https://t.me/ropsto,https://t.me/ropstobot,@ropstobot is the bot and @ropsto the channel: fields swapped (kind)
+2026-10-01,unlk-casino,UNLK Casino,telegram,replace,https://t.me/UNLKCasinoBot,https://t.me/UNLKCasino,@UNLKCasino is the channel and @UNLKCasinoBot the bot: fields swapped (kind)
+2026-10-01,unlk-casino,UNLK Casino,bot,replace,https://t.me/UNLKCasino,https://t.me/UNLKCasinoBot,@UNLKCasinoBot is the bot and @UNLKCasino the channel: fields swapped (kind)

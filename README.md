@@ -8,7 +8,7 @@ A library of Gram (TON) and core Telegram projects, grouped by what they do, wit
 
 **3186 projects in 32 categories: 927 active in Q3 2026, 2178 quiet, 81 closed.** 388 of the active ones are on the [Gram News map for Q3 2026](reports/2026-q3) ([article with interactive leaderboards](https://gramnews.org/articles/ton-ecosystem-map-q3-2026)). Plus 685 channels about TON and an [archive of 19 ecosystem maps](archive) by other authors, 2022 to 2026.
 
-Every link here is checked. [1015 links need a look](reports/link-check.md) (a wrong account, a dead page, or a name that does not match), and [220 names from older maps](data/unresolved.csv) still need a project to point to. Those two lists are the best place to start contributing. So far 1054 links have been replaced or removed and 74 confirmed, each with its evidence, in [data/link-fixes.csv](data/link-fixes.csv).
+Every link here is checked. [807 links need a look](reports/link-check.md) (a wrong account, a dead page, or a name that does not match), and [220 names from older maps](data/unresolved.csv) still need a project to point to. Those two lists are the best place to start contributing. So far 1272 links have been replaced or removed and 74 confirmed, each with its evidence, in [data/link-fixes.csv](data/link-fixes.csv).
 
 ## Contents
 
@@ -286,7 +286,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 5 | TAC ✓ |  | [Telegram](https://t.me/tacbuild) [Bot](https://t.me/tacairdrop_bot) |  | 2025-09-22 | [ton 25](archive/2025-07-ton.jpg) |
 | 6 | NEAR Intents |  | [Site](https://near-intents.org) |  |  |  |
 | 7 | TonTake Bridge | Благотворительно-развлекательная криптоорганизация. | [Telegram](https://t.me/TonTake) [X](https://x.com/tontakegame) | 84K views | 2026-10-01 |  |
-| 8 | Orbit Bridge | Orbit Chain Announcement Channel | [Telegram](https://t.me/OrbitChainChannel) [Bot](https://t.me/bion_announcements) [X](https://x.com/Orbit_Chain) [Site](https://bridge.orbitchain.io/) [GitHub](https://github.com/orbit-chain) | TVL $20K | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) |
+| 8 | Orbit Bridge | Orbit Chain Announcement Channel | [Telegram](https://t.me/OrbitChainChannel) [X](https://x.com/Orbit_Chain) [Site](https://bridge.orbitchain.io/) [GitHub](https://github.com/orbit-chain) | TVL $20K | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) |
 | 9 | SoDEX Bridge | SoDEX is a high-performance order book decentralized exchange (DEX) built on ValueChain. | [X](https://x.com/sodex_official) [Site](https://ssi.sosovalue.com) | TVL $12K |  |  |
 | 10 | TAC Cross Chain Layer | TAC Cross Chain Layer is a messaging and custody layer connecting TON and TAC EVM,… | [X](https://x.com/tacbuild) [Site](https://tac.build) | TVL $1.7M |  |  |
 | 11 | TON ↔ BSC |  | [Telegram](https://t.me/contest) [Bot](https://t.me/cryptouser_bot) [Site](https://bridge.ton.org) [GitHub](https://github.com/ton-blockchain) |  | 2026-10-01 |  |
@@ -557,7 +557,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 1 | TonNewbie | Канал посвящён новостям и полезной информации для Вашего развития в крипто мире. | [Telegram](https://t.me/tonnewbie) [X](https://x.com/ru) | 201K views | 2026-09-28 |  |
 | 2 | Be Unstoppable | Be Unstoppable — a cryptocurrency wallet supporting Bitcoin, Ethereum, and Zcash | [Telegram](https://t.me/unstoppable_announcements) [Bot](https://t.me/BeUnstoppable_bot) [X](https://x.com/unstoppablebyhs) [Site](https://unstoppable.money/) [GitHub](https://github.com/horizontalsystems) | 84K views, 10K MAU | 2026-10-01 |  |
 | 3 | iQuizMaster | Seize the chance to grab a million pounds, showcase your strength, and win huge prizes | [Bot](https://t.me/iquizmaster_bot) [X](https://x.com/snapsterbot) | 20K MAU |  |  |
-| 4 | BehLand - Web3 L2E | BehLand — an educational platform with Web3 elements | [Telegram](https://t.me/BehLand_Official) [Bot](https://t.me/BehLand_gp) [X](https://x.com/BehLandOfficial) [Site](https://beh.land) [GitHub](https://github.com/beh-land) | 6K views | 2026-10-01 |  |
+| 4 | BehLand - Web3 L2E | BehLand — an educational platform with Web3 elements | [Telegram](https://t.me/BehLand_Official) [X](https://x.com/BehLandOfficial) [Site](https://beh.land) [GitHub](https://github.com/beh-land) | 6K views | 2026-10-01 |  |
 
 [All 26 projects in Education](categories/education.md): 4 active, 22 quiet, 0 closed.
 

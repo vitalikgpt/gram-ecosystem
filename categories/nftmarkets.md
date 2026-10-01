@@ -135,7 +135,7 @@
 | 125 | Gifts Drop | Канал: @giftdropchannel Депозит подарками/поддержка - @giftdropsup | [Bot](https://t.me/giftdroptg_bot) | mentioned by 5 TON channels in Q3 |  |  |
 | 126 | GiftTop | Try your luck by opening the gift boxes. News: @GiftTop_Ru Gift: @GiftToGiftTop | [Bot](https://t.me/majesticgamebot) |  |  |  |
 | 127 | Glowie | certified glowie. i file dockets on the gramsupercycle. always right. never impressed. | [Bot](https://t.me/stickercapbot) | mentioned by 6 TON channels in Q3 |  |  |
-| 128 | GoGift | GoGift — a mini app for opening cases with NFT gifts, playing Crash and PvP battles. | [Telegram](https://t.me/GoGift_official_bot) [Bot](https://t.me/GoGift_announcements) |  |  |  |
+| 128 | GoGift | GoGift — a mini app for opening cases with NFT gifts, playing Crash and PvP battles. | [Telegram](https://t.me/GoGift_announcements) [Bot](https://t.me/GoGift_official_bot) |  |  |  |
 | 129 | Harbor Market |  | [Bot](https://t.me/harbormarketbot) |  |  | [ton 25](../archive/2025-07-ton.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 130 | Humans | Уникальная, лимитированная коллекция NFT аватаров на базе TON, выбери свой аватар! | [Site](https://getgems.io/collection/EQDgUeotvXbB1_YEIhrYvYHj8jO9rY6ud7uIW-TBTQIP2odD) |  |  |  |
 | 131 | Ihuima NFT | Самый ху#вый бот в мире Новости @ihuyma | [Bot](https://t.me/ihuima_bot) | mentioned by 6 TON channels in Q3 |  |  |
@@ -150,7 +150,7 @@
 | 142 | NameCatcher | Telegram usernames as an asset — catch mints, score any name, track the market. | [Bot](https://t.me/NameCatcherBot) [GitHub](https://github.com/productmap/namecatcher-skills) |  | 2026-07-16 |  |
 | 143 | NFT Collection Planner | Экспериментируй и создавай свои коллекции подарков Официальный канал:… | [Bot](https://t.me/giftconstruct_bot) | mentioned by 3 TON channels in Q3 |  |  |
 | 145 | NFT ONE |  | [X](https://x.com/nftoneio) [Site](https://nftone.io/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 146 | NFT Scanner | NFT Scanner — blockchain analysis and arbitrage opportunities tool | [Telegram](https://t.me/Arbitragescanner_official) [X](https://x.com/ArbitrageScan) [Site](https://arbitragescanner.io/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
+| 146 | NFT Scanner | NFT Scanner — blockchain analysis and arbitrage opportunities tool | [Bot](https://t.me/Arbitragescanner_official) [X](https://x.com/ArbitrageScan) [Site](https://arbitragescanner.io/) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 147 | NFT TONificaror |  | [Bot](https://t.me/rb_click_bot) |  |  |  |
 | 148 | NFTWallet |  |  |  |  |  |
 | 149 | NoName Scanner | Scan TON tokens and stickers by @NoNameDev support: @pickless404 | [Bot](https://t.me/scannernnbot) | mentioned by 5 TON channels in Q3 |  |  |
@@ -173,7 +173,7 @@
 | 166 | SafeApe | Торгуй по реальным графикам на виртуальный банк, забирай кейсы, турниры и сезонные… | [Bot](https://t.me/safe_ape_bot) | mentioned by 5 TON channels in Q3 |  |  |
 | 167 | Shuttles | 🚀 Shuttles is a cosmic Web3 game on Telegram. Battle in PvP, upgrade your shuttle, and… | [Bot](https://t.me/shuttles_moon_bot) | mentioned by 13 TON channels in Q3 |  |  |
 | 168 | SimpleNFT | Simplifying web3 monetization for developers. For creators by creators. | [Bot](https://t.me/simplenftbot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 171 | SpinMi | Creating animated coin emojis in Telegram | [Telegram](https://t.me/spinmibot) [Bot](https://t.me/spinminews) [X](https://x.com/spinmibot) [Site](https://spinmi.xyz) |  |  |  |
+| 171 | SpinMi | Creating animated coin emojis in Telegram | [Telegram](https://t.me/spinminews) [Bot](https://t.me/spinmibot) [X](https://x.com/spinmibot) [Site](https://spinmi.xyz) |  |  |  |
 | 172 | Spy | Explore NFT data easily — track wallets, floor prices & ownership. Stay updated on… | [Bot](https://t.me/spyggbot) |  |  |  |
 | 173 | StarsPrime - купить звезды и премиум | Звёзды, Premium и скрытые подарки Поддержка: @StarsHelpDesk | [Bot](https://t.me/starsprimesbot) | mentioned by 3 TON channels in Q3 |  |  |
 | 175 | Telegram Numbers | Trade IDs not tied to a SIM card which allow logging into Telegram with your blockchain… | [Site](https://fragment.com/numbers) |  |  |  |
@@ -194,7 +194,7 @@
 | 194 | Utya Stars / Купить звезды | Бот для покупки Telegram Premium, TON, Telegram Stars, со скидкой до 47% от @giftsutya | [Bot](https://t.me/starsutya_bot) | mentioned by 6 TON channels in Q3 |  |  |
 | 195 | v gift |  | [Bot](https://t.me/vgiftt_bot) | mentioned by 5 TON channels in Q3 |  |  |
 | 196 | VillaTon | Надежный сервис — по продаже Ton, stars, Premium, удаленные подарки и прочее от канала… | [Bot](https://t.me/villaton_bot) | mentioned by 4 TON channels in Q3 |  |  |
-| 197 | VOLYA HYPE | VOLYA HYPE is the counterpart to VOLYA FORGE. | [Telegram](https://t.me/volyamintbot) [Bot](https://t.me/volya_ton) [X](https://x.com/volya_ton) [Site](https://app.volya.world) |  |  |  |
+| 197 | VOLYA HYPE | VOLYA HYPE is the counterpart to VOLYA FORGE. | [Telegram](https://t.me/volya_ton) [Bot](https://t.me/volyamintbot) [X](https://x.com/volya_ton) [Site](https://app.volya.world) |  |  |  |
 | 198 | VORTEX 🚀 | CHANNEL — @Vortex_Crash GIFTS — @Vortex_Relayer SUPPORT — @Vortex_Support_Team_bot | [Bot](https://t.me/vortex_robot) | mentioned by 4 TON channels in Q3 |  |  |
 | 199 | Web3TON NFT | Web3TON is the first NFT project dedicated to the future Web 3.0 Internet on TON. | [Site](https://web3ton.pro) |  |  |  |
 | 200 | Welcome to @Whale 🐳 | Each digital artwork represents a memorable token earned after successfully completing a… | [Telegram](https://t.me/whale) [X](https://x.com/whalegames_en) [Site](https://whale.io) |  |  |  |
@@ -211,7 +211,7 @@
 | 212 | 🪐 ASTROPUNK | A beautiful and unusual collection of astro-monkeys with their own history that are… | [Site](https://getgems.io/collection/EQB9cmgY_7BAeufdhYacKRTrxniEnJwyTvQJWAm2xlw48cdf) |  |  |  |
 | 213 | Telegram Stickers / Стикеры | Самый большой каталог стикеров телеграм! Сделать свои стикеры: @MoiStikiBot 💬Чат… | [Telegram](https://t.me/tgsticker) [Bot](https://t.me/moistikibot) | mentioned by 4 TON channels in Q3 | 2026-10-01 |  |
 | 214 | Art Incubator Coins | Craft your very own BEETON COIN, cast in gleaming gold, that showers its owner with… | [Telegram](https://t.me/beetontoken) [Bot](https://t.me/art_incubator_bot) [Site](https://getgems.io/collection/EQDB6DRfTh8zN-5MzmS9R6U5x44T2yESwuX-5ACXUAx4fMf9) |  | 2026-07-30 |  |
-| 215 | Chainsim | Chainsim Official Channel 💎 | [Telegram](https://t.me/getchainsim) [Bot](https://t.me/chainsim_chat) [X](https://x.com/getchainsim) [Site](https://app.chainsim.io) [GitHub](https://github.com/chainsim/sdk-node) |  | 2026-06-11 |  |
+| 215 | Chainsim | Chainsim Official Channel 💎 | [Telegram](https://t.me/getchainsim) [X](https://x.com/getchainsim) [Site](https://app.chainsim.io) [GitHub](https://github.com/chainsim/sdk-node) |  | 2026-06-11 |  |
 | 216 | Helmets | In Helmets, you embark on an exciting journey where you can collect points by completing… | [Telegram](https://t.me/tonhelmets) [Bot](https://t.me/helmetsbot) [Site](https://getgems.io/helmets) |  | 2026-05-29 |  |
 | 217 | HAVEUN | Приложение для размещения Юзернеймов, Вы можете добавить свой Юзернейм в виде… | [Telegram](https://t.me/Haveuncom) [Bot](https://t.me/haveun_bot) [Site](https://haveun.com/) |  | 2026-05-24 |  |
 | 218 | Meta Panthers | @LibermallBot: Торговая площадка с низкой комиссией. Создавайте, продавайте и покупайте… | [Telegram](https://t.me/metapanthers_ru) [Bot](https://t.me/libermallbot) [X](https://x.com/LibermallNFT) [Site](https://metapanthers.ru) [GitHub](https://github.com/LiberMall) |  | 2026-09-20 |  |

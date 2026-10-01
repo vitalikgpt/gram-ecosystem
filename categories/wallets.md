@@ -64,13 +64,13 @@
 | 49 | Crypto Wallet Libermall Card | Крипто-карты Visa/MC · Apple & Google Pay · выпуск за минуты · кешбэк до 5% · пополнение… | [Bot](https://t.me/libermallcardbot) | mentioned by 10 TON channels in Q3 |  |  |
 | 50 | Crypto Wallet • DeFi Card | Multicurrency Crypto Wallet by @Tegro_Finance. Pay with cryptocurrency, view… | [Bot](https://t.me/tegrowalletbot) | mentioned by 9 TON channels in Q3 |  |  |
 | 51 | FadeWallet | 🛡 FadeWallet — Обмен, управление и хранение в одном месте. | [Bot](https://t.me/fadewalletbot) |  |  |  |
-| 52 | HN wallet |  | [Telegram](https://t.me/HN_Wallet_bot) |  |  |  |
+| 52 | HN wallet |  | [Bot](https://t.me/HN_Wallet_bot) |  |  |  |
 | 53 | KaiOS Wallet |  | [Telegram](https://t.me/vinayakkalra) [GitHub](https://github.com/kaifoundry/ton-kaios-wallet) |  | 2023-09-26 |  |
 | 54 | Matrix Wallet | Self-custodial, multi-chain wallet on Telegram. | [Bot](https://t.me/MatrixWalletBot) [Site](https://) [GitHub](https://github.com/rangersprotocolcode) |  | 2025-07-28 |  |
 | 55 | Mixin Messenger |  | [Site](https://mixin.one/messenger) |  |  |  |
 | 56 | notonbot |  | [Bot](https://t.me/notonoffice_bot) |  |  |  |
 | 57 | ONTO Wallet | Manage your own digital identities, data and assets. | [Telegram](https://t.me/ONTOWallet) [X](https://x.com/ONTOWallet) [Site](https://onto.app/) [GitHub](https://github.com/ontio/ontology) |  | 2026-09-02 |  |
-| 58 | OpenMask |  | [Telegram](https://t.me/CryptoMind_TON_BOT) [Site](https://chrome.google.com/webstore/detail/openmask/penjlddjkjgpnkllboccdgccekpkcbin?utm_source=openmask) |  |  | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
+| 58 | OpenMask |  | [Site](https://chrome.google.com/webstore/detail/openmask/penjlddjkjgpnkllboccdgccekpkcbin?utm_source=openmask) |  |  | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
 | 59 | OpenShield | Conveniently interact with digital assets. | [Bot](https://t.me/OpenShieldBot) |  |  |  |
 | 60 | Paybis Wallet | Paybis Wallet — cryptocurrency wallet | [Bot](https://t.me/paybis_crypto_exchange_bot) [X](https://x.com/paybis) [Site](https://paybis.com/?utm_source=TonApp&utm_medium=Wallets_lisitng&utm_campaign=website) |  |  |  |
 | 61 | Payscrow Wallet | Payscrow Wallet - криптокошелек с виртуальными картами Visa для ежедневных платежей | [Bot](https://t.me/payscrowwalletbot) | mentioned by 3 TON channels in Q3 |  |  |
@@ -110,4 +110,4 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 92 | GetTON | Service that lets you create custom wallet addresses ending with any 3–5 characters you… | [Bot](https://t.me/gettonapp_bot) [Site](https://getton.app) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 93 | Fintopio |  | [Telegram](https://t.me/fintopionews) [Bot](https://t.me/fintopio) [X](https://x.com/fintopio) [Site](https://fintopio.com/) |  | 2025-10-22 | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
+| 93 | Fintopio |  | [Telegram](https://t.me/fintopionews) [X](https://x.com/fintopio) [Site](https://fintopio.com/) |  | 2025-10-22 | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |

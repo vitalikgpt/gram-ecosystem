@@ -66,7 +66,7 @@ exchanges,64,Excoino,excoino,quiet,0,,,https://t.me/excoino,https://t.me/tonbuyt
 exchanges,65,NovaDax,novadax,quiet,0,,,https://t.me/livehub_to,,https://x.com/livehub_to,https://www.novadax.com.br/product/orderbook?pair=TON_BRL,,2025-05-04,,,,,,,gramnews-apps ton.app,
 exchanges,66,90Rich,90rich,quiet,0,,,https://t.me/Channel_90Rich,,,,,2025-04-10,,,,,,,gramnews-apps ton.app,
 exchanges,67,LBank Exchange,lbank-exchange,closed,0,,,,,,,,2024-10-19,,,,,,,gramnews-apps ton.app,
-exchanges,68,Neocrypto,neocrypto,closed,0,,,https://t.me/cryptoviewerton_bot,https://t.me/cryptoviewerton,,https://neocrypto.net,,,,,,,,,2023-10-tonpost gramnews-apps ton.app,
+exchanges,68,Neocrypto,neocrypto,closed,0,,,,,,https://neocrypto.net,,,,,,,,,2023-10-tonpost gramnews-apps ton.app,
 custodial,1,@Walt,wallet,active,1,1,telegram+gramnews,https://t.me/walt_news,https://t.me/walt,,https://walt.app,,2026-10-01,,7962500,7962500,63,,,2023-10-tonpost 2024-06-dwf-ventures 2024-06-ton-degen 2025-07-ton dyor.io gramnews-apps gramnews-feed gramnews-q3-2026 ton-society-ecosystem-map ton.app,"Crypto wallet for sending and buying USDT, gold, bitcoin, and other tokens."
 custodial,2,@Send,crypto-bot,active,1,1,telegram+mau,https://t.me/cryptobotru,https://t.me/send,https://x.com/CryptoBotHQ,,https://github.com/cryptopay-dev,2026-09-03,2026-09-30,1518100,1518100,19,1444523,,2023-10-tonpost 2024-06-dwf-ventures 2024-06-ton-degen 2025-07-ton 2025-ton-cis-hub dyor.io gramnews-apps gramnews-q3-2026 ton-society-ecosystem-map ton.app,"Crypto Bot is a wallet for buying, selling, and storing cryptocurrency in Telegram."
 custodial,3,@XRocket,xrocket,active,1,1,telegram+mau,https://t.me/xrocketnews,https://t.me/xrocket,https://x.com/xRocket_tg,https://xrocket.exchange,,2026-10-01,,515111,114980,17,515111,,2023-10-tonpost 2025-07-ton 2025-07-ton-cis-hub-q2 2025-ton-cis-hub dyor.io gramnews-apps gramnews-q3-2026 ton-society-ecosystem-map ton.app,xRocket is a wallet and crypto exchange inside Telegram
@@ -123,13 +123,13 @@ wallets,48,Coin Wallet,coin-wallet,quiet,0,,,,https://t.me/attackdetectorbot,htt
 wallets,49,Crypto Wallet Libermall Card,crypto-wallet-libermall-card,quiet,0,,,,https://t.me/libermallcardbot,,,,,,,,,,mentioned by 10 TON channels in Q3,ton-channel-posts,Крипто-карты Visa/MC · Apple & Google Pay · выпуск за минуты · кешбэк до 5% · пополнение USDT-TRC20 без комиссии
 wallets,50,Crypto Wallet • DeFi Card,crypto-wallet-defi-card,quiet,0,,,,https://t.me/tegrowalletbot,,,,,,,,,,mentioned by 9 TON channels in Q3,ton-channel-posts,"Multicurrency Crypto Wallet by @Tegro_Finance. Pay with cryptocurrency, view transactions, checks, payments @TegroMoney"
 wallets,51,FadeWallet,fadewallet,quiet,0,,,,https://t.me/fadewalletbot,,,,,,,,,,,findmini,"🛡 FadeWallet — Обмен, управление и хранение в одном месте."
-wallets,52,HN wallet,hn-wallet,quiet,0,,,https://t.me/HN_Wallet_bot,,,,,,,,,,,,gramnews-apps ton.app,
+wallets,52,HN wallet,hn-wallet,quiet,0,,,,https://t.me/HN_Wallet_bot,,,,,,,,,,,gramnews-apps ton.app,
 wallets,53,KaiOS Wallet,kaios-wallet,quiet,0,,,https://t.me/vinayakkalra,,,,https://github.com/kaifoundry/ton-kaios-wallet,,2023-09-26,,,,,,ton-society-ecosystem-map,
 wallets,54,Matrix Wallet,matrix-wallet,quiet,0,,,,https://t.me/MatrixWalletBot,,https://,https://github.com/rangersprotocolcode,,2025-07-28,,,,,,dyor.io gramnews-apps ton.app,"Self-custodial, multi-chain wallet on Telegram."
 wallets,55,Mixin Messenger,mixin-messenger,quiet,0,,,,,,https://mixin.one/messenger,,,,,,,,,gramnews-apps ton-society-ecosystem-map ton.app,
 wallets,56,notonbot,notonbot,quiet,0,,,,https://t.me/notonoffice_bot,,,,,,,,,,,dyor.io gramnews-apps,
 wallets,57,ONTO Wallet,onto-wallet,quiet,0,,,https://t.me/ONTOWallet,,https://x.com/ONTOWallet,https://onto.app/,https://github.com/ontio/ontology,,2026-09-02,,,,,,gramnews-apps ton.app,"Manage your own digital identities, data and assets."
-wallets,58,OpenMask,openmask,quiet,0,,,https://t.me/CryptoMind_TON_BOT,,,https://chrome.google.com/webstore/detail/openmask/penjlddjkjgpnkllboccdgccekpkcbin?utm_source=openmask,,,,,,,,,2025-07-ton 2026-05-messari gramnews-apps ton.app,
+wallets,58,OpenMask,openmask,quiet,0,,,,,,https://chrome.google.com/webstore/detail/openmask/penjlddjkjgpnkllboccdgccekpkcbin?utm_source=openmask,,,,,,,,,2025-07-ton 2026-05-messari gramnews-apps ton.app,
 wallets,59,OpenShield,openshield,quiet,0,,,,https://t.me/OpenShieldBot,,,,,,,,,,,dyor.io gramnews-apps ton.app,Conveniently interact with digital assets.
 wallets,60,Paybis Wallet,paybis-wallet,quiet,0,,,,https://t.me/paybis_crypto_exchange_bot,https://x.com/paybis,https://paybis.com/?utm_source=TonApp&utm_medium=Wallets_lisitng&utm_campaign=website,,,,,,,,,dyor.io gramnews-apps ton.app,Paybis Wallet — cryptocurrency wallet
 wallets,61,Payscrow Wallet,payscrow-wallet,quiet,0,,,,https://t.me/payscrowwalletbot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,Payscrow Wallet - криптокошелек с виртуальными картами Visa для ежедневных платежей
@@ -164,7 +164,7 @@ wallets,89,Defexa,defexa,quiet,0,,,https://t.me/defexa,,https://x.com/DefexaCryp
 wallets,90,Tonspack,tonspack,quiet,0,,,,https://t.me/tonspack_bot,https://x.com/tonspack,,https://github.com/tonspay,2024-08-28,2025-06-23,,,,,,gramnews-apps ton.app,The first telegram multi-chain MPC wallet .
 wallets,91,OpenMask,openmask-2,quiet,0,,,https://t.me/openproduct,,https://x.com/openmask_wallet,https://github.com/openproduct/openmask-extension,https://github.com/fluidicon.png,2023-09-12,,,,,,,dyor.io gramnews-apps ton-society-ecosystem-map,
 wallets,92,GetTON,getton,closed,0,,,,https://t.me/gettonapp_bot,,https://getton.app,,,,,,,,,2025-ton-cis-hub gramnews-apps ton.app,Service that lets you create custom wallet addresses ending with any 3–5 characters you choose.
-wallets,93,Fintopio,fintopio,closed,0,,,https://t.me/fintopionews,https://t.me/fintopio,https://x.com/fintopio,https://fintopio.com/,,2025-10-22,,,,,,,2025-07-ton 2025-08-tradoor dyor.io gramnews-apps ton.app,
+wallets,93,Fintopio,fintopio,closed,0,,,https://t.me/fintopionews,,https://x.com/fintopio,https://fintopio.com/,,2025-10-22,,,,,,,2025-07-ton 2025-08-tradoor dyor.io gramnews-apps ton.app,
 dex,1,STON.fi,ston-fi,active,1,1,telegram,https://t.me/stonfidex,https://t.me/ston_fi,https://x.com/ston_fi,https://ston.fi,https://github.com/ston-fi,2026-10-01,2026-09-30,424646,424646,84,,,2023-10-tonpost 2024-06-dwf-ventures 2024-06-ton-degen 2025-07-ton 2025-08-tradoor 2026-05-messari defillama dyor.io gramnews-apps gramnews-feed gramnews-q3-2026 ton-society-ecosystem-map ton.app,"STON.fi — swap tokens across TON, EVM, and TRON in one interface"
 dex,2,STON.fi Bot,stonfi-bot,active,1,1,telegram+mau,https://t.me/stonfidex,https://t.me/stonfi_bot,https://x.com/ston_fi,https://app.ston.fi,https://github.com/ston-fi,2026-10-01,2026-09-30,424646,424646,84,26723,,gramnews-apps gramnews-q3-2026,"STON.fi: Cross-chain DeFi, without the chaos."
 dex,3,DeDust,dedust-io,active,1,1,x,https://t.me/dedust_en,https://t.me/dedustBot,https://x.com/dedust_io,https://dedust.io,https://github.com/dedust-io,2026-06-15,2026-05-07,12600,,,,,2023-10-tonpost 2024-06-dwf-ventures 2024-06-ton-degen 2025-07-ton 2026-05-messari defillama dyor.io gramnews-apps gramnews-q3-2026 ton-society-ecosystem-map ton.app,Decentralized exchange on TON
@@ -214,7 +214,7 @@ dex,46,Polkaswap DEX,polkaswap-dex,quiet,0,,,https://t.me/polkaswap,https://t.me
 dex,47,Prebit.io,prebit-io,quiet,0,,,,https://t.me/PrebitAuthBot,https://x.com/prebit_io,https://www.prebit.io,,,,,,,,,gramnews-apps ton.app,Prebit.io — a decentralized exchange for trading Bitcoin with leverage up to 1001×
 dex,48,Snorter Bot,snorter-bot,quiet,0,,,,,,https://bs_6847cd65.medexa.care,,,,,,,,,gramnews-apps ton.app,
 dex,49,SwapSwop,swapswop,quiet,0,,,,,,https://swapswop.io/,,,,,,,,,gramnews-apps ton.app,
-dex,50,UpFin Trading Bot,upfin-trading-bot,quiet,0,,,https://t.me/upfin_bot,https://t.me/UpFinChannel,https://x.com/UpFinTrade,https://bit.ly/4lKLauS,,,,,,,,,gramnews-apps ton.app,
+dex,50,UpFin Trading Bot,upfin-trading-bot,quiet,0,,,https://t.me/upfin_bot,,https://x.com/UpFinTrade,https://bit.ly/4lKLauS,,,,,,,,,gramnews-apps ton.app,
 dex,51,UTYABSWAP,utyabswap,quiet,0,,,,https://t.me/utyabswapbot,,,,,,,,,,,2024-06-ton-degen,
 dex,52,What Swap,what-swap,quiet,0,,,,https://t.me/what_swap_bot,https://x.com/bigbangdear,https://what-swap.vercel.app/,https://github.com/bigbanghere/what-swap,,2025-12-18,,,,,,dyor.io gramnews-apps ton.app,
 dex,53,XBOT,xbot,quiet,0,,,,https://t.me/chainspyrobot,https://x.com/twinbyxbot,,,,,,,,,,dyor.io gramnews-apps,Crypto tools and DEX trading right in your Telegram
@@ -268,21 +268,21 @@ payments,33,DeDonate,dedonate,quiet,0,,,,,,,https://github.com/delab-team,,2025-
 payments,34,Donate,donate,quiet,0,,,,https://t.me/donate,,,,,,,,,,,2023-10-tonpost,This bot helps content creators receive financial support from their followers directly in the app.
 payments,35,EDGE STARS,edge-stars,quiet,0,,,,https://t.me/edge_stars_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,Поддержка: @EDGE_HELP_BOT
 payments,36,iVendPay,ivendpay,quiet,0,,,,,https://x.com/ivendpay,,,,,,,,,,ton-society-ecosystem-map,
-payments,37,LaFTon Bot,lafton-bot,quiet,0,,,https://t.me/LaFTonBot,https://t.me/LaFTon,https://x.com/laftonnews,,,,,,,,,,gramnews-apps ton.app,"Buy Stars, Premium, and top up TON in Telegram with payments in any cryptocurrencies."
+payments,37,LaFTon Bot,lafton-bot,quiet,0,,,https://t.me/LaFTon,https://t.me/LaFTonBot,https://x.com/laftonnews,,,,,,,,,,gramnews-apps ton.app,"Buy Stars, Premium, and top up TON in Telegram with payments in any cryptocurrencies."
 payments,38,Luxury Stars / Купить Звезды и Premium,luxury-stars-premium,quiet,0,,,,https://t.me/lxstarsbot,,https://luxurystars.tg,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,"Звезды, Premium и пополнение баланса Gram без KYC Сайт: https://luxurystars.tg Поддержка: @LuxuryStars_support"
 payments,39,Moneton,moneton,quiet,0,,,,https://t.me/moneton_bot,,,,,,,,,,,ton-society-ecosystem-map,
-payments,40,MugglePay,mugglepay,quiet,0,,,https://t.me/mugglechatbot,,https://x.com/paymuggle,,https://github.com/mugglepay,,2026-03-16,,,,,,ton-society-ecosystem-map,
-payments,41,MyStars.tg,mystars-tg,quiet,0,,,https://t.me/my_stars_tg_bot,https://t.me/mystarstg_official,https://x.com/MyStars_tg,https://mystars.tg,https://github.com/mystars-tg,,2026-09-24,,,,,,gramnews-apps ton.app,"Buy Telegram Stars and Premium with TON/USDT, no KYC"
-payments,42,PassimPay,passimpay,quiet,0,,,https://t.me/PassimPayAPP_Bot,https://t.me/Passim_Pay,https://x.com/passimpay,https://passimpay.io/,https://github.com/Passimpay,,2026-09-29,,,,,,gramnews-apps ton.app,PassimPay – payment gateway for business
+payments,40,MugglePay,mugglepay,quiet,0,,,,,https://x.com/paymuggle,,https://github.com/mugglepay,,2026-03-16,,,,,,ton-society-ecosystem-map,
+payments,41,MyStars.tg,mystars-tg,quiet,0,,,https://t.me/mystarstg_official,https://t.me/my_stars_tg_bot,https://x.com/MyStars_tg,https://mystars.tg,https://github.com/mystars-tg,,2026-09-24,,,,,,gramnews-apps ton.app,"Buy Telegram Stars and Premium with TON/USDT, no KYC"
+payments,42,PassimPay,passimpay,quiet,0,,,https://t.me/Passim_Pay,https://t.me/PassimPayAPP_Bot,https://x.com/passimpay,https://passimpay.io/,https://github.com/Passimpay,,2026-09-29,,,,,,gramnews-apps ton.app,PassimPay – payment gateway for business
 payments,43,PayCrypto.Global,paycrypto-global,quiet,0,,,,,https://x.com/paycryptoglobal,https://paycrypto.global,,,,,,,,,gramnews-apps ton.app,
 payments,44,QR2Pay,qr2pay,quiet,0,,,,https://t.me/qr2pay_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,- Сервис для оплаты QR СБП с помощью USDT - Virtual card c поддержкой Apple\Google pay Поддержка @QR2Pay_Supportbot
-payments,45,Seconds Market,seconds-market,quiet,0,,,https://t.me/Seconds_market_bot,https://t.me/Seconds_market,https://x.com/Seconds_Market,https://secondsmarket.store,,,,,,,,,gramnews-apps ton.app,A service for buying and selling Telegram Stars
+payments,45,Seconds Market,seconds-market,quiet,0,,,https://t.me/Seconds_market,https://t.me/Seconds_market_bot,https://x.com/Seconds_Market,https://secondsmarket.store,,,,,,,,,gramnews-apps ton.app,A service for buying and selling Telegram Stars
 payments,46,Spend App — Купить Звезды,spend-app,quiet,0,,,,https://t.me/spendtgbot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,Fast. Secure. Simple. Fragment or Major. spend.tg
 payments,47,Stargram,stargram,quiet,0,,,,https://t.me/stargram_official_bot,,,,,,,,,,,findmini,"Stars, Premium & TON"
 payments,48,StarShip - Звезды со Скидкой!,starship,quiet,0,,,,https://t.me/starsshipbot,,,,,,,,,,mentioned by 8 TON channels in Q3,ton-channel-posts,Купить Звезды Телеграм быстро и удобно! Support: @StarShipHelp
 payments,49,StarsShopApp,starsshopapp,quiet,0,,,,https://t.me/starsshopapp_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,Покупка/продажа ⭐ Owner: @Oleksandr1234q
-payments,50,StarStore,starstore,quiet,0,,,https://t.me/TgStarStore_bot,https://t.me/StarStore_app,,https://starstore.app/,,,,,,,,,gramnews-apps ton.app,StarStore: A Telegram platform for stars—buy and sell stars with ease
-payments,51,Swipelux,swipelux,quiet,0,,,https://t.me/alwaysmoney_sup,https://t.me/alwaysmoneyorg,,https://swipelux.com/?utm_source=tonapp&utm_medium=referral&utm_campaign=inbound,,,,,,,,,gramnews-apps ton.app,
+payments,50,StarStore,starstore,quiet,0,,,https://t.me/StarStore_app,https://t.me/TgStarStore_bot,,https://starstore.app/,,,,,,,,,gramnews-apps ton.app,StarStore: A Telegram platform for stars—buy and sell stars with ease
+payments,51,Swipelux,swipelux,quiet,0,,,,,,https://swipelux.com/?utm_source=tonapp&utm_medium=referral&utm_campaign=inbound,,,,,,,,,gramnews-apps ton.app,
 payments,52,Tegro DeFi Crypto Payments,tegro-defi-crypto-payments,quiet,0,,,,https://t.me/tegromoneybot,,,,,,,,,,mentioned by 11 TON channels in Q3,ton-channel-posts,"Tegro ecosystem in one bot. No-KYC crypto cards, a DeFi exchange, staking and payments. The Open Network"
 payments,53,Tegro Private USDt Card,tegro-private-usdt-card,quiet,0,,,,https://t.me/tegrocardbot,,,,,,,,,,mentioned by 9 TON channels in Q3,ton-channel-posts,Anonymous crypto cards for Telegram users. No KYC. No limits on freedom by @TegroMoney.
 payments,54,TonoGram,tonogram,closed,0,,,,,,,,,,,,,,,gramnews-apps ton-society-ecosystem-map ton.app,
@@ -349,7 +349,7 @@ infra,24,NOWNodes,nownodes,active,0,,github,https://t.me/nownodes,,https://x.com
 infra,25,TON Access,ton-access,active,0,,github,https://t.me/orbsnetwork,,,,https://github.com/orbs-network,,2026-10-01,,,,,,ton-society-ecosystem-map,
 infra,26,GetBlock,getblock,quiet,0,,,https://t.me/getblockio_eng,,https://x.com/getblockio,,,,,,,,,,2025-07-ton ton-society-ecosystem-map,"Premium infrastructure provider for Web3 and AI, 130+ networks, AML, Data Streams, and more"
 infra,27,Resistance Storage Bot,resistance-storage-bot,quiet,0,,,,https://t.me/resistoragebot,,,,,,,,,,mentioned by 5 TON channels in Q3,ton-channel-posts,Free TON Storage Provider Bag Explorer Mini-App Decentralized Storage Indexer piracy.ton
-infra,28,TON Console (TonAPI),ton-console-tonapi,quiet,0,,,https://t.me/tonrostislav,,,,https://github.com/tonkeeper/tonapi,,2023-06-01,,,,,,ton-society-ecosystem-map,
+infra,28,TON Console (TonAPI),ton-console-tonapi,quiet,0,,,,,,,https://github.com/tonkeeper/tonapi,,2023-06-01,,,,,,ton-society-ecosystem-map,
 infra,29,TON Search Engine,ton-search-engine,quiet,0,,,https://t.me/runner_ton,,,,,,,,,,,,ton-society-ecosystem-map,
 infra,30,TON Torrents,ton-torrents,quiet,0,,,https://t.me/tonrh,,,,https://github.com/xssnick/TON-Torrent,,2025-09-01,,,,,,ton-society-ecosystem-map,
 infra,31,TON Foundation,ton-foundation,quiet,0,,,https://t.me/tonfoundation,,,,,2024-07-29,,,,,,,2026-05-messari,
@@ -380,7 +380,7 @@ devtools,24,To The Moon,to-the-moon,quiet,0,,,https://t.me/utyablack,https://t.m
 devtools,25,@tonconnect/sdk,tonconnect-sdk,quiet,0,,,,,,https://www.npmjs.com/package/@tonconnect/sdk,,,,,,,,,awesome-ton,JavaScript SDK for TON Connect 2.0.
 devtools,26,Adradar,adradar,quiet,0,,,,,https://x.com/adradar_xyz,https://adradar.xyz,,,,,,,,,gramnews-apps ton.app,
 devtools,27,Anonymous Numbers Market Analytics,anonymous-numbers-market-analytics,quiet,0,,,,,,,https://github.com/qpwedev/anonymous-numbers-market-analytics,,2023-11-02,,,,,,awesome-ton,Fragment market statistics.
-devtools,28,Apps Father,apps-father,quiet,0,,,https://t.me/apps_father_bot,https://t.me/apps_father,https://x.com/AppsFather,https://apps-father.com/,,,,,,,,,gramnews-apps ton.app,Apps Father — AI tool to build Telegram Mini Apps without code
+devtools,28,Apps Father,apps-father,quiet,0,,,https://t.me/apps_father,https://t.me/apps_father_bot,https://x.com/AppsFather,https://apps-father.com/,,,,,,,,,gramnews-apps ton.app,Apps Father — AI tool to build Telegram Mini Apps without code
 devtools,29,Blockchain Network Visualizer,blockchain-network-visualizer,quiet,0,,,,,,,https://github.com/qpwedev/blockchain-network-visualizer,,2023-05-23,,,,,,awesome-ton,Network visualization tool.
 devtools,30,C#/tonconnect,c-tonconnect,quiet,0,,,,,,,https://github.com/continuation-team/TonSdk.NET,,2025-08-19,,,,,,awesome-ton,C# SDK for TON Connect.
 devtools,31,Chainstack,chainstack,quiet,0,,,,,,https://chainstack.com/build-better-with-ton/,,,,,,,,,awesome-ton,Managed RPC nodes with geo balancing.
@@ -417,7 +417,7 @@ devtools,61,Ton Inu Scanner,ton-inu-scanner,quiet,0,,,,https://t.me/TonChainScan
 devtools,62,Ton Meme Bot,ton-meme-bot,quiet,0,,,,https://t.me/memefun_tradingbot,https://x.com/ton_meme_trader,https://linktr.ee/ton_meme,,,,,,,,,dyor.io gramnews-apps ton.app,A bot for trading memecoins on TON
 devtools,63,Ton Site Builder,ton-site-builder,quiet,0,,,,https://t.me/ton_site_builder_bot,,,,,,,,,,mentioned by 7 TON channels in Q3,ton-channel-posts,Ton Web3 Site Builder.Based on Ton Storage.
 devtools,64,Ton Tracker,ton-tracker-2,quiet,0,,,,https://t.me/tonscanerbot,,,,,,,,,,,dyor.io gramnews-apps ton.app,⚡️ The fastest TON wallet sniper bot with smart filter
-devtools,65,TON Web IDE,ton-web-ide,quiet,0,,,https://t.me/ton_web_ide,,,https://ide.ton.org,https://github.com/tact-lang/web-ide,,2026-06-23,,,,,,awesome-ton ton-society-ecosystem-map,Boost your web3 coding journey with us.
+devtools,65,TON Web IDE,ton-web-ide,quiet,0,,,https://t.me/ton_web_ide,,,,https://github.com/tact-lang/web-ide,,2026-06-23,,,,,,awesome-ton ton-society-ecosystem-map,Boost your web3 coding journey with us.
 devtools,66,ton-blockchain/tonlib-go,ton-blockchain-tonlib-go,quiet,0,,,,,,,https://github.com/ton-blockchain/tonlib-go,,2021-07-06,,,,,,awesome-ton,Official Golang TonLib wrapper.
 devtools,67,ton-community/twa-template,ton-community-twa-template,quiet,0,,,,,,,https://github.com/ton-community/twa-template,,2023-10-20,,,,,,awesome-ton,TWA template with TON integration.
 devtools,68,ton-core/ton,ton-core-ton,quiet,0,,,,,,,https://github.com/ton-core/ton,,2024-07-16,,,,,,awesome-ton,Cross-platform client by ton-core.
@@ -425,7 +425,7 @@ devtools,69,ton-k8s,ton-k8s,quiet,0,,,,,,,https://github.com/disintar/ton-k8s,,2
 devtools,70,ton-kotlin,ton-kotlin,quiet,0,,,,,,,https://github.com/andreypfau/ton-kotlin,,2025-11-11,,,,,,awesome-ton,Kotlin SDK for JVM applications.
 devtools,71,tonfactory/tonsdk,tonfactory-tonsdk,quiet,0,,,,,,,https://github.com/tonfactory/tonsdk,,2024-10-06,,,,,,awesome-ton,Cells and contract wrappers.
 devtools,72,TONify,tonify,quiet,0,,,,,,https://alexmubarakshin.github.io/tonify/,,,,,,,,,ton.app,"TONify is a free, browser-based converter for TON addresses."
-devtools,73,TONNode,tonnode,quiet,0,,,https://t.me/tonnode,https://t.me/tonnode_chat,,https://tonnode.io,,,,,,,,,ton.app,TONNode gives you direct access to TON without running a node.
+devtools,73,TONNode,tonnode,quiet,0,,,https://t.me/tonnode,,,https://tonnode.io,,,,,,,,,ton.app,TONNode gives you direct access to TON without running a node.
 devtools,74,TonSdk.NET,tonsdk-net,quiet,0,,,,,,,https://github.com/continuation-team/TonSdk.NET,,2025-08-19,,,,,,awesome-ton,"C# (.NET, Unity) SDK."
 devtools,75,Tonutils Proxy,tonutils-proxy,quiet,0,,,,,,,https://github.com/xssnick/Tonutils-Proxy,,2025-11-02,,,,,,awesome-ton,User-friendly TON Proxy implementation.
 devtools,76,tonutils-dart,tonutils-dart,quiet,0,,,,,,,https://github.com/novusnota/tonutils-dart,,2024-09-12,,,,,,awesome-ton,Dart/Flutter SDK for mobile apps.
@@ -444,7 +444,7 @@ devtools,88,yungwine/TonTools,yungwine-tontools,quiet,0,,,,,,,https://github.com
 devtools,89,TON Domain Info bot,ton-domain-info-bot,quiet,0,,,,,,,,2026-09-30,,,,,,,gramnews-apps ton.app,
 devtools,90,Tonana,tonana,quiet,0,,,,,https://x.com/tonanadao,https://github.com/tonanadao,https://github.com/fluidicon.png,2026-09-24,,,,,,,2023-10-tonpost gramnews-apps ton-society-ecosystem-map ton.app,
 devtools,91,Rift,rift,quiet,0,,,,,,https://rift.skyring.io,https://github.com/sky-ring,2026-08-28,2025-09-11,,,,,,awesome-ton gramnews-apps ton.app,
-devtools,92,TON NoCode SDK,ton-nocode-sdk,quiet,0,,,https://t.me/safemoonTon,https://t.me/safeTONdotFun,https://x.com/SafetonPad,https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440,,2026-08-24,,,,,,,gramnews-apps ton.app,
+devtools,92,TON NoCode SDK,ton-nocode-sdk,quiet,0,,,https://t.me/safemoonTon,,https://x.com/SafetonPad,https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440,,2026-08-24,,,,,,,gramnews-apps ton.app,
 devtools,93,Development Wallet,development-wallet,quiet,0,,,,,,https://test.tonhub.com/dl,https://github.com/TractionEye,2026-06-23,2026-04-10,,,,,,gramnews-apps ton-society-ecosystem-map ton.app,
 devtools,94,Jetton Arbitrage,jetton-arbitrage,quiet,0,,,,,,,,2026-03-03,,,,,,,gramnews-apps ton.app,
 devtools,95,TONX,tonx,quiet,0,,,https://t.me/tonxstudio,,,https://tonx.ai/,,2025-10-31,,,,,,,2025-07-ton,TONX is the SuperApp platform layer that enables builders to create the new Web3 economy.
@@ -514,13 +514,13 @@ analytics,58,Whale Detect,whale-detect,quiet,0,,,https://t.me/TopTgDima,https://
 analytics,59,NewsBullet,newsbullet,quiet,0,,,,https://t.me/newsbulletbot,,,,,,,,,318,,dyor.io gramnews-apps,The most customizable crypto news feed on Telegram
 analytics,60,WhaleBrain Bot,whalebrain-bot,quiet,0,,,,https://t.me/whalebrain_bot,,,,,,,,,302,,dyor.io gramnews-apps,
 analytics,61,The TON Top,the-ton-top,quiet,0,,,,https://t.me/thetontopbot,,,,,,,,,155,,dyor.io gramnews-apps,Show your status. The more TON — the higher you stay in the Top.
-analytics,62,Block Watch,block-watch,quiet,0,,,https://t.me/BLWDev_bot,https://t.me/BWDevapp,https://x.com/blockwatchdev,https://blockwatch.tech,,,,,,,,,gramnews-apps ton.app,Block Watch — transaction analysis tool for wallets
+analytics,62,Block Watch,block-watch,quiet,0,,,https://t.me/BLWDev_bot,,https://x.com/blockwatchdev,https://blockwatch.tech,,,,,,,,,gramnews-apps ton.app,Block Watch — transaction analysis tool for wallets
 analytics,63,Cielo Free Bot 1,cielo-free-bot-1,quiet,0,,,,https://t.me/evmtrackerbot,,,,,,,,,,,dyor.io gramnews-apps,"Track wallets on Solana, EVM, Tron, Sui + BTC"
 analytics,64,CoinCrackerBot,coincrackerbot,quiet,0,,,,,,,,,,,,,,,2023-10-tonpost gramnews-apps ton.app,
 analytics,65,CoinRobot,coinrobot,quiet,0,,,,,,,https://github.com/sora-xor/polkaswap-exchange-web,,2026-10-01,,,,,,gramnews-apps ton.app,
 analytics,66,CryptoRiskyGameCalls,cryptoriskygamecalls,quiet,0,,,,https://t.me/vukly_bot,,,,,,,,,,,dyor.io gramnews-apps,
 analytics,67,DashPool,dashpool,quiet,0,,,,https://t.me/dashpoolbot,https://x.com/dashpoolapp,,,,,,,,,,dyor.io gramnews-apps ton.app,"Your easiest gateway to the complex AI market, right in Telegram!"
-analytics,68,dTON Forum,dton-forum,quiet,0,,,https://t.me/dtonforum,,,https://tech.dton.сo,,,,,,,,,ton-society-ecosystem-map,Analytical system based on TON on-chain data.
+analytics,68,dTON Forum,dton-forum,quiet,0,,,https://t.me/dtonforum,,,,,,,,,,,,ton-society-ecosystem-map,Analytical system based on TON on-chain data.
 analytics,69,Fragment Analyzer,fragment-analyzer,quiet,0,,,https://t.me/fragmentanalytics,https://t.me/fragmentanalyzer_bot,,,,,,,,,,,dyor.io gramnews-apps ton.app,Rainbet.com #1 non-kyc crypto casino & sportsbook
 analytics,70,Full Metal Jetton,full-metal-jetton,quiet,0,,,,,,,,,,,,,,,dyor.io gramnews-apps,
 analytics,71,Giftindex,giftindex,quiet,0,,,,https://t.me/giftindexbot,,,,,,,,,,,2025-07-ton-cis-hub-q2 2025-ton-cis-hub,
@@ -539,7 +539,7 @@ analytics,83,TON Price Converter,ton-price-converter,quiet,0,,,,,,https://coinre
 analytics,84,Toncoin Converter,toncoin-converter,quiet,0,,,,,,,,,,,,,,,gramnews-apps ton.app,
 analytics,85,TonDomenBot,tondomenbot,closed,0,,,,,,,,,,,,,,,gramnews-apps ton.app,
 analytics,86,Tonk Analyser,tonk-analyser,quiet,0,,,,https://t.me/tonkanalyser_bot,https://x.com/tonkinubot,,https://github.com/TonkInu,,2024-03-27,,,,,,ton-society-ecosystem-map,Tonk analyser is powered by $TONK INU .
-analytics,87,Tonmarketcap,tonmarketcap,quiet,0,,,https://t.me/ton_market_cap_bot,https://t.me/tonmarketcap_channel,,https://tonmarketcap.ru,,,,,,,,,gramnews-apps ton.app,"Stay on top of the TON ecosystem with live prices, market caps, charts, and rankings — all inside Telegram."
+analytics,87,Tonmarketcap,tonmarketcap,quiet,0,,,https://t.me/tonmarketcap_channel,https://t.me/ton_market_cap_bot,,https://tonmarketcap.ru,,,,,,,,,gramnews-apps ton.app,"Stay on top of the TON ecosystem with live prices, market caps, charts, and rankings — all inside Telegram."
 analytics,88,TonSonar,tonsonar,quiet,0,,,,https://t.me/tonsonar_bot,,https://ozamotailov.github.io/alphaping/,https://github.com/ozamotailov/alphaping,,2026-07-02,,,,,,gramnews-apps ton.app,TonSonar Telegram bot: smart-money alerts and new TON jetton listings
 analytics,89,TOTKIT,totkit,quiet,0,,,,https://t.me/totkitbot,,,https://github.com/BradDev01,,2023-01-26,,,,,,2023-10-tonpost dyor.io gramnews-apps ton.app,"News, signals, statistics, analysis and reviews of NFT collections on The Open Network 💎"
 analytics,90,Wallet Analysis,wallet-analysis,quiet,0,,,,,https://x.com/ArbitrageScan,https://arbitragescanner.io/,,,,,,,,,dyor.io gramnews-apps ton.app,Arbitrage bot and analytics for cryptocurrencies.
@@ -557,7 +557,7 @@ analytics,101,Jettons Price Alerts,jettons-price-alerts,quiet,0,,,,,,,,2026-05-2
 analytics,102,TOKEN INSIDE,token-inside,quiet,0,,,,,,,,2026-04-21,,,,,,,gramnews-apps ton.app,
 analytics,103,Тонус,tonus,quiet,0,,,,https://t.me/brainscoin_bot,,,,2026-03-24,,,,,,,dyor.io gramnews-apps,
 analytics,104,RaggaMorffa,raggamorffa,quiet,0,,,https://t.me/raggamorffanews,,https://x.com/raggamorffa,https://raggamorffa.net/,,2026-03-12,,,,,,,dyor.io gramnews-apps,Todas las noticias actualizadas del género #RaggaMorffa en un solo canal de Telegram.
-analytics,105,Tonkol,tonkol,quiet,0,,,https://t.me/tonkolpro,https://t.me/tonkoltrades,https://x.com/Toncoinkol,https://tonkol.pro/,,2026-03-02,,,,,,,dyor.io gramnews-apps ton.app,Know what KOLs are buying on TON
+analytics,105,Tonkol,tonkol,quiet,0,,,https://t.me/tonkolpro,,https://x.com/Toncoinkol,https://tonkol.pro/,,2026-03-02,,,,,,,dyor.io gramnews-apps ton.app,Know what KOLs are buying on TON
 analytics,106,Jetton Whale Swaps,jetton-whale-swaps,quiet,0,,,https://t.me/MoonWeb3,https://t.me/NFTRobot,,,,2025-05-19,,,,,,,gramnews-apps ton.app,
 analytics,107,apiTON,apiton,quiet,0,,,https://t.me/apiton,https://t.me/apitonBot,,https://apiton.org/,https://github.com/apiton-org,2025-05-03,2025-05-10,,,,,,2025-07-ton dyor.io gramnews-apps ton-society-ecosystem-map ton.app,channel: / ws: apiton.org
 analytics,108,ShillGuard,shillguard,quiet,0,,,https://t.me/ShillGuardOfficialAnnouncements,https://t.me/ShillGuardAppBot,https://x.com/ShillGuard,https://shillguard.com/,,2025-04-10,,,,,,,dyor.io gramnews-apps ton.app,
@@ -591,20 +591,20 @@ audit,9,TrustaTONApp_bot,trustatonapp-bot,active,0,,telegram,,https://t.me/trust
 audit,10,GID Anti-Scam,gid-anti-scam,active,0,,mau,,https://t.me/gidbanbot,,,,,,,,,22577,mentioned by 4 TON channels in Q3,ton-channel-posts,Крупнейший анти-скам проект в Telegram🛡️ 👮‍♂️ Подать жалобу /report Скам-База @GID_ScamBase Все ресурсы @GID_Inform
 audit,11,Nowarp,nowarp,active,0,,telegram,https://t.me/nowarp_io,,https://x.com/nowarp_io,https://nowarp.io,https://github.com/nowarp,2026-07-13,2026-06-29,,,1,,,gramnews-apps ton.app,nowarp.io / github.com/nowarp / x.com/nowarp_io
 audit,12,Beosin Security,beosin-security,quiet,0,,,https://t.me/beosin,,https://x.com/Beosin_com,https://beosin.com,,,,,,,,,gramnews-apps ton.app,🛡Beosin Official Telegram Community
-audit,13,BitOK,bitok,quiet,0,,,https://t.me/bitok_support,,https://x.com/Bitok_org,,https://github.com/telegram-bots/BitOk,,2018-12-31,,,,,,2025-07-ton ton-society-ecosystem-map,
+audit,13,BitOK,bitok,quiet,0,,,,https://t.me/bitok_support,https://x.com/Bitok_org,,https://github.com/telegram-bots/BitOk,,2018-12-31,,,,,,2025-07-ton ton-society-ecosystem-map,
 audit,14,ChainAware.ai,chainaware-ai,quiet,0,,,,https://t.me/ChainAware_Bot,https://x.com/ChainAware,https://ChainAware.ai,https://github.com/ChainAware/behavioral-prediction-mcp,,2026-08-11,,,,,,dyor.io gramnews-apps ton.app,AI-based Crypto Fraud Detection with a 98% prediction rate
 audit,15,Config44,config44,quiet,0,,,,,,https://config44.com,https://github.com/config44,,2026-09-11,,,,,,gramnews-apps ton.app,
 audit,16,Fuck Scammers,fuck-scammers,quiet,0,,,https://t.me/fuck_scammers_onTon,https://t.me/fuck_scams_bot,https://x.com/Fuck_scams_ton,,,,,,,,,,gramnews-apps ton.app,
 audit,17,Hexens,hexens,quiet,0,,,,,https://x.com/hexensio,https://hexens.io,,,,,,,,,2025-07-ton gramnews-apps ton.app,
-audit,18,JettonTonGuard,jettontonguard,quiet,0,,,https://t.me/JettonTonGuard_Bot,https://t.me/JettonTonGuard,,https://app.scriptsnap.site/,,,,,,,,,dyor.io gramnews-apps ton.app,"TON token analytics: contract, liquidity, holders"
+audit,18,JettonTonGuard,jettontonguard,quiet,0,,,https://t.me/JettonTonGuard,https://t.me/JettonTonGuard_Bot,,https://app.scriptsnap.site/,,,,,,,,,dyor.io gramnews-apps ton.app,"TON token analytics: contract, liquidity, holders"
 audit,19,QuillAudits,quillaudits,quiet,0,,,https://t.me/quillaudits_official,,https://x.com/quillaudits_ai,https://quillaudits.com/,https://github.com/Quillhash/QuillAudit_Reports,,2026-10-01,,,,,,2025-07-ton gramnews-apps ton-society-ecosystem-map ton.app,Web3 security research & audits (8+ yrs)
 audit,20,ScaleBit,scalebit,quiet,0,,,https://t.me/BitsLabHQ,,https://x.com/scalebit_,https://www.scalebit.xyz,,,,,,,,,2025-07-ton gramnews-apps ton.app,MoveBit - The Pioneer in MOVE Security
 audit,21,Scam-detect,scam-detect,quiet,0,,,,https://t.me/scam_detectg_bot,,,,,,,,,,,dyor.io gramnews-apps ton.app,Scam-detect. Our mission - your security.
 audit,22,Scorechain,scorechain,quiet,0,,,,https://t.me/scorechainbot,https://x.com/scorechain,,,,,,,,,,2025-07-ton ton-society-ecosystem-map,Know Your Address / Wallet screening
-audit,23,Solidity auditor,solidity-auditor,quiet,0,,,https://t.me/LegalKornet,,https://x.com/legalkornet,https://www.legal-kornet.com,https://github.com/Silent47boryara/AuditBadge,,2025-11-06,,,,,,gramnews-apps ton.app,
+audit,23,Solidity auditor,solidity-auditor,quiet,0,,,,,https://x.com/legalkornet,https://www.legal-kornet.com,https://github.com/Silent47boryara/AuditBadge,,2025-11-06,,,,,,gramnews-apps ton.app,
 audit,24,TokenGuide,tokenguide,quiet,0,,,https://t.me/tokenguidesecurity,https://t.me/tokenguide_bot,https://x.com/tokenguideio,https://tokenguide.io,,,,,,,,,dyor.io gramnews-apps ton.app,
 audit,25,Vidma,vidma,quiet,0,,,https://t.me/vidmasecurity,,https://x.com/Vidma_security,https://www.vidma.io,https://github.com/vidma-security,,2023-06-07,,,,,,gramnews-apps ton.app,
-audit,26,Web3defender,web3defender,quiet,0,,,https://t.me/web3defender_bot,https://t.me/web3defender_alerts,,https://web3defender.tech,,,,,,,,,gramnews-apps ton.app,Web3defender — wallet and link fraud detection
+audit,26,Web3defender,web3defender,quiet,0,,,https://t.me/web3defender_alerts,https://t.me/web3defender_bot,,https://web3defender.tech,,,,,,,,,gramnews-apps ton.app,Web3defender — wallet and link fraud detection
 audit,27,Decurity,decurity,quiet,0,,,https://t.me/defimon_alerts,,https://x.com/DecurityHQ,https://www.decurity.io/,https://github.com/Decurity,2026-10-01,2026-08-16,,,,,,dyor.io gramnews-apps ton.app,
 audit,28,re:doubt,re-doubt,quiet,0,,,https://t.me/uShopWeb,,,,https://github.com/re-doubt,2026-07-08,2025-07-22,,,,,,2023-10-tonpost gramnews-apps ton-society-ecosystem-map ton.app,
 audit,29,Spide,spide,quiet,0,,,https://t.me/spide,https://t.me/spide_robot,https://x.com/spidesecurity,https://spide.org,,2025-06-30,,,,,,,gramnews-apps ton.app,IT company in the field of development & cybersecurity.
@@ -619,7 +619,7 @@ bridges,4,Rubic,rubic,active,1,0,telegram,https://t.me/cryptorubic,https://t.me/
 bridges,5,TAC,tac,active,1,1,gramnews,https://t.me/tacbuild,https://t.me/tacairdrop_bot,,,,2025-09-22,,,,,,,2025-07-ton gramnews-q3-2026 ton-channel-posts,
 bridges,6,NEAR Intents,near-intents,active,1,0,editor,,,,https://near-intents.org,,,,,,,,,defillama gramnews-q3-2026,
 bridges,7,TonTake Bridge,tontake-bridge,active,0,,telegram,https://t.me/TonTake,,https://x.com/tontakegame,,,2026-10-01,,83600,83600,99,,,gramnews-apps ton-society-ecosystem-map ton.app,Благотворительно-развлекательная криптоорганизация.
-bridges,8,Orbit Bridge,orbit-bridge,active,0,,telegram+gramnews,https://t.me/OrbitChainChannel,https://t.me/bion_announcements,https://x.com/Orbit_Chain,https://bridge.orbitchain.io/,https://github.com/orbit-chain,2026-10-01,2026-08-11,3535,3535,7,,TVL $20K,2025-07-ton defillama dyor.io gramnews-apps gramnews-feed ton-society-ecosystem-map ton.app,Orbit Chain Announcement Channel
+bridges,8,Orbit Bridge,orbit-bridge,active,0,,telegram+gramnews,https://t.me/OrbitChainChannel,,https://x.com/Orbit_Chain,https://bridge.orbitchain.io/,https://github.com/orbit-chain,2026-10-01,2026-08-11,3535,3535,7,,TVL $20K,2025-07-ton defillama dyor.io gramnews-apps gramnews-feed ton-society-ecosystem-map ton.app,Orbit Chain Announcement Channel
 bridges,9,SoDEX Bridge,sodex-bridge,active,0,,market,,,https://x.com/sodex_official,https://ssi.sosovalue.com,,,,,,,,TVL $12K,defillama,SoDEX is a high-performance order book decentralized exchange (DEX) built on ValueChain.
 bridges,10,TAC Cross Chain Layer,tac-cross-chain-layer,active,0,,market,,,https://x.com/tacbuild,https://tac.build,,,,,,,,TVL $1.7M,defillama,"TAC Cross Chain Layer is a messaging and custody layer connecting TON and TAC EVM, locking native TON assets and minting wrapped tokens for use in TAC miniapps"
 bridges,11,TON ↔ BSC,ton-bsc,active,0,,gramnews,https://t.me/contest,https://t.me/cryptouser_bot,,https://bridge.ton.org,https://github.com/ton-blockchain,2026-09-06,2026-10-01,,,,,,gramnews-apps gramnews-feed ton.app,
@@ -627,7 +627,7 @@ bridges,12,AnyTap,anytap,quiet,0,,,,https://t.me/anytap_bot,https://x.com/anytap
 bridges,13,TON Bridge,ton-bridge,quiet,0,,,,https://t.me/TONBridge_robot,,https://bridge.tonbankcard.com,https://github.com/xlabtg,2026-08-28,2026-09-28,,,,123,,2025-07-ton-cis-hub-q2 2025-ton-cis-hub dyor.io gramnews-apps ton-society-ecosystem-map ton.app,Bridge for transferring USDT and USDC from other chains to TON
 bridges,14,Axai on Waves,axai-on-waves,quiet,0,,,,https://t.me/wavesaxaibot,https://x.com/wxnetwork,,,,,,,,,,dyor.io gramnews-apps,
 bridges,15,Transit Swap,transit-swap,quiet,0,,,,,https://x.com/TransitFinance,https://swap.transit.finance/,,,,,,,,,2025-07-ton dyor.io gramnews-apps ton.app,
-bridges,16,VIZ gateway,viz-gateway,quiet,0,,,https://t.me/viz_world,https://t.me/viz_cx,,https://gateway.viz.cx,https://github.com/viz-cx/viz-gateway,,2026-08-30,,,,,,gramnews-apps ton.app,VIZ gateway — bridge between GRAM and Solana chains for wVIZ
+bridges,16,VIZ gateway,viz-gateway,quiet,0,,,https://t.me/viz_world,,,https://gateway.viz.cx,https://github.com/viz-cx/viz-gateway,,2026-08-30,,,,,,gramnews-apps ton.app,VIZ gateway — bridge between GRAM and Solana chains for wVIZ
 bridges,17,island3,island3,quiet,0,,,,,,https://bridge.rangersprotocol.com/,https://github.com/rangersprotocolcode,2026-06-15,2025-07-28,,,,,,dyor.io gramnews-apps,
 bridges,18,Layerswap,layerswap,closed,0,,,,https://t.me/lowkeybrokeybot,https://x.com/layerswap,https://layerswap.io,https://github.com/layerswap,,2026-10-01,,,,,,2025-07-ton 2026-05-messari dyor.io gramnews-apps ton.app,
 bridges,19,XP.NETWORK,xp-network,closed,0,,,https://t.me/XP_NETWORK_Ann,https://t.me/siptg_bot,https://x.com/xpnetwork_,https://bridge.xp.network/,https://github.com/XP-NETWORK,2025-05-11,2025-02-07,,,,,,2025-07-ton dyor.io gramnews-apps ton-society-ecosystem-map ton.app,A powerful NFT bridge connecting 30+ EVM and non-EVM blockchains. Go multichain effortlessly: attract fresh liquidity and audiences across ecosystems
@@ -835,7 +835,7 @@ tokens,86,Amocucinare (AMORE),token-amocucinare,quiet,0,,,https://t.me/amoreAIcr
 tokens,87,WOOF (WOOF),token-woof,quiet,0,,,,,,,,2026-02-21,,,,,,"mcap $0K, 108,932 holders",tonapi-whitelist,
 tokens,88,GOATS (GOATS),token-goats,quiet,0,,,https://t.me/realgoats_channel,,https://x.com/GOATS_immortal,,,2026-02-10,,,,,,"mcap $347K, 120,815 holders",tonapi-whitelist,
 tokens,89,TON Cats Jetton,ton-cats-jetton,quiet,0,,,https://t.me/toncats_tg,,https://x.com/toncats_tg,,,2026-02-01,,,,,,,ton-society-ecosystem-map,
-tokens,90,Hamster Kombat (HMSTR),token-hamster-kombat,quiet,0,,,https://t.me/hamster_kombat,,,https://hamster.network,,2026-01-20,,,,,,"mcap $11.0M, 1,344,213 holders",tonapi-whitelist,
+tokens,90,Hamster Kombat (HMSTR),token-hamster-kombat,quiet,0,,,https://t.me/hamster_kombat,,,,,2026-01-20,,,,,,"mcap $11.0M, 1,344,213 holders",tonapi-whitelist,
 tokens,91,Memhash (MEMHASH),token-memhash,quiet,0,,,https://t.me/memhash,,https://x.com/memhash_app,https://memhash.org,,2026-01-14,,,,,,"mcap $0K, 16,399 holders",tonapi-whitelist,
 tokens,92,FPI Bank (FPIBANK),token-fpi-bank,quiet,0,,,https://t.me/fpibank,,,,,2026-01-10,,,,,,"mcap $83K, 78,381 holders",tonapi-whitelist,
 tokens,93,ARTDRA Coin (ARTDRA),token-artdra-coin,quiet,0,,,https://t.me/artdracoin,,,,,2025-12-18,,,,,,"mcap $4.5M, 1,213 holders",tonapi-whitelist,Combat Games & Artdra Coin
@@ -987,7 +987,7 @@ nftmarkets,124,GIFTLIFT,giftlift,quiet,0,,,,https://t.me/giftlift_bot,,,,,,,,,,,
 nftmarkets,125,Gifts Drop,gifts-drop,quiet,0,,,,https://t.me/giftdroptg_bot,,,,,,,,,,mentioned by 5 TON channels in Q3,ton-channel-posts,Канал: @giftdropchannel Депозит подарками/поддержка - @giftdropsup
 nftmarkets,126,GiftTop,gifttop,quiet,0,,,,https://t.me/majesticgamebot,,,,,,,,,,,findmini,Try your luck by opening the gift boxes. News: @GiftTop_Ru Gift: @GiftToGiftTop
 nftmarkets,127,Glowie,glowie,quiet,0,,,,https://t.me/stickercapbot,,,,,,,,,,mentioned by 6 TON channels in Q3,ton-channel-posts,certified glowie. i file dockets on the gramsupercycle. always right. never impressed.
-nftmarkets,128,GoGift,gogift,quiet,0,,,https://t.me/GoGift_official_bot,https://t.me/GoGift_announcements,,,,,,,,,,,dyor.io gramnews-apps ton.app,"GoGift — a mini app for opening cases with NFT gifts, playing Crash and PvP battles."
+nftmarkets,128,GoGift,gogift,quiet,0,,,https://t.me/GoGift_announcements,https://t.me/GoGift_official_bot,,,,,,,,,,,dyor.io gramnews-apps ton.app,"GoGift — a mini app for opening cases with NFT gifts, playing Crash and PvP battles."
 nftmarkets,129,Harbor Market,harbor-market,quiet,0,,,,https://t.me/harbormarketbot,,,,,,,,,,,2025-07-ton 2025-07-ton-cis-hub-q2 2025-ton-cis-hub,
 nftmarkets,130,Humans,humans,quiet,0,,,,,,https://getgems.io/collection/EQDgUeotvXbB1_YEIhrYvYHj8jO9rY6ud7uIW-TBTQIP2odD,,,,,,,,,ton.app,"Уникальная, лимитированная коллекция NFT аватаров на базе TON, выбери свой аватар!"
 nftmarkets,131,Ihuima NFT,ihuima-nft,quiet,0,,,,https://t.me/ihuima_bot,,,,,,,,,,mentioned by 6 TON channels in Q3,ton-channel-posts,Самый ху#вый бот в мире Новости @ihuyma
@@ -1005,7 +1005,7 @@ nftmarkets,142,NameCatcher,namecatcher,quiet,0,,,,https://t.me/NameCatcherBot,,,
 nftmarkets,143,NFT Collection Planner,nft-collection-planner,quiet,0,,,,https://t.me/giftconstruct_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,Экспериментируй и создавай свои коллекции подарков Официальный канал: @GiftConstructChannel Контакт: @musovvir
 nftmarkets,144,NFT Drop Calendar,nft-drop-calendar,closed,0,,,,,,,,,,,,,,,gramnews-apps ton-society-ecosystem-map ton.app,
 nftmarkets,145,NFT ONE,nft-one-2,quiet,0,,,,,https://x.com/nftoneio,https://nftone.io/,,,,,,,,,2023-10-tonpost dyor.io gramnews-apps,
-nftmarkets,146,NFT Scanner,nft-scanner,quiet,0,,,https://t.me/Arbitragescanner_official,,https://x.com/ArbitrageScan,https://arbitragescanner.io/,,,,,,,,,2023-10-tonpost dyor.io gramnews-apps ton.app,NFT Scanner — blockchain analysis and arbitrage opportunities tool
+nftmarkets,146,NFT Scanner,nft-scanner,quiet,0,,,,https://t.me/Arbitragescanner_official,https://x.com/ArbitrageScan,https://arbitragescanner.io/,,,,,,,,,2023-10-tonpost dyor.io gramnews-apps ton.app,NFT Scanner — blockchain analysis and arbitrage opportunities tool
 nftmarkets,147,NFT TONificaror,nft-tonificaror,quiet,0,,,,https://t.me/rb_click_bot,,,,,,,,,,,dyor.io gramnews-apps ton-society-ecosystem-map ton.app,
 nftmarkets,148,NFTWallet,nftwallet,quiet,0,,,,,,,,,,,,,,,gramnews-apps ton-society-ecosystem-map ton.app,
 nftmarkets,149,NoName Scanner,noname-scanner,quiet,0,,,,https://t.me/scannernnbot,,,,,,,,,,mentioned by 5 TON channels in Q3,ton-channel-posts,Scan TON tokens and stickers by @NoNameDev support: @pickless404
@@ -1030,7 +1030,7 @@ nftmarkets,167,Shuttles,shuttles,quiet,0,,,,https://t.me/shuttles_moon_bot,,,,,,
 nftmarkets,168,SimpleNFT,simplenft,quiet,0,,,,https://t.me/simplenftbot,,,,,,,,,,,2025-07-ton-cis-hub-q2 2025-ton-cis-hub,Simplifying web3 monetization for developers. For creators by creators.
 nftmarkets,169,SMART TIGERS,smart-tigers,closed,0,,,,,,,,,,,,,,,ton.app,This is the first collection of Smart Tigers on the NFT TON blockchain 💎 by ceoa.
 nftmarkets,170,SPACEDISCOSHEEP,spacediscosheep,closed,0,,,,,,,,,,,,,,,ton.app,"SPACEDISCOSHEEP is an NFT collection of 888 hand drawn sheep, inspired by an artwork of the same name, drawn ten years ago."
-nftmarkets,171,SpinMi,spinmi,quiet,0,,,https://t.me/spinmibot,https://t.me/spinminews,https://x.com/spinmibot,https://spinmi.xyz,,,,,,,,,gramnews-apps ton.app,Creating animated coin emojis in Telegram
+nftmarkets,171,SpinMi,spinmi,quiet,0,,,https://t.me/spinminews,https://t.me/spinmibot,https://x.com/spinmibot,https://spinmi.xyz,,,,,,,,,gramnews-apps ton.app,Creating animated coin emojis in Telegram
 nftmarkets,172,Spy,spy,quiet,0,,,,https://t.me/spyggbot,,,,,,,,,,,findmini,"Explore NFT data easily — track wallets, floor prices & ownership. Stay updated on @peek. Powered by @Apex"
 nftmarkets,173,StarsPrime - купить звезды и премиум,starsprime,quiet,0,,,,https://t.me/starsprimesbot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,"Звёзды, Premium и скрытые подарки Поддержка: @StarsHelpDesk"
 nftmarkets,174,TEIKO,teiko,closed,0,,,,,,,,,,,,,,,ton.app,The TEIKŌ project combines web3 and web2 for artists and art enthusiasts.
@@ -1056,7 +1056,7 @@ nftmarkets,193,UseTon,useton,quiet,0,,,https://t.me/useton,https://t.me/use_ton_
 nftmarkets,194,Utya Stars / Купить звезды,utya-stars,quiet,0,,,,https://t.me/starsutya_bot,,,,,,,,,,mentioned by 6 TON channels in Q3,ton-channel-posts,"Бот для покупки Telegram Premium, TON, Telegram Stars, со скидкой до 47% от @giftsutya"
 nftmarkets,195,v gift,v-gift,quiet,0,,,,https://t.me/vgiftt_bot,,,,,,,,,,mentioned by 5 TON channels in Q3,ton-channel-posts,
 nftmarkets,196,VillaTon,villaton,quiet,0,,,,https://t.me/villaton_bot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,"Надежный сервис — по продаже Ton, stars, Premium, удаленные подарки и прочее от канала @CryptoAndVilla"
-nftmarkets,197,VOLYA HYPE,volya-hype,quiet,0,,,https://t.me/volyamintbot,https://t.me/volya_ton,https://x.com/volya_ton,https://app.volya.world,,,,,,,,,ton.app,VOLYA HYPE is the counterpart to VOLYA FORGE.
+nftmarkets,197,VOLYA HYPE,volya-hype,quiet,0,,,https://t.me/volya_ton,https://t.me/volyamintbot,https://x.com/volya_ton,https://app.volya.world,,,,,,,,,ton.app,VOLYA HYPE is the counterpart to VOLYA FORGE.
 nftmarkets,198,VORTEX 🚀,vortex,quiet,0,,,,https://t.me/vortex_robot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,CHANNEL — @Vortex_Crash GIFTS — @Vortex_Relayer SUPPORT — @Vortex_Support_Team_bot
 nftmarkets,199,Web3TON NFT,web3ton-nft,quiet,0,,,,,,https://web3ton.pro,,,,,,,,,ton.app,Web3TON is the first NFT project dedicated to the future Web 3.0 Internet on TON.
 nftmarkets,200,Welcome to @Whale 🐳,welcome-to-whale,quiet,0,,,https://t.me/whale,,https://x.com/whalegames_en,https://whale.io,,,,,,,,,ton.app,Each digital artwork represents a memorable token earned after successfully completing a Whale Journey quest about the #01 Crypto Community.
@@ -1074,7 +1074,7 @@ nftmarkets,211,🦄 pawn • крафты до х14!,pawn-14,quiet,0,,,,https://
 nftmarkets,212,🪐 ASTROPUNK,astropunk,quiet,0,,,,,,https://getgems.io/collection/EQB9cmgY_7BAeufdhYacKRTrxniEnJwyTvQJWAm2xlw48cdf,,,,,,,,,ton.app,A beautiful and unusual collection of astro-monkeys with their own history that are talismans for your wallets.
 nftmarkets,213,Telegram Stickers / Стикеры,telegram-stickers,quiet,0,,,https://t.me/tgsticker,https://t.me/moistikibot,,,,2026-10-01,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,"Самый большой каталог стикеров телеграм! Сделать свои стикеры: @MoiStikiBot 💬Чат @StickerChaos Прислать свой пак в канал: @StickerReceiverBot Для связи,рекла: @TgStickerPRbot 💲Биржа: telega.in/c"
 nftmarkets,214,Art Incubator Coins,art-incubator-coins,quiet,0,,,https://t.me/beetontoken,https://t.me/art_incubator_bot,,https://getgems.io/collection/EQDB6DRfTh8zN-5MzmS9R6U5x44T2yESwuX-5ACXUAx4fMf9,,2026-07-30,,,,,,,ton.app,"Craft your very own BEETON COIN, cast in gleaming gold, that showers its owner with monthly rewards."
-nftmarkets,215,Chainsim,chainsim,quiet,0,,,https://t.me/getchainsim,https://t.me/chainsim_chat,https://x.com/getchainsim,https://app.chainsim.io,https://github.com/chainsim/sdk-node,2026-06-11,2025-09-14,,,,,,dyor.io gramnews-apps ton.app,Chainsim Official Channel 💎
+nftmarkets,215,Chainsim,chainsim,quiet,0,,,https://t.me/getchainsim,,https://x.com/getchainsim,https://app.chainsim.io,https://github.com/chainsim/sdk-node,2026-06-11,2025-09-14,,,,,,dyor.io gramnews-apps ton.app,Chainsim Official Channel 💎
 nftmarkets,216,Helmets,helmets,quiet,0,,,https://t.me/tonhelmets,https://t.me/helmetsbot,,https://getgems.io/helmets,,2026-05-29,,,,,,,ton.app,"In Helmets, you embark on an exciting journey where you can collect points by completing a variety of tasks, upgrading your production, and inviting your friend"
 nftmarkets,217,HAVEUN,haveun,quiet,0,,,https://t.me/Haveuncom,https://t.me/haveun_bot,,https://haveun.com/,,2026-05-24,,,,,,,ton.app,"Приложение для размещения Юзернеймов, Вы можете добавить свой Юзернейм в виде объявления, совершенно бесплатно, для этого Вам нужно зарегистрироваться и авториз"
 nftmarkets,218,Meta Panthers,meta-panthers,quiet,0,,,https://t.me/metapanthers_ru,https://t.me/libermallbot,https://x.com/LibermallNFT,https://metapanthers.ru,https://github.com/LiberMall,2026-02-23,2026-09-20,,,,,,dyor.io gramnews-apps ton-channel-posts ton.app,"@LibermallBot: Торговая площадка с низкой комиссией. Создавайте, продавайте и покупайте цифровые товары! Карта • @LibermallCardbot Открывайте, пополняйте и обменивайте валюту с крипто-картой Liber"
@@ -1160,7 +1160,7 @@ launchpads,61,ListingUz,listinguz,quiet,0,,,,https://t.me/cryptowood_mini_app_bo
 launchpads,62,Pandastic,pandastic,quiet,0,,,,https://t.me/pandastic_bot,https://x.com/pandastic_io,,,,,,,,,,dyor.io gramnews-apps,
 launchpads,63,Preseller,preseller,quiet,0,,,,https://t.me/tonpreseller_bot,,,,,,,,,,,dyor.io gramnews-apps ton.app,Launch secure presale campaign on the TON blockchain in 5 minutes
 launchpads,64,Quick,quick,quiet,0,,,,https://t.me/quick_tg_bot,,,,,,,,,,,dyor.io gramnews-apps,
-launchpads,65,SolanaForge,solanaforge,quiet,0,,,https://t.me/SolanaForgeGroup,https://t.me/SolanaForgeChannel,https://x.com/solanaforgeapp,https://solanaforge.app,,,,,,,,,ton.app,"SolanaForge is a no-code multi-chain token creation platform that makes launching Web3 tokens simple, fast, and accessible."
+launchpads,65,SolanaForge,solanaforge,quiet,0,,,https://t.me/SolanaForgeGroup,,https://x.com/solanaforgeapp,https://solanaforge.app,,,,,,,,,ton.app,"SolanaForge is a no-code multi-chain token creation platform that makes launching Web3 tokens simple, fast, and accessible."
 launchpads,66,TAND3M,tand3m,quiet,0,,,,https://t.me/Tand3m_bot,https://x.com/TAND3M_Official,https://tand3m.io/,,,,,,,,,gramnews-apps ton.app,TAND3M – a platform for launching tokens and NFTs via LBP on the TON blockchain
 launchpads,67,TON Gagarin World,ton-gagarin-world,quiet,0,,,https://t.me/ton_gagarin_world_chat,,https://x.com/GAGARIN_World,,,,,,,,,,ton-society-ecosystem-map,
 launchpads,68,TON INU Launchpad,ton-inu-launchpad,quiet,0,,,https://t.me/toninutools,https://t.me/theontonbot,https://x.com/toninutools,https://app.toninu.tech/launchpad,,,,,,,,,dyor.io gramnews-apps ton.app,
@@ -1277,20 +1277,20 @@ social,64,Pollo,pollo,quiet,0,,,https://t.me/polloverse,https://t.me/pollovotebo
 social,65,Twitton,twitton,quiet,0,,,,https://t.me/twitton_bot,https://x.com/web3Twitton,,,,,,,,120,,dyor.io gramnews-apps,
 social,66,@Placce,placce,quiet,0,,,,https://t.me/placcerobot,,,,,,,,,,mentioned by 6 TON channels in Q3,ton-channel-posts,
 social,67,ART VNUKICH,art-vnukich,quiet,0,,,,https://t.me/art_vnukich_bot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,
-social,68,Asiqpai,asiqpai,quiet,0,,,https://t.me/asiqpai_bot,https://t.me/asiqpaihub,https://x.com/asiqpai,https://asiqpai.site,,,,,,,,,ton.app,ASIQPAI is a music-focused Telegram Mini App built on TON and powered by the ASIQ utility token.
+social,68,Asiqpai,asiqpai,quiet,0,,,https://t.me/asiqpaihub,https://t.me/asiqpai_bot,https://x.com/asiqpai,https://asiqpai.site,,,,,,,,,ton.app,ASIQPAI is a music-focused Telegram Mini App built on TON and powered by the ASIQ utility token.
 social,69,Ausum,ausum,quiet,0,,,,https://t.me/ausum_bot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,The ultimate challenge platform on Telegram. ausum.social
 social,70,Fibarium,fibarium,quiet,0,,,,https://t.me/fibariumbot,,,,,,,,,,,2025-ton-cis-hub,
 social,71,Fox Tails,fox-tails,quiet,0,,,,https://t.me/BearAMLBot,,https://foxtails.io,,,,,,,,,2023-10-tonpost gramnews-apps ton.app,
 social,72,GoatVote,goatvote,quiet,0,,,,https://t.me/goatvotebot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,
 social,73,Hamsterbabybot,hamsterbabybot,quiet,0,,,,https://t.me/hansterbabybot,,,,,,,,,,,dyor.io gramnews-apps,First Meme Community on Ton for Hamster Lovers .. $NOT just got a baby 💰💰💰
 social,74,Host.tg,host-tg,quiet,0,,,,,https://x.com/HostAppHQ,https://host.tg,,,,,,,,,dyor.io gramnews-apps ton.app,Host.tg — an app for organizing and participating in events via Telegram
-social,75,INFINITY,infinity,quiet,0,,,https://t.me/infinity_bid_bot,https://t.me/infinity_bid,,https://infinity.bid/,,,,,,,,,ton.app,INFINITY is an evolving visual world inside Telegram.
+social,75,INFINITY,infinity,quiet,0,,,https://t.me/infinity_bid,https://t.me/infinity_bid_bot,,https://infinity.bid/,,,,,,,,,ton.app,INFINITY is an evolving visual world inside Telegram.
 social,76,MAROHA,maroha,quiet,0,,,,https://t.me/maroha_hubbot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,🩷 Pink MAROHA on TON
 social,77,NEONEXA · Hub 💎,neonexa-hub,quiet,0,,,,https://t.me/tonmason_newsbot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,"Всё про NEONEXA в одном месте — спокойно и по делу, без давления."
 social,78,NFT Access Guardian Bot,nft-access-guardian-bot,quiet,0,,,,https://t.me/access_ton_control_bot,,,,,,,,,,,ton-society-ecosystem-map,NFT Access Guardian Bot: Verifies NFT ownership for exclusive chat access.
 social,79,NFTune,nftune,quiet,0,,,,https://t.me/nftunebot,,,,,,,,,,,2025-ton-cis-hub,
 social,80,Peace Da Love,peace-da-love,quiet,0,,,,,,https://peacedalove.com,,,,,,,,,gramnews-apps ton.app,
-social,81,Photon,photon,quiet,0,,,https://t.me/ThePhoton_Bot,https://t.me/The_Photon_app,https://x.com/photon_friends,,,,,,,,,,gramnews-apps ton.app,"Photon - a social app to express yourself, discover your friends, and bring your dreams to life."
+social,81,Photon,photon,quiet,0,,,https://t.me/The_Photon_app,https://t.me/ThePhoton_Bot,https://x.com/photon_friends,,,,,,,,,,gramnews-apps ton.app,"Photon - a social app to express yourself, discover your friends, and bring your dreams to life."
 social,82,Spiritual Hub,spiritual-hub,quiet,0,,,,https://t.me/spiritualhubbot,,,,,,,,,,,2025-ton-cis-hub,Spiritual hub - mindfulness app aggregator
 social,83,StickerFace,stickerface,quiet,0,,,,https://t.me/stickerfacebot,,https://stickerface.io/,,,,,,,,,2023-10-tonpost ton.app,Press /start to create your personal Sticker Pack🔥
 social,84,Telegram one Top,telegram-one-top,quiet,0,,,,,,,,,,,,,,,dyor.io gramnews-apps,
@@ -1303,7 +1303,7 @@ social,90,ton.place,ton-place,quiet,0,,,,,,https://ton.place,,,,,,,,,2023-10-ton
 social,91,TONpie,tonpie,quiet,0,,,,,,https://tonpie.io,,,,,,,,,gramnews-apps ton.app,
 social,92,TonsOfFriends,tonsoffriends,quiet,0,,,,https://t.me/toftechbot,https://x.com/TonsOfFriends,https://app.tonfriends.tech,,,,,,,,,2024-06-ton-degen defillama dyor.io gramnews-apps ton.app,
 social,93,vnukiсh,vnuki-h,quiet,0,,,,https://t.me/vnukich_bot,,,,,,,,,,mentioned by 5 TON channels in Q3,ton-channel-posts,"👋 Привет, Друг! Ты попал в систему награждения активности Внукича"
-social,94,Wall Telegram,wall-telegram,quiet,0,,,https://t.me/wall,https://t.me/wall_people,,https://wall.tg,,,,,,,,,gramnews-apps ton.app,"Wall Telegram is a social network with posts, graffiti, and music."
+social,94,Wall Telegram,wall-telegram,quiet,0,,,https://t.me/wall_people,https://t.me/wall,,https://wall.tg,,,,,,,,,gramnews-apps ton.app,"Wall Telegram is a social network with posts, graffiti, and music."
 social,95,Web3Events,web3events,quiet,0,,,,,https://x.com/Web3Events_ai,,,,,,,,,,ton-society-ecosystem-map,
 social,96,WhoWhere,whowhere,quiet,0,,,,,,,,,,,,,,,gramnews-apps ton.app,
 social,97,Криптохалва,cryptohalva,quiet,0,,,,https://t.me/beeton_kriptohalva_bot,,,,,,,,,,,dyor.io gramnews-apps,
@@ -1315,7 +1315,7 @@ social,102,TON Stars,ton-stars,quiet,0,,,https://t.me/ton_stars_official,https:/
 social,103,Commander,commander,quiet,0,,,https://t.me/commander_ton,,https://x.com/commanderton,,,2024-06-19,,,,,,,dyor.io gramnews-apps ton.app,
 social,104,Lost Dogs,lost-dogs,closed,0,,,https://t.me/lostdogscoeng,https://t.me/lost_dogs_bot,https://x.com/lostdogsco,https://app.vpn.diamonds/,,2026-02-21,,,,,10195,,2023-10-tonpost 2024-06-ton-degen 2025-07-ton dyor.io gramnews-apps,A detective game in the 'signals' genre in Telegram
 social,105,Uniton,uniton,closed,0,,,,https://t.me/UnitonAIBot,https://x.com/UnitonAI,https://www.uniton.ai,,,,,,,257,,2024-06-dwf-ventures 2024-06-ton-degen dyor.io gramnews-apps ton-society-ecosystem-map ton.app,
-social,106,DOGWIFHOOD,dogwifhood,closed,0,,,https://t.me/dogwifhood_TON,https://t.me/dogwifhoodANN,https://x.com/dogwifhoodTON,https://wifhood.dog/,,,,,,,,,2024-06-ton-degen dyor.io gramnews-apps ton-society-ecosystem-map ton.app,
+social,106,DOGWIFHOOD,dogwifhood,closed,0,,,https://t.me/dogwifhood_TON,,https://x.com/dogwifhoodTON,https://wifhood.dog/,,,,,,,,,2024-06-ton-degen dyor.io gramnews-apps ton-society-ecosystem-map ton.app,
 ai,1,AI Lab,ai-lab,active,0,,mau,,https://t.me/ailab_robot,,,,,,,,,604023,mentioned by 33 TON channels in Q3,ton-channel-posts,Cooperation - @AiLabSupport_robot
 ai,2,MOONBERG AI BOT,moonberg-ai-bot,active,0,,telegram,https://t.me/moonbergai,https://t.me/moonbergai_bot,https://x.com/moonberg,https://moonberg.com,https://github.com/Emmet-Finance,2026-09-10,2026-05-07,141560,141560,20,12241,,dyor.io gramnews-apps,MOONBERG AI BOT — AI-powered crypto trading tool
 ai,3,Spru,spru,active,0,,mau,,https://t.me/spru_agent_bot,,,,,,,,,140832,mentioned by 3 TON channels in Q3,ton-channel-posts,"🐙 ИИ, который делает за тебя Поддержка - @spru_support_bot"
@@ -1375,7 +1375,7 @@ tools,17,PandaFiT,pandafit,active,0,,mau,,https://t.me/pandafit_bot,,,,,,23225,,
 tools,18,Guarant,guarant,active,0,,mau,,https://t.me/GuarantAppBot,https://x.com/GuarantApp,,,,,20814,,,20814,,dyor.io gramnews-apps ton.app,🤝 Make your transactions without any problems!
 tools,19,Crypto Office,crypto-office,active,0,,mau,,https://t.me/office_app_bot,,,,,,,,,11997,,findmini,Crypto Office - Your helper in crypto world 🌎 News: @officeappnews Support: @office_app_support_bot
 tools,20,webappz,webappz,active,0,,telegram,https://t.me/webappz,https://t.me/webappzconnectbot,,https://webappz.org,,2026-07-20,,2457,2457,8,993,,gramnews-apps ton.app,webappz авто-магазины/меню в telegram
-tools,21,SOREN,soren,active,0,,telegram,https://t.me/SORENCHANNEL,https://t.me/SORENCOMMUNITY,https://x.com/ownsoren,https://www.soren.today/,,2026-09-08,,1870,1870,2,,,dyor.io gramnews-apps ton.app,SOREN is a digital identity layer on the TON blockchain.
+tools,21,SOREN,soren,active,0,,telegram,https://t.me/SORENCHANNEL,,https://x.com/ownsoren,https://www.soren.today/,,2026-09-08,,1870,1870,2,,,dyor.io gramnews-apps ton.app,SOREN is a digital identity layer on the TON blockchain.
 tools,22,TON Box,ton-box,active,0,,github,,,,https://storage-two.vercel.app/,https://github.com/tonwhales,,2026-08-13,,,,,,gramnews-apps ton.app,
 tools,23,Workix,workix,active,0,,github,,https://t.me/workix_tbot,,https://workix.co,https://github.com/facetoplace/Workix,,2026-09-23,,,,,,dyor.io gramnews-apps ton.app,Workix — platform for finding and applying to freelance tasks
 tools,24,Portal Network,portal-network,active,0,,telegram,https://t.me/portal_energy,https://t.me/portal_network_bot,https://x.com/PortalNetwork_,https://portalnetwork.tech,,2026-08-10,,,,1,,,gramnews-apps ton.app,Portal Network — a bot for managing a network of electric vehicle charging stations
@@ -1409,10 +1409,10 @@ tools,51,2FA,2fa,quiet,0,,,,https://t.me/tgmfabot,,,,,,,,,,mentioned by 15 TON c
 tools,52,Access,access,quiet,0,,,,https://t.me/access_app_bot,,,,,,,,,,mentioned by 11 TON channels in Q3,ton-channel-posts,Set up a custom access to your private group or channel. Built by independent devs as part of https://tools.tg
 tools,53,Auto Orbit,auto-orbit,closed,0,,,,,,,,,,,,,,,gramnews-apps ton.app,
 tools,54,Bulksender,bulksender,quiet,0,,,,https://t.me/bulksenderbot,,,,,,,,,,,2025-07-ton,
-tools,55,Exact Receipt,exact-receipt,quiet,0,,,https://t.me/WDK_Wallet_bot,https://t.me/exactreceipt,,https://exactreceipt.com/,,,,,,,,,ton.app,"Exact Receipt is a TON-native, watch-only payment request and receipt service."
+tools,55,Exact Receipt,exact-receipt,quiet,0,,,https://t.me/exactreceipt,https://t.me/WDK_Wallet_bot,,https://exactreceipt.com/,,,,,,,,,ton.app,"Exact Receipt is a TON-native, watch-only payment request and receipt service."
 tools,56,Find & Check,find-check,quiet,0,,,,https://t.me/findcheckbot,,,,,,,,,,,2023-10-tonpost,
 tools,57,Foldee,foldee,quiet,0,,,,https://t.me/foldee_bot,,,,,,,,,,,2025-ton-cis-hub,"Foldee — приложение, где можно сохранять ссылки, заметки по папкам и устанавливать напоминания о них."
-tools,58,Manage Ton Subdomain,manage-ton-subdomain,quiet,0,,,https://t.me/ton_subdomain_bot,,,https://subdomain.earnigram.com,,,,,,,,,dyor.io gramnews-apps ton.app,Manage .ton subdomains directly in Telegram.
+tools,58,Manage Ton Subdomain,manage-ton-subdomain,quiet,0,,,,https://t.me/ton_subdomain_bot,,https://subdomain.earnigram.com,,,,,,,,,dyor.io gramnews-apps ton.app,Manage .ton subdomains directly in Telegram.
 tools,59,NovaCont Lite,novacont-lite,quiet,0,,,,https://t.me/NovaCont_Lite_bot,https://x.com/getnovacont,https://novacont.tech,,,,,,,,,ton.app,NovaCont Lite is a non-custodial escrow Mini App on TON.
 tools,60,RevYou,revyou,quiet,0,,,https://t.me/revyou_announcements,https://t.me/revyou_bot,https://x.com/revyouxyz,,,,,,,,,,dyor.io gramnews-apps ton.app,"Collect client reviews in one place you control. Own your data, earn rewards, be your own boss."
 tools,61,SplitFast,splitfast,quiet,0,,,,https://t.me/SplitFastBot,,https://splitfast.io,,,,,,,,,2025-07-ton gramnews-apps ton.app,SplitFast — a mini app for splitting expenses in Telegram
@@ -1421,7 +1421,7 @@ tools,63,TEPE,tepe,quiet,0,,,https://t.me/sirex_io,https://t.me/sirexio_bot,http
 tools,64,TON Grafana,ton-grafana,quiet,0,,,,,,https://tonmon.xyz/,,,,,,,,,awesome-ton,Blockchain metrics visualization.
 tools,65,TON Multisender,ton-multisender,quiet,0,,,,,,https://ton.multisender.app/,,,,,,,,,awesome-ton,Batch transaction tool for TON and Jettons.
 tools,66,TON Sign,ton-sign,quiet,0,,,https://t.me/tondocsign_bot,,,https://tonsign.com/privacy?lang=en,,,,,,,,,gramnews-apps ton.app,
-tools,67,TonGo,tongo,quiet,0,,,https://t.me/dotTonBot,https://t.me/tongonews,,https://tongo.run,https://github.com/tongochi/DEX,,2023-12-14,,,,,,2023-10-tonpost 2024-02-coin98-games 2024-05-coin98-games gramnews-apps ton-society-ecosystem-map ton.app,TonGo — a .ton domains and subdomains management service
+tools,67,TonGo,tongo,quiet,0,,,,,,https://tongo.run,https://github.com/tongochi/DEX,,2023-12-14,,,,,,2023-10-tonpost 2024-02-coin98-games 2024-05-coin98-games gramnews-apps ton-society-ecosystem-map ton.app,TonGo — a .ton domains and subdomains management service
 tools,68,UserCoin App,usercoin-app,quiet,0,,,,https://t.me/crypto_iq_bot,,,,,,,,,,,dyor.io gramnews-apps,UserCoin can evaluate the value of your username based on data from the Fragment.
 tools,69,WorkHub,workhub,quiet,0,,,,https://t.me/workhubapp_bot,,,,,,,,,,mentioned by 9 TON channels in Q3,ton-channel-posts,Платформа для поиска работников и заказов под любые задачи! Telegram: @workhub_official
 tools,70,AdBuy,adbuy,quiet,0,,,https://t.me/Crypton_Deploys,,,,,2026-07-20,,,,,,,gramnews-apps ton.app,
@@ -1445,12 +1445,12 @@ shopping,12,Shop Builder,shop-builder-2,quiet,0,,,https://t.me/TGShopNews,https:
 shopping,13,Shop Builder,shop-builder,quiet,0,,,https://t.me/ShopsBuilder,https://t.me/ShopsBuilderBot,https://x.com/shopsbuilder,https://shopsbuilder.notion.site/helpcenter,,2026-03-03,,,,,537,,gramnews-apps ton.app,A Telegram shop with crypto payments and AI assistants
 shopping,14,Tickyton,tickyton,quiet,0,,,,https://t.me/tickytonbot,,,,,,,,,137,,dyor.io gramnews-apps,
 shopping,15,behind,behind,quiet,0,,,,https://t.me/bhndbot,,,,,,,,,,,dyor.io gramnews-apps ton.app,
-shopping,16,bionapp,bionapp,quiet,0,,,https://t.me/bionapp_bot,https://t.me/bion_announcements,https://x.com/bion_app,https://www.bionapp.com/,,,,,,,,,2024-06-ton-degen dyor.io gramnews-apps ton.app,"Scan to Pay, access credit up to $300, buy gift cards and earn rewards—all in the Bion Mini App."
+shopping,16,bionapp,bionapp,quiet,0,,,https://t.me/bionapp_bot,,https://x.com/bion_app,https://www.bionapp.com/,,,,,,,,,2024-06-ton-degen dyor.io gramnews-apps ton.app,"Scan to Pay, access credit up to $300, buy gift cards and earn rewards—all in the Bion Mini App."
 shopping,17,Cashbacker,cashbacker,quiet,0,,,,https://t.me/cashbackton_bot,,https://pizzaton.me,https://github.com/pizzaton,,2024-11-24,,,,,,dyor.io gramnews-apps,
-shopping,18,Catallaxy,catallaxy,quiet,0,,,https://t.me/catallaxy_bot,https://t.me/catallaxy_ton,https://x.com/catallaxy_ton,https://ctlx.cc,https://github.com/dearjohndoe/ton-agents-marketplace,,2026-08-14,,,,,,gramnews-apps ton.app,Catallaxy — a marketplace for digital goods and services on TON
-shopping,19,Coinco,coinco,quiet,0,,,https://t.me/coinco_bot,https://t.me/coinco_global,,https://coinco.io,,,,,,,,,gramnews-apps ton.app,Shop your favorite products in Coinco. Pay with crypto and ship to 200+ countries
-shopping,20,GiftX: AI Wishlist,giftx-ai-wishlist,quiet,0,,,https://t.me/giftxtech_bot,,,,,,,,,,,,gramnews-apps ton.app,"Вишлист, ИИ-подбор подарков, бронирование. Создай список желаний и делись одной ссылкой!"
-shopping,21,OpenMarketplace,openmarketplace,quiet,0,,,https://t.me/MarketplaceTeleBot,https://t.me/OpenMarketplaces,,,,,,,,,,,gramnews-apps ton.app,
+shopping,18,Catallaxy,catallaxy,quiet,0,,,https://t.me/catallaxy_ton,https://t.me/catallaxy_bot,https://x.com/catallaxy_ton,https://ctlx.cc,https://github.com/dearjohndoe/ton-agents-marketplace,,2026-08-14,,,,,,gramnews-apps ton.app,Catallaxy — a marketplace for digital goods and services on TON
+shopping,19,Coinco,coinco,quiet,0,,,https://t.me/coinco_global,https://t.me/coinco_bot,,https://coinco.io,,,,,,,,,gramnews-apps ton.app,Shop your favorite products in Coinco. Pay with crypto and ship to 200+ countries
+shopping,20,GiftX: AI Wishlist,giftx-ai-wishlist,quiet,0,,,,https://t.me/giftxtech_bot,,,,,,,,,,,gramnews-apps ton.app,"Вишлист, ИИ-подбор подарков, бронирование. Создай список желаний и делись одной ссылкой!"
+shopping,21,OpenMarketplace,openmarketplace,quiet,0,,,,,,,,,,,,,,,gramnews-apps ton.app,
 shopping,22,TonMart,tonmart,quiet,0,,,,https://t.me/tonmartbot,,,,,,,,,,,2024-06-ton-degen,Shop global products in TonMart. Pay with crypto and ship to 200+ countries.
 shopping,23,Umy.com,umy-com,quiet,0,,,https://t.me/umyofficialnews,https://t.me/umy_official_bot,https://x.com/umycomofficial,https://umy.com/,,,,,,,,,gramnews-apps ton.app,Umy.com — hotel and flight bookings with cryptocurrency payments
 shopping,24,VibeMarket,vibemarket,quiet,0,,,https://t.me/vibecodemarketdev_bot,,,https://vibemarket.pro/en,,,,,,,,,gramnews-apps ton.app,
@@ -1465,7 +1465,7 @@ shopping,32,TGGifts,tggifts,closed,0,,,https://t.me/tongiftsnews,https://t.me/Ge
 education,1,TonNewbie,tonnewbie-nr1hca,active,0,,telegram,https://t.me/tonnewbie,,https://x.com/ru,,,2026-09-28,,200870,200870,95,,,dyor.io gramnews-apps,Канал посвящён новостям и полезной информации для Вашего развития в крипто мире.
 education,2,Be Unstoppable,be-unstoppable,active,0,,telegram,https://t.me/unstoppable_announcements,https://t.me/BeUnstoppable_bot,https://x.com/unstoppablebyhs,https://unstoppable.money/,https://github.com/horizontalsystems,2026-10-01,2026-10-01,83649,83649,82,10167,,dyor.io gramnews-apps,"Be Unstoppable — a cryptocurrency wallet supporting Bitcoin, Ethereum, and Zcash"
 education,3,iQuizMaster,iquizmaster,active,0,,mau,,https://t.me/iquizmaster_bot,https://x.com/snapsterbot,,,,,20255,,,20255,,dyor.io gramnews-apps,"Seize the chance to grab a million pounds, showcase your strength, and win huge prizes"
-education,4,BehLand - Web3 L2E,behland-web3-l2e,active,0,,telegram,https://t.me/BehLand_Official,https://t.me/BehLand_gp,https://x.com/BehLandOfficial,https://beh.land,https://github.com/beh-land,2026-10-01,2026-09-09,6379,6379,31,,,gramnews-apps ton.app,BehLand — an educational platform with Web3 elements
+education,4,BehLand - Web3 L2E,behland-web3-l2e,active,0,,telegram,https://t.me/BehLand_Official,,https://x.com/BehLandOfficial,https://beh.land,https://github.com/beh-land,2026-10-01,2026-09-09,6379,6379,31,,,gramnews-apps ton.app,BehLand — an educational platform with Web3 elements
 education,5,XPLUS,xplus,quiet,0,,,,https://t.me/xplusio_bot,https://x.com/xplusio,,,,,,,,89543,,2024-06-ton-degen dyor.io gramnews-apps,XPLUS Game is a game within Telegram.
 education,6,BrainGames,braingames,quiet,0,,,https://t.me/caspertma,https://t.me/braingamesappbot,,,,2025-04-09,,,,,16934,,dyor.io gramnews-apps,
 education,7,Join Studihub,join-studihub,quiet,0,,,https://t.me/PieTrade,https://t.me/joinstudihub_bot,,https://pie.trading,,2025-06-28,,,,,12109,,dyor.io gramnews-apps,
@@ -1593,7 +1593,7 @@ games,102,GH Arena,gh-arena,active,0,,telegram,https://t.me/gh_coin,https://t.me
 games,103,xCombat,xcombat,active,0,,,,https://t.me/xcombat_bot,,,,,,1529,,,1529,,dyor.io gramnews-apps,
 games,104,Animal Village,animal-village,active,0,,telegram,https://t.me/animal_village_ann,https://t.me/Animal_village_bot,,,,2026-07-24,,1446,57,2,1446,,dyor.io gramnews-apps,
 games,105,Direct Games Bot,direct-games-bot,active,0,,gramnews,,https://t.me/directgamesbot,,,,,,,,,1390,,dyor.io gramnews-apps gramnews-feed,Play Games Directly in Telegram.
-games,106,Flutter Bees,flutter-bees,active,0,,telegram,https://t.me/FlutterBees,https://t.me/FlutterBees_bot,https://x.com/FlutterBees_X,https://www.flutterbees.app,https://github.com/flutter-bees,2026-10-01,2026-05-22,1180,1180,1,237,,dyor.io gramnews-apps ton.app,"Flutter Bees is a vibrant gaming network for interactive challenges and community engagement. Join the adventure, complete tasks, and explore a growing ecosystem. Connect, compete, and enjoy the exper"
+games,106,Flutter Bees,flutter-bees,active,0,,telegram,https://t.me/FlutterBees,https://t.me/FlutterBees_bot,https://x.com/FlutterBees_X,,https://github.com/flutter-bees,2026-10-01,2026-05-22,1180,1180,1,237,,dyor.io gramnews-apps ton.app,"Flutter Bees is a vibrant gaming network for interactive challenges and community engagement. Join the adventure, complete tasks, and explore a growing ecosystem. Connect, compete, and enjoy the exper"
 games,107,VWS Utilities,vws-utilities,active,0,,telegram,https://t.me/miningvws,,,,https://github.com/MagicVipPeople,2026-07-11,2024-05-23,1068,1068,3,,,dyor.io gramnews-apps ton.app,
 games,108,DealTON,dealton,active,0,,telegram,https://t.me/DealTON_announcements,https://t.me/dealtonbot,https://x.com/dealtongame,,,2026-10-01,,803,803,94,,,ton.app,"DealTON: Make the Right Deal, Become a Millionaire."
 games,109,Your Life Simulator,yourlifesimulator-bot,active,0,,telegram,https://t.me/tvorog_lab,https://t.me/yourlifesimulator_bot,,https://bitardia.com/simulator/,,2026-07-17,,772,772,1,,,gramnews-apps ton.app,This is Your Life Simulator
@@ -1653,7 +1653,7 @@ games,162,Cartel,cartel,quiet,0,,,https://t.me/cartel_game_community,https://t.m
 games,163,CryptoWorms,cryptoworms,quiet,0,,,https://t.me/cryptowormslive,https://t.me/cryptowormbot,,,,,,,,,14274,,dyor.io gramnews-apps ton.app,Earn the $worm token by eating it on the map. Play
 games,164,MarsGO,marsgo,quiet,0,,,,https://t.me/marsgo_bot,,,,,,,,,14231,,dyor.io gramnews-apps,"MarsGO — Farm points, upgrade your rocket, build your crew, conquer Mars, and claim your $MBASE drop. Discover Web3!"
 games,165,HangarX Gaming,hangarx-gaming,quiet,0,,,,https://t.me/hangarxgaming_bot,https://x.com/Hangarxio,https://HangarX.io,https://github.com/hangarx,,2024-12-15,,,,14040,,dyor.io gramnews-apps,"HangarX: Your all-in-one Web3 gaming portal! Choose from multiple games, play, and earn easily."
-games,166,PepexVerse,pepexverse,quiet,0,,,https://t.me/pepexsupport,https://t.me/pepexversebot,,,,,,,,,13766,,dyor.io gramnews-apps,
+games,166,PepexVerse,pepexverse,quiet,0,,,,https://t.me/pepexversebot,,,,,,,,,13766,,dyor.io gramnews-apps,
 games,167,Catmoonity,catmoonity,quiet,0,,,https://t.me/catmoonity,https://t.me/catmoonitybot,https://x.com/catmoonity,,,,,,,,13761,,dyor.io gramnews-apps ton.app,
 games,168,PUSH Coin,push-coin,quiet,0,,,,https://t.me/plankpushers_bot,https://x.com/bemo_finance,https://bemo.fi/,,2026-06-12,,,,,13740,,dyor.io gramnews-apps ton.app,🛹 Gateway to The World of Plank Pushers
 games,169,Mirrion Beyond,mirrion-beyond,quiet,0,,,https://t.me/MirrionBeyond,https://t.me/mirrionbeyondbot,https://x.com/MirrionBeyond,https://store.steampowered.com/?snr=1_1056_4_18_global-header&curator_clanid=45363409,,,,,,,13733,,dyor.io gramnews-apps ton.app,A cyberpunk game with survival and hacking elements
@@ -1895,7 +1895,7 @@ games,404,ZenCoin,zencoin,quiet,0,,,,https://t.me/thezencoin_bot,https://x.com/Z
 games,405,🦑 Squid,squid,quiet,0,,,https://t.me/squid_tg,https://t.me/squidtg_bot,https://x.com/squid_tg,,,,,,,,10007,,2024-06-ton-degen 2025-ton-cis-hub dyor.io gramnews-apps ton.app,Squid - An idle blockchain game powered by TON inscription.
 games,406,Captain Tsubasa,captain-tsubasa,quiet,0,,,https://t.me/tsubasarivalsannounce,https://t.me/tsubasarivalsbot,,,,2025-08-15,,,,,10004,,dyor.io gramnews-apps,
 games,407,TabiZoo,tabizoo,quiet,0,,,,https://t.me/tabizoobot,https://x.com/tabi_zoo,,,,,,,,10001,,dyor.io gramnews-apps,
-games,408,PAPERCOIN,papercoin,quiet,0,,,https://t.me/tonceocreator,https://t.me/papercoinbot,,https://getgems.io/collection/EQBKyOBYgqJZx46kfW4pxo6K8QU72POfsTWnEZKaq5qGnb99,,,,,,,9979,,dyor.io gramnews-apps ton.app,
+games,408,PAPERCOIN,papercoin,quiet,0,,,,https://t.me/papercoinbot,,https://getgems.io/collection/EQBKyOBYgqJZx46kfW4pxo6K8QU72POfsTWnEZKaq5qGnb99,,,,,,,9979,,dyor.io gramnews-apps ton.app,
 games,409,Duckygram,duckygram,quiet,0,,,,https://t.me/duckygram_bot,,,,,,,,,9938,,dyor.io gramnews-apps,Collectible game where you hatch and breed unique ducks on Telegram to earn $EGG tokens
 games,410,The Queue,the-queue,quiet,0,,,,https://t.me/thequeue_bot,,,,,,,,,9680,,dyor.io gramnews-apps,"Play The Queue, a fun Telegram game with real TON prizes. Test your endurance! 👀"
 games,411,ALCOCOIN APP,alcocoin-app,quiet,0,,,https://t.me/alcocoins,https://t.me/alcocoin_bot,https://x.com/alcocoinapp,,,2025-12-10,,,,,9589,,dyor.io gramnews-apps,
@@ -1923,7 +1923,7 @@ games,432,TG GAMES,tg-games,quiet,0,,,https://t.me/TGGames_official,https://t.me
 games,433,Captains Bay App,captains-bay-app,quiet,0,,,https://t.me/CaptainsBay,https://t.me/captainsbaybot,https://x.com/CaptainsBayApp,https://captainsbay.xyz/,,2024-06-03,,,,,1429,,dyor.io gramnews-apps,become the strongest captain in the bay 🚢🏅⛵️⚓️🗺⚔️💣💰⛴
 games,434,MineQuestGame,minequestgame,quiet,0,,,,https://t.me/minequestgamebot,https://x.com/MineQuest_Game,,,,,,,,1319,,dyor.io gramnews-apps,
 games,435,Maincard,maincard,quiet,0,,,https://t.me/MaincardOfficial,https://t.me/maincardton_bot,https://x.com/MaincardGame,https://app.maincard.io/,,,,,,,1222,,2024-05-coin98-games 2024-06-ton-degen dyor.io gramnews-apps ton.app,Web3 game based on sports fantasy management. Earn $MCN by predicting the results of sports events.
-games,436,MiniGameCenter,minigamecenter,quiet,0,,,https://t.me/MiniGame,https://t.me/minigamecenterbot,,,,,,,,,1169,,dyor.io gramnews-apps,🔥🔥🔥 Best MiniGame Platform! 🔥🔥🔥
+games,436,MiniGameCenter,minigamecenter,quiet,0,,,,https://t.me/minigamecenterbot,,,,,,,,,1169,,dyor.io gramnews-apps,🔥🔥🔥 Best MiniGame Platform! 🔥🔥🔥
 games,437,Wooden Fish bot,wooden-fish-bot,quiet,0,,,,https://t.me/woodfish_bot,,,,,,,,,1080,,dyor.io gramnews-apps,
 games,438,TopTap,toptap,quiet,0,,,,https://t.me/toptapapp_bot,,,,,,,,,1074,,dyor.io gramnews-apps,
 games,439,$CUBE Worlds,cube-worlds,quiet,0,,,https://t.me/cube_worlds,https://t.me/cube_worlds_bot,,https://x.com/bastion,,2024-08-16,,,,,1072,,dyor.io gramnews-apps,Acquire your unique NFT character in
@@ -1983,19 +1983,19 @@ games,492,Trading just a Game,trading-just-a-game,quiet,0,,,,https://t.me/tradin
 games,493,RPS Titans,rps-titans,quiet,0,,,,,https://x.com/RpsTitans_Game,https://www.rpstitans.xyz/,,,,,,,11,,dyor.io gramnews-apps,
 games,494,Raccoon STARZ,raccoon-starz,quiet,0,,,https://t.me/raccoonstarz,https://t.me/raccoonstarzbot,,,,2024-10-30,,,,,9,,dyor.io gramnews-apps ton.app,"WE ARE RACCOONS , WE ARE THE BEST"
 games,495,Utopia,utopia,quiet,0,,,https://t.me/safepermoon,https://t.me/utopia_ton_bot,https://x.com/UtopiaTon,https://safepermoon.com,,2026-10-01,,,,,2,,dyor.io gramnews-apps ton.app,
-games,496,AFK Loot,afk-loot,quiet,0,,,https://t.me/afklootgame_bot,https://t.me/afklootgame,https://x.com/ocalirdigital,https://afkloot.vercel.app/,,,,,,,,,ton.app,"Play AFK Loot, the ultimate idle RPG mini-app on Telegram."
+games,496,AFK Loot,afk-loot,quiet,0,,,https://t.me/afklootgame,https://t.me/afklootgame_bot,https://x.com/ocalirdigital,https://afkloot.vercel.app/,,,,,,,,,ton.app,"Play AFK Loot, the ultimate idle RPG mini-app on Telegram."
 games,497,Allting,allting-ceo,quiet,0,,,https://t.me/alltingceo,https://t.me/allting_bot,,https://allting.ceo,,,,,,,,,dyor.io gramnews-apps,Become the CEO of Allting!
 games,498,Amazing Marshmallows,amazing-marshmallows,quiet,0,,,,https://t.me/amazing_marshmallow_bot,,https://getgems.io/collection/EQCKvfM723D-azwQFEK3_hBySkCkTWqYjcaTona3cshrU5C-,,,,,,,,,dyor.io gramnews-apps ton.app,Amazing Marshmallows – a Telegram mini‑app game
 games,499,ANAGRAM,anagram,quiet,0,,,,https://t.me/anagramappbot,,,,,,,,,,mentioned by 10 TON channels in Q3,ton-channel-posts,Skill-based puzzle game
 games,500,Antarctica Survival,antarctica-survival,quiet,0,,,,https://t.me/antarcticasurvival_bot,,,,,,,,,,mentioned by 6 TON channels in Q3,ton-channel-posts,
 games,501,Apocalypse TON,apocalypse-ton,quiet,0,,,,https://t.me/apocalypseton_bot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,
 games,502,Base Bear Cutie,base-bear-cutie,quiet,0,,,,https://t.me/trumpy_coin_bot,,https://basebear.pro/,,,,,,,,,dyor.io gramnews-apps,
-games,503,Basic Reality,basic-reality,quiet,0,,,https://t.me/Basic_reality_bot,https://t.me/basic_reality_chat,,https://basic-reality.ru/,,,,,,,,,dyor.io gramnews-apps ton.app,The world map is divided into unique 20×20 meter land tiles.
+games,503,Basic Reality,basic-reality,quiet,0,,,https://t.me/basic_reality_chat,https://t.me/Basic_reality_bot,,https://basic-reality.ru/,,,,,,,,,dyor.io gramnews-apps ton.app,The world map is divided into unique 20×20 meter land tiles.
 games,504,BEERTAP GAME,beertap-game,quiet,0,,,,https://t.me/beercointap_bot,https://x.com/beercoinmeme,,,,,,,,,,dyor.io gramnews-apps,Beertap is an official game from $BEER. Play and get to the top. Win unique amazing rewards and prizes.
 games,505,Berg (mini app),berg-mini-app,quiet,0,,,,https://t.me/ndtwin_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,
 games,506,Blockchemy,blockchemy,quiet,0,,,https://t.me/blockchemy,https://t.me/blockchemybot,https://x.com/blockchemy,https://blockchemy.io/,,,,,,,,,dyor.io gramnews-apps,"Step into the enchanting world of Blockchemy, where wonders and challenges come to life! ✨"
 games,507,Bonsopoly,bonsopoly,quiet,0,,,,,https://x.com/bonsopoly,https://bons.io/,,,,,,,,,ton.app,"Bonsopoly Token reflects the company's capitalization, and the development of the ecosystem allows you to invest more in the development of the token, increasin"
-games,508,Boxing Star X,boxing-star-x,quiet,0,,,https://t.me/boxingstarx,,,,,,,,,,,,2025-07-ton,
+games,508,Boxing Star X,boxing-star-x,quiet,0,,,,https://t.me/boxingstarx,,,,,,,,,,,2025-07-ton,
 games,509,Caplly,caplly,quiet,0,,,https://t.me/caplly_support,https://t.me/capllybot,https://x.com/capllyxyz,,,,,,,,,,dyor.io gramnews-apps,"Go to hit the start, Capture coins & use boosts. TGE Soon!"
 games,510,Chainmedia链媒,chainmedia,quiet,0,,,,,https://x.com/chainmedianews,,,,,,,,,,ton.app,以区块链自驱的区块链媒体平台，让每一位创作者的作品得到公平分配、精准回报，激发创作潜力。 通过区块链技术，引领媒体行业迈向更加自由、透明和共享的未来，让创作成为每个人都能参与并受益的事业。
 games,511,CIRCLES,circles,quiet,0,,,,https://t.me/pd_circles_bot,,,,,,,,,,mentioned by 10 TON channels in Q3,ton-channel-posts,A game of trust. Build your circle — or destroy someone else’s. The one who survives takes the prize.
@@ -2003,15 +2003,15 @@ games,512,Clash of Diggers,clash-of-diggers,quiet,0,,,,https://t.me/clashofdigge
 games,513,CosmosTap,cosmostap,quiet,0,,,,https://t.me/cosmos_tap_bot,https://x.com/cosmos_tap,,,,,,,,,,ton.app,"Blast off with CosmosTap, our new Telegram minigame!✅ Collect cosmic cash, and upgrade your spaceship to venture deeper into the universe."
 games,514,CrownvilleSurvivors,crownvillesurvivors,quiet,0,,,,https://t.me/crownvillesurvivorsbot,,,,,,,,,,mentioned by 8 TON channels in Q3,ton-channel-posts,Crownville Survivors. Coming soon. Back it early and become a founder.
 games,515,Crybble Wars,crybble-wars,quiet,0,,,,https://t.me/crybblegame_bot,https://x.com/crybble,https://crybble.com,,,,,,,,,ton.app,Crybble Wars — the wildest crypto arcade on the web.
-games,516,CryptoGrove,cryptogrove,quiet,0,,,https://t.me/Grove_crypto_bot,https://t.me/cryptogrove_channel,,,,,,,,,,,ton.app,"🌿 CryptoGrove - Grow trees, earn crypto rewards Channel"
+games,516,CryptoGrove,cryptogrove,quiet,0,,,https://t.me/cryptogrove_channel,https://t.me/Grove_crypto_bot,,,,,,,,,,,ton.app,"🌿 CryptoGrove - Grow trees, earn crypto rewards Channel"
 games,517,CryptoMine CGS,cryptomine-cgs,quiet,0,,,,https://t.me/cryptogamespace_bot,https://x.com/EntertaimentCGS,,,,,,,,,,dyor.io gramnews-apps ton.app,"We are the CryptoGameSpace team, a new community of the gaming industry in the field of cryptocurrency🚀🎮💡"
 games,518,Cryptons,cryptons,quiet,0,,,,https://t.me/cryptons_game_bot,https://x.com/thecryptonsgame,,,,,,,,,,ton.app,"In Cryptons, players evolve their characters by battling others."
 games,519,Cyber Fish,cyber-fish,quiet,0,,,,https://t.me/cyberfishgamebot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,@Ddart33 - admin
 games,520,Cyber Village,cyber-village,quiet,0,,,,,,,,,,,,,,,dyor.io gramnews-apps,
-games,521,DARK-ROULETTE,dark-roulette,quiet,0,,,https://t.me/dl_roulette_bot,https://t.me/nftroulette,https://x.com/darkcoinmeme,,,,,,,,,,ton.app,Roulette is one of the $DARK token applications.
+games,521,DARK-ROULETTE,dark-roulette,quiet,0,,,https://t.me/nftroulette,https://t.me/dl_roulette_bot,https://x.com/darkcoinmeme,,,,,,,,,,ton.app,Roulette is one of the $DARK token applications.
 games,522,DecrypTON,decrypton-l6k7v7,quiet,0,,,,https://t.me/DecrypTON_Bot,https://x.com/Decryp_TON,,,,,,,,,,dyor.io gramnews-apps,
 games,523,Dfantasy,dfantasy,quiet,0,,,https://t.me/dfantasy_pro,https://t.me/dfantasy_bot,https://x.com/dFantasy_pro,,,,,,,,,,dyor.io gramnews-apps ton.app,Dfantasy is an on-chain Web3 fantasy football game.
-games,524,Digitcoin,digitcoin,quiet,0,,,https://t.me/digitcoin,https://t.me/digitcoin_community,https://x.com/thedigitcoin,https://digitcoin.io,,,,,,,,,findmini ton.app,Digitcoin ($DIGIT) is a gamified NFT platform that bridges digital collectibles with real-world exploration and community-driven interaction.
+games,524,Digitcoin,digitcoin,quiet,0,,,https://t.me/digitcoin_community,https://t.me/digitcoin,https://x.com/thedigitcoin,https://digitcoin.io,,,,,,,,,findmini ton.app,Digitcoin ($DIGIT) is a gamified NFT platform that bridges digital collectibles with real-world exploration and community-driven interaction.
 games,525,DogePee,dogepee,quiet,0,,,,https://t.me/dogeepee_bot,https://x.com/DogePeeCoin,https://kibble.exchange/,,,,,,,,,dyor.io gramnews-apps,
 games,526,DON TON,don-ton,quiet,0,,,https://t.me/don_ton_news,https://t.me/don_ton_bot,,,,,,,,,,,ton.app,Massively multiplayer game designed specifically for Telegram ecosystem.
 games,527,DoraTon,doraton,quiet,0,,,,https://t.me/doratonsbot,https://x.com/DorawifTon,https://battlebulls.com/,,,,,,,,,dyor.io gramnews-apps ton.app,
@@ -2029,9 +2029,9 @@ games,538,Farmaton land,farmaton-land,quiet,0,,,,https://t.me/farmatonland_bot,,
 games,539,Flip Out,flip-out,quiet,0,,,,https://t.me/flipoutbot,,,,,,,,,,,2025-ton-cis-hub,
 games,540,Flipo bot,flipo-bot,quiet,0,,,,https://t.me/flipogamebot,,,,,,,,,,mentioned by 5 TON channels in Q3,ton-channel-posts,
 games,541,ForestGreen,forestgreen,quiet,0,,,https://t.me/ForestGreenOfficial,https://t.me/cryptowood_mini_app_bot,,,,,,,,,,,dyor.io gramnews-apps,"Official news channel of the Forest Green Gamе. *If you have any questions, please contact the administrator"
-games,542,Forge Hero,forge-hero,quiet,0,,,https://t.me/ForgeHeroBot,https://t.me/ForgeHero,,https://playforgehero.com/,,,,,,,,,ton.app,"Join the action-packed world of Forge Hero, a highly rewarding Idle-RPG built directly as a Telegram Mini-app."
+games,542,Forge Hero,forge-hero,quiet,0,,,https://t.me/ForgeHero,https://t.me/ForgeHeroBot,,https://playforgehero.com/,,,,,,,,,ton.app,"Join the action-packed world of Forge Hero, a highly rewarding Idle-RPG built directly as a Telegram Mini-app."
 games,543,Forton,forton,quiet,0,,,,https://t.me/fortonbot,,,,,,,,,,,2026-05-messari,
-games,544,Fronex,fronex,quiet,0,,,https://t.me/fronexfun_bot,https://t.me/fronex_official,https://x.com/fronexhq,https://fronex.fun,,,,,,,,,ton.app,Fronex is a Telegram-native platform for social prediction gaming on TON.
+games,544,Fronex,fronex,quiet,0,,,https://t.me/fronex_official,https://t.me/fronexfun_bot,https://x.com/fronexhq,https://fronex.fun,,,,,,,,,ton.app,Fronex is a Telegram-native platform for social prediction gaming on TON.
 games,545,GamePat,gamepat,quiet,0,,,,https://t.me/gamepatbot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,
 games,546,Games Catalog,games-catalog,quiet,0,,,,,,https://8xr.io,,,,,,,,,ton.app,We hand-pick web2/web3 Telegram games for you so you can enjoy playing them solo or with your friends.
 games,547,Games Platform,games-platform,quiet,0,,,,,,https://8xr.io,,,,,,,,,dyor.io gramnews-apps,
@@ -2040,7 +2040,7 @@ games,549,Getsu,getsu,quiet,0,,,,https://t.me/getsubot,,,,,,,,,,,2025-ton-cis-hu
 games,550,Gevrantis Galaxy Game,gevrantis-galaxy-game,quiet,0,,,,https://t.me/gevrantisbot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,"Build your galaxy, unlock planets and develop your space economy."
 games,551,Goychik,goychik,quiet,0,,,,https://t.me/goychikappbot,,,,,,,,,,mentioned by 9 TON channels in Q3,ton-channel-posts,The cutest club on the internet. EN: @officialgoychik RU: @officialgoychikru Support: @officialgoychikchat
 games,552,Grabscape,grabscape,quiet,0,,,,https://t.me/grabscape_bot,,,,,,,,,,,2023-10-tonpost,
-games,553,GRAM CITY,gram-city,quiet,0,,,https://t.me/gramcity_games_bot,https://t.me/gramcity_chat,,,,,,,,,,,ton.app,Gram City — экономическая Web3-стратегия прямо в Telegram!
+games,553,GRAM CITY,gram-city,quiet,0,,,https://t.me/gramcity_chat,https://t.me/gramcity_games_bot,,,,,,,,,,,ton.app,Gram City — экономическая Web3-стратегия прямо в Telegram!
 games,554,Gram Duels,gram-duels,quiet,0,,,,https://t.me/Gramduels_bot,,,,,,,,,,,ton.app,PvP Rock·Paper·Scissors on TON.
 games,555,Gram Rush💎,gram-rush,quiet,0,,,,https://t.me/gram_rushbot,,,,,,,,,,mentioned by 6 TON channels in Q3,ton-channel-posts,
 games,556,GRAM TOWN 🎡,gram-town,quiet,0,,,,https://t.me/gramtownbot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,
@@ -2075,12 +2075,12 @@ games,584,MemHustle,memhustle,quiet,0,,,https://t.me/memhustlecom,https://t.me/m
 games,585,MeowRushBot,meowrushbot,quiet,0,,,,https://t.me/meowrushbot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,
 games,586,Millennium,millennium,quiet,0,,,,https://t.me/milennium_bot,,,,,,,,,,mentioned by 11 TON channels in Q3,ton-channel-posts,"Millenium - платформа развлечений и заработка! Турниры «Две башни», головоломки, рыбалка."
 games,587,Mnemonics,mnemonics,quiet,0,,,,https://t.me/mnmncs_bot,https://x.com/Mnemonics_coin,,,,,,,,,,dyor.io gramnews-apps,Play-to-earn decipher game for airdrop 🎮 😈 💸
-games,588,Moon Cards,moon-cards,quiet,0,,,https://t.me/MooncardsBot,https://t.me/mooncards,https://x.com/MoonCardsGame,https://www.gamee.com/,,,,,,,,,ton.app,"Moon Cards is a unique mobile trading card game fueled by real-world crypto markets, where players collect a variety of unique and powerful memecoin-themed card"
+games,588,Moon Cards,moon-cards,quiet,0,,,https://t.me/mooncards,https://t.me/MooncardsBot,https://x.com/MoonCardsGame,https://www.gamee.com/,,,,,,,,,ton.app,"Moon Cards is a unique mobile trading card game fueled by real-world crypto markets, where players collect a variety of unique and powerful memecoin-themed card"
 games,589,MOWTON,mowton,quiet,0,,,,https://t.me/mow_ton_bot,https://x.com/MOW_Game_Ton,,,,,,,,,,dyor.io gramnews-apps ton.app,"🤩 MOW is an exhilarating on-chain barrage shooter, now in a public, non-wipe beta on Telegram. Come & Earn with me!🤑"
 games,590,Mythreon,mythreon,quiet,0,,,,https://t.me/mythreonbot,,,,,,,,,,mentioned by 5 TON channels in Q3,ton-channel-posts,
 games,591,NANOGRAM,nanogram,quiet,0,,,,https://t.me/nanograms_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,
 games,592,NightOwls,nightowls,quiet,0,,,,https://t.me/nightowlsgram_bot,,,,,,,,,,mentioned by 7 TON channels in Q3,ton-channel-posts,
-games,593,Notto,notto,quiet,0,,,https://t.me/nottogame_bot,https://t.me/notto,https://x.com/notto_ton,https://notto.io,,,,,,,,,ton.app,Notto is a blockchain-based mini app on TON where users join time-limited games with equal contributions.
+games,593,Notto,notto,quiet,0,,,https://t.me/notto,https://t.me/nottogame_bot,https://x.com/notto_ton,https://notto.io,,,,,,,,,ton.app,Notto is a blockchain-based mini app on TON where users join time-limited games with equal contributions.
 games,594,P2E,p2e,quiet,0,,,,https://t.me/Play2earnINDIBot,,,,,,,,,,,dyor.io gramnews-apps,
 games,595,Paidegree,paidegree,quiet,0,,,,https://t.me/paidegree_bot,,https://paidegree.com,,,,,,,,,ton.app,"Paidegree is a Telegram mini app where you raise a glyph, a small creature that learns words from you and remembers who taught them."
 games,596,PAKCOIN KOMBAT,pakcoin-kombat,quiet,0,,,https://t.me/pakcoin_kombat,https://t.me/pakcoin_kombat_bot,https://x.com/Pakcoin_Kombat,,,,,,,,,,dyor.io gramnews-apps ton.app,"TAP for PAK, KOMBAT for CASH 🤑"
@@ -2092,11 +2092,11 @@ games,601,PetTap,pettap,quiet,0,,,,https://t.me/pettapbot,,,,,,,,,,,dyor.io gram
 games,602,PIXEL SHARK,pixel-shark,quiet,0,,,,https://t.me/pixelsharkbot,,,,,,,,,,mentioned by 7 TON channels in Q3,ton-channel-posts,
 games,603,PRISM STAR,prism-star,quiet,0,,,,https://t.me/PrismStarGameBot,https://x.com/PlayPrismStar,,,,,,,,,,ton.app,PRISM STAR is a fantasy card collection and battle game built for the TON ecosystem.
 games,604,QuokkaCoin,quokkacoin,quiet,0,,,,https://t.me/QuokkaCoinTap_Bot,https://x.com/QuokkaCoinNews,,,,,,,,,,ton.app,"QuokkaCoin is a digital currency created on the TON (Telegram Open Network) platform, a fast and efficient blockchain that offers secure and affordable transact"
-games,605,Racoin APP,racoin-app,quiet,0,,,https://t.me/racoin_appbot,https://t.me/racoin_community,https://x.com/racoin_app,,,,,,,,,,ton.app,"Unlock the treasure chest for your raccoon family with Racoin, a premier gaming experience designed to turn your playful instincts into prosperity."
+games,605,Racoin APP,racoin-app,quiet,0,,,https://t.me/racoin_community,https://t.me/racoin_appbot,https://x.com/racoin_app,,,,,,,,,,ton.app,"Unlock the treasure chest for your raccoon family with Racoin, a premier gaming experience designed to turn your playful instincts into prosperity."
 games,606,Rakurai,rakurai,quiet,0,,,,https://t.me/rakurai_bot,,,,,,,,,,,2025-ton-cis-hub,"Turn heroes into NFTs, use them in the game, or sell them! Rent out ""Original"" NFTs for TON"
 games,607,Reel In,reel-in,quiet,0,,,,https://t.me/reel_in_bot,,,,,,,,,,mentioned by 9 TON channels in Q3,ton-channel-posts,Channel - @reel_in Chat - @reel_in_chat Support - @reel_in_support
 games,608,RocketX,rocketx,quiet,0,,,,https://t.me/rocketxapp_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,"Build a rocket in your garage, gather a crew and stack $ISK."
-games,609,RockPaperScissorFU🖕,rockpaperscissorfu,quiet,0,,,https://t.me/rpsfu_bot,https://t.me/XXXX_by_tallyup,https://x.com/rpsfu_,https://rpsfu.com,,,,,,,,,ton.app,"BACKGROUND: The game Rock Paper Scissors is known, trusted, and loved by billions of humans."
+games,609,RockPaperScissorFU🖕,rockpaperscissorfu,quiet,0,,,,,https://x.com/rpsfu_,https://rpsfu.com,,,,,,,,,ton.app,"BACKGROUND: The game Rock Paper Scissors is known, trusted, and loved by billions of humans."
 games,610,RuneForce,runeforce,quiet,0,,,,https://t.me/runeforce_bot,https://x.com/bc1_runeforce,https://www.runeforce.xyz,,,,,,,,,dyor.io gramnews-apps ton.app,
 games,611,SFootballBot,sfootballbot,quiet,0,,,,https://t.me/space_football_bot,,,,,,,,,,,dyor.io gramnews-apps,
 games,612,Shard World,shard-world,quiet,0,,,,https://t.me/usershardbot,,,,,,,,,,mentioned by 9 TON channels in Q3,ton-channel-posts,Shard miniapp
@@ -2124,14 +2124,14 @@ games,633,TON Chess,ton-chess,quiet,0,,,,https://t.me/tonchessbot,,https://tonpl
 games,634,TON Frogs,ton-frogs,quiet,0,,,,https://t.me/tonfrogs_bot,,,,,,,,,,,2023-10-tonpost 2024-06-ton-degen,Погрузись в мир TON Frogs App 🐸
 games,635,TON Legends,ton-legends,quiet,0,,,https://t.me/ton_legends_comm,https://t.me/ton_legends_bot,https://x.com/ton_legends,https://tonlegends.io,,,,,,,,,dyor.io gramnews-apps ton.app,
 games,636,TON Raids,ton-raids,quiet,0,,,,https://t.me/tonraidsbot,https://x.com/tonraids,https://tonraids.com,,,,,,,,mentioned by 5 TON channels in Q3,ton-channel-posts ton.app,"Live community boss raids in Telegram. Deal damage, snatch the Last Hit, and win instant GRAM rewards."
-games,637,Ton Tarria,ton-tarria,quiet,0,,,https://t.me/Tontarria_bot,https://t.me/TonTarria,,https://tontarria.org,,,,,,,,,ton.app,TonTarria is a browser-based dark fantasy RPG that runs right inside Telegram — no installs needed.
+games,637,Ton Tarria,ton-tarria,quiet,0,,,https://t.me/TonTarria,https://t.me/Tontarria_bot,,https://tontarria.org,,,,,,,,,ton.app,TonTarria is a browser-based dark fantasy RPG that runs right inside Telegram — no installs needed.
 games,638,TON за рубли,ton,quiet,0,,,,https://t.me/tonrub_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,"Покупайте TON за рубли, быстро и качественно. Наш канал: @Referral_Game"
 games,639,Toncaps,toncaps,quiet,0,,,,,,https://toncaps.io/,,,,,,,,,2023-10-tonpost 2024-05-coin98-games ton-society-ecosystem-map ton.app,
 games,640,Toney Money Business,toney-money-business,quiet,0,,,,https://t.me/toneymoneybusinessbot,,,,,,,,,,,dyor.io gramnews-apps,
 games,641,TonFish Empire,tonfish-empire,quiet,0,,,,https://t.me/tonfishempire_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,
 games,642,Tongotchi,tongotchi,quiet,0,,,https://t.me/tongotchicrypto,https://t.me/tongotchi_bot,https://x.com/tongotchi,,,,,,,,,,ton.app,Discover the divine Telegram-native companions and prepare to embark on a magical journey.
 games,643,Tonlanders,tonlanders,quiet,0,,,https://t.me/tonlanders,,,,,,,,,,,,2023-10-tonpost 2024-02-coin98-games 2024-05-coin98-games ton-society-ecosystem-map,"GameFi / Play and Earn метавселенная, экономическая стратегия, градостроительный бизнес симулятор."
-games,644,Tonly Trade,tonly-trade,quiet,0,,,https://t.me/Tonly_app_bot,https://t.me/tonly_app,https://x.com/Tonly_app,https://tonly.app,,,,,,,,,ton.app,A high-performance trading interface and routing terminal for perpetual contracts on TON.
+games,644,Tonly Trade,tonly-trade,quiet,0,,,https://t.me/tonly_app,https://t.me/Tonly_app_bot,https://x.com/Tonly_app,https://tonly.app,,,,,,,,,ton.app,A high-performance trading interface and routing terminal for perpetual contracts on TON.
 games,645,TonMarket,tonmarket,quiet,0,,,,https://t.me/tonmarketio_bot,,https://tonmarket.io/,,,,,,,,,ton.app,"TonMarket is a Telegram-native prediction game on TON where users connect their TON wallet and participate in markets across crypto, global assets, sports, and"
 games,646,Tooncinator,tooncinator,quiet,0,,,https://t.me/Tooncinator,https://t.me/toon_game_bot,,,,,,,,,,,dyor.io gramnews-apps,Money is the root of all evil
 games,647,Totems,totems,quiet,0,,,,https://t.me/totemsapp_bot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,"Игровая гильдия у костра: Забег хомяка, турниры, дрова, ритуал и тотемы. Чат: @totems601chat"
@@ -2177,7 +2177,7 @@ games,686,Forge,forge,quiet,0,,,https://t.me/jettrade_public,https://t.me/forge_
 games,687,B UserBot,b-userbot,quiet,0,,,https://t.me/b_users,https://t.me/b_usersbot,,,,2025-11-20,,,,,,,ton.app,B 💎 — the most distributed Telegram community coin!
 games,688,CockFights Game,cockfights-game,quiet,0,,,https://t.me/toncocks,,https://x.com/Cock_Fights,,,2025-10-26,,,,,,,2024-06-ton-degen defillama ton-society-ecosystem-map,
 games,689,Odin Eagle,odin-eagle,quiet,0,,,https://t.me/OdinEagleCommunity,,https://x.com/OdinEaglegame,,,2025-10-20,,,,,,,ton.app,The Odin Eagle project is not only the dawn of a new era in commercial gaming on Telegram but also a new universe where dreams set sail and wealth converges for
-games,690,Tonion,tonion,quiet,0,,,https://t.me/tonion_official,,https://x.com/TONion_io,https://tonion.io,,2025-10-16,,,,,,,2025-07-ton-cis-hub-q2 2025-ton-cis-hub,TONion- The Ultimate Meme.
+games,690,Tonion,tonion,quiet,0,,,https://t.me/tonion_official,,https://x.com/TONion_io,,,2025-10-16,,,,,,,2025-07-ton-cis-hub-q2 2025-ton-cis-hub,TONion- The Ultimate Meme.
 games,691,PANIE Bot,panie-bot,quiet,0,,,https://t.me/panieton,,https://x.com/panieton,https://panie.xyz,,2025-10-13,,,,,,,dyor.io gramnews-apps ton.app,This channel has moved to a new location
 games,692,CoinRaces,coinraces,quiet,0,,,https://t.me/CoinRaces,https://t.me/CoinRacesBot,https://x.com/CoinRacesGame,https://coinraces.io/,,2025-10-01,,,,,,,ton.app,Merging cryptocurrency predictions with virtual racing for an immersive experience.
 games,693,Runecoin Network,runecoin-network,quiet,0,,,https://t.me/Runecoin_Network,https://t.me/runecoinapp_bot,https://x.com/RuneCoinNetwork,https://runecoin.network/,,2025-09-11,,,,,,,ton.app,Runecoin Network provides a more comprehensive blockchain ecosystem that combines fun interactions with the power of the TON Blockchain.
@@ -2190,7 +2190,7 @@ games,699,TONopolis,tonopolis,quiet,0,,,https://t.me/TonopolisGame,https://t.me/
 games,700,Solitaire Suzume,solitaire-suzume,quiet,0,,,https://t.me/suzume_news,https://t.me/solitaire_szm_bot,https://x.com/suzumeio,,,2025-07-30,,,,,,,dyor.io gramnews-apps ton.app,
 games,701,Mortal Klicker,mortal-klicker,quiet,0,,,https://t.me/moklgamefi,https://t.me/mokl_io_bot,,https://esprito.com,https://github.com/espritoxyz,2025-06-19,2026-08-30,,,,,,dyor.io gramnews-apps ton.app,
 games,702,LOTSY,lotsy,quiet,0,,,https://t.me/lotsy_community,https://t.me/LOTSY_bot,https://x.com/lotsyteam,https://lotsy.xyz/,,2025-04-23,,,,,,,ton.app,"Welcome to LOTSY 🎉 We are building a Blockchain Lottery Syndicate integrated with the world's TOP lotteries 🏆 At the same time, LOTSY is a powerful community fo"
-games,703,YuliGo,yuligo,quiet,0,,,https://t.me/Yuligo_official,https://t.me/yuligo_chat,https://x.com/TheYuliverse,https://discord.com/invite/yuliverse-official,,2025-04-22,,,,,,,ton.app,YuliGO is an exciting Telegram mini-app that brings the Yuliverse ecosystem to life in your daily world.
+games,703,YuliGo,yuligo,quiet,0,,,https://t.me/Yuligo_official,,https://x.com/TheYuliverse,https://discord.com/invite/yuliverse-official,,2025-04-22,,,,,,,ton.app,YuliGO is an exciting Telegram mini-app that brings the Yuliverse ecosystem to life in your daily world.
 games,704,Blops,blops,quiet,0,,,https://t.me/blops,https://t.me/BlopsGame_bot,,,,2025-04-10,,,,,,,ton.app,
 games,705,ZGGY,zggy,quiet,0,,,https://t.me/zggycoin,https://t.me/zggy_bot,https://x.com/zggycoin,,,2025-04-06,,,,,,,dyor.io gramnews-apps ton.app,
 games,706,MonkeyTON,monkeyton,quiet,0,,,https://t.me/monkeys_ton,https://t.me/monketon_bot,https://x.com/monkey_gamefi,https://monkeyton.com,,2025-04-04,,,,,,,ton.app,MonkeyTON is a GameFi project in the TON ecosystem.
@@ -2349,7 +2349,7 @@ farming,107,Farm World,farm-world,active,1,1,telegram,https://t.me/farmworldton,
 farming,108,Notcoin Inu,notcoin-inu,active,1,1,telegram,https://t.me/notcoininu_news,https://t.me/notcoininu_bot,https://x.com/NotcoinInu_TON,https://notcoininu.com/,,2026-09-18,,11,11,1,,,dyor.io gramnews-apps gramnews-q3-2026 ton.app,
 farming,109,Абу,abuwtf,active,0,,telegram,https://t.me/abuwtf,https://t.me/abutalk_bot,,,,2026-10-01,,1887600,1887600,47,,mentioned by 6 TON channels in Q3,ton-channel-posts,"спасибо Абу / Двач Связь со мной: @abunya, за шитпостинг бан+спам. Предложка: @abutalk_bot Реклама: @bigbupa Разбаны, платка: https://t.me/tribute/app?startapp=sqpy Max: max.ru/abuwtf"
 farming,110,NOVUM.AI Agent,novum-ai-agent,active,0,,mau,,https://t.me/ainovum_bot,,,,,,,,,1657652,mentioned by 17 TON channels in Q3,ton-channel-posts,Activate your personal AI agent and earn daily!
-farming,111,Hamster,hamster,active,0,,mau,https://t.me/hamster_kombat,https://t.me/hamster_kombat_bot,https://x.com/hamster_kombat,https://hamster.network,,2026-01-20,,,,,842232,,ton.app,Hello!
+farming,111,Hamster,hamster,active,0,,mau,https://t.me/hamster_kombat,https://t.me/hamster_kombat_bot,https://x.com/hamster_kombat,,,2026-01-20,,,,,842232,,ton.app,Hello!
 farming,112,Boinkers Parody Game,boinkers-parody-game,active,0,,mau,,https://t.me/boinker_bot,https://x.com/BoinkersIO,https://boinkers.io/,,,,,,,775415,,ton.app,"Free2Play 🔥 Jump into meme chaos, where humor has no limits."
 farming,113,MRG,mrg,active,0,,mau,,https://t.me/mrgminerbot,,,,,,,,,713742,mentioned by 24 TON channels in Q3,ton-channel-posts,Subscribe - @mrgminer
 farming,114,Cattea,cattea,active,0,,mau+telegram,https://t.me/CatteaNews,https://t.me/CatteaAIbot,https://x.com/CatteaAI,,,2026-08-27,,478770,478770,38,29831,,ton.app,"Simple to play, easy to earn, and perfect for cats and bubble tea lovers!"
@@ -2417,10 +2417,10 @@ farming,175,EASY COIN FARM,easy-coin-farm,active,0,,mau,,https://t.me/easycoinfa
 farming,176,Polox DAO Airdrop,polox-dao-airdrop,active,0,,mau,,https://t.me/poloxdaoairdropbot,,,,,,,,,28104,mentioned by 3 TON channels in Q3,ton-channel-posts,
 farming,177,Farming Mates,farming-mates,active,0,,mau,,https://t.me/farmingmatesbot,,,,,,,,,27557,mentioned by 7 TON channels in Q3,ton-channel-posts,"🌾 Grow your crops, complete tasks, invite friends & earn USDT. Chat : @FarmingMatesChat Support : @FarmingMatesSupport"
 farming,178,Lucky Train,lucky-train,active,0,,telegram,https://t.me/LuckyTrain,https://t.me/LuckyTrainBot,https://x.com/LuckyTrainApp,https://luckytrain.com,,2026-09-28,,26973,26973,35,,,ton.app,"🚂 Lucky Train is a gamified Web3 project on the TON blockchain, built as a Telegram Mini App."
-farming,179,CRYPTICO,cryptico,active,0,,telegram,https://t.me/cryptico_app,https://t.me/CisChatCryptico,https://x.com/cryptico_app,,,2026-09-04,,26860,26860,71,,,ton.app,CRYPTICO — a game 🎮 about trading and character leveling.
+farming,179,CRYPTICO,cryptico,active,0,,telegram,https://t.me/cryptico_app,,https://x.com/cryptico_app,,,2026-09-04,,26860,26860,71,,,ton.app,CRYPTICO — a game 🎮 about trading and character leveling.
 farming,180,HoneyInc New Guaranteed USDT Airdrop,honeyinc-new-guaranteed-usdt-airdrop,active,0,,mau,,https://t.me/honeyincnewguaranteedairdropbot,,https://honeyinc.app/,,,,,,,26541,mentioned by 4 TON channels in Q3,ton-channel-posts,https://honeyinc.app/
 farming,181,72Hashes,72hashes,active,0,,mau,,https://t.me/gramhashes72bot,,,,,,,,,26019,mentioned by 3 TON channels in Q3,ton-channel-posts,Your 72Hashes contract is ready.
-farming,182,Otters,otters,active,0,,telegram,https://t.me/otters_games,https://t.me/ottersgames,https://x.com/OttersComm,,,2026-08-31,,25400,25400,4,,,ton.app,"Otters is a gamified Telegram Mini App built on TON that rewards users through daily check-ins, referrals, spinning, and a unique 3-hour farming claim system."
+farming,182,Otters,otters,active,0,,telegram,https://t.me/otters_games,,https://x.com/OttersComm,,,2026-08-31,,25400,25400,4,,,ton.app,"Otters is a gamified Telegram Mini App built on TON that rewards users through daily check-ins, referrals, spinning, and a unique 3-hour farming claim system."
 farming,183,PythoDex Airdrop,pythodex-airdrop,active,0,,mau,,https://t.me/pythodexairdropbot,,,,,,,,,25051,mentioned by 3 TON channels in Q3,ton-channel-posts,
 farming,184,ChiliVersus,chiliversus,active,0,,mau,,https://t.me/ChiliVersusBot,https://x.com/ChiliVersus,,,,,,,,24730,,ton.app,"Join ChiliVersus, where you dive into popular rivalries, embrace the versus spirit, fuel your Chili character, and earn real money."
 farming,185,Huevos 🥚,huevos,active,0,,mau,,https://t.me/huevos_farm_bot,,,,,,,,,22165,mentioned by 3 TON channels in Q3,ton-channel-posts,"🥚 Build your farm, earn CHICKENS, complete tasks & unlock referral rewards!"
@@ -2455,7 +2455,7 @@ farming,213,GetBonus • ГетБонус,getbonus,active,0,,mau,,https://t.me/g
 farming,214,$ORCA Mining Game,orca-mining-game,active,0,,mau,,https://t.me/orcaminebot,,,,,,,,,12401,mentioned by 8 TON channels in Q3,ton-channel-posts,"Official Mini App for $ORCA Mining Game on TON. ⛏️ Mine $ORCA, build your fleet & earn!"
 farming,215,Outmine,outmine,active,0,,telegram,https://t.me/playoutmine,https://t.me/OutmineBot,https://x.com/playoutmine,https://www.rogues.studio/outmine,,2026-10-01,,12229,12229,98,,,ton.app,Outmine is a fun and action-packed dungeon crawler game where you earn gems.
 farming,216,GenkiMiner,genkiminer,active,0,,mau,https://t.me/GenkiMiner_Announcement,https://t.me/GenkiMinerBot,https://x.com/GenkiMiner_Team,https://genkiminer.gitbook.io/,,2026-05-15,,,,,11978,,ton.app,Welcome to the world of GenkiMiner!
-farming,217,Earnigram Fantasy,earnigram-fantasy,active,0,,telegram,https://t.me/Earnigram,https://t.me/Earnigram_Group,,,,2026-09-29,,11918,11918,4,,,ton.app,Earnigram Fantasy is a fast-paced fantasy gaming app built around TON tokens.
+farming,217,Earnigram Fantasy,earnigram-fantasy,active,0,,telegram,https://t.me/Earnigram,,,,,2026-09-29,,11918,11918,4,,,ton.app,Earnigram Fantasy is a fast-paced fantasy gaming app built around TON tokens.
 farming,218,CapybaraCoins,capybaracoins,active,0,,mau,https://t.me/the_capybara_meme,,https://x.com/meme_capybara,,,2026-04-04,,,,,11798,,ton.app,Capybara is The Friendliest Telegram-Native Meme Coin!
 farming,219,Pleasure Quest,pleasure-quest,active,0,,telegram,https://t.me/pleasure_quest,https://t.me/PleasureQuest_bot,https://x.com/Pleasure_PLQT,https://questpl.com,,2026-10-01,,11705,354,3,11705,,dyor.io gramnews-apps ton.app,Pleasure Quest — a tap-to-earn game with monthly token airdrops
 farming,220,The Open Earn,the-open-earn,active,0,,mau,,https://t.me/theopenearnbot,,,,,,,,,11000,mentioned by 4 TON channels in Q3,ton-channel-posts,Support — @EarnSupportRobot News — @TheOpenEarnNews Payouts — @TheOpenEarn_payout
@@ -2616,11 +2616,11 @@ farming,374,RocketTON,rocketton,quiet,0,,,https://t.me/rocketton_official,https:
 farming,375,Chain Bunny Inc.,chain-bunny-inc,quiet,0,,,https://t.me/ChainBunny,https://t.me/ChainBunnyBot,https://x.com/chainbunnyinc,https://chainbunny.site,,,,,,,64,,dyor.io gramnews-apps ton.app,Chain Bunny Inc. — a game where you can earn cryptocurrency
 farming,376,Pulse,pulse,quiet,0,,,,https://t.me/PulseToken_bot,,,,,,,,,9,,dyor.io gramnews-apps,
 farming,377,Me Earn,me-earn,quiet,0,,,,https://t.me/meearn_bot,https://x.com/meearn_club,https://architecton.tech/,,2026-10-01,,,,,9,,dyor.io gramnews-apps,Farm $MEA token. Tap Tap to earn
-farming,378,#ApexHash,apexhash,quiet,0,,,https://t.me/apexhash_bot,https://t.me/apexhashcommunity,,,,,,,,,,,ton.app,#ApexHash is a real-time mining system built inside Telegram.
+farming,378,#ApexHash,apexhash,quiet,0,,,https://t.me/apexhashcommunity,https://t.me/apexhash_bot,,,,,,,,,,,ton.app,#ApexHash is a real-time mining system built inside Telegram.
 farming,379,$FIG FARM,fig-farm,quiet,0,,,https://t.me/fig_farming,https://t.me/FigFarming_bot,https://x.com/Figfarming,,,,,,,,,,ton.app,🚀 $FIG: Your Gateway to the Future of Web3!
 farming,380,$RETRO,retro,quiet,0,,,,https://t.me/joinretrocoinbot,https://x.com/joinretrocoin,,,,,,,,,,ton.app,"Join the adventure, mine $RETRO coins before they're all gone!"
 farming,381,$TCULT Plush Bot,tcult-plush-bot,quiet,0,,,https://t.me/TCULT_GROUP,https://t.me/TCultPlushBot,https://x.com/TCULTonTON,https://www.tcult.site/#arcade,,,,,,,,,ton.app,"$TCULT Plush Bot is the official Telegram launch hub for four free games: Plush Tap, Plush Run, Plush Hop, and $GRAMMING."
-farming,382,1xMM Market Master,1xmm-market-master,quiet,0,,,https://t.me/OneXMM_bot,https://t.me/onexmm_official,https://x.com/onexmm_official,,,,,,,,,,ton.app,1xMM is a fast-paced Telegram mini app trading game where you compete against others in real time crypto markets.
+farming,382,1xMM Market Master,1xmm-market-master,quiet,0,,,https://t.me/onexmm_official,https://t.me/OneXMM_bot,https://x.com/onexmm_official,,,,,,,,,,ton.app,1xMM is a fast-paced Telegram mini app trading game where you compete against others in real time crypto markets.
 farming,383,2048 TON,2048-ton,quiet,0,,,https://t.me/T2EGAMENotice,https://t.me/MergeNumberTONbot,,https://telegramgame.net/,,,,,,,,,ton.app,You can play 2048 TON directly on the Telegram app.
 farming,384,@appss - Explore x Play x Earn,appss-explore-x-play-x-earn,quiet,0,,,,https://t.me/appsshubbot,,,,,,,,,,,findmini,"@appss is your go-to global catalog for discovering Telegram Mini Apps, Bots, and Channels. Channel: @appss_channel"
 farming,385,@push,push,quiet,0,,,,https://t.me/brilliantappbot,,,,,,,,,,,findmini,Secure crypto transfers on Telegram. By @myapp.
@@ -2635,7 +2635,7 @@ farming,393,AIxFlap,aixflap,quiet,0,,,https://t.me/AIxFlap_Announcement,https://
 farming,394,ANTS Colony,ants-colony,quiet,0,,,,https://t.me/ants_miner_bot,https://x.com/ants_coin_x,https://antss-six.vercel.app,,,,,,,,,ton.app,"ANTS is a TON-powered mining ecosystem where daily activity, hashrate growth, and community participation build long-term digital value."
 farming,395,Ask Coin,ask-coin,quiet,0,,,,https://t.me/AskCoin_bot,https://x.com/theAskcoin,,,,,,,,,,ton.app,"💰 Test your knowledge, answer questions, and earn $AskCoin!"
 farming,396,AskTon,askton,quiet,0,,,,,,,,,,,,,,,gramnews-apps ton.app,
-farming,397,ASTREX,astrex,quiet,0,,,https://t.me/astrex_bot,https://t.me/astrex_game,https://x.com/AstrexGame,,,,,,,,,,ton.app,ASTREX is a fast-paced space arcade game built for Telegram Mini Apps.
+farming,397,ASTREX,astrex,quiet,0,,,https://t.me/astrex_game,https://t.me/astrex_bot,https://x.com/AstrexGame,,,,,,,,,,ton.app,ASTREX is a fast-paced space arcade game built for Telegram Mini Apps.
 farming,398,Athledium CEX Airdrop (Listed On Biconomy),athledium-cex-airdrop-listed-on-biconomy,quiet,0,,,,https://t.me/athlediumbiconomycexairdropbot,,https://athledium.com/,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,https://athledium.com/
 farming,399,AuraPet,aurapet,quiet,0,,,,https://t.me/AuraPetBot,,https://aurapetgame.vercel.app/,,,,,,,,,ton.app,Welcome to AuraPet!
 farming,400,Awaken Citizen,awaken-citizen,quiet,0,,,,https://t.me/AwakenCitizenBot,https://x.com/PlayAwakenHQ,,,,,,,,,,ton.app,Embark on a thrilling adventure where gaming meets rewards.
@@ -2647,13 +2647,13 @@ farming,405,BeeHive 🐝,beehive,quiet,0,,,,https://t.me/behives_bot,,,,,,,,,,me
 farming,406,bemo The Raffle,bemo-raffle-bot,quiet,0,,,,https://t.me/bemo_raffle_bot,,https://app.bemo.finance,,,,,,,,,gramnews-apps,
 farming,407,BetFury Cryptodrop🚀,betfury-cryptodrop,quiet,0,,,,https://t.me/betfury_social_bot,,,,,,,,,,,ton.app,🚀 $20’000’000 prize pool just for completing easy tasks in your favorite messenger - Telegram.
 farming,408,BOSS,boss,quiet,0,,,,,https://x.com/bossmbtcoin,,,,,,,,,,ton.app,BOSSMBT Tap2Earn – Play and Earn Crypto Rewards.
-farming,409,Buinkers,buinkers,quiet,0,,,https://t.me/buinkersbot,https://t.me/buinkers,https://x.com/buinkers,,,,,,,,,,ton.app,Buinkers is free to play parody minigame where players farm holy shitcoin token by spinning screwed wheel and poor machine.
-farming,410,ByteLords,bytelords,quiet,0,,,https://t.me/ByteLords_bot,https://t.me/ByteLordsChannel,https://x.com/bytelords_game,https://play.ibtechsupport.com/ByteLords/index.php,,,,,,,,,ton.app,"ByteLords is a tech-themed progression game where you build and upgrade a virtual computer to generate Bytes, the core currency of the system."
+farming,409,Buinkers,buinkers,quiet,0,,,https://t.me/buinkers,https://t.me/buinkersbot,https://x.com/buinkers,,,,,,,,,,ton.app,Buinkers is free to play parody minigame where players farm holy shitcoin token by spinning screwed wheel and poor machine.
+farming,410,ByteLords,bytelords,quiet,0,,,https://t.me/ByteLordsChannel,https://t.me/ByteLords_bot,https://x.com/bytelords_game,https://play.ibtechsupport.com/ByteLords/index.php,,,,,,,,,ton.app,"ByteLords is a tech-themed progression game where you build and upgrade a virtual computer to generate Bytes, the core currency of the system."
 farming,411,Cashbox,cashbox,quiet,0,,,https://t.me/CashboxCommunity,https://t.me/CashboxGameBot,https://x.com/CashboxAuth,https://www.cashbox.info/,,,,,,,,,ton.app,"Cashbox is a Web3 game where you, a chosen explorer, harness the golden touch to earn Ra Coins, awaken mythical beasts, and lead them into battle to revive lost"
 farming,412,Catchain,catchain,quiet,0,,,,https://t.me/catchain_robot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,"Daily CATCHAIN swaps, streaks, boxes & friend invites. Open the Mini App. Channel: @CatchainCTO"
 farming,413,Cats Mining ⭐,cats-mining,quiet,0,,,,https://t.me/miningcatsbot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,
 farming,414,Chaos War,chaos-war,quiet,0,,,https://t.me/chaoswargame_en,,,https://chaoswar.xyz,,,,,,,,,ton.app,Chaos War is a fast-paced arcade game where you battle endless waves of enemies using powerful abilities and collect valuable loot.
-farming,415,Chasing Jiggy,chasing-jiggy,quiet,0,,,https://t.me/ChasingJiggybot,https://t.me/chasingjiggycommunity,https://x.com/ChasingJiggy,,,,,,,,,,ton.app,Unlock 🔓 wealth 🤑 through Play Chasing Jiggy is an ultimate play-to-earn game for everyone!
+farming,415,Chasing Jiggy,chasing-jiggy,quiet,0,,,https://t.me/chasingjiggycommunity,https://t.me/ChasingJiggybot,https://x.com/ChasingJiggy,,,,,,,,,,ton.app,Unlock 🔓 wealth 🤑 through Play Chasing Jiggy is an ultimate play-to-earn game for everyone!
 farming,416,Chiсken farm,chi-ken-farm,quiet,0,,,,https://t.me/chicken_farmbot,,,,,,,,,,mentioned by 9 TON channels in Q3,ton-channel-posts,Channel - @chicken_farmb partnership - @leoBystudio
 farming,417,CICADA,cicada,quiet,0,,,,https://t.me/cicadagame_bot,https://x.com/Cicada_Swarm,https://cicadagame.fun/,,,,,,,,,ton.app,Immerse yourself in the exciting world of Cicada - a unique Play-to-Earn game on the TON blockchain!
 farming,418,Clean Sheets,clean-sheets,quiet,0,,,,https://t.me/BalliesUniverse_bot,https://x.com/BalliesUniverse,https://cs.ballies.gg,,,,,,,,,ton.app,Clean Sheets is a hypercasual penalty shootout game where players can earn tokens by scoring goals.
@@ -2667,11 +2667,11 @@ farming,425,CryptoCat,cryptocat,quiet,0,,,,https://t.me/CryptoCatGame_bot,https:
 farming,426,Daily GHS,daily-ghs,quiet,0,,,,https://t.me/dailyghsbot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,Free Daily GHS Directly To Your TON Wallet
 farming,427,DefyTON,defyton,quiet,0,,,,https://t.me/DefyTONBot,https://x.com/DefyTON_app,https://defyton.com,,,,,,,,,gramnews-apps ton.app,"AI-powered habit challenge platform. Deposit GRAM, verify with photos, get rewarded."
 farming,428,DiaTON,diaton,quiet,0,,,,https://t.me/diaton_bot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,Earn GRAM for completing simple tasks. Channel @diaton_news Group @diaton_chat
-farming,429,Dig It Gold Game,dig-it-gold-game,quiet,0,,,https://t.me/dig_it_game_bot,https://t.me/DigItGoldGame,https://x.com/DigItGoldGame,https://flashy.fun/digit/,,,,,,,,,ton.app,"A Web3 play-to-earn mining game on TON where players collect ore and $NUGS, redeemable for real gold-backed rewards."
+farming,429,Dig It Gold Game,dig-it-gold-game,quiet,0,,,https://t.me/DigItGoldGame,https://t.me/dig_it_game_bot,https://x.com/DigItGoldGame,https://flashy.fun/digit/,,,,,,,,,ton.app,"A Web3 play-to-earn mining game on TON where players collect ore and $NUGS, redeemable for real gold-backed rewards."
 farming,430,Ditto Quest,ditto-quest,quiet,0,,,,https://t.me/the_ditto_bot,https://x.com/dittocoin,https://team-ditto.notion.site/Ditto-Quest-21359184254f803e8fcbc1c4783cd579,,,,,,,,,ton.app,"🔥 Stack, Slay, and Thrive — Welcome to the Dittoverse."
 farming,431,Dog Mutant,dog-mutant,quiet,0,,,https://t.me/DogMutantNews,https://t.me/DogMutantBot,https://x.com/dog_mutant,,,,,,,,,,ton.app,Dog Mutant is an idle PvP game on TON Blockchain.
 farming,432,Doge Miner,doge-miner,quiet,0,,,,https://t.me/dogeforge_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,ADLOOP-A3GZ67
-farming,433,DoggieZen,doggiezen,quiet,0,,,https://t.me/doggiezenbot,https://t.me/doggiezen,https://x.com/DoggiezenFam,,,,,,,,,,ton.app,"🐾 DoggieZen is a fun Telegram Mini App where you can play, complete missions, earn $DOGZ, and grow with the community."
+farming,433,DoggieZen,doggiezen,quiet,0,,,https://t.me/doggiezen,https://t.me/doggiezenbot,https://x.com/DoggiezenFam,,,,,,,,,,ton.app,"🐾 DoggieZen is a fun Telegram Mini App where you can play, complete missions, earn $DOGZ, and grow with the community."
 farming,434,Dogs Mining,dogs-mining,quiet,0,,,,https://t.me/miningdogs1bot,,,,,,,,,,mentioned by 6 TON channels in Q3,ton-channel-posts,@DogsMiningPayouts 💵 @DogsMiningN 🗞️
 farming,435,Dogs404,dogs404,quiet,0,,,https://t.me/ShoeDogannon,https://t.me/Cube404Bot,,,,,,,,,,,ton.app,Dogs404 is the TG mini app for merging virtual NFTs and this way mining $SHDG / $404 tokens.
 farming,436,Dragons Farm,dragons-farm,quiet,0,,,,,,https://osnovakamen.ru,,,,,,,,,ton.app,"Imagine a world where dragons bring you gold, gnomes work for you, and magical crystals power your mighty beasts."
@@ -2680,14 +2680,14 @@ farming,438,Durak on TON,durak-on-ton,quiet,0,,,,https://t.me/durakton_playbot,,
 farming,439,Dynabit App,dynabit-app,quiet,0,,,,https://t.me/dynabitbot,,https://xp.network/,https://github.com/XP-NETWORK,,2025-02-07,,,,,,dyor.io gramnews-apps,Dynabit Ecosystem is a cutting-edge Web 3 institute built on the TON blockchain.
 farming,440,Earn,earn,quiet,0,,,,https://t.me/earnhqbot,,,,,,,,,,,findmini,Telegram Launchpools. Hold tokens and Earn. Supported by @notcoin
 farming,441,Earnigram,earnigram,quiet,0,,,,https://t.me/Earnigram_bot,https://x.com/Earnigram,https://earnigram.com,,,,,,,,,ton.app,"Earnigram is a reward-based Telegram mini app where users can earn crypto by completing simple social tasks like joining Telegram channels, groups, and bots."
-farming,442,Earnigram Prediction,earnigram-prediction,quiet,0,,,https://t.me/earnigram_group,https://t.me/earnigram,https://x.com/earnigram,,,,,,,,,,ton.app,Step into the world of market forecasting with Earnigram Prediction!
+farming,442,Earnigram Prediction,earnigram-prediction,quiet,0,,,https://t.me/earnigram_group,,https://x.com/earnigram,,,,,,,,,,ton.app,Step into the world of market forecasting with Earnigram Prediction!
 farming,443,eGold Mining,egold-mining,quiet,0,,,https://t.me/egold_news,https://t.me/eGOLD_Mining_Bot,https://x.com/eGold_mine,,,,,,,,,,ton.app,"eGOLD Mining is an exhilarating play-to-earn game, exclusively available on the Telegram app."
 farming,444,eMule Army,emule-army,quiet,0,,,https://t.me/eMuleArmychat,https://t.me/emulearmy_bot,https://x.com/eMuleArmy,https://emulearmy.ai/,,,,,,,,,ton.app,eMule Army is a Web3 crypto game on Telegram that lets you earn while playing.
 farming,445,Enchant TON,enchant-ton,quiet,0,,,https://t.me/T2EGAMENotice,https://t.me/EnchantTONbot,,https://telegramgame.net/,,,,,,,,,ton.app,"The iconic Enchant game is back, now supercharged with the TON blockchain platform!"
 farming,446,Etaku,etaku,quiet,0,,,https://t.me/EtakuANN,https://t.me/etakubot,https://x.com/EtakuAI,https://etaku.ai/,,,,,,,,,ton.app,Etaku is centered around a simple gameplay and focus on collecting Anime characters.
 farming,447,EXOUSDT Farming Bot APP,exousdt-farming-bot-app,quiet,0,,,,https://t.me/exotapapp_bot,,,,,,,,,,,dyor.io gramnews-apps,
 farming,448,FarmGram,farmgram,quiet,0,,,,https://t.me/farmgramsbot,,,,,,,,,,mentioned by 6 TON channels in Q3,ton-channel-posts,
-farming,449,Feline Dynasty,feline-dynasty,quiet,0,,,https://t.me/FelineDynastyBot,https://t.me/FelineDynastyOfficial,https://x.com/felinedynastyof,https://felinedynasty.com/,,,,,,,,,ton.app,Feline Dynasty is an idle Play-to-Earn ecosystem built as a Telegram Mini App on the TON blockchain.
+farming,449,Feline Dynasty,feline-dynasty,quiet,0,,,https://t.me/FelineDynastyOfficial,https://t.me/FelineDynastyBot,https://x.com/felinedynastyof,https://felinedynasty.com/,,,,,,,,,ton.app,Feline Dynasty is an idle Play-to-Earn ecosystem built as a Telegram Mini App on the TON blockchain.
 farming,450,Flowers Garden,flowers-garden,quiet,0,,,,https://t.me/flowers_game_bot,,,,,,,,,,,ton.app,Welcome to Flowers Garden!
 farming,451,FortuneHusky🎲,fortunehusky,quiet,0,,,https://t.me/FortuneHusky,,https://x.com/Fortune_Husky,,,,,,,,,,ton.app,🌟 Welcome to Husrich – The most exciting GameFi on TON!
 farming,452,FoxiTask,foxitask,quiet,0,,,,https://t.me/foxitaskbot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,"Earn rewards by completing tasks, and enjoy all of this. Post a task: @FoxiGrowOrderBot"
@@ -2698,10 +2698,10 @@ farming,456,Giga Hash,giga-hash,quiet,0,,,,https://t.me/giga_hash_ghs_bot,,,,,,,
 farming,457,Giraffe Kombat,giraffe-kombat,quiet,0,,,,https://t.me/GiraffeKombatbot,,,,,,,,,,,ton.app,🌟 Introducing a New Income-Generating Project on Telegram!
 farming,458,Go!,go,quiet,0,,,,https://t.me/thegoprojectbot,,https://gosmartchain.ai,,,,,,,,,dyor.io gramnews-apps,Go! is an agentic operating system for automatic income.
 farming,459,Go! App,go-app,quiet,0,,,https://t.me/gorwachain,,https://x.com/gorwachain,https://www.gosmartchain.ai/,,,,,,,,,ton.app,🦁 Welcome to the All-New Go!
-farming,460,GoalChain,goalchain,quiet,0,,,https://t.me/goalchainbot,https://t.me/goalchain,https://x.com/goalchaingame,,,,,,,,,,ton.app,GoalChain is a football manager built for Telegram.
+farming,460,GoalChain,goalchain,quiet,0,,,https://t.me/goalchain,https://t.me/goalchainbot,https://x.com/goalchaingame,,,,,,,,,,ton.app,GoalChain is a football manager built for Telegram.
 farming,461,GochiFi,gochifi,quiet,0,,,,https://t.me/gochifibot,,,,,,,,,,mentioned by 16 TON channels in Q3,ton-channel-posts,"Тапай, копи монеты, жди дроп. Или прокачай питомца за GRAM и получай $USDT уже сейчас."
-farming,462,Gold Age,gold-age,quiet,0,,,https://t.me/goldageio_bot,https://t.me/goldagechat,https://x.com/GoldAgeGame,https://goldage.io/,,,,,,,,,ton.app,"Gold Age is a user-driven economic strategy game built around land ownership, resource mining, tool usage, and player-to-player trading."
-farming,463,Gold Bux,gold-bux,quiet,0,,,https://t.me/GBux_Bot,https://t.me/gold_bux,https://x.com/gold_bux5,,,,,,,,,,ton.app,"Users can complete tasks to generate passive income, and tasks can be created directly within the app to accelerate growth."
+farming,462,Gold Age,gold-age,quiet,0,,,https://t.me/goldagechat,https://t.me/goldageio_bot,https://x.com/GoldAgeGame,https://goldage.io/,,,,,,,,,ton.app,"Gold Age is a user-driven economic strategy game built around land ownership, resource mining, tool usage, and player-to-player trading."
+farming,463,Gold Bux,gold-bux,quiet,0,,,https://t.me/gold_bux,https://t.me/GBux_Bot,https://x.com/gold_bux5,,,,,,,,,,ton.app,"Users can complete tasks to generate passive income, and tasks can be created directly within the app to accelerate growth."
 farming,464,GOLD Workers,gold-workers,quiet,0,,,,https://t.me/gold_workers_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,
 farming,465,GoMining,gomining,quiet,0,,,,,https://x.com/Gomining_token,https://gomining.com,,,,,,,,,dyor.io gramnews-apps,
 farming,466,Gram Farm,gram-farm,quiet,0,,,,https://t.me/gramfarmingapp_bot,,,,,,,,,,mentioned by 5 TON channels in Q3,ton-channel-posts,
@@ -2711,30 +2711,30 @@ farming,469,GramMiner,gramminer,quiet,0,,,,https://t.me/gramminer1_bot,,,,,,,,,,
 farming,470,GramX,gramx,quiet,0,,,,https://t.me/gramx_x_bot,,,,,,,,,,mentioned by 11 TON channels in Q3,ton-channel-posts,Помощь - @GramX_Support_bot Канал - @Gram_X_X Регламент на вывод 48 часов
 farming,471,Grand Journey,grand-journey,quiet,0,,,https://t.me/Channel_GrandJourney,https://t.me/grandjourneybot,https://x.com/journeygrand,,,,,,,,,,ton.app,"Prepare for an epic adventure in ""Grand Journey""!"
 farming,472,Greens,greens,quiet,0,,,,,https://x.com/greensfinance,https://www.greensfi.com/,,,,,,,,,ton.app,"Greens is the first virtual agriculture ecosystem, part of which has been designed like a metaverse, strategy mobile game."
-farming,473,Gumcoin,gumcoin,quiet,0,,,https://t.me/gumcoinBot,https://t.me/gumcoin,,https://gumcoin.org,,,,,,,,,ton.app,"The bot lets you farm coins, track your balance, and be part of the community @gumcoin"
+farming,473,Gumcoin,gumcoin,quiet,0,,,https://t.me/gumcoin,https://t.me/gumcoinBot,,https://gumcoin.org,,,,,,,,,ton.app,"The bot lets you farm coins, track your balance, and be part of the community @gumcoin"
 farming,474,Happy Farm 🌽,happy-farm,quiet,0,,,,https://t.me/happyfarmgrambot,,,,,,,,,,mentioned by 7 TON channels in Q3,ton-channel-posts,
 farming,475,Hattori game ✅ / P2E / GameFI / Play2earn,hattori-game-p2e-gamefi-play2earn,quiet,0,,,,https://t.me/hattoribot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,The official Hattori App game where you can play and earn! 🤑🥷
-farming,476,Hempton,hempton,quiet,0,,,https://t.me/hempton_bot,https://t.me/Hempton_CIS,https://x.com/HemptonFarm,https://hempton.farm,,,,,,,,,ton.app,Hempton isn’t just a game — it’s your underground empire.
+farming,476,Hempton,hempton,quiet,0,,,https://t.me/Hempton_CIS,https://t.me/hempton_bot,https://x.com/HemptonFarm,https://hempton.farm,,,,,,,,,ton.app,Hempton isn’t just a game — it’s your underground empire.
 farming,477,Hempton Farm🪴,hempton-farm,quiet,0,,,,https://t.me/hempton_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,⚠️ Hampton is a game for fun only! There are no instructions and call to action. ✍️ Contact: @DonHaze
 farming,478,Hero Guild,hero-guild,quiet,0,,,,,https://x.com/HeroGuildApp,,,,,,,,,,ton.app,Hero Guild is a platform that allows you to earn cryptocurrency by playing your favorite Steam games.
 farming,479,Honey Ants,honey-ants,quiet,0,,,,https://t.me/honeyantsbot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,"🐜 Grow your ant colony, collect honey, earn GRAM and withdraw in TON. Payout proofs: @HoneyAntsPayout"
-farming,480,Hydroponic Game,hydroponic-game,quiet,0,,,https://t.me/Hydrogame_bot,https://t.me/hydroponicgame,,https://www.hydroponicgame.com/,,,,,,,,,ton.app,HydroFarm is a hydroponic farming game built for Telegram.
+farming,480,Hydroponic Game,hydroponic-game,quiet,0,,,https://t.me/hydroponicgame,https://t.me/Hydrogame_bot,,https://www.hydroponicgame.com/,,,,,,,,,ton.app,HydroFarm is a hydroponic farming game built for Telegram.
 farming,481,IEM Hash,tgbtc,quiet,0,,,,https://t.me/IEMHash_bot,https://x.com/IEMHash,https://www.iemhash.com,,,,,,,,,dyor.io gramnews-apps,IEM Hash — TON mining app with token rewards
-farming,482,IQcoin,iqcoin,quiet,0,,,https://t.me/IQcoinApp_Bot,https://t.me/IQCOIN_Smart_Community,https://x.com/IQCOIN_IQS,,,,,,,,,,ton.app,IQCOIN is a space for developing and strengthening your mind.
+farming,482,IQcoin,iqcoin,quiet,0,,,https://t.me/IQCOIN_Smart_Community,https://t.me/IQcoinApp_Bot,https://x.com/IQCOIN_IQS,,,,,,,,,,ton.app,IQCOIN is a space for developing and strengthening your mind.
 farming,483,JackKegs,jackkegs,quiet,0,,,,https://t.me/jackkegsbot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,Farming game Jack Kegs coin Channel:https://t.me/jackkegscoin Support:https://t.me/Kegssupport_bot
 farming,484,JBTClabs Pre TGE Airdrop (Listing On Top CEX),jbtclabs-pre-tge-airdrop-listing-on-top-cex,quiet,0,,,,https://t.me/jbtclabscexlistingairdropbot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,https://www.juniorbtc.com/ https://jbtc.world/
 farming,485,KingCoin,kingcoin,quiet,0,,,,https://t.me/KingCoin_ebot,https://x.com/King_Coin_X,,,,,,,,,,ton.app,👑 HEY KINGS!
 farming,486,KYRZA FARM,kyrza-farm,quiet,0,,,,https://t.me/kyrza_farm_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,Фарми монеты на стримах KYRZA и меняй их на призы
 farming,487,Level Legends,level-legends,quiet,0,,,,https://t.me/level_legends_bot,https://x.com/tg_levellegends,,,,,,,,,,ton.app,"Dive into fast-paced battles, epic boss fights, and endless progression."
 farming,488,Liberty Dog,liberty-dog,quiet,0,,,,https://t.me/lido_appbot,https://x.com/lidotoken,https://lido-app.fun/,,,,,,,,,ton.app,Liberty Dog is a community dedicated to digital freedom.
-farming,489,LLL Lossless Lottery,lll-lossless-lottery,quiet,0,,,https://t.me/lll_space_bot,https://t.me/lll_space,https://x.com/lll_space_en,https://lll.space,,,,,,,,,ton.app,"LLL pre-launch game lets users earn chips, spin, and compete on the leaderboard before the official launch."
+farming,489,LLL Lossless Lottery,lll-lossless-lottery,quiet,0,,,https://t.me/lll_space,https://t.me/lll_space_bot,https://x.com/lll_space_en,https://lll.space,,,,,,,,,ton.app,"LLL pre-launch game lets users earn chips, spin, and compete on the leaderboard before the official launch."
 farming,490,Lode Hunter,lode-hunter,quiet,0,,,,https://t.me/lodehunter_bot,,,,,,,,,,mentioned by 12 TON channels in Q3,ton-channel-posts,Drill and Earn https://t.me/lodehunter
 farming,491,Lootify / Earn GRAM,lootify-earn-gram,quiet,0,,,,https://t.me/lootifyton_bot,,,,,,,,,,mentioned by 11 TON channels in Q3,ton-channel-posts,
 farming,492,Lucky Rooms,lucky-rooms,quiet,0,,,https://t.me/luckyroomsofficial,https://t.me/luckyroomsbot,https://x.com/lucky_rooms,https://luckyrooms.io,,,,,,,,,ton.app,Rocket up your lucky to the moon and earn some coins!
 farming,493,LuckyHub,luckyhub,quiet,0,,,https://t.me/luckyhubcash,https://t.me/LuckyHubCashBot,,,,,,,,,,,ton.app,"Open the lucky box to win $USD, $TON and upcoming $Lucky drop with LuckyHub Now!"
 farming,494,LuckyMoney,luckymoney,quiet,0,,,,https://t.me/LuckyMoney_release_bot,https://x.com/0xluckymoney,https://luckymoneys.net/,,,,,,,,,ton.app,LuckyMoney is a social & gaming platform where you can claim USDT and airdrop.
-farming,495,MallDriven Game,malldriven-game,quiet,0,,,https://t.me/MallDrivenBot,https://t.me/MallDriven,https://x.com/MallDriven,,,,,,,,,,ton.app,"MallDriven is a gamified business simulator inside Telegram where players can start and grow virtual businesses, compete with others, and earn rewards."
-farming,496,Mars2049,mars2049,quiet,0,,,https://t.me/Mars2049_Bot,https://t.me/mars2049channel,https://x.com/mars2049online,https://www.mars2049.online/,,,,,,,,,ton.app,MARS2049 is a strategy RPG that drops you on the frontlines of Mars colonization.
+farming,495,MallDriven Game,malldriven-game,quiet,0,,,https://t.me/MallDriven,https://t.me/MallDrivenBot,https://x.com/MallDriven,,,,,,,,,,ton.app,"MallDriven is a gamified business simulator inside Telegram where players can start and grow virtual businesses, compete with others, and earn rewards."
+farming,496,Mars2049,mars2049,quiet,0,,,https://t.me/mars2049channel,https://t.me/Mars2049_Bot,https://x.com/mars2049online,https://www.mars2049.online/,,,,,,,,,ton.app,MARS2049 is a strategy RPG that drops you on the frontlines of Mars colonization.
 farming,497,Me Earn - Mine MEA,me-earn-mine-mea,quiet,0,,,,https://t.me/meearn_bot,https://x.com/meearn_club,,,,,,,,,,ton.app,Be a hardworking bee to earn $MEA.
 farming,498,Mech3,mech3,quiet,0,,,,https://t.me/MechArcadebot,https://x.com/Mechnft,https://mech.mixie.ai/,,,,,,,,,ton.app,Mech3 is a Match-3 puzzle game powered by Mixie AI.
 farming,499,Mechaversus,mechaversus,quiet,0,,,https://t.me/Mechaversus,https://t.me/mechaversus_bot,https://x.com/Mechaversusgame,https://mechaversus.co/,,,,,,,,,ton.app,🚀 Mechaversus Marketing App is your gateway to exclusive rewards and engagement!
@@ -2747,76 +2747,76 @@ farming,505,Miner TAC,miner-tac,quiet,0,,,,https://t.me/minertacbot,,,,,,,,,,men
 farming,506,MiniSpot Miner,minispot-miner,quiet,0,,,https://t.me/minispot_app_bot,https://t.me/minispot_helper_bot,,,,,,,,,,,ton.app,Welcome to MiniSpot Miner!
 farming,507,Money Nova,money-nova,quiet,0,,,,https://t.me/moneynovaearn_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,
 farming,508,Monkey Play,monkey-play,quiet,0,,,,https://t.me/monkey_play_bot,https://x.com/MonkeyPlayToken,,,,,,,,,,ton.app,MonkeyPlay is a mini-game platform that runs inside Telegram.
-farming,509,moonpacket,moonpacket,quiet,0,,,https://t.me/moonpacket_bot,https://t.me/moonpacketchat,https://x.com/mooniniofficial,https://moonpacket.com,,,,,,,,,gramnews-apps ton.app,moonpacket — sending token red packets in Telegram
+farming,509,moonpacket,moonpacket,quiet,0,,,https://t.me/moonpacketchat,https://t.me/moonpacket_bot,https://x.com/mooniniofficial,https://moonpacket.com,,,,,,,,,gramnews-apps ton.app,moonpacket — sending token red packets in Telegram
 farming,510,MoonTap,moontap,quiet,0,,,https://t.me/MoonTapCommunity,,,,,,,,,,,,ton.app,"MoonTap is a new play-to-earn clicker game inside Telegram, built on the TON blockchain."
 farming,511,Mr. MeMe Airdrop,mr-meme-airdrop,quiet,0,,,https://t.me/mrmeme,https://t.me/mrmeme_airdrop_bot,https://x.com/mrmeme_fun,https://mrmeme.fun,,,,,,,,,ton.app,Earn real money by playing right on Telegram with Mr.
 farming,512,mylegton,mylegton,quiet,0,,,,https://t.me/mylegonton_bot,,,,,,,,,,,dyor.io gramnews-apps,Just a degen token on #TON
 farming,513,Mystic Forge,mystic-forge,quiet,0,,,,https://t.me/mysticforgebot,https://x.com/MysticForgeGame,https://mysticforgegame.com,,,,,,,,,ton.app,⚒️ Combine elements in the forge to create artifacts.
-farming,514,NEO-TOKYO: 2099,neo-tokyo-2099,quiet,0,,,https://t.me/protocol2099_bot,https://t.me/ntp2099,https://x.com/JRK_studio,https://play.protocol2099.workers.dev/go/,,,,,,,,,ton.app,NEO-TOKYO: PROTOCOL 2099 The megacity fell.
+farming,514,NEO-TOKYO: 2099,neo-tokyo-2099,quiet,0,,,https://t.me/ntp2099,https://t.me/protocol2099_bot,https://x.com/JRK_studio,https://play.protocol2099.workers.dev/go/,,,,,,,,,ton.app,NEO-TOKYO: PROTOCOL 2099 The megacity fell.
 farming,515,NeuroTON,neuroton,quiet,0,,,,https://t.me/neurotonx_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,"AI-нейроны зарабатывают для тебя 24/7 — пассивный доход, задания, рефералка, вывод в TON/USDT"
 farming,516,NEXO STARS,nexo-stars,quiet,0,,,,https://t.me/nexo_stars_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,"Фарми Stars в Telegram! Выполняй простые задания, приглашай друзей и получай Stars ⭐️ Канал: @nexostarsfarm"
-farming,517,Nexus Coin,nexus-coin,quiet,0,,,https://t.me/nexuscoinofficial_bot,https://t.me/NexusCoinSohbet,,https://cyber-nexus.replit.app,,,,,,,,,ton.app,Nexus Coin is a high-performance Tap-to-Earn mini-app integrated with the TON blockchain.
+farming,517,Nexus Coin,nexus-coin,quiet,0,,,https://t.me/NexusCoinSohbet,https://t.me/nexuscoinofficial_bot,,https://cyber-nexus.replit.app,,,,,,,,,ton.app,Nexus Coin is a high-performance Tap-to-Earn mini-app integrated with the TON blockchain.
 farming,518,Nifty Nerds Network,nifty-nerds-network,quiet,0,,,https://t.me/niftynerdsnetwork,https://t.me/niftynerds_bot,https://x.com/niftynerds,https://niftynerdsnetwork.com/,,,,,,,,,ton.app,Nifty Nerds Network(NNN) is a Web3 gaming launchpad built on top of Telegram and TON blockchain.
 farming,519,Novrinex Airdrop,novrinex-airdrop,quiet,0,,,,https://t.me/novrinexairdropbot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,
 farming,520,ONE USDT,one-usdt,quiet,0,,,,https://t.me/oneusdtappbot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,One Usdt is the Official Telegram Rewarding Mini App Powered by One Dropz Admin: @Nirajdev
-farming,521,OrbitFall,orbitfall,quiet,0,,,https://t.me/OrbitFallBot,https://t.me/OrbitfallNews,https://x.com/OrbitfallNFT,https://www.orbitfall.online/wiki,,,,,,,,,ton.app,OrbitFall is a Strategic Mini-App (TON/Ronin) officially approved by the Telegram Apps Center.
+farming,521,OrbitFall,orbitfall,quiet,0,,,https://t.me/OrbitfallNews,https://t.me/OrbitFallBot,https://x.com/OrbitfallNFT,https://www.orbitfall.online/wiki,,,,,,,,,ton.app,OrbitFall is a Strategic Mini-App (TON/Ronin) officially approved by the Telegram Apps Center.
 farming,522,OrixBNB Pre TGE Airdrop (Backed By BNBChain),orixbnb-pre-tge-airdrop-backed-by-bnbchain,quiet,0,,,,https://t.me/orixbnbofficialpretgeairdropbot,,https://dappbay.bnbchain.org/detail/orix,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,https://dappbay.bnbchain.org/detail/orix https://orix.ws/
 farming,523,Oxygen Hunters,oxygen-hunters,quiet,0,,,,,https://x.com/Oxygen_Hunters,,,,,,,,,,ton.app,The first Chia token to be traded on a centralized exchange!
 farming,524,PEHE Kingdom,pehe-kingdom,quiet,0,,,,,https://x.com/pehekingdom,,,,,,,,,,ton.app,"Test your luck with PEHE spin to win TON,USDT FOR FREE, and boost your rewards with tap, boost, and many activities"
 farming,525,Pepe Meme 🐸,pepe-meme,quiet,0,,,,https://t.me/raccooncoinbot,,,,,,,,,,,findmini,Pepe Meme by Evo Frogs Airdrop! 🚀 1000x gains are coming! 🎉 Earn 🐸 tokens and epic rewards! 💥 News: @PepeMemeCommunity
 farming,526,Piggy Tap,piggy-tap,quiet,0,,,https://t.me/PiggyTapNews,https://t.me/piggytapofficial_bot,https://x.com/PiggyTap,,,,,,,,,,dyor.io gramnews-apps ton.app,"🐷 Play PiggyTap! Dive into casual style fun: Smash piggy banks, collect coins, and chase jackpots!"
 farming,527,Pixel Aquarium,pixel-aquarium,quiet,0,,,,https://t.me/pixelaquariumbot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,Dive & Earn Pearls
-farming,528,Pixel Hunter,pixel-hunter,quiet,0,,,https://t.me/PixelHuntergame_bot,https://t.me/pixelhuntergames_offical,https://x.com/pixelhunterlab,https://www.pixelhunter.app,,,,,,,,,ton.app,Pixel Hunter is a Telegram Mini App and idle Action RPG built on the TON ecosystem.
+farming,528,Pixel Hunter,pixel-hunter,quiet,0,,,https://t.me/pixelhuntergames_offical,https://t.me/PixelHuntergame_bot,https://x.com/pixelhunterlab,https://www.pixelhunter.app,,,,,,,,,ton.app,Pixel Hunter is a Telegram Mini App and idle Action RPG built on the TON ecosystem.
 farming,529,Pixelpond,pixelpond,quiet,0,,,,https://t.me/pixelpond_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,"🎣 Cast, catch, earn. Pixel Pond — the fishing GameFi where your catch becomes real GRAM/USDT."
 farming,530,Play Corn Battles,play-corn-battles,quiet,0,,,,https://t.me/cornbattlesbot,,,,,,,,,,,findmini,Play Corn Battles⚔️ and earn with Corn Heroes 💰 Official channel @corn_battles Official site www.corn.io
 farming,531,Pocket Waifu,pocket-waifu,quiet,0,,,,https://t.me/pocketwaifu_bot,https://x.com/PocketWaifuGame,https://pocketwaifu.io/,,,,,,,,,ton.app,"$WIFE is the #1 waifu meme coin, bringing you closer to your favorite waifus in ways you’ve only dreamed of."
-farming,532,Pokergram,pokergram,quiet,0,,,https://t.me/PokergramComBot,https://t.me/Pokergramnews,https://x.com/PokergramCom,,,,,,,,,,ton.app,"Jump into games with a single tap, no app stores or extra sign-ups needed."
+farming,532,Pokergram,pokergram,quiet,0,,,https://t.me/Pokergramnews,https://t.me/PokergramComBot,https://x.com/PokergramCom,,,,,,,,,,ton.app,"Jump into games with a single tap, no app stores or extra sign-ups needed."
 farming,533,Polyfarm,polyfarm,quiet,0,,,https://t.me/polyway_app,,https://x.com/polyway_app,https://polyway.investments,,,,,,,,,ton.app,Join us and earn crypto easily with Polyway Farm Bot.
-farming,534,PROJECTFADE,projectfade,quiet,0,,,https://t.me/projectfade_bot,https://t.me/projectfade,,https://projectfade.ru,,,,,,,,,ton.app,PROJECTFADE is a peer-to-peer prediction platform inside Telegram.
+farming,534,PROJECTFADE,projectfade,quiet,0,,,https://t.me/projectfade,https://t.me/projectfade_bot,,https://projectfade.ru,,,,,,,,,ton.app,PROJECTFADE is a peer-to-peer prediction platform inside Telegram.
 farming,535,Puffs Dragon,puffs-dragon,quiet,0,,,https://t.me/PuffsAnn,https://t.me/PuffsAppBot,https://x.com/puffs_ton,,,,,,,,,,ton.app,"PuffsDragon is a blockchain-based gaming project built on the TON network, offering players an exciting experience where they can earn rewards while playing."
 farming,536,PX Tarot,px-tarot,quiet,0,,,https://t.me/pxtarot_community,https://t.me/pxtarot_bot,https://x.com/px_tarot,,,,,,,,,,ton.app,Next-Gen AI-powered Tarot Reading Experience with Pixel Art & the TON Blockchain!
-farming,537,Quantum Core,quantum-core,quiet,0,,,https://t.me/quantum_core_game_bot,https://t.me/quantumcoregame,https://x.com/ocalirdigital,https://quantum-core.click/,,,,,,,,,ton.app,"Extract Quantum Jelly (JE) tokens, unlock legendary jellybean skins, upgrade your mining boosters, connect your TON Wallet, and invite your alliance comrades—al"
-farming,538,Qubbi,qubbi,quiet,0,,,https://t.me/QubbiOfficialBot,https://t.me/gemstargames,,https://qubbi.gemstar.io/,,,,,,,,,ton.app,Experience a fast and exciting dice game where every roll matters.
+farming,537,Quantum Core,quantum-core,quiet,0,,,https://t.me/quantumcoregame,https://t.me/quantum_core_game_bot,https://x.com/ocalirdigital,https://quantum-core.click/,,,,,,,,,ton.app,"Extract Quantum Jelly (JE) tokens, unlock legendary jellybean skins, upgrade your mining boosters, connect your TON Wallet, and invite your alliance comrades—al"
+farming,538,Qubbi,qubbi,quiet,0,,,https://t.me/QubbiOfficialBot,,,https://qubbi.gemstar.io/,,,,,,,,,ton.app,Experience a fast and exciting dice game where every roll matters.
 farming,539,Qubix Arena,qubix-arena,quiet,0,,,https://t.me/qubixarena,,https://x.com/QubixArena,,,,,,,,,,ton.app,"Prepare for action in Qubix, the ultimate multiplayer battle game!"
-farming,540,Quiz Wars,quiz-wars,quiet,0,,,https://t.me/quizwars_bot,https://t.me/quizwars,,,,,,,,,,,ton.app,Quiz Wars is a fast-paced quiz arena where micro-learning meets competition.
+farming,540,Quiz Wars,quiz-wars,quiet,0,,,https://t.me/quizwars,https://t.me/quizwars_bot,,,,,,,,,,,ton.app,Quiz Wars is a fast-paced quiz arena where micro-learning meets competition.
 farming,541,QuokkaCoin Tap Bot,quokkacoin-tap-bot,quiet,0,,,,https://t.me/quokkacointap_bot,https://x.com/QuokkaCoinNews,,,,,,,,,,dyor.io gramnews-apps,An innovative project that combines blockchain technology with the joy and happiness of quokkas.
-farming,542,Rarecrows,rarecrows,quiet,0,,,https://t.me/rarecrows_bot,https://t.me/RarecrowAnnouncements,https://x.com/0xSunflowerLand,https://beta.rarecrows.io,,,,,,,,,ton.app,"Rarecrows is a chapter-based collectible game built around discovery, progression, and ownership."
+farming,542,Rarecrows,rarecrows,quiet,0,,,https://t.me/rarecrows_bot,,https://x.com/0xSunflowerLand,https://beta.rarecrows.io,,,,,,,,,ton.app,"Rarecrows is a chapter-based collectible game built around discovery, progression, and ownership."
 farming,543,RateOracleBot,rateoraclebot,quiet,0,,,,https://t.me/RateOracleBot,,,,,,,,,,,ton.app,"Make price predictions for crypto, stocks, and national currencies – the rules are yours."
 farming,544,Rating,rating,quiet,0,,,,https://t.me/the_best_rating_bot,,,,,,,,,,,findmini,Become a king and earn $RATING! Official channel @rating_community
 farming,545,Release Kraken,release-kraken,quiet,0,,,,https://t.me/kraken_tap_to_earn_bot,https://x.com/SRTKraken,https://releasethekraken.io/,,,,,,,,,ton.app,"In Release Kraken, you can play, earn, and enjoy an exciting gameplay experience."
 farming,546,RICHTON,richton,quiet,0,,,,https://t.me/richton_bank_bot,,,,,,,,,,mentioned by 5 TON channels in Q3,ton-channel-posts,BANK of RICH — место добычи монет
-farming,547,Rignite,rignite,quiet,0,,,https://t.me/RigniteBot,https://t.me/RigniteOfficial,https://x.com/RigniteOfficial,https://rignite.app,,,,,,,,,ton.app,Rignite is a TON-native Telegram mini app.
+farming,547,Rignite,rignite,quiet,0,,,https://t.me/RigniteOfficial,https://t.me/RigniteBot,https://x.com/RigniteOfficial,https://rignite.app,,,,,,,,,ton.app,Rignite is a TON-native Telegram mini app.
 farming,548,ROIC BOT,roic-bot,quiet,0,,,https://t.me/ROIC_Community,https://t.me/ROIC_Bot,https://x.com/ROIC_Finance,https://roic.finance/,,,,,,,,,ton.app,ROIC BOT is your gateway to earning tokens with ease.
 farming,549,RPSG,rpsg,quiet,0,,,https://t.me/rpsgameio,https://t.me/rpsgameio_bot,https://x.com/RPSGameio,https://rpsg.gitbook.io/rpsg,,,,,,,,,ton.app,"Spend time with pleasure and enjoy friendly competition in the classic game of Rock-Paper-Scissors, which, for the first time in Telegram, combines real-time Pv"
-farming,550,Rumble Arcade,rumble-arcade,quiet,0,,,https://t.me/RumbleArcadeBot,https://t.me/RumbleArcadeNews,https://x.com/RumbleArcade,,,,,,,,,,ton.app,"Take on daily challenges, build your ultimate squad, and climb the leaderboard in multiplayer events."
-farming,551,Runiverse Idle,runiverse-idle,quiet,0,,,https://t.me/runiverseidlebot,https://t.me/runiverseidle,https://x.com/runiverseIdle,https://runiverseidle.com,,,,,,,,,ton.app,⚔️ Runiverse Idle — a free idle-RPG right inside Telegram.
-farming,552,SANS — Feed the Wolf,sans-feed-the-wolf,quiet,0,,,https://t.me/sanslicekilisbot,https://t.me/sanslicekilisduyuru,https://x.com/sansliofficial,https://www.sanslicekilis.com,,,,,,,,,ton.app,"SANS is a free tap-to-earn game on TON, played right inside Telegram."
-farming,553,Sengoku TON,sengoku-ton,quiet,0,,,,https://t.me/sengoku_ton_chat,https://x.com/SengokuTon,https://sengoku-ton.gitbook.io/sengoku-ton/,,,,,,,,,ton.app,⚔️ Welcome to SengokuTon ⚔️ 🏯 Build your feudal Japanese empire in this stunning pixel art game!
+farming,550,Rumble Arcade,rumble-arcade,quiet,0,,,https://t.me/RumbleArcadeNews,https://t.me/RumbleArcadeBot,https://x.com/RumbleArcade,,,,,,,,,,ton.app,"Take on daily challenges, build your ultimate squad, and climb the leaderboard in multiplayer events."
+farming,551,Runiverse Idle,runiverse-idle,quiet,0,,,https://t.me/runiverseidle,https://t.me/runiverseidlebot,https://x.com/runiverseIdle,https://runiverseidle.com,,,,,,,,,ton.app,⚔️ Runiverse Idle — a free idle-RPG right inside Telegram.
+farming,552,SANS — Feed the Wolf,sans-feed-the-wolf,quiet,0,,,https://t.me/sanslicekilisduyuru,https://t.me/sanslicekilisbot,https://x.com/sansliofficial,https://www.sanslicekilis.com,,,,,,,,,ton.app,"SANS is a free tap-to-earn game on TON, played right inside Telegram."
+farming,553,Sengoku TON,sengoku-ton,quiet,0,,,https://t.me/sengoku_ton_chat,,https://x.com/SengokuTon,https://sengoku-ton.gitbook.io/sengoku-ton/,,,,,,,,,ton.app,⚔️ Welcome to SengokuTon ⚔️ 🏯 Build your feudal Japanese empire in this stunning pixel art game!
 farming,554,SheikDoge @AIRDROP,sheikdoge-airdrop,quiet,0,,,,https://t.me/sheikdogegameairdropbot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,
 farming,555,ShipCoinsBattle,shipcoinsbattle,quiet,0,,,,,,https://www.shipcoinsbattle.com/,,,,,,,,,ton.app,1v1 Player-Versus-Player Battleship Game Three Exciting Game Modes: 1.
 farming,556,Shroomsters,shroomsters,quiet,0,,,,,https://x.com/ShroomstersClub,https://www.shroomsters.club/,,,,,,,,,ton.app,🚀 Tap to earn with Shroomsters!
-farming,557,Slime Smith,slime-smith,quiet,0,,,https://t.me/SlimeSmithBot,https://t.me/slimeminigames,https://x.com/Slime_Miner,https://linktr.ee/slimexofficial,,,,,,,,,ton.app,"Craft legendary weapons, upgrade your forge, and compete in seasonal leaderboards for massive $SLX airdrops."
+farming,557,Slime Smith,slime-smith,quiet,0,,,https://t.me/slimeminigames,https://t.me/SlimeSmithBot,https://x.com/Slime_Miner,https://linktr.ee/slimexofficial,,,,,,,,,ton.app,"Craft legendary weapons, upgrade your forge, and compete in seasonal leaderboards for massive $SLX airdrops."
 farming,558,Snackify / Earn GRAM,snackify-earn-gram,quiet,0,,,,https://t.me/snackifyton_bot,,,,,,,,,,mentioned by 11 TON channels in Q3,ton-channel-posts,
 farming,559,Spark,spark-zjwxnz,quiet,0,,,,https://t.me/SparkOne_Bot,,,,,,,,,,,dyor.io gramnews-apps ton.app,Spark is an app that supports the TON ecosystem through tasks and contributions. Earn rewards! 🔥
 farming,560,Sprize,sprize,quiet,0,,,https://t.me/sprize_chat,https://t.me/sprizebot,https://x.com/sprizeplay,https://sprize.gg,,,,,,,,,ton.app,Sprize is the ultimate gaming and rewards app that turns your free time into real value.
 farming,561,Squid 2,squid-2,quiet,0,,,,https://t.me/Squid2tg_bot,https://x.com/Squid2tg,https://squidtg.vip/,,,,,,,,,ton.app,Squid 2 is a TON-based farming game inside Telegram.
 farming,562,Stack,stack,quiet,0,,,https://t.me/TuringNexus,https://t.me/Web3StackBot,,,,,,,,,,,ton.app,🚀 Stack – The Exciting Telegram Mini-App!
-farming,563,Star Industry,star-industry,quiet,0,,,https://t.me/starindustry_bot,https://t.me/starindustry_channel,https://x.com/john_0x25_,https://starindustry.io,,,,,,,,,ton.app,"Start producing resources, materials, and goods."
+farming,563,Star Industry,star-industry,quiet,0,,,https://t.me/starindustry_channel,https://t.me/starindustry_bot,https://x.com/john_0x25_,https://starindustry.io,,,,,,,,,ton.app,"Start producing resources, materials, and goods."
 farming,564,StarLoot,starloot,quiet,0,,,,https://t.me/StarLootGame_bot,,,,,,,,,,,ton.app,Explore deep space.
 farming,565,Swipe Quest Pixel,swipe-quest-pixel,quiet,0,,,,https://t.me/swipe_quest_bot,https://x.com/swipe_quest,https://s2pixel.fun/,,,,,,,,,ton.app,An entertaining game genre.
 farming,566,Syndicate Miner,syndicate-miner,quiet,0,,,,https://t.me/syndicate_miner_bot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,Chat: https://t.me/syndicateminer
 farming,567,Tap Lords / Gacha MMO Game P2E TON PvP,tap-lords-gacha-mmo-game-p2e-ton-pvp,quiet,0,,,,https://t.me/taplordsbot,,,,,,,,,,mentioned by 24 TON channels in Q3,ton-channel-posts,"Idle MMO gacha game in Telegram. PvP battles, PvE raids Partnership @taplordssupport"
-farming,568,TapTopia,taptopia,quiet,0,,,https://t.me/taptopiaio_bot,https://t.me/taptopia_io,https://x.com/taptopia_io,https://www.taptopia.io/,,,,,,,,,ton.app,"TapTopia is a casual, tap-based battle game where players grow their character by tapping, fighting, and collecting cards."
+farming,568,TapTopia,taptopia,quiet,0,,,https://t.me/taptopia_io,https://t.me/taptopiaio_bot,https://x.com/taptopia_io,https://www.taptopia.io/,,,,,,,,,ton.app,"TapTopia is a casual, tap-based battle game where players grow their character by tapping, fighting, and collecting cards."
 farming,569,TaskGo,taskgo,quiet,0,,,,https://t.me/taskgo_task_bot,,,,,,,,,,mentioned by 6 TON channels in Q3,ton-channel-posts,Канал - https://t.me/TaskGO_channle Чат - https://t.me/taskgo_cha Support - @Taskgo_support_bot Регламент на вывод 48 ч
 farming,570,Telegram Fights,telegram-fights,closed,0,,,,,,,,,,,,,,,ton.app,"""TonCoinGame is a play-to-earn (P2E) game with a money withdrawal feature where players battle against each other."
 farming,571,TGR Boost,tgr-boost,quiet,0,,,,https://t.me/tegrotonbot,https://x.com/tgrtoken,https://tegro.money,https://github.com/TegroTON,,2026-10-01,,,,,,dyor.io gramnews-apps,TGR Boost is a bot for earning tokens through actions in the Tegro ecosystem.
 farming,572,The Sparky,the-sparky,quiet,0,,,,https://t.me/SparkyGameBot,https://x.com/TheSparkyVerse,https://www.sparky.zone/,,,,,,,,,ton.app,🔥 SPARKY - Evolve.
 farming,573,The Treasury,the-treasury,quiet,0,,,,https://t.me/ownershipcoinbot,https://x.com/ownershipcoin,https://ownershipcoin.com,,,,,,,,,dyor.io gramnews-apps,
-farming,574,Tilda,tilda,quiet,0,,,https://t.me/TildaAppBot,https://t.me/TildaApp,,,,,,,,,,,ton.app,Tilda is an all-in-one mining app that makes earning fun and rewarding.
+farming,574,Tilda,tilda,quiet,0,,,https://t.me/TildaApp,https://t.me/TildaAppBot,,,,,,,,,,,ton.app,Tilda is an all-in-one mining app that makes earning fun and rewarding.
 farming,575,Tmail: Merge & Dig,tmail-merge-dig,quiet,0,,,,https://t.me/tmailgamebot,,,,,,,,,,mentioned by 10 TON channels in Q3,ton-channel-posts,Mine. Compete. Win in the TMail universe.
 farming,576,To the MOO,to-the-moo,quiet,0,,,,https://t.me/tothemoo_bot,https://x.com/TothemooFarm,https://landing.tothemoo.farm/,,,,,,,,,ton.app,"To the MOO is where Telegram’s mass adoption meets Bitcoin, letting users farm their first Bitcoin through gamified rewards, strategy, and social engagement."
 farming,577,Token Lis / Lisn,token-lis-lisn,quiet,0,,,,https://t.me/tokenlisbot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,Открой мини-приложение: кнопка в меню или https://t.me/TokenLisBot?startapp=go
-farming,578,TokenXGames,tokenxgames,quiet,0,,,https://t.me/TokenXGamesBot,https://t.me/tokenxgames,https://x.com/Tokenxgames,https://tokenxgames.com,,,,,,,,,ton.app,🏆 Welcome to TokenXGames - Play & Earn Rewards!
+farming,578,TokenXGames,tokenxgames,quiet,0,,,https://t.me/tokenxgames,https://t.me/TokenXGamesBot,https://x.com/Tokenxgames,https://tokenxgames.com,,,,,,,,,ton.app,🏆 Welcome to TokenXGames - Play & Earn Rewards!
 farming,579,TOM - Talentverse,tom-talentverse,quiet,0,,,https://t.me/TOM_Talent,https://t.me/tom_mainnet_bot,https://x.com/TalentOriginM,https://x.com/TalentOriginM,,,,,,,,,ton.app,TOM isn’t just another community or mini app; it’s a movement to unlock opportunities and break barriers.
 farming,580,TON Click Bot,ton-click-bot,quiet,0,,,,,,,,,,,,,,,gramnews-apps ton.app,
 farming,581,TON Click Bot,ton-click-bot-2,quiet,0,,,https://t.me/TONClickFAQ,https://t.me/TonClickRobot,,,,,,,,,,,dyor.io gramnews-apps,frequently asked questions
@@ -2831,19 +2831,19 @@ farming,589,Ton Ton Coin,ton-ton-coin,quiet,0,,,,https://t.me/TonTonCoinBot,,,,,
 farming,590,TON World,ton-world,closed,0,,,,,,,,,,,,,,,ton.app,New game on TON blockchain allows claiming countries and getting TON when reclaimed by other players.
 farming,591,TONTurbobot,tonturbobot,quiet,0,,,,,https://x.com/tonturbo_app,,,,,,,,,,dyor.io gramnews-apps,
 farming,592,Towerly,towerly,quiet,0,,,,https://t.me/TowerlyBot,,,,,,,,,,,ton.app,Towerly is a skill game.
-farming,593,TradyFi,tradyfi,quiet,0,,,https://t.me/tradyfi_token_bot,https://t.me/TradyFiCC,https://x.com/tradyfi_TDF,https://www.tradyfi.io,,,,,,,,,ton.app,"TradyFi is a Web3 SuperApp built on the TON blockchain, merging three powerful utilities — Prop Trading, Skill-based Gaming, and Tokenized Real Estate — inside"
+farming,593,TradyFi,tradyfi,quiet,0,,,https://t.me/TradyFiCC,https://t.me/tradyfi_token_bot,https://x.com/tradyfi_TDF,https://www.tradyfi.io,,,,,,,,,ton.app,"TradyFi is a Web3 SuperApp built on the TON blockchain, merging three powerful utilities — Prop Trading, Skill-based Gaming, and Tokenized Real Estate — inside"
 farming,594,TTCoin,ttcoin,closed,0,,,,,,,,,,,,,,,dyor.io gramnews-apps,
 farming,595,TWallet App,twallet-app,quiet,0,,,,https://t.me/twalletappbot,,,,,,,,,,mentioned by 6 TON channels in Q3,ton-channel-posts,"Tokens, transactions, and digital collectibles in one clean interface that keeps the focus on what matters."
 farming,596,Vault Miner,vault-miner,quiet,0,,,,https://t.me/vaultminingbot,,,,,,,,,,mentioned by 7 TON channels in Q3,ton-channel-posts,💰 Mine $Gram & Earn 10% Daily 📢 News: @VaultMinerNews
-farming,597,Versus,versus,quiet,0,,,https://t.me/versus_app_bot,https://t.me/versus_community,https://x.com/0xVersus,,,,,,,,,,ton.app,Versus is a gaming ecosystem that unites players and enables on-chain wagering in their favorite games.
+farming,597,Versus,versus,quiet,0,,,https://t.me/versus_community,https://t.me/versus_app_bot,https://x.com/0xVersus,,,,,,,,,,ton.app,Versus is a gaming ecosystem that unites players and enables on-chain wagering in their favorite games.
 farming,598,Vetka,vetka,quiet,0,,,https://t.me/vetka_announcement,https://t.me/VetkaTON_bot,https://x.com/VetkaTon,https://x.com/VetkaTon,,,,,,,,,ton.app,"Enough bending your back at the factory for a branch!😠 Drocheslav, the main character of our new P2E game, thought so too!"
 farming,599,VibeCoin,vibecoin,quiet,0,,,,,https://x.com/VibeCrackers,,,,,,,,,,ton.app,VibeCoin MiniApp is a play-to-earn game where you mine to earn $VBC tokens and unlock exciting rewards!
 farming,600,Vice City Frog,vice-city-frog,quiet,0,,,,https://t.me/AetherFrogViceCityBot,https://x.com/ViceCityFrog,https://frogstarsgames.com,,,,,,,,,ton.app,Tap-to-earn crime empire game on Telegram.
-farming,601,VOW TO EARN,vow-to-earn,quiet,0,,,https://t.me/vow_to_earn_bot,https://t.me/vow_crypto,https://x.com/vowtoearn,https://crypto.vowapp.space,,,,,,,,,ton.app,VOW TO EARN is a Telegram Mini App built around action-to-earn and proof-to-earn mechanics.
+farming,601,VOW TO EARN,vow-to-earn,quiet,0,,,https://t.me/vow_crypto,https://t.me/vow_to_earn_bot,https://x.com/vowtoearn,https://crypto.vowapp.space,,,,,,,,,ton.app,VOW TO EARN is a Telegram Mini App built around action-to-earn and proof-to-earn mechanics.
 farming,602,Warcraft Miner,warcraft-miner,quiet,0,,,,https://t.me/warcraft_miner_bot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,Channel - https://t.me/WarcraftOfficialChannel
 farming,603,web3islands,web3islands,quiet,0,,,https://t.me/web3islands,https://t.me/web3islands_bot,,,,,,,,,,,ton.app,"Web3Islands – a vibe-first, relaxing virtual city where citizens tap and complete quests to earn virtual real estate in a shared world, take part in mayor elect"
 farming,604,Wordly,wordly,quiet,0,,,,https://t.me/wordlythegamebot,https://x.com/wordlythegame,,,,,,,,,,ton.app,Wordly is an engaging and interactive word-based puzzle game designed to challenge your mind and enhance your vocabulary.
-farming,605,Wovula,wovula,quiet,0,,,https://t.me/wovula_bot,https://t.me/wovula_official,https://x.com/wovulaapp,https://wovula.com/,,,,,,,,,ton.app,"Welcome to Wovula, the ultimate space trading simulation built on the TON Blockchain."
+farming,605,Wovula,wovula,quiet,0,,,https://t.me/wovula_official,https://t.me/wovula_bot,https://x.com/wovulaapp,https://wovula.com/,,,,,,,,,ton.app,"Welcome to Wovula, the ultimate space trading simulation built on the TON Blockchain."
 farming,606,Wow 🏆,wow,quiet,0,,,,https://t.me/Wowairdropbot,https://x.com/wowCommunityX,,,,,,,,,,ton.app,🔥 WOW Bot is the ultimate play-to-earn platform where your skills turn into real rewards!
 farming,607,X Bull,x-bull,closed,0,,,,,,,,,,,,,,,ton.app,🔥 X Bull Meme Coin is launching soon!
 farming,608,X-ATOMS,x-atoms,quiet,0,,,,,,https://xatoms.xyz/,,,,,,,,,ton.app,"Discover XATOMS, the guitar-strumming game where you earn daily rewards while shaping the future of music."
@@ -2864,7 +2864,7 @@ farming,622,ANTOWN,antown,quiet,0,,,https://t.me/ANTTIME_NET,https://t.me/anttim
 farming,623,Biz Tycoon,biz-tycoon,quiet,0,,,https://t.me/biz_tycoon,https://t.me/biztycoon_bot,https://x.com/BizTycoonGame,https://intriguing-wax-2a9.notion.site/Biz-Tycoon-Roadmap-14cb58a6b2a3803dab6dc08b9a6c56de?pvs=73,,2026-06-29,,,,,,,ton.app,"Introducing Biz Tycoon ⚡ A casual play-to-earn blockchain game on Telegram powered by TON where you build your business empire, earn rewards, and gain exclusive"
 farming,624,KriptoMir,kriptomir,quiet,0,,,https://t.me/kriptofarmers,https://t.me/kriptofarmbot,,,,2026-06-24,,,,,,,ton.app,"A game dedicated to the creation of our Crypto World, in which we will be able to farm our own coin."
 farming,625,DexCoyote Legends,dexcoyote-legends,quiet,0,,,https://t.me/dexcoyote,,,https://dclgame.com,,2026-06-17,,,,,,,ton.app,DexCoyote Legends is a new generation crypto game on the TON blockchain-network.
-farming,626,Slimak Adventures,slimak-adventures,quiet,0,,,https://t.me/slimak_official,https://t.me/slimak_adventures,,,,2026-06-17,,,,,,,ton.app,🚀🚀🚀 The adventures of a little snail begin right now!
+farming,626,Slimak Adventures,slimak-adventures,quiet,0,,,https://t.me/slimak_official,,,,,2026-06-17,,,,,,,ton.app,🚀🚀🚀 The adventures of a little snail begin right now!
 farming,627,Goat Gaming,goat-gaming,quiet,0,,,https://t.me/playgoatgaming,https://t.me/goatgaming_bot,https://x.com/playgoatgaming,https://goatgaming.com/,,2026-06-14,,,,,,,2025-07-ton ton.app,
 farming,628,Other Worlds TON,other-worlds-ton,quiet,0,,,https://t.me/otherworlds_club,https://t.me/OtherWorldsTONbot,https://x.com/otherworlds_ton,,,2026-06-12,,,,,,,ton.app,"Welcome to ""Other Worlds"", an immersive dark fantasy game that merges blockchain technology with rich storytelling and strategic gameplay."
 farming,629,🎡Dino Tycoon,dino-tycoon,quiet,0,,,https://t.me/DinoTycoon_Announcement,https://t.me/DinoTycoon_Bot,https://x.com/dino_tycoon,https://Dinotycoon.io,,2026-06-09,,,,,,,ton.app,"🔥 Build, Manage & Earn in Dino Tycoon!"
@@ -2883,7 +2883,7 @@ farming,641,Mucca,mucca,quiet,0,,,https://t.me/muccaofficial,https://t.me/MuccaA
 farming,642,BrainsCoin,brainscoin,quiet,0,,,https://t.me/brainscoin,https://t.me/brainscoin_bot,https://x.com/brainscoin_off,,,2026-03-24,,,,,,,ton.app,Brainscoin is a web application in Telegram that allows users to spend time in an interesting and useful way.
 farming,643,Fananas,fananas,quiet,0,,,https://t.me/fananas_official,https://t.me/fananas_game_bot,https://x.com/FananasOfficial,,,2026-03-23,,,,,,,ton.app,"Fananas is the first-ever Play-to-Earn, Compete-to-Earn Big platform featuring intuitive and rewarding mini-games on Telegram."
 farming,644,DinoDash,dinodash,quiet,0,,,https://t.me/derivioannouncement,https://t.me/DerivioBot,https://x.com/derivio_xyz,https://derivio.xyz/,,2026-03-18,,,,,,,ton.app,"DinoDash is a Telegram-based dAPP where players nurture their Deeno by hatching their Dino egg, engaging in various activities to level up Deeno and therefore i"
-farming,645,Ai Angels,ai-angels,quiet,0,,,https://t.me/ai_angels_news,https://t.me/AI_Angels_Official,https://x.com/AI_Angels_Game,https://www.aiangels.io/,,2026-03-14,,,,,,,ton.app,"AI Angels is the hottest viral tap-to-earn game on Telegram, blending AI-powered characters with addictive gameplay and real crypto rewards."
+farming,645,Ai Angels,ai-angels,quiet,0,,,https://t.me/ai_angels_news,,https://x.com/AI_Angels_Game,https://www.aiangels.io/,,2026-03-14,,,,,,,ton.app,"AI Angels is the hottest viral tap-to-earn game on Telegram, blending AI-powered characters with addictive gameplay and real crypto rewards."
 farming,646,Goblin Mine Game,goblin-mine-game,quiet,0,,,https://t.me/GoblinMine,https://t.me/GoblinMine_bot,https://x.com/goblin_mine,,,2026-03-02,,,,,,,ton.app,"🧨 Goblin Mine is an economic game where your mission is to develop mines, hire miners, go on expeditions, compete with other miners and collect coins."
 farming,647,Goblin’s Garage,goblin-s-garage,quiet,0,,,https://t.me/GoblinMine,,https://x.com/goblin_mine,,,2026-03-02,,,,,,,ton.app,Introducing a new game in the Goblin ecosystem: Goblin’s Garage Goblin’s Garage 🚗 is an economic strategy game where you transform heaps of scrap into legendary
 farming,648,Singularity Shift,singularity-shift,quiet,0,,,https://t.me/Singularity_Shift,https://t.me/Crystal_Clicker_bot,,https://singularityshift.ru/,,2026-02-10,,,,,,,ton.app,Singularity Shift is a hardcore cyberpunk clicker where players act as system operators trying to prevent global Entropy.
@@ -3077,7 +3077,7 @@ gambling,64,Bitsler.com Casino,bitsler-com-casino,quiet,0,,,,,https://x.com/Bits
 gambling,65,BIX Games,bix-games,quiet,0,,,https://t.me/bixgames_noti,https://t.me/ninebixbot,,https://9bix.com,,,,,,,,,dyor.io gramnews-apps ton.app,BIX Games Notification Channel
 gambling,66,Bons Casino,bons-casino,quiet,0,,,,,https://x.com/BONS_social,https://bons.io,,,,,,,,,ton.app,Get ready to hit the reels and chase the big wins with the Bons Casino Telegram Bot!
 gambling,67,Capton Play,capton-play,closed,0,,,,,,,,,,,,,,,ton-society-ecosystem-map,
-gambling,68,Casino.tg,casino-tg,quiet,0,,,,https://t.me/CasinoTGCommunity,,,,,,,,,,,ton.app,Welcome to Casino.TG 🎰 Your Premier Crypto Casino Experience!
+gambling,68,Casino.tg,casino-tg,quiet,0,,,https://t.me/CasinoTGCommunity,,,,,,,,,,,,ton.app,Welcome to Casino.TG 🎰 Your Premier Crypto Casino Experience!
 gambling,69,Classic Multiplayer,classic-multiplayer,quiet,0,,,,,,https://classic.ton-game.com,,,,,,,,,ton.app,TON Classic is a gambling project with nice multiplayer game.
 gambling,70,CSGOPositive,csgopositive,quiet,0,,,,https://t.me/positive_bet_bot,,,,,,,,,,mentioned by 4 TON channels in Q3,ton-channel-posts,Web: CSGOPositive.xyz/tg Telegram: t.me/csgopositive
 gambling,71,Drops,drops,quiet,0,,,,https://t.me/drops_pot_bot,,,,,,,,,,mentioned by 9 TON channels in Q3,findmini ton-channel-posts,Your legal dopamine supplier
@@ -3098,10 +3098,10 @@ gambling,85,Kingston,kingston,quiet,0,,,https://t.me/kingston_channel,https://t.
 gambling,86,Lime Bar,lime-bar,quiet,0,,,,,https://x.com/LimeDotBar,https://lime.bar,,,,,,,,,ton.app,"Lime is a fast, provably-fair crypto casino built for TON."
 gambling,87,Lootyfi,lootyfi,quiet,0,,,https://t.me/lootyfi_news,,,,,,,,,,,,ton.app,"Welcome to Lootyfi, where the boundaries of gaming and earning merge seamlessly."
 gambling,88,Lotteton,lotteton,quiet,0,,,,,,https://lotteton.io/,,,,,,,,,ton.app,Crypto-NFT lottery on TON with different game modes.
-gambling,89,Lucky Knight,lucky-knight,quiet,0,,,https://t.me/LuckyKnightBot,https://t.me/LuckyKnight_channel,,https://luckyknight.fun/,,,,,,,,,ton.app,Lucky Knight is a game where you realize that luck is a skill.
+gambling,89,Lucky Knight,lucky-knight,quiet,0,,,https://t.me/LuckyKnight_channel,https://t.me/LuckyKnightBot,,https://luckyknight.fun/,,,,,,,,,ton.app,Lucky Knight is a game where you realize that luck is a skill.
 gambling,90,LUX Poker,lux-poker,quiet,0,,,,https://t.me/luxtpokerbot,,,,,,,,,,mentioned by 3 TON channels in Q3,ton-channel-posts,💎 LUX Poker — честная игровая платформа внутри Telegram. Поддержка: @luxpokerteam Канал: @lux_poker
 gambling,91,Mines Ton AI Helper,mines-ton-ai-helper,quiet,0,,,,https://t.me/MinesTonAiHelperBot,,,,,,,,,,,ton.app,"MINES TON — open cells on the minefield and look for multipliers, but beware of mines."
-gambling,92,Mines Ton Giveaways,mines-ton-giveaways,quiet,0,,,https://t.me/mines_predictior_bot,https://t.me/mines_ton,https://x.com/mines_ton,,,,,,,,,,ton.app,"MINES TON — open cells on the minefield and look for multipliers, but beware of mines."
+gambling,92,Mines Ton Giveaways,mines-ton-giveaways,quiet,0,,,https://t.me/mines_ton,https://t.me/mines_predictior_bot,https://x.com/mines_ton,,,,,,,,,,ton.app,"MINES TON — open cells on the minefield and look for multipliers, but beware of mines."
 gambling,93,MINUTKA,minutka,quiet,0,,,https://t.me/tonminute,https://t.me/tonminute_bot,,,,,,,,,,,ton.app,🔥Chase the Time on TON!
 gambling,94,Mono Casino,mono-casino,quiet,0,,,https://t.me/mono_casino,,,,,,,,,,,,ton.app,Welcome to Mono Casino – where the best instant win games are now just a tap away on Telegram!
 gambling,95,NECASINO,necasino,quiet,0,,,,,https://x.com/ne_casino,https://necasino88.com,,,,,,,,,dyor.io gramnews-apps ton.app,
@@ -3115,8 +3115,8 @@ gambling,102,PokerFun,pokerfun,quiet,0,,,,https://t.me/Pokerfunbot,,,,,,,,,,,ton
 gambling,103,Prophecy Pulse [Telegram](https://t.me/prophecypulse_bot),prophecy-pulse-telegram-https-t-me-prophecypulse-bot,quiet,0,,,,https://t.me/prophecypulse_bot,https://x.com/ProphecyPulse,,,,,,,,,,ton-society-ecosystem-map,
 gambling,104,Pulse Market,pulse-market,quiet,0,,,,https://t.me/Pulse_gamebot,,,,,,,,,,,ton.app,"Pulse is built to offer a fully decentralized gaming experience on the TON blockchain, with all outcomes driven by smart contracts."
 gambling,105,Random.tg,random-tg,closed,0,,,,,,,,,,,,,,,ton.app,RANDOM is a decentralized lottery with cashback and double winnings.
-gambling,106,Rocket Case,rocket-case,quiet,0,,,https://t.me/RocketCaseBot,https://t.me/RocketCaseNews,,,,,,,,,,,ton.app,🎁 Try your luck and win collectible Telegram Gifts right now!
-gambling,107,Ropsto,ropsto,quiet,0,,,https://t.me/ropstobot,https://t.me/ropsto,https://x.com/ropsto_TON,https://ropsto.fun,,,,,,,,,ton.app,"Ropsto is a blockchain-powered skill game that reimagines Rock-Paper-Scissors as a fun, competitive experience."
+gambling,106,Rocket Case,rocket-case,quiet,0,,,https://t.me/RocketCaseNews,https://t.me/RocketCaseBot,,,,,,,,,,,ton.app,🎁 Try your luck and win collectible Telegram Gifts right now!
+gambling,107,Ropsto,ropsto,quiet,0,,,https://t.me/ropsto,https://t.me/ropstobot,https://x.com/ropsto_TON,https://ropsto.fun,,,,,,,,,ton.app,"Ropsto is a blockchain-powered skill game that reimagines Rock-Paper-Scissors as a fun, competitive experience."
 gambling,108,SCROLL.BET,scroll-bet,quiet,0,,,https://t.me/ScrollBetCassino,https://t.me/scrollbetbot,https://x.com/Scroll_Bet,https://www.scroll.bet,,,,,,,,,ton.app,"With over 6,000 casino games 🎰 and a wide range of sports betting options ⚽️🏀, including both pre-match and live events, Scroll.Bet is a Telegram Crypto License"
 gambling,109,Spend-A-TON,spend-a-ton,quiet,0,,,,https://t.me/spendaton_bot,https://x.com/zjor,,,,,,,,,,ton.app,"You have a mission to free a developer, unchain him, and let him create beautiful things in this world."
 gambling,110,Spica - Lottery 🎲,spica-lottery,quiet,0,,,,,https://x.com/spicafund,,,,,,,,,,ton.app,"Spica Lottery is a unique event powered by fully transparent smart contracts, ensuring a completely fair experience."
@@ -3140,7 +3140,7 @@ gambling,127,TonDice,tondice,closed,0,,,,,,,,,,,,,,,ton.app,Exciting application
 gambling,128,Tonomy,tonomy,quiet,0,,,,https://t.me/tonomypredictbot,,,,,,,,,,,findmini,First decentralized prediction market on TON. @TonomyNews Under development 🚨
 gambling,129,TonTogether,tontogether,quiet,0,,,,,https://x.com/TogetherTON,,,,,,,,,,ton-society-ecosystem-map,
 gambling,130,TWIF_choice,twif-choice,quiet,0,,,https://t.me/Trump_Wif_Coin,https://t.me/TWIFchoice_bot,https://x.com/TrumpWifCoin,,,,,,,,,,dyor.io gramnews-apps,TWIF Choice is a mini-app of for placing bets on the outcome of various events on the TON blockchain
-gambling,131,UNLK Casino,unlk-casino,quiet,0,,,https://t.me/UNLKCasinoBot,https://t.me/UNLKCasino,,https://unlk.gg,,,,,,,,,ton.app,"UNLK is an independent crypto casino built on TON, delivered as a Telegram mini app."
+gambling,131,UNLK Casino,unlk-casino,quiet,0,,,https://t.me/UNLKCasino,https://t.me/UNLKCasinoBot,,https://unlk.gg,,,,,,,,,ton.app,"UNLK is an independent crypto casino built on TON, delivered as a Telegram mini app."
 gambling,132,Wagmi 11,wagmi-11,quiet,0,,,https://t.me/wagmi11,,https://x.com/wagmi_11,,https://github.com/wagmi11,,2026-01-11,,,,,,ton-society-ecosystem-map,First Decentralised Prediction Platform on TON Blockchain.
 gambling,133,Whale,whale,quiet,0,,,,,https://x.com/whalegames_en,https://offers.whalegames.gg/?offer=8&uid=019ac51d-d569-7d28-bbb7-1a5f9dd5e338,,,,,,,,,2023-10-tonpost dyor.io gramnews-apps ton-society-ecosystem-map ton.app,
 gambling,134,Wheel of Fate,wheel-of-fate,quiet,0,,,,https://t.me/wheeloffateofficial_bot,https://x.com/_WheelofFate,,,,,,,,,,dyor.io gramnews-apps,

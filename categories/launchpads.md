@@ -77,7 +77,7 @@
 | 62 | Pandastic |  | [Bot](https://t.me/pandastic_bot) [X](https://x.com/pandastic_io) |  |  |  |
 | 63 | Preseller | Launch secure presale campaign on the TON blockchain in 5 minutes | [Bot](https://t.me/tonpreseller_bot) |  |  |  |
 | 64 | Quick |  | [Bot](https://t.me/quick_tg_bot) |  |  |  |
-| 65 | SolanaForge | SolanaForge is a no-code multi-chain token creation platform that makes launching Web3… | [Telegram](https://t.me/SolanaForgeGroup) [Bot](https://t.me/SolanaForgeChannel) [X](https://x.com/solanaforgeapp) [Site](https://solanaforge.app) |  |  |  |
+| 65 | SolanaForge | SolanaForge is a no-code multi-chain token creation platform that makes launching Web3… | [Telegram](https://t.me/SolanaForgeGroup) [X](https://x.com/solanaforgeapp) [Site](https://solanaforge.app) |  |  |  |
 | 66 | TAND3M | TAND3M – a platform for launching tokens and NFTs via LBP on the TON blockchain | [Bot](https://t.me/Tand3m_bot) [X](https://x.com/TAND3M_Official) [Site](https://tand3m.io/) |  |  |  |
 | 67 | TON Gagarin World |  | [Telegram](https://t.me/ton_gagarin_world_chat) [X](https://x.com/GAGARIN_World) |  |  |  |
 | 68 | TON INU Launchpad |  | [Telegram](https://t.me/toninutools) [Bot](https://t.me/theontonbot) [X](https://x.com/toninutools) [Site](https://app.toninu.tech/launchpad) |  |  |  |

@@ -74,13 +74,13 @@
 | 59 | NewsBullet | The most customizable crypto news feed on Telegram | [Bot](https://t.me/newsbulletbot) |  |  |  |
 | 60 | WhaleBrain Bot |  | [Bot](https://t.me/whalebrain_bot) |  |  |  |
 | 61 | The TON Top | Show your status. The more TON — the higher you stay in the Top. | [Bot](https://t.me/thetontopbot) |  |  |  |
-| 62 | Block Watch | Block Watch — transaction analysis tool for wallets | [Telegram](https://t.me/BLWDev_bot) [Bot](https://t.me/BWDevapp) [X](https://x.com/blockwatchdev) [Site](https://blockwatch.tech) |  |  |  |
+| 62 | Block Watch | Block Watch — transaction analysis tool for wallets | [Telegram](https://t.me/BLWDev_bot) [X](https://x.com/blockwatchdev) [Site](https://blockwatch.tech) |  |  |  |
 | 63 | Cielo Free Bot 1 | Track wallets on Solana, EVM, Tron, Sui + BTC | [Bot](https://t.me/evmtrackerbot) |  |  |  |
 | 64 | CoinCrackerBot |  |  |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 65 | CoinRobot |  | [GitHub](https://github.com/sora-xor/polkaswap-exchange-web) |  | 2026-10-01 |  |
 | 66 | CryptoRiskyGameCalls |  | [Bot](https://t.me/vukly_bot) |  |  |  |
 | 67 | DashPool | Your easiest gateway to the complex AI market, right in Telegram! | [Bot](https://t.me/dashpoolbot) [X](https://x.com/dashpoolapp) |  |  |  |
-| 68 | dTON Forum | Analytical system based on TON on-chain data. | [Telegram](https://t.me/dtonforum) [Site](https://tech.dton.сo) |  |  |  |
+| 68 | dTON Forum | Analytical system based on TON on-chain data. | [Telegram](https://t.me/dtonforum) |  |  |  |
 | 69 | Fragment Analyzer | Rainbet.com #1 non-kyc crypto casino & sportsbook | [Telegram](https://t.me/fragmentanalytics) [Bot](https://t.me/fragmentanalyzer_bot) |  |  |  |
 | 70 | Full Metal Jetton |  |  |  |  |  |
 | 71 | Giftindex |  | [Bot](https://t.me/giftindexbot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
@@ -96,7 +96,7 @@
 | 83 | TON Price Converter |  | [Site](https://coinrecast.com/) |  |  |  |
 | 84 | Toncoin Converter |  |  |  |  |  |
 | 86 | Tonk Analyser | Tonk analyser is powered by $TONK INU . | [Bot](https://t.me/tonkanalyser_bot) [X](https://x.com/tonkinubot) [GitHub](https://github.com/TonkInu) |  | 2024-03-27 |  |
-| 87 | Tonmarketcap | Stay on top of the TON ecosystem with live prices, market caps, charts, and rankings —… | [Telegram](https://t.me/ton_market_cap_bot) [Bot](https://t.me/tonmarketcap_channel) [Site](https://tonmarketcap.ru) |  |  |  |
+| 87 | Tonmarketcap | Stay on top of the TON ecosystem with live prices, market caps, charts, and rankings —… | [Telegram](https://t.me/tonmarketcap_channel) [Bot](https://t.me/ton_market_cap_bot) [Site](https://tonmarketcap.ru) |  |  |  |
 | 88 | TonSonar | TonSonar Telegram bot: smart-money alerts and new TON jetton listings | [Bot](https://t.me/tonsonar_bot) [Site](https://ozamotailov.github.io/alphaping/) [GitHub](https://github.com/ozamotailov/alphaping) |  | 2026-07-02 |  |
 | 89 | TOTKIT | News, signals, statistics, analysis and reviews of NFT collections on The Open Network 💎 | [Bot](https://t.me/totkitbot) [GitHub](https://github.com/BradDev01) |  | 2023-01-26 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 90 | Wallet Analysis | Arbitrage bot and analytics for cryptocurrencies. | [X](https://x.com/ArbitrageScan) [Site](https://arbitragescanner.io/) |  |  |  |
@@ -113,7 +113,7 @@
 | 102 | TOKEN INSIDE |  |  |  | 2026-04-21 |  |
 | 103 | Тонус |  | [Bot](https://t.me/brainscoin_bot) |  | 2026-03-24 |  |
 | 104 | RaggaMorffa | Todas las noticias actualizadas del género #RaggaMorffa en un solo canal de Telegram. | [Telegram](https://t.me/raggamorffanews) [X](https://x.com/raggamorffa) [Site](https://raggamorffa.net/) |  | 2026-03-12 |  |
-| 105 | Tonkol | Know what KOLs are buying on TON | [Telegram](https://t.me/tonkolpro) [Bot](https://t.me/tonkoltrades) [X](https://x.com/Toncoinkol) [Site](https://tonkol.pro/) |  | 2026-03-02 |  |
+| 105 | Tonkol | Know what KOLs are buying on TON | [Telegram](https://t.me/tonkolpro) [X](https://x.com/Toncoinkol) [Site](https://tonkol.pro/) |  | 2026-03-02 |  |
 | 106 | Jetton Whale Swaps |  | [Telegram](https://t.me/MoonWeb3) [Bot](https://t.me/NFTRobot) |  | 2025-05-19 |  |
 | 107 | apiTON | channel: / ws: apiton.org | [Telegram](https://t.me/apiton) [Bot](https://t.me/apitonBot) [Site](https://apiton.org/) [GitHub](https://github.com/apiton-org) |  | 2025-05-10 | [ton 25](../archive/2025-07-ton.jpg) |
 | 108 | ShillGuard |  | [Telegram](https://t.me/ShillGuardOfficialAnnouncements) [Bot](https://t.me/ShillGuardAppBot) [X](https://x.com/ShillGuard) [Site](https://shillguard.com/) |  | 2025-04-10 |  |

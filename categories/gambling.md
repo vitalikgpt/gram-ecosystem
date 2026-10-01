@@ -78,7 +78,7 @@
 | 64 | Bitsler.com Casino | Established in 2015, Bitsler is a top destination for crypto gambling fans looking for a… | [X](https://x.com/Bitsler) [Site](https://www.bitsler.com/?c=8tg5g3mj2wa77sgz) |  |  |  |
 | 65 | BIX Games | BIX Games Notification Channel | [Telegram](https://t.me/bixgames_noti) [Bot](https://t.me/ninebixbot) [Site](https://9bix.com) |  |  |  |
 | 66 | Bons Casino | Get ready to hit the reels and chase the big wins with the Bons Casino Telegram Bot! | [X](https://x.com/BONS_social) [Site](https://bons.io) |  |  |  |
-| 68 | Casino.tg | Welcome to Casino.TG 🎰 Your Premier Crypto Casino Experience! | [Bot](https://t.me/CasinoTGCommunity) |  |  |  |
+| 68 | Casino.tg | Welcome to Casino.TG 🎰 Your Premier Crypto Casino Experience! | [Telegram](https://t.me/CasinoTGCommunity) |  |  |  |
 | 69 | Classic Multiplayer | TON Classic is a gambling project with nice multiplayer game. | [Site](https://classic.ton-game.com) |  |  |  |
 | 70 | CSGOPositive | Web: CSGOPositive.xyz/tg Telegram: t.me/csgopositive | [Bot](https://t.me/positive_bet_bot) | mentioned by 4 TON channels in Q3 |  |  |
 | 71 | Drops | Your legal dopamine supplier | [Bot](https://t.me/drops_pot_bot) | mentioned by 9 TON channels in Q3 |  |  |
@@ -99,10 +99,10 @@
 | 86 | Lime Bar | Lime is a fast, provably-fair crypto casino built for TON. | [X](https://x.com/LimeDotBar) [Site](https://lime.bar) |  |  |  |
 | 87 | Lootyfi | Welcome to Lootyfi, where the boundaries of gaming and earning merge seamlessly. | [Telegram](https://t.me/lootyfi_news) |  |  |  |
 | 88 | Lotteton | Crypto-NFT lottery on TON with different game modes. | [Site](https://lotteton.io/) |  |  |  |
-| 89 | Lucky Knight | Lucky Knight is a game where you realize that luck is a skill. | [Telegram](https://t.me/LuckyKnightBot) [Bot](https://t.me/LuckyKnight_channel) [Site](https://luckyknight.fun/) |  |  |  |
+| 89 | Lucky Knight | Lucky Knight is a game where you realize that luck is a skill. | [Telegram](https://t.me/LuckyKnight_channel) [Bot](https://t.me/LuckyKnightBot) [Site](https://luckyknight.fun/) |  |  |  |
 | 90 | LUX Poker | 💎 LUX Poker — честная игровая платформа внутри Telegram. Поддержка: @luxpokerteam Канал:… | [Bot](https://t.me/luxtpokerbot) | mentioned by 3 TON channels in Q3 |  |  |
 | 91 | Mines Ton AI Helper | MINES TON — open cells on the minefield and look for multipliers, but beware of mines. | [Bot](https://t.me/MinesTonAiHelperBot) |  |  |  |
-| 92 | Mines Ton Giveaways | MINES TON — open cells on the minefield and look for multipliers, but beware of mines. | [Telegram](https://t.me/mines_predictior_bot) [Bot](https://t.me/mines_ton) [X](https://x.com/mines_ton) |  |  |  |
+| 92 | Mines Ton Giveaways | MINES TON — open cells on the minefield and look for multipliers, but beware of mines. | [Telegram](https://t.me/mines_ton) [Bot](https://t.me/mines_predictior_bot) [X](https://x.com/mines_ton) |  |  |  |
 | 93 | MINUTKA | 🔥Chase the Time on TON! | [Telegram](https://t.me/tonminute) [Bot](https://t.me/tonminute_bot) |  |  |  |
 | 94 | Mono Casino | Welcome to Mono Casino – where the best instant win games are now just a tap away on… | [Telegram](https://t.me/mono_casino) |  |  |  |
 | 95 | NECASINO |  | [X](https://x.com/ne_casino) [Site](https://necasino88.com) |  |  |  |
@@ -115,8 +115,8 @@
 | 102 | PokerFun | PokerFun brings the thrill of classic card games like Texas Hold'em, Yummy, and Truco… | [Bot](https://t.me/Pokerfunbot) |  |  |  |
 | 103 | Prophecy Pulse (Telegram)(https://t.me/prophecypulse_bot) |  | [Bot](https://t.me/prophecypulse_bot) [X](https://x.com/ProphecyPulse) |  |  |  |
 | 104 | Pulse Market | Pulse is built to offer a fully decentralized gaming experience on the TON blockchain,… | [Bot](https://t.me/Pulse_gamebot) |  |  |  |
-| 106 | Rocket Case | 🎁 Try your luck and win collectible Telegram Gifts right now! | [Telegram](https://t.me/RocketCaseBot) [Bot](https://t.me/RocketCaseNews) |  |  |  |
-| 107 | Ropsto | Ropsto is a blockchain-powered skill game that reimagines Rock-Paper-Scissors as a fun,… | [Telegram](https://t.me/ropstobot) [Bot](https://t.me/ropsto) [X](https://x.com/ropsto_TON) [Site](https://ropsto.fun) |  |  |  |
+| 106 | Rocket Case | 🎁 Try your luck and win collectible Telegram Gifts right now! | [Telegram](https://t.me/RocketCaseNews) [Bot](https://t.me/RocketCaseBot) |  |  |  |
+| 107 | Ropsto | Ropsto is a blockchain-powered skill game that reimagines Rock-Paper-Scissors as a fun,… | [Telegram](https://t.me/ropsto) [Bot](https://t.me/ropstobot) [X](https://x.com/ropsto_TON) [Site](https://ropsto.fun) |  |  |  |
 | 108 | SCROLL.BET | With over 6,000 casino games 🎰 and a wide range of sports betting options ⚽️🏀, including… | [Telegram](https://t.me/ScrollBetCassino) [Bot](https://t.me/scrollbetbot) [X](https://x.com/Scroll_Bet) [Site](https://www.scroll.bet) |  |  |  |
 | 109 | Spend-A-TON | You have a mission to free a developer, unchain him, and let him create beautiful things… | [Bot](https://t.me/spendaton_bot) [X](https://x.com/zjor) |  |  |  |
 | 110 | Spica - Lottery 🎲 | Spica Lottery is a unique event powered by fully transparent smart contracts, ensuring a… | [X](https://x.com/spicafund) |  |  |  |
@@ -137,7 +137,7 @@
 | 128 | Tonomy | First decentralized prediction market on TON. @TonomyNews Under development 🚨 | [Bot](https://t.me/tonomypredictbot) |  |  |  |
 | 129 | TonTogether |  | [X](https://x.com/TogetherTON) |  |  |  |
 | 130 | TWIF_choice | TWIF Choice is a mini-app of for placing bets on the outcome of various events on the… | [Telegram](https://t.me/Trump_Wif_Coin) [Bot](https://t.me/TWIFchoice_bot) [X](https://x.com/TrumpWifCoin) |  |  |  |
-| 131 | UNLK Casino | UNLK is an independent crypto casino built on TON, delivered as a Telegram mini app. | [Telegram](https://t.me/UNLKCasinoBot) [Bot](https://t.me/UNLKCasino) [Site](https://unlk.gg) |  |  |  |
+| 131 | UNLK Casino | UNLK is an independent crypto casino built on TON, delivered as a Telegram mini app. | [Telegram](https://t.me/UNLKCasino) [Bot](https://t.me/UNLKCasinoBot) [Site](https://unlk.gg) |  |  |  |
 | 132 | Wagmi 11 | First Decentralised Prediction Platform on TON Blockchain. | [Telegram](https://t.me/wagmi11) [X](https://x.com/wagmi_11) [GitHub](https://github.com/wagmi11) |  | 2026-01-11 |  |
 | 133 | Whale |  | [X](https://x.com/whalegames_en) [Site](https://offers.whalegames.gg/?offer=8&uid=019ac51d-d569-7d28-bbb7-1a5f9dd5e338) |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 134 | Wheel of Fate |  | [Bot](https://t.me/wheeloffateofficial_bot) [X](https://x.com/_WheelofFate) |  |  |  |

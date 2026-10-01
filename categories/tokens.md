@@ -100,7 +100,7 @@
 | 87 | WOOF (WOOF) |  |  | mcap $0K, 108,932 holders | 2026-02-21 |  |
 | 88 | GOATS (GOATS) |  | [Telegram](https://t.me/realgoats_channel) [X](https://x.com/GOATS_immortal) | mcap $347K, 120,815 holders | 2026-02-10 |  |
 | 89 | TON Cats Jetton |  | [Telegram](https://t.me/toncats_tg) [X](https://x.com/toncats_tg) |  | 2026-02-01 |  |
-| 90 | Hamster Kombat (HMSTR) |  | [Telegram](https://t.me/hamster_kombat) [Site](https://hamster.network) | mcap $11.0M, 1,344,213 holders | 2026-01-20 |  |
+| 90 | Hamster Kombat (HMSTR) |  | [Telegram](https://t.me/hamster_kombat) | mcap $11.0M, 1,344,213 holders | 2026-01-20 |  |
 | 91 | Memhash (MEMHASH) |  | [Telegram](https://t.me/memhash) [X](https://x.com/memhash_app) [Site](https://memhash.org) | mcap $0K, 16,399 holders | 2026-01-14 |  |
 | 92 | FPI Bank (FPIBANK) |  | [Telegram](https://t.me/fpibank) | mcap $83K, 78,381 holders | 2026-01-10 |  |
 | 93 | ARTDRA Coin (ARTDRA) | Combat Games & Artdra Coin | [Telegram](https://t.me/artdracoin) | mcap $4.5M, 1,213 holders | 2025-12-18 |  |

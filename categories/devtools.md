@@ -40,7 +40,7 @@
 | 25 | @tonconnect/sdk | JavaScript SDK for TON Connect 2.0. | [Site](https://www.npmjs.com/package/@tonconnect/sdk) |  |  |  |
 | 26 | Adradar |  | [X](https://x.com/adradar_xyz) [Site](https://adradar.xyz) |  |  |  |
 | 27 | Anonymous Numbers Market Analytics | Fragment market statistics. | [GitHub](https://github.com/qpwedev/anonymous-numbers-market-analytics) |  | 2023-11-02 |  |
-| 28 | Apps Father | Apps Father — AI tool to build Telegram Mini Apps without code | [Telegram](https://t.me/apps_father_bot) [Bot](https://t.me/apps_father) [X](https://x.com/AppsFather) [Site](https://apps-father.com/) |  |  |  |
+| 28 | Apps Father | Apps Father — AI tool to build Telegram Mini Apps without code | [Telegram](https://t.me/apps_father) [Bot](https://t.me/apps_father_bot) [X](https://x.com/AppsFather) [Site](https://apps-father.com/) |  |  |  |
 | 29 | Blockchain Network Visualizer | Network visualization tool. | [GitHub](https://github.com/qpwedev/blockchain-network-visualizer) |  | 2023-05-23 |  |
 | 30 | C#/tonconnect | C# SDK for TON Connect. | [GitHub](https://github.com/continuation-team/TonSdk.NET) |  | 2025-08-19 |  |
 | 31 | Chainstack | Managed RPC nodes with geo balancing. | [Site](https://chainstack.com/build-better-with-ton/) |  |  |  |
@@ -75,7 +75,7 @@
 | 62 | Ton Meme Bot | A bot for trading memecoins on TON | [Bot](https://t.me/memefun_tradingbot) [X](https://x.com/ton_meme_trader) [Site](https://linktr.ee/ton_meme) |  |  |  |
 | 63 | Ton Site Builder | Ton Web3 Site Builder.Based on Ton Storage. | [Bot](https://t.me/ton_site_builder_bot) | mentioned by 7 TON channels in Q3 |  |  |
 | 64 | Ton Tracker | ⚡️ The fastest TON wallet sniper bot with smart filter | [Bot](https://t.me/tonscanerbot) |  |  |  |
-| 65 | TON Web IDE | Boost your web3 coding journey with us. | [Telegram](https://t.me/ton_web_ide) [Site](https://ide.ton.org) [GitHub](https://github.com/tact-lang/web-ide) |  | 2026-06-23 |  |
+| 65 | TON Web IDE | Boost your web3 coding journey with us. | [Telegram](https://t.me/ton_web_ide) [GitHub](https://github.com/tact-lang/web-ide) |  | 2026-06-23 |  |
 | 66 | ton-blockchain/tonlib-go | Official Golang TonLib wrapper. | [GitHub](https://github.com/ton-blockchain/tonlib-go) |  | 2021-07-06 |  |
 | 67 | ton-community/twa-template | TWA template with TON integration. | [GitHub](https://github.com/ton-community/twa-template) |  | 2023-10-20 |  |
 | 68 | ton-core/ton | Cross-platform client by ton-core. | [GitHub](https://github.com/ton-core/ton) |  | 2024-07-16 |  |
@@ -83,7 +83,7 @@
 | 70 | ton-kotlin | Kotlin SDK for JVM applications. | [GitHub](https://github.com/andreypfau/ton-kotlin) |  | 2025-11-11 |  |
 | 71 | tonfactory/tonsdk | Cells and contract wrappers. | [GitHub](https://github.com/tonfactory/tonsdk) |  | 2024-10-06 |  |
 | 72 | TONify | TONify is a free, browser-based converter for TON addresses. | [Site](https://alexmubarakshin.github.io/tonify/) |  |  |  |
-| 73 | TONNode | TONNode gives you direct access to TON without running a node. | [Telegram](https://t.me/tonnode) [Bot](https://t.me/tonnode_chat) [Site](https://tonnode.io) |  |  |  |
+| 73 | TONNode | TONNode gives you direct access to TON without running a node. | [Telegram](https://t.me/tonnode) [Site](https://tonnode.io) |  |  |  |
 | 74 | TonSdk.NET | C# (.NET, Unity) SDK. | [GitHub](https://github.com/continuation-team/TonSdk.NET) |  | 2025-08-19 |  |
 | 75 | Tonutils Proxy | User-friendly TON Proxy implementation. | [GitHub](https://github.com/xssnick/Tonutils-Proxy) |  | 2025-11-02 |  |
 | 76 | tonutils-dart | Dart/Flutter SDK for mobile apps. | [GitHub](https://github.com/novusnota/tonutils-dart) |  | 2024-09-12 |  |
@@ -102,7 +102,7 @@
 | 89 | TON Domain Info bot |  |  |  | 2026-09-30 |  |
 | 90 | Tonana |  | [X](https://x.com/tonanadao) [Site](https://github.com/tonanadao) [GitHub](https://github.com/fluidicon.png) |  | 2026-09-24 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 91 | Rift |  | [Site](https://rift.skyring.io) [GitHub](https://github.com/sky-ring) |  | 2026-08-28 |  |
-| 92 | TON NoCode SDK |  | [Telegram](https://t.me/safemoonTon) [Bot](https://t.me/safeTONdotFun) [X](https://x.com/SafetonPad) [Site](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) |  | 2026-08-24 |  |
+| 92 | TON NoCode SDK |  | [Telegram](https://t.me/safemoonTon) [X](https://x.com/SafetonPad) [Site](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) |  | 2026-08-24 |  |
 | 93 | Development Wallet |  | [Site](https://test.tonhub.com/dl) [GitHub](https://github.com/TractionEye) |  | 2026-06-23 |  |
 | 94 | Jetton Arbitrage |  |  |  | 2026-03-03 |  |
 | 95 | TONX | TONX is the SuperApp platform layer that enables builders to create the new Web3 economy. | [Telegram](https://t.me/tonxstudio) [Site](https://tonx.ai/) |  | 2025-10-31 | [ton 25](../archive/2025-07-ton.jpg) |
