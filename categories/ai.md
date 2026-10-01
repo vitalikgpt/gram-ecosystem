@@ -11,13 +11,13 @@
 | 1 | AI Lab | Cooperation - @AiLabSupport_robot | [Bot](https://t.me/ailab_robot) | mentioned by 33 TON channels in Q3 |  |  |
 | 2 | MOONBERG AI BOT | MOONBERG AI BOT — AI-powered crypto trading tool | [Telegram](https://t.me/moonbergai) [Bot](https://t.me/moonbergai_bot) [X](https://x.com/moonberg) [Site](https://moonberg.com) [GitHub](https://github.com/Emmet-Finance) [Gram News](https://gramnews.org/apps/moonberg-ai-bot) | 142K views, 12K MAU | 2026-09-10 |  |
 | 3 | Spru | 🐙 ИИ, который делает за тебя Поддержка - @spru_support_bot | [Bot](https://t.me/spru_agent_bot) | mentioned by 3 TON channels in Q3 |  |  |
-| 4 | AgentBook 🤖 |  | [Bot](https://t.me/agentbookbot) | mentioned by 5 TON channels in Q3 |  |  |
+| 4 | AgentBook |  | [Bot](https://t.me/agentbookbot) | mentioned by 5 TON channels in Q3 |  |  |
 | 5 | Reverie | A mini app for chatting with virtual characters who have their own memory and… | [Bot](https://t.me/reverie_ai_bot) [Gram News](https://gramnews.org/apps/reverie) | 50K MAU |  |  |
 | 6 | AE _Digital Tech | AE (AI Energy) powers always-on execution and stability,helping strategies run smarter,… | [Bot](https://t.me/ae_dx_bot) | mentioned by 3 TON channels in Q3 |  |  |
 | 7 | Quant IA |  | [Bot](https://t.me/thequantaibot) | mentioned by 15 TON channels in Q3 |  |  |
 | 8 | Guardian | An intelligent group management bot with portal, buy bot and AI features 🔥… | [Bot](https://t.me/mevfreeportalbot) | 27K MAU |  |  |
 | 9 | Bter9 AI 2.5% | USDT balance to level up your agent and boost your daily income! @Bter9_Support | [Bot](https://t.me/bter9bot) | mentioned by 4 TON channels in Q3 |  |  |
-| 10 | AmberMarket / оплата GPT • Claude • Steam • PS Store | Магазин цифровых товаров в Telegram. | [Bot](https://t.me/ambermarket_official_bot) | mentioned by 5 TON channels in Q3 |  |  |
+| 10 | AmberMarket | Магазин цифровых товаров в Telegram. | [Bot](https://t.me/ambermarket_official_bot) | mentioned by 5 TON channels in Q3 |  |  |
 | 11 | Creator. AI Video | Создавай ии видео и фото в боте 👉 или на сайте 👉 www.gensta.ai | [Telegram](https://t.me/creator_prompts) [Bot](https://t.me/creator_ai_tech_bot) [Site](https://Gensta.ai) [Gram News](https://gramnews.org/apps/creator_ai_tech_bot) | 16K views, 19K MAU | 2026-09-27 |  |
 | 12 | TeleClaw | Your personal AI agent | [Bot](https://t.me/claw) | mentioned by 3 TON channels in Q3 |  |  |
 | 13 | Sentism | Sentism — AI-powered tool for automating DeFi operations | [Telegram](https://t.me/sentismcommunity) [Bot](https://t.me/SentismAIBot) [X](https://x.com/Sentism_ai) [Site](https://sentism.ai) [Gram News](https://gramnews.org/apps/sentism) | 3K views, 11K MAU | 2026-09-02 |  |
@@ -44,7 +44,7 @@
 | 29 | Duck Ai App | Deploy & Manage Ai Agents easily Channel: @MyDuckAi Support: @zkproof | [Bot](https://t.me/teleduckaibot) | mentioned by 7 TON channels in Q3 |  |  |
 | 31 | Fragment Neuro Bot |  | [Telegram](https://t.me/TeletonApp) [Bot](https://t.me/TeletonOfficialAppBot) [X](https://x.com/teletonapp) [Gram News](https://gramnews.org/apps/fragment-neuro-bot) |  |  |  |
 | 32 | GMAI | GMAI — developer tool for Solana dApps with AI integration | [Telegram](https://t.me/gmAI_Ann) [Bot](https://t.me/gmdotaibot) [X](https://x.com/gm_dot_ai) [Site](https://docs.gm.ai/how-we-work/gmai-framework) [Gram News](https://gramnews.org/apps/gmai) |  |  |  |
-| 33 | Kamana AI 🐸 | Start your $KAMANA 🐸 journey and reap the rewards in $TON 💎 • TG Channel: @KamanaAnn •… | [Bot](https://t.me/kamanaai_bot) |  |  |  |
+| 33 | Kamana AI | Start your $KAMANA 🐸 journey and reap the rewards in $TON 💎 • TG Channel: @KamanaAnn •… | [Bot](https://t.me/kamanaai_bot) |  |  |  |
 | 34 | NEONEXA AI | 📲 News: @TonMasons 👥 Neonexa Network: @MasonGameBot 🌐 Web: tonmason.com 🛠 Support:… | [Bot](https://t.me/tonmasonaibot) | mentioned by 3 TON channels in Q3 |  |  |
 | 35 | NEONEXA Network | 📲 News: @TonMasons 🧠 NEONEXA AI: @TonMasonAIbot 🌐 Web: tonmason.com 🛠 Support:… | [Telegram](https://t.me/tonmasons_ru) [Bot](https://t.me/masongamebot) | mentioned by 5 TON channels in Q3 |  |  |
 | 36 | Neural Networks | Помощь — @Neyrosetka_com | [Bot](https://t.me/chatgpt_tgm_bot) [GitHub](https://github.com/Stenix777/Neural-network-telegram) [Gram News](https://gramnews.org/apps/neural-networks) |  | 2024-05-21 |  |

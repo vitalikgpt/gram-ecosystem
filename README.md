@@ -6,9 +6,9 @@ A library of Gram (TON) and core Telegram projects, grouped by what they do, wit
 
 <a href="reports/2026-q3/poster-en-4k.png"><img src="reports/2026-q3/poster-en.png" alt="TON ecosystem, Q3 2026" width="100%"></a>
 
-**3186 projects in 32 categories: 930 active in Q3 2026, 2175 quiet, 81 closed.** 388 of the active ones are on the [Gram News map for Q3 2026](reports/2026-q3) ([article with interactive leaderboards](https://gramnews.org/articles/ton-ecosystem-map-q3-2026)). Plus 685 channels about TON and an [archive of 19 ecosystem maps](archive) by other authors, 2022 to 2026.
+**3186 projects in 32 categories: 930 active in Q3 2026, 2176 quiet, 80 closed.** 388 of the active ones are on the [Gram News map for Q3 2026](reports/2026-q3) ([article with interactive leaderboards](https://gramnews.org/articles/ton-ecosystem-map-q3-2026)). Plus 685 channels about TON and an [archive of 19 ecosystem maps](archive) by other authors, 2022 to 2026.
 
-Every link here is checked. [792 links need a look](reports/link-check.md) (a wrong account, a dead page, or a name that does not match), and [220 names from older maps](data/unresolved.csv) still need a project to point to. Those two lists are the best place to start contributing. So far 1272 links have been replaced or removed and 89 confirmed, each with its evidence, in [data/link-fixes.csv](data/link-fixes.csv).
+Every link here is checked. [792 links need a look](reports/link-check.md) (a wrong account, a dead page, or a name that does not match), and [220 names from older maps](data/unresolved.csv) still need a project to point to. Those two lists are the best place to start contributing. So far 1268 links have been replaced or removed and 88 confirmed, each with its evidence, in [data/link-fixes.csv](data/link-fixes.csv).
 
 ## Contents
 
@@ -167,7 +167,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 9 | @Hoton ✓ | Telegram Premium, Stars & $GRAM top-ups — up to 60% cheaper than in-app. | [Bot](https://t.me/hoton) |  |  |  |
 | 10 | TON Pay ✓ | Your provider to the safety and freedom of The Open Network. | [Telegram](https://t.me/tonpay_official) [Bot](https://t.me/tonpay) [Site](https://ton.org/en/pay) [Gram News](https://gramnews.org/apps/tonpay-2) |  | 2025-01-09 | [messari 26](archive/2026-05-messari.jpg) |
 | 11 | xStocks |  | [Site](https://xstocks.fi) |  |  | [messari 26](archive/2026-05-messari.jpg) |
-| 12 | Mops Stars / Купить Звёзды |  | [Bot](https://t.me/mopsstarsbot) | 155K MAU |  |  |
+| 12 | Mops Stars |  | [Bot](https://t.me/mopsstarsbot) | 155K MAU |  |  |
 
 [All 69 projects in Payments](categories/payments.md): 27 active, 40 quiet, 2 closed.
 
@@ -289,7 +289,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 8 | Orbit Bridge | Orbit Chain Announcement Channel | [Telegram](https://t.me/OrbitChainChannel) [X](https://x.com/Orbit_Chain) [Site](https://bridge.orbitchain.io/) [GitHub](https://github.com/orbit-chain) [Gram News](https://gramnews.org/apps/orbit-bridge) | TVL $20K | 2026-10-01 | [ton 25](archive/2025-07-ton.jpg) |
 | 9 | SoDEX Bridge | SoDEX is a high-performance order book decentralized exchange (DEX) built on ValueChain. | [X](https://x.com/sodex_official) [Site](https://ssi.sosovalue.com) | TVL $12K |  |  |
 | 10 | TAC Cross Chain Layer | TAC Cross Chain Layer is a messaging and custody layer connecting TON and TAC EVM,… | [X](https://x.com/tacbuild) [Site](https://tac.build) | TVL $1.7M |  |  |
-| 11 | TON ↔ BSC |  | [Telegram](https://t.me/contest) [Bot](https://t.me/cryptouser_bot) [Site](https://bridge.ton.org) [GitHub](https://github.com/ton-blockchain) [Gram News](https://gramnews.org/apps/ton-bsc) |  | 2026-10-01 |  |
+| 11 | TON BSC |  | [Telegram](https://t.me/contest) [Bot](https://t.me/cryptouser_bot) [Site](https://bridge.ton.org) [GitHub](https://github.com/ton-blockchain) [Gram News](https://gramnews.org/apps/ton-bsc) |  | 2026-10-01 |  |
 
 [All 19 projects in Bridges](categories/bridges.md): 11 active, 6 quiet, 2 closed.
 
@@ -387,9 +387,9 @@ Within a category, projects on the map come first in map order, then active ones
 | 5 | 1323vpn | Публикуем новости и обновления VPN'а | [Telegram](https://t.me/vpn1323) [Bot](https://t.me/vpn1323bot) [Gram News](https://gramnews.org/apps/1323vpn) | 283 views | 2026-09-24 |  |
 | 6 | Connecton VPN ✓ |  | [Telegram](https://t.me/connectonbot) [GitHub](https://github.com/Connecton) | 26 views | 2026-09-15 | [tonpost 23](archive/2023-10-tonpost.jpg) |
 | 7 | Need VPN & eSIM | Fast & Stable VPN & eSIM. Channel: @needapp Support: @need_supp_bot | [Bot](https://t.me/need) | mentioned by 16 TON channels in Q3 |  |  |
-| 8 | VPN Скруджа 🛜 | 📡 VPN Сервис для избранных 💬Помощь: @ScroogeHelp Канал: @ScroogeVPN | [Bot](https://t.me/scroogevpnrobot) | mentioned by 8 TON channels in Q3 |  |  |
-| 9 | Связь VPN⚡️ | Безопасный, Быстрый, Удобный и Лучший VPN на рынке с приятной ценой Наш канал:… | [Bot](https://t.me/svyazvpnrobot) | mentioned by 5 TON channels in Q3 |  |  |
-| 10 | WayLuckyVPN / Channel | @wayluckyvpn_bot - WayLuckyVPN bot @wayluckyvpnadmin - WayLuckyVPN Support account | [Telegram](https://t.me/wayluckyvpnchannel) [Bot](https://t.me/wayluckyvpn_bot) | mentioned by 3 TON channels in Q3 | 2026-07-09 |  |
+| 8 | VPN Скруджа | 📡 VPN Сервис для избранных 💬Помощь: @ScroogeHelp Канал: @ScroogeVPN | [Bot](https://t.me/scroogevpnrobot) | mentioned by 8 TON channels in Q3 |  |  |
+| 9 | Связь VPN | Безопасный, Быстрый, Удобный и Лучший VPN на рынке с приятной ценой Наш канал:… | [Bot](https://t.me/svyazvpnrobot) | mentioned by 5 TON channels in Q3 |  |  |
+| 10 | WayLuckyVPN | @wayluckyvpn_bot - WayLuckyVPN bot @wayluckyvpnadmin - WayLuckyVPN Support account | [Telegram](https://t.me/wayluckyvpnchannel) [Bot](https://t.me/wayluckyvpn_bot) | mentioned by 3 TON channels in Q3 | 2026-07-09 |  |
 
 [All 28 projects in Privacy](categories/vpn.md): 10 active, 17 quiet, 1 closed.
 
@@ -475,8 +475,8 @@ Within a category, projects on the map come first in map order, then active ones
 | 7 | RedoTrade ✓ |  | [Telegram](https://t.me/gramtrade) [X](https://x.com/redo_trade) [Site](https://redo.trade/) | 6K views | 2026-10-01 |  |
 | 8 | @Swapi ✓ |  | [Telegram](https://t.me/swapi_news) [Bot](https://t.me/swapi) | 71 views | 2026-08-26 |  |
 | 9 | ATF | 📌 channel :https://t.me/AI_TRADING_FOREX 🌐 Website: https://www.atftoken.com 🐦 Twitter:… | [Bot](https://t.me/atf_airdrop_bot) [X](https://x.com/ai_trading_frx) [Site](https://www.atftoken.com) | mentioned by 37 TON channels in Q3 |  |  |
-| 10 | ⚡️Лобушкин молнит | Главный новостной терминал Прислать новость — @zhora Основной канал — @lobushkin Канал в… | [Telegram](https://t.me/lobushkinflash) [Bot](https://t.me/tgpodbor_bot) | mentioned by 3 TON channels in Q3 | 2026-10-01 |  |
-| 11 | КриптоАтака 24 ⚡️ | Наибыстрейший информационный по крипте 24/7 @cryptoattackbot - мгновенный агрегатор… | [Telegram](https://t.me/cryptoattack24) [Bot](https://t.me/attackconnect_bot) | mentioned by 4 TON channels in Q3 | 2026-10-01 |  |
+| 10 | Лобушкин молнит | Главный новостной терминал Прислать новость — @zhora Основной канал — @lobushkin Канал в… | [Telegram](https://t.me/lobushkinflash) [Bot](https://t.me/tgpodbor_bot) | mentioned by 3 TON channels in Q3 | 2026-10-01 |  |
+| 11 | КриптоАтака 24 | Наибыстрейший информационный по крипте 24/7 @cryptoattackbot - мгновенный агрегатор… | [Telegram](https://t.me/cryptoattack24) [Bot](https://t.me/attackconnect_bot) | mentioned by 4 TON channels in Q3 | 2026-10-01 |  |
 | 12 | Ultra Wallet |  | [Bot](https://t.me/ultrawallettrade_bot) | mentioned by 6 TON channels in Q3 |  |  |
 
 [All 37 projects in Trading bots](categories/trading.md): 20 active, 17 quiet, 0 closed.
@@ -507,13 +507,13 @@ Within a category, projects on the map come first in map order, then active ones
 | 1 | AI Lab | Cooperation - @AiLabSupport_robot | [Bot](https://t.me/ailab_robot) | mentioned by 33 TON channels in Q3 |  |  |
 | 2 | MOONBERG AI BOT | MOONBERG AI BOT — AI-powered crypto trading tool | [Telegram](https://t.me/moonbergai) [Bot](https://t.me/moonbergai_bot) [X](https://x.com/moonberg) [Site](https://moonberg.com) [GitHub](https://github.com/Emmet-Finance) [Gram News](https://gramnews.org/apps/moonberg-ai-bot) | 142K views, 12K MAU | 2026-09-10 |  |
 | 3 | Spru | 🐙 ИИ, который делает за тебя Поддержка - @spru_support_bot | [Bot](https://t.me/spru_agent_bot) | mentioned by 3 TON channels in Q3 |  |  |
-| 4 | AgentBook 🤖 |  | [Bot](https://t.me/agentbookbot) | mentioned by 5 TON channels in Q3 |  |  |
+| 4 | AgentBook |  | [Bot](https://t.me/agentbookbot) | mentioned by 5 TON channels in Q3 |  |  |
 | 5 | Reverie | A mini app for chatting with virtual characters who have their own memory and… | [Bot](https://t.me/reverie_ai_bot) [Gram News](https://gramnews.org/apps/reverie) | 50K MAU |  |  |
 | 6 | AE _Digital Tech | AE (AI Energy) powers always-on execution and stability,helping strategies run smarter,… | [Bot](https://t.me/ae_dx_bot) | mentioned by 3 TON channels in Q3 |  |  |
 | 7 | Quant IA |  | [Bot](https://t.me/thequantaibot) | mentioned by 15 TON channels in Q3 |  |  |
 | 8 | Guardian | An intelligent group management bot with portal, buy bot and AI features 🔥… | [Bot](https://t.me/mevfreeportalbot) | 27K MAU |  |  |
 | 9 | Bter9 AI 2.5% | USDT balance to level up your agent and boost your daily income! @Bter9_Support | [Bot](https://t.me/bter9bot) | mentioned by 4 TON channels in Q3 |  |  |
-| 10 | AmberMarket / оплата GPT • Claude • Steam • PS Store | Магазин цифровых товаров в Telegram. | [Bot](https://t.me/ambermarket_official_bot) | mentioned by 5 TON channels in Q3 |  |  |
+| 10 | AmberMarket | Магазин цифровых товаров в Telegram. | [Bot](https://t.me/ambermarket_official_bot) | mentioned by 5 TON channels in Q3 |  |  |
 | 11 | Creator. AI Video | Создавай ии видео и фото в боте 👉 или на сайте 👉 www.gensta.ai | [Telegram](https://t.me/creator_prompts) [Bot](https://t.me/creator_ai_tech_bot) [Site](https://Gensta.ai) [Gram News](https://gramnews.org/apps/creator_ai_tech_bot) | 16K views, 19K MAU | 2026-09-27 |  |
 | 12 | TeleClaw | Your personal AI agent | [Bot](https://t.me/claw) | mentioned by 3 TON channels in Q3 |  |  |
 
@@ -524,12 +524,12 @@ Within a category, projects on the map come first in map order, then active ones
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | Екатерина Мизулина | Директор Лиги безопасного интернета, член Общественной палаты России Сообщить об опасном… | [Telegram](https://t.me/ekaterina_mizulina) [Bot](https://t.me/ekaterinamizulina_bot) | mentioned by 8 TON channels in Q3 | 2026-10-01 |  |
-| 2 | Randomize Bot 🎲 (Рандомайзер) | Конкурсный бот телеграм. Инструкция - https://cutt.ly/21DTeSP | [Bot](https://t.me/randomized) | mentioned by 35 TON channels in Q3 |  |  |
-| 3 | RandomGodBot⚡️ (Рандомайзер) | Руководство - https://cutt.ly/zJI2tz9 Открытый код - https://cutt.ly/TW1BVwH Канал бота… | [Bot](https://t.me/random) | mentioned by 83 TON channels in Q3 |  |  |
-| 4 | RandomGodBot⚡️ (Рандомайзер) | Руководство - https://cutt.ly/zJI2tz9 Открытый код - https://cutt.ly/TW1BVwH Канал бота… | [Bot](https://t.me/randomgodbot) | mentioned by 51 TON channels in Q3 |  |  |
+| 2 | Randomize Bot | Конкурсный бот телеграм. Инструкция - https://cutt.ly/21DTeSP | [Bot](https://t.me/randomized) | mentioned by 35 TON channels in Q3 |  |  |
+| 3 | RandomGodBot | Руководство - https://cutt.ly/zJI2tz9 Открытый код - https://cutt.ly/TW1BVwH Канал бота… | [Bot](https://t.me/random) | mentioned by 83 TON channels in Q3 |  |  |
+| 4 | RandomGodBot | Руководство - https://cutt.ly/zJI2tz9 Открытый код - https://cutt.ly/TW1BVwH Канал бота… | [Bot](https://t.me/randomgodbot) | mentioned by 51 TON channels in Q3 |  |  |
 | 5 | XDAO | Create DAOs. Co-own assets, formalize agreements, manage budgets and decisions. Join the… | [Telegram](https://t.me/xdaoapp) [Bot](https://t.me/xdao_ton_bot) [Site](https://xdao.app) | mentioned by 10 TON channels in Q3 | 2026-09-25 |  |
-| 6 | Random Beast 🏆 | Розыгрыши в Telegram с проверкой подписки, защитой от ботов и без рекламы. News:… | [Bot](https://t.me/randombeast_bot) | mentioned by 50 TON channels in Q3 |  |  |
-| 7 | Best Random Bot 🎁 (Конкурсный бот для розыгрышей / Рандомайзер) | Канал и инструкция: @BestRandom_info Служба поддержки: @BestRandom_support_bot Владелец:… | [Bot](https://t.me/bestrandom_bot) | mentioned by 24 TON channels in Q3 |  |  |
+| 6 | Random Beast | Розыгрыши в Telegram с проверкой подписки, защитой от ботов и без рекламы. News:… | [Bot](https://t.me/randombeast_bot) | mentioned by 50 TON channels in Q3 |  |  |
+| 7 | Best Random Bot | Канал и инструкция: @BestRandom_info Служба поддержки: @BestRandom_support_bot Владелец:… | [Bot](https://t.me/bestrandom_bot) | mentioned by 24 TON channels in Q3 |  |  |
 | 8 | Stickers Bot | A bot for creating Telegram stickers and tracking their usage statistics. | [Bot](https://t.me/stickers) [Gram News](https://gramnews.org/apps/stickers) | 629K MAU |  |  |
 | 9 | Safeguard | The most extensive security and buy tracking platform on Telegram Powering @Trending… | [Bot](https://t.me/safeguard) | mentioned by 7 TON channels in Q3 |  |  |
 | 10 | PR GRAM | PR GRAM — a promotion platform for Telegram. Support chat: @prgram_help News:… | [Bot](https://t.me/gram_piarbot) | mentioned by 5 TON channels in Q3 |  |  |
@@ -557,7 +557,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 1 | TonNewbie | Канал посвящён новостям и полезной информации для Вашего развития в крипто мире. | [Telegram](https://t.me/tonnewbie) [X](https://x.com/ru) [Gram News](https://gramnews.org/apps/tonnewbie-nr1hca) | 201K views | 2026-09-28 |  |
 | 2 | Be Unstoppable | Be Unstoppable — a cryptocurrency wallet supporting Bitcoin, Ethereum, and Zcash | [Telegram](https://t.me/unstoppable_announcements) [Bot](https://t.me/BeUnstoppable_bot) [X](https://x.com/unstoppablebyhs) [Site](https://unstoppable.money/) [GitHub](https://github.com/horizontalsystems) [Gram News](https://gramnews.org/apps/be-unstoppable) | 84K views, 10K MAU | 2026-10-01 |  |
 | 3 | iQuizMaster | Seize the chance to grab a million pounds, showcase your strength, and win huge prizes | [Bot](https://t.me/iquizmaster_bot) [X](https://x.com/snapsterbot) [Gram News](https://gramnews.org/apps/iquizmaster) | 20K MAU |  |  |
-| 4 | BehLand - Web3 L2E | BehLand — an educational platform with Web3 elements | [Telegram](https://t.me/BehLand_Official) [X](https://x.com/BehLandOfficial) [Site](https://beh.land) [GitHub](https://github.com/beh-land) [Gram News](https://gramnews.org/apps/behland-web3-l2e) | 6K views | 2026-10-01 |  |
+| 4 | BehLand | BehLand — an educational platform with Web3 elements | [Telegram](https://t.me/BehLand_Official) [X](https://x.com/BehLandOfficial) [Site](https://beh.land) [GitHub](https://github.com/beh-land) [Gram News](https://gramnews.org/apps/behland-web3-l2e) | 6K views | 2026-10-01 |  |
 
 [All 26 projects in Education](categories/education.md): 4 active, 22 quiet, 0 closed.
 
@@ -597,7 +597,7 @@ Within a category, projects on the map come first in map order, then active ones
 | 11 | Hamster Kombat ✓ | Hamster Kombat is a game where you manage a game development studio and earn rewards. | [Telegram](https://t.me/hamsterkombat_official) [Bot](https://t.me/hamster_kombat_bot) [X](https://x.com/hamster_kombat) [Gram News](https://gramnews.org/apps/hamster-kombat) | 833K MAU | 2024-09-21 | [ton-degen 24](archive/2024-06-ton-degen.jpg) |
 | 12 | HOT Wallet ✓ | HOT Wallet is a multichain crypto wallet within Telegram. | [Telegram](https://t.me/hotonnear) [Bot](https://t.me/herewalletbot) [X](https://x.com/hotdao_) [Gram News](https://gramnews.org/apps/hot-wallet) | 672K views, 188K MAU | 2026-09-30 | [ton 25](archive/2025-07-ton.jpg) |
 
-[All 771 projects in Farming](categories/farming.md): 247 active, 515 quiet, 9 closed.
+[All 771 projects in Farming](categories/farming.md): 247 active, 516 quiet, 8 closed.
 
 ## Casino
 

@@ -67,7 +67,7 @@
 | 53 | pytonconnect | Alternative Python SDK. | [Site](https://pypi.org/project/pytonconnect/) |  |  |  |
 | 54 | Rift |  | [Site](https://rift.skyring.io) [GitHub](https://github.com/sky-ring) [Gram News](https://gramnews.org/apps/rift) |  | 2025-09-11 |  |
 | 55 | SpyTON BuyBot |  | [Bot](https://t.me/Tonspybuybot) [X](https://x.com/hubspyton) [Gram News](https://gramnews.org/apps/spyton-buybot) |  |  |  |
-| 56 | sTONks  / Buy Bot | sTONks / Buy Bot — multichain trading bot | [Telegram](https://t.me/sTONksTrendingBot) [Bot](https://t.me/stonks_sniper_bot) [X](https://x.com/tonstonks) [Site](https://stonksbots.com/) [Gram News](https://gramnews.org/apps/stonks-buy-bot) |  |  |  |
+| 56 | sTONks | sTONks / Buy Bot — multichain trading bot | [Telegram](https://t.me/sTONksTrendingBot) [Bot](https://t.me/stonks_sniper_bot) [X](https://x.com/tonstonks) [Site](https://stonksbots.com/) [Gram News](https://gramnews.org/apps/stonks-buy-bot) |  |  |  |
 | 57 | Sublime Text Plugin | FunC support for Sublime. | [GitHub](https://github.com/savva425/func_plugin_sublimetext3) |  | 2023-01-26 |  |
 | 59 | Testnet Faucet |  | [Gram News](https://gramnews.org/apps/testnet-faucet) |  |  |  |
 | 60 | titon.network | Shared security stack for TON | [Telegram](https://t.me/titonnet) [X](https://x.com/titonnet) [Site](https://titon.network) [Gram News](https://gramnews.org/apps/titon-network) |  |  |  |

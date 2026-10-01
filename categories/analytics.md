@@ -28,7 +28,7 @@
 | 18 | PIRBView | PIRBView – The Ultimate Token Scanner! Supports sol,ton,base,eth,bsc and many others.… | [Bot](https://t.me/pirbviewbot) | 38K MAU |  |  |
 | 19 | Callers Radar | ⚠️ Disclaimer We are not responsible for any callers added here. Always do your own… | [Telegram](https://t.me/callsradarton) [Bot](https://t.me/callsradarton_bot) | mentioned by 11 TON channels in Q3 | 2026-10-01 |  |
 | 20 | IrisApp | IrisApp — AI-powered crypto market analytics app | [Telegram](https://t.me/iris_ecosystem) [Bot](https://t.me/iristoken_bot) [X](https://x.com/Iris_token) [Site](https://iristoken.io/) [Gram News](https://gramnews.org/apps/irisapp) | 20K views | 2026-09-27 |  |
-| 21 | SpyDefi Bot🕵 | The Bot powering the dynamic feed of @SpyDefi - home of DeFi analytics. | [Telegram](https://t.me/spydefi) [Bot](https://t.me/spydefi_bot) | mentioned by 5 TON channels in Q3 | 2026-10-01 |  |
+| 21 | SpyDefi Bot | The Bot powering the dynamic feed of @SpyDefi - home of DeFi analytics. | [Telegram](https://t.me/spydefi) [Bot](https://t.me/spydefi_bot) | mentioned by 5 TON channels in Q3 | 2026-10-01 |  |
 | 22 | xGift | xGift — your #1 data aggregator for TG gifts. | [Telegram](https://t.me/xgift) [Bot](https://t.me/xgift_official_bot) | 11K MAU |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 23 | CoinStats | Your go-to platform to track and manage your crypto, DeFi and NFTs. | [Telegram](https://t.me/coinstats_news) [X](https://x.com/coinstats) [Site](https://coinstats.app/) [Gram News](https://gramnews.org/apps/coinstats) | 7K views | 2026-09-15 |  |
 | 24 | FinTax | FinTax offers crypto accounting suite, tax calculator and professional taxconsulting… | [Telegram](https://t.me/FinTax2023) [Bot](https://t.me/fintax_bot) [X](https://x.com/FinTax_Official) [Site](https://fintax.tech) [Gram News](https://gramnews.org/apps/fintax) | 536 views | 2026-09-22 |  |
@@ -94,7 +94,7 @@
 | 79 | Lambdo Tracking | support here @lambdo_tnt | [Bot](https://t.me/lambdotracking_bot) | mentioned by 3 TON channels in Q3 |  |  |
 | 80 | Live Price TonCoin |  | [Site](https://fan-ton.com/) [Gram News](https://gramnews.org/apps/live-price-toncoin) |  |  |  |
 | 82 | NoName Tracker | Fast, flexible, user-friendly TON tracker by @NoNameDev support: @pickless404 | [Bot](https://t.me/trackernnbot) | mentioned by 17 TON channels in Q3 |  |  |
-| 84 | TBC - Client | TONBANKCARD - Ecosystem for cryptocurrencies. | [Bot](https://t.me/marketcaprobot) [Site](https://marketcap.tonbankcard.com) [Gram News](https://gramnews.org/apps/tbc-client) |  |  |  |
+| 84 | TBC | TONBANKCARD - Ecosystem for cryptocurrencies. | [Bot](https://t.me/marketcaprobot) [Site](https://marketcap.tonbankcard.com) [Gram News](https://gramnews.org/apps/tbc-client) |  |  |  |
 | 85 | TBC TVL TON | TBC TVL TON — analytics tool for tracking total value locked in DeFi on the TON network | [Bot](https://t.me/tonbankcard_bot) [Site](https://tonbankcard.com/tvlton.htm) [Gram News](https://gramnews.org/apps/tbc-tvl-ton) |  |  |  |
 | 86 | TOKEN INSIDE |  | [Gram News](https://gramnews.org/apps/token-inside) |  |  |  |
 | 88 | TON INU Tracker | TON INU Tracker — analytics for the TINU token on the TON network | [Bot](https://t.me/toninu_trackerbot) [X](https://x.com/toninutools) [Site](https://toninu.tech/) [Gram News](https://gramnews.org/apps/ton-inu-tracker) |  |  |  |

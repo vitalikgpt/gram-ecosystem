@@ -23,7 +23,7 @@
 | 13 | Six Seven Club Bot | 67 Channel - @club67 Support - @sixseven_app_support_bot | [Telegram](https://t.me/club67) [Bot](https://t.me/sixsevenclub_bot) | mentioned by 27 TON channels in Q3 | 2026-09-17 |  |
 | 14 | LikeBot | A cool bot to create posts with emoji-based like buttons. | [Bot](https://t.me/like) [Gram News](https://gramnews.org/apps/like) | 582K MAU |  |  |
 | 15 | TonTake (TAKE) | Благотворительно-развлекательная криптоорганизация. | [Telegram](https://t.me/TonTake) [Bot](https://t.me/TonTakeChatbot) [X](https://x.com/TonTakeGame) [Gram News](https://gramnews.org/apps/tontake-take) | 84K views | 2026-10-01 |  |
-| 16 | $PAPA CULT BOT🤖 | 𝕏 Twitter 🫆 Telegram 💭 Chat https://x.com/papa666cult https://t.me/Papa666cult… | [Bot](https://t.me/papacultbot) [X](https://x.com/papa666cult) | mentioned by 5 TON channels in Q3 |  |  |
+| 16 | $PAPA CULT BOT | 𝕏 Twitter 🫆 Telegram 💭 Chat https://x.com/papa666cult https://t.me/Papa666cult… | [Bot](https://t.me/papacultbot) [X](https://x.com/papa666cult) | mentioned by 5 TON channels in Q3 |  |  |
 | 17 | ZIFRETTA | Комплекс Web3 проектов на блокчейне TON. | [Telegram](https://t.me/zifretta_ecosystem) [Bot](https://t.me/zifretta_bot) | 73K views, 12K MAU | 2026-09-30 | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 18 | loofta | Loofta — payment service allowing transfers in tokens or bank accounts | [Telegram](https://t.me/loofta) [Bot](https://t.me/looftabot) [X](https://x.com/looftaxyz) [Site](https://loofta.xyz) [Gram News](https://gramnews.org/apps/loofta) | 12K views | 2026-10-01 |  |
 | 19 | digiverse | Digiverse is an on-chain marketplace with a Shop & Earn function. | [Telegram](https://t.me/digibuycommunity) [Bot](https://t.me/digibuy_bot) [Gram News](https://gramnews.org/apps/digiverse-pzj157) | 53 views | 2026-08-12 |  |
@@ -63,7 +63,7 @@
 | 48 | Frogy LIVE | Welcome to the official FROGY Channel! | [Telegram](https://t.me/FrogyNews) [Bot](https://t.me/FrogyLiveBot) [X](https://x.com/Frogy_LIVE) [Site](https://docs.frogy.live) [Gram News](https://gramnews.org/apps/frogy-live) |  | 2026-02-19 |  |
 | 49 | SideFans (By SideKick) | 🟡 Share, Engage, and Trade Live Effortlessly | [Telegram](https://t.me/sidekick_official) [Bot](https://t.me/sidekick_fans_bot) [X](https://x.com/sidekick_labs) [Gram News](https://gramnews.org/apps/sidefans-by-sidekick) |  |  |  |
 | 50 | KKX love |  | [Bot](https://t.me/kkxlove_bot) [Gram News](https://gramnews.org/apps/kkx-love) |  |  |  |
-| 51 | Hug 🫂 | The most kind Telegram native token | [Telegram](https://t.me/hugcommunity) [Bot](https://t.me/hugcommunity_bot) [X](https://x.com/communityhug) [GitHub](https://github.com/PurrFund/SC-Purr) [Gram News](https://gramnews.org/apps/hug) |  | 2024-10-09 |  |
+| 51 | Hug | The most kind Telegram native token | [Telegram](https://t.me/hugcommunity) [Bot](https://t.me/hugcommunity_bot) [X](https://x.com/communityhug) [GitHub](https://github.com/PurrFund/SC-Purr) [Gram News](https://gramnews.org/apps/hug) |  | 2024-10-09 |  |
 | 52 | VIP Club |  | [Telegram](https://t.me/VIPClub_news) [Bot](https://t.me/vipclubapp_bot) [X](https://x.com/BCBlueSkyVC) [Gram News](https://gramnews.org/apps/vip-club) |  | 2026-06-24 |  |
 | 53 | MemeCatsBot | 🐱🚀 Welcome to CATS Meme Coin! 🚀🐱 | [Telegram](https://t.me/memecatsnews) [Bot](https://t.me/imemecatsbot) [X](https://x.com/MemeCatsXYZ) [Site](https://bridge.tonbankcard.com) [Gram News](https://gramnews.org/apps/memecatsbot) |  | 2025-12-25 |  |
 | 54 | Bulls | 🥇#1 Prediction markets platform on tonchain ! | [Telegram](https://t.me/realbullscommunity) [Bot](https://t.me/bullsonton_bot) [X](https://x.com/bullsonton) [Gram News](https://gramnews.org/apps/bulls) |  | 2025-03-17 |  |
@@ -91,7 +91,7 @@
 | 76 | Host.tg | Host.tg — an app for organizing and participating in events via Telegram | [X](https://x.com/HostAppHQ) [Site](https://host.tg) [Gram News](https://gramnews.org/apps/host-tg) |  |  |  |
 | 77 | INFINITY | INFINITY is an evolving visual world inside Telegram. | [Telegram](https://t.me/infinity_bid) [Bot](https://t.me/infinity_bid_bot) [Site](https://infinity.bid/) |  |  |  |
 | 78 | MAROHA | 🩷 Pink MAROHA on TON | [Bot](https://t.me/maroha_hubbot) | mentioned by 3 TON channels in Q3 |  |  |
-| 79 | NEONEXA · Hub 💎 | Всё про NEONEXA в одном месте — спокойно и по делу, без давления. | [Bot](https://t.me/tonmason_newsbot) | mentioned by 4 TON channels in Q3 |  |  |
+| 79 | NEONEXA | Всё про NEONEXA в одном месте — спокойно и по делу, без давления. | [Bot](https://t.me/tonmason_newsbot) | mentioned by 4 TON channels in Q3 |  |  |
 | 80 | NFT Access Guardian Bot | NFT Access Guardian Bot: Verifies NFT ownership for exclusive chat access. | [Bot](https://t.me/access_ton_control_bot) |  |  |  |
 | 81 | NFTune |  | [Bot](https://t.me/nftunebot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 82 | Peace Da Love |  | [Site](https://peacedalove.com) [Gram News](https://gramnews.org/apps/peace-da-love) |  |  |  |
@@ -109,7 +109,7 @@
 | 94 | TonsOfFriends |  | [Bot](https://t.me/toftechbot) [X](https://x.com/TonsOfFriends) [Site](https://app.tonfriends.tech) [Gram News](https://gramnews.org/apps/tonsoffriends) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 95 | vnukiсh | 👋 Привет, Друг! Ты попал в систему награждения активности Внукича | [Bot](https://t.me/vnukich_bot) | mentioned by 5 TON channels in Q3 |  |  |
 | 96 | Wall Telegram | Wall Telegram is a social network with posts, graffiti, and music. | [Telegram](https://t.me/wall_people) [Bot](https://t.me/wall) [Site](https://wall.tg) [Gram News](https://gramnews.org/apps/wall-telegram) |  |  |  |
-| 97 | WAP 🐵 |  | [Telegram](https://t.me/h0nworld) [Bot](https://t.me/weareprime_bot) [Site](https://h0n.io) [Gram News](https://gramnews.org/apps/wap) |  |  |  |
+| 97 | WAP |  | [Telegram](https://t.me/h0nworld) [Bot](https://t.me/weareprime_bot) [Site](https://h0n.io) [Gram News](https://gramnews.org/apps/wap) |  |  |  |
 | 98 | Web3Events |  | [X](https://x.com/Web3Events_ai) |  |  |  |
 | 99 | WhoWhere |  | [Gram News](https://gramnews.org/apps/whowhere) |  |  |  |
 | 100 | Криптохалва |  | [Bot](https://t.me/beeton_kriptohalva_bot) [Gram News](https://gramnews.org/apps/cryptohalva) |  |  |  |

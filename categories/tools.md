@@ -9,12 +9,12 @@
 | # | Project | What it is | Links | Q3 signal | Last seen | On maps |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | Екатерина Мизулина | Директор Лиги безопасного интернета, член Общественной палаты России Сообщить об опасном… | [Telegram](https://t.me/ekaterina_mizulina) [Bot](https://t.me/ekaterinamizulina_bot) | mentioned by 8 TON channels in Q3 | 2026-10-01 |  |
-| 2 | Randomize Bot 🎲 (Рандомайзер) | Конкурсный бот телеграм. Инструкция - https://cutt.ly/21DTeSP | [Bot](https://t.me/randomized) | mentioned by 35 TON channels in Q3 |  |  |
-| 3 | RandomGodBot⚡️ (Рандомайзер) | Руководство - https://cutt.ly/zJI2tz9 Открытый код - https://cutt.ly/TW1BVwH Канал бота… | [Bot](https://t.me/random) | mentioned by 83 TON channels in Q3 |  |  |
-| 4 | RandomGodBot⚡️ (Рандомайзер) | Руководство - https://cutt.ly/zJI2tz9 Открытый код - https://cutt.ly/TW1BVwH Канал бота… | [Bot](https://t.me/randomgodbot) | mentioned by 51 TON channels in Q3 |  |  |
+| 2 | Randomize Bot | Конкурсный бот телеграм. Инструкция - https://cutt.ly/21DTeSP | [Bot](https://t.me/randomized) | mentioned by 35 TON channels in Q3 |  |  |
+| 3 | RandomGodBot | Руководство - https://cutt.ly/zJI2tz9 Открытый код - https://cutt.ly/TW1BVwH Канал бота… | [Bot](https://t.me/random) | mentioned by 83 TON channels in Q3 |  |  |
+| 4 | RandomGodBot | Руководство - https://cutt.ly/zJI2tz9 Открытый код - https://cutt.ly/TW1BVwH Канал бота… | [Bot](https://t.me/randomgodbot) | mentioned by 51 TON channels in Q3 |  |  |
 | 5 | XDAO | Create DAOs. Co-own assets, formalize agreements, manage budgets and decisions. Join the… | [Telegram](https://t.me/xdaoapp) [Bot](https://t.me/xdao_ton_bot) [Site](https://xdao.app) | mentioned by 10 TON channels in Q3 | 2026-09-25 |  |
-| 6 | Random Beast 🏆 | Розыгрыши в Telegram с проверкой подписки, защитой от ботов и без рекламы. News:… | [Bot](https://t.me/randombeast_bot) | mentioned by 50 TON channels in Q3 |  |  |
-| 7 | Best Random Bot 🎁 (Конкурсный бот для розыгрышей / Рандомайзер) | Канал и инструкция: @BestRandom_info Служба поддержки: @BestRandom_support_bot Владелец:… | [Bot](https://t.me/bestrandom_bot) | mentioned by 24 TON channels in Q3 |  |  |
+| 6 | Random Beast | Розыгрыши в Telegram с проверкой подписки, защитой от ботов и без рекламы. News:… | [Bot](https://t.me/randombeast_bot) | mentioned by 50 TON channels in Q3 |  |  |
+| 7 | Best Random Bot | Канал и инструкция: @BestRandom_info Служба поддержки: @BestRandom_support_bot Владелец:… | [Bot](https://t.me/bestrandom_bot) | mentioned by 24 TON channels in Q3 |  |  |
 | 8 | Stickers Bot | A bot for creating Telegram stickers and tracking their usage statistics. | [Bot](https://t.me/stickers) [Gram News](https://gramnews.org/apps/stickers) | 629K MAU |  |  |
 | 9 | Safeguard | The most extensive security and buy tracking platform on Telegram Powering @Trending… | [Bot](https://t.me/safeguard) | mentioned by 7 TON channels in Q3 |  |  |
 | 10 | PR GRAM | PR GRAM — a promotion platform for Telegram. Support chat: @prgram_help News:… | [Bot](https://t.me/gram_piarbot) | mentioned by 5 TON channels in Q3 |  |  |
@@ -73,7 +73,7 @@
 | 60 | Manage Ton Subdomain | Manage .ton subdomains directly in Telegram. | [Bot](https://t.me/ton_subdomain_bot) [Site](https://subdomain.earnigram.com) [Gram News](https://gramnews.org/apps/manage-ton-subdomain) |  |  |  |
 | 61 | RevYou | Collect client reviews in one place you control. Own your data, earn rewards, be your… | [Telegram](https://t.me/revyou_announcements) [Bot](https://t.me/revyou_bot) [X](https://x.com/revyouxyz) [Gram News](https://gramnews.org/apps/revyou) |  |  |  |
 | 62 | SplitFast | SplitFast — a mini app for splitting expenses in Telegram | [Bot](https://t.me/SplitFastBot) [Site](https://splitfast.io) [Gram News](https://gramnews.org/apps/splitfast) |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 63 | T - Card | First job search app on Telegram! | [Bot](https://t.me/tcard_job_bot) [Gram News](https://gramnews.org/apps/t-card) |  |  |  |
+| 63 | T Card | First job search app on Telegram! | [Bot](https://t.me/tcard_job_bot) [X](https://x.com/Tools_MiniApps) [Gram News](https://gramnews.org/apps/t-card) |  |  |  |
 | 64 | TEPE |  | [Telegram](https://t.me/sirex_io) [Bot](https://t.me/sirexio_bot) [X](https://x.com/ton_tepe) [Gram News](https://gramnews.org/apps/tepe) |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
 | 65 | TON Byte |  | [X](https://x.com/atomhq) [Site](https://tonbyte.com) [GitHub](https://github.com/tonbyte) [Gram News](https://gramnews.org/apps/ton-byte) |  | 2023-09-11 |  |
 | 66 | TON Grafana | Blockchain metrics visualization. | [Site](https://tonmon.xyz/) |  |  |  |

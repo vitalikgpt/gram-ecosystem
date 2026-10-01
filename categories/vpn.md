@@ -15,9 +15,9 @@
 | 5 | 1323vpn | Публикуем новости и обновления VPN'а | [Telegram](https://t.me/vpn1323) [Bot](https://t.me/vpn1323bot) [Gram News](https://gramnews.org/apps/1323vpn) | 283 views | 2026-09-24 |  |
 | 6 | Connecton VPN ✓ |  | [Telegram](https://t.me/connectonbot) [GitHub](https://github.com/Connecton) | 26 views | 2026-09-15 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
 | 7 | Need VPN & eSIM | Fast & Stable VPN & eSIM. Channel: @needapp Support: @need_supp_bot | [Bot](https://t.me/need) | mentioned by 16 TON channels in Q3 |  |  |
-| 8 | VPN Скруджа 🛜 | 📡 VPN Сервис для избранных 💬Помощь: @ScroogeHelp Канал: @ScroogeVPN | [Bot](https://t.me/scroogevpnrobot) | mentioned by 8 TON channels in Q3 |  |  |
-| 9 | Связь VPN⚡️ | Безопасный, Быстрый, Удобный и Лучший VPN на рынке с приятной ценой Наш канал:… | [Bot](https://t.me/svyazvpnrobot) | mentioned by 5 TON channels in Q3 |  |  |
-| 10 | WayLuckyVPN / Channel | @wayluckyvpn_bot - WayLuckyVPN bot @wayluckyvpnadmin - WayLuckyVPN Support account | [Telegram](https://t.me/wayluckyvpnchannel) [Bot](https://t.me/wayluckyvpn_bot) | mentioned by 3 TON channels in Q3 | 2026-07-09 |  |
+| 8 | VPN Скруджа | 📡 VPN Сервис для избранных 💬Помощь: @ScroogeHelp Канал: @ScroogeVPN | [Bot](https://t.me/scroogevpnrobot) | mentioned by 8 TON channels in Q3 |  |  |
+| 9 | Связь VPN | Безопасный, Быстрый, Удобный и Лучший VPN на рынке с приятной ценой Наш канал:… | [Bot](https://t.me/svyazvpnrobot) | mentioned by 5 TON channels in Q3 |  |  |
+| 10 | WayLuckyVPN | @wayluckyvpn_bot - WayLuckyVPN bot @wayluckyvpnadmin - WayLuckyVPN Support account | [Telegram](https://t.me/wayluckyvpnchannel) [Bot](https://t.me/wayluckyvpn_bot) | mentioned by 3 TON channels in Q3 | 2026-07-09 |  |
 
 ## Quiet
 

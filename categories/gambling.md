@@ -34,12 +34,12 @@
 | 24 | BetFury | BetFury is an established ecosystem with crypto-earning features, iGaming, and Sports… | [Telegram](https://t.me/betfuryofficialchannel) [Bot](https://t.me/Betfury_Bot) [X](https://x.com/betfury_gaming) [Site](https://betfury.com/?r=tonapp) | 555K views | 2026-10-01 |  |
 | 25 | WinGram |  | [Bot](https://t.me/wingram) | mentioned by 25 TON channels in Q3 |  |  |
 | 26 | Telegram Info | Новости о Telegram Чат и ответы на вопросы: @tginfochat Beta Info: @betainfo English… | [Telegram](https://t.me/tginfo) [Bot](https://t.me/infowritebot) | mentioned by 17 TON channels in Q3 | 2026-09-29 |  |
-| 27 | Fast Giveaways / Конкурсы / Розыгрыши | ⚡️ Удобный бот для конкурсов, лотерей и фаст кликов 🔕 Никакой рекламы и спама 📊… | [Bot](https://t.me/fastgiveawaysbot) | mentioned by 28 TON channels in Q3 |  |  |
+| 27 | Fast Giveaways | ⚡️ Удобный бот для конкурсов, лотерей и фаст кликов 🔕 Никакой рекламы и спама 📊… | [Bot](https://t.me/fastgiveawaysbot) | mentioned by 28 TON channels in Q3 |  |  |
 | 28 | ChainGame | Chain Game is a Web3-powered gaming platform offering a seamless and rewarding experience. | [Telegram](https://t.me/chaingameofficial) [Bot](https://t.me/chain_games_bot) [X](https://x.com/chaingamecrypto) [Site](https://chaingame.pro/) | 249K views | 2026-10-01 |  |
 | 29 | Raffles by The Daily TON | Your daily dose of TON news. | [Telegram](https://t.me/thedailyton) [Bot](https://t.me/the_daily_bot) [X](https://x.com/the_daily_ton) [Gram News](https://gramnews.org/apps/the_daily_bot) | 173K views | 2026-10-01 |  |
-| 30 | SPINARIUM 👑 | 🎰 12.000+ games from best providers with ~96.6% RTP ⚡ Fast crypto deposit 🪙 20 TOP… | [Telegram](https://t.me/spinariumcasino) [Site](https://spinarium.cc/daa302d99) | 154K views | 2026-10-01 |  |
-| 31 | WEISS.BET 🎰 | Welcome to WEISS.BET: 🏆 30 levels of loyalty program 💥 Daily and weekly cashbacks up to… | [Telegram](https://t.me/weissbet_official) [X](https://x.com/WEISSBET) [Site](https://weiss.bet/) | 141K views | 2026-10-01 |  |
-| 32 | StarNex / App 🚀 | Поддержка - @supgaming Канал - @starnexton Играть - @lottery_game_here | [Telegram](https://t.me/starnexton) [Bot](https://t.me/lot_tery_bot) | mentioned by 22 TON channels in Q3 | 2026-10-01 |  |
+| 30 | SPINARIUM | 🎰 12.000+ games from best providers with ~96.6% RTP ⚡ Fast crypto deposit 🪙 20 TOP… | [Telegram](https://t.me/spinariumcasino) [Site](https://spinarium.cc/daa302d99) | 154K views | 2026-10-01 |  |
+| 31 | WEISS.BET | Welcome to WEISS.BET: 🏆 30 levels of loyalty program 💥 Daily and weekly cashbacks up to… | [Telegram](https://t.me/weissbet_official) [X](https://x.com/WEISSBET) [Site](https://weiss.bet/) | 141K views | 2026-10-01 |  |
+| 32 | StarNex | Поддержка - @supgaming Канал - @starnexton Играть - @lottery_game_here | [Telegram](https://t.me/starnexton) [Bot](https://t.me/lot_tery_bot) | mentioned by 22 TON channels in Q3 | 2026-10-01 |  |
 | 33 | Rakebit Casino | Rakebit is a crypto casino and sportsbook that was launched in 2024. | [Telegram](https://t.me/RakeBit_Channel) [X](https://x.com/theRakebit) [Site](https://rake-tracker.com/d152b6adc) | 67K views | 2026-10-01 |  |
 | 34 | WELP » PLAY & WIN | 🎲 Бот для развлекательных игр с участием азартных кубиков от Telegram 🎯 Проект не… | [Bot](https://t.me/welp_casino) | mentioned by 15 TON channels in Q3 |  |  |
 | 35 | Crashino | Welcome to Crashino 🎰 Your Premier Licensed Crypto Casino Play 1,000’s of slots, live… | [Telegram](https://t.me/Crashino) [X](https://x.com/CrashinoPlay) [Site](https://www.crashino.com/) | 57K views | 2026-10-01 |  |
@@ -52,7 +52,7 @@
 | 42 | TonSlot | A fast and fun TON slot game bot on Telegram. | [Telegram](https://t.me/TonSlotOfficial) [Bot](https://t.me/TonSlotGameBot) | 2K views | 2026-07-03 |  |
 | 43 | Ninja Blaze | Immerse yourself in the exciting world of iGaming with Ninja Blaze! | [Telegram](https://t.me/NinjaBlazeApp) [X](https://x.com/NinjaBlazeApp) [Site](https://blaze.ninja) | 231 views | 2026-09-21 |  |
 | 44 | Soshka | You can bet on major sports with crypto: NFL, NBA, NHL, European Soccer, International… | [Telegram](https://t.me/soshka_channel) [Bot](https://t.me/BetOnSoshkaBot) [X](https://x.com/betOnSoshka) [Site](https://www.soshka.com) | 70 views | 2026-07-31 |  |
-| 45 | 1win 🎰 | 🔥 1win official bot. All features in tg: slots&betting + fast payouts! Get $500 bonus+70… | [Telegram](https://t.me/tonkeeper_news) [Bot](https://t.me/casino_1w_bot) [X](https://x.com/tonkeeper) [Site](https://tonkeeper.com/) [Gram News](https://gramnews.org/apps/1win) |  |  |  |
+| 45 | 1win | 🔥 1win official bot. All features in tg: slots&betting + fast payouts! Get $500 bonus+70… | [Telegram](https://t.me/tonkeeper_news) [Bot](https://t.me/casino_1w_bot) [X](https://x.com/tonkeeper) [Site](https://tonkeeper.com/) [Gram News](https://gramnews.org/apps/1win) |  |  |  |
 
 ## Quiet
 
@@ -74,7 +74,7 @@
 | 59 | Markets | First TON opinion market on Telegram. Test your instincts against real-world and farm… | [Telegram](https://t.me/tonymarketapp) [Bot](https://t.me/tonymarketsbot) [Gram News](https://gramnews.org/apps/markets) |  |  |  |
 | 60 | The BearDrop |  | [Telegram](https://t.me/thebeardrop) [Bot](https://t.me/thebeardropbot) [X](https://x.com/thebeardrop) [Gram News](https://gramnews.org/apps/the-beardrop) |  |  |  |
 | 61 | 1.GAME | 1.game is an innovative blockchain gaming platform that offers players a diverse range… | [Telegram](https://t.me/onegamenotice) [Site](https://1.game/) |  |  |  |
-| 62 | Arena: TON RPS ⚔️ | 🤜💥🤛 STEP INTO THE ARENA! | [Bot](https://t.me/ArenaMatchBot) [Site](https://rps-game-ruddy.vercel.app/) |  |  |  |
+| 62 | Arena: TON RPS | 🤜💥🤛 STEP INTO THE ARENA! | [Bot](https://t.me/ArenaMatchBot) [Site](https://rps-game-ruddy.vercel.app/) |  |  |  |
 | 63 | BC.GAME | BC.GAME – Your ultimate crypto casino! | [Telegram](https://t.me/bcgamewin) [X](https://x.com/bcgame) [Site](https://bc.game/) |  |  |  |
 | 64 | Betrunner | Licensed crypto Casino and Sportsbook, accessible via Telegram Mini App and Web. | [Telegram](https://t.me/betrunnerofficial) [X](https://x.com/betrunnercom) [Site](https://www.betrunner.com) |  |  |  |
 | 66 | Bitsler.com Casino | Established in 2015, Bitsler is a top destination for crypto gambling fans looking for a… | [X](https://x.com/Bitsler) [Site](https://www.bitsler.com/?c=8tg5g3mj2wa77sgz) |  |  |  |
@@ -87,10 +87,10 @@
 | 74 | Drops | Your legal dopamine supplier | [Bot](https://t.me/drops_pot_bot) | mentioned by 9 TON channels in Q3 |  |  |
 | 75 | DUROV Bet | Channel: @durov_betx Support: @durovbet_support | [Bot](https://t.me/durov_betbot) | mentioned by 6 TON channels in Q3 |  |  |
 | 76 | Fact Market App | Fact Market — prediction markets for Telegram communities. | [Bot](https://t.me/factmarket_bot) | mentioned by 4 TON channels in Q3 |  |  |
-| 77 | Flow  Prediction | Flow — маркет прогнозов на TON внутри Telegram. | [Bot](https://t.me/FlowOfMarketBot) |  |  |  |
+| 77 | Flow Prediction | Flow — маркет прогнозов на TON внутри Telegram. | [Bot](https://t.me/FlowOfMarketBot) |  |  |  |
 | 78 | Gift Club | Gift Club is a Web3 reward game where every action can unlock prizes. | [Bot](https://t.me/YourGiftClubBot) |  |  |  |
 | 79 | GMGN Bet | play with @gmgnbet | [Bot](https://t.me/gmgnbet_bot) | mentioned by 5 TON channels in Q3 |  |  |
-| 80 | Grams.bet ✌️ | Discover the world of Grams.bet Bot ✌️: 🎮 Explore 5000+ official games 💰 Play with… | [Bot](https://t.me/Gramss_bot) [Site](https://grams.bet/?tab=casino#signup) |  |  |  |
+| 80 | Grams.bet | Discover the world of Grams.bet Bot ✌️: 🎮 Explore 5000+ official games 💰 Play with… | [Bot](https://t.me/Gramss_bot) [Site](https://grams.bet/?tab=casino#signup) |  |  |  |
 | 81 | Grand Casino TON | Ton Guys Grand casino bot! | [Bot](https://t.me/tg_grand_casino_bot) |  |  |  |
 | 82 | GreenOrRed |  | [Telegram](https://t.me/web3_ton_game) [Bot](https://t.me/ton_lucky_game_bot) [Site](https://b3t.site/) [Gram News](https://gramnews.org/apps/greenorred) |  |  |  |
 | 83 | Grid Lottery | 💎 Grid Lottery is a fast-paced multiplayer Web3 game on The Open Network (TON)! | [Bot](https://t.me/GridLottery_bot) |  |  |  |
@@ -113,18 +113,18 @@
 | 100 | Panda loto | 💎 Official Panda Loto bot | [Bot](https://t.me/pandalotterybot) [X](https://x.com/loto_panda) [Gram News](https://gramnews.org/apps/panda-loto) |  |  |  |
 | 101 | Plane.gift | Dive into Plane.gift — the ultimate NFT Case platform powered by a transparent Provably… | [Telegram](https://t.me/planegiftNews) [Bot](https://t.me/planegift_bot) [X](https://x.com/planegift) |  |  |  |
 | 102 | Playgram |  | [X](https://x.com/Playgram_io) [Gram News](https://gramnews.org/apps/playgram-sxdjvg) |  |  |  |
-| 103 | Playgram Casino 🎰 | Playgram brings you the ultimate Telegram casino experience! | [X](https://x.com/Playgram_io) [Site](https://playgram.io) |  |  |  |
+| 103 | Playgram Casino | Playgram brings you the ultimate Telegram casino experience! | [X](https://x.com/Playgram_io) [Site](https://playgram.io) |  |  |  |
 | 104 | Poker 1337 |  | [Bot](https://t.me/poker1337bot) |  |  | [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
 | 105 | PokerFun | PokerFun brings the thrill of classic card games like Texas Hold'em, Yummy, and Truco… | [Bot](https://t.me/Pokerfunbot) |  |  |  |
-| 106 | Prophecy Pulse (Telegram)(https://t.me/prophecypulse_bot) |  | [Bot](https://t.me/prophecypulse_bot) [X](https://x.com/ProphecyPulse) |  |  |  |
+| 106 | Prophecy Pulse (https://t.me/prophecypulse_bot) |  | [Bot](https://t.me/prophecypulse_bot) [X](https://x.com/ProphecyPulse) |  |  |  |
 | 107 | Pulse Market | Pulse is built to offer a fully decentralized gaming experience on the TON blockchain,… | [Bot](https://t.me/Pulse_gamebot) |  |  |  |
 | 109 | Rocket Case | 🎁 Try your luck and win collectible Telegram Gifts right now! | [Telegram](https://t.me/RocketCaseNews) [Bot](https://t.me/RocketCaseBot) |  |  |  |
 | 110 | Ropsto | Ropsto is a blockchain-powered skill game that reimagines Rock-Paper-Scissors as a fun,… | [Telegram](https://t.me/ropsto) [Bot](https://t.me/ropstobot) [X](https://x.com/ropsto_TON) [Site](https://ropsto.fun) |  |  |  |
 | 111 | Russian Roulette | A new generation of online Russian Roulette where victory depends not only on risk, but… | [Telegram](https://t.me/ruroll_official) [Bot](https://t.me/ru_roll_bot) [Site](https://ruroll.com) |  |  |  |
 | 112 | SCROLL.BET | With over 6,000 casino games 🎰 and a wide range of sports betting options ⚽️🏀, including… | [Telegram](https://t.me/ScrollBetCassino) [Bot](https://t.me/scrollbetbot) [X](https://x.com/Scroll_Bet) [Site](https://www.scroll.bet) |  |  |  |
 | 113 | Spend-A-TON | You have a mission to free a developer, unchain him, and let him create beautiful things… | [Bot](https://t.me/spendaton_bot) [X](https://x.com/zjor) [GitHub](https://github.com/zjor/hello-tact) |  | 2023-10-30 |  |
-| 114 | Spica - Lottery 🎲 | Spica Lottery is a unique event powered by fully transparent smart contracts, ensuring a… | [X](https://x.com/spicafund) |  |  |  |
-| 115 | Spica Chance 🎰 | 🎉 Spin & Win with Spica! | [X](https://x.com/spicafund) |  |  |  |
+| 114 | Spica | Spica Lottery is a unique event powered by fully transparent smart contracts, ensuring a… | [X](https://x.com/spicafund) |  |  |  |
+| 115 | Spica Chance | 🎉 Spin & Win with Spica! | [X](https://x.com/spicafund) |  |  |  |
 | 118 | TGCasino |  | [X](https://x.com/TGCasino_) [Site](https://www.tg.casino) [Gram News](https://gramnews.org/apps/tgcasino) |  |  |  |
 | 119 | TGPoker | 🃏Experience secure, decentralized Texas Hold'em poker with anonymous gameplay and… | [Bot](https://t.me/TGPokerOfficialBot) [X](https://x.com/TGPokerOfficial) |  |  |  |
 | 120 | The Old Castle Defense | The Old Castle Defense is a play-to-earn (P2E) game, where players fight battles and… | [Site](https://theoldcastle.xyz/) |  |  |  |
@@ -137,7 +137,7 @@
 | 128 | Ton Vegas | With our affiliate program, you also earn 5% of every jackpot won by people who join the… | [X](https://x.com/TonStars_) |  |  |  |
 | 129 | TONbet Sportsbook | TONbet Sportsbook Bot is a community bankrolled sportsbook in a Telegram bot. | [Site](https://tonbet.bet) |  |  |  |
 | 130 | TonCasino | Top 1 casino for TON network. | [Site](https://toncasino.io/) |  |  |  |
-| 131 | TONcasinos 🎰 | TONcasinos.com is your one-stop guide for finding the best TON betting sites. | [Bot](https://t.me/mytoncasinos_bot) [Site](https://toncasinos.com) |  |  |  |
+| 131 | TONcasinos | TONcasinos.com is your one-stop guide for finding the best TON betting sites. | [Bot](https://t.me/mytoncasinos_bot) [Site](https://toncasinos.com) |  |  |  |
 | 132 | Toncast | Toncast is a Telegram Mini App prediction market where you bet TON on whether Telegram… | [X](https://x.com/toncastapp) |  |  |  |
 | 134 | Tonomy | First decentralized prediction market on TON. @TonomyNews Under development 🚨 | [Bot](https://t.me/tonomypredictbot) |  |  |  |
 | 135 | TonTogether |  | [X](https://x.com/TogetherTON) |  |  |  |
@@ -163,9 +163,9 @@
 | 155 | MAGIC88 | Magic88 – Your Ultimate Crypto Casino Experience! | [Telegram](https://t.me/magic88official) [Site](https://magic88.win/) |  | 2025-12-29 |  |
 | 156 | Ultimate Poker | Built for true poker lovers by a team of enthusiasts, Ultimate Poker combines the thrill… | [Telegram](https://t.me/ultimatepoker_io) [X](https://x.com/ultimatepokerio) |  | 2025-12-29 |  |
 | 157 | YezBet | An all-in-one next-gen telegram Web3 platform catering to betting on sports in real-time. | [Telegram](https://t.me/yezbet) [X](https://x.com/yezbet) [Site](https://yez.bet) |  | 2025-06-25 |  |
-| 158 | CARDIFY 🎰 | 🎰 #1 Official Telegram Casino 🎲 3000+ slots and live-tables 📃 Only licensed games 📈… | [Telegram](https://t.me/cardify_en) [X](https://x.com/cardify_ton) [Site](https://playcardify.com/d8f47f12f) |  | 2025-05-28 |  |
-| 159 | Mega.bet ⚡️ | 🇬🇧 Mega.bet – Crypto Games & Sports Betting ! | [Telegram](https://t.me/megabeteng) [X](https://x.com/megabetcasino) [Site](https://mega.bet/casino#signup) |  | 2025-05-13 |  |
-| 160 | 💎Ton Texas CowBoy💎 | 💎 Try New and Exciting Texas Holdem Casual Game!! | [Telegram](https://t.me/Ton_TexasCowboy) |  | 2025-05-07 |  |
+| 158 | CARDIFY | 🎰 #1 Official Telegram Casino 🎲 3000+ slots and live-tables 📃 Only licensed games 📈… | [Telegram](https://t.me/cardify_en) [X](https://x.com/cardify_ton) [Site](https://playcardify.com/d8f47f12f) |  | 2025-05-28 |  |
+| 159 | Mega.bet | 🇬🇧 Mega.bet – Crypto Games & Sports Betting ! | [Telegram](https://t.me/megabeteng) [X](https://x.com/megabetcasino) [Site](https://mega.bet/casino#signup) |  | 2025-05-13 |  |
+| 160 | Ton Texas CowBoy | 💎 Try New and Exciting Texas Holdem Casual Game!! | [Telegram](https://t.me/Ton_TexasCowboy) |  | 2025-05-07 |  |
 | 161 | AlanoGames | AlanoGames is a decentralized Web3 gaming project that builds a collection of fair and… | [Telegram](https://t.me/AlanoGames_Channel) [Bot](https://t.me/AlanoGames_Bot) [X](https://x.com/AlanoGames) [Site](https://www.alano.games/) |  | 2025-04-29 |  |
 | 162 | ULURU BET | Join ULURU BET a web3 #Gamblefi Casino & Sportbook App! | [Telegram](https://t.me/ulurubet) |  | 2025-04-11 |  |
 | 163 | Slot Game |  | [Telegram](https://t.me/slotgame_ton) [X](https://x.com/slotgame_ton) [Site](https://slotgame.buzz) [Gram News](https://gramnews.org/apps/slot-game) |  | 2025-04-10 |  |

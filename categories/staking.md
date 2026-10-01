@@ -38,7 +38,7 @@
 | 23 | G9 Token |  | [Bot](https://t.me/g9tokenbot) [Gram News](https://gramnews.org/apps/g9-token) |  |  |  |
 | 24 | YouHold | YouHold is SuperFI app — wallet for earnings, investments and more | [Telegram](https://t.me/youhold) [Bot](https://t.me/youhold_bot) [X](https://x.com/youhold_ton) [Gram News](https://gramnews.org/apps/youhold) |  | 2026-03-10 |  |
 | 25 | NotStakers |  | [Bot](https://t.me/notstacker_bot) [Gram News](https://gramnews.org/apps/notstakers) |  | 2026-06-08 |  |
-| 26 | Bimcoin - TON DeFi Protocol. |  | [Telegram](https://t.me/Bimlight_Group) [Bot](https://t.me/BimlightBot) [X](https://x.com/Bim_Light) [Site](https://bimlight.org) [Gram News](https://gramnews.org/apps/bimcoin-ton-defi-protocol) |  |  |  |
+| 26 | Bimcoin |  | [Telegram](https://t.me/Bimlight_Group) [Bot](https://t.me/BimlightBot) [X](https://x.com/Bim_Light) [Site](https://bimlight.org) [Gram News](https://gramnews.org/apps/bimcoin-ton-defi-protocol) |  |  |  |
 | 27 | Fanzee |  | [Site](https://app.fanz.ee/staking) [GitHub](https://github.com/viz-cx/viz-gateway) [Gram News](https://gramnews.org/apps/fanzee) |  | 2026-08-30 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) |
 | 28 | Farmix | Leverage yield farming based on TON blockchain | [X](https://x.com/TonFarmix) |  |  |  |
 | 30 | Palette Finance | Earn it without thinking. | [Bot](https://t.me/palettefinancebot) |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
