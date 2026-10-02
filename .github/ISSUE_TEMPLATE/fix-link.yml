@@ -1,0 +1,32 @@
+name: Wrong link
+description: A project points to someone else's account, a dead site or an old channel
+title: "Link: "
+labels: [link]
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      placeholder: STON.fi
+    validations:
+      required: true
+  - type: input
+    id: wrong
+    attributes:
+      label: Wrong link
+      placeholder: https://x.com/...
+    validations:
+      required: true
+  - type: input
+    id: right
+    attributes:
+      label: Right link
+      description: Leave empty if the project simply has none.
+      placeholder: https://x.com/...
+  - type: input
+    id: source
+    attributes:
+      label: How do you know
+      description: A page that shows it, such as the project's site, its channel or a post.
+    validations:
+      required: true
