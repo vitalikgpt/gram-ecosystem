@@ -252,7 +252,9 @@ def build():
         out.append(f"| [{c['label']}](categories/{c['key']}.md) | {len(act)} | {len(items)} | {', '.join(plink(r) for r in pick[:4])} | [table](data/by-category/{c['key']}.csv) |")
     # what the ecosystem is made of: the nine largest categories and the rest as one slice
     sizes = sorted(((label[c["key"]], len(by.get(c["key"], []))) for c in cats), key=lambda kv: -kv[1])
-    out += ["", "```mermaid", "pie showData", '  title What the catalogue is made of']
+    pal = ["#2f81f7", "#3fb950", "#d29922", "#db6d28", "#f85149", "#a371f7", "#db61a2", "#39c5cf", "#8b949e", "#6e7681"]
+    out += ["", "```mermaid", '%%{init: {"themeVariables": {' + ", ".join(f'"pie{i + 1}": "{c}"' for i, c in enumerate(pal))
+            + ', "pieStrokeColor": "#0d1117", "pieOuterStrokeWidth": "0px"}}}%%', "pie showData", '  title What the catalogue is made of']
     out += [f'  "{n}" : {v}' for n, v in sizes[:9]]
     out += [f'  "Other {len(sizes) - 9} categories" : {sum(v for _, v in sizes[9:])}', "```"]
     top = sorted((r for r in rows if r["status"] == "active" and r["category"] not in ("tokens", "nftcaps")),

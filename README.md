@@ -57,6 +57,7 @@ Each category has its own page with every project, active ones first.
 | [Accelerators](categories/accelerators.md) | 1 | 13 | <img src="assets/icons/ton-accelerator.webp" width="20" height="20" alt=""> [TON Accelerator](https://t.me/accelerator_ton), <img src="assets/icons/gaming-tg.webp" width="20" height="20" alt=""> [Gaming.tg](https://t.me/tggamingaccelerator), Telegram Growth Hub, TON Nest | [table](data/by-category/accelerators.csv) |
 
 ```mermaid
+%%{init: {"themeVariables": {"pie1": "#2f81f7", "pie2": "#3fb950", "pie3": "#d29922", "pie4": "#db6d28", "pie5": "#f85149", "pie6": "#a371f7", "pie7": "#db61a2", "pie8": "#39c5cf", "pie9": "#8b949e", "pie10": "#6e7681", "pieStrokeColor": "#0d1117", "pieOuterStrokeWidth": "0px"}}}%%
 pie showData
   title What the catalogue is made of
   "Games" : 1113
