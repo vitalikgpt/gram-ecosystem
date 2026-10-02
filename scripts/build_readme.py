@@ -104,6 +104,19 @@ def links(r):
 
 
 
+SUBS = {
+    "games": [("casual", "Casual"), ("puzzle", "Puzzle and quiz"), ("strategy", "Strategy and tycoon"), ("rpg", "RPG and adventure"),
+              ("card", "Card and board"), ("sports", "Sports and racing"), ("pvp", "PvP and battles"), ("other", "Other games")],
+    "farming": [("tap", "Tap-to-earn"), ("mining", "Mining"), ("tasks", "Tasks and quests"), ("move", "Move-to-earn"), ("other", "Other")],
+    "gambling": [("cases", "Cases and drops"), ("crash", "Crash, roulette and dice"), ("slots", "Slots and casino lobbies"),
+                 ("betting", "Betting and predictions"), ("lottery", "Lotteries and jackpots"), ("other", "Other")],
+    "nftmarkets": [("gifts", "Gift markets"), ("usernames", "Usernames and numbers"), ("stickers", "Stickers and emoji"),
+                   ("nft", "NFT marketplaces"), ("other", "Other")],
+    "tools": [("giveaways", "Giveaways and contests"), ("moderation", "Moderation and access"), ("media", "Media tools"),
+              ("utilities", "Utilities"), ("other", "Other")],
+}
+
+
 def table(items, prefix=""):
     out = ["| # | Project | What it is | Links | Launched | Peak MAU | Verified |",
            "| ---: | --- | --- | --- | --- | ---: | --- |"]
@@ -465,7 +478,7 @@ def build():
         "",
         "<details><summary><b>Columns of projects.csv</b></summary>",
         "",
-        "`category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `website_down` (the date a check found the site gone), "
+        "`category`, `subcategory` (for games, farming, casino, NFT & gifts and tools), `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `website_down` (the date a check found the site gone), "
         "`telegram_id` and `bot_id` (Telegram's numeric ids, which survive a rename), `verified` and `verified_since` "
         "(the badge on t.me, and the first Web Archive copy of its page that shows it; empty when the archive does not date it), "
         "`peak_mau` and `peak_mau_date` (the highest monthly users on the FindMini chart, which starts in July 2024; "
@@ -548,7 +561,7 @@ def build():
     pages["README.md"] = "\n".join(out)
     pages["datapackage.json"] = datapackage()
     # per-category slices: GitHub shows a CSV as a searchable table only while it is small, and projects.csv is not
-    SLICE = ["rank", "name", "status", "description", "telegram", "bot", "x", "website", "launched", "peak_mau", "verified_since"]
+    SLICE = ["rank", "name", "subcategory", "status", "description", "telegram", "bot", "x", "website", "launched", "peak_mau", "verified_since"]
     for c in cats:
         buf = io.StringIO()
         w = csv.writer(buf, lineterminator="\n")
@@ -579,7 +592,14 @@ def build():
             p += ["```mermaid", '%%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%',
                   "xychart-beta", '  title "Launched per year"', "  x-axis [" + ", ".join(f'\"{y}\"' for y in ys) + "]",
                   "  bar [" + ", ".join(str(years.get(y, 0)) for y in ys) + "]", "```", ""]
-        if act:
+        if act and c["key"] in SUBS:   # a long list reads by kind: one table per subcategory
+            p += ["## Active", "", "Jump to " + ", ".join(f"[{lab}](#{lab.lower().replace(' and ', '-and-').replace(', ', '-').replace(' ', '-')})"
+                                                           for k, lab in SUBS[c["key"]] if any(r.get("subcategory") == k for r in act)) + ".", ""]
+            for k, lab in SUBS[c["key"]]:
+                part = [r for r in act if r.get("subcategory") == k]
+                if part:
+                    p += [f"### {lab}", ""] + table(part, "../") + [""]
+        elif act:
             p += ["## Active", ""] + table(act, "../") + [""]
         for st, title in (("quiet", "Quiet"), ("closed", "Closed")):
             part = [r for r in items if r["status"] == st]

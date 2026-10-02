@@ -14,54 +14,78 @@ xychart-beta
 
 ## Active
 
+Jump to [Gift markets](#gift-markets), [Usernames and numbers](#usernames-and-numbers), [Stickers and emoji](#stickers-and-emoji), [NFT marketplaces](#nft-marketplaces), [Other](#other).
+
+### Gift markets
+
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 1 | **Getgems** | getgems.io — the Home of NFT collections on The Open Network - an ultra-fast, secure, and truly decentralized blockchain network | [Telegram](https://t.me/getgems) [X](https://x.com/getgemsdotio) [Site](https://getgems.io/) [GitHub](https://github.com/getgems-io) [Gram News](https://gramnews.org/apps/getgems-mtmajh) | 2022-02-08 |  | since 2022-05 |
 | 2 | **Tonnel** | P2P TON lending service against Telegram gifts | [Telegram](https://t.me/tonnel_en) [Bot](https://t.me/tonnel_network_bot) [X](https://x.com/tonnel_network) [Site](https://Tonnel.network) [GitHub](https://github.com/Tonnel-Network/core) [Gram News](https://gramnews.org/apps/tonnel-relayer-bot) | 2022-10-25 |  | since 2025-03 |
 | 3 | **@MRKT** | A Telegram marketplace for digital assets — gifts, stickers and more, with floor-price purchases and a shopping cart | [Bot](https://t.me/mrkt) [Gram News](https://gramnews.org/apps/mrkt) | 2023-04-14 |  | yes |
-| 4 | **Marketapp** | Advanced Solution for NFT traders on TON | [Bot](https://t.me/nfttonificatorbot) [Site](https://marketapp.ws) [Gram News](https://gramnews.org/apps/marketapp) | 2023-02-26 | 24K |  |
 | 5 | **@Portals** | Portals Market is a marketplace for trading gifts and items | [Telegram](https://t.me/portals_community) [Bot](https://t.me/portals) [X](https://x.com/portalsmarket) [Gram News](https://gramnews.org/apps/portals-market) | 2023-04-14 |  | since 2025-08 |
 | 6 | **Gift Satellite** | Aggregator of Telegram gift markets with notifications for gift traders. | [Telegram](https://t.me/giftsatellite) [Bot](https://t.me/gift_satellite_bot) | 2025-05-02 | 22K |  |
-| 7 | **webdom** | The first and most functional marketplace for TON DNS domains and usernames on Tolk | [Bot](https://t.me/webdom_tgbot) [Site](https://webdom.market) | 2026-05-30 |  |  |
 | 8 | **Telegifts** | Telegifts is the first full-featured Telegram Gifts explorer for iOS / Android / TMA | [Telegram](https://t.me/telegiftsapp) [Bot](https://t.me/telegiftsappbot) [X](https://x.com/telegifts) [Site](https://telegifts.app/download) | 2025-09-24 |  |  |
-| 9 | **Pixel Market** | Marketplace app linked to the Pixel project, with a support channel. | [Telegram](https://t.me/pixelmarket_fam) [Bot](https://t.me/pixelmarket_support) [X](https://x.com/PixelMarketX) [Site](https://notpixel.org) [Gram News](https://gramnews.org/apps/pixel-market) | 2025-08-07 |  |  |
-| 10 | **Laffka NFT** | Marketplace bot for NFT stickers with on-chain and off-chain trading and NFT loans. | [Telegram](https://t.me/laffkanft) [Bot](https://t.me/laffkastickerbot) | 2025-06-11 |  |  |
 | 11 | **Get Gifts** | Channel with news, changelog and statistics on limited Telegram gifts. | [Telegram](https://t.me/giftchanges) [Site](https://telegram-gifts.ru) | 2024-12-18 |  |  |
 | 12 | **Swift Gifts** | Telegram Gifts Aggregator | [Telegram](https://t.me/swiftgifts_news) [Bot](https://t.me/giftbot) [X](https://x.com/swiftgifts_fun) [Site](https://web.swiftgifts.tg/) | 2025-05-22 |  |  |
 | 13 | **@Thermos** | Gift & Stickers Aggregator by team | [Telegram](https://t.me/thermos_news) [Bot](https://t.me/thermos) [Gram News](https://gramnews.org/apps/thermos) | 2024-09-20 |  |  |
-| 14 | **BeSigned** | Telegram project with a community chat and support bot. | [Telegram](https://t.me/besigned) [Bot](https://t.me/besignedbot) | 2026-04-17 |  |  |
-| 15 | **Palace Market** | Marketplace bot for trading NFTs inside Telegram, with support and community chats. | [Telegram](https://t.me/palaceproject) [Bot](https://t.me/palacenftbot) [Gram News](https://gramnews.org/apps/palacenftbot) | 2024-07-08 | 273K |  |
-| 16 | **@Tags Bot** | A bot for buying and selling NFT and non-NFT tags | [Telegram](https://t.me/tagged) [Bot](https://t.me/tags) [Site](https://tagsbot.netlify.app) [Gram News](https://gramnews.org/apps/tags-bot) | 2026-01-29 |  |  |
 | 17 | **Подарки от Скруджа** | Russian-language channel with gift news and giveaways, plus a bot. | [Telegram](https://t.me/pepes_gold) [Bot](https://t.me/garantscroogebot) | 2022-08-31 |  |  |
 | 18 | **EDGE GIFT** | Telegram gift game bot with a gift relayer, support bot and channel. | [Telegram](https://t.me/edge_gift) [Bot](https://t.me/edge_gift_bot) | 2025-09-15 | 101K |  |
-| 19 | **Rocket-Number** | Telegram bot for buying and selling anonymous numbers. | [Telegram](https://t.me/rockettg) [Bot](https://t.me/rocketnumberbot) | 2024-04-26 |  |  |
-| 20 | **Goodies** |  | [Telegram](https://t.me/goodies) [Bot](https://t.me/getgoodies_bot) [X](https://x.com/goodies_tg) | 2025-06-15 | 658K |  |
 | 21 | **Portals Market** | Open the portal. Trade your gifts | [Bot](https://t.me/portals_market_bot) | 2025-06-09 |  | yes |
 | 22 | **Gift Go** | A Telegram mini app for selling gift stickers with an authentication error page on open | [Telegram](https://t.me/gift_board) [Bot](https://t.me/giftgobot) [Gram News](https://gramnews.org/apps/gift-go) | 2025-06-02 |  |  |
 | 23 | **NFT Afrom** | Channel for auctions, giveaways and news, with a bot for buying Telegram Stars cheaply. | [Telegram](https://t.me/nftafrom) [Bot](https://t.me/afromstarsbot) | 2025-02-04 |  |  |
 | 24 | **bandabot** | Telegram gift bot with a news channel and support contact. | [Telegram](https://t.me/bandabotchannel) [Bot](https://t.me/bandagiftbot) | 2025-09-07 |  |  |
 | 25 | **Paradox Gifts** | Russian-language giveaway channel for Telegram gifts and Stars with a chat and bot. | [Telegram](https://t.me/giftsparadox) [Bot](https://t.me/freegns_bot) | 2025-10-15 |  |  |
-| 26 | **Getgems NFT RU** | Russian channel of Getgems, the NFT marketplace on TON. | [Telegram](https://t.me/getgemsrus) [Bot](https://t.me/nfton_bot) | 2022-02-08 |  | since 2022-09 |
-| 27 | **DegenPhone** | Anonymous NFT phone numbers sold via a Telegram mini app | [Telegram](https://t.me/degenphone) [Bot](https://t.me/degenphonetonbot) [X](https://x.com/degenphone) [Site](https://degenphone.xyz) | 2025-06-11 | 41K |  |
-| 28 | **Diamond Bazar** | NFT marketplace on TON described as the first black NFT market. | [Telegram](https://t.me/bazaarclubs) | 2024-03-08 |  |  |
-| 29 | **T2T** | Telegram marketplace bot with a news channel and help bot. | [Telegram](https://t.me/t2t_news) [Bot](https://t.me/t2t_bobot) | 2026-07-22 |  |  |
-| 30 | **TonTake NFT** | A friendly, charitable and entertainment company whose members receive TON and TAKE daily | [Telegram](https://t.me/TonTake) [Bot](https://t.me/TonTakeChatbot) [Site](https://getgems.io/user/tontakewallet#collections) | 2022-05-10 |  |  |
 | 31 | **GiftStarsin** |  | [Bot](https://t.me/giftstarsin) | 2026-02-07 |  |  |
 | 32 | **Getgems: Buy and Sell Gifts** | Trade Telegram Gifts, Numbers and Usernames | [Bot](https://t.me/getgemsnftbot) | 2022-05-27 | 831K | since 2025-09 |
-| 33 | **GDOMAINS** | Service for registering, renting and managing .tg domains in Telegram. | [Telegram](https://t.me/regtg) [Bot](https://t.me/tgdomains_bot) | 2025-11-05 |  |  |
-| 34 | **Meebits** | Pixel NFTs, daily income and free Level 1–5 NFTs through invitations. Explore Meebits | [Bot](https://t.me/meebitsappbot) | 2026-09-21 |  |  |
 | 35 | **REDOG** | Gift news channel. REDO Community. Private Club: OTC: Founder: Co | [Telegram](https://t.me/redogclub) [Bot](https://t.me/redogclubbot) | 2023-11-14 |  |  |
-| 36 | **NFT от frina** | Channel for NFT giveaways and auctions, with Stars and VPN bots. | [Telegram](https://t.me/nft_frina) [Bot](https://t.me/starsfrina_bot) | 2025-08-29 |  |  |
-| 37 | **Gates Market** | Your digital home for managing valuable assets | [Telegram](https://t.me/gates_market) [Bot](https://t.me/gates_market_bot) | 2025-03-30 |  |  |
-| 38 | **Sticker Pack** | The first unique and tokenized stickers on Telegram | [Telegram](https://t.me/sticker_community) [Bot](https://t.me/sticker_bot) | 2024-08-11 |  |  |
 | 39 | **Игры Патрика** | Telegram bot for winning NFT gifts, with a channel, chat and support. | [Telegram](https://t.me/patrickgames_news) [Bot](https://t.me/patrickgamesbot) | 2025-12-30 | 72K |  |
-| 40 | **GAMES** | game name: one for all games, an NFT in your wallet. Forever, from 1 GRAM | [Bot](https://t.me/games) | 2016-03-04 |  |  |
-| 41 | **FomoLiquid v3.0** | Liquidity pools, wallet, and games where you can win gifts and cryptocurrency | [Telegram](https://t.me/fomoliquid) [Bot](https://t.me/fomoliquidbot) | 2026-09-10 |  |  |
-| 42 | **Tonnel Ticket** | Ticket sale channel of Tonnel | [Telegram](https://t.me/tonnelticket) | 2025-02-28 |  |  |
 | 43 | **AxisCat** | Marketplace for Telegram gifts | [Telegram](https://t.me/axiscat) | 2025-05-20 |  |  |
+
+### Usernames and numbers
+
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 7 | **webdom** | The first and most functional marketplace for TON DNS domains and usernames on Tolk | [Bot](https://t.me/webdom_tgbot) [Site](https://webdom.market) | 2026-05-30 |  |  |
+| 19 | **Rocket-Number** | Telegram bot for buying and selling anonymous numbers. | [Telegram](https://t.me/rockettg) [Bot](https://t.me/rocketnumberbot) | 2024-04-26 |  |  |
+| 27 | **DegenPhone** | Anonymous NFT phone numbers sold via a Telegram mini app | [Telegram](https://t.me/degenphone) [Bot](https://t.me/degenphonetonbot) [X](https://x.com/degenphone) [Site](https://degenphone.xyz) | 2025-06-11 | 41K |  |
+| 33 | **GDOMAINS** | Service for registering, renting and managing .tg domains in Telegram. | [Telegram](https://t.me/regtg) [Bot](https://t.me/tgdomains_bot) | 2025-11-05 |  |  |
+
+### Stickers and emoji
+
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 10 | **Laffka NFT** | Marketplace bot for NFT stickers with on-chain and off-chain trading and NFT loans. | [Telegram](https://t.me/laffkanft) [Bot](https://t.me/laffkastickerbot) | 2025-06-11 |  |  |
+| 38 | **Sticker Pack** | The first unique and tokenized stickers on Telegram | [Telegram](https://t.me/sticker_community) [Bot](https://t.me/sticker_bot) | 2024-08-11 |  |  |
+
+### NFT marketplaces
+
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 1 | **Getgems** | getgems.io — the Home of NFT collections on The Open Network - an ultra-fast, secure, and truly decentralized blockchain network | [Telegram](https://t.me/getgems) [X](https://x.com/getgemsdotio) [Site](https://getgems.io/) [GitHub](https://github.com/getgems-io) [Gram News](https://gramnews.org/apps/getgems-mtmajh) | 2022-02-08 |  | since 2022-05 |
+| 4 | **Marketapp** | Advanced Solution for NFT traders on TON | [Bot](https://t.me/nfttonificatorbot) [Site](https://marketapp.ws) [Gram News](https://gramnews.org/apps/marketapp) | 2023-02-26 | 24K |  |
+| 9 | **Pixel Market** | Marketplace app linked to the Pixel project, with a support channel. | [Telegram](https://t.me/pixelmarket_fam) [Bot](https://t.me/pixelmarket_support) [X](https://x.com/PixelMarketX) [Site](https://notpixel.org) [Gram News](https://gramnews.org/apps/pixel-market) | 2025-08-07 |  |  |
+| 15 | **Palace Market** | Marketplace bot for trading NFTs inside Telegram, with support and community chats. | [Telegram](https://t.me/palaceproject) [Bot](https://t.me/palacenftbot) [Gram News](https://gramnews.org/apps/palacenftbot) | 2024-07-08 | 273K |  |
+| 26 | **Getgems NFT RU** | Russian channel of Getgems, the NFT marketplace on TON. | [Telegram](https://t.me/getgemsrus) [Bot](https://t.me/nfton_bot) | 2022-02-08 |  | since 2022-09 |
+| 28 | **Diamond Bazar** | NFT marketplace on TON described as the first black NFT market. | [Telegram](https://t.me/bazaarclubs) | 2024-03-08 |  |  |
+| 34 | **Meebits** | Pixel NFTs, daily income and free Level 1–5 NFTs through invitations. Explore Meebits | [Bot](https://t.me/meebitsappbot) | 2026-09-21 |  |  |
+| 36 | **NFT от frina** | Channel for NFT giveaways and auctions, with Stars and VPN bots. | [Telegram](https://t.me/nft_frina) [Bot](https://t.me/starsfrina_bot) | 2025-08-29 |  |  |
+| 40 | **GAMES** | game name: one for all games, an NFT in your wallet. Forever, from 1 GRAM | [Bot](https://t.me/games) | 2016-03-04 |  |  |
 | 44 | **xRare** | NFT marketplace with no royalties and low fees | [Telegram](https://t.me/xrareclub) | 2024-03-25 |  |  |
 | 45 | **StarAI** | The world’s first AI multimodal asset Marketplace | [Telegram](https://t.me/StarAI_Channel) [Bot](https://t.me/thestaraibot) [X](https://x.com/The_StarAI) [Site](https://starai.pro/) [Gram News](https://gramnews.org/apps/starai) | 2024-08-01 |  |  |
 | 46 | **TRIBE marketplace** | WEB3 producer for content creators tribeton.io | [Telegram](https://t.me/tribe_ton) [Bot](https://t.me/Tribeton_bot) [X](https://x.com/tribeton) [Site](https://tribeton.io) [Gram News](https://gramnews.org/apps/tribe-marketplace) | 2023-12-05 |  |  |
+
+### Other
+
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 14 | **BeSigned** | Telegram project with a community chat and support bot. | [Telegram](https://t.me/besigned) [Bot](https://t.me/besignedbot) | 2026-04-17 |  |  |
+| 16 | **@Tags Bot** | A bot for buying and selling NFT and non-NFT tags | [Telegram](https://t.me/tagged) [Bot](https://t.me/tags) [Site](https://tagsbot.netlify.app) [Gram News](https://gramnews.org/apps/tags-bot) | 2026-01-29 |  |  |
+| 20 | **Goodies** |  | [Telegram](https://t.me/goodies) [Bot](https://t.me/getgoodies_bot) [X](https://x.com/goodies_tg) | 2025-06-15 | 658K |  |
+| 29 | **T2T** | Telegram marketplace bot with a news channel and help bot. | [Telegram](https://t.me/t2t_news) [Bot](https://t.me/t2t_bobot) | 2026-07-22 |  |  |
+| 30 | **TonTake NFT** | A friendly, charitable and entertainment company whose members receive TON and TAKE daily | [Telegram](https://t.me/TonTake) [Bot](https://t.me/TonTakeChatbot) [Site](https://getgems.io/user/tontakewallet#collections) | 2022-05-10 |  |  |
+| 37 | **Gates Market** | Your digital home for managing valuable assets | [Telegram](https://t.me/gates_market) [Bot](https://t.me/gates_market_bot) | 2025-03-30 |  |  |
+| 41 | **FomoLiquid v3.0** | Liquidity pools, wallet, and games where you can win gifts and cryptocurrency | [Telegram](https://t.me/fomoliquid) [Bot](https://t.me/fomoliquidbot) | 2026-09-10 |  |  |
+| 42 | **Tonnel Ticket** | Ticket sale channel of Tonnel | [Telegram](https://t.me/tonnelticket) | 2025-02-28 |  |  |
 
 <details><summary><b>Quiet: 88</b></summary>
 

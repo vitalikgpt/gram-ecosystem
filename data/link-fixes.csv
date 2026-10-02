@@ -2233,4 +2233,5 @@ date,slug,name,field,action,old,new,evidence
 2026-10-02,ton-ssea-hub,TON SSEA Hub,x,replace,,https://x.com/TONSSEA,"@tonsseahub, the project's channel, linked it in 22 posts, 2025 (own channel, post corpus)"
 2026-10-02,cocoon,Cocoon,website,replace,https://cocoon.doge.tg,https://cocoon.org,cocoon.org is the official site: it links t.me/cocoon and github.com/TelegramMessenger/cocoon; cocoon.doge.tg is a third-party explorer (by hand)
 2026-10-02,cocoon,Cocoon,github,replace,,https://github.com/TelegramMessenger/cocoon,linked from cocoon.org (by hand)
+2026-10-02,ton-console,TonAPI,x,remove,https://x.com/Grokton,,"@Grokton came with a Grok token bot (@Grokholders_bot, removed earlier) and no longer exists on X (by hand)"
 2026-10-02,coincodex,CoinCodex,telegram,remove,https://t.me/toncoin,,"t.me/toncoin is the TON community channel, not CoinCodex (by hand)"

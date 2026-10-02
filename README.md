@@ -2,9 +2,9 @@
 
 <img src="assets/cover.jpg" alt="Gram Ecosystem: TON and Telegram projects" width="100%">
 
-<img src="https://img.shields.io/badge/projects-4%2C533-5aa9ff?style=flat-square" alt="projects: 4,533"> <img src="https://img.shields.io/badge/active-1%2C012-4cd08a?style=flat-square" alt="active: 1,012"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/channels-1%2C210-5aa9ff?style=flat-square" alt="channels: 1,210"> <img src="https://img.shields.io/badge/links%20fixed-2%2C145-f2b84b?style=flat-square" alt="links fixed: 2,145"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
+<img src="https://img.shields.io/badge/projects-4%2C524-5aa9ff?style=flat-square" alt="projects: 4,524"> <img src="https://img.shields.io/badge/active-1%2C012-4cd08a?style=flat-square" alt="active: 1,012"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/channels-1%2C219-5aa9ff?style=flat-square" alt="channels: 1,219"> <img src="https://img.shields.io/badge/links%20fixed-2%2C146-f2b84b?style=flat-square" alt="links fixed: 2,146"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
 
-**Every TON and Telegram project we could verify: 4,533 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 9,380 links are checked every week; 2,145 wrong ones have been fixed so far, each with its evidence.
+**Every TON and Telegram project we could verify: 4,524 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 9,370 links are checked every week; 2,146 wrong ones have been fixed so far, each with its evidence.
 
 Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, build on it.
 
@@ -26,7 +26,7 @@ Each category has its own page with every project, active ones first.
 | [DEX](categories/dex.md) | 14 | 70 | [STON.fi](https://t.me/stonfidex), [DeDust](https://t.me/dedust_en), [swap.coffee](https://t.me/swap_coffee), [TONCO](https://t.me/tonco_io) | [table](data/by-category/dex.csv) |
 | [Payments](categories/payments.md) | 24 | 77 | [Wallet Pay](https://t.me/walletpayofficial), [@Tribute](https://t.me/tributenewsen), [Cryptomus](https://t.me/cryptomus), [NOWPayments](https://nowpayments.io/) | [table](data/by-category/payments.csv) |
 | [On-ramp](categories/onramp.md) | 12 | 49 | [MoonPay](https://www.moonpay.com), [Changelly](https://t.me/changelly), [ChangeNOW](https://t.me/changenow_chat), [Alchemy Pay](https://alchemypay.org) | [table](data/by-category/onramp.csv) |
-| [Infra](categories/infra.md) | 33 | 84 | [Telegram](https://t.me/telegram), [Fragment](https://fragment.com), [TON Core](https://t.me/toncore), [Acton](https://t.me/theopentooling) | [table](data/by-category/infra.csv) |
+| [Infra](categories/infra.md) | 33 | 75 | [Telegram](https://t.me/telegram), [Fragment](https://fragment.com), [TON Core](https://t.me/toncore), [Acton](https://t.me/theopentooling) | [table](data/by-category/infra.csv) |
 | [Developer tools](categories/devtools.md) | 15 | 87 | [Telegram Bot API News](https://t.me/botnews), [Telegram Crawler](https://t.me/tgcrawl), [Tonutils](https://t.me/tonutilsnews), [IntelliJ Idea plugin](https://t.me/actiqapp) | [table](data/by-category/devtools.csv) |
 | [Analytics](categories/analytics.md) | 34 | 166 | [Lagus research](https://t.me/lagus_research), [Dune](https://dune.com), [CoinGecko](https://www.coingecko.com), [CoinMarketCap](https://t.me/coinmarketcapannouncements) | [table](data/by-category/analytics.csv) |
 | [Explorers](categories/explorers.md) | 6 | 14 | [Tonscan.org](https://t.me/catchain), [Tonviewer](https://tonviewer.com), [Tonscan.com](https://tonscan.com), [Actonscan](https://actonscan.com) | [table](data/by-category/explorers.csv) |
@@ -68,7 +68,7 @@ pie showData
   "NFT collections" : 144
   "NFT & Gifts" : 140
   "Social" : 114
-  "Other 26 categories" : 1222
+  "Other 26 categories" : 1213
 ```
 
 ## Largest projects
@@ -92,14 +92,14 @@ By reach: post views on the project's own channel from July to September 2026, o
 
 ## Launches by quarter
 
-When the 4,324 projects with a known launch month started or came to TON. The busiest quarter was Q2 2024 with 730.
+When the 4,316 projects with a known launch month started or came to TON. The busiest quarter was Q2 2024 with 730.
 
 ```mermaid
 %%{init: {"xyChart": {"width": 1000, "height": 300}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
 xychart-beta
   x-axis ["21Q1", "21Q2", "21Q3", "21Q4", "22Q1", "22Q2", "22Q3", "22Q4", "23Q1", "23Q2", "23Q3", "23Q4", "24Q1", "24Q2", "24Q3", "24Q4", "25Q1", "25Q2", "25Q3", "25Q4", "26Q1", "26Q2", "26Q3"]
   y-axis "Projects launched"
-  bar [8, 8, 17, 46, 75, 94, 73, 96, 75, 113, 115, 96, 293, 730, 667, 430, 255, 187, 156, 168, 156, 218, 248]
+  bar [8, 8, 17, 38, 75, 94, 73, 96, 75, 113, 115, 96, 293, 730, 667, 430, 255, 187, 156, 168, 156, 218, 248]
 ```
 
 ## Verified on Telegram
@@ -322,12 +322,12 @@ The `sources` column lists every place a project was found:
 
 | File | What is in it |
 | --- | --- |
-| [data/projects.csv](data/projects.csv) | 4,533 projects, one per row |
-| [data/channels.csv](data/channels.csv) | 1,210 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
+| [data/projects.csv](data/projects.csv) | 4,524 projects, one per row |
+| [data/channels.csv](data/channels.csv) | 1,219 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
 | [data/categories.json](data/categories.json) | categories in display order |
-| [data/link-fixes.csv](data/link-fixes.csv) | 2,235 link decisions (replaced, removed, confirmed, marked down) with evidence |
+| [data/link-fixes.csv](data/link-fixes.csv) | 2,236 link decisions (replaced, removed, confirmed, marked down) with evidence |
 | [datapackage.json](datapackage.json) | the [Frictionless](https://frictionlessdata.io) descriptor: every file and column, for tools that load typed tables |
-| [data/category-fixes.csv](data/category-fixes.csv) | 843 category decisions with the reason: moves, and rows removed as not projects |
+| [data/category-fixes.csv](data/category-fixes.csv) | 852 category decisions with the reason: moves, and rows removed as not projects |
 | [data/usernames.csv](data/usernames.csv) | 641 other usernames of the same accounts, by numeric id: second names, renames, names now held by someone else |
 | [data/merged.csv](data/merged.csv) | 35 rows folded into the row that shares their Telegram account (the numeric id), with the key |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
@@ -337,7 +337,7 @@ The `sources` column lists every place a project was found:
 
 <details><summary><b>Columns of projects.csv</b></summary>
 
-`category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `website_down` (the date a check found the site gone), `telegram_id` and `bot_id` (Telegram's numeric ids, which survive a rename), `verified` and `verified_since` (the badge on t.me, and the first Web Archive copy of its page that shows it; empty when the archive does not date it), `peak_mau` and `peak_mau_date` (the highest monthly users on the FindMini chart, which starts in July 2024; a peak on the chart's first day may have been higher before it), `github`, `gramnews` (the project's card on gramnews.org), `last_post`, `last_commit`, `launched`, `launched_source`, `subscribers`, `reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.
+`category`, `subcategory` (for games, farming, casino, NFT & gifts and tools), `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `website_down` (the date a check found the site gone), `telegram_id` and `bot_id` (Telegram's numeric ids, which survive a rename), `verified` and `verified_since` (the badge on t.me, and the first Web Archive copy of its page that shows it; empty when the archive does not date it), `peak_mau` and `peak_mau_date` (the highest monthly users on the FindMini chart, which starts in July 2024; a peak on the chart's first day may have been higher before it), `github`, `gramnews` (the project's card on gramnews.org), `last_post`, `last_commit`, `launched`, `launched_source`, `subscribers`, `reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.
 
 </details>
 
@@ -362,18 +362,18 @@ For games, farming, NFT, casinos and memepads, dates before January 2018 are ign
 
 ## Channels
 
-1,210 channels write about TON without being a project's own. Together they have 129.1M subscribers and published 110,855 posts with 332.5M views from July to September 2026. The full list with each channel's numbers is in [data/channels.csv](data/channels.csv).
+1,219 channels write about TON without being a project's own. Together they have 129.1M subscribers and published 110,855 posts with 332.5M views from July to September 2026. The full list with each channel's numbers is in [data/channels.csv](data/channels.csv).
 
 | Theme | Channels | Subscribers | Posts | Views | Largest |
 | --- | ---: | ---: | ---: | ---: | --- |
 | Authors and blogs | 436 | 42.2M | 33,812 | 168.3M | [Pavel Durov](https://t.me/durov), [crypto_okop](https://t.me/crypto_okop), [BALENCIAGA](https://t.me/groza) |
 | Gifts and NFT | 342 | 21.5M | 36,207 | 72.3M | [bape](https://t.me/bape), [BOROV_TUT](https://t.me/borov_club), [I’m Pepe](https://t.me/pepe_vlog) |
 | Airdrops and farming | 122 | 25.1M | 14,596 | 27.8M | [TON AirDrop (RU)](https://t.me/tonairdrop_ru), [SAGE AIRDROPS ( Crypto )](https://t.me/sageairdrops), [Free Earnings](https://t.me/aird555) |
-| News and media | 170 | 26.8M | 16,010 | 26.9M | [Coingraph](https://t.me/coingraphnews), [Крипта Скруджа](https://t.me/crypta), [CryptoDays 2.0](https://t.me/cryptodays) |
+| News and media | 179 | 26.8M | 16,010 | 26.9M | [Coingraph](https://t.me/coingraphnews), [Крипта Скруджа](https://t.me/crypta), [CryptoDays 2.0](https://t.me/cryptodays) |
 | Trading and signals | 85 | 6.9M | 5,961 | 22.3M | [TONka→GRAM.smska](https://t.me/smska), [YO vs Smash](https://t.me/yovssmash), [MrKiaTeam](https://t.me/candootrade) |
 | Investing and analytics | 55 | 6.6M | 4,269 | 14.9M | [Типичный Инвестор](https://t.me/eduardinvest), [Дайте TON!](https://t.me/givemetonru), [ПУШИСТЫЙ ИНВЕСТОР](https://t.me/fluffy_investor) |
 
-By language: Russian 802, English 360, Persian 11, Ukrainian 11, Chinese 7, Arabic 6, Indonesian 4.
+By language: Russian 803, English 360, Persian 11, Ukrainian 11, Chinese 9, Arabic 6, Indonesian 5, es 3.
 
 ## Contribute
 

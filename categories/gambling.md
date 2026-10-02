@@ -14,72 +14,101 @@ xychart-beta
 
 ## Active
 
+Jump to [Cases and drops](#cases-and-drops), [Crash, roulette and dice](#crash-roulette-and-dice), [Slots and casino lobbies](#slots-and-casino-lobbies), [Betting and predictions](#betting-and-predictions), [Lotteries and jackpots](#lotteries-and-jackpots), [Other](#other).
+
+### Cases and drops
+
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 3 | **Easy Gift** | Easy Gift is a game where users earn stars and receive gifts | [Telegram](https://t.me/easygiftnews) [Bot](https://t.me/easygiftdropbot) [Gram News](https://gramnews.org/apps/easy-gift) | 2025-03-17 |  |  |
+| 4 | **Gorilla Case** | Gambling bot with crash, roulette, slots, eggs and upgrades for winning NFT gifts. | [Telegram](https://t.me/gorilla_news) [Bot](https://t.me/gorillacasebot) [X](https://x.com/gorillacase) [Site](https://gorilla.tg) [Gram News](https://gramnews.org/apps/gorilla-case) | 2025-05-03 | 681K |  |
+| 8 | **Gifts Battle** | Gifts Battle is a mini app for opening NFT cases | [Telegram](https://t.me/giftsbattle) [Bot](https://t.me/giftsbattle_bot) [Site](https://giftsbattle.com) [Gram News](https://gramnews.org/apps/gifts-battle) | 2024-08-04 |  |  |
+| 12 | **StarsCase** | A mini-app for opening virtual cases to win Telegram Stars, TON, and NFT gifts | [Telegram](https://t.me/starsik) [Bot](https://t.me/starscase_robot) [Site](https://starscase.win) [Gram News](https://gramnews.org/apps/starscase) | 2023-02-06 |  |  |
+| 16 | **Bull Run** | Pilot Gift: cases, crash game with multiplier up to x1000, and NFT gift staking | [Telegram](https://t.me/holdbull) [Bot](https://t.me/bullapp_bot) [X](https://x.com/AppBullRun) [Site](https://) [Gram News](https://gramnews.org/apps/bull-run) | 2024-03-21 |  |  |
+| 25 | **Pilot Gifts** | Case opening and games with Telegram gifts | [Telegram](https://t.me/pilotgift) | 2024-06-04 |  |  |
+| 28 | **Frog Case** | Case opening game where players complete tasks to earn Stars and NFT gifts. | [Telegram](https://t.me/frogcasenews) [Bot](https://t.me/frogcasebot) [Site](https://frog.tg) | 2025-05-03 | 851K |  |
+| 31 | **CS2 Cases & Skins: SHOT** | Open CS2 cases and snag the best skins! #Cases #CS2 #Skins | [Telegram](https://t.me/cs_shot_1) [Bot](https://t.me/cs_shot_bot) | 2025-05-03 |  |  |
+| 32 | **Random Gift** | Try your luck and get a random Telegram gift for a small fee | [Bot](https://t.me/randgift_bot) | 2025-02-22 |  |  |
+| 33 | **Tiger Case** | Case opening game with upgrades where players win NFT gifts. | [Telegram](https://t.me/tiger_case) [Bot](https://t.me/tiger_case_bot) | 2025-09-07 |  |  |
+| 37 | **Chance** | Games and Stars purchase in Telegram | [Telegram](https://t.me/chance_io) [Bot](https://t.me/chanceappbot) | 2025-06-24 |  |  |
+| 42 | **1GIFT** | Telegram game with cases and NFTs where players catch drops, activate bonuses and earn Stars. | [Telegram](https://t.me/onegiftofficial) [Bot](https://t.me/onegiftcasebot) | 2025-10-28 | 161K |  |
+| 44 | **Easy Spin Gift** | Case opening game where players win NFT gifts. | [Telegram](https://t.me/easyspingift_news) [Bot](https://t.me/easyspingift_bot) | 2026-07-25 |  |  |
+| 50 | **Case** | Case opening game in Telegram with a live drops channel. | [Telegram](https://t.me/case_app) [Bot](https://t.me/case_official_bot) | 2024-12-21 | 559K |  |
+| 52 | **Gift Box** | A game of luck, rewards, and surprises—open the Giftbox, win Telegram gifts and exclusive NFTs | [Telegram](https://t.me/giftbox_official) [Bot](https://t.me/giftbox_official_bot) | 2024-11-29 | 1.2M |  |
+
+### Crash, roulette and dice
+
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 5 | **Rocket Gift** | Rocket Gift is a game with "Mines", "Crash", and "Fortune Spin" modes | [Telegram](https://t.me/rocket_gift) [Bot](https://t.me/rocketxappbot) [Gram News](https://gramnews.org/apps/rocket-gift) | 2025-08-30 | 517K |  |
+| 7 | **HunnyPlay** | Official HunnyPlay Telegram Channel | [Telegram](https://t.me/hunnyfinancenews) [Bot](https://t.me/hunnyplay_bot) [X](https://x.com/HunnyPlay_) [Site](https://hunnyplay.io/?utm_source=ton-app&utm_medium=open-app&utm_campaign=profile-hunnyplay-web) [Gram News](https://gramnews.org/apps/hunnyplay) | 2021-07-07 | 35K |  |
+| 10 | **Rolls** | PVP game with Telegram Gifts | [Telegram](https://t.me/rolls_tv) [Bot](https://t.me/rollsgame_bot) [Gram News](https://gramnews.org/apps/rolls) | 2024-07-23 |  |  |
+| 11 | **Mell Gifts** | Mell Gifts — a mini app for completing tasks and receiving NFTs | [Telegram](https://t.me/mellgifts) [Bot](https://t.me/mellgifts_bot) [Gram News](https://gramnews.org/apps/mell-gifts) | 2023-07-01 | 160K |  |
+| 14 | **NFTROULETTE** | NFTROULETTE is a mini app for spinning cases, playing mini-games, and winning gifts | [Telegram](https://t.me/nftroulettecommunity) [Bot](https://t.me/dl_roulette_bot) [Gram News](https://gramnews.org/apps/nftroulette) | 2025-05-21 | 69K |  |
+| 36 | **StonksGift** | Game bot with crash, PvP, mines and cases where gifts can be sold for GRAM. | [Telegram](https://t.me/stonksgift) [Bot](https://t.me/stonksgiftbot) | 2025-07-24 | 127K |  |
+| 40 | **WELP » PLAY & WIN** | Entertainment game bot using Telegram dice, with no financial profit intended. | [Bot](https://t.me/welp_casino) | 2026-07-11 |  |  |
+| 45 | **Under Roulette** | PvP roulette and case game with gift deposits through a transfer account. | [Bot](https://t.me/underroulettebot) | 2022-06-21 |  |  |
+| 46 | **TonFlip App** | Play TonFlip, the secure and decentralized coinflip game on TON | [Telegram](https://t.me/tonflip) [Bot](https://t.me/tonflipappbot) [Site](https://tonflip.tg) | 2024-10-15 |  |  |
+| 53 | **Rampage** | Dice game bot in Telegram with a partnership contact. | [Bot](https://t.me/loses) | 2026-04-15 |  |  |
+| 54 | **GIFTSDouble** | Web Site - GIFTSDouble.com | [Telegram](https://t.me/giftsdouble) [Bot](https://t.me/giftsdoublerobot) [Site](https://giftsdouble.com) | 2025-05-03 |  |  |
+
+### Slots and casino lobbies
+
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 9 | **@TonPlay** | TonPlay — a licensed Telegram casino with bonuses, cashback and daily rewards! | [Telegram](https://t.me/playdeckcommunity) [Bot](https://t.me/tonplay) [Site](https://tonplay.io) | 2025-02-27 |  |  |
+| 17 | **Bitsler** | Bitsler is a leading Bitcoin Casino, Sportsbook, and Esports platform Get 200% Welcome Bonus + 500 Free Spins bit.ly/500CashSpins | [Telegram](https://t.me/bitsler_casino) [X](https://x.com/Bitsler) [Gram News](https://gramnews.org/apps/bitslercom-casino) | 2019-09-27 |  |  |
+| 21 | **SlotCoin** | Slot game with a waitlist and its own token. | [Telegram](https://t.me/slotcoin) [Bot](https://t.me/slotcoinapp_bot) [X](https://x.com/slotcoin_news) [Site](https://slot.win) [Gram News](https://gramnews.org/apps/slotcoin) | 2024-08-20 | 1.2M |  |
+| 22 | **JetTon Games** | Gaming platform on TON with Russian and English communities and a forum. | [Telegram](https://t.me/jetton) [X](https://x.com/jettongames) [Site](https://jetton.direct/ceKMSyJ1oou?) [Gram News](https://gramnews.org/apps/jetton-games) | 2026-09-15 |  |  |
+| 26 | **BetFury** | BetFury is an established ecosystem with crypto-earning features, iGaming, and Sports betting | [Telegram](https://t.me/betfuryofficialchannel) [Bot](https://t.me/Betfury_Bot) [X](https://x.com/betfury_gaming) [Site](https://betfury.com/?r=tonapp) | 2024-03-19 |  |  |
+| 30 | **TON BET** | Slot and betting games in Telegram paid in TON | [Telegram](https://t.me/gotonbet) | 2025-06-23 |  |  |
+| 34 | **SPINARIUM** | 12.000+ games from best providers with ~96.6% RTP Fast crypto deposit 20 TOP crypto currencies with 0% commissions 25% Cashback, 10% Rakeback VIP club | [Telegram](https://t.me/spinariumcasino) [X](https://x.com/spinarium) [Site](https://spinarium.cc/daa302d99) | 2024-01-08 |  |  |
+| 35 | **WEISS.BET** | Welcome to WEISS.BET: 30 levels of loyalty program Daily and weekly cashbacks up to 40% Own Token WEFT Quick withdrawals Tokenized rakeback and staki | [Telegram](https://t.me/weissbet_official) [X](https://x.com/WEISSBET) [Site](https://weiss.bet/) | 2023-04-11 |  |  |
+| 38 | **StarNex** | Game where players send a slot emoji to receive the SNX token, tradable on DeDust. | [Telegram](https://t.me/starnexton) [Bot](https://t.me/lot_tery_bot) [X](https://x.com/starnexton) | 2025-10-25 |  |  |
+| 39 | **Rakebit Casino** | Rakebit is a crypto casino and sportsbook that was launched in 2024 | [Telegram](https://t.me/RakeBit_Channel) [X](https://x.com/theRakebit) [Site](https://rake-tracker.com/d152b6adc) | 2024-03-15 |  |  |
+| 41 | **Crashino** | Welcome to Crashino Your Premier Licensed Crypto Casino Play 1,000’s of slots, live games, and bet on sports directly from Telegram! | [Telegram](https://t.me/Crashino) [X](https://x.com/CrashinoPlay) [Site](https://www.crashino.com/) | 2021-10-19 |  |  |
+| 43 | **Royal Stars** | RoyalStars — a Telegram slots arcade game with tournaments, welcome gifts and rewards! | [Bot](https://t.me/royalstarsspinbot) | 2025-12-08 |  |  |
+| 47 | **JOKR Labs** | JOKR offers multiple skill & luck games — Crash, Mines, Roulette, Blackjack and more | [Telegram](https://t.me/JOKRLabs) [Bot](https://t.me/JokInTheBox_bot) [X](https://x.com/JOKRLabs) [Site](https://jokrlabs.io/) | 2024-08-14 |  |  |
+| 51 | **Hell Games** | Telegram casino with PvP duels, NFT gift cases, mines, crash and gift upgrades. | [Bot](https://t.me/hell_games_bot) | 2026-09-01 |  |  |
+| 58 | **Slot.win** | Slot.win — The Ultimate TON Casino & Crash-Game Hub 5 exclusive fast games: Crash, Dice, Mines, Battle & Platforms | [Telegram](https://t.me/slotcoin) [X](https://x.com/slotwinx) [Site](https://slot.win) | 2024-08-20 |  |  |
+| 59 | **Disi Casino** | Plunge into the world of excitement with Disi Over 6,000 slots and live dealers available Get an introductory bonus +500% to your deposit in our DIC cryptocurre | [Telegram](https://t.me/disi_eng) [Site](https://disi.bet) | 2024-07-27 |  |  |
+| 60 | **TonSlot** | A fast and fun TON slot game bot on Telegram | [Telegram](https://t.me/TonSlotOfficial) [Bot](https://t.me/TonSlotGameBot) | 2025-09-18 |  |  |
+| 62 | **Ninja Blaze** | Immerse yourself in the exciting world of iGaming with Ninja Blaze! | [Telegram](https://t.me/NinjaBlazeApp) [X](https://x.com/NinjaBlazeApp) [Site](https://blaze.ninja) | 2023-09-11 |  |  |
+
+### Betting and predictions
+
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 20 | **Athletix** | AI bot offering sports predictions and analysis | [Telegram](https://t.me/athletix) [Bot](https://t.me/athletix_bot) [X](https://x.com/AthletixAi) [Site](https://www.athletix.ai) [Gram News](https://gramnews.org/apps/athletix) | 2024-01-12 |  |  |
+| 63 | **Soshka** | You can bet on major sports with crypto: NFL, NBA, NHL, European Soccer, International competitions, Russian Soccer and many more | [Telegram](https://t.me/soshka_channel) [Bot](https://t.me/BetOnSoshkaBot) [X](https://x.com/betOnSoshka) [Site](https://www.soshka.com) | 2025-11-04 |  |  |
+| 64 | **1win** | 1win official bot. All features in tg: slots&betting + fast payouts! Get $500 bonus+70 FS. Got traffic? DM | [Telegram](https://t.me/tonkeeper_news) [Bot](https://t.me/casino_1w_bot) [X](https://x.com/tonkeeper) [Site](https://tonkeeper.com/) [Gram News](https://gramnews.org/apps/1win) | 2021-11-22 |  |  |
+
+### Lotteries and jackpots
+
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 13 | **Lucky Draw Master** | A tool for running draws with USDT prizes | [Telegram](https://t.me/lucky_draw_master) [Bot](https://t.me/LuckyDrawMasterBot) Site (down) [Gram News](https://gramnews.org/apps/luckydrawmaster) | 2024-01-19 | 1.3M |  |
+| 18 | **Pyramida** | Buy tickets, win prizes in TON, and earn from referrals | [Telegram](https://t.me/pyramida_news) [Bot](https://t.me/pyramida) [Site](https://pyramida.app) [Gram News](https://gramnews.org/apps/pyramida) | 2026-07-12 |  |  |
+| 56 | **Pods App** | A service where you can guess numbers and receive instant rewards in Telegram Stars, with fairness check of each round, as well as complete round security | [Telegram](https://t.me/podsgames) | 2025-09-27 |  |  |
+| 61 | **Lotshot** | NFT random drop game on TON with TON and USDT rewards | [Telegram](https://t.me/lotshot_official) | 2025-07-16 |  |  |
+
+### Other
+
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 1 | **VIRUS GAME** | Telegram game bot with deposits made by sending gifts. | [Telegram](https://t.me/omicron) [Bot](https://t.me/virus_play_bot) [Gram News](https://gramnews.org/apps/virus-game-bot) | 2025-01-13 | 1.3M |  |
 | 2 | **Epic Gift** | Epic Gift is a mini-app for earning and invitations | [Telegram](https://t.me/epic_gift_official) [Bot](https://t.me/epic_gift_bot) [Gram News](https://gramnews.org/apps/epic-gift) | 2025-03-30 | 368K |  |
-| 3 | **Easy Gift** | Easy Gift is a game where users earn stars and receive gifts | [Telegram](https://t.me/easygiftnews) [Bot](https://t.me/easygiftdropbot) [Gram News](https://gramnews.org/apps/easy-gift) | 2025-03-17 |  |  |
-| 4 | **Gorilla Case** | Gambling bot with crash, roulette, slots, eggs and upgrades for winning NFT gifts. | [Telegram](https://t.me/gorilla_news) [Bot](https://t.me/gorillacasebot) [X](https://x.com/gorillacase) [Site](https://gorilla.tg) [Gram News](https://gramnews.org/apps/gorilla-case) | 2025-05-03 | 681K |  |
-| 5 | **Rocket Gift** | Rocket Gift is a game with "Mines", "Crash", and "Fortune Spin" modes | [Telegram](https://t.me/rocket_gift) [Bot](https://t.me/rocketxappbot) [Gram News](https://gramnews.org/apps/rocket-gift) | 2025-08-30 | 517K |  |
 | 6 | **TopGift** | Gift game bot in Telegram with a news channel and support. | [Telegram](https://t.me/topgiftnews) [Bot](https://t.me/topgiftrobot) [Gram News](https://gramnews.org/apps/topgift) | 2025-05-03 | 105K |  |
-| 7 | **HunnyPlay** | Official HunnyPlay Telegram Channel | [Telegram](https://t.me/hunnyfinancenews) [Bot](https://t.me/hunnyplay_bot) [X](https://x.com/HunnyPlay_) [Site](https://hunnyplay.io/?utm_source=ton-app&utm_medium=open-app&utm_campaign=profile-hunnyplay-web) [Gram News](https://gramnews.org/apps/hunnyplay) | 2021-07-07 | 35K |  |
-| 8 | **Gifts Battle** | Gifts Battle is a mini app for opening NFT cases | [Telegram](https://t.me/giftsbattle) [Bot](https://t.me/giftsbattle_bot) [Site](https://giftsbattle.com) [Gram News](https://gramnews.org/apps/gifts-battle) | 2024-08-04 |  |  |
-| 9 | **@TonPlay** | TonPlay — a licensed Telegram casino with bonuses, cashback and daily rewards! | [Telegram](https://t.me/playdeckcommunity) [Bot](https://t.me/tonplay) [Site](https://tonplay.io) | 2025-02-27 |  |  |
-| 10 | **Rolls** | PVP game with Telegram Gifts | [Telegram](https://t.me/rolls_tv) [Bot](https://t.me/rollsgame_bot) [Gram News](https://gramnews.org/apps/rolls) | 2024-07-23 |  |  |
-| 11 | **Mell Gifts** | Mell Gifts — a mini app for completing tasks and receiving NFTs | [Telegram](https://t.me/mellgifts) [Bot](https://t.me/mellgifts_bot) [Gram News](https://gramnews.org/apps/mell-gifts) | 2023-07-01 | 160K |  |
-| 12 | **StarsCase** | A mini-app for opening virtual cases to win Telegram Stars, TON, and NFT gifts | [Telegram](https://t.me/starsik) [Bot](https://t.me/starscase_robot) [Site](https://starscase.win) [Gram News](https://gramnews.org/apps/starscase) | 2023-02-06 |  |  |
-| 13 | **Lucky Draw Master** | A tool for running draws with USDT prizes | [Telegram](https://t.me/lucky_draw_master) [Bot](https://t.me/LuckyDrawMasterBot) Site (down) [Gram News](https://gramnews.org/apps/luckydrawmaster) | 2024-01-19 | 1.3M |  |
-| 14 | **NFTROULETTE** | NFTROULETTE is a mini app for spinning cases, playing mini-games, and winning gifts | [Telegram](https://t.me/nftroulettecommunity) [Bot](https://t.me/dl_roulette_bot) [Gram News](https://gramnews.org/apps/nftroulette) | 2025-05-21 | 69K |  |
 | 15 | **GiftUp** | Gift game bot in Telegram with its own channel and support. | [Telegram](https://t.me/giftup) [Bot](https://t.me/giftuprobot) [Gram News](https://gramnews.org/apps/giftup) | 2025-03-05 | 284K |  |
-| 16 | **Bull Run** | Pilot Gift: cases, crash game with multiplier up to x1000, and NFT gift staking | [Telegram](https://t.me/holdbull) [Bot](https://t.me/bullapp_bot) [X](https://x.com/AppBullRun) [Site](https://) [Gram News](https://gramnews.org/apps/bull-run) | 2024-03-21 |  |  |
-| 17 | **Bitsler** | Bitsler is a leading Bitcoin Casino, Sportsbook, and Esports platform Get 200% Welcome Bonus + 500 Free Spins bit.ly/500CashSpins | [Telegram](https://t.me/bitsler_casino) [X](https://x.com/Bitsler) [Gram News](https://gramnews.org/apps/bitslercom-casino) | 2019-09-27 |  |  |
-| 18 | **Pyramida** | Buy tickets, win prizes in TON, and earn from referrals | [Telegram](https://t.me/pyramida_news) [Bot](https://t.me/pyramida) [Site](https://pyramida.app) [Gram News](https://gramnews.org/apps/pyramida) | 2026-07-12 |  |  |
 | 19 | **Chance Bot** | Chance is a Telegram utility app currently under maintenance | [Telegram](https://t.me/chance_winners) [Bot](https://t.me/chancetg_bot) [X](https://x.com/chancetg_app) [Site](https://app.chance.tg) [GitHub](https://github.com/chancetg) [Gram News](https://gramnews.org/apps/chance) | 2024-06-23 | 20K |  |
-| 20 | **Athletix** | AI bot offering sports predictions and analysis | [Telegram](https://t.me/athletix) [Bot](https://t.me/athletix_bot) [X](https://x.com/AthletixAi) [Site](https://www.athletix.ai) [Gram News](https://gramnews.org/apps/athletix) | 2024-01-12 |  |  |
-| 21 | **SlotCoin** | Slot game with a waitlist and its own token. | [Telegram](https://t.me/slotcoin) [Bot](https://t.me/slotcoinapp_bot) [X](https://x.com/slotcoin_news) [Site](https://slot.win) [Gram News](https://gramnews.org/apps/slotcoin) | 2024-08-20 | 1.2M |  |
-| 22 | **JetTon Games** | Gaming platform on TON with Russian and English communities and a forum. | [Telegram](https://t.me/jetton) [X](https://x.com/jettongames) [Site](https://jetton.direct/ceKMSyJ1oou?) [Gram News](https://gramnews.org/apps/jetton-games) | 2026-09-15 |  |  |
 | 23 | **SHULERA** |  | [Telegram](https://t.me/shulera_live) | 2026-05-10 |  |  |
 | 24 | **Подарок Дурова** | Russian-language channel about Telegram gifts that runs giveaways. | [Telegram](https://t.me/podarokdurova) [Bot](https://t.me/alexzackermanrobot) | 2024-05-16 |  |  |
-| 25 | **Pilot Gifts** | Case opening and games with Telegram gifts | [Telegram](https://t.me/pilotgift) | 2024-06-04 |  |  |
-| 26 | **BetFury** | BetFury is an established ecosystem with crypto-earning features, iGaming, and Sports betting | [Telegram](https://t.me/betfuryofficialchannel) [Bot](https://t.me/Betfury_Bot) [X](https://x.com/betfury_gaming) [Site](https://betfury.com/?r=tonapp) | 2024-03-19 |  |  |
 | 27 | **WinGram** |  | [Bot](https://t.me/wingram) | 2025-07-24 |  |  |
-| 28 | **Frog Case** | Case opening game where players complete tasks to earn Stars and NFT gifts. | [Telegram](https://t.me/frogcasenews) [Bot](https://t.me/frogcasebot) [Site](https://frog.tg) | 2025-05-03 | 851K |  |
 | 29 | **ChainGame** | Chain Game is a Web3-powered gaming platform offering a seamless and rewarding experience | [Telegram](https://t.me/chaingameofficial) [Bot](https://t.me/chain_games_bot) [X](https://x.com/chaingamecrypto) [Site](https://chaingame.pro/) | 2025-03-17 |  |  |
-| 30 | **TON BET** | Slot and betting games in Telegram paid in TON | [Telegram](https://t.me/gotonbet) | 2025-06-23 |  |  |
-| 31 | **CS2 Cases & Skins: SHOT** | Open CS2 cases and snag the best skins! #Cases #CS2 #Skins | [Telegram](https://t.me/cs_shot_1) [Bot](https://t.me/cs_shot_bot) | 2025-05-03 |  |  |
-| 32 | **Random Gift** | Try your luck and get a random Telegram gift for a small fee | [Bot](https://t.me/randgift_bot) | 2025-02-22 |  |  |
-| 33 | **Tiger Case** | Case opening game with upgrades where players win NFT gifts. | [Telegram](https://t.me/tiger_case) [Bot](https://t.me/tiger_case_bot) | 2025-09-07 |  |  |
-| 34 | **SPINARIUM** | 12.000+ games from best providers with ~96.6% RTP Fast crypto deposit 20 TOP crypto currencies with 0% commissions 25% Cashback, 10% Rakeback VIP club | [Telegram](https://t.me/spinariumcasino) [X](https://x.com/spinarium) [Site](https://spinarium.cc/daa302d99) | 2024-01-08 |  |  |
-| 35 | **WEISS.BET** | Welcome to WEISS.BET: 30 levels of loyalty program Daily and weekly cashbacks up to 40% Own Token WEFT Quick withdrawals Tokenized rakeback and staki | [Telegram](https://t.me/weissbet_official) [X](https://x.com/WEISSBET) [Site](https://weiss.bet/) | 2023-04-11 |  |  |
-| 36 | **StonksGift** | Game bot with crash, PvP, mines and cases where gifts can be sold for GRAM. | [Telegram](https://t.me/stonksgift) [Bot](https://t.me/stonksgiftbot) | 2025-07-24 | 127K |  |
-| 37 | **Chance** | Games and Stars purchase in Telegram | [Telegram](https://t.me/chance_io) [Bot](https://t.me/chanceappbot) | 2025-06-24 |  |  |
-| 38 | **StarNex** | Game where players send a slot emoji to receive the SNX token, tradable on DeDust. | [Telegram](https://t.me/starnexton) [Bot](https://t.me/lot_tery_bot) [X](https://x.com/starnexton) | 2025-10-25 |  |  |
-| 39 | **Rakebit Casino** | Rakebit is a crypto casino and sportsbook that was launched in 2024 | [Telegram](https://t.me/RakeBit_Channel) [X](https://x.com/theRakebit) [Site](https://rake-tracker.com/d152b6adc) | 2024-03-15 |  |  |
-| 40 | **WELP » PLAY & WIN** | Entertainment game bot using Telegram dice, with no financial profit intended. | [Bot](https://t.me/welp_casino) | 2026-07-11 |  |  |
-| 41 | **Crashino** | Welcome to Crashino Your Premier Licensed Crypto Casino Play 1,000’s of slots, live games, and bet on sports directly from Telegram! | [Telegram](https://t.me/Crashino) [X](https://x.com/CrashinoPlay) [Site](https://www.crashino.com/) | 2021-10-19 |  |  |
-| 42 | **1GIFT** | Telegram game with cases and NFTs where players catch drops, activate bonuses and earn Stars. | [Telegram](https://t.me/onegiftofficial) [Bot](https://t.me/onegiftcasebot) | 2025-10-28 | 161K |  |
-| 43 | **Royal Stars** | RoyalStars — a Telegram slots arcade game with tournaments, welcome gifts and rewards! | [Bot](https://t.me/royalstarsspinbot) | 2025-12-08 |  |  |
-| 44 | **Easy Spin Gift** | Case opening game where players win NFT gifts. | [Telegram](https://t.me/easyspingift_news) [Bot](https://t.me/easyspingift_bot) | 2026-07-25 |  |  |
-| 45 | **Under Roulette** | PvP roulette and case game with gift deposits through a transfer account. | [Bot](https://t.me/underroulettebot) | 2022-06-21 |  |  |
-| 46 | **TonFlip App** | Play TonFlip, the secure and decentralized coinflip game on TON | [Telegram](https://t.me/tonflip) [Bot](https://t.me/tonflipappbot) [Site](https://tonflip.tg) | 2024-10-15 |  |  |
-| 47 | **JOKR Labs** | JOKR offers multiple skill & luck games — Crash, Mines, Roulette, Blackjack and more | [Telegram](https://t.me/JOKRLabs) [Bot](https://t.me/JokInTheBox_bot) [X](https://x.com/JOKRLabs) [Site](https://jokrlabs.io/) | 2024-08-14 |  |  |
 | 48 | **Talisman Gamble** | Talisman gambling project channel | [Telegram](https://t.me/talismangamble) [X](https://x.com/TalismanGamble) | 2026-06-09 |  |  |
 | 49 | **BeeGifts** | Gift game bot in Telegram with a news channel, chat and gift deposits. | [Telegram](https://t.me/beegiftsnews) [Bot](https://t.me/beegft_bot) | 2025-09-07 |  |  |
-| 50 | **Case** | Case opening game in Telegram with a live drops channel. | [Telegram](https://t.me/case_app) [Bot](https://t.me/case_official_bot) | 2024-12-21 | 559K |  |
-| 51 | **Hell Games** | Telegram casino with PvP duels, NFT gift cases, mines, crash and gift upgrades. | [Bot](https://t.me/hell_games_bot) | 2026-09-01 |  |  |
-| 52 | **Gift Box** | A game of luck, rewards, and surprises—open the Giftbox, win Telegram gifts and exclusive NFTs | [Telegram](https://t.me/giftbox_official) [Bot](https://t.me/giftbox_official_bot) | 2024-11-29 | 1.2M |  |
-| 53 | **Rampage** | Dice game bot in Telegram with a partnership contact. | [Bot](https://t.me/loses) | 2026-04-15 |  |  |
-| 54 | **GIFTSDouble** | Web Site - GIFTSDouble.com | [Telegram](https://t.me/giftsdouble) [Bot](https://t.me/giftsdoublerobot) [Site](https://giftsdouble.com) | 2025-05-03 |  |  |
 | 55 | **Balls** | Game where players play Balls and win gifts, with gift deposits and a TV channel. | [Telegram](https://t.me/balls_tv) [Bot](https://t.me/myballs) [Site](https://myballs.io) | 2024-07-23 |  |  |
-| 56 | **Pods App** | A service where you can guess numbers and receive instant rewards in Telegram Stars, with fairness check of each round, as well as complete round security | [Telegram](https://t.me/podsgames) | 2025-09-27 |  |  |
 | 57 | **GiftCity** | GiftCity — a city with NFTs inside Telegram! | [Telegram](https://t.me/GiftCityNews) [Bot](https://t.me/GiftCityMain) | 2025-10-01 |  |  |
-| 58 | **Slot.win** | Slot.win — The Ultimate TON Casino & Crash-Game Hub 5 exclusive fast games: Crash, Dice, Mines, Battle & Platforms | [Telegram](https://t.me/slotcoin) [X](https://x.com/slotwinx) [Site](https://slot.win) | 2024-08-20 |  |  |
-| 59 | **Disi Casino** | Plunge into the world of excitement with Disi Over 6,000 slots and live dealers available Get an introductory bonus +500% to your deposit in our DIC cryptocurre | [Telegram](https://t.me/disi_eng) [Site](https://disi.bet) | 2024-07-27 |  |  |
-| 60 | **TonSlot** | A fast and fun TON slot game bot on Telegram | [Telegram](https://t.me/TonSlotOfficial) [Bot](https://t.me/TonSlotGameBot) | 2025-09-18 |  |  |
-| 61 | **Lotshot** | NFT random drop game on TON with TON and USDT rewards | [Telegram](https://t.me/lotshot_official) | 2025-07-16 |  |  |
-| 62 | **Ninja Blaze** | Immerse yourself in the exciting world of iGaming with Ninja Blaze! | [Telegram](https://t.me/NinjaBlazeApp) [X](https://x.com/NinjaBlazeApp) [Site](https://blaze.ninja) | 2023-09-11 |  |  |
-| 63 | **Soshka** | You can bet on major sports with crypto: NFL, NBA, NHL, European Soccer, International competitions, Russian Soccer and many more | [Telegram](https://t.me/soshka_channel) [Bot](https://t.me/BetOnSoshkaBot) [X](https://x.com/betOnSoshka) [Site](https://www.soshka.com) | 2025-11-04 |  |  |
-| 64 | **1win** | 1win official bot. All features in tg: slots&betting + fast payouts! Get $500 bonus+70 FS. Got traffic? DM | [Telegram](https://t.me/tonkeeper_news) [Bot](https://t.me/casino_1w_bot) [X](https://x.com/tonkeeper) [Site](https://tonkeeper.com/) [Gram News](https://gramnews.org/apps/1win) | 2021-11-22 |  |  |
 
 <details><summary><b>Quiet: 178</b></summary>
 

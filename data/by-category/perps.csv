@@ -1,21 +1,21 @@
-rank,name,status,description,telegram,bot,x,website,launched,peak_mau,verified_since
-1,Storm Trade,active,Storm Trade — leveraged DEX in Telegram for trading on TON,https://t.me/storm_trade_news,https://t.me/StormTradeBot,https://x.com/storm_trade_ton,https://storm.tg/,2023-07-05,,2024-05-20
-2,Tradoor,active,Tradoor is a decentralized exchange for trading options and perpetual futures on TON,https://t.me/tradoor_io,https://t.me/tradoor_io_bot,https://x.com/tradoor_io,https://tradoor.io,2024-01-03,524125,
-3,WenLong,active,"Trade Hyperliquid perps right inside Telegram. Deposit from your TON wallet — no KYC, no bridges, no bullshit. Up to 40x leverage, self-custody",https://t.me/wenlongnews,https://t.me/whenlongbot,,,2024-09-20,,
-4,Hyperliquid,active,,,,,https://hyperliquid.xyz,2022-10-15,,
-5,Vooi App,active,"Join VOOI - Trade, Arbitrage, Earn Rewards / Unlock trading",https://t.me/vooi_app,https://t.me/vooiappbot,,,2024-04-16,1309071,2024-10-05
-6,Aster,active,Perpetual futures decentralized exchange for traders.,https://t.me/asterdex,,,https://www.asterdex.com,2025-03-14,,
-7,Lighter,active,,,,,https://lighter.xyz,2025-10,,
-8,Storm Trade (STORM),active,Official news & announcement channel of,https://t.me/storm_trade_news,,https://x.com/storm_trade_ton,https://storm.tg,2024-10-12,,
-9,TON Hedge,active,New generation trading platform on TON blockchain,https://t.me/ton_hedge,https://t.me/ton_hedge_bot,https://x.com/tonhedge,https://tonhedge.com,2024-05-20,,
-10,Nundu,quiet,Perpetual futures trading bot on TON.,https://t.me/nunducrypto,https://t.me/nunducryptobot,,,2024-12-12,43346,
-11,ONUS Tap Tap Tap,quiet,Perpetual DEX - up to 150× leverage. Effortless trading experience!,,https://t.me/onus_tap_tap_tap_bot,https://x.com/ONUSFinance,,2021-09-01,6008310,2025-01-03
-12,Vanilla Finance,quiet,Perpetual futures exchange for meme tokens with high leverage and an airdrop points system.,,https://t.me/vanilla_finance_bot,,,2024-06-17,3720322,
-13,dYdX,quiet,Decentralized perpetual trading platform governed by its community and unavailable in the US.,https://t.me/dydxofficial,,https://x.com/dydx,https://dYdX.trade,2022-03-09,,
-14,EVEDEX,quiet,EVEDEX official Telegram channel Get +10% cashback,https://t.me/officialevedex,,,,2024-11-19,,
-15,Hopium,quiet,Social perp trading on Telegram,,https://t.me/hopium_official_bot,,,2024-08-20,277798,
-16,HyperFun,quiet,Leveraged Bitcoin trading in Telegram,,https://t.me/hyperfn_bot,,,2026-04-23,,
-17,KiloEx,quiet,Peer-to-pool perpetual DEX with an official community chat,https://t.me/kiloex,https://t.me/kiloextradebot,,,2024-07-24,537383,
-18,Prebit.io,quiet,Prebit.io — a decentralized exchange for trading Bitcoin with leverage up to 1001×,,https://t.me/PrebitAuthBot,https://x.com/prebit_io,https://www.prebit.io,2023-08-25,,
-19,TonTrader,quiet,Crypto derivatives trading mini app on Telegram,,https://t.me/tontradercryptobot,,,2025-02-27,,
-20,Scalr,quiet,Perpetual DEX powered by TON,https://t.me/scalr_dex,https://t.me/scalrbot,https://x.com/scalr_dex,,2024-06-14,355988,
+rank,name,subcategory,status,description,telegram,bot,x,website,launched,peak_mau,verified_since
+1,Storm Trade,,active,Storm Trade — leveraged DEX in Telegram for trading on TON,https://t.me/storm_trade_news,https://t.me/StormTradeBot,https://x.com/storm_trade_ton,https://storm.tg/,2023-07-05,,2024-05-20
+2,Tradoor,,active,Tradoor is a decentralized exchange for trading options and perpetual futures on TON,https://t.me/tradoor_io,https://t.me/tradoor_io_bot,https://x.com/tradoor_io,https://tradoor.io,2024-01-03,524125,
+3,WenLong,,active,"Trade Hyperliquid perps right inside Telegram. Deposit from your TON wallet — no KYC, no bridges, no bullshit. Up to 40x leverage, self-custody",https://t.me/wenlongnews,https://t.me/whenlongbot,,,2024-09-20,,
+4,Hyperliquid,,active,,,,,https://hyperliquid.xyz,2022-10-15,,
+5,Vooi App,,active,"Join VOOI - Trade, Arbitrage, Earn Rewards / Unlock trading",https://t.me/vooi_app,https://t.me/vooiappbot,,,2024-04-16,1309071,2024-10-05
+6,Aster,,active,Perpetual futures decentralized exchange for traders.,https://t.me/asterdex,,,https://www.asterdex.com,2025-03-14,,
+7,Lighter,,active,,,,,https://lighter.xyz,2025-10,,
+8,Storm Trade (STORM),,active,Official news & announcement channel of,https://t.me/storm_trade_news,,https://x.com/storm_trade_ton,https://storm.tg,2024-10-12,,
+9,TON Hedge,,active,New generation trading platform on TON blockchain,https://t.me/ton_hedge,https://t.me/ton_hedge_bot,https://x.com/tonhedge,https://tonhedge.com,2024-05-20,,
+10,Nundu,,quiet,Perpetual futures trading bot on TON.,https://t.me/nunducrypto,https://t.me/nunducryptobot,,,2024-12-12,43346,
+11,ONUS Tap Tap Tap,,quiet,Perpetual DEX - up to 150× leverage. Effortless trading experience!,,https://t.me/onus_tap_tap_tap_bot,https://x.com/ONUSFinance,,2021-09-01,6008310,2025-01-03
+12,Vanilla Finance,,quiet,Perpetual futures exchange for meme tokens with high leverage and an airdrop points system.,,https://t.me/vanilla_finance_bot,,,2024-06-17,3720322,
+13,dYdX,,quiet,Decentralized perpetual trading platform governed by its community and unavailable in the US.,https://t.me/dydxofficial,,https://x.com/dydx,https://dYdX.trade,2022-03-09,,
+14,EVEDEX,,quiet,EVEDEX official Telegram channel Get +10% cashback,https://t.me/officialevedex,,,,2024-11-19,,
+15,Hopium,,quiet,Social perp trading on Telegram,,https://t.me/hopium_official_bot,,,2024-08-20,277798,
+16,HyperFun,,quiet,Leveraged Bitcoin trading in Telegram,,https://t.me/hyperfn_bot,,,2026-04-23,,
+17,KiloEx,,quiet,Peer-to-pool perpetual DEX with an official community chat,https://t.me/kiloex,https://t.me/kiloextradebot,,,2024-07-24,537383,
+18,Prebit.io,,quiet,Prebit.io — a decentralized exchange for trading Bitcoin with leverage up to 1001×,,https://t.me/PrebitAuthBot,https://x.com/prebit_io,https://www.prebit.io,2023-08-25,,
+19,TonTrader,,quiet,Crypto derivatives trading mini app on Telegram,,https://t.me/tontradercryptobot,,,2025-02-27,,
+20,Scalr,,quiet,Perpetual DEX powered by TON,https://t.me/scalr_dex,https://t.me/scalrbot,https://x.com/scalr_dex,,2024-06-14,355988,
