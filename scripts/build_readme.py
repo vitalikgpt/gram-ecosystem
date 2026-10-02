@@ -14,6 +14,8 @@ import urllib.parse
 
 REPO = "vitalikgpt/gram-ecosystem"
 TOP_REACH = 12
+TOP_NFT = 25
+NFT_SNAPSHOT = "2026-10-02"   # when the Getgems all-time ranking was read; data/nft-collections.csv
 PROBLEMS = "reports/link-check.md"
 SOURCES = {
     "gramnews-apps": "the [Gram News apps library](https://gramnews.org/apps)",
@@ -142,7 +144,7 @@ def reach_n(r):
 
 
 INTS = {"rank", "subscribers", "reach_q3", "views_q3", "posts_q3", "mau", "peak_mau", "telegram_id", "bot_id", "on_map",
-        "native", "verified", "hits", "posts", "views", "position"}
+        "native", "verified", "hits", "posts", "views", "position", "volume_ton", "owners", "items"}
 DATES = {"last_post", "last_commit", "website_down", "peak_mau_date", "verified_since", "seen", "date"}
 ABOUT = {
     "projects": "TON and Telegram projects, one per row, with links, ids, activity and launch dates",
@@ -154,6 +156,7 @@ ABOUT = {
     "usernames": "other usernames of the same Telegram accounts, matched by numeric id",
     "category-fixes": "every category change with the reason, and rows removed as not projects",
     "unresolved": "names from old ecosystem maps not tied to a project yet",
+    "nft-collections": "the largest TON NFT collections on Getgems by all-time volume, with contract metadata and launch dates",
 }
 
 
@@ -229,7 +232,7 @@ def build():
         "**Browse it right here**: every category opens as a searchable table, its *table* link below; "
         "so do [channels](data/channels.csv) and [studios and funds](data/relations.csv).",
         "",
-        "**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Neighbours on Telegram](#neighbours-on-telegram), [Verified](#verified-on-telegram), [Other usernames](#other-usernames), "
+        "**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [NFT collections](#top-nft-collections), [Neighbours on Telegram](#neighbours-on-telegram), [Verified](#verified-on-telegram), [Other usernames](#other-usernames), "
         "[Studios and funds](#studios-funds-and-accelerators), [Channels](#channels), [How to read it](#how-to-read-it), "
         "[Data](#data), [Maps and reports](#maps-and-reports), [Contribute](#contribute)",
         "",
@@ -335,6 +338,34 @@ def build():
             shown.append((r, es[:4]))
         if len(shown) == 10:
             break
+    if os.path.exists("data/nft-collections.csv"):
+        nfts = list(csv.DictReader(open("data/nft-collections.csv", encoding="utf-8")))
+        bys = {r["slug"]: r for r in rows}
+        KIND = {"telegram-gift": "Telegram gift", "telegram-usernames": "Fragment usernames", "telegram-numbers": "Fragment numbers",
+                "domains": "Domains", "collection": "Collection"}
+        vol = lambda items: sum(float(r["volume_ton"] or 0) for r in items)
+        gifts = [r for r in nfts if r["kind"] == "telegram-gift"]
+        out += [
+            "",
+            "## Top NFT collections",
+            "",
+            f"The {len(nfts)} largest TON collections on Getgems by all-time volume, snapshot of {NFT_SNAPSHOT}; "
+            f"{len(gifts)} of them are Telegram gifts, with {fmt(vol(gifts))} TON of the {fmt(vol(nfts))} traded. "
+            "Launch dates are the collection contract's first transaction; socials, site and description come from the contract's own metadata. "
+            "All of them, with addresses and descriptions, are in [nft-collections.csv](data/nft-collections.csv).",
+            "",
+            "| # | Collection | Kind | Volume, TON | Floor | Owners | Items | Launched | Links |",
+            "| ---: | --- | --- | ---: | ---: | ---: | ---: | --- | --- |",
+        ]
+        for r in nfts[:TOP_NFT]:
+            ic = f'<img src="{r["icon"]}" width="20" height="20" alt=""> ' if r["icon"] else ""
+            own = bys.get(r["project"])
+            ls = [f"[TG]({r['telegram'].split()[0]})" if r["telegram"] else "", f"[X]({r['x'].split()[0]})" if r["x"] else "",
+                  f"[site]({r['website'].split()[0]})" if r["website"] else ""]
+            if own:
+                ls.append(f"[{cell(own['name'])}](categories/{own['category']}.md)")
+            out.append(f"| {r['rank']} | {ic}[{cell(r['name'])}]({r['getgems']}) | {KIND[r['kind']]} | {fmt(r['volume_ton'])} | "
+                       f"{fmt(r['floor_ton']) if float(r['floor_ton'] or 0) >= 1000 else r['floor_ton']} | {fmt(r['owners'])} | {fmt(r['items'])} | {r['launched'][:7]} | {', '.join(l for l in ls if l)} |")
     out += [
         "",
         "## Neighbours on Telegram",
@@ -482,6 +513,9 @@ def build():
         f"| [data/category-fixes.csv](data/category-fixes.csv) | {sum(1 for _ in open('data/category-fixes.csv')) - 1 if os.path.exists('data/category-fixes.csv') else 0} category decisions with the reason: moves, and rows removed as not projects |",
         f"| [data/usernames.csv](data/usernames.csv) | {sum(1 for _ in open('data/usernames.csv')) - 1 if os.path.exists('data/usernames.csv') else 0} other usernames of the same accounts, by numeric id: second names, renames, names now held by someone else |",
         f"| [data/merged.csv](data/merged.csv) | {sum(1 for _ in open('data/merged.csv')) - 1 if os.path.exists('data/merged.csv') else 0} rows folded into the row that shares their Telegram account (the numeric id), with the key |",
+        *([f"| [data/nft-collections.csv](data/nft-collections.csv) | the {sum(1 for _ in open('data/nft-collections.csv')) - 1} largest NFT collections on Getgems by all-time volume ({NFT_SNAPSHOT}): "
+           "kind, address, volume, floor, owners, items, launch date (first transaction of the contract), Telegram, X, site and description from the contract metadata, the catalogue project that shares a link |"]
+          if os.path.exists("data/nft-collections.csv") else []),
         f"| [data/unresolved.csv](data/unresolved.csv) | {len(unresolved)} names from old maps not tied to a project yet |",
         "| [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |",
         f"| [data/similar.csv](data/similar.csv) | {sum(1 for _ in open('data/similar.csv')) - 1:,} pairs: whom Telegram shows in similar channels or similar bots next to an entity here, with the position (June 2026); audiences overlap, it is not traffic |",

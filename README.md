@@ -12,7 +12,7 @@ Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, bui
 
 **Browse it right here**: every category opens as a searchable table, its *table* link below; so do [channels](data/channels.csv) and [studios and funds](data/relations.csv).
 
-**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Neighbours on Telegram](#neighbours-on-telegram), [Verified](#verified-on-telegram), [Other usernames](#other-usernames), [Studios and funds](#studios-funds-and-accelerators), [Channels](#channels), [How to read it](#how-to-read-it), [Data](#data), [Maps and reports](#maps-and-reports), [Contribute](#contribute)
+**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [NFT collections](#top-nft-collections), [Neighbours on Telegram](#neighbours-on-telegram), [Verified](#verified-on-telegram), [Other usernames](#other-usernames), [Studios and funds](#studios-funds-and-accelerators), [Channels](#channels), [How to read it](#how-to-read-it), [Data](#data), [Maps and reports](#maps-and-reports), [Contribute](#contribute)
 
 ## Categories
 
@@ -117,6 +117,38 @@ timeline
   2025 : Tonnel : @Portals : XDAO : TONNEL Network (TONNEL)
   2026 : My Duck : @Mira : Mr. Freeman : TonMobile eSIM
 ```
+
+## Top NFT collections
+
+The 200 largest TON collections on Getgems by all-time volume, snapshot of 2026-10-02; 109 of them are Telegram gifts, with 43M TON of the 323.2M traded. Launch dates are the collection contract's first transaction; socials, site and description come from the contract's own metadata. All of them, with addresses and descriptions, are in [nft-collections.csv](data/nft-collections.csv).
+
+| # | Collection | Kind | Volume, TON | Floor | Owners | Items | Launched | Links |
+| ---: | --- | --- | ---: | ---: | ---: | ---: | --- | --- |
+| 1 | <img src="assets/icons/nft-abjzwnpi.webp" width="20" height="20" alt=""> [Telegram Usernames](https://getgems.io/collection/EQCA14o1-VWhS2efqoh_9M1b_A9DtKTuoqfmkn83AbJzwnPi) | Fragment usernames | 134.1M | 5.6 | 182K | 658K | 2022-10 | [site](https://fragment.com) |
+| 2 | <img src="assets/icons/nft-6vr9si5n.webp" width="20" height="20" alt=""> [Anonymous Telegram Numbers](https://getgems.io/collection/EQAOQdwdw8kGftJCSFgOErM1mBjYPe4DBPq8-AhF6vr9si5N) | Fragment numbers | 122.5M | 2K | 48K | 136K | 2022-12 | [site](https://fragment.com/numbers) |
+| 3 | <img src="assets/icons/nft-2c4nudfs.webp" width="20" height="20" alt=""> [Plush Pepes](https://getgems.io/collection/EQBG-g6ahkAUGWpefWbx-D_9sQ8oWbvy6puuq78U2c4NUDFS) | Telegram gift | 23.7M | 5K | 946 | 3K | 2025-01 | [site](https://fragment.com/gifts/plushpepe) |
+| 4 | <img src="assets/icons/nft-0mtsz0bz.webp" width="20" height="20" alt=""> [TON DNS Domains](https://getgems.io/collection/EQC3dNlesgVD8YbAazcauIrXBPfiVhMMr5YYk2in0Mtsz0Bz) | Domains | 8.1M | 0.4 | 88K | 197K | 2022-07 | [site](https://dns.ton.org) |
+| 5 | <img src="assets/icons/nft-q6niycyw.webp" width="20" height="20" alt=""> [Notcoin Pre-Market](https://getgems.io/collection/EQDmkj65Ab_m0aZaW8IpKw4kYqIgITw_HRstYEkVQ6NIYCyW) | Collection | 4M | 4 | 34K | 795K | 2024-03 | [TG](https://t.me/notcoin), [X](https://x.com/thenotcoin), [NOT](categories/tokens.md) |
+| 6 | <img src="assets/icons/nft-jym9la10.webp" width="20" height="20" alt=""> [Scared Cats](https://getgems.io/collection/EQATuUGdvrjLvTWE5ppVFOVCqU2dlCLUnKTsu0n1JYm9la10) | Telegram gift | 2.7M | 239 | 2K | 14K | 2025-01 | [site](https://fragment.com/gifts/scaredcat) |
+| 7 | <img src="assets/icons/nft-c_wse84w.webp" width="20" height="20" alt=""> [Durov’s Caps](https://getgems.io/collection/EQD9ikZq6xPgKjzmdBG0G0S80RvUJjbwgHrPZXDKc_wsE84w) | Telegram gift | 2.1M | 385 | 1K | 3K | 2025-01 | [site](https://fragment.com/gifts/durovscap) |
+| 8 | <img src="assets/icons/nft-ffxpdc5u.webp" width="20" height="20" alt=""> [Heart Lockets](https://getgems.io/collection/EQC4XEulxb05Le5gF6esMtDWT5XZ6tlzlMBQGNsqffxpdC5U) | Telegram gift | 1.8M | 1K | 253 | 2K | 2025-06 | [site](https://fragment.com/gifts/heartlocket) |
+| 9 | <img src="assets/icons/nft-dfmkzbir.webp" width="20" height="20" alt=""> [TON Diamonds](https://getgems.io/collection/EQAG2BH0JlmFkbMrLEnyn2bIITaOSssd4WdisE4BdFMkZbir) | Collection | 1.4M | 3.7 | 3K | 10K | 2022-06 | [TG](https://t.me/tondiamonds), [X](https://x.com/TonDiamonds), [site](https://ton.diamonds), [TON Diamonds](categories/nftmarkets.md) |
+| 10 | <img src="assets/icons/nft-euccp1w8.webp" width="20" height="20" alt=""> [Precious Peaches](https://getgems.io/collection/EQA4i58iuS9DUYRtUZ97sZo5mnkbiYUBpWXQOe3dEUCcP1W8) | Telegram gift | 1M | 253 | 646 | 3K | 2025-01 | [site](https://fragment.com/gifts/preciouspeach) |
+| 11 | <img src="assets/icons/nft-vzl75icn.webp" width="20" height="20" alt=""> [TON Punks 💎](https://getgems.io/collection/EQAo92DYMokxghKcq-CkCGSk_MgXY5Fo1SPW20gkvZl75iCN) | Collection | 939K | 30 | 1K | 5K | 2022-04 | [TG](https://t.me/punkton), [X](https://x.com/tonpunks), [TON Punks Bot](categories/tokens.md) |
+| 12 | <img src="assets/icons/nft-t2hf4olu.webp" width="20" height="20" alt=""> [Animals Red List](https://getgems.io/collection/EQAA1yvDaDwEK5vHGOXRdtS2MbOVd1-TNy01L1S_t2HF4oLu) | Collection | 938K | 1.8 | 3K | 13K | 2022-05 |  |
+| 13 | <img src="assets/icons/nft-bjtzv32u.webp" width="20" height="20" alt=""> [Swiss Watches](https://getgems.io/collection/EQBI07PXew94YQz7GwN72nPNGF6htSTOJkuU4Kx_bjTZv32U) | Telegram gift | 880K | 54.9 | 2K | 11K | 2025-02 | [site](https://fragment.com/gifts/swisswatch) |
+| 14 | <img src="assets/icons/nft-g3grui3d.webp" width="20" height="20" alt=""> [Loot Bags](https://getgems.io/collection/EQCE80Aln8YfldnQLwWMvOfloLGgmPY0eGDJz9ufG3gRui3D) | Telegram gift | 856K | 122 | 947 | 6K | 2025-03 | [site](https://fragment.com/gifts/lootbag) |
+| 15 | <img src="assets/icons/nft-ko8vxiyl.webp" width="20" height="20" alt=""> [Toy Bears](https://getgems.io/collection/EQC1gud6QO8NdJjVrqr7qFBMO0oQsktkvzhmIRoMKo8vxiyL) | Telegram gift | 714K | 35 | 2K | 29K | 2025-03 | [site](https://fragment.com/gifts/toybear) |
+| 16 | <img src="assets/icons/nft-v7ua7d3z.webp" width="20" height="20" alt=""> [EVAA XP Vouchers](https://getgems.io/collection/EQD0iQuSLkUrRky5Y0CL6a0nsF8iWu0SQZ8AsUQJv7uA7D3z) | Collection | 596K |  | 1 | 9K | 2025-09 | [TG](https://t.me/evaatg), [X](https://x.com/evaaprotocol), [site](https://evaa.finance), [EVAA Protocol](categories/lending.md) |
+| 17 | <img src="assets/icons/nft-olnya4oy.webp" width="20" height="20" alt=""> [Heroic Helmets](https://getgems.io/collection/EQAlROpjm1k1mW30r61qRx3lYHsZkTKXVSiaHEIhOlnYA4oy) | Telegram gift | 382K | 190 | 480 | 2K | 2025-06 | [site](https://fragment.com/gifts/heroichelmet) |
+| 18 | <img src="assets/icons/nft-hx2addqs.webp" width="20" height="20" alt=""> [Mighty Arms](https://getgems.io/collection/EQDeX0F1GDugNjtxkFRihu9ZyFFumBv2jYF5Al1thx2ADDQs) | Telegram gift | 378K | 122 | 516 | 3K | 2025-09 | [site](https://fragment.com/gifts/mightyarm) |
+| 19 | <img src="assets/icons/nft-ujllomqi.webp" width="20" height="20" alt=""> [X Empire Pre-Market](https://getgems.io/collection/EQBFg46ihgN95_3Ld7MU19kVJdKepJ0Dq3UHRBaEuJLlomQI) | Collection | 336K | 0.2 | 69K | 571K | 2024-09 | [TG](https://t.me/empirex), [X](https://x.com/xempiregame), [site](https://xempire.io), [X Empire (X)](categories/farming.md) |
+| 20 | <img src="assets/icons/nft-_vebkgbu.webp" width="20" height="20" alt=""> [Astral Shards](https://getgems.io/collection/EQDIReleOkTxCD4g_XEm8xj0LYNg6-zMsTGAAwCA-vEbkGBu) | Telegram gift | 302K | 110 | 786 | 3K | 2025-02 | [site](https://fragment.com/gifts/astralshard) |
+| 21 | <img src="assets/icons/nft-fdwlfze7.webp" width="20" height="20" alt=""> [Getgems Domains](https://getgems.io/collection/EQDhlVq6cknyPk_SCGZUoXZRbZixNODfcBMCZ3wDfDWLFze7) | Domains | 299K | 0.1 | 74K | 164K | 2024-01 | [site](https://getgems.io/domains) |
+| 22 | <img src="assets/icons/nft-ewe6zsd0.webp" width="20" height="20" alt=""> [Lost Dogs](https://getgems.io/collection/EQAl_hUCAeEv-fKtGxYtITAS6PPxuMRaQwHj0QAHeWe6ZSD0) | Collection | 260K | 1.6 | 18K | 57K | 2023-03 | [TG](https://t.me/lostdogscoru), [X](https://x.com/LostDogsCo), [Lost Dogs](categories/games.md) |
+| 23 | <img src="assets/icons/nft-iaxcrxne.webp" width="20" height="20" alt=""> [Vintage Cigars](https://getgems.io/collection/EQACcQpR2fmdeENWdE2YGQWHVxSTyA8Zq4_k7rk_IaxCRXNe) | Telegram gift | 253K | 37.9 | 2K | 9K | 2025-01 | [site](https://fragment.com/gifts/vintagecigar) |
+| 24 | <img src="assets/icons/nft-kohcxj9m.webp" width="20" height="20" alt=""> [First Force](https://getgems.io/collection/EQDe-g7ds5azgdijv0YyGmS4flgqH_gUqP4o2pIvkOHcxJ9M) | Collection | 250K |  | 8K | 8K | 2025-06 | [X](https://x.com/TacBuild), [site](https://firstforce.tac.build), [TAC (TAC)](categories/infra.md) |
+| 25 | <img src="assets/icons/nft-zk8isifx.webp" width="20" height="20" alt=""> [Snoop Doggs](https://getgems.io/collection/EQAoJw7BpOcBD3y9voMuEQ-qhS3K4gtM-6EePLxkzk8iSifX) | Telegram gift | 234K | 5 | 11K | 55K | 2025-07 | [site](https://fragment.com/gifts/snoopdogg) |
 
 ## Neighbours on Telegram
 
@@ -327,11 +359,12 @@ The `sources` column lists every place a project was found:
 | [data/channels.csv](data/channels.csv) | 1,219 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
 | [data/categories.json](data/categories.json) | categories in display order |
 | [data/link-fixes.csv](data/link-fixes.csv) | 2,236 link decisions (replaced, removed, confirmed, marked down) with evidence |
-| [assets/icons](assets/icons) | 5,214 icons, 64px WebP copies of each project's and channel's Telegram avatar: `<slug>.webp`, channels as `ch-<username>.webp` |
+| [assets/icons](assets/icons) | 5,410 icons, 64px WebP copies of each project's and channel's Telegram avatar: `<slug>.webp`, channels as `ch-<username>.webp` |
 | [datapackage.json](datapackage.json) | the [Frictionless](https://frictionlessdata.io) descriptor: every file and column, for tools that load typed tables |
 | [data/category-fixes.csv](data/category-fixes.csv) | 852 category decisions with the reason: moves, and rows removed as not projects |
 | [data/usernames.csv](data/usernames.csv) | 641 other usernames of the same accounts, by numeric id: second names, renames, names now held by someone else |
 | [data/merged.csv](data/merged.csv) | 35 rows folded into the row that shares their Telegram account (the numeric id), with the key |
+| [data/nft-collections.csv](data/nft-collections.csv) | the 200 largest NFT collections on Getgems by all-time volume (2026-10-02): kind, address, volume, floor, owners, items, launch date (first transaction of the contract), Telegram, X, site and description from the contract metadata, the catalogue project that shares a link |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
 | [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |
 | [data/similar.csv](data/similar.csv) | 17,645 pairs: whom Telegram shows in similar channels or similar bots next to an entity here, with the position (June 2026); audiences overlap, it is not traffic |

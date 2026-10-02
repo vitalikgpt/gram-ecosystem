@@ -490,6 +490,94 @@
      }
     ]
    }
+  },
+  {
+   "name": "nft-collections",
+   "path": "data/nft-collections.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "the largest TON NFT collections on Getgems by all-time volume, with contract metadata and launch dates",
+   "schema": {
+    "fields": [
+     {
+      "name": "rank",
+      "type": "integer"
+     },
+     {
+      "name": "name",
+      "type": "string"
+     },
+     {
+      "name": "kind",
+      "type": "string"
+     },
+     {
+      "name": "address",
+      "type": "string"
+     },
+     {
+      "name": "getgems",
+      "type": "string"
+     },
+     {
+      "name": "volume_ton",
+      "type": "integer"
+     },
+     {
+      "name": "floor_ton",
+      "type": "string"
+     },
+     {
+      "name": "owners",
+      "type": "integer"
+     },
+     {
+      "name": "items",
+      "type": "integer"
+     },
+     {
+      "name": "launched",
+      "type": "string"
+     },
+     {
+      "name": "launched_source",
+      "type": "string"
+     },
+     {
+      "name": "telegram",
+      "type": "string"
+     },
+     {
+      "name": "x",
+      "type": "string"
+     },
+     {
+      "name": "website",
+      "type": "string"
+     },
+     {
+      "name": "other_links",
+      "type": "string"
+     },
+     {
+      "name": "description",
+      "type": "string"
+     },
+     {
+      "name": "approved_by",
+      "type": "string"
+     },
+     {
+      "name": "project",
+      "type": "string"
+     },
+     {
+      "name": "icon",
+      "type": "string"
+     }
+    ]
+   }
   }
  ]
 }
