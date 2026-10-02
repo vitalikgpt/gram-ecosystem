@@ -15,15 +15,15 @@
 | 5 | **Heart Locket** |  | [Site](https://fragment.com/gifts) | 2025-06-06 |
 | 6 | **NOT Wise** | NFT community on TON | [Telegram](https://t.me/notwise) | 2024-03-20 |
 | 7 | **NOT Wise** | NFT community collection on TON | [Telegram](https://t.me/welovemondays) | 2025-12-17 |
-| 8 | **NOTAPES** | Pixel PFP NFT collection of hand drawn apes on TON | [Telegram](https://t.me/notapes) | 2025-03-31 |
+| 8 | **NOTAPES** | Pixel PFP NFT collection of hand drawn apes on TON | [Telegram](https://t.me/notapes) [X](https://x.com/notapess) | 2025-03-31 |
 | 9 | **Seals Playground** | Seals pixel NFT project | [Telegram](https://t.me/sealsplayground) | 2025-11-26 |
-| 10 | **Gram Rabbits** | NFT rabbit collection on Getgems with community chat | [Telegram](https://t.me/mh_friends_zone) | 2023-10-19 |
+| 10 | **Gram Rabbits** | NFT rabbit collection on Getgems with community chat | [Telegram](https://t.me/mh_friends_zone) [Site](https://gram.org) | 2023-10-19 |
 | 11 | **Hello Novia** | TON NFT collection on Getgems | [Telegram](https://t.me/hello_novia) | 2023-07-25 |
 | 12 | **TON Chinchillas** | Collection of 777 chinchilla NFTs on TON | [Telegram](https://t.me/tonchinchi) | 2022-01-23 |
 | 13 | **LEVELS** | NFT collection of 1500 cards on TON | [Telegram](https://t.me/levels_ton) | 2026-01-27 |
-| 14 | **TON Cats NFT** | NFT cat collection on The Open Network | [Telegram](https://t.me/tonnftcat) | 2022-01-30 |
+| 14 | **TON Cats NFT** | NFT cat collection on The Open Network | [Telegram](https://t.me/tonnftcat) [Site](https://toncat.org) | 2022-01-30 |
 | 15 | **Utya Portal** | Utya duck NFT project on TON | [Telegram](https://t.me/utyaduck) | 2024-04-12 |
-| 16 | **10kClub** | Club for holders of 4-digit .ton domains | [Telegram](https://t.me/club10k) | 2024-06-20 |
+| 16 | **10kClub** | Club for holders of 4-digit .ton domains | [Telegram](https://t.me/club10k) [Site](https://10kclub.com) | 2024-06-20 |
 | 17 | **The Dinos** | Dinosaur NFT collection on TON | [Telegram](https://t.me/dinoston) | 2023-12-21 |
 
 <details><summary><b>Quiet: 67</b></summary>
@@ -42,17 +42,17 @@
 | 27 | **VeVe Stickerverse** | Digital sticker collectibles on Telegram | [Bot](https://t.me/veve_stickerverse_bot) | 2026-06-04 |
 | 28 | **Neko NFT** | NFT collection on TON | [Telegram](https://t.me/nek0nft) | 2025-09-08 |
 | 29 | **Telegram Monk** | Telegram Monk NFT portal channel | [Telegram](https://t.me/tg_monk) [X](https://x.com/TMonkOfficial) [Site](https://tgmonk.com) | 2024-03-10 |
-| 30 | **DreamWalkers** | NFT collection of 6363 items on TON | [Telegram](https://t.me/dreamwalkersnft) | 2022-07-23 |
+| 30 | **DreamWalkers** | NFT collection of 6363 items on TON | [Telegram](https://t.me/dreamwalkersnft) [Site](https://dreamwalkers.io) | 2022-07-23 |
 | 31 | **TON Olbanec** | Free mint NFT collection | [Telegram](https://t.me/olbania_memeland) | 2023-03-27 |
 | 32 | **Blockchain NFT** | Info channel of the Blockchain NFT collection | [Telegram](https://t.me/chat_blockchain_nft) | 2023-02-05 |
-| 33 | **Nutcrackers Club** | Holder club for the Nutcrackers NFT collection on TON | [Telegram](https://t.me/nutcracker_en) | 2024-02-01 |
+| 33 | **Nutcrackers Club** | Holder club for the Nutcrackers NFT collection on TON | [Telegram](https://t.me/nutcracker_en) [X](https://x.com/NutcrackersNFT) | 2024-02-01 |
 | 34 | **TON Fans** | TON Fans NFT collection and community fund | [Telegram](https://t.me/tonfans_nft) | 2022-08-21 |
 | 35 | **Smeshariki on TON** | NFT collections and mini app based on Smeshariki | [Telegram](https://t.me/smeshtonnews) | 2024-04-30 |
 | 36 | **Punks market** | Offers for Punks NFTs from GetGems and Disintar | [Telegram](https://t.me/punksv2) [Bot](https://t.me/punks_bot) | 2022-05-15 |
-| 37 | **Eggs Wisdom** | Eggs Wisdom NFT collection on Getgems | [Telegram](https://t.me/eggswisdom) | 2023-10-03 |
+| 37 | **Eggs Wisdom** | Eggs Wisdom NFT collection on Getgems | [Telegram](https://t.me/eggswisdom) [X](https://x.com/EggsWisdom) | 2023-10-03 |
 | 38 | **BARASH** | Sheep NFT collection on TON | [Telegram](https://t.me/barash_ton) | 2024-01-18 |
 | 39 | **NFT Dogs Metaverse** | Husky dog NFT collection on The Open Network | [Telegram](https://t.me/tonnftdog) | 2022-02-27 |
-| 40 | **Ponchiqs** | Ponchiqs NFT community on TON | [Telegram](https://t.me/ponchiqs) | 2023-12-12 |
+| 40 | **Ponchiqs** | Ponchiqs NFT community on TON | [Telegram](https://t.me/ponchiqs) [Site](https://ponchiqs.com) | 2023-12-12 |
 | 41 | **Zhdun** | NFT collection on TON | [Telegram](https://t.me/zhdunnft) | 2025-07-02 |
 | 42 | **The Miners Club** | NFT collection for miners on TON | [Telegram](https://t.me/theminersclub) | 2024-02-07 |
 | 43 | **Freax** | NFT collection of crazy freax | [Telegram](https://t.me/freaxnft) | 2024-10-09 |
@@ -62,12 +62,12 @@
 | 47 | **MamonTON** | Generated NFT collection with its own site | [Telegram](https://t.me/mamontonft) | 2022-04-18 |
 | 48 | **NFT Dog TON** | Dog NFT collection on TON by Tegro | [Telegram](https://t.me/tonnfttegrodog) | 2022-05-06 |
 | 49 | **Concept2048** | NFT collection with official channel | [Telegram](https://t.me/nft_ton_concept) | 2022-08-30 |
-| 50 | **Forever Meow** | Cat NFT collection on Getgems | [Telegram](https://t.me/forever_meow) | 2022-11-15 |
+| 50 | **Forever Meow** | Cat NFT collection on Getgems | [Telegram](https://t.me/forever_meow) [X](https://x.com/forevermeow) | 2022-11-15 |
 | 51 | **TON Bored Ape** | Collectible Bored Ape NFT for TON | [Telegram](https://t.me/tonbored) | 2022-04-07 |
 | 52 | **Sweetie NFT** | TON NFT project managing a network of channels | [Telegram](https://t.me/sweetie_nft) | 2023-06-29 |
 | 53 | **Mutant Toadz** | NFT collection on the TON blockchain | [Telegram](https://t.me/mutanttoadz) [Bot](https://t.me/mutanttoadz_bot) | 2022-04-14 |
 | 54 | **The Simpletons** | NFT collection project sold on Getgems | [Telegram](https://t.me/thesimpletons) | 2024-05-05 |
-| 55 | **Toned Ape Club** | NFT collection on TON | [Telegram](https://t.me/toned_ape_club) | 2022-01-29 |
+| 55 | **Toned Ape Club** | NFT collection on TON | [Telegram](https://t.me/toned_ape_club) [Site](https://tonedapeclub.space) | 2022-01-29 |
 | 56 | **TON Corgi NFT** | Corgi NFT collection on TON | [Telegram](https://t.me/toncorgi) | 2022-07-18 |
 | 57 | **Soul Stones** | NFT collection on TON | [Telegram](https://t.me/tonsoulstonesnft) | 2022-03-03 |
 | 58 | **TON CAT** | Cat NFT collection on TON | [Telegram](https://t.me/ton_cat) | 2022-03-10 |

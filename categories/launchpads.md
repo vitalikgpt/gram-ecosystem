@@ -8,26 +8,26 @@
 
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
-| 1 | **TopBlast** | Launch and create history on topblast.lol | [Telegram](https://t.me/topblastdotlol) | 2026-02-11 |
+| 1 | **TopBlast** | Launch and create history on topblast.lol | [Telegram](https://t.me/topblastdotlol) [X](https://x.com/topblastlol) [Site](https://topblast.lol) | 2026-02-11 |
 | 2 | **Meridian** | Investors Сlub Meridian | [Telegram](https://t.me/meridian_wtf) [X](https://x.com/meridianwtf) [Site](https://getgems.io/collection/EQAVGhk_3rUA3ypZAZ1SkVGZIaDt7UdvwA4jsSGRKRo-MRDN) | 2022-09-14 |
 | 3 | **@Blum** | Blum Memepad is a trading platform for launching and trading meme coins | [Telegram](https://t.me/blumcrypto_memepad) [Bot](https://t.me/blum) [X](https://x.com/blumcrypto) [Site](https://blum.io) [Gram News](https://gramnews.org/apps/blum-memepad) | 2022-12-31 |
 | 4 | **BigPump** | Hottest in Meme Trading from BigPump | [Telegram](https://t.me/bigpumphub) [X](https://x.com/bigpumpmeme) | 2024-10-30 |
 | 5 | **Uranus** |  | [Telegram](https://t.me/nonameuranus) | 2026-05-06 |
 | 6 | **JVault** | JVault is a protocol for staking, launchpad, and locker on TON | [Telegram](https://t.me/jvault) [Bot](https://t.me/JVaultBot) [X](https://x.com/JVault_app) [Site](https://jvault.xyz) [GitHub](https://github.com/JVault-app) [Gram News](https://gramnews.org/apps/jvault) | 2023-09-25 |
-| 7 | **PumpMeme** |  | [Telegram](https://t.me/pumpmemenews) [Bot](https://t.me/pumpmeme_bot) [X](https://x.com/PumpMemeClub) [Gram News](https://gramnews.org/apps/pumpmeme) | 2024-09-24 |
+| 7 | **PumpMeme** |  | [Telegram](https://t.me/pumpmemenews) [Bot](https://t.me/pumpmeme_bot) [X](https://x.com/PumpMemeClub) [Site](https://pumpmeme.club) [Gram News](https://gramnews.org/apps/pumpmeme) | 2024-09-24 |
 | 8 | **DuckChain** | DuckChain is a service for staking and bridging crypto assets | [Telegram](https://t.me/duckchainann) [Bot](https://t.me/duckchain_bot) [X](https://x.com/duck_chain) [Site](https://bridge.duckchain.io) [Gram News](https://gramnews.org/apps/duckchain) | 2024-06-15 |
 | 9 | **Pumplyx Competition** |  | [Bot](https://t.me/pumplyxcompetitionbot) | 2026-08-25 |
 | 10 | **PLAYS Hub** |  | [Telegram](https://t.me/PlayshubAnn) [Bot](https://t.me/playshubbot) [X](https://x.com/PlaysHub) Site (down) [Gram News](https://gramnews.org/apps/plays-hub) | 2024-07-25 |
 | 11 | **W3BFLIX** | Experience the future of entertainment with W3BFLIX | [Bot](https://t.me/w3bflixbot) | 2024-05-15 |
 | 12 | **GasPump** | GasPump fun channel. DYOR | [Telegram](https://t.me/gaspump_tv) [Bot](https://t.me/gasPump_bot) [X](https://x.com/gaspump_tv) Site (down) [Gram News](https://gramnews.org/apps/gaspump-1) | 2024-05-29 |
 | 13 | **Clarnium Games** | Clarnium Games — a platform for launching tokens and earning meme coins through quests… | [Telegram](https://t.me/clarnium) [Bot](https://t.me/ClarniumGame_bot) [X](https://x.com/clarnium_io) [Site](https://clarnium.io/) [Gram News](https://gramnews.org/apps/clarnium-games) | 2022-09-13 |
-| 14 | **Just Pump It** | Test token for a USDA launchpad on TON | [Telegram](https://t.me/justpumpthis) | 2026-08-18 |
-| 15 | **Grambo** | Social token launchpad on TON | [Telegram](https://t.me/grambofun) | 2026-06-19 |
+| 14 | **Just Pump It** | Test token for a USDA launchpad on TON | [Telegram](https://t.me/justpumpthis) [X](https://x.com/JustPumpItTON) [Site](https://pumpit.best) | 2026-08-18 |
+| 15 | **Grambo** | Social token launchpad on TON | [Telegram](https://t.me/grambofun) [X](https://x.com/grambofun) [Site](https://grambo.fun) | 2026-06-19 |
 | 16 | **Wizzwoods** |  | [Bot](https://t.me/wizzwoodsbot) [Site](https://wizzwoods.com/) [Gram News](https://gramnews.org/apps/wizzwoods) | 2024-06-17 |
 | 17 | **The Fund** | Next-gen launchpad | [Telegram](https://t.me/thefund) | 2018-10-19 |
 | 18 | **USDAGemBot** | Here will be new tokens from USDA launchpad chat Channel Pump launch your gem here | [Telegram](https://t.me/usdagembot) [Bot](https://t.me/pumpitlaunch_bot) | 2026-08-17 |
 | 19 | **NitroChain** | NitroChain — blockchain infrastructure for fast and low-cost transactions | [Telegram](https://t.me/NitrochainNews) [Bot](https://t.me/nitrochainbot) [X](https://x.com/Nitrochainapp) [Site](https://nitrochain.space/) [Gram News](https://gramnews.org/apps/nitrochain) | 2023-12-07 |
-| 20 | **Uranus & Topblast** | Deploys and bondings channel of memepads on TON | [Telegram](https://t.me/sounds_from_uranus) | 2025-11-30 |
+| 20 | **Uranus & Topblast** | Deploys and bondings channel of memepads on TON | [Telegram](https://t.me/sounds_from_uranus) [X](https://x.com/topblastlol) [Site](https://topblast.lol) | 2025-11-30 |
 | 21 | **Tonstarter** | Tonstarter — a launchpad for projects on TON | [Bot](https://t.me/ton_starter_bot) [X](https://x.com/ton_starter) [Site](https://tonstarter.com) [Gram News](https://gramnews.org/apps/tonstarter) | 2022-02-23 |
 
 <details><summary><b>Quiet: 75</b></summary>
@@ -81,7 +81,7 @@
 | 66 | **Hypecoin** |  | [Telegram](https://t.me/hypecoinnews) [X](https://x.com/HypecoinFinance) [Gram News](https://gramnews.org/apps/hypecoin) | 2024-06-07 |
 | 67 | **Investment kingyru EN** |  | [X](https://x.com/kingyru) [Gram News](https://gramnews.org/apps/investment-kingyru-en) | 2022-02-14 |
 | 68 | **ListingUz** |  | [Bot](https://t.me/cryptowood_mini_app_bot) [Gram News](https://gramnews.org/apps/listinguz) | 2023-02-11 |
-| 69 | **Memes Lab** | LAB launcher: create, trade, develop | [Telegram](https://t.me/lab_trade) [Bot](https://t.me/memeslabbot) [Site](https://lab.pro) | 2024-07-25 |
+| 69 | **Memes Lab** | LAB launcher: create, trade, develop | [Telegram](https://t.me/lab_trade) [Bot](https://t.me/memeslabbot) [X](https://x.com/memeslabxyz) [Site](https://lab.pro) | 2024-07-25 |
 | 70 | **Memetics** | Home of Telegram mini economies | [Telegram](https://t.me/memetics_news) | 2024-09-23 |
 | 71 | **Pandastic** |  | [Bot](https://t.me/pandastic_bot) [X](https://x.com/pandastic_io) [Gram News](https://gramnews.org/apps/pandastic) | 2024-06-23 |
 | 72 | **Preseller** | Launch secure presale campaign on the TON blockchain in 5 minutes | [Bot](https://t.me/tonpreseller_bot) [Gram News](https://gramnews.org/apps/preseller) | 2025-01 |
@@ -97,13 +97,13 @@
 | 82 | **TonPump.app** | TonPump Memes Launchpad Community | [Telegram](https://t.me/tonpump_community) [X](https://x.com/TonPump_app) | 2024-12-06 |
 | 83 | **TONUP** |  | [Telegram](https://t.me/tonup_io) [X](https://x.com/TonUP_io) [Site](https://tonup.io/) [Gram News](https://gramnews.org/apps/tonup) | 2023-04 |
 | 84 | **Wagmi** | Meme token launchpad and trading platform on TON | [Bot](https://t.me/wagmi_app_bot) | 2024-11-27 |
-| 85 | **GAGARIN** | Web3 growth and launch ecosystem for projects | [Telegram](https://t.me/gagarin_launchpad) | 2023-01-04 |
-| 86 | **GAGARIN** | Web3 project booster and launchpad with media resource | [Telegram](https://t.me/gagarin_launchpad_ru) | 2022-12-27 |
+| 85 | **GAGARIN** | Web3 growth and launch ecosystem for projects | [Telegram](https://t.me/gagarin_launchpad) [Site](https://gagarin.world) | 2023-01-04 |
+| 86 | **GAGARIN** | Web3 project booster and launchpad with media resource | [Telegram](https://t.me/gagarin_launchpad_ru) [Site](https://gagarin.world) | 2022-12-27 |
 | 87 | **Loton** | Value distribution platform in the TON ecosystem | [Telegram](https://t.me/lotongenesis) | 2026-03-03 |
 | 88 | **Orexn** |  | [Telegram](https://t.me/OrexnApp) [Bot](https://t.me/Orexnbot) [X](https://x.com/OrexnX) Site (down) [Gram News](https://gramnews.org/apps/orexn) | 2025-07-25 |
 | 89 | **GraFun** | Memecoin launchpad on TON | [Telegram](https://t.me/grafunmeme) | 2024-09-11 |
 | 90 | **Ton Launchpad** |  | [Telegram](https://t.me/TheTonlaunch_pad) [Bot](https://t.me/tonlaunchpadofficial_bot) [X](https://x.com/thetonlaunchpad) [Site](https://tonlaunchpad.com/) [Gram News](https://gramnews.org/apps/ton-launchpad) | 2025-04-09 |
-| 91 | **BYIN** | One-click meme launchpad on TON | [Telegram](https://t.me/byin_fun) | 2024-07-13 |
+| 91 | **BYIN** | One-click meme launchpad on TON | [Telegram](https://t.me/byin_fun) [Site](https://byin.fun) | 2024-07-13 |
 | 92 | **Capitalist** |  | [Telegram](https://t.me/capitalist_web3) [Bot](https://t.me/wisekeeperbot) [X](https://x.com/capitalistweb3) [Gram News](https://gramnews.org/apps/capitalist) | 2024-10-25 |
 | 93 | **Purr.Fund** | The first Community-Driven Launchpad & Launchpool | [Telegram](https://t.me/purr_news) [Bot](https://t.me/purr_fund_bot) [X](https://x.com/PurrFund) Site (down) [GitHub](https://github.com/PurrFund/SC-Purr) [Gram News](https://gramnews.org/apps/purr-fund) | 2024-04-09 |
 | 94 | **TONpad** | TONpad - The first and premier Community-driven Token Launch Protocol on TON Blockchain | [Telegram](https://t.me/TONpad_news) [X](https://x.com/TON_launchpad) Site (down) [GitHub](https://github.com/tonpad) [Gram News](https://gramnews.org/apps/tonpad) | 2024-03-20 |

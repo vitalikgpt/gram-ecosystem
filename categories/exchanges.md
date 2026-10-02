@@ -8,8 +8,8 @@
 
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
-| 1 | **Binance** | Binance Official English Group | [Telegram](https://t.me/binance_announcements) [Site](https://www.binance.com) | 2024-06-21 |
-| 2 | **Bybit** | BYBIT is a trading platform that caters to the needs of all types of traders | [Telegram](https://t.me/bybit_announcements) [Site](https://www.bybit.com) | 2022-12-21 |
+| 1 | **Binance** | Binance Official English Group | [Telegram](https://t.me/binance_announcements) [X](https://x.com/binance) [Site](https://www.binance.com) | 2024-06-21 |
+| 2 | **Bybit** | BYBIT is a trading platform that caters to the needs of all types of traders | [Telegram](https://t.me/bybit_announcements) [X](https://x.com/Bybit_Official) [Site](https://www.bybit.com) | 2022-12-21 |
 | 3 | **OKX** |  | [Telegram](https://t.me/okxannouncements) [Site](https://www.okx.com) [Gram News](https://gramnews.org/apps/okx) | 2026-05-12 |
 | 4 | **Bitget** | Official Bitget English Announcements Channel | [Telegram](https://t.me/bitget_announcements) [X](https://x.com/bitget) [Site](https://www.bitget.com) [Gram News](https://gramnews.org/apps/bitget) | 2021-07-03 |
 | 5 | **Coinbase** |  | [Site](https://www.coinbase.com) | 2025-11-18 |
@@ -21,7 +21,7 @@
 | 11 | **wallex** |  | [Telegram](https://t.me/wallexchange) [X](https://x.com/Wallex_ir) [Site](https://wallex.ir) [Gram News](https://gramnews.org/apps/wallex) | 2018-11-27 |
 | 12 | **اوکی اکسچنج** |  | [Telegram](https://t.me/okexir) [Bot](https://t.me/tonairdropfa_bot) [X](https://x.com/okexir) [Site](https://ok-ex.io/) [Gram News](https://gramnews.org/apps/yrdrp-twn-frsy) | 2018-04-08 |
 | 13 | **Bitpin** | بیت‌پین؛ تجربه سرمایه‌گذاری نوین | [Telegram](https://t.me/bitpin) [X](https://x.com/bitpinmarket) [Site](https://bitpin.ir/) [Gram News](https://gramnews.org/apps/bitpin) | 2022-08-04 |
-| 14 | **Swapster** | Храните, Отправляйте, Обменивайте. Акции, криптовалюта | [Telegram](https://t.me/swpstr) [Bot](https://t.me/swapsterbot) [X](https://x.com/swapsterteam) [Gram News](https://gramnews.org/apps/swapster) | 2022-10-13 |
+| 14 | **Swapster** | Храните, Отправляйте, Обменивайте. Акции, криптовалюта | [Telegram](https://t.me/swpstr) [Bot](https://t.me/swapsterbot) [X](https://x.com/swapsterteam) [Site](https://swapster.fi) [Gram News](https://gramnews.org/apps/swapster) | 2022-10-13 |
 | 15 | **Bit2Me** |  | [Telegram](https://t.me/bit2me_es) [X](https://x.com/Bit2Me) [Site](https://www.bit2me.com) [GitHub](https://github.com/bit2me-devs) [Gram News](https://gramnews.org/apps/bit2me) | 2018-08-13 |
 | 16 | **XCrypto** |  | [Telegram](https://t.me/xcryptoen) [Gram News](https://gramnews.org/apps/xcrypto) | 2026-05-25 |
 | 17 | **StealthEX** | This is an official Telegram Account of | [Telegram](https://t.me/stealthex) [X](https://x.com/StealthEX_io) [Site](https://stealthex.io/?ref=y83bSWcwSs) [Gram News](https://gramnews.org/apps/stealthex) | 2026-05-06 |
@@ -45,10 +45,10 @@
 | 35 | **Explace** |  | [Telegram](https://t.me/explaceio) [X](https://x.com/Explaceio) [Site](https://explace.io/) [Gram News](https://gramnews.org/apps/explace) | 2024-09-26 |
 | 36 | **Bitstorage** |  | [Telegram](https://t.me/bitstoragefinancechannel) [X](https://x.com/BitstorageFin) [Site](https://bitstorage.finance/) [Gram News](https://gramnews.org/apps/bitstorage) | 2026-08-08 |
 | 37 | **Gate** |  | [Site](https://www.gate.io) [Gram News](https://gramnews.org/apps/gate-io) | 2021-10-25 |
-| 38 | **WhiteBIT** |  | [Telegram](https://t.me/whitebit) [Site](https://whitebit.com) | 2024-03-14 |
+| 38 | **WhiteBIT** |  | [Telegram](https://t.me/whitebit) [X](https://x.com/WhiteBit) [Site](https://whitebit.com) [GitHub](https://github.com/whitebit-exchange) | 2024-03-14 |
 | 39 | **HashKey Global** | Licensed digital asset exchange announcements channel | [Telegram](https://t.me/hashkeyglobal_announcement) | 2024-08-03 |
-| 40 | **BitMart** | BitMart exchange channel | [Telegram](https://t.me/bitmartexchange_channel) | 2021-10-12 |
-| 41 | **KuCoin Russia** | Russian news channel of KuCoin exchange | [Telegram](https://t.me/kucoinrussiannews) | 2021-11-16 |
+| 40 | **BitMart** | BitMart exchange channel | [Telegram](https://t.me/bitmartexchange_channel) [X](https://x.com/BitMartExchange) [Site](https://bitmart.com) [GitHub](https://github.com/bitmartexchange) | 2021-10-12 |
+| 41 | **KuCoin Russia** | Russian news channel of KuCoin exchange | [Telegram](https://t.me/kucoinrussiannews) [X](https://x.com/KuCoin_Web3) | 2021-11-16 |
 | 42 | **GOPAX** | Official channel of the GOPAX crypto exchange | [Telegram](https://t.me/gopaxkr_official) | 2024-02-15 |
 | 43 | **Bitrue** | Announcements channel of the Bitrue exchange | [Telegram](https://t.me/bitrue_official) | 2020-05-07 |
 | 44 | **BingX** | Empowering Traders. Elevate your crypto trading game at BingX | [Telegram](https://t.me/bingxofficial) [X](https://x.com/BingXOfficial) [Site](https://bingx.com) | 2024-07-08 |

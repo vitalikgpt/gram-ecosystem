@@ -45,9 +45,9 @@
 | 30 | **Vidma** |  | [Telegram](https://t.me/vidmasecurity) [X](https://x.com/Vidma_security) [Site](https://www.vidma.io) [GitHub](https://github.com/vidma-security) [Gram News](https://gramnews.org/apps/vidma) | 2022-02-28 |
 | 31 | **Web3defender** | Web3defender — wallet and link fraud detection | [Telegram](https://t.me/web3defender_alerts) [Bot](https://t.me/web3defender_bot) [Site](https://web3defender.tech) [Gram News](https://gramnews.org/apps/web3defender) | 2026-09-04 |
 | 32 | **Zokyo** | Web3 cybersecurity firm | [Bot](https://t.me/zokyouat_bot) | 2024-10-24 |
-| 33 | **HAPI** | Onchain cybersecurity protocol for DeFi projects | [Telegram](https://t.me/hapi_ann) | 2024-10-25 |
+| 33 | **HAPI** | Onchain cybersecurity protocol for DeFi projects | [Telegram](https://t.me/hapi_ann) [X](https://x.com/i_am_hapi_one) [Site](https://hapi.one) | 2024-10-25 |
 | 34 | **Spide** | IT company in the field of development & cybersecurity | [Telegram](https://t.me/spide) [Bot](https://t.me/spide_robot) [X](https://x.com/spidesecurity) [Site](https://spide.org) [Gram News](https://gramnews.org/apps/spide) | 2021-03-26 |
-| 35 | **PositiveWeb3** | Web3 Security Research audit.com | [Telegram](https://t.me/positiveweb3) [X](https://x.com/PositiveWeb3) [GitHub](https://github.com/PositiveSecurity) | 2023-09-26 |
+| 35 | **PositiveWeb3** | Web3 Security Research audit.com | [Telegram](https://t.me/positiveweb3) [X](https://x.com/PositiveWeb3) [Site](https://positive.com) [GitHub](https://github.com/PositiveSecurity) | 2023-09-26 |
 | 36 | **Esprito Protocol** | Esprito is an on-chain security analytics company. We offer comprehensive TON analytics… | [Telegram](https://t.me/espritoxyz) [Bot](https://t.me/espritobot) [X](https://x.com/espritoxyz) [Site](https://esprito.com/) [GitHub](https://github.com/espritoxyz) [Gram News](https://gramnews.org/apps/esprito-protocol) | 2024-06-17 |
 | 37 | **Verify** |  | [Telegram](https://t.me/verify_ton_ru) [Bot](https://t.me/verify_eng) [Gram News](https://gramnews.org/apps/verify) | 2024-05-29 |
 

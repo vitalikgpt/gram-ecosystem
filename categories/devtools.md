@@ -114,7 +114,7 @@
 | 101 | **DeLab Team** | Development team building on TVM, including a TON SIM bot | [Telegram](https://t.me/delabteam) | 2022-11-04 |
 | 102 | **FragMem** | Dev log of Fragment meme bots | [Telegram](https://t.me/fragmembots) [Bot](https://t.me/fragmembot) | 2024-12-03 |
 | 103 | **TON Contests** | Announcements of TON developer contests | [Telegram](https://t.me/toncontests) | 2021-11-09 |
-| 104 | **TONX** | TONX is the SuperApp platform layer that enables builders to create the new Web3 economy | [Telegram](https://t.me/tonxstudio) [Site](https://tonx.ai/) | 2022-09-29 |
+| 104 | **TONX** | TONX is the SuperApp platform layer that enables builders to create the new Web3 economy | [Telegram](https://t.me/tonxstudio) [X](https://x.com/TONX_Studio) [Site](https://tonx.ai/) | 2022-09-29 |
 | 105 | **8XR** |  | [Telegram](https://t.me/gam8s) [X](https://x.com/8xr_engine) | 2022-11-07 |
 | 106 | **TONX API** | Support the development of TON by offering an array of robust tools for a seamless… | [Telegram](https://t.me/tonxapi) [X](https://x.com/TONXAPI) [Site](https://tonxapi.com/) [GitHub](https://github.com/tonxapi/sample) [Gram News](https://gramnews.org/apps/tonx-api) | 2023-10-31 |
 | 107 | **TON.SKI Access** | An ecosystem for TON Sites | [Telegram](https://t.me/tonski_eng) [Site](https://ton.ski/access/) [Gram News](https://gramnews.org/apps/ton-ski-access) | 2022-12-22 |

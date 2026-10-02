@@ -24,6 +24,6 @@
 | 9 | **CurioDAO** | Real-world asset tokenization ecosystem | [Telegram](https://t.me/curiocarqa) | 2024-08-22 |
 | 10 | **Nexton** | NEXTON is a staking and arbitrage platform designed to maximize rewards in the TON… | [X](https://x.com/NextonNode) [Site](https://www.nexton.solutions) | 2024-11-29 |
 | 11 | **TVERLOFT** | Real estate-backed RWA token TLOFT | [Telegram](https://t.me/tverloft_chat) | 2025-06-30 |
-| 12 | **Plume** | Real-world asset blockchain network | [Telegram](https://t.me/plumenetwork) | 2025-01-06 |
+| 12 | **Plume** | Real-world asset blockchain network | [Telegram](https://t.me/plumenetwork) [X](https://x.com/plumenetwork) [Site](https://plume.org) | 2025-01-06 |
 
 </details>

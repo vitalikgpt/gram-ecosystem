@@ -20,7 +20,7 @@
 | 10 | **Лобушкин молнит** | Главный новостной терминал Прислать новость — Основной Канал в MAX —… | [Telegram](https://t.me/lobushkinflash) [Bot](https://t.me/tgpodbor_bot) | 2022-10-19 |
 | 11 | **КриптоАтака 24** | Наибыстрейший информационный по крипте 24/7 - мгновенный агрегатор данных с… | [Telegram](https://t.me/cryptoattack24) [Bot](https://t.me/attackconnect_bot) | 2021-12-18 |
 | 12 | **Ultra Wallet** |  | [Telegram](https://t.me/ultrawalletofficial) [Bot](https://t.me/ultrawallettrade_bot) | 2026-09-06 |
-| 13 | **Beta Arena** | AI-powered crypto trading platform | [Telegram](https://t.me/betaarenachannel) [Bot](https://t.me/betaarenabot) | 2026-05-04 |
+| 13 | **Beta Arena** | AI-powered crypto trading platform | [Telegram](https://t.me/betaarenachannel) [Bot](https://t.me/betaarenabot) [X](https://x.com/beta_arena_io) | 2026-05-04 |
 | 14 | **CentPay Escrow** | Buy • Sell • Escrow • Trade Secure Transactions / Fast Processing / Global Marketplace | [Bot](https://t.me/centpaaybot) | 2026-09-01 |
 | 15 | **BasedBot** |  | [Telegram](https://t.me/basedbotverify) [Bot](https://t.me/based_eth_bot) | 2022-09-20 |
 | 16 | **Elementex AI** | Elementex AI Smart Crypto Investments & AI Trading Bots. Official Website: elementex.tech | [Bot](https://t.me/elementexbot) | 2026-05-08 |
@@ -29,7 +29,7 @@
 | 19 | **AiPowerTrade, Earn UpTo 7% Daily Earn** | Get 135% in just 30 Days | [Bot](https://t.me/aipowertraderbot) | 2026-08-17 |
 | 20 | **Pump.tg** | TON token swap aggregator | [Telegram](https://t.me/pumpme_tg) [Bot](https://t.me/pumpn_bot) [X](https://x.com/pumptg_n) [Site](https://pump.tg/) [Gram News](https://gramnews.org/apps/pump-tg) | 2026-07-13 |
 | 21 | **NoName Trending** | Big buys among the tokens tracked by the by | [Telegram](https://t.me/nonametrending) [Bot](https://t.me/buynnbot) | 2026-03-28 |
-| 22 | **Algofin** | Algorithmic trading ecosystem on TON | [Telegram](https://t.me/algofinancex) | 2026-04-18 |
+| 22 | **Algofin** | Algorithmic trading ecosystem on TON | [Telegram](https://t.me/algofinancex) [X](https://x.com/algofinx) | 2026-04-18 |
 
 <details><summary><b>Quiet: 41</b></summary>
 
@@ -70,7 +70,7 @@
 | 55 | **Tradowix Rewards** | Official TradoWix rewards bot. Join , send your Trader ID, get your bonus. One reward… | [Telegram](https://t.me/tradowix_official) [Bot](https://t.me/tradowix_promo_bot) | 2026-08-15 |
 | 56 | **VodkaTrade** | Telegram trading bot | [Bot](https://t.me/vodkatradebot) | 2025-08-27 |
 | 57 | **Wisdomise AI Trader** | AI memecoin trading bot | [Bot](https://t.me/wisdomiseton_bot) | 2024-08-06 |
-| 58 | **Wisdomise** | AI-automated index funds for digital assets | [Telegram](https://t.me/wisdomise_announcement) | 2024-05-09 |
+| 58 | **Wisdomise** | AI-automated index funds for digital assets | [Telegram](https://t.me/wisdomise_announcement) [X](https://x.com/wisdomise) [Site](https://wisdomise.com) | 2024-05-09 |
 | 59 | **DXS: Trade The World** | Новости проекта, а также полезная информация о мире криптовалют и трейдинга | [Telegram](https://t.me/dxsapp) [X](https://x.com/DXSapp) [Site](https://dxs.app) [Gram News](https://gramnews.org/apps/dxs-trade-the-world) | 2025-07-24 |
 | 60 | **Agent X** | Smart trading agent app | [Telegram](https://t.me/agentxnews) | 2025-04-07 |
 | 61 | **TOX** | Crypto trading hub and bot on TON | [Telegram](https://t.me/toxonton) | 2024-06-17 |

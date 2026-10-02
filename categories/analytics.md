@@ -11,14 +11,14 @@
 | 1 | **Lagus research** | ресерч, секьюрити, контракты, блокчейны | [Telegram](https://t.me/lagus_research) | 2025-11-27 |
 | 2 | **Dune** |  | [Site](https://dune.com) | 2024-12-19 |
 | 3 | **CoinGecko** |  | [Site](https://www.coingecko.com) | 2014-03-26 |
-| 4 | **CoinMarketCap** |  | [Telegram](https://t.me/coinmarketcapannouncements) [Site](https://coinmarketcap.com) | 2013-04-28 |
+| 4 | **CoinMarketCap** |  | [Telegram](https://t.me/coinmarketcapannouncements) [Site](https://coinmarketcap.com) [GitHub](https://github.com/coinmarketcap-official) | 2013-04-28 |
 | 5 | **DefiLlama** |  | [X](https://x.com/DefiLlama) [Site](https://defillama.com/chain/ton) [Gram News](https://gramnews.org/apps/defillama) | 2022-11-16 |
 | 6 | **DEX Screener** |  | [Site](https://dexscreener.com/ton) | 2021-06-11 |
 | 7 | **Gecko Terminal** |  | [Site](https://www.geckoterminal.com/ton/pools) | 2020-11-08 |
 | 8 | **anton.tools** |  | [Telegram](https://t.me/tonindexer) [Site](https://anton.tools) [GitHub](https://github.com/tonindexer) | 2023-03-02 |
 | 9 | **see.tg** |  | [Site](https://see.tg) | 2025-11-26 |
 | 10 | **TGStat** |  | [Telegram](https://t.me/tgstat) [Site](https://tgstat.com) | 2017-07-08 |
-| 11 | **New Listings Feed** | Snappiest digital asset listings clearinghouse. WebSocket: Feed in your group: X:… | [Telegram](https://t.me/newlistingsfeed) [Bot](https://t.me/newlistingsfeed_bot) [Site](https://newlistings.pro) | 2024-03-16 |
+| 11 | **New Listings Feed** | Snappiest digital asset listings clearinghouse. WebSocket: Feed in your group: X:… | [Telegram](https://t.me/newlistingsfeed) [Bot](https://t.me/newlistingsfeed_bot) [X](https://x.com/NewListingsFeed) [Site](https://newlistings.pro) | 2024-03-16 |
 | 12 | **CryptoWhale** | The official channel for crypto and bitcoin price action, social media analytics, news,… | [Telegram](https://t.me/whalebotalerts) [Bot](https://t.me/cryptowhalebot) [X](https://x.com/icebergy) [Gram News](https://gramnews.org/apps/cryptowhale) | 2019-05-27 |
 | 13 | **SCANNER MESSAGE** | The best tools for blockchain analysis and cryptocurrency arbitrage! | [Telegram](https://t.me/arbitragescanner_eng) [Bot](https://t.me/m8tel_bot) [X](https://x.com/arbitragescan) [Site](https://arbitragescanner.io) [Gram News](https://gramnews.org/apps/scanner-message) | 2024-02-28 |
 | 14 | **Octies** | Octies is a Telegram game for earning OCTIES tokens and participating in competitions | [Bot](https://t.me/octies_bot) [X](https://x.com/Octies_GameFI) [Gram News](https://gramnews.org/apps/octies) | 2024-05-29 |
@@ -32,7 +32,7 @@
 | 22 | **xGift** | xGift — your #1 data aggregator for TG gifts | [Telegram](https://t.me/xgift) [Bot](https://t.me/xgift_official_bot) | 2026-07-04 |
 | 23 | **CoinStats** | Your go-to platform to track and manage your crypto, DeFi and NFTs | [Telegram](https://t.me/coinstats_news) [X](https://x.com/coinstats) [Site](https://coinstats.app/) [Gram News](https://gramnews.org/apps/coinstats) | 2021-11-25 |
 | 24 | **Gift Inspector** | Telegram gift price lookup and wiki links | [Telegram](https://t.me/giftinspector) | 2025-04-14 |
-| 25 | **GiftAsset** | Telegram gifts data center with a public API | [Telegram](https://t.me/giftassetapi) | 2025-07-31 |
+| 25 | **GiftAsset** | Telegram gifts data center with a public API | [Telegram](https://t.me/giftassetapi) [GitHub](https://github.com/GIFT-ASSET) | 2025-07-31 |
 | 26 | **Ton Inu BuyBot Tracker** | Tracker of whale buys for the TINU token | [Telegram](https://t.me/toninubuybottracker) | 2024-11-30 |
 | 27 | **FinTax** | FinTax offers crypto accounting suite, tax calculator and professional taxconsulting… | [Telegram](https://t.me/FinTax2023) [Bot](https://t.me/fintax_bot) [X](https://x.com/FinTax_Official) [Site](https://fintax.tech) [Gram News](https://gramnews.org/apps/fintax) | 2024-12-18 |
 | 28 | **Cryptovka** | Most up-to-date coverage of crypto news | [Telegram](https://t.me/cryptovka_feed) [Bot](https://t.me/cryptovkadatabot) [X](https://x.com/Cryptovka) [Site](https://cryptovka.ru) [Gram News](https://gramnews.org/apps/cryptovka) | 2024-10-23 |
@@ -142,7 +142,7 @@
 | 131 | **Тонус** |  | [Bot](https://t.me/brainscoin_bot) [Gram News](https://gramnews.org/apps/tonus) | 2025-04-11 |
 | 132 | **Maziton Trending** | Trending token board for TON | [Telegram](https://t.me/mazitontrending) | 2024-05-19 |
 | 133 | **Eye of TON** | TON news, bot and API tools | [Telegram](https://t.me/eye_of_ton) | 2024-11-18 |
-| 134 | **Gift Peek** | Telegram gift tracking tool from the MRKT ecosystem | [Telegram](https://t.me/peektg) [Bot](https://t.me/peektgbot) | 2025-10-31 |
+| 134 | **Gift Peek** | Telegram gift tracking tool from the MRKT ecosystem | [Telegram](https://t.me/peektg) [Bot](https://t.me/peektgbot) [Site](https://peek.tg) | 2025-10-31 |
 | 135 | **RaggaMorffa** | Todas las noticias actualizadas del género #RaggaMorffa en un solo canal de Telegram | [Telegram](https://t.me/raggamorffanews) [X](https://x.com/raggamorffa) [Site](https://raggamorffa.net/) [Gram News](https://gramnews.org/apps/raggamorffa) | 2025-02-14 |
 | 136 | **Tonkol** | Know what KOLs are buying on TON | [Telegram](https://t.me/tonkolpro) [X](https://x.com/Toncoinkol) [Site](https://tonkol.pro/) [Gram News](https://gramnews.org/apps/tonkol) | 2025-11-06 |
 | 137 | **Giftable** | Analytics and price table for Telegram gifts | [Telegram](https://t.me/giftable_community) | 2025-06-05 |

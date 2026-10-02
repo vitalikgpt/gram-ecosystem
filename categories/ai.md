@@ -13,7 +13,7 @@
 | 3 | **Spru** | ИИ, который делает за тебя | [Bot](https://t.me/spru_agent_bot) | 2026-03-30 |
 | 4 | **AgentBook** |  | [Bot](https://t.me/agentbookbot) | 2026-09-03 |
 | 5 | **Reverie** | A mini app for chatting with virtual characters who have their own memory and… | [Bot](https://t.me/reverie_ai_bot) [Gram News](https://gramnews.org/apps/reverie) | 2026-08-26 |
-| 6 | **ForU AI** | Proof-based reputation layer for humans and AI agents | [Telegram](https://t.me/foruai_channel) | 2024-09-12 |
+| 6 | **ForU AI** | Proof-based reputation layer for humans and AI agents | [Telegram](https://t.me/foruai_channel) [Site](https://foruai.io) | 2024-09-12 |
 | 7 | **AE _Digital Tech** | AE (AI Energy) powers always-on execution and stability,helping strategies run smarter,… | [Bot](https://t.me/ae_dx_bot) | 2026-05-04 |
 | 8 | **Quant IA** |  | [Bot](https://t.me/thequantaibot) | 2026-06-30 |
 | 9 | **Guardian** | An intelligent group management bot with portal, buy bot and AI features | [Telegram](https://t.me/guardiantrending) [Bot](https://t.me/mevfreeportalbot) | 2022-08-13 |
@@ -24,7 +24,7 @@
 | 14 | **Sentism** | Sentism — AI-powered tool for automating DeFi operations | [Telegram](https://t.me/sentismcommunity) [Bot](https://t.me/SentismAIBot) [X](https://x.com/Sentism_ai) [Site](https://sentism.ai) [Gram News](https://gramnews.org/apps/sentism) | 2025-02-17 |
 | 15 | **Gem** | Best AI-bot in Telegram – | [Telegram](https://t.me/GemHQ) [Bot](https://t.me/gembot) [X](https://x.com/GEMofTON) [Site](https://gem.bot) [Gram News](https://gramnews.org/apps/gem) | 2024-05-05 |
 | 16 | **Meme Me** | Ready to turn your photos into epic memes? Upload your picture and watch the magic happen | [Bot](https://t.me/mememebot_bot) [Gram News](https://gramnews.org/apps/meme-me) | 2024-09-25 |
-| 17 | **TON Chat AI** | AI agent site and Telegram bot | [Telegram](https://t.me/bloggersnft) | 2024-04-29 |
+| 17 | **TON Chat AI** | AI agent site and Telegram bot | [Telegram](https://t.me/bloggersnft) [Site](https://tonchat.ai) | 2024-04-29 |
 
 <details><summary><b>Quiet: 38</b></summary>
 
@@ -65,7 +65,7 @@
 | 51 | **Santa AI Agent** | AI web3 agent living inside HOT wallet that gifts users | [Bot](https://t.me/santa_agent_bot) | 2024-12-22 |
 | 52 | **Tobi Copilot** | AI-powered web3 assistant bot | [Bot](https://t.me/tobicopilotbot) | 2024-12-18 |
 | 53 | **TonsoAI** | AI powered super app and InfoFi hub on Telegram | [Bot](https://t.me/tonsoaibot) | 2025-12-24 |
-| 54 | **Olivia AI Network** | Announcements of the Olivia AI network | [Telegram](https://t.me/olivia_ai_network) | 2025-03-18 |
+| 54 | **Olivia AI Network** | Announcements of the Olivia AI network | [Telegram](https://t.me/olivia_ai_network) [X](https://x.com/Olivia_Network) [Site](https://olivianetwork.com) | 2025-03-18 |
 | 55 | **Aiya** | Russian channel of the Aiya AI assistant | [Telegram](https://t.me/aiyaprojectru) | 2024-02-05 |
 | 56 | **Imaginary Ones BubioAI** | Create and chat with AI characters | [Telegram](https://t.me/imaginaryoneshq) | 2025-06-22 |
 

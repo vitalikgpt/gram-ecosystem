@@ -11,10 +11,10 @@
 | 1 | **Symbiosis** | The latest news on the development of the symbiotic blockchain metaverse | [Telegram](https://t.me/symbiosis_announcements) [X](https://x.com/symbiosis_fi) [Site](https://app.symbiosis.finance/) [GitHub](https://github.com/symbiosis-finance) [Gram News](https://gramnews.org/apps/symbiosis) | 2026-03-16 |
 | 2 | **LayerZero** |  | [Site](https://layerzero.network) | 2021-05-01 |
 | 3 | **Stargate** |  | [Site](https://stargate.finance) | 2021-04-01 |
-| 4 | **Rubic** | Rubic - Best Rate Finder & Crypto Swap Aggregator | [Telegram](https://t.me/cryptorubic) [Bot](https://t.me/RubicSupportBot) [X](https://x.com/cryptorubic) [Site](https://app.rubic.exchange) [Gram News](https://gramnews.org/apps/rubic) | 2023-04-13 |
+| 4 | **Rubic** | Rubic - Best Rate Finder & Crypto Swap Aggregator | [Telegram](https://t.me/cryptorubic) [Bot](https://t.me/RubicSupportBot) [X](https://x.com/cryptorubic) [Site](https://app.rubic.exchange) [GitHub](https://github.com/Cryptorubic) [Gram News](https://gramnews.org/apps/rubic) | 2023-04-13 |
 | 5 | **TAC** |  | [Telegram](https://t.me/tacbuild) [Bot](https://t.me/tacairdrop_bot) | 2025-09-22 |
 | 6 | **NEAR Intents** |  | [Site](https://near-intents.org) | 2025-10-16 |
-| 7 | **TonTake Bridge** | Благотворительно-развлекательная криптоорганизация | [Telegram](https://t.me/TonTake) [X](https://x.com/tontakegame) [Gram News](https://gramnews.org/apps/tontake-bridge) | 2022-05-10 |
+| 7 | **TonTake Bridge** | Благотворительно-развлекательная криптоорганизация | [Telegram](https://t.me/TonTake) [X](https://x.com/tontakegame) [Site](https://tontake.com) [Gram News](https://gramnews.org/apps/tontake-bridge) | 2022-05-10 |
 | 8 | **Orbit Bridge** | Orbit Chain Announcement Channel | [Telegram](https://t.me/OrbitChainChannel) [X](https://x.com/Orbit_Chain) [Site](https://bridge.orbitchain.io/) [GitHub](https://github.com/orbit-chain) [Gram News](https://gramnews.org/apps/orbit-bridge) | 2025-12-24 |
 | 9 | **SoDEX Bridge** | SoDEX is a high-performance order book decentralized exchange (DEX) built on ValueChain | [X](https://x.com/sodex_official) [Site](https://ssi.sosovalue.com) | 2026-01-08 |
 | 10 | **TAC Cross Chain Layer** | TAC Cross Chain Layer is a messaging and custody layer connecting TON and TAC EVM,… | [X](https://x.com/tacbuild) [Site](https://tac.build) | 2025-08-28 |

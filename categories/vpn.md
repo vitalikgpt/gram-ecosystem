@@ -15,7 +15,7 @@
 | 5 | **1323vpn** | Публикуем новости и обновления VPN'а | [Telegram](https://t.me/vpn1323) [Bot](https://t.me/vpn1323bot) [Gram News](https://gramnews.org/apps/1323vpn) | 2023-05-20 |
 | 6 | **Connecton VPN** |  | [Telegram](https://t.me/connectonbot) [GitHub](https://github.com/Connecton) | 2026-09-15 |
 | 7 | **Need VPN & eSIM** | Fast & Stable VPN & eSIM | [Telegram](https://t.me/needapp) [Bot](https://t.me/need) | 2024-10-25 |
-| 8 | **Mr. Freeman** | VPN, proxy, eSIM and crypto cards service via Telegram bot | [Telegram](https://t.me/nosignalgohome) | 2025-09-04 |
+| 8 | **Mr. Freeman** | VPN, proxy, eSIM and crypto cards service via Telegram bot | [Telegram](https://t.me/nosignalgohome) [X](https://x.com/MrFreeman0) | 2025-09-04 |
 | 9 | **VPN Скруджа** | VPN Сервис для избранных Помощь | [Telegram](https://t.me/scroogevpn) [Bot](https://t.me/scroogevpnrobot) | 2023-01-12 |
 | 10 | **Связь VPN** | Безопасный, Быстрый, Удобный и Лучший VPN на рынке с приятной ценой Наш Наш магазин | [Telegram](https://t.me/svyaznews) [Bot](https://t.me/svyazvpnrobot) | 2026-04-24 |
 | 11 | **WayLuckyVPN** | WayLuckyVPN bot - WayLuckyVPN Support account | [Telegram](https://t.me/wayluckyvpnchannel) [Bot](https://t.me/wayluckyvpn_bot) | 2024-11-28 |

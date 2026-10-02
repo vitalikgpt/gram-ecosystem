@@ -30,7 +30,7 @@
 | 15 | **Telegram USD (tgusd)** | Telegram USD (tgusd) — yield-generating stablecoin on TON | [Site](https://torch.finance) [GitHub](https://github.com/torch-core) [Gram News](https://gramnews.org/apps/telegram-usd-tgusd) | 2024-05-28 |
 | 16 | **Tonpound** |  | [Bot](https://t.me/tonpoundbot) | 2024-06 |
 | 17 | **TonStable** | The decentralized over-collateralized stablecoin protocol built on TON | [Telegram](https://t.me/TonStableOfficial) [X](https://x.com/TonStable) [Site](https://tonstable.xyz/) [Gram News](https://gramnews.org/apps/tonstable) | 2024-09-05 |
-| 18 | **EasyCake** | DeFi project in the Telegram ecosystem | [Telegram](https://t.me/easycakeann) | 2024-08-02 |
+| 18 | **EasyCake** | DeFi project in the Telegram ecosystem | [Telegram](https://t.me/easycakeann) [X](https://x.com/easycake_) | 2024-08-02 |
 | 19 | **KirkaFi** | Modular DeFi infrastructure on TON built around undercollateralized credit | [Telegram](https://t.me/farmixton) | 2024-09-18 |
 | 20 | **KirkaFi** | Modular DeFi infrastructure on TON built on undercollateralized credit | [Telegram](https://t.me/farmix_ru) | 2024-09-18 |
 | 21 | **TON Lombard** | Credit in TON via Telegram bot | [Telegram](https://t.me/ton_lombard) [Bot](https://t.me/tonlombardbot) | 2022-06-18 |

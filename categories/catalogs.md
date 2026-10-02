@@ -24,9 +24,9 @@
 | 9 | **Mini Apps Center** | Directory of Telegram mini apps | [Bot](https://t.me/miniappscenterbot) | 2024-09-22 |
 | 10 | **TappRank** | Bot ranking and promoting Telegram bots | [Bot](https://t.me/tapprankbot) | 2025-03-10 |
 | 11 | **TON App Center** |  | [Telegram](https://t.me/tonappcenterbot) | 2024-07-14 |
-| 12 | **Yaya Mini Apps** | Yaya community: Dev | [Telegram](https://t.me/yaya_gram) [Bot](https://t.me/yayaminiapps_bot) | 2026-06-16 |
+| 12 | **Yaya Mini Apps** | Yaya community: Dev | [Telegram](https://t.me/yaya_gram) [Bot](https://t.me/yayaminiapps_bot) [X](https://x.com/Yaya_gram) | 2026-06-16 |
 | 13 | **Trending Apps** | Trending Apps is a community-powered hub spotlighting the most exciting Telegram apps… | [Telegram](https://t.me/trendingapps) | 2023-07-31 |
-| 14 | **Futurum** | Marketplace for digital assets, NFTs and investment projects | [Telegram](https://t.me/futurumx100) [Bot](https://t.me/futurumx100_bot) | 2024-09-18 |
+| 14 | **Futurum** | Marketplace for digital assets, NFTs and investment projects | [Telegram](https://t.me/futurumx100) [Bot](https://t.me/futurumx100_bot) [X](https://x.com/FuturumX100) | 2024-09-18 |
 | 15 | **Tonski** | Ecosystem and catalogue for TON Sites | [Telegram](https://t.me/searchington) | 2022-10-04 |
 
 </details>

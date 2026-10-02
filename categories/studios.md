@@ -35,6 +35,6 @@
 | 20 | **AmberTON** | Studio building apps and games for Telegram on TON | [Telegram](https://t.me/amberton) | 2024-07-02 |
 | 21 | **OPEN** | Laboratory building blockchain and AI products | [Telegram](https://t.me/opensites) [Bot](https://t.me/opensitesbot) | 2024-01-16 |
 | 22 | **Off lab** | Developer of utility projects for TON | [Telegram](https://t.me/off_lab) | 2024-08-12 |
-| 23 | **Tonic** | Independent co-operative building on TON | [Telegram](https://t.me/toniccx) | 2022-02-01 |
+| 23 | **Tonic** | Independent co-operative building on TON | [Telegram](https://t.me/toniccx) [X](https://x.com/toniccx) | 2022-02-01 |
 
 </details>

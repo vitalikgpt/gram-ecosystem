@@ -10,17 +10,17 @@
 | ---: | --- | --- | --- | --- |
 | 1 | **Randomize Bot** | Конкурсный бот телеграм. Инструкция | [Bot](https://t.me/randomized) | 2024-03-27 |
 | 2 | **RandomGodBot** | Руководство - Открытый код - Канал бота | [Telegram](https://t.me/randomgod) [Bot](https://t.me/randomgodbot) | 2021-12-02 |
-| 3 | **XDAO** | Create DAOs. Co-own assets, formalize agreements, manage budgets and decisions. Join the | [Telegram](https://t.me/xdaoapp) [Bot](https://t.me/xdao_ton_bot) [Site](https://xdao.app) | 2024-08-15 |
+| 3 | **XDAO** | Create DAOs. Co-own assets, formalize agreements, manage budgets and decisions. Join the | [Telegram](https://t.me/xdaoapp) [Bot](https://t.me/xdao_ton_bot) [Site](https://xdao.app) [GitHub](https://github.com/xdao-app) | 2024-08-15 |
 | 4 | **Random Beast** | Розыгрыши в Telegram с проверкой подписки, защитой от ботов и без рекламы | [Telegram](https://t.me/randombeastnews) [Bot](https://t.me/randombeast_bot) | 2025-01-19 |
 | 5 | **Best Random Bot** | Канал и инструкция: Служба поддержки | [Telegram](https://t.me/bestrandom_info) [Bot](https://t.me/bestrandom_bot) | 2023-04-01 |
 | 6 | **Stickers Bot** | A bot for creating Telegram stickers and tracking their usage statistics | [Bot](https://t.me/stickers) [Gram News](https://gramnews.org/apps/stickers) | 2015-09-24 |
-| 7 | **Safeguard** | The most extensive security and buy tracking platform on Telegram Powering Announcements | [Telegram](https://t.me/safeguard_ann) [Bot](https://t.me/safeguard) | 2023-07-29 |
+| 7 | **Safeguard** | The most extensive security and buy tracking platform on Telegram Powering Announcements | [Telegram](https://t.me/safeguard_ann) [Bot](https://t.me/safeguard) [Site](https://safeguard.run) | 2023-07-29 |
 | 8 | **PR GRAM** | PR GRAM — a promotion platform for Telegram. Support | [Telegram](https://t.me/pr_gram_news) [Bot](https://t.me/gram_piarbot) | 2024-07-31 |
 | 9 | **Tuberg** | Бот-ведущий для розыгрыша призов По всем вопросам | [Telegram](https://t.me/tuberg_game) [Bot](https://t.me/millerenos_bot) | 2025-12-19 |
 | 10 | **Pikcher Gift** | Telegram gifts news and service | [Telegram](https://t.me/pikchergift) | 2025-06-30 |
-| 11 | **AdsGram** | Telegram-native advertising network for mini apps | [Telegram](https://t.me/adsgram_ai) [Bot](https://t.me/adsgram_reward_bot) | 2024-04-12 |
+| 11 | **AdsGram** | Telegram-native advertising network for mini apps | [Telegram](https://t.me/adsgram_ai) [Bot](https://t.me/adsgram_reward_bot) [X](https://x.com/Adsgram_ai) [Site](https://adsgram.ai) | 2024-04-12 |
 | 12 | **VoteBot** | This bot will help you create polls and share them with friends | [Bot](https://t.me/vote) [Gram News](https://gramnews.org/apps/vote) | 2016-04-12 |
-| 13 | **DegenPhone** | Anonymous NFT phone numbers sold via a Telegram mini app | [Telegram](https://t.me/degenphone) [Bot](https://t.me/degenphonetonbot) | 2025-06-11 |
+| 13 | **DegenPhone** | Anonymous NFT phone numbers sold via a Telegram mini app | [Telegram](https://t.me/degenphone) [Bot](https://t.me/degenphonetonbot) [X](https://x.com/degenphone) [Site](https://degenphone.xyz) | 2025-06-11 |
 | 14 | **Peepo Stickers** | Sticker pack author channel | [Telegram](https://t.me/peepohd) | 2026-08-03 |
 | 15 | **Pixlands** | Pixlands is a utility for asset management | [Telegram](https://t.me/pixlands) [Bot](https://t.me/pixlandsbot) [Gram News](https://gramnews.org/apps/pixlands) | 2026-03-19 |
 | 16 | **Telegram Apps Center** | Catalog of TON and Telegram apps from third-party developers | [Telegram](https://t.me/tapps_official) [Bot](https://t.me/tapps_bot) [Gram News](https://gramnews.org/apps/telegram-apps-center) | 2020-05-06 |
@@ -28,14 +28,14 @@
 | 18 | **Pynex** | Pynex Official Web3 Mini App & Community | [Bot](https://t.me/pynex_org_bot) | 2026-09-26 |
 | 19 | **Wheel Games** | Daily giveaways, raffles and mini-games | [Telegram](https://t.me/wheelgamesnews) [Bot](https://t.me/wheelgamesbot) | 2026-02-07 |
 | 20 | **PandaFiT** | PandaFiT is a unique Mini App where players collect, upgrade, and own unique collectible… | [Telegram](https://t.me/pandafit_official) [Bot](https://t.me/pandafit_bot) [Gram News](https://gramnews.org/apps/pandafit) | 2025-02-07 |
-| 21 | **Monetag** | Ad network for websites and Telegram Mini Apps | [Telegram](https://t.me/monetag) | 2025-07-03 |
+| 21 | **Monetag** | Ad network for websites and Telegram Mini Apps | [Telegram](https://t.me/monetag) [Site](https://monetag.com) | 2025-07-03 |
 | 22 | **Guarant** | Make your transactions without any problems! | [Telegram](https://t.me/guarantappen) [Bot](https://t.me/GuarantAppBot) [X](https://x.com/GuarantApp) [Gram News](https://gramnews.org/apps/guarant) | 2024-08-10 |
 | 23 | **Talents** | Decentralized freelance platform on TON | [Telegram](https://t.me/tontalents) | 2026-06-09 |
 | 24 | **Crypto Office** | Crypto Office - Your helper in crypto world | [Telegram](https://t.me/officeappnews) [Bot](https://t.me/office_app_bot) | 2025-01-11 |
-| 25 | **AdsGram** | Native advertising system for Telegram mini apps | [Telegram](https://t.me/adsgram_ai_cis) | 2024-09-04 |
-| 26 | **Engage ADS** | Advertising campaigns that pay users in TON | [Telegram](https://t.me/engageads) | 2024-06-02 |
+| 25 | **AdsGram** | Native advertising system for Telegram mini apps | [Telegram](https://t.me/adsgram_ai_cis) [X](https://x.com/Adsgram_ai) [Site](https://adsgram.ai) | 2024-09-04 |
+| 26 | **Engage ADS** | Advertising campaigns that pay users in TON | [Telegram](https://t.me/engageads) [X](https://x.com/EngageADS) | 2024-06-02 |
 | 27 | **webappz** | webappz авто-магазины/меню в telegram | [Telegram](https://t.me/webappz) [Bot](https://t.me/webappzconnectbot) [Site](https://webappz.org) [Gram News](https://gramnews.org/apps/webappz) | 2023-07-28 |
-| 28 | **Underworld Tools** | Tools and projects for Telegram stickers and apps | [Telegram](https://t.me/underworld_dev) | 2025-07-09 |
+| 28 | **Underworld Tools** | Tools and projects for Telegram stickers and apps | [Telegram](https://t.me/underworld_dev) [Site](https://stickers.tools) | 2025-07-09 |
 | 29 | **SOREN** | SOREN is a digital identity layer on the TON blockchain | [Telegram](https://t.me/SORENCHANNEL) [X](https://x.com/ownsoren) [Site](https://www.soren.today/) [Gram News](https://gramnews.org/apps/soren) | 2025-06-10 |
 | 30 | **Workzora** | Freelance platform | [Telegram](https://t.me/ofworkzora) | 2026-04-30 |
 | 31 | **NovaCont Lite** | NovaCont Lite is a non-custodial escrow Mini App on TON | [Bot](https://t.me/NovaCont_Lite_bot) [X](https://x.com/getnovacont) [Site](https://novacont.tech) [GitHub](https://github.com/nova-cyber-and-technology/novacont-lite) | 2026-07-23 |
@@ -164,10 +164,10 @@
 | 151 | **TON Jobs** | Channel where TON projects post vacancies | [Telegram](https://t.me/tonhunt) | 2022-04-15 |
 | 152 | **TON Spiders** | Aggregator of private chats for NFT, SBT and jetton holders | [Telegram](https://t.me/spiderston) | 2023-10-08 |
 | 153 | **Roko** | Roko bot announcements channel | [Telegram](https://t.me/joinroko) | 2025-01-29 |
-| 154 | **TOOLBOX** | Mini app for joining decentralized trading pools | [Telegram](https://t.me/toolboxton) | 2025-03-11 |
-| 155 | **OpenAD** | Advertising protocol on TON | [Telegram](https://t.me/openad_protocol) | 2024-09-27 |
-| 156 | **ONTON** | Event management and SBT solution on TON | [Telegram](https://t.me/ontonlive) | 2024-09-22 |
-| 157 | **Bagel Finance** | Game and DeFi app with smart portfolio on TON | [Telegram](https://t.me/bagel_finance) | 2024-12-02 |
+| 154 | **TOOLBOX** | Mini app for joining decentralized trading pools | [Telegram](https://t.me/toolboxton) [X](https://x.com/Toolboxton) [Site](https://toolboxton.com) | 2025-03-11 |
+| 155 | **OpenAD** | Advertising protocol on TON | [Telegram](https://t.me/openad_protocol) [X](https://x.com/OpenAD_Protocol) [Site](https://openad.network) | 2024-09-27 |
+| 156 | **ONTON** | Event management and SBT solution on TON | [Telegram](https://t.me/ontonlive) [X](https://x.com/ontonbot) [Site](https://onton.live) | 2024-09-22 |
+| 157 | **Bagel Finance** | Game and DeFi app with smart portfolio on TON | [Telegram](https://t.me/bagel_finance) [X](https://x.com/bagel_fi_ton) | 2024-12-02 |
 | 158 | **EZY TON** |  | [Telegram](https://t.me/ezyton) [Site](https://ezyton.com/) [Gram News](https://gramnews.org/apps/ezy-ton) | 2024-06-20 |
 | 159 | **Ton 4 Joy** |  | [Telegram](https://t.me/ton4joy) | 2025-02-05 |
 | 160 | **Gifties** | Digital gifts mini app | [Telegram](https://t.me/gifties_tg) | 2024-12-24 |

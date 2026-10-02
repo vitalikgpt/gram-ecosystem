@@ -11,7 +11,7 @@
 | 1 | **Indigo Gift** | Bot for buying Telegram stars and premium | [Telegram](https://t.me/indigogif) | 2025-08-11 |
 | 2 | **Bikini Stars** | Service for buying and selling Telegram Stars | [Telegram](https://t.me/bikininft) | 2025-09-09 |
 | 3 | **iCryptoCheck** | Your guide to the world of crypto | [Telegram](https://t.me/iCryptoCheck) [Bot](https://t.me/iCryptoCheckBot) [X](https://x.com/iCryptoCheck) [GitHub](https://github.com/unlimadev/Orniton) [Gram News](https://gramnews.org/apps/icryptocheck) | 2022-05-03 |
-| 4 | **Uquid Shop** |  | [Telegram](https://t.me/uquidshop) [Bot](https://t.me/uquidbot) [X](https://x.com/uquidcard) [Gram News](https://gramnews.org/apps/uquid-shop) | 2024-05-16 |
+| 4 | **Uquid Shop** |  | [Telegram](https://t.me/uquidshop) [Bot](https://t.me/uquidbot) [X](https://x.com/uquidcard) [Site](https://uquid.com) [Gram News](https://gramnews.org/apps/uquid-shop) | 2024-05-16 |
 | 5 | **uShopWebBot** | Web bot shop builder for Telegram | [Telegram](https://t.me/uShopWeb) [Bot](https://t.me/uShopWebBot) [Site](https://www.ucoz.ru/bot/) [Gram News](https://gramnews.org/apps/ushopwebbot) | 2022-12-05 |
 | 6 | **IrenSystem** | IrenSystem - инструмент для предпринимателей и фрилансеров | [Telegram](https://t.me/irensyst) [Bot](https://t.me/demoirensystembot) [Site](https://irensystem.ru) [Gram News](https://gramnews.org/apps/irensystem) | 2023-03-22 |
 | 7 | **$GOVNO Paper Store** |  | [Telegram](https://t.me/govnopaperstore) [Bot](https://t.me/GOVNOPaperBot) [X](https://x.com/govno_on_ton) [Site](https://govnoton.com/) [Gram News](https://gramnews.org/apps/govno-paper-store) | 2025-02-13 |
@@ -21,7 +21,7 @@
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
 | 8 | **USDt Gift Shop** | USDt Gift Shop — a bot for buying gifts and services with TON stablecoins | [Telegram](https://t.me/fizen_io) [Bot](https://t.me/fizengiftshop_bot) [X](https://x.com/fizenapp) [Site](https://fizen.io/) [Gram News](https://gramnews.org/apps/usdt-gift-shop) | 2024-05-10 |
-| 9 | **FileMarket AI** | Welcome to the world of FileMarket AI Data! Monetize your data and help major AI… | [Telegram](https://t.me/filemarketai) [Bot](https://t.me/filemarketaiplaybot) [X](https://x.com/FileMarketAI) [Gram News](https://gramnews.org/apps/filemarket-ai) | 2024-09-12 |
+| 9 | **FileMarket AI** | Welcome to the world of FileMarket AI Data! Monetize your data and help major AI… | [Telegram](https://t.me/filemarketai) [Bot](https://t.me/filemarketaiplaybot) [X](https://x.com/FileMarketAI) [Site](https://filemarket.xyz) [Gram News](https://gramnews.org/apps/filemarket-ai) | 2024-09-12 |
 | 10 | **TADA mini** | Ride the new wave, TADA mini for Web3 | [Telegram](https://t.me/mvlchain_news_en) [Bot](https://t.me/TADA_Ride_Bot) [X](https://x.com/mvlchain) [Site](https://mvlchain.io/) [Gram News](https://gramnews.org/apps/tada-mini) | 2018-05-14 |
 | 11 | **Hybrid Savings** | ХС: сотни выгодных предложений в одном месте | [Telegram](https://t.me/hybridsavings) [Bot](https://t.me/hybridsavingsbot) [X](https://x.com/Hybrid_savings) [Gram News](https://gramnews.org/apps/hybrid-savings) | 2024-08-24 |
 | 12 | **Sellz Digital** | Create your Telegram digital store, accept orders, manage products, and engage customers | [Telegram](https://t.me/sellzdigital) [Bot](https://t.me/sellzdigitalbot) [Gram News](https://gramnews.org/apps/sellz-digital) | 2024-07-03 |
@@ -50,7 +50,7 @@
 | 35 | **Vseznayka Stars** | Bot for buying Telegram Stars and Premium at a discount | [Bot](https://t.me/vseznayka_stars_bot) | 2025-03-01 |
 | 36 | **WebDosa** | WebDosa — a shopping bot in Telegram | [Telegram](https://t.me/undrdosabot) [Bot](https://t.me/undrdosa) Site (down) [Gram News](https://gramnews.org/apps/webdosa) | 2024-09-17 |
 | 37 | **Zemo Tea** | Online tea shop bot with TON integration | [Bot](https://t.me/zemotea_bot) | 2024-12-26 |
-| 38 | **TONCash** | Telegram mini app for cashback shopping at many brands | [Telegram](https://t.me/toncashnetwork) | 2024-10-28 |
+| 38 | **TONCash** | Telegram mini app for cashback shopping at many brands | [Telegram](https://t.me/toncashnetwork) [X](https://x.com/ToncashNetwork) [Site](https://toncashnetwork.com) | 2024-10-28 |
 | 39 | **StarX** | Service for exchanging Telegram Stars and gifts for rubles and back | [Telegram](https://t.me/starxeco) | 2025-05-14 |
 | 40 | **Peravel** | The Modern Life Solution! | [Telegram](https://t.me/peraveldefi) [Bot](https://t.me/Peravelbot) [Site](https://app.peravel.com/) [Gram News](https://gramnews.org/apps/peravel) | 2025-02-06 |
 | 41 | **SoftShelf** | Маркетплейс цифровых товаров в Telegram | [Telegram](https://t.me/SoftShelf) [Bot](https://t.me/SoftShelfBot) [Gram News](https://gramnews.org/apps/softshelf) | 2024-08-29 |
