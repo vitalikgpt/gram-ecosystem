@@ -16,55 +16,55 @@ xychart-beta
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 1 | **TonMobile eSIM** | Telegram bot for buying and managing travel eSIMs, with support for related issues. | [Telegram](https://t.me/tonmobile_en) [Bot](https://t.me/MobileSuppBot) [X](https://x.com/tonmobile_esim) [Site](https://tonmobile.com) [Gram News](https://gramnews.org/apps/mobile) | 2022-07-05 |  | since 2026-06 |
-| 2 | **SnapSIM** | Access numbers from anywhere in the world | [Bot](https://t.me/snapsimbot) [Site](https://snapsim.online) [Gram News](https://gramnews.org/apps/snapsim) | 2025-09-23 |  |  |
-| 3 | **Durev VPN** | Durev VPN is a VPN service for fast and reliable internet access | [Telegram](https://t.me/durevvpn) [Bot](https://t.me/DureVpnBot) [Site](https://durevpn.com/) [Gram News](https://gramnews.org/apps/durev-vpn) | 2024-10-05 |  |  |
-| 4 | **Resistance Tools** | An open-source privacy toolkit for TON, run through the bot | [Telegram](https://t.me/resistancetools) [Bot](https://t.me/ResistanceToolsBot) [Site](https://resistance.dog) [Gram News](https://gramnews.org/apps/resistance-tools) | 2025-10-30 |  |  |
-| 5 | **1323vpn** | VPN service managed through a Telegram bot, with a news channel for updates. | [Telegram](https://t.me/vpn1323) [Bot](https://t.me/vpn1323bot) [Gram News](https://gramnews.org/apps/1323vpn) | 2023-05-20 |  |  |
+| 1 | <img src="../assets/icons/mobile.webp" width="20" height="20" alt=""> **TonMobile eSIM** | Telegram bot for buying and managing travel eSIMs, with support for related issues. | [Telegram](https://t.me/tonmobile_en) [Bot](https://t.me/MobileSuppBot) [X](https://x.com/tonmobile_esim) [Site](https://tonmobile.com) [Gram News](https://gramnews.org/apps/mobile) | 2022-07-05 |  | since 2026-06 |
+| 2 | <img src="../assets/icons/snapsim.webp" width="20" height="20" alt=""> **SnapSIM** | Access numbers from anywhere in the world | [Bot](https://t.me/snapsimbot) [Site](https://snapsim.online) [Gram News](https://gramnews.org/apps/snapsim) | 2025-09-23 |  |  |
+| 3 | <img src="../assets/icons/durev-vpn.webp" width="20" height="20" alt=""> **Durev VPN** | Durev VPN is a VPN service for fast and reliable internet access | [Telegram](https://t.me/durevvpn) [Bot](https://t.me/DureVpnBot) [Site](https://durevpn.com/) [Gram News](https://gramnews.org/apps/durev-vpn) | 2024-10-05 |  |  |
+| 4 | <img src="../assets/icons/resistance-tools.webp" width="20" height="20" alt=""> **Resistance Tools** | An open-source privacy toolkit for TON, run through the bot | [Telegram](https://t.me/resistancetools) [Bot](https://t.me/ResistanceToolsBot) [Site](https://resistance.dog) [Gram News](https://gramnews.org/apps/resistance-tools) | 2025-10-30 |  |  |
+| 5 | <img src="../assets/icons/1323vpn.webp" width="20" height="20" alt=""> **1323vpn** | VPN service managed through a Telegram bot, with a news channel for updates. | [Telegram](https://t.me/vpn1323) [Bot](https://t.me/vpn1323bot) [Gram News](https://gramnews.org/apps/1323vpn) | 2023-05-20 |  |  |
 | 6 | **Connecton VPN** |  | [Telegram](https://t.me/connectonbot) [GitHub](https://github.com/Connecton) | 2026-09-15 |  |  |
-| 7 | **Need VPN & eSIM** | Telegram app selling VPN and eSIM plans, Steam top-ups and AI services. | [Telegram](https://t.me/needapp) [Bot](https://t.me/need) | 2024-10-25 |  | yes |
-| 8 | **TONNEL Network (TONNEL)** | TONNEL Network is a zero-knowledge privacy protocol on the TON blockchain | [Telegram](https://t.me/tonnel_en) [X](https://x.com/tonnel_network) [Site](https://Tonnel.network) | 2023-09-21 |  | since 2025-03 |
-| 9 | **Лови Подарок** | Russian-language gift giveaway channel with its own VPN bot. | [Telegram](https://t.me/lovi_podarok) [Bot](https://t.me/lovi_vpn_bot) | 2025-07-20 |  |  |
-| 10 | **Mr. Freeman** | VPN, proxy, eSIM and crypto cards service via Telegram bot | [Telegram](https://t.me/nosignalgohome) [X](https://x.com/MrFreeman0) | 2025-09-04 |  | since 2026-06 |
-| 11 | **VPN Скруджа** | VPN service for Telegram users connected through a bot, with a help channel. | [Telegram](https://t.me/scroogevpn) [Bot](https://t.me/scroogevpnrobot) | 2023-01-12 |  |  |
-| 12 | **Связь VPN** | VPN service sold through a Telegram bot and shop, with a news channel. | [Telegram](https://t.me/svyaznews) [Bot](https://t.me/svyazvpnrobot) | 2026-04-24 |  |  |
-| 13 | **WayLuckyVPN** | WayLuckyVPN bot - WayLuckyVPN Support account | [Telegram](https://t.me/wayluckyvpnchannel) [Bot](https://t.me/wayluckyvpn_bot) | 2024-11-28 |  |  |
+| 7 | <img src="../assets/icons/need-vpn-esim.webp" width="20" height="20" alt=""> **Need VPN & eSIM** | Telegram app selling VPN and eSIM plans, Steam top-ups and AI services. | [Telegram](https://t.me/needapp) [Bot](https://t.me/need) | 2024-10-25 |  | yes |
+| 8 | <img src="../assets/icons/token-tonnel-network.webp" width="20" height="20" alt=""> **TONNEL Network (TONNEL)** | TONNEL Network is a zero-knowledge privacy protocol on the TON blockchain | [Telegram](https://t.me/tonnel_en) [X](https://x.com/tonnel_network) [Site](https://Tonnel.network) | 2023-09-21 |  | since 2025-03 |
+| 9 | <img src="../assets/icons/lovi-podarok.webp" width="20" height="20" alt=""> **Лови Подарок** | Russian-language gift giveaway channel with its own VPN bot. | [Telegram](https://t.me/lovi_podarok) [Bot](https://t.me/lovi_vpn_bot) | 2025-07-20 |  |  |
+| 10 | <img src="../assets/icons/mr-freeman-2.webp" width="20" height="20" alt=""> **Mr. Freeman** | VPN, proxy, eSIM and crypto cards service via Telegram bot | [Telegram](https://t.me/nosignalgohome) [X](https://x.com/MrFreeman0) | 2025-09-04 |  | since 2026-06 |
+| 11 | <img src="../assets/icons/vpn.webp" width="20" height="20" alt=""> **VPN Скруджа** | VPN service for Telegram users connected through a bot, with a help channel. | [Telegram](https://t.me/scroogevpn) [Bot](https://t.me/scroogevpnrobot) | 2023-01-12 |  |  |
+| 12 | <img src="../assets/icons/vpn-2.webp" width="20" height="20" alt=""> **Связь VPN** | VPN service sold through a Telegram bot and shop, with a news channel. | [Telegram](https://t.me/svyaznews) [Bot](https://t.me/svyazvpnrobot) | 2026-04-24 |  |  |
+| 13 | <img src="../assets/icons/wayluckyvpn-channel.webp" width="20" height="20" alt=""> **WayLuckyVPN** | WayLuckyVPN bot - WayLuckyVPN Support account | [Telegram](https://t.me/wayluckyvpnchannel) [Bot](https://t.me/wayluckyvpn_bot) | 2024-11-28 |  |  |
 
 <details><summary><b>Quiet: 31</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 14 | **Depinsim** | World’s first decentralized connectivity infrastructure network | [Telegram](https://t.me/depinsim) [Bot](https://t.me/DepinSimBot) [X](https://x.com/depinsim) [Site](https://www.depinsim.com/) [Gram News](https://gramnews.org/apps/depinsim) | 2024-06-20 | 1.2M |  |
-| 15 | **Acton VPN** | Fast VPN service delivered through a Telegram bot. | [Bot](https://t.me/actonvpn_bot) | 2026-09-16 |  |  |
-| 16 | **BerkutTeam VPN** | VPN service run as a Telegram bot | [Bot](https://t.me/berkutteamvpn_bot) | 2026-07-02 |  |  |
-| 17 | **ConnectMeGuru eSIM** | Instant travel eSIMs for 190+ countries. Buy, install & manage data plans directly in Telegram | [Bot](https://t.me/esim_connectmeguru_bot) [X](https://x.com/connectmeguru) [Site](https://www.connectmeguru.com) [Gram News](https://gramnews.org/apps/connectmeguru-esim) | 2026-02-21 |  |  |
-| 18 | **DARK VPN** | VPN service with a Telegram bot, web account cabinet and support contacts. | [Telegram](https://t.me/d_k_vpn) [Bot](https://t.me/darklightvpn_bot) | 2025-07-15 |  |  |
-| 19 | **DeVPN** | VPN service run as a Telegram bot | [Bot](https://t.me/delabvpnbot) | 2024-09-12 |  |  |
-| 20 | **EJX VPNAI** | VPN service delivered through a Telegram bot | [Bot](https://t.me/vpnai) | 2026-03-26 |  |  |
-| 21 | **EJX VPNAI** | VPN service in a Telegram bot | [Bot](https://t.me/ejxbot) | 2026-03-30 |  |  |
-| 22 | **GCvpn** |  | [Bot](https://t.me/giftchangesvpnbot) | 2026-03-24 |  |  |
-| 23 | **GercVPN** | VPN service in a Telegram bot | [Bot](https://t.me/gercvpn_bot) | 2026-04-24 |  |  |
-| 24 | **Gimme VPN** |  | [Bot](https://t.me/gimmelifevpn_bot) | 2026-07-10 |  |  |
-| 25 | **Hermit VPN** | VPN service in a Telegram bot | [Bot](https://t.me/hermitvpnbot) | 2026-03-26 |  |  |
-| 26 | **hitvpnbot** | Telegram bot selling a fast and secure VPN service. | [Bot](https://t.me/hitvpnbot) | 2023-10-03 |  |  |
-| 27 | **HysteriaVPN** | VPN service as a Telegram bot | [Bot](https://t.me/hysteria2vpn_bot) | 2026-05-18 |  |  |
-| 28 | **INCY VPN** | VPN service as a Telegram bot | [Bot](https://t.me/incy) | 2026-06-08 |  |  |
-| 29 | **Kent VPN** | VPN with traffic encryption, anonymous search and bypass of whitelist-based blocking. | [Bot](https://t.me/vpn_kentbot) | 2024-07-23 |  |  |
-| 30 | **Makaka VPN** | Telegram bot selling VPN access | [Bot](https://t.me/makakavpnbot) | 2026-04-18 |  |  |
-| 31 | **Molly VPN** | Anonymous high-speed VPN service managed through a Telegram bot. | [Telegram](https://t.me/mollyvpn_community) [Bot](https://t.me/mollyvpnbot_bot) | 2026-05-05 |  |  |
-| 32 | **Mr. Freeman** | VPN, proxy, eSIM and crypto cards service via Telegram bot | [Bot](https://t.me/dmf0_bot) | 2025-10-15 | 537K |  |
-| 33 | **NETZ.RUN VPN** | Fast and reliable VPN service in Telegram | [Bot](https://t.me/netzrun_bot) | 2023-10-03 |  |  |
-| 34 | **Netzprints** | Get lifetime discount on NETZ.RUN VPN services while holding NFT | [Telegram](https://t.me/netzrun) [Site](https://getgems.io/netzprints) | 2024-02 |  |  |
-| 35 | **Outline VPN** | Outline is resistant to the most sophisticated forms of blocking including DNS, content, and IP blocking | [Bot](https://t.me/getoutlinevpn_bot) | 2025-11-08 |  |  |
-| 36 | **Plume Proxy** | Fast & Affordable Rotating Proxy Servers | [Bot](https://t.me/plumeproxy_bot) | 2023-10-03 |  |  |
-| 37 | **PlusOne VPN** |  | [Bot](https://t.me/plusonevpn_bot) | 2026-04-27 |  |  |
-| 38 | **Telegram Info VPN** | VPN service in a Telegram bot | [Bot](https://t.me/tginfovpn_bot) | 2022-06-20 |  |  |
-| 39 | **Ton VPN** | VPN service operating as a Telegram bot | [Bot](https://t.me/tonvpn_bot) | 2024-11-30 |  |  |
+| 14 | <img src="../assets/icons/depinsim.webp" width="20" height="20" alt=""> **Depinsim** | World’s first decentralized connectivity infrastructure network | [Telegram](https://t.me/depinsim) [Bot](https://t.me/DepinSimBot) [X](https://x.com/depinsim) [Site](https://www.depinsim.com/) [Gram News](https://gramnews.org/apps/depinsim) | 2024-06-20 | 1.2M |  |
+| 15 | <img src="../assets/icons/acton-vpn.webp" width="20" height="20" alt=""> **Acton VPN** | Fast VPN service delivered through a Telegram bot. | [Bot](https://t.me/actonvpn_bot) | 2026-09-16 |  |  |
+| 16 | <img src="../assets/icons/berkutteam-vpn.webp" width="20" height="20" alt=""> **BerkutTeam VPN** | VPN service run as a Telegram bot | [Bot](https://t.me/berkutteamvpn_bot) | 2026-07-02 |  |  |
+| 17 | <img src="../assets/icons/connectmeguru-esim.webp" width="20" height="20" alt=""> **ConnectMeGuru eSIM** | Instant travel eSIMs for 190+ countries. Buy, install & manage data plans directly in Telegram | [Bot](https://t.me/esim_connectmeguru_bot) [X](https://x.com/connectmeguru) [Site](https://www.connectmeguru.com) [Gram News](https://gramnews.org/apps/connectmeguru-esim) | 2026-02-21 |  |  |
+| 18 | <img src="../assets/icons/dark-vpn.webp" width="20" height="20" alt=""> **DARK VPN** | VPN service with a Telegram bot, web account cabinet and support contacts. | [Telegram](https://t.me/d_k_vpn) [Bot](https://t.me/darklightvpn_bot) | 2025-07-15 |  |  |
+| 19 | <img src="../assets/icons/devpn.webp" width="20" height="20" alt=""> **DeVPN** | VPN service run as a Telegram bot | [Bot](https://t.me/delabvpnbot) | 2024-09-12 |  |  |
+| 20 | <img src="../assets/icons/ejx-vpnai.webp" width="20" height="20" alt=""> **EJX VPNAI** | VPN service delivered through a Telegram bot | [Bot](https://t.me/vpnai) | 2026-03-26 |  |  |
+| 21 | <img src="../assets/icons/ejx-vpnai-2.webp" width="20" height="20" alt=""> **EJX VPNAI** | VPN service in a Telegram bot | [Bot](https://t.me/ejxbot) | 2026-03-30 |  |  |
+| 22 | <img src="../assets/icons/gcvpn-vpn-proxy-telegram.webp" width="20" height="20" alt=""> **GCvpn** |  | [Bot](https://t.me/giftchangesvpnbot) | 2026-03-24 |  |  |
+| 23 | <img src="../assets/icons/gercvpn.webp" width="20" height="20" alt=""> **GercVPN** | VPN service in a Telegram bot | [Bot](https://t.me/gercvpn_bot) | 2026-04-24 |  |  |
+| 24 | <img src="../assets/icons/gimme-vpn.webp" width="20" height="20" alt=""> **Gimme VPN** |  | [Bot](https://t.me/gimmelifevpn_bot) | 2026-07-10 |  |  |
+| 25 | <img src="../assets/icons/hermit-vpn.webp" width="20" height="20" alt=""> **Hermit VPN** | VPN service in a Telegram bot | [Bot](https://t.me/hermitvpnbot) | 2026-03-26 |  |  |
+| 26 | <img src="../assets/icons/hitvpnbot.webp" width="20" height="20" alt=""> **hitvpnbot** | Telegram bot selling a fast and secure VPN service. | [Bot](https://t.me/hitvpnbot) | 2023-10-03 |  |  |
+| 27 | <img src="../assets/icons/hysteriavpn.webp" width="20" height="20" alt=""> **HysteriaVPN** | VPN service as a Telegram bot | [Bot](https://t.me/hysteria2vpn_bot) | 2026-05-18 |  |  |
+| 28 | <img src="../assets/icons/incy-vpn.webp" width="20" height="20" alt=""> **INCY VPN** | VPN service as a Telegram bot | [Bot](https://t.me/incy) | 2026-06-08 |  |  |
+| 29 | <img src="../assets/icons/kent-vpn.webp" width="20" height="20" alt=""> **Kent VPN** | VPN with traffic encryption, anonymous search and bypass of whitelist-based blocking. | [Bot](https://t.me/vpn_kentbot) | 2024-07-23 |  |  |
+| 30 | <img src="../assets/icons/makaka-vpn.webp" width="20" height="20" alt=""> **Makaka VPN** | Telegram bot selling VPN access | [Bot](https://t.me/makakavpnbot) | 2026-04-18 |  |  |
+| 31 | <img src="../assets/icons/molly-vpn.webp" width="20" height="20" alt=""> **Molly VPN** | Anonymous high-speed VPN service managed through a Telegram bot. | [Telegram](https://t.me/mollyvpn_community) [Bot](https://t.me/mollyvpnbot_bot) | 2026-05-05 |  |  |
+| 32 | <img src="../assets/icons/mr-freeman.webp" width="20" height="20" alt=""> **Mr. Freeman** | VPN, proxy, eSIM and crypto cards service via Telegram bot | [Bot](https://t.me/dmf0_bot) | 2025-10-15 | 537K |  |
+| 33 | <img src="../assets/icons/netz-run-vpn.webp" width="20" height="20" alt=""> **NETZ.RUN VPN** | Fast and reliable VPN service in Telegram | [Bot](https://t.me/netzrun_bot) | 2023-10-03 |  |  |
+| 34 | <img src="../assets/icons/netzprints.webp" width="20" height="20" alt=""> **Netzprints** | Get lifetime discount on NETZ.RUN VPN services while holding NFT | [Telegram](https://t.me/netzrun) [Site](https://getgems.io/netzprints) | 2024-02 |  |  |
+| 35 | <img src="../assets/icons/outline-vpn.webp" width="20" height="20" alt=""> **Outline VPN** | Outline is resistant to the most sophisticated forms of blocking including DNS, content, and IP blocking | [Bot](https://t.me/getoutlinevpn_bot) | 2025-11-08 |  |  |
+| 36 | <img src="../assets/icons/plume-proxy.webp" width="20" height="20" alt=""> **Plume Proxy** | Fast & Affordable Rotating Proxy Servers | [Bot](https://t.me/plumeproxy_bot) | 2023-10-03 |  |  |
+| 37 | <img src="../assets/icons/plusone-vpn.webp" width="20" height="20" alt=""> **PlusOne VPN** |  | [Bot](https://t.me/plusonevpn_bot) | 2026-04-27 |  |  |
+| 38 | <img src="../assets/icons/telegram-info-vpn.webp" width="20" height="20" alt=""> **Telegram Info VPN** | VPN service in a Telegram bot | [Bot](https://t.me/tginfovpn_bot) | 2022-06-20 |  |  |
+| 39 | <img src="../assets/icons/ton-vpn.webp" width="20" height="20" alt=""> **Ton VPN** | VPN service operating as a Telegram bot | [Bot](https://t.me/tonvpn_bot) | 2024-11-30 |  |  |
 | 40 | **Tony VPN** |  | [Bot](https://t.me/tony_vpn_bot) [Gram News](https://gramnews.org/apps/tony-vpn) | 2026-03-26 |  |  |
-| 41 | **VPN4TON** | Telegram VPN service with a focus on connection speed. | [Bot](https://t.me/vpn4ton_bot) | 2023-10-03 |  |  |
-| 42 | **zonerift VPN** | Buy Premium VPN with Telegram Stars and TON | [Telegram](https://t.me/TildaApp) [Bot](https://t.me/zoneriftvpn_bot) [X](https://x.com/zoneriftvpn) Site (down) [Gram News](https://gramnews.org/apps/zonerift-vpn) | 2024-05-13 |  |  |
-| 43 | **Gram VPN** | A VPN inside Telegram — the bot opens blocked websites through a blocking-bypass system and cuts ads | [Telegram](https://t.me/GramVPN) [Bot](https://t.me/GramVBot) [Gram News](https://gramnews.org/apps/gram-vpn) | 2018-04-16 |  |  |
-| 44 | **telegramconnect** | Earn crypto and get access to 15M WiFi passwords with ! | [Telegram](https://t.me/townwifi) [Bot](https://t.me/townwifibot) [Gram News](https://gramnews.org/apps/telegramconnect) | 2024-06-03 | 5K |  |
+| 41 | <img src="../assets/icons/vpn4ton.webp" width="20" height="20" alt=""> **VPN4TON** | Telegram VPN service with a focus on connection speed. | [Bot](https://t.me/vpn4ton_bot) | 2023-10-03 |  |  |
+| 42 | <img src="../assets/icons/zonerift-vpn.webp" width="20" height="20" alt=""> **zonerift VPN** | Buy Premium VPN with Telegram Stars and TON | [Telegram](https://t.me/TildaApp) [Bot](https://t.me/zoneriftvpn_bot) [X](https://x.com/zoneriftvpn) Site (down) [Gram News](https://gramnews.org/apps/zonerift-vpn) | 2024-05-13 |  |  |
+| 43 | <img src="../assets/icons/gram-vpn.webp" width="20" height="20" alt=""> **Gram VPN** | A VPN inside Telegram — the bot opens blocked websites through a blocking-bypass system and cuts ads | [Telegram](https://t.me/GramVPN) [Bot](https://t.me/GramVBot) [Gram News](https://gramnews.org/apps/gram-vpn) | 2018-04-16 |  |  |
+| 44 | <img src="../assets/icons/telegramconnect.webp" width="20" height="20" alt=""> **telegramconnect** | Earn crypto and get access to 15M WiFi passwords with ! | [Telegram](https://t.me/townwifi) [Bot](https://t.me/townwifibot) [Gram News](https://gramnews.org/apps/telegramconnect) | 2024-06-03 | 5K |  |
 
 </details>
 

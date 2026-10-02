@@ -16,33 +16,33 @@ xychart-beta
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 1 | **GAMEE** | Biggest gaming community on Telegram, powered by $GMEE token | [Telegram](https://t.me/gameechannel) [Bot](https://t.me/gamee) [X](https://x.com/gameetoken) [Site](https://www.gamee.com) [Gram News](https://gramnews.org/apps/gamee) | 2024 |  | since 2020-04 |
-| 2 | **PlayDeck** | PlayDeck is a Telegram mini app offering over 250 free games | [Telegram](https://t.me/playdeck_en) [Bot](https://t.me/playdeckbot) [X](https://x.com/playdeckgames) [Site](https://www.playdeck.io) [GitHub](https://github.com/ton-play) [Gram News](https://gramnews.org/apps/playdeck) | 2023-10-13 |  | since 2024-05 |
-| 3 | **Ice Creators** | Investment studio for Web3 projects | [Telegram](https://t.me/ice_creators) | 2025-08-17 |  |  |
-| 4 | **TonTon Games** |  | [Telegram](https://t.me/tikitons) [X](https://x.com/ton_tongames) | 2024 |  |  |
-| 5 | **Axiom Game Labs** | Studio making Telegram games | [Telegram](https://t.me/axiomgame) | 2025-07-18 |  |  |
+| 1 | <img src="../assets/icons/gamee.webp" width="20" height="20" alt=""> **GAMEE** | Biggest gaming community on Telegram, powered by $GMEE token | [Telegram](https://t.me/gameechannel) [Bot](https://t.me/gamee) [X](https://x.com/gameetoken) [Site](https://www.gamee.com) [Gram News](https://gramnews.org/apps/gamee) | 2024 |  | since 2020-04 |
+| 2 | <img src="../assets/icons/playdeck.webp" width="20" height="20" alt=""> **PlayDeck** | PlayDeck is a Telegram mini app offering over 250 free games | [Telegram](https://t.me/playdeck_en) [Bot](https://t.me/playdeckbot) [X](https://x.com/playdeckgames) [Site](https://www.playdeck.io) [GitHub](https://github.com/ton-play) [Gram News](https://gramnews.org/apps/playdeck) | 2023-10-13 |  | since 2024-05 |
+| 3 | <img src="../assets/icons/ice-creators.webp" width="20" height="20" alt=""> **Ice Creators** | Investment studio for Web3 projects | [Telegram](https://t.me/ice_creators) | 2025-08-17 |  |  |
+| 4 | <img src="../assets/icons/tonton-games.webp" width="20" height="20" alt=""> **TonTon Games** |  | [Telegram](https://t.me/tikitons) [X](https://x.com/ton_tongames) | 2024 |  |  |
+| 5 | <img src="../assets/icons/axiom-game-labs.webp" width="20" height="20" alt=""> **Axiom Game Labs** | Studio making Telegram games | [Telegram](https://t.me/axiomgame) | 2025-07-18 |  |  |
 
 <details><summary><b>Quiet: 18</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 6 | **AKEDO Games** | Multi-agent AI framework for a Web3 creator-driven ecosystem. | [Telegram](https://t.me/akedofun) [X](https://x.com/akedofun) [Site](https://akedo.fun) | 2024-07-18 |  |  |
-| 7 | **Axiom Labs** | Studio building privacy tools for on-chain execution. | [Telegram](https://t.me/axiomlabsofficial) [X](https://x.com/AxiomGame_Labs) | 2024-10 |  |  |
+| 6 | <img src="../assets/icons/akedo-games.webp" width="20" height="20" alt=""> **AKEDO Games** | Multi-agent AI framework for a Web3 creator-driven ecosystem. | [Telegram](https://t.me/akedofun) [X](https://x.com/akedofun) [Site](https://akedo.fun) | 2024-07-18 |  |  |
+| 7 | <img src="../assets/icons/axiom-labs.webp" width="20" height="20" alt=""> **Axiom Labs** | Studio building privacy tools for on-chain execution. | [Telegram](https://t.me/axiomlabsofficial) [X](https://x.com/AxiomGame_Labs) | 2024-10 |  |  |
 | 8 | **Bastion** |  |  |  |  |  |
-| 9 | **Delabs Games** |  | [Telegram](https://t.me/delabsgameschat) [X](https://x.com/delabsOfficial) [Site](https://www.delabs.gg) | 2024-07-15 |  |  |
-| 10 | **Fanzee Labs** | Web3 studio building gamified sports and entertainment experiences on TON | [Telegram](https://t.me/fanzeecommunity) | 2024-01-06 |  |  |
+| 9 | <img src="../assets/icons/delabs-games.webp" width="20" height="20" alt=""> **Delabs Games** |  | [Telegram](https://t.me/delabsgameschat) [X](https://x.com/delabsOfficial) [Site](https://www.delabs.gg) | 2024-07-15 |  |  |
+| 10 | <img src="../assets/icons/fanzee-labs.webp" width="20" height="20" alt=""> **Fanzee Labs** | Web3 studio building gamified sports and entertainment experiences on TON | [Telegram](https://t.me/fanzeecommunity) | 2024-01-06 |  |  |
 | 11 | **Hackney Games** |  |  | 2022 |  |  |
-| 12 | **LevelQ** | Team behind TONYield, an all-in-one DeFi yield product on TON. | [Telegram](https://t.me/levelqfin) | 2025-03-17 |  |  |
-| 13 | **Open Builders** | Community of Telegram-native open source and independent tools. | [Telegram](https://t.me/builders) [X](https://x.com/open_builders) [Site](https://openbuilders.xyz) | 2022-06 |  | since 2025-06 |
+| 12 | <img src="../assets/icons/levelq.webp" width="20" height="20" alt=""> **LevelQ** | Team behind TONYield, an all-in-one DeFi yield product on TON. | [Telegram](https://t.me/levelqfin) | 2025-03-17 |  |  |
+| 13 | <img src="../assets/icons/open-builders.webp" width="20" height="20" alt=""> **Open Builders** | Community of Telegram-native open source and independent tools. | [Telegram](https://t.me/builders) [X](https://x.com/open_builders) [Site](https://openbuilders.xyz) | 2022-06 |  | since 2025-06 |
 | 14 | **Pluto Studios** |  | [X](https://x.com/PlutoVisionLabs) [Site](https://www.pluto.vision) | 2024-03 |  |  |
-| 15 | **RSquad** | Blockchain lab building blockchain solutions and interoperability tools. | [Telegram](https://t.me/rsquad) [X](https://x.com/rsquadlab) [Site](https://rsquad.io) | 2015 |  |  |
-| 16 | **Televerse** | Gaming infrastructure from WeChat mini-game veterans | [Telegram](https://t.me/televerseodyssey) [Bot](https://t.me/televerseodyssey_bot) | 2024-10-11 | 673K |  |
-| 17 | **The Open Platform** | Tech company developing Web3 products in Telegram, providing funding, expertise, tools and distribution. | [Telegram](https://t.me/topco) [X](https://x.com/topdotco) [Site](https://top.co) | 2023-09-08 |  |  |
-| 18 | **TON Studio** |  | [Telegram](https://t.me/ton_studio) [X](https://x.com/thetonstudio) [Site](https://tonstudio.io) | 2024-11-01 |  |  |
-| 19 | **YeehaGames** | Web3 games studio building games and a subsidiary of GGI. | [Telegram](https://t.me/realyeehagames) | 2022-12-22 |  |  |
-| 20 | **AmberTON** | Studio building apps and games for Telegram on TON | [Telegram](https://t.me/amberton) | 2024-07-02 |  |  |
-| 21 | **OPEN** | Laboratory building blockchain and AI products | [Telegram](https://t.me/opensites) [Bot](https://t.me/opensitesbot) | 2024-01-16 |  |  |
-| 22 | **Off lab** | Developer of utility projects for TON | [Telegram](https://t.me/off_lab) | 2024-08-12 |  |  |
-| 23 | **Tonic** | Independent co-operative building on TON | [Telegram](https://t.me/toniccx) [X](https://x.com/toniccx) | 2022-02-01 |  |  |
+| 15 | <img src="../assets/icons/rsquad.webp" width="20" height="20" alt=""> **RSquad** | Blockchain lab building blockchain solutions and interoperability tools. | [Telegram](https://t.me/rsquad) [X](https://x.com/rsquadlab) [Site](https://rsquad.io) | 2015 |  |  |
+| 16 | <img src="../assets/icons/televerse.webp" width="20" height="20" alt=""> **Televerse** | Gaming infrastructure from WeChat mini-game veterans | [Telegram](https://t.me/televerseodyssey) [Bot](https://t.me/televerseodyssey_bot) | 2024-10-11 | 673K |  |
+| 17 | <img src="../assets/icons/the-open-platform.webp" width="20" height="20" alt=""> **The Open Platform** | Tech company developing Web3 products in Telegram, providing funding, expertise, tools and distribution. | [Telegram](https://t.me/topco) [X](https://x.com/topdotco) [Site](https://top.co) | 2023-09-08 |  |  |
+| 18 | <img src="../assets/icons/ton-studio.webp" width="20" height="20" alt=""> **TON Studio** |  | [Telegram](https://t.me/ton_studio) [X](https://x.com/thetonstudio) [Site](https://tonstudio.io) | 2024-11-01 |  |  |
+| 19 | <img src="../assets/icons/yeehagames.webp" width="20" height="20" alt=""> **YeehaGames** | Web3 games studio building games and a subsidiary of GGI. | [Telegram](https://t.me/realyeehagames) | 2022-12-22 |  |  |
+| 20 | <img src="../assets/icons/amberton.webp" width="20" height="20" alt=""> **AmberTON** | Studio building apps and games for Telegram on TON | [Telegram](https://t.me/amberton) | 2024-07-02 |  |  |
+| 21 | <img src="../assets/icons/open.webp" width="20" height="20" alt=""> **OPEN** | Laboratory building blockchain and AI products | [Telegram](https://t.me/opensites) [Bot](https://t.me/opensitesbot) | 2024-01-16 |  |  |
+| 22 | <img src="../assets/icons/off-lab.webp" width="20" height="20" alt=""> **Off lab** | Developer of utility projects for TON | [Telegram](https://t.me/off_lab) | 2024-08-12 |  |  |
+| 23 | <img src="../assets/icons/tonic.webp" width="20" height="20" alt=""> **Tonic** | Independent co-operative building on TON | [Telegram](https://t.me/toniccx) [X](https://x.com/toniccx) | 2022-02-01 |  |  |
 
 </details>

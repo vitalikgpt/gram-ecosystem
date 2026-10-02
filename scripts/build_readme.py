@@ -60,9 +60,17 @@ def home(r):
     return r["telegram"] or r["bot"] or (r["website"] if not r.get("website_down") else "") or r["x"]
 
 
-def plink(r):
+def icon(r, prefix=""):
+    """A 20px copy of the project's Telegram avatar, kept in the repository (assets/icons), never hotlinked."""
+    key = r.get("slug") or ("ch-" + r["telegram"].rstrip("/").rsplit("/", 1)[-1].lower() if r.get("telegram") else "")
+    if key and os.path.exists(f"assets/icons/{key}.webp"):
+        return f'<img src="{prefix}assets/icons/{key}.webp" width="20" height="20" alt=""> '
+    return ""
+
+
+def plink(r, prefix=""):
     url = home(r)
-    return f"[{cell(r['name'])}]({url})" if url else cell(r["name"])
+    return icon(r, prefix) + (f"[{cell(r['name'])}]({url})" if url else cell(r["name"]))
 
 
 EMOJI = re.compile("[\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF\uFE0F\u200d]")
@@ -122,7 +130,7 @@ def table(items, prefix=""):
            "| ---: | --- | --- | --- | --- | ---: | --- |"]
     for r in items:
         peak = fmt(r["peak_mau"]) if r.get("peak_mau") else ""
-        out.append(f"| {r['rank']} | **{cell(r['name'])}** | {short(r['description'])} | {links(r)} | {r.get('launched', '')} | {peak} | {verified(r)} |")
+        out.append(f"| {r['rank']} | {icon(r, prefix)}**{cell(r['name'])}** | {short(r['description'])} | {links(r)} | {r.get('launched', '')} | {peak} | {verified(r)} |")
     return out
 
 
@@ -467,6 +475,7 @@ def build():
         f"| [data/channels.csv](data/channels.csv) | {len(chans):,} channels about TON that are not a project's own, with language, theme, creation date, posts and views |",
         "| [data/categories.json](data/categories.json) | categories in display order |",
         f"| [data/link-fixes.csv](data/link-fixes.csv) | {len(fixes):,} link decisions (replaced, removed, confirmed, marked down) with evidence |",
+        f"| [assets/icons](assets/icons) | {len([f for f in os.listdir('assets/icons') if f.endswith('.webp')]) if os.path.isdir('assets/icons') else 0:,} icons, 64px WebP copies of each project's and channel's Telegram avatar: `<slug>.webp`, channels as `ch-<username>.webp` |",
         "| [datapackage.json](datapackage.json) | the [Frictionless](https://frictionlessdata.io) descriptor: every file and column, for tools that load typed tables |",
         f"| [data/category-fixes.csv](data/category-fixes.csv) | {sum(1 for _ in open('data/category-fixes.csv')) - 1 if os.path.exists('data/category-fixes.csv') else 0} category decisions with the reason: moves, and rows removed as not projects |",
         f"| [data/usernames.csv](data/usernames.csv) | {sum(1 for _ in open('data/usernames.csv')) - 1 if os.path.exists('data/usernames.csv') else 0} other usernames of the same accounts, by numeric id: second names, renames, names now held by someone else |",
@@ -531,7 +540,7 @@ def build():
         big = sorted(cs, key=lambda c: -int(c["views_q3"] or 0))[:3]
         out.append(f"| {t} | {len(cs)} | {fmt(sum(int(c['subscribers'] or 0) for c in cs))} | "
                    f"{sum(int(c['posts_q3'] or 0) for c in cs):,} | {fmt(sum(int(c['views_q3'] or 0) for c in cs))} | "
-                   + ", ".join(f"[{tname(c["name"]) or c['telegram'].rsplit('/', 1)[-1]}]({c['telegram']})" for c in big) + " |")
+                   + ", ".join(f"{icon(dict(telegram=c['telegram']))}[{tname(c['name']) or c['telegram'].rsplit('/', 1)[-1]}]({c['telegram']})" for c in big) + " |")
     langs = {}
     for c in chans:
         langs[c.get("language") or "other"] = langs.get(c.get("language") or "other", 0) + 1

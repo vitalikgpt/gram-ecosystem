@@ -17,28 +17,28 @@ xychart-beta
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 1 | **Anonymous Numbers** | Collection of anonymous Telegram phone numbers traded as NFTs on Fragment. | [Site](https://fragment.com/gifts) | 2022-12-06 |  |  |
-| 2 | **Plush Pepe** | Plush Pepe gift collection with a related community token on TON. | [Telegram](https://t.me/plushpepe_coin) [Site](https://fragment.com/gifts) | 2025-01-23 |  |  |
+| 2 | <img src="../assets/icons/nft-plushpepe.webp" width="20" height="20" alt=""> **Plush Pepe** | Plush Pepe gift collection with a related community token on TON. | [Telegram](https://t.me/plushpepe_coin) [Site](https://fragment.com/gifts) | 2025-01-23 |  |  |
 | 3 | **Telegram Usernames** | Telegram usernames sold and traded as NFTs on the Fragment marketplace. | [Site](https://fragment.com/gifts) | 2022-10-27 |  |  |
 | 4 | **Scared Cat** |  | [Site](https://fragment.com/gifts) | 2025-01-23 |  |  |
 | 5 | **Heart Locket** |  | [Site](https://fragment.com/gifts) | 2025-06-06 |  |  |
-| 6 | **NOT Wise** | NFT community on TON with its own chat and social channels. | [Telegram](https://t.me/notwise) | 2024-03-20 |  |  |
-| 7 | **Apes Club** | NFT collection on TON where holders stake apes in a bot for points spent in an NFT shop. | [Telegram](https://t.me/apes_club) [Bot](https://t.me/apes_club_bot) | 2025-09-29 | 132K |  |
-| 8 | **NOT Punks** | NFT collection from the Notcoin ecosystem with a Telegram game and its own token. | [Telegram](https://t.me/notpunks_official) [Site](https://notpunks.com) | 2024-05-26 |  |  |
-| 9 | **NOTAPES** | Pixel PFP NFT collection of hand drawn apes on TON | [Telegram](https://t.me/notapes) [X](https://x.com/notapess) | 2025-03-31 |  |  |
-| 10 | **Chess Pieces** | A unique NFT collection of 3600 Chess Pieces from the Chess Zombies metaverse - summon NFT warriors - collect an indestructible army - level up your Warriors | [Telegram](https://t.me/chesszombies) [X](https://x.com/SHEDEVERstudio) [Site](https://chesszombies.fun) | 2022-09-07 |  |  |
-| 11 | **Seals Playground** | Pixel art NFT project on TON. | [Telegram](https://t.me/sealsplayground) | 2025-11-26 |  |  |
-| 12 | **Gram Rabbits** | NFT rabbit collection on Getgems with community chat | [Telegram](https://t.me/mh_friends_zone) [Site](https://gram.org) | 2023-10-19 |  |  |
-| 13 | **Hello Novia** | TON NFT collection on Getgems | [Telegram](https://t.me/hello_novia) | 2023-07-25 |  |  |
-| 14 | **TON Chinchillas** | Collection of 777 chinchilla NFTs on TON | [Telegram](https://t.me/tonchinchi) | 2022-01-23 |  |  |
-| 15 | **LEVELS** | NFT collection of 1500 cards on TON | [Telegram](https://t.me/levels_ton) | 2026-01-27 |  |  |
-| 16 | **Stalin Party Card** | Stalin Party Card - is a collection of 1000 NFT party cards that are used in the Stalin Foundation ecosystem | [Telegram](https://t.me/StalinFoundation) [Site](https://) [GitHub](https://github.com/StalinFoundation) | 2023-08-09 |  |  |
-| 17 | **Ton Street Boys** | Collection of 2,500 NFT photographs of street kids facing hardship in the ghetto. | [Telegram](https://t.me/tonstreetboys) [Bot](https://t.me/TsbWarsBot) Site (down) | 2025-05-26 |  |  |
-| 18 | **ПOSTNEIRONIA** | history of cursed humor and AI evolution | [Telegram](https://t.me/postneironia) [Site](https://getgems.io/user/EQD7TF4JB0hOz1nBOPDRVKyl14eGnMm7LcYzk_8A-7KMjalE) | 2021-10-02 |  |  |
+| 6 | <img src="../assets/icons/not-wise.webp" width="20" height="20" alt=""> **NOT Wise** | NFT community on TON with its own chat and social channels. | [Telegram](https://t.me/notwise) | 2024-03-20 |  |  |
+| 7 | <img src="../assets/icons/apes-club.webp" width="20" height="20" alt=""> **Apes Club** | NFT collection on TON where holders stake apes in a bot for points spent in an NFT shop. | [Telegram](https://t.me/apes_club) [Bot](https://t.me/apes_club_bot) | 2025-09-29 | 132K |  |
+| 8 | <img src="../assets/icons/not-punks.webp" width="20" height="20" alt=""> **NOT Punks** | NFT collection from the Notcoin ecosystem with a Telegram game and its own token. | [Telegram](https://t.me/notpunks_official) [Site](https://notpunks.com) | 2024-05-26 |  |  |
+| 9 | <img src="../assets/icons/notapes.webp" width="20" height="20" alt=""> **NOTAPES** | Pixel PFP NFT collection of hand drawn apes on TON | [Telegram](https://t.me/notapes) [X](https://x.com/notapess) | 2025-03-31 |  |  |
+| 10 | <img src="../assets/icons/chess-pieces.webp" width="20" height="20" alt=""> **Chess Pieces** | A unique NFT collection of 3600 Chess Pieces from the Chess Zombies metaverse - summon NFT warriors - collect an indestructible army - level up your Warriors | [Telegram](https://t.me/chesszombies) [X](https://x.com/SHEDEVERstudio) [Site](https://chesszombies.fun) | 2022-09-07 |  |  |
+| 11 | <img src="../assets/icons/seals-playground.webp" width="20" height="20" alt=""> **Seals Playground** | Pixel art NFT project on TON. | [Telegram](https://t.me/sealsplayground) | 2025-11-26 |  |  |
+| 12 | <img src="../assets/icons/gram-rabbits.webp" width="20" height="20" alt=""> **Gram Rabbits** | NFT rabbit collection on Getgems with community chat | [Telegram](https://t.me/mh_friends_zone) [Site](https://gram.org) | 2023-10-19 |  |  |
+| 13 | <img src="../assets/icons/hello-novia.webp" width="20" height="20" alt=""> **Hello Novia** | TON NFT collection on Getgems | [Telegram](https://t.me/hello_novia) | 2023-07-25 |  |  |
+| 14 | <img src="../assets/icons/ton-chinchillas.webp" width="20" height="20" alt=""> **TON Chinchillas** | Collection of 777 chinchilla NFTs on TON | [Telegram](https://t.me/tonchinchi) | 2022-01-23 |  |  |
+| 15 | <img src="../assets/icons/levels.webp" width="20" height="20" alt=""> **LEVELS** | NFT collection of 1500 cards on TON | [Telegram](https://t.me/levels_ton) | 2026-01-27 |  |  |
+| 16 | <img src="../assets/icons/stalin-party-card.webp" width="20" height="20" alt=""> **Stalin Party Card** | Stalin Party Card - is a collection of 1000 NFT party cards that are used in the Stalin Foundation ecosystem | [Telegram](https://t.me/StalinFoundation) [Site](https://) [GitHub](https://github.com/StalinFoundation) | 2023-08-09 |  |  |
+| 17 | <img src="../assets/icons/ton-street-boys.webp" width="20" height="20" alt=""> **Ton Street Boys** | Collection of 2,500 NFT photographs of street kids facing hardship in the ghetto. | [Telegram](https://t.me/tonstreetboys) [Bot](https://t.me/TsbWarsBot) Site (down) | 2025-05-26 |  |  |
+| 18 | <img src="../assets/icons/ostneironia.webp" width="20" height="20" alt=""> **ПOSTNEIRONIA** | history of cursed humor and AI evolution | [Telegram](https://t.me/postneironia) [Site](https://getgems.io/user/EQD7TF4JB0hOz1nBOPDRVKyl14eGnMm7LcYzk_8A-7KMjalE) | 2021-10-02 |  |  |
 | 19 | **Ton Hedgehog** | 1111 different hand-drawn pixel hedgehogs | [Telegram](https://t.me/hedgehog_ton) [Site](https://) | 2026-09-04 |  |  |
-| 20 | **TON Cats NFT** | NFT cat collection on The Open Network | [Telegram](https://t.me/tonnftcat) [Site](https://toncat.org) | 2022-01-30 |  |  |
-| 21 | **Utya Portal** | Utya duck NFT project on TON | [Telegram](https://t.me/utyaduck) | 2024-04-12 |  |  |
-| 22 | **10kClub** | Club for holders of 4-digit .ton domains | [Telegram](https://t.me/club10k) [Site](https://10kclub.com) | 2024-06-20 |  |  |
-| 23 | **The Dinos** | Dinosaur NFT collection on TON | [Telegram](https://t.me/dinoston) | 2023-12-21 |  |  |
+| 20 | <img src="../assets/icons/ton-cats-nft.webp" width="20" height="20" alt=""> **TON Cats NFT** | NFT cat collection on The Open Network | [Telegram](https://t.me/tonnftcat) [Site](https://toncat.org) | 2022-01-30 |  |  |
+| 21 | <img src="../assets/icons/utya-portal.webp" width="20" height="20" alt=""> **Utya Portal** | Utya duck NFT project on TON | [Telegram](https://t.me/utyaduck) | 2024-04-12 |  |  |
+| 22 | <img src="../assets/icons/10kclub.webp" width="20" height="20" alt=""> **10kClub** | Club for holders of 4-digit .ton domains | [Telegram](https://t.me/club10k) [Site](https://10kclub.com) | 2024-06-20 |  |  |
+| 23 | <img src="../assets/icons/the-dinos.webp" width="20" height="20" alt=""> **The Dinos** | Dinosaur NFT collection on TON | [Telegram](https://t.me/dinoston) | 2023-12-21 |  |  |
 
 <details><summary><b>Quiet: 111</b></summary>
 
@@ -48,113 +48,113 @@ xychart-beta
 | 25 | **Animals Cyberpunk** | In the vast metropolis of Neo-Arcadia, a new generation of creatures known as the Cyberpunk Syndicate of Animals has emerged from the shadows | [X](https://x.com/AnimalCyberpunk) Site (down) | 2024-04 |  |  |
 | 26 | **Annihilation** | First NFT collection by Ellen Sheidlin | [Site](https://ton.diamonds/collection/annihilation?tab=items) | 2023-04 |  |  |
 | 27 | **ASTROPUNK** | A beautiful and unusual collection of astro-monkeys with their own history that are talismans for your wallets | [Site](https://getgems.io/collection/EQB9cmgY_7BAeufdhYacKRTrxniEnJwyTvQJWAm2xlw48cdf) | 2024-03 |  |  |
-| 28 | **Bolgur NFT** | Official NFT bot of Airina Bolgur | [Bot](https://t.me/bolgurnftbot) | 2024-11-20 |  |  |
+| 28 | <img src="../assets/icons/bolgur-nft.webp" width="20" height="20" alt=""> **Bolgur NFT** | Official NFT bot of Airina Bolgur | [Bot](https://t.me/bolgurnftbot) | 2024-11-20 |  |  |
 | 29 | **Cat Mafia NFT** | NFT collection of mafia-themed cats sold on Getgems. | [Site](https://getgems.io/collection/EQBUhVMKeO5YZ4I151B1DVNbsimI_VWDA_eo7hpw4ITPvUbo) | 2023-02 |  |  |
 | 30 | **Cats in a parallel** |  | [Site](https://getgems.io/collection/EQCJEMMuZIKwgxpnShxAykSSXqn9Y788ld6mIC7w9EqRayoS) | 2024-03 |  |  |
-| 31 | **Crypto Snoops** | NFT collection of 4000 2D dogs on TON | [Telegram](https://t.me/cryptosnoops) | 2022-03-11 |  |  |
+| 31 | <img src="../assets/icons/crypto-snoops.webp" width="20" height="20" alt=""> **Crypto Snoops** | NFT collection of 4000 2D dogs on TON | [Telegram](https://t.me/cryptosnoops) | 2022-03-11 |  |  |
 | 32 | **Cyberpunk World NFT** | One of the most future large collections of NFT in cyberpunk style based on TON | [Site](https://getgems.io/collection/EQBG35T0OW0qbKH6BZBy7fGPGBXtdlPEcld_VoXhW-SXLr39) | 2023-07 |  |  |
-| 33 | **Cyborg Rock** | Cyborg Rock is a thrilling NFT collection where robots unleash powerful guitar riffs and captivating girls play enchanting violin tunes | [Telegram](https://t.me/cyborgrock) [Bot](https://t.me/CyborgRockBot) [X](https://x.com/cyborgrocks) [Site](https://getgems.io/cyborgrock) | 2024-08 |  |  |
-| 34 | **Degenerate Ape** | PFP digital-art NFT collection | [Telegram](https://t.me/degenerate_ape_nft) | 2023-08-01 |  |  |
-| 35 | **GhettoNFT** | NFT project on TON with a Telegram chat, channel and bot. | [Telegram](https://t.me/ghetton) [Bot](https://t.me/jumanjirobot) [Gram News](https://gramnews.org/apps/ghettonft) | 2022-10-04 |  |  |
-| 36 | **Hello TON NFT** | Community chat of the Hello TON NFT collections | [Telegram](https://t.me/hellotonchat) | 2022-06-07 |  |  |
+| 33 | <img src="../assets/icons/cyborg-rock.webp" width="20" height="20" alt=""> **Cyborg Rock** | Cyborg Rock is a thrilling NFT collection where robots unleash powerful guitar riffs and captivating girls play enchanting violin tunes | [Telegram](https://t.me/cyborgrock) [Bot](https://t.me/CyborgRockBot) [X](https://x.com/cyborgrocks) [Site](https://getgems.io/cyborgrock) | 2024-08 |  |  |
+| 34 | <img src="../assets/icons/degenerate-ape.webp" width="20" height="20" alt=""> **Degenerate Ape** | PFP digital-art NFT collection | [Telegram](https://t.me/degenerate_ape_nft) | 2023-08-01 |  |  |
+| 35 | <img src="../assets/icons/ghettonft.webp" width="20" height="20" alt=""> **GhettoNFT** | NFT project on TON with a Telegram chat, channel and bot. | [Telegram](https://t.me/ghetton) [Bot](https://t.me/jumanjirobot) [Gram News](https://gramnews.org/apps/ghettonft) | 2022-10-04 |  |  |
+| 36 | <img src="../assets/icons/hello-ton-nft.webp" width="20" height="20" alt=""> **Hello TON NFT** | Community chat of the Hello TON NFT collections | [Telegram](https://t.me/hellotonchat) | 2022-06-07 |  |  |
 | 37 | **Humans** | Limited collection of NFT avatars on TON sold through Getgems. | [Site](https://getgems.io/collection/EQDgUeotvXbB1_YEIhrYvYHj8jO9rY6ud7uIW-TBTQIP2odD) | 2023-02 |  |  |
-| 38 | **kingyTON NFT** | A unique animated collection of 315 items on significant events of the TON project | [Telegram](https://t.me/investkingyru) [Site](https://ton.org.in) | 2023-05 |  |  |
+| 38 | <img src="../assets/icons/kingyton-nft.webp" width="20" height="20" alt=""> **kingyTON NFT** | A unique animated collection of 315 items on significant events of the TON project | [Telegram](https://t.me/investkingyru) [Site](https://ton.org.in) | 2023-05 |  |  |
 | 39 | **Knuckles TON** | Knuckles TON is everything you need | [Telegram](https://t.me/knucklesonton) [Site](https://getgems.io/knuckleston) | 2024-03 |  |  |
-| 40 | **LlamasInPixelHarmony** | Llamas In Pixel Harmony is a symbol of the strength, tenacity and endurance of the TON community in creating decentralization | [Telegram](https://t.me/LlamasInPixelHarmony) [Site](https://getgems.io/collection/EQB31ij7PT2XWo2onAdhOVwEWvOrU804b70MD0PPpyqz2qv8) | 2023-12 |  |  |
+| 40 | <img src="../assets/icons/llamasinpixelharmony.webp" width="20" height="20" alt=""> **LlamasInPixelHarmony** | Llamas In Pixel Harmony is a symbol of the strength, tenacity and endurance of the TON community in creating decentralization | [Telegram](https://t.me/LlamasInPixelHarmony) [Site](https://getgems.io/collection/EQB31ij7PT2XWo2onAdhOVwEWvOrU804b70MD0PPpyqz2qv8) | 2023-12 |  |  |
 | 41 | **MINTODINOS** | Привет, ты слышал новость? | [Site](https://getgems.io/collection/mintodinos) | 2024-01 |  |  |
 | 42 | **MONAKI** | Discover a closed community of builders, NFT collectors and crypto enthusiasts | [Site](https://monaki.life) | 2023-04 |  |  |
-| 43 | **Not Cap** | App for Not Cap sticker holders | [Bot](https://t.me/notcapclub_bot) | 2025-08-13 |  |  |
+| 43 | <img src="../assets/icons/not-cap.webp" width="20" height="20" alt=""> **Not Cap** | App for Not Cap sticker holders | [Bot](https://t.me/notcapclub_bot) | 2025-08-13 |  |  |
 | 44 | **Not Doge** | Epic NFT collection consisting of 400 randomly generated Doge and 100 hand drawn Doge in different styles | [Site](https://getgems.io/collection/EQAOQFjv7uuyChgfCQnntF-TAIkBlvx9lbfhShvZkxG0Ht6Y#activity) | 2024-03 |  |  |
 | 45 | **OCTOPUS BOYZ** | A collection of 777 unique animated NFTs opens up a fascinating world crafted by the renowned artist and animation director Brickspacer using Unreal Engine 5 | [Site](https://ton.diamonds/collection/octopusboyz?tab=items) | 2023-04 |  |  |
-| 46 | **PacTon** | The collection unites active people of TON community! | [Telegram](https://t.me/pac_ton) [Site](https://getgems.io/collection/omnomnomnom) | 2023-06 |  |  |
+| 46 | <img src="../assets/icons/pacton.webp" width="20" height="20" alt=""> **PacTon** | The collection unites active people of TON community! | [Telegram](https://t.me/pac_ton) [Site](https://getgems.io/collection/omnomnomnom) | 2023-06 |  |  |
 | 47 | **PUPS TON** |  | [X](https://x.com/pups_TON) [Site](https://getgems.io/collection/EQBKG8QlHNvEZvubLspjbZ5sC4qthZQOQTOA7JgjKIE2ACEO) [Gram News](https://gramnews.org/apps/pups-ton) | 2024-05-15 |  |  |
-| 48 | **Rabbits** | Telegram gifts bot of the Rabbits collection | [Bot](https://t.me/rabbitsgiftbot) | 2026-03-12 |  |  |
+| 48 | <img src="../assets/icons/rabbits.webp" width="20" height="20" alt=""> **Rabbits** | Telegram gifts bot of the Rabbits collection | [Bot](https://t.me/rabbitsgiftbot) | 2026-03-12 |  |  |
 | 49 | **Rabbits TON** | These cute earwigs will serve as a mascot for the lucky ones and a pass-through ticket to the community, where you can win something interesting by participatin | [Site](https://rabbits-ton.ru/) | 2023-06 |  |  |
-| 50 | **Rich Cats** | First customizable NFT for Telegram, based on TON | [Bot](https://t.me/richcatsbot) | 2022-03-07 |  |  |
-| 51 | **Seals Playground** | Pixel art NFT project on TON. | [Telegram](https://t.me/sealsgate) | 2025-08-19 |  |  |
-| 52 | **Summer Dancing** | Summer Dancing is a vibrant NFT collection featuring beautifully drawn Girls set against stunning Summer landscapes | [Telegram](https://t.me/summerdances) [Bot](https://t.me/SummerDancingBot) [X](https://x.com/SummerDanceNFT) [Site](https://getgems.io/summerdancing) | 2024-08 |  |  |
-| 53 | **TEIKO** | The TEIKŌ project combines web3 and web2 for artists and art enthusiasts | [Telegram](https://t.me/teiko) Site (down) | 2023-06 |  |  |
+| 50 | <img src="../assets/icons/rich-cats.webp" width="20" height="20" alt=""> **Rich Cats** | First customizable NFT for Telegram, based on TON | [Bot](https://t.me/richcatsbot) | 2022-03-07 |  |  |
+| 51 | <img src="../assets/icons/seals-playground-2.webp" width="20" height="20" alt=""> **Seals Playground** | Pixel art NFT project on TON. | [Telegram](https://t.me/sealsgate) | 2025-08-19 |  |  |
+| 52 | <img src="../assets/icons/summer-dancing.webp" width="20" height="20" alt=""> **Summer Dancing** | Summer Dancing is a vibrant NFT collection featuring beautifully drawn Girls set against stunning Summer landscapes | [Telegram](https://t.me/summerdances) [Bot](https://t.me/SummerDancingBot) [X](https://x.com/SummerDanceNFT) [Site](https://getgems.io/summerdancing) | 2024-08 |  |  |
+| 53 | <img src="../assets/icons/teiko.webp" width="20" height="20" alt=""> **TEIKO** | The TEIKŌ project combines web3 and web2 for artists and art enthusiasts | [Telegram](https://t.me/teiko) Site (down) | 2023-06 |  |  |
 | 54 | **Tenere Slopy** | Pixel NFT collection with a prize draw among holders. | [X](https://x.com/slopymeme) Site (down) | 2023-06 |  |  |
 | 55 | **TON AVATARS** | TON AVATARS — collection of 5,555 unique NFT Avatars on the TON blockchain, created in collaboration with famous artists, bloggers, musicians, and brands | [Site](https://tonavatars.to/) | 2024-01 |  |  |
-| 56 | **TON Capsules** | NFT collection on TON with official bot | [Bot](https://t.me/toncapsulesbot) | 2022-05-03 |  |  |
-| 57 | **TON Diamonds NFT** | TON Diamonds NFT collection contains 10,000 unique animated diamonds that grant exclusive priveleges in TON Ecosystem | [Telegram](https://t.me/sheidlinart) [Site](https://ton.diamonds) | 2023-06 |  | since 2022-06 |
-| 58 | **TON Doodles** | NFT collection on TON with official bot | [Bot](https://t.me/tondoodles_bot) | 2022-06-18 |  |  |
-| 59 | **Ton Famous People** | Best future NFT avatars for Telegram TON / CRYPTO / SIGNALS, NEWS & ANALYTICS | [Telegram](https://t.me/tonfamouspeople) | 2023-09-09 |  |  |
-| 60 | **TON Frogs** | Limited NFT collection of 5,555 animated 3D frogs on TON with a companion app. | [Telegram](https://t.me/tonfrogs) [Bot](https://t.me/tonfrogs_bot) [X](https://x.com/tonfrogs) | 2022-04-06 |  |  |
+| 56 | <img src="../assets/icons/ton-capsules.webp" width="20" height="20" alt=""> **TON Capsules** | NFT collection on TON with official bot | [Bot](https://t.me/toncapsulesbot) | 2022-05-03 |  |  |
+| 57 | <img src="../assets/icons/ton-diamonds-nft.webp" width="20" height="20" alt=""> **TON Diamonds NFT** | TON Diamonds NFT collection contains 10,000 unique animated diamonds that grant exclusive priveleges in TON Ecosystem | [Telegram](https://t.me/sheidlinart) [Site](https://ton.diamonds) | 2023-06 |  | since 2022-06 |
+| 58 | <img src="../assets/icons/ton-doodles.webp" width="20" height="20" alt=""> **TON Doodles** | NFT collection on TON with official bot | [Bot](https://t.me/tondoodles_bot) | 2022-06-18 |  |  |
+| 59 | <img src="../assets/icons/ton-famous-people.webp" width="20" height="20" alt=""> **Ton Famous People** | Best future NFT avatars for Telegram TON / CRYPTO / SIGNALS, NEWS & ANALYTICS | [Telegram](https://t.me/tonfamouspeople) | 2023-09-09 |  |  |
+| 60 | <img src="../assets/icons/ton-frogs.webp" width="20" height="20" alt=""> **TON Frogs** | Limited NFT collection of 5,555 animated 3D frogs on TON with a companion app. | [Telegram](https://t.me/tonfrogs) [Bot](https://t.me/tonfrogs_bot) [X](https://x.com/tonfrogs) | 2022-04-06 |  |  |
 | 61 | **TON Goblins** | TON Goblins is a limited NFT collection on TON (The Open Network) that consists of 300 unique pixel goblins | [Telegram](https://t.me/goblinium) [Site](https://getgems.io/collection/EQDId39SNQ6HyClTaZRCfanKJ4PdVy5pyY2BwZmubHdSWlmT) | 2023-04 |  |  |
-| 62 | **Ton INU $TINU NFT** | Each NFT is a unique blend of tech brilliance and Inu charm | [Telegram](https://t.me/toninutools) [Site](https://toninu.tech/) | 2024-02 |  |  |
-| 63 | **TON NFT Cats** | NFT cat collection on TON | [Telegram](https://t.me/tegrocatnft) | 2022-05-06 |  |  |
-| 64 | **TON Sharks** | Pixel shark NFT collection on TON | [Telegram](https://t.me/sharks_community) | 2023-03-09 |  |  |
-| 65 | **TON Space Vibes** | NFT collection on Getgems | [Telegram](https://t.me/tonspacevibes) | 2022-07-06 |  |  |
-| 66 | **VeVe Stickerverse** | Digital sticker collectibles on Telegram | [Bot](https://t.me/veve_stickerverse_bot) | 2026-06-04 |  |  |
+| 62 | <img src="../assets/icons/ton-inu-tinu-nft.webp" width="20" height="20" alt=""> **Ton INU $TINU NFT** | Each NFT is a unique blend of tech brilliance and Inu charm | [Telegram](https://t.me/toninutools) [Site](https://toninu.tech/) | 2024-02 |  |  |
+| 63 | <img src="../assets/icons/ton-nft-cats.webp" width="20" height="20" alt=""> **TON NFT Cats** | NFT cat collection on TON | [Telegram](https://t.me/tegrocatnft) | 2022-05-06 |  |  |
+| 64 | <img src="../assets/icons/ton-sharks.webp" width="20" height="20" alt=""> **TON Sharks** | Pixel shark NFT collection on TON | [Telegram](https://t.me/sharks_community) | 2023-03-09 |  |  |
+| 65 | <img src="../assets/icons/ton-space-vibes.webp" width="20" height="20" alt=""> **TON Space Vibes** | NFT collection on Getgems | [Telegram](https://t.me/tonspacevibes) | 2022-07-06 |  |  |
+| 66 | <img src="../assets/icons/veve-stickerverse.webp" width="20" height="20" alt=""> **VeVe Stickerverse** | Digital sticker collectibles on Telegram | [Bot](https://t.me/veve_stickerverse_bot) | 2026-06-04 |  |  |
 | 67 | **Web3TON NFT** | Web3TON is the first NFT project dedicated to the future Web 3.0 Internet on TON | [Site](https://web3ton.pro) | 2023-08 |  |  |
-| 68 | **Welcome to @Whale** | Each digital artwork represents a memorable token earned after successfully completing a Whale Journey quest about the #01 Crypto Community | [Telegram](https://t.me/whale) [X](https://x.com/whalegames_en) [Site](https://whale.io) | 2023-04-17 |  |  |
+| 68 | <img src="../assets/icons/welcome-to-whale.webp" width="20" height="20" alt=""> **Welcome to @Whale** | Each digital artwork represents a memorable token earned after successfully completing a Whale Journey quest about the #01 Crypto Community | [Telegram](https://t.me/whale) [X](https://x.com/whalegames_en) [Site](https://whale.io) | 2023-04-17 |  |  |
 | 69 | **Whales Club** | Collection limited to 10000 utility-enabled NFTs, where the token is your membership to the Whales Club | [Site](https://getgems.io/collection/whales) | 2023-04 |  |  |
 | 70 | **Wizzard Cats** | The “Wizard Cats” collection is a series of images of cats dressed in wizard attire | [Site](https://getgems.io/collection/EQAyn3CpHxHdjVy_BQWzAy7QxbYX5hu8uPjVgDCrPrVNbdum) | 2024-02 |  |  |
-| 71 | **Neko NFT** | NFT collection on TON with a gift bot for users. | [Telegram](https://t.me/nek0nft) | 2025-09-08 |  |  |
-| 72 | **Telegram Monk** | Telegram Monk NFT portal channel | [Telegram](https://t.me/tg_monk) [X](https://x.com/TMonkOfficial) [Site](https://tgmonk.com) | 2024-03-10 |  |  |
-| 73 | **DreamWalkers** | NFT collection of 6363 items on TON | [Telegram](https://t.me/dreamwalkersnft) [Site](https://dreamwalkers.io) | 2022-07-23 |  |  |
-| 74 | **PunkCity (PUNK)** | The first NFT on the TON Blockchain | [Telegram](https://t.me/TONPunksENG) [X](https://x.com/TonPunks) [Site](https://tonpunks.org) | 2023-07-04 |  |  |
-| 75 | **TON Olbanec** | Free-mint NFT collection on TON with its own website. | [Telegram](https://t.me/olbania_memeland) | 2023-03-27 |  |  |
-| 76 | **Meta Panthers** | NFT collection on TON featuring panthers from Ancient Egypt, with its own marketplace site. | [Telegram](https://t.me/metapanthers_ru) [Bot](https://t.me/libermallbot) [X](https://x.com/LibermallNFT) [Site](https://metapanthers.ru) [GitHub](https://github.com/LiberMall) [Gram News](https://gramnews.org/apps/meta-panthers) | 2022-01-26 |  |  |
-| 77 | **Blockchain NFT** | Info channel of the Blockchain NFT collection | [Telegram](https://t.me/chat_blockchain_nft) | 2023-02-05 |  |  |
-| 78 | **Nutcrackers Club** | Holder club for the Nutcrackers NFT collection on TON | [Telegram](https://t.me/nutcracker_en) [X](https://x.com/NutcrackersNFT) | 2024-02-01 |  |  |
-| 79 | **TON Fans** | TON Fans NFT collection and community fund | [Telegram](https://t.me/tonfans_nft) | 2022-08-21 |  |  |
-| 80 | **Smeshariki on TON** | NFT collections and mini app based on Smeshariki | [Telegram](https://t.me/smeshtonnews) | 2024-04-30 |  | since 2024-09 |
-| 81 | **Eggs Wisdom** | Eggs Wisdom NFT collection on Getgems | [Telegram](https://t.me/eggswisdom) [X](https://x.com/EggsWisdom) | 2023-10-03 |  |  |
-| 82 | **BARASH** | Sheep NFT collection on TON | [Telegram](https://t.me/barash_ton) | 2024-01-18 |  |  |
-| 83 | **NFT Dogs Metaverse** | Husky dog NFT collection on The Open Network | [Telegram](https://t.me/tonnftdog) | 2022-02-27 |  |  |
-| 84 | **Ponchiqs** | Ponchiqs NFT community on TON | [Telegram](https://t.me/ponchiqs) [Site](https://ponchiqs.com) | 2023-12-12 |  |  |
-| 85 | **Zhdun** | NFT collection on TON | [Telegram](https://t.me/zhdunnft) | 2025-07-02 |  |  |
-| 86 | **The Anime** | The Anime is a collection of 20K Anime NFTs - Unique digital collectibles living on TON Blockchain | [Telegram](https://t.me/TheAnime2024) [Site](https://getgems.io/theanime) [Gram News](https://gramnews.org/apps/the-anime) | 2024-05-10 |  |  |
-| 87 | **The Miners Club** | NFT collection for miners on TON | [Telegram](https://t.me/theminersclub) | 2024-02-07 |  |  |
-| 88 | **Freax** | NFT collection of crazy freax | [Telegram](https://t.me/freaxnft) | 2024-10-09 |  |  |
-| 89 | **RoundChickenTON** | NFT collection on Getgems | [Telegram](https://t.me/roundchicken) | 2023-09-03 |  |  |
-| 90 | **CARTONKI** | NFT collection of cookies with fortune predictions, minted through a Telegram bot. | [Telegram](https://t.me/cartonki_ru) | 2024-09-23 |  |  |
-| 91 | **TON Birds** | NFT community on TON with an admin and chat. | [Telegram](https://t.me/ton_birds) | 2023-06-12 |  |  |
-| 92 | **MamonTON** | Generated NFT collection with its own site | [Telegram](https://t.me/mamontonft) | 2022-04-18 |  |  |
-| 93 | **Succulents Dreams** | Non-generative NFT collection of succulents whose owners can receive a real living plant. | [Telegram](https://t.me/tonsucculents) [Bot](https://t.me/tonsucculents_bot) [X](https://x.com/tonsucculents) [Site](https://getgems.io/collection/tonsucculents) [Gram News](https://gramnews.org/apps/succulents-dreams) | 2022-12-20 |  |  |
-| 94 | **NFT Dog TON** | Dog NFT collection on TON by Tegro | [Telegram](https://t.me/tonnfttegrodog) | 2022-05-06 |  |  |
-| 95 | **Concept2048** | NFT collection with official channel | [Telegram](https://t.me/nft_ton_concept) | 2022-08-30 |  |  |
-| 96 | **Forever Meow** | Cat NFT collection on Getgems | [Telegram](https://t.me/forever_meow) [X](https://x.com/forevermeow) | 2022-11-15 |  |  |
-| 97 | **TON Bored Ape** | Collectible Bored Ape NFT for TON | [Telegram](https://t.me/tonbored) | 2022-04-07 |  |  |
+| 71 | <img src="../assets/icons/neko-nft.webp" width="20" height="20" alt=""> **Neko NFT** | NFT collection on TON with a gift bot for users. | [Telegram](https://t.me/nek0nft) | 2025-09-08 |  |  |
+| 72 | <img src="../assets/icons/telegram-monk.webp" width="20" height="20" alt=""> **Telegram Monk** | Telegram Monk NFT portal channel | [Telegram](https://t.me/tg_monk) [X](https://x.com/TMonkOfficial) [Site](https://tgmonk.com) | 2024-03-10 |  |  |
+| 73 | <img src="../assets/icons/dreamwalkers.webp" width="20" height="20" alt=""> **DreamWalkers** | NFT collection of 6363 items on TON | [Telegram](https://t.me/dreamwalkersnft) [Site](https://dreamwalkers.io) | 2022-07-23 |  |  |
+| 74 | <img src="../assets/icons/token-punkcity.webp" width="20" height="20" alt=""> **PunkCity (PUNK)** | The first NFT on the TON Blockchain | [Telegram](https://t.me/TONPunksENG) [X](https://x.com/TonPunks) [Site](https://tonpunks.org) | 2023-07-04 |  |  |
+| 75 | <img src="../assets/icons/ton-olbanec.webp" width="20" height="20" alt=""> **TON Olbanec** | Free-mint NFT collection on TON with its own website. | [Telegram](https://t.me/olbania_memeland) | 2023-03-27 |  |  |
+| 76 | <img src="../assets/icons/meta-panthers.webp" width="20" height="20" alt=""> **Meta Panthers** | NFT collection on TON featuring panthers from Ancient Egypt, with its own marketplace site. | [Telegram](https://t.me/metapanthers_ru) [Bot](https://t.me/libermallbot) [X](https://x.com/LibermallNFT) [Site](https://metapanthers.ru) [GitHub](https://github.com/LiberMall) [Gram News](https://gramnews.org/apps/meta-panthers) | 2022-01-26 |  |  |
+| 77 | <img src="../assets/icons/blockchain-nft.webp" width="20" height="20" alt=""> **Blockchain NFT** | Info channel of the Blockchain NFT collection | [Telegram](https://t.me/chat_blockchain_nft) | 2023-02-05 |  |  |
+| 78 | <img src="../assets/icons/nutcrackers-club.webp" width="20" height="20" alt=""> **Nutcrackers Club** | Holder club for the Nutcrackers NFT collection on TON | [Telegram](https://t.me/nutcracker_en) [X](https://x.com/NutcrackersNFT) | 2024-02-01 |  |  |
+| 79 | <img src="../assets/icons/ton-fans.webp" width="20" height="20" alt=""> **TON Fans** | TON Fans NFT collection and community fund | [Telegram](https://t.me/tonfans_nft) | 2022-08-21 |  |  |
+| 80 | <img src="../assets/icons/smeshariki-on-ton.webp" width="20" height="20" alt=""> **Smeshariki on TON** | NFT collections and mini app based on Smeshariki | [Telegram](https://t.me/smeshtonnews) | 2024-04-30 |  | since 2024-09 |
+| 81 | <img src="../assets/icons/eggs-wisdom.webp" width="20" height="20" alt=""> **Eggs Wisdom** | Eggs Wisdom NFT collection on Getgems | [Telegram](https://t.me/eggswisdom) [X](https://x.com/EggsWisdom) | 2023-10-03 |  |  |
+| 82 | <img src="../assets/icons/barash.webp" width="20" height="20" alt=""> **BARASH** | Sheep NFT collection on TON | [Telegram](https://t.me/barash_ton) | 2024-01-18 |  |  |
+| 83 | <img src="../assets/icons/nft-dogs-metaverse.webp" width="20" height="20" alt=""> **NFT Dogs Metaverse** | Husky dog NFT collection on The Open Network | [Telegram](https://t.me/tonnftdog) | 2022-02-27 |  |  |
+| 84 | <img src="../assets/icons/ponchiqs.webp" width="20" height="20" alt=""> **Ponchiqs** | Ponchiqs NFT community on TON | [Telegram](https://t.me/ponchiqs) [Site](https://ponchiqs.com) | 2023-12-12 |  |  |
+| 85 | <img src="../assets/icons/zhdun.webp" width="20" height="20" alt=""> **Zhdun** | NFT collection on TON | [Telegram](https://t.me/zhdunnft) | 2025-07-02 |  |  |
+| 86 | <img src="../assets/icons/the-anime.webp" width="20" height="20" alt=""> **The Anime** | The Anime is a collection of 20K Anime NFTs - Unique digital collectibles living on TON Blockchain | [Telegram](https://t.me/TheAnime2024) [Site](https://getgems.io/theanime) [Gram News](https://gramnews.org/apps/the-anime) | 2024-05-10 |  |  |
+| 87 | <img src="../assets/icons/the-miners-club.webp" width="20" height="20" alt=""> **The Miners Club** | NFT collection for miners on TON | [Telegram](https://t.me/theminersclub) | 2024-02-07 |  |  |
+| 88 | <img src="../assets/icons/freax.webp" width="20" height="20" alt=""> **Freax** | NFT collection of crazy freax | [Telegram](https://t.me/freaxnft) | 2024-10-09 |  |  |
+| 89 | <img src="../assets/icons/roundchickenton.webp" width="20" height="20" alt=""> **RoundChickenTON** | NFT collection on Getgems | [Telegram](https://t.me/roundchicken) | 2023-09-03 |  |  |
+| 90 | <img src="../assets/icons/cartonki.webp" width="20" height="20" alt=""> **CARTONKI** | NFT collection of cookies with fortune predictions, minted through a Telegram bot. | [Telegram](https://t.me/cartonki_ru) | 2024-09-23 |  |  |
+| 91 | <img src="../assets/icons/ton-birds.webp" width="20" height="20" alt=""> **TON Birds** | NFT community on TON with an admin and chat. | [Telegram](https://t.me/ton_birds) | 2023-06-12 |  |  |
+| 92 | <img src="../assets/icons/mamonton.webp" width="20" height="20" alt=""> **MamonTON** | Generated NFT collection with its own site | [Telegram](https://t.me/mamontonft) | 2022-04-18 |  |  |
+| 93 | <img src="../assets/icons/succulents-dreams.webp" width="20" height="20" alt=""> **Succulents Dreams** | Non-generative NFT collection of succulents whose owners can receive a real living plant. | [Telegram](https://t.me/tonsucculents) [Bot](https://t.me/tonsucculents_bot) [X](https://x.com/tonsucculents) [Site](https://getgems.io/collection/tonsucculents) [Gram News](https://gramnews.org/apps/succulents-dreams) | 2022-12-20 |  |  |
+| 94 | <img src="../assets/icons/nft-dog-ton.webp" width="20" height="20" alt=""> **NFT Dog TON** | Dog NFT collection on TON by Tegro | [Telegram](https://t.me/tonnfttegrodog) | 2022-05-06 |  |  |
+| 95 | <img src="../assets/icons/concept2048.webp" width="20" height="20" alt=""> **Concept2048** | NFT collection with official channel | [Telegram](https://t.me/nft_ton_concept) | 2022-08-30 |  |  |
+| 96 | <img src="../assets/icons/forever-meow.webp" width="20" height="20" alt=""> **Forever Meow** | Cat NFT collection on Getgems | [Telegram](https://t.me/forever_meow) [X](https://x.com/forevermeow) | 2022-11-15 |  |  |
+| 97 | <img src="../assets/icons/ton-bored-ape.webp" width="20" height="20" alt=""> **TON Bored Ape** | Collectible Bored Ape NFT for TON | [Telegram](https://t.me/tonbored) | 2022-04-07 |  |  |
 | 98 | **Angga Code** | The Angga Code NFT project aims to develop a robust and integrated digital ecosystem using blockchain technology | [Telegram](https://t.me/anggacode) Site (down) | 2024-11-08 |  |  |
-| 99 | **Sweetie NFT** | TON NFT project managing a network of channels | [Telegram](https://t.me/sweetie_nft) | 2023-06-29 |  |  |
-| 100 | **Ghosts** | Images from the NFT collection ":Ghosts" depict samurais standing with their backs turned, symbolizing a gaze into the past | [Telegram](https://t.me/ghosts_ru) [Bot](https://t.me/GhostonBot) [X](https://x.com/ghosts_ton) [Site](https://getgems.io/collection/ghosts) | 2023-01-15 |  |  |
-| 101 | **Mutant Toadz** | NFT collection on the TON blockchain | [Telegram](https://t.me/mutanttoadz) [Bot](https://t.me/mutanttoadz_bot) | 2022-04-14 |  |  |
-| 102 | **The Simpletons** | NFT collection project sold on Getgems | [Telegram](https://t.me/thesimpletons) | 2024-05-05 |  |  |
-| 103 | **Toned Ape Club** | NFT collection on TON with a community forum and website. | [Telegram](https://t.me/toned_ape_club) [Site](https://tonedapeclub.space) | 2022-01-29 |  |  |
-| 104 | **Cookie NFT** | NFT collection for joining a private chat | [Telegram](https://t.me/cookiestokens) Site (down) | 2024-04-13 |  |  |
-| 105 | **Cossacks NFT** | Introducing the Cossacks NFT Collection: Dive into a world of digital art inspired by the legendary Cossacks | [Telegram](https://t.me/cossacksnft) [X](https://x.com/CossacksNFT_) Site (down) | 2024-06-03 |  |  |
-| 106 | **TON Corgi NFT** | Corgi NFT collection on TON | [Telegram](https://t.me/toncorgi) | 2022-07-18 |  |  |
-| 107 | **Soul Stones** | NFT collection on the TON blockchain with its own Telegram bot. | [Telegram](https://t.me/tonsoulstonesnft) | 2022-03-03 |  |  |
-| 108 | **TON CAT** | Cat NFT collection on TON | [Telegram](https://t.me/ton_cat) | 2022-03-10 |  |  |
-| 109 | **Skullymo** | NFT collection on TON | [Telegram](https://t.me/skullymoton) | 2022-06-27 |  |  |
-| 110 | **Skullhead** | Collection of 666 skull NFTs on Getgems | [Telegram](https://t.me/skullhead_ton) | 2022-09-29 |  |  |
-| 111 | **Mintosaurs** | NFT project on TON with a website. | [Telegram](https://t.me/mintosaurs_ru) | 2022-01-14 |  |  |
-| 112 | **Anime.Dance** | NFT collection and MOCHI jetton | [Telegram](https://t.me/playdance) | 2024-02-09 |  |  |
-| 113 | **Time-Wandering Apes** | NFT avatar and comic collection on TON | [Telegram](https://t.me/wanderingapes) | 2023-03-27 |  |  |
-| 114 | **Ton Raccoon Clan** | NFT collection on TON | [Telegram](https://t.me/tonraccoonclan) | 2022-02-22 |  |  |
-| 115 | **TON Ducks** | Pixel art NFT collection on TON | [Telegram](https://t.me/tonducks_nft) | 2022-01-08 |  |  |
-| 116 | **NeuroMonks** | Cyberpunk NFT media franchise | [Telegram](https://t.me/neuromonksnft_ru) | 2022-09-11 |  |  |
-| 117 | **Tonsylvania** | NFT collection on Getgems | [Telegram](https://t.me/tonsylvania) | 2022-05-06 |  |  |
-| 118 | **TON Capybara** | Collection of 1111 NFTs on TON | [Telegram](https://t.me/capy20bara23) | 2023-07-24 |  |  |
-| 119 | **Lucky Ducky** | NFT collection of 1001 items on TON | [Telegram](https://t.me/luckyduckynft) | 2022-11-28 |  |  |
-| 120 | **Savaton NFT** | NFT project on TON with an admin contact. | [Telegram](https://t.me/savaton) | 2022-10-25 |  |  |
-| 121 | **SpaceNoodles** | TON NFT collection channel | [Telegram](https://t.me/spacenoodles) | 2022-05-25 |  |  |
-| 122 | **MetaCapsules** | NFT project on TON with a community chat. | [Telegram](https://t.me/metacapsules) | 2022-09-01 |  |  |
-| 123 | **TON Ducks** | NFT collection of ducks on TON | [Telegram](https://t.me/tonducksnft) | 2022-05-13 |  |  |
-| 124 | **TON Masks** | Mask NFT collection on TON | [Telegram](https://t.me/tonmasks_ru) [Bot](https://t.me/tonmasksairdropbot) | 2022-01-14 |  |  |
-| 125 | **Minibots** | NFT collection on TON backed by a Telegram-only bot-building business. | [Telegram](https://t.me/nftminibots) | 2022-08-22 |  |  |
-| 126 | **Weird Guy TON** | NFT collection on TON blockchain | [Telegram](https://t.me/weirdguyton) | 2022-07-10 |  |  |
-| 127 | **NFT Gnomes** | Gnome NFT collection on TON with mining bot | [Telegram](https://t.me/nft_gnomes) | 2022-06-24 |  |  |
-| 128 | **Circles on Fields** | NFT collection themed around crop circles, with a community chat and support. | [Telegram](https://t.me/nftkrugi) | 2022-06-27 |  |  |
-| 129 | **Non-Fungible Rabbits** | 3D animal NFT project on TON | [Telegram](https://t.me/nfrton) | 2022-05-08 |  |  |
-| 130 | **TON Kawaii Protection** | Collection of 696 NFTs on TON | [Telegram](https://t.me/kawaiiprotection) | 2022-04-18 |  |  |
-| 131 | **Baby Boss Club** | Animated music 3D NFT collection on TON | [Telegram](https://t.me/bbclubton) | 2022-09-16 |  |  |
-| 132 | **TON NFT Stamps** | NFT stamp collection on TON | [Telegram](https://t.me/nft_stamps) | 2022-03-16 |  |  |
-| 133 | **TON Rabbits** | NFT collection of rabbits on TON | [Telegram](https://t.me/tonrabbitnft) | 2022-06-07 |  |  |
-| 134 | **Peton** | NFT collection of pets on TON | [Telegram](https://t.me/petonnft) | 2022-08-06 |  |  |
+| 99 | <img src="../assets/icons/sweetie-nft.webp" width="20" height="20" alt=""> **Sweetie NFT** | TON NFT project managing a network of channels | [Telegram](https://t.me/sweetie_nft) | 2023-06-29 |  |  |
+| 100 | <img src="../assets/icons/ghosts.webp" width="20" height="20" alt=""> **Ghosts** | Images from the NFT collection ":Ghosts" depict samurais standing with their backs turned, symbolizing a gaze into the past | [Telegram](https://t.me/ghosts_ru) [Bot](https://t.me/GhostonBot) [X](https://x.com/ghosts_ton) [Site](https://getgems.io/collection/ghosts) | 2023-01-15 |  |  |
+| 101 | <img src="../assets/icons/mutant-toadz.webp" width="20" height="20" alt=""> **Mutant Toadz** | NFT collection on the TON blockchain | [Telegram](https://t.me/mutanttoadz) [Bot](https://t.me/mutanttoadz_bot) | 2022-04-14 |  |  |
+| 102 | <img src="../assets/icons/the-simpletons.webp" width="20" height="20" alt=""> **The Simpletons** | NFT collection project sold on Getgems | [Telegram](https://t.me/thesimpletons) | 2024-05-05 |  |  |
+| 103 | <img src="../assets/icons/toned-ape-club.webp" width="20" height="20" alt=""> **Toned Ape Club** | NFT collection on TON with a community forum and website. | [Telegram](https://t.me/toned_ape_club) [Site](https://tonedapeclub.space) | 2022-01-29 |  |  |
+| 104 | <img src="../assets/icons/cookie-nft.webp" width="20" height="20" alt=""> **Cookie NFT** | NFT collection for joining a private chat | [Telegram](https://t.me/cookiestokens) Site (down) | 2024-04-13 |  |  |
+| 105 | <img src="../assets/icons/cossacks-nft.webp" width="20" height="20" alt=""> **Cossacks NFT** | Introducing the Cossacks NFT Collection: Dive into a world of digital art inspired by the legendary Cossacks | [Telegram](https://t.me/cossacksnft) [X](https://x.com/CossacksNFT_) Site (down) | 2024-06-03 |  |  |
+| 106 | <img src="../assets/icons/ton-corgi-nft.webp" width="20" height="20" alt=""> **TON Corgi NFT** | Corgi NFT collection on TON | [Telegram](https://t.me/toncorgi) | 2022-07-18 |  |  |
+| 107 | <img src="../assets/icons/soul-stones.webp" width="20" height="20" alt=""> **Soul Stones** | NFT collection on the TON blockchain with its own Telegram bot. | [Telegram](https://t.me/tonsoulstonesnft) | 2022-03-03 |  |  |
+| 108 | <img src="../assets/icons/ton-cat.webp" width="20" height="20" alt=""> **TON CAT** | Cat NFT collection on TON | [Telegram](https://t.me/ton_cat) | 2022-03-10 |  |  |
+| 109 | <img src="../assets/icons/skullymo.webp" width="20" height="20" alt=""> **Skullymo** | NFT collection on TON | [Telegram](https://t.me/skullymoton) | 2022-06-27 |  |  |
+| 110 | <img src="../assets/icons/skullhead.webp" width="20" height="20" alt=""> **Skullhead** | Collection of 666 skull NFTs on Getgems | [Telegram](https://t.me/skullhead_ton) | 2022-09-29 |  |  |
+| 111 | <img src="../assets/icons/mintosaurs.webp" width="20" height="20" alt=""> **Mintosaurs** | NFT project on TON with a website. | [Telegram](https://t.me/mintosaurs_ru) | 2022-01-14 |  |  |
+| 112 | <img src="../assets/icons/anime-dance.webp" width="20" height="20" alt=""> **Anime.Dance** | NFT collection and MOCHI jetton | [Telegram](https://t.me/playdance) | 2024-02-09 |  |  |
+| 113 | <img src="../assets/icons/time-wandering-apes.webp" width="20" height="20" alt=""> **Time-Wandering Apes** | NFT avatar and comic collection on TON | [Telegram](https://t.me/wanderingapes) | 2023-03-27 |  |  |
+| 114 | <img src="../assets/icons/ton-raccoon-clan.webp" width="20" height="20" alt=""> **Ton Raccoon Clan** | NFT collection on TON | [Telegram](https://t.me/tonraccoonclan) | 2022-02-22 |  |  |
+| 115 | <img src="../assets/icons/ton-ducks-2.webp" width="20" height="20" alt=""> **TON Ducks** | Pixel art NFT collection on TON | [Telegram](https://t.me/tonducks_nft) | 2022-01-08 |  |  |
+| 116 | <img src="../assets/icons/neuromonks.webp" width="20" height="20" alt=""> **NeuroMonks** | Cyberpunk NFT media franchise | [Telegram](https://t.me/neuromonksnft_ru) | 2022-09-11 |  |  |
+| 117 | <img src="../assets/icons/tonsylvania.webp" width="20" height="20" alt=""> **Tonsylvania** | NFT collection on Getgems | [Telegram](https://t.me/tonsylvania) | 2022-05-06 |  |  |
+| 118 | <img src="../assets/icons/ton-capybara-2.webp" width="20" height="20" alt=""> **TON Capybara** | Collection of 1111 NFTs on TON | [Telegram](https://t.me/capy20bara23) | 2023-07-24 |  |  |
+| 119 | <img src="../assets/icons/lucky-ducky.webp" width="20" height="20" alt=""> **Lucky Ducky** | NFT collection of 1001 items on TON | [Telegram](https://t.me/luckyduckynft) | 2022-11-28 |  |  |
+| 120 | <img src="../assets/icons/savaton-nft.webp" width="20" height="20" alt=""> **Savaton NFT** | NFT project on TON with an admin contact. | [Telegram](https://t.me/savaton) | 2022-10-25 |  |  |
+| 121 | <img src="../assets/icons/spacenoodles.webp" width="20" height="20" alt=""> **SpaceNoodles** | TON NFT collection channel | [Telegram](https://t.me/spacenoodles) | 2022-05-25 |  |  |
+| 122 | <img src="../assets/icons/metacapsules.webp" width="20" height="20" alt=""> **MetaCapsules** | NFT project on TON with a community chat. | [Telegram](https://t.me/metacapsules) | 2022-09-01 |  |  |
+| 123 | <img src="../assets/icons/ton-ducks.webp" width="20" height="20" alt=""> **TON Ducks** | NFT collection of ducks on TON | [Telegram](https://t.me/tonducksnft) | 2022-05-13 |  |  |
+| 124 | <img src="../assets/icons/ton-masks.webp" width="20" height="20" alt=""> **TON Masks** | Mask NFT collection on TON | [Telegram](https://t.me/tonmasks_ru) [Bot](https://t.me/tonmasksairdropbot) | 2022-01-14 |  |  |
+| 125 | <img src="../assets/icons/minibots.webp" width="20" height="20" alt=""> **Minibots** | NFT collection on TON backed by a Telegram-only bot-building business. | [Telegram](https://t.me/nftminibots) | 2022-08-22 |  |  |
+| 126 | <img src="../assets/icons/weird-guy-ton.webp" width="20" height="20" alt=""> **Weird Guy TON** | NFT collection on TON blockchain | [Telegram](https://t.me/weirdguyton) | 2022-07-10 |  |  |
+| 127 | <img src="../assets/icons/nft-gnomes.webp" width="20" height="20" alt=""> **NFT Gnomes** | Gnome NFT collection on TON with mining bot | [Telegram](https://t.me/nft_gnomes) | 2022-06-24 |  |  |
+| 128 | <img src="../assets/icons/circles-on-fields.webp" width="20" height="20" alt=""> **Circles on Fields** | NFT collection themed around crop circles, with a community chat and support. | [Telegram](https://t.me/nftkrugi) | 2022-06-27 |  |  |
+| 129 | <img src="../assets/icons/non-fungible-rabbits.webp" width="20" height="20" alt=""> **Non-Fungible Rabbits** | 3D animal NFT project on TON | [Telegram](https://t.me/nfrton) | 2022-05-08 |  |  |
+| 130 | <img src="../assets/icons/ton-kawaii-protection.webp" width="20" height="20" alt=""> **TON Kawaii Protection** | Collection of 696 NFTs on TON | [Telegram](https://t.me/kawaiiprotection) | 2022-04-18 |  |  |
+| 131 | <img src="../assets/icons/baby-boss-club.webp" width="20" height="20" alt=""> **Baby Boss Club** | Animated music 3D NFT collection on TON | [Telegram](https://t.me/bbclubton) | 2022-09-16 |  |  |
+| 132 | <img src="../assets/icons/ton-nft-stamps.webp" width="20" height="20" alt=""> **TON NFT Stamps** | NFT stamp collection on TON | [Telegram](https://t.me/nft_stamps) | 2022-03-16 |  |  |
+| 133 | <img src="../assets/icons/ton-rabbits.webp" width="20" height="20" alt=""> **TON Rabbits** | NFT collection of rabbits on TON | [Telegram](https://t.me/tonrabbitnft) | 2022-06-07 |  |  |
+| 134 | <img src="../assets/icons/peton.webp" width="20" height="20" alt=""> **Peton** | NFT collection of pets on TON | [Telegram](https://t.me/petonnft) | 2022-08-06 |  |  |
 
 </details>
 
