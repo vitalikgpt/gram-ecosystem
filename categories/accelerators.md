@@ -24,7 +24,7 @@
 | 9 | **TON Regional Hub** | Official TON community hub for a region | [Telegram](https://t.me/toncishub) | 2024-02-01 |  |  |
 | 10 | **TON Regional Hub** | Official TON community hub for a region | [Telegram](https://t.me/tonushub) | 2025-11-17 |  |  |
 | 11 | **TON East Asia Hub** | Hub connecting TON builders and founders in East Asia | [Telegram](https://t.me/toneahub) | 2024-04-09 |  |  |
-| 12 | **TON Regional Hub** | Official TON community hub for a region | [Telegram](https://t.me/toneuropehub) | 2024-03-18 |  | 2026-09 |
+| 12 | **TON Regional Hub** | Official TON community hub for a region | [Telegram](https://t.me/toneuropehub) | 2024-03-18 |  | 2025-12 |
 | 13 | **TON SSEA Hub** | Official TON hub for Southeast Asia fostering local builders | [Telegram](https://t.me/tonsseahub) [X](https://x.com/TONSSEA) | 2025-01-23 |  |  |
 
 </details>

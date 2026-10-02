@@ -2,7 +2,7 @@
 
 # AI
 
-**63 projects: 17 active, 45 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**67 projects: 17 active, 49 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -26,7 +26,7 @@
 | 16 | **Meme Me** | Ready to turn your photos into epic memes? Upload your picture and watch the magic happen | [Bot](https://t.me/mememebot_bot) [Gram News](https://gramnews.org/apps/meme-me) | 2024-09-25 | 6.7M |  |
 | 17 | **TON Chat AI** | AI agent site and Telegram bot | [Telegram](https://t.me/bloggersnft) [Site](https://tonchat.ai) | 2024-04-29 |  |  |
 
-<details><summary><b>Quiet: 45</b></summary>
+<details><summary><b>Quiet: 49</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified since |
 | ---: | --- | --- | --- | --- | ---: | --- |
@@ -45,36 +45,40 @@
 | 30 | **AiTon** | Next Gen Ai Research project AiTon | [Bot](https://t.me/iaiton_bot) | 2026-05-22 |  |  |
 | 31 | **Aiya** | Personal AI assistant project | [Bot](https://t.me/aiyaproject_bot) | 2024-03-05 |  |  |
 | 32 | **AIYA** | Personal AI assistant with community channel | [Telegram](https://t.me/aiya_community) | 2024-02-05 |  |  |
-| 33 | **Alice AI** | Yandex neural network assistant as Telegram bot | [Bot](https://t.me/alisa) | 2026-02-09 |  | 2026-10 |
+| 33 | **Alice AI** | Yandex neural network assistant as Telegram bot | [Bot](https://t.me/alisa) | 2026-02-09 |  | 2026-03 |
 | 34 | **Alpha Track ~~ bot** | AI-powered crypto intelligence. Your channels filtered, categorized, delivered. Alpha,… | [Telegram](https://t.me/alphatrack_ann) [Bot](https://t.me/alphatrack_ai_bot) | 2026-07-15 |  |  |
-| 35 | **CoinCoin.ai** | AI tools and news channel for coding with Codex, ChatGPT and Claude | [Telegram](https://t.me/coincoinai) | 2025-07-08 |  |  |
-| 36 | **DecentralGPT** | Decentralized LLM inference network | [Telegram](https://t.me/decentralgpt) | 2024-06-14 |  |  |
-| 37 | **Duck Ai App** | Deploy & Manage Ai Agents easily | [Telegram](https://t.me/myduckai) [Bot](https://t.me/teleduckaibot) | 2026-06-03 |  |  |
-| 38 | **Fabrika AI** | Platform for building AI agents in Telegram | [Bot](https://t.me/game_nobot) | 2024-09-25 | 1.8M | 2026-10 |
-| 40 | **Fragment Neuro Bot** |  | [Telegram](https://t.me/TeletonApp) [Bot](https://t.me/TeletonOfficialAppBot) [X](https://x.com/teletonapp) [Gram News](https://gramnews.org/apps/fragment-neuro-bot) | 2024-07-29 |  |  |
-| 41 | **GMAI** | GMAI — developer tool for Solana dApps with AI integration | [Telegram](https://t.me/gmAI_Ann) [Bot](https://t.me/gmdotaibot) [X](https://x.com/gm_dot_ai) [Site](https://docs.gm.ai/how-we-work/gmai-framework) [Gram News](https://gramnews.org/apps/gmai) | 2024-07-30 | 2.5M |  |
-| 42 | **Grok** | xAI language model available as a Telegram bot | [Bot](https://t.me/grokai) | 2024-12-29 | 791K | 2026-10 |
-| 43 | **Husky AI** | All-in-one AI app in Telegram | [Bot](https://t.me/huskysearchbot) | 2024-11-05 | 2K |  |
-| 44 | **Kamana AI** | Start your $KAMANA journey and reap the rewards in $TON • TG • Play | [Telegram](https://t.me/kamanaann) [Bot](https://t.me/kamanaai_bot) | 2026-10 | 685 |  |
-| 45 | **NEONEXA AI** | Neonexa Network: Web: tonmason.com | [Telegram](https://t.me/tonmasons) [Bot](https://t.me/tonmasonaibot) | 2026-09-04 |  |  |
-| 46 | **NEONEXA Network** | NEONEXA AI: Web: tonmason.com | [Telegram](https://t.me/tonmasons_ru) [Bot](https://t.me/masongamebot) | 2025-02-11 | 251K |  |
-| 47 | **Neural Networks** |  | [Bot](https://t.me/chatgpt_tgm_bot) Site (down) [GitHub](https://github.com/Stenix777/Neural-network-telegram) [Gram News](https://gramnews.org/apps/neural-networks) | 2023-02-01 |  |  |
-| 48 | **Neux** | AI agent mini app for general tasks | [Bot](https://t.me/neuxapp_bot) | 2026-02-18 |  |  |
-| 49 | **OLOID X AI** | Официальный бот LLC OLOID X | [Bot](https://t.me/oloidxauth_bot) | 2026-08-09 |  |  |
-| 50 | **Omniracle AI Search** | Omniracle AI Search — tool for analyzing fast-moving topics on the internet | [Telegram](https://t.me/omniracle) [Bot](https://t.me/omniracle_bot) [X](https://x.com/omniracle) [Site](https://omniracle.com) [Gram News](https://gramnews.org/apps/omniracle-ai-search) | 2024-06 |  |  |
-| 51 | **Plate AI** | Snap. Know. Eat. Your free AI calorie tracker | [Bot](https://t.me/plateaibot) | 2025 |  |  |
-| 52 | **Santa AI Agent** | AI web3 agent living inside HOT wallet that gifts users | [Bot](https://t.me/santa_agent_bot) | 2024-12-22 |  |  |
-| 53 | **Sentient AI** | Hello mate Ready to connect with the world in a whole new way? | [Bot](https://t.me/sentient_ai_bot) | 2025-03-15 | 50K |  |
-| 54 | **SkaldAIbot** | Skald AI is the first GameFi-related AI Agent | [Bot](https://t.me/skaldaiagentbot) |  |  |  |
-| 55 | **StoryChain** | Engaging with StoryChain’s AI-based stories, voting on content, and completing tasks | [Bot](https://t.me/storychainbot) | 2024-10-07 | 252K |  |
-| 56 | **Ta-da** | The first data-to-earn on Telegram Perform simple tasks and earn $TADA | [Bot](https://t.me/tada_ai_bot) | 2025-01-12 | 149K |  |
-| 57 | **Tobi Copilot** | AI-powered web3 assistant bot | [Bot](https://t.me/tobicopilotbot) | 2024-12-18 |  |  |
-| 58 | **TonsoAI** | AI powered super app and InfoFi hub on Telegram | [Bot](https://t.me/tonsoaibot) | 2025-12-24 |  |  |
-| 59 | **TradeOS** | The AI Decision Engine for Global Markets | [Telegram](https://t.me/tradeos_news) |  |  |  |
-| 60 | **XPump.AI** | AI-powered Telegram app | [Bot](https://t.me/xpumpai_bot) | 2024-11-08 | 106K |  |
-| 61 | **Olivia AI Network** | Announcements of the Olivia AI network | [Telegram](https://t.me/olivia_ai_network) [X](https://x.com/Olivia_Network) [Site](https://olivianetwork.com) | 2025-03-18 |  |  |
-| 62 | **Aiya** | Russian channel of the Aiya AI assistant | [Telegram](https://t.me/aiyaprojectru) | 2024-02-05 |  |  |
-| 63 | **Imaginary Ones BubioAI** | Create and chat with AI characters | [Telegram](https://t.me/imaginaryoneshq) | 2025-06-22 |  |  |
+| 35 | **ChainGPT CIS** | CIS channel of the ChainGPT AI model | [Telegram](https://t.me/chaingpt_cis) | 2023-04-04 |  |  |
+| 36 | **CoinCoin.ai** | AI tools and news channel for coding with Codex, ChatGPT and Claude | [Telegram](https://t.me/coincoinai) | 2025-07-08 |  |  |
+| 37 | **DecentralGPT** | Decentralized LLM inference network | [Telegram](https://t.me/decentralgpt) | 2024-06-14 |  |  |
+| 38 | **Duck Ai App** | Deploy & Manage Ai Agents easily | [Telegram](https://t.me/myduckai) [Bot](https://t.me/teleduckaibot) | 2026-06-03 |  |  |
+| 39 | **Fabrika AI** | Platform for building AI agents in Telegram | [Bot](https://t.me/game_nobot) | 2024-09-25 | 1.8M | 2024-12 |
+| 41 | **Fragment Neuro Bot** |  | [Telegram](https://t.me/TeletonApp) [Bot](https://t.me/TeletonOfficialAppBot) [X](https://x.com/teletonapp) [Gram News](https://gramnews.org/apps/fragment-neuro-bot) | 2024-07-29 |  |  |
+| 42 | **GMAI** | GMAI — developer tool for Solana dApps with AI integration | [Telegram](https://t.me/gmAI_Ann) [Bot](https://t.me/gmdotaibot) [X](https://x.com/gm_dot_ai) [Site](https://docs.gm.ai/how-we-work/gmai-framework) [Gram News](https://gramnews.org/apps/gmai) | 2024-07-30 | 2.5M |  |
+| 43 | **Grok** | xAI language model available as a Telegram bot | [Bot](https://t.me/grokai) | 2024-12-29 | 791K | 2025-05 |
+| 44 | **Husky AI** | All-in-one AI app in Telegram | [Bot](https://t.me/huskysearchbot) | 2024-11-05 | 2K |  |
+| 45 | **Kamana AI** | Start your $KAMANA journey and reap the rewards in $TON • TG • Play | [Telegram](https://t.me/kamanaann) [Bot](https://t.me/kamanaai_bot) | 2026-10 | 685 |  |
+| 46 | **NEONEXA AI** | Neonexa Network: Web: tonmason.com | [Telegram](https://t.me/tonmasons) [Bot](https://t.me/tonmasonaibot) | 2026-09-04 |  |  |
+| 47 | **NEONEXA Network** | NEONEXA AI: Web: tonmason.com | [Telegram](https://t.me/tonmasons_ru) [Bot](https://t.me/masongamebot) | 2025-02-11 | 251K |  |
+| 48 | **Neural Networks** |  | [Bot](https://t.me/chatgpt_tgm_bot) Site (down) [GitHub](https://github.com/Stenix777/Neural-network-telegram) [Gram News](https://gramnews.org/apps/neural-networks) | 2023-02-01 |  |  |
+| 49 | **Neux** | AI agent mini app for general tasks | [Bot](https://t.me/neuxapp_bot) | 2026-02-18 |  |  |
+| 50 | **OLOID X AI** | Официальный бот LLC OLOID X | [Bot](https://t.me/oloidxauth_bot) | 2026-08-09 |  |  |
+| 51 | **Omniracle AI Search** | Omniracle AI Search — tool for analyzing fast-moving topics on the internet | [Telegram](https://t.me/omniracle) [Bot](https://t.me/omniracle_bot) [X](https://x.com/omniracle) [Site](https://omniracle.com) [Gram News](https://gramnews.org/apps/omniracle-ai-search) | 2024-06 |  |  |
+| 52 | **Plate AI** | Snap. Know. Eat. Your free AI calorie tracker | [Bot](https://t.me/plateaibot) | 2025 |  |  |
+| 53 | **Santa AI Agent** | AI web3 agent living inside HOT wallet that gifts users | [Bot](https://t.me/santa_agent_bot) | 2024-12-22 |  |  |
+| 54 | **Sentient AI** | Hello mate Ready to connect with the world in a whole new way? | [Bot](https://t.me/sentient_ai_bot) | 2025-03-15 | 50K |  |
+| 55 | **SkaldAIbot** | Skald AI is the first GameFi-related AI Agent | [Bot](https://t.me/skaldaiagentbot) |  |  |  |
+| 56 | **StoryChain** | Engaging with StoryChain’s AI-based stories, voting on content, and completing tasks | [Bot](https://t.me/storychainbot) | 2024-10-07 | 252K |  |
+| 57 | **Ta-da** | The first data-to-earn on Telegram Perform simple tasks and earn $TADA | [Bot](https://t.me/tada_ai_bot) | 2025-01-12 | 149K |  |
+| 58 | **Teleton Agents** | Community group for Teleton autonomous AI agents | [Telegram](https://t.me/teletonagenthq) | 2026-02-08 |  |  |
+| 59 | **Teleton Agents** | Autonomous AI agents on Telegram with TON integration | [Telegram](https://t.me/teletonagents) | 2025-11-08 |  |  |
+| 60 | **TheOpenLayer** | Bot for making AI agents easy and secure to use | [Bot](https://t.me/theopenlayer_bot) | 2024-12-20 |  |  |
+| 61 | **Tobi Copilot** | AI-powered web3 assistant bot | [Bot](https://t.me/tobicopilotbot) | 2024-12-18 |  |  |
+| 62 | **TonsoAI** | AI powered super app and InfoFi hub on Telegram | [Bot](https://t.me/tonsoaibot) | 2025-12-24 |  |  |
+| 63 | **TradeOS** | The AI Decision Engine for Global Markets | [Telegram](https://t.me/tradeos_news) |  |  |  |
+| 64 | **XPump.AI** | AI-powered Telegram app | [Bot](https://t.me/xpumpai_bot) | 2024-11-08 | 106K |  |
+| 65 | **Olivia AI Network** | Announcements of the Olivia AI network | [Telegram](https://t.me/olivia_ai_network) [X](https://x.com/Olivia_Network) [Site](https://olivianetwork.com) | 2025-03-18 |  |  |
+| 66 | **Aiya** | Russian channel of the Aiya AI assistant | [Telegram](https://t.me/aiyaprojectru) | 2024-02-05 |  |  |
+| 67 | **Imaginary Ones BubioAI** | Create and chat with AI characters | [Telegram](https://t.me/imaginaryoneshq) | 2025-06-22 |  |  |
 
 </details>
 
@@ -82,6 +86,6 @@
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified since |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 39 | **Fragment Checker Bot** |  | [Gram News](https://gramnews.org/apps/fragment-checker-bot) | 2024-09-05 |  |  |
+| 40 | **Fragment Checker Bot** |  | [Gram News](https://gramnews.org/apps/fragment-checker-bot) | 2024-09-05 |  |  |
 
 </details>

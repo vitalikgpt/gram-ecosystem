@@ -8,8 +8,8 @@
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified since |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 1 | **Hipo** | Hipo Staking — GRAM staking on TON with hGRAM rewards | [Telegram](https://t.me/hipofinance) [Bot](https://t.me/HipoFinanceBot) [X](https://x.com/hipofinance) [Site](https://app.hipo.finance/) [GitHub](https://github.com/HipoFinance) [Gram News](https://gramnews.org/apps/hipo-staking) | 2023-02-23 | 263K | 2026-06 |
-| 2 | **Tonstakers** | Tonstakers – liquid staking app for GRAM | [Telegram](https://t.me/thetonstakers) [Bot](https://t.me/tonstakers_support_bot) [X](https://x.com/tonstakers) [Site](https://app.tonstakers.com/) [Gram News](https://gramnews.org/apps/tonstakers-staking) | 2023-05-04 |  | 2026-06 |
+| 1 | **Hipo** | Hipo Staking — GRAM staking on TON with hGRAM rewards | [Telegram](https://t.me/hipofinance) [Bot](https://t.me/HipoFinanceBot) [X](https://x.com/hipofinance) [Site](https://app.hipo.finance/) [GitHub](https://github.com/HipoFinance) [Gram News](https://gramnews.org/apps/hipo-staking) | 2023-02-23 | 263K | 2025-05 |
+| 2 | **Tonstakers** | Tonstakers – liquid staking app for GRAM | [Telegram](https://t.me/thetonstakers) [Bot](https://t.me/tonstakers_support_bot) [X](https://x.com/tonstakers) [Site](https://app.tonstakers.com/) [Gram News](https://gramnews.org/apps/tonstakers-staking) | 2023-05-04 |  | 2024-10 |
 | 3 | **Stakee** | TON staking with up to 25% APY and instant withdrawals | [Telegram](https://t.me/stakeeru) [Bot](https://t.me/StakeeRu) [Site](https://stakee.org) [GitHub](https://github.com/ton-blockchain) [Gram News](https://gramnews.org/apps/stakee) | 2022-11-11 |  |  |
 | 4 | **KTON** | KTON LST — staking TON with a liquid KTON token | [Telegram](https://t.me/kton_channel) [Bot](https://t.me/ktonio_bot) [X](https://x.com/kton_io) [Site](https://kton.io/) [GitHub](https://github.com/KTON-IO/liquid-staking-contract) [Gram News](https://gramnews.org/apps/kton-lst) | 2025-01-21 |  |  |
 | 5 | **TON Validators** |  | [Bot](https://t.me/tonvalidators_app_bot) [Gram News](https://gramnews.org/apps/ton-validators) | 2024-09-25 |  |  |

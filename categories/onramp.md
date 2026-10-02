@@ -2,7 +2,7 @@
 
 # On-ramp
 
-**28 projects: 9 active, 19 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**31 projects: 9 active, 22 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -18,14 +18,14 @@
 | 8 | **Mercuryo** |  | [Site](https://mercuryo.io) [Gram News](https://gramnews.org/apps/mercuryo) | 2026-06-17 |  |  |
 | 9 | **Prosto Exchange** | Платите криптой по QR. Покупка и вывод на карту, наличные по миру. ProstoEx -легальный… | [Telegram](https://t.me/prostoex_news) [Bot](https://t.me/prostoexbot) | 2021-10-11 | 24K |  |
 
-<details><summary><b>Quiet: 19</b></summary>
+<details><summary><b>Quiet: 22</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified since |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 10 | **FinchPay** | FinchPay — buy crypto with a bank card, no KYC up to 500 EUR | [Telegram](https://t.me/FinchPay_io) [Bot](https://t.me/finchpaybot) [X](https://x.com/FinchPay_io) [Site](https://finchpay.io/) [Gram News](https://gramnews.org/apps/finchpay) | 2024-02-28 | 734 |  |
 | 11 | **Avanchange** | Fast and secure crypto exchange since 2018. Buy, sell, or swap | [Bot](https://t.me/avanchange_bot) | 2021-01-29 |  |  |
 | 12 | **AWX Crypto SHOP** | Покупка и продажа крипто за фиат в офисах по всему Миру! | [Bot](https://t.me/awexcryptobot) | 2026-10 | 13K |  |
-| 13 | **Bitpapa** |  | [Telegram](https://t.me/bitpapa_io) [X](https://x.com/bitpapa_io) [Site](https://bitpapa.com) [Gram News](https://gramnews.org/apps/bitpapa) | 2024-03-09 |  | 2026-09 |
+| 13 | **Bitpapa** |  | [Telegram](https://t.me/bitpapa_io) [X](https://x.com/bitpapa_io) [Site](https://bitpapa.com) [Gram News](https://gramnews.org/apps/bitpapa) | 2024-03-09 |  | 2022-10 |
 | 14 | **DW: Toncoin Buy&Sell** | Buy & Sale TON Coin with great rate in few clicks. The part of the ecosystem | [Telegram](https://t.me/TokenInfinity) [Bot](https://t.me/DW_tonbot) [Gram News](https://gramnews.org/apps/dw-toncoin-buy-sell) | 2022-09-12 |  |  |
 | 15 | **Golden Stars** | Service for buying Stars, TON and NFT gifts for rubles | [Bot](https://t.me/golden_starsbot) | 2025-03-09 |  |  |
 | 16 | **GRAM в Рубли** | Автоматический обмен GRAM в рубли с выводом на банковскую карту. Без верификации / NO KYC | [Bot](https://t.me/gramtorub_bot) | 2026-06-01 |  |  |
@@ -39,7 +39,10 @@
 | 24 | **Ray Stars** | Bot for buying Telegram Stars | [Bot](https://t.me/raystarsrobot) | 2026-02-27 |  |  |
 | 25 | **SimpleSwap** |  | [Site](https://simpleswap.io/?utm_source=tonapp&utm_medium=portal&utm_campaign=exchange) [Gram News](https://gramnews.org/apps/simpleswap) | 2023-02-04 |  |  |
 | 26 | **Stars Buy** | Bot for buying Telegram Stars | [Bot](https://t.me/sells_stars_bot) | 2026-02-03 |  |  |
-| 27 | **Transack** |  | [Telegram](https://t.me/transakfinance) [X](https://x.com/transak) [GitHub](https://github.com/Transak) | 2019-04-26 |  |  |
-| 28 | **Vseznayka** | Bot for buying TON and Telegram Stars for rubles | [Bot](https://t.me/vseznayka_ex_bot) | 2025-06-23 |  |  |
+| 27 | **StarsBank** | Bot that converts Telegram Stars into USDT | [Bot](https://t.me/thestarsbank_bot) | 2025-03-10 |  |  |
+| 28 | **The Open Money** | Bot for buying Telegram Stars below Telegram prices | [Bot](https://t.me/theopenmoneybot) | 2025-04-17 |  |  |
+| 29 | **Transack** |  | [Telegram](https://t.me/transakfinance) [X](https://x.com/transak) [GitHub](https://github.com/Transak) | 2019-04-26 |  |  |
+| 30 | **Vseznayka** | Bot for buying TON and Telegram Stars for rubles | [Bot](https://t.me/vseznayka_ex_bot) | 2025-06-23 |  |  |
+| 31 | **WhiteBird.io** | Legal crypto exchange news channel | [Telegram](https://t.me/whitebirdio) [Bot](https://t.me/whitebirdbot) | 2024-05-21 |  |  |
 
 </details>

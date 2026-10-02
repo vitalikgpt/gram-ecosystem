@@ -2,9 +2,9 @@
 
 <img src="assets/cover.jpg" alt="Gram Ecosystem: TON and Telegram projects" width="100%">
 
-<img src="https://img.shields.io/badge/projects-4%2C486-5aa9ff?style=flat-square" alt="projects: 4,486"> <img src="https://img.shields.io/badge/active-1%2C037-4cd08a?style=flat-square" alt="active: 1,037"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/links%20fixed-2%2C126-f2b84b?style=flat-square" alt="links fixed: 2,126"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
+<img src="https://img.shields.io/badge/projects-4%2C561-5aa9ff?style=flat-square" alt="projects: 4,561"> <img src="https://img.shields.io/badge/active-1%2C024-4cd08a?style=flat-square" alt="active: 1,024"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/links%20fixed-2%2C145-f2b84b?style=flat-square" alt="links fixed: 2,145"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
 
-**Every TON and Telegram project we could verify: 4,486 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 9,396 links are checked every week; 2,126 wrong ones have been fixed so far, each with its evidence.
+**Every TON and Telegram project we could verify: 4,561 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 9,440 links are checked every week; 2,145 wrong ones have been fixed so far, each with its evidence.
 
 Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, build on it.
 
@@ -18,35 +18,35 @@ Each category has its own page with every project, active ones first.
 | --- | ---: | ---: | --- |
 | [CEX](categories/exchanges.md) | 50 | 86 | Binance, Bybit, OKX, Bitget |
 | [Custodial](categories/custodial.md) | 5 | 5 | @Walt, @Send, @XRocket, Spell Wallet |
-| [Wallets](categories/wallets.md) | 29 | 114 | Gram Wallet, Keeper, My Wallet, Tonhub |
-| [DEX](categories/dex.md) | 17 | 86 | STON.fi, STON.fi Bot, DeDust, swap.coffee |
-| [Payments](categories/payments.md) | 28 | 88 | Wallet Pay, @Tribute, Cryptomus, NOWPayments |
-| [On-ramp](categories/onramp.md) | 9 | 28 | MoonPay, Changelly, ChangeNOW, Alchemy Pay |
-| [Infra](categories/infra.md) | 26 | 53 | Telegram, Fragment, TON Core, Acton |
-| [Developer tools](categories/devtools.md) | 19 | 110 | Telegram Bot API News, Durev Bot, Telegram Crawler, Tonutils |
-| [Analytics](categories/analytics.md) | 35 | 149 | Lagus research, Dune, CoinGecko, CoinMarketCap |
+| [Wallets](categories/wallets.md) | 29 | 119 | Gram Wallet, Keeper, My Wallet, Tonhub |
+| [DEX](categories/dex.md) | 16 | 87 | STON.fi, DeDust, swap.coffee, TONCO |
+| [Payments](categories/payments.md) | 28 | 90 | Wallet Pay, @Tribute, Cryptomus, NOWPayments |
+| [On-ramp](categories/onramp.md) | 9 | 31 | MoonPay, Changelly, ChangeNOW, Alchemy Pay |
+| [Infra](categories/infra.md) | 26 | 61 | Telegram, Fragment, TON Core, Acton |
+| [Developer tools](categories/devtools.md) | 19 | 112 | Telegram Bot API News, Durev Bot, Telegram Crawler, Tonutils |
+| [Analytics](categories/analytics.md) | 35 | 158 | Lagus research, Dune, CoinGecko, CoinMarketCap |
 | [Explorers](categories/explorers.md) | 6 | 15 | Tonscan.org, Tonviewer, Tonscan.com, Actonscan |
-| [Security](categories/audit.md) | 11 | 37 | Hacken, CertiK, SlowMist, Trail of Bits |
+| [Security](categories/audit.md) | 11 | 38 | Hacken, CertiK, SlowMist, Trail of Bits |
 | [Bridges](categories/bridges.md) | 11 | 24 | Symbiosis, LayerZero, Stargate, Rubic |
 | [Staking](categories/staking.md) | 15 | 50 | Hipo, Tonstakers, Stakee, KTON |
-| [Lending](categories/lending.md) | 10 | 21 | EVAA Protocol, TONLender, DAOLama, GTC (Gift To Credit) |
-| [Perp DEX](categories/perps.md) | 7 | 11 | Storm Trade, Tradoor, WenLong, Hyperliquid |
+| [Lending](categories/lending.md) | 10 | 20 | EVAA Protocol, TONLender, DAOLama, GTC (Gift To Credit) |
+| [Perp DEX](categories/perps.md) | 7 | 13 | Storm Trade, Tradoor, WenLong, Hyperliquid |
 | [RWA](categories/rwa.md) | 4 | 13 | XAUt, Stable Metal, USDT, Ethena USDe |
 | [NASDAQ](categories/nasdaq.md) | 2 | 2 | TON Strategy, Alpha Compute |
-| [Catalogues](categories/catalogs.md) | 7 | 16 | Gram News, TON App, DYOR.io, ton.website |
+| [Catalogues](categories/catalogs.md) | 7 | 17 | Gram News, TON App, DYOR.io, ton.website |
 | [Privacy](categories/vpn.md) | 11 | 42 | TonMobile eSIM, SnapSIM, Durev VPN, Resistance Tools |
-| [NFT collections](categories/nftcaps.md) | 17 | 85 | Anonymous Numbers, Plush Pepe, Telegram Usernames, Scared Cat |
-| [Tokens](categories/tokens.md) | 59 | 219 | GROYP, UTYA, XROCK, CHERRY |
-| [NFT & Gifts](categories/nftmarkets.md) | 89 | 272 | Getgems, Tonnel, @MRKT, Marketapp |
-| [Memepads](categories/launchpads.md) | 21 | 101 | TopBlast, Meridian, @Blum, BigPump |
-| [Trading bots](categories/trading.md) | 22 | 70 | @Trade, PocketFi, Maestro, Upscale |
+| [NFT collections](categories/nftcaps.md) | 16 | 88 | Anonymous Numbers, Plush Pepe, Telegram Usernames, Scared Cat |
+| [Tokens](categories/tokens.md) | 57 | 231 | GROYP, UTYA, CHERRY, BabyDoge |
+| [NFT & Gifts](categories/nftmarkets.md) | 87 | 270 | Getgems, Tonnel, @MRKT, Marketapp |
+| [Memepads](categories/launchpads.md) | 21 | 104 | TopBlast, Meridian, @Blum, BigPump |
+| [Trading bots](categories/trading.md) | 22 | 74 | @Trade, PocketFi, Maestro, Upscale |
 | [Social](categories/social.md) | 23 | 135 | @Mira, TON Dating, @Major, @IPredict |
-| [AI](categories/ai.md) | 17 | 63 | AI Lab, MOONBERG AI BOT, Spru, AgentBook |
-| [Tools](categories/tools.md) | 35 | 180 | Randomize Bot, RandomGodBot, XDAO, Random Beast |
-| [Shopping](categories/shopping.md) | 7 | 45 | Indigo Gift, Bikini Stars, iCryptoCheck, Uquid Shop |
-| [Education](categories/education.md) | 5 | 35 | TonNewbie, Be Unstoppable, iQuizMaster, BehLand |
-| [Games](categories/games.md) | 134 | 1136 | Dogs, CITY Holder, Catizen, Gatto |
-| [Farming](categories/farming.md) | 249 | 921 | Boinkers, Time Farm, Agent 301, Hrum |
+| [AI](categories/ai.md) | 17 | 67 | AI Lab, MOONBERG AI BOT, Spru, AgentBook |
+| [Tools](categories/tools.md) | 35 | 184 | Randomize Bot, RandomGodBot, XDAO, Random Beast |
+| [Shopping](categories/shopping.md) | 7 | 47 | Indigo Gift, Bikini Stars, iCryptoCheck, Uquid Shop |
+| [Education](categories/education.md) | 5 | 36 | TonNewbie, Be Unstoppable, iQuizMaster, BehLand |
+| [Games](categories/games.md) | 131 | 1156 | Dogs, CITY Holder, Catizen, Gatto |
+| [Farming](categories/farming.md) | 245 | 912 | Boinkers, Time Farm, Agent 301, Hrum |
 | [Casino](categories/gambling.md) | 50 | 219 | VIRUS GAME, Epic Gift, Easy Gift, Gorilla Case |
 | [Studios](categories/studios.md) | 5 | 23 | GAMEE, PlayDeck, Ice Creators, TonTon Games |
 | [Funds](categories/funds.md) | 1 | 19 | Redo Invest |
@@ -137,13 +137,13 @@ The `sources` column lists every place a project was found:
 
 | File | What is in it |
 | --- | --- |
-| [data/projects.csv](data/projects.csv) | 4,486 projects, one per row |
+| [data/projects.csv](data/projects.csv) | 4,561 projects, one per row |
 | [data/channels.csv](data/channels.csv) | 1,210 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
 | [data/categories.json](data/categories.json) | categories in display order |
-| [data/link-fixes.csv](data/link-fixes.csv) | 2,216 link decisions (replaced, removed, confirmed) with evidence |
+| [data/link-fixes.csv](data/link-fixes.csv) | 2,235 link decisions (replaced, removed, confirmed) with evidence |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
 | [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |
-| [data/similar.csv](data/similar.csv) | 17,144 pairs: whom Telegram shows in similar channels or similar bots next to an entity here, with the position (June 2026); audiences overlap, it is not traffic |
+| [data/similar.csv](data/similar.csv) | 17,956 pairs: whom Telegram shows in similar channels or similar bots next to an entity here, with the position (June 2026); audiences overlap, it is not traffic |
 | [reports/link-check.md](reports/link-check.md) | 770 links that failed the last check |
 
 <details><summary><b>Columns of projects.csv</b></summary>

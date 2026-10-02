@@ -777,6 +777,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,tonvstake,TONvsTAKE,x,remove,https://x.com/TonTakeGame,,"@TonTakeGame is ""@TonTake"", the account of Zernosklad (x profile)"
 2026-10-02,space-adventure,SPACE ADVENTURE,x,remove,https://x.com/bounty_play,,"@Bounty_Play is ""Bounty Play"", the account of Bounty Play (x profile)"
 2026-10-01,fantasygame-bitplay,FantasyGame,x,remove,https://x.com/catplanetstg,,"@catplanetstg is ""Cat Planets"", the account of Cat Planets (x profile)"
+2026-10-02,mobiverse,Mobiverse,x,remove,https://x.com/TONAIRDROP_FA,,"@TONAIRDROP_FA is ""ایردراپ تون فارسی TON COIN"", the account of Toncoin (x profile)"
 2026-10-02,the-pixels,The Pixels,x,remove,https://x.com/ton_jobs,,"@ton_jobs is ""TON Jobs"", the account of TON Jobs (x profile)"
 2026-10-02,pepe-miner-bot,PEPE Miner Bot,x,confirm,https://x.com/ArcadiaWeb3_0,https://x.com/ArcadiaWeb3_0,profile links to arcadiaweb3.net (x profile)
 2026-10-01,frutoncrypto,Frutoncrypto,x,remove,https://x.com/Pleasure_PLQT,,"@Pleasure_PLQT is ""Pleasure Quest"", the account of Pleasure Quest (x profile)"
@@ -1823,6 +1824,8 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,token-holdcoin,Holdcoin (HOLD),website,replace,,https://holdcoin.xyz,listed for the HOLD token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-mittens,Mittens (MITTENS),x,replace,,https://x.com/mittenstonchain,listed for the MITTENS token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-mittens,Mittens (MITTENS),website,replace,,https://www.mittenston.com,listed for the MITTENS token (the token catalogue of Gram News) (token metadata)
+2026-10-02,time,$TIME,x,replace,,https://x.com/timecointon,listed for the TIME token (the token catalogue of Gram News) (token metadata)
+2026-10-02,time,$TIME,website,replace,,https://memetimeton.fun,listed for the TIME token (the token catalogue of Gram News) (token metadata)
 2026-10-01,btc25,@BTC25,website,replace,,https://1rus.com,listed for the @BTC25 token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-bemo-staked-ton,bemo Staked TON (STTON),x,replace,,https://x.com/bemo_finance,listed for the STTON token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-bemo-staked-ton,bemo Staked TON (STTON),website,replace,,https://bemo.fi,listed for the STTON token (the token catalogue of Gram News) (token metadata)
@@ -1842,6 +1845,8 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,token-govno,GOVNO (GOVNO),website,replace,,https://govnoton.com,listed for the GOVNO token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-grm,Grm (GRM),x,replace,,https://x.com/gramcoinorg,listed for the GRM token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-grm,Grm (GRM),website,replace,,https://gramcoin.org,listed for the GRM token (the token catalogue of Gram News) (token metadata)
+2026-10-02,jetton,JETTON,x,replace,,https://x.com/JetTonGames,listed for the JETTON token (the token catalogue of Gram News) (token metadata)
+2026-10-02,jetton,JETTON,website,replace,,https://jetton.pet/cffiylglyk5?click_id=%7Bclick_id%7D,listed for the JETTON token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-jusdt,jUSDT (jUSDT),website,replace,,https://bridge.ton.org,listed for the jUSDT token (the token catalogue of Gram News) (token metadata)
 2026-10-02,lambo,LAMBO,x,replace,,https://x.com/LAMBOtokenTON,listed for the $LAMBO token (the token catalogue of Gram News) (token metadata)
 2026-10-02,lambo,LAMBO,website,replace,,https://lambo.tg,listed for the $LAMBO token (the token catalogue of Gram News) (token metadata)
@@ -1997,6 +2002,20 @@ date,slug,name,field,action,old,new,evidence
 2026-10-02,duckygram,Duckygram,telegram,replace,,https://t.me/duckygram_chat,"its t.me description names @duckygram_bot, the project's own account (post corpus)"
 2026-10-02,xblast-app,xBLAST APP,telegram,replace,,https://t.me/xblast_app,"its t.me description names @xblastappbot, the project's own account (post corpus)"
 2026-10-02,the-pixels,The Pixels,telegram,replace,,https://t.me/thepixelsgameru,"its t.me description names @the_pixels_bot, the project's own account (post corpus)"
+2026-10-02,cosmo-bear,Cosmo Bear,telegram,replace,,https://t.me/cosmobear_io,"its t.me description names @cosmobear_bot, the project's own account (post corpus)"
+2026-10-02,tap-sport,Tap Sport,telegram,replace,,https://t.me/tap_sport_official,"its t.me description names @tap_sport_bot, the project's own account (post corpus)"
+2026-10-02,kiloex,KiloEx,bot,replace,,https://t.me/kiloextradebot,"its t.me description names @kiloex, the project's own account (post corpus)"
+2026-10-02,televerse,Televerse,bot,replace,,https://t.me/televerseodyssey_bot,"its t.me description names @televerseodyssey, the project's own account (post corpus)"
+2026-10-02,scalr,Scalr,bot,replace,,https://t.me/scalrbot,"its t.me description names @scalr_dex, the project's own account (post corpus)"
+2026-10-02,pixel-wallet,Pixel Wallet,telegram,replace,,https://t.me/hellopixelapp,"its t.me description names @pixel_wallet_bot, the project's own account (post corpus)"
+2026-10-02,ton-stars-game,Ton Stars Game,bot,replace,,https://t.me/tonstarsgamebot,"its t.me description names @None, the project's own account (post corpus)"
+2026-10-02,fanzee-battles,Fanzee Battles,telegram,replace,,https://t.me/fanzeebattles,"its t.me description names @battlescryptobot, the project's own account (post corpus)"
+2026-10-02,stickerx,StickerX,telegram,replace,,https://t.me/stickerx_community,"its t.me description names @stkrx_bot, the project's own account (post corpus)"
+2026-10-02,donate,Donate,telegram,replace,,https://t.me/subscriptions,"its t.me description names @donate, the project's own account (post corpus)"
+2026-10-02,missionpawsible,MissionPawsible,telegram,replace,,https://t.me/paws_babydoge,"its t.me description names @None, the project's own account (post corpus)"
+2026-10-02,mappasaurus-app,Mappasaurus APP,telegram,replace,,https://t.me/mappasaurusofficial,"its t.me description names @mappasaurusappbot, the project's own account (post corpus)"
+2026-10-02,tabizoo,TabiZoo,telegram,replace,,https://t.me/tabi_ann,"its t.me description names @tabizoobot, the project's own account (post corpus)"
+2026-10-02,gramilla-world,Gramilla World,telegram,replace,,https://t.me/chief_gram,"its t.me description names @gramilla_worldbot, the project's own account (post corpus)"
 2026-10-02,binance,Binance,x,replace,,https://x.com/binance,"@binance_announcements, the project's channel, linked it in 6 posts, 2023–2025 (own channel, post corpus)"
 2026-10-02,bybit,Bybit,x,replace,,https://x.com/Bybit_Official,"@bybit_announcements, the project's channel, linked it in 119 posts, 2019–2026 (own channel, post corpus)"
 2026-10-02,swapster,Swapster,website,replace,,https://swapster.fi,"@swpstr, the project's channel, linked it in 8 posts, 2022–2026 (own channel, post corpus)"

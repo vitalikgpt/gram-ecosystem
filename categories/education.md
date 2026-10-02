@@ -2,7 +2,7 @@
 
 # Education
 
-**35 projects: 5 active, 30 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**36 projects: 5 active, 31 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -14,7 +14,7 @@
 | 4 | **BehLand** | BehLand — an educational platform with Web3 elements | [Telegram](https://t.me/BehLand_Official) [X](https://x.com/BehLandOfficial) [Site](https://beh.land) [GitHub](https://github.com/beh-land) [Gram News](https://gramnews.org/apps/behland-web3-l2e) | 2025-08-01 |  |  |
 | 5 | **Rocketta** | Digital currency education and earning bot | [Telegram](https://t.me/calm_me_bot) | 2024-07-31 | 1.5M |  |
 
-<details><summary><b>Quiet: 30</b></summary>
+<details><summary><b>Quiet: 31</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified since |
 | ---: | --- | --- | --- | --- | ---: | --- |
@@ -38,15 +38,16 @@
 | 23 | **Tinlake** | Tinlake is an educational mini-app on Telegram | [Bot](https://t.me/tinlake_bot) [X](https://x.com/AppTinlake) [Gram News](https://gramnews.org/apps/tinlake) | 2025-05-04 | 262K |  |
 | 24 | **TON Academy** | Education bot for the TON ecosystem | [Bot](https://t.me/tonacad_bot) | 2025-09-08 | 41K |  |
 | 25 | **TON Africa Hub** | TON community hub for Africa | [Telegram](https://t.me/tonnigeria) | 2024-01-17 |  |  |
-| 26 | **TON Ecosystem Course** | Educational course bot about the TON ecosystem | [Bot](https://t.me/magnetto_edu_tonecosystem_bot) | 2025-10-23 |  |  |
-| 27 | **TON France** | French community chat of TON France | [Telegram](https://t.me/ton_france_chat) | 2024-04-13 |  |  |
-| 28 | **TON Smart Challenge** | Bot for TON smart contract contests | [Bot](https://t.me/smartchallengebot) | 2023-08-29 |  |  |
-| 29 | **TON Society Lisbon** | Local TON community hub in Lisbon | [Telegram](https://t.me/tonlisbonhub) | 2023-01-22 |  |  |
-| 30 | **Дневник разработчика на TON** |  | [Gram News](https://gramnews.org/apps/dnevnik-razrabotchika-na-ton) | 2024-06-08 |  |  |
-| 31 | **Дневник стартапера** |  | [Bot](https://t.me/chaingptai_bot) [Site](https://www.chaingpt.org/) [Gram News](https://gramnews.org/apps/dnevnik-startupera) | 2024-06 | 4K |  |
-| 32 | **Мнимый в крипте** |  | [Telegram](https://t.me/pixilandofficial) [Bot](https://t.me/pixiland_bot) [Site](https://pixiland.app) [Gram News](https://gramnews.org/apps/mnimyi-v-kripte) | 2024-05-15 |  |  |
-| 33 | **TON Builders** | Hub for developers, creators and founders on TON | [Telegram](https://t.me/tonbuild) | 2025-06-04 |  |  |
-| 34 | **WORD** | Telegram app for learning languages with a WORD token | [Telegram](https://t.me/words) | 2025-09-18 |  |  |
-| 35 | **Lazy Reader** |  | [Telegram](https://t.me/lazyreader_channel) [Bot](https://t.me/lazyreader_bot) [Site](https://lazy-reader.com/) [Gram News](https://gramnews.org/apps/lazy-reader) | 2025-02-20 |  |  |
+| 26 | **TON Breakfast** | Community chat for organizing TON meetups | [Telegram](https://t.me/tonbreakfast) | 2023-06-11 |  |  |
+| 27 | **TON Ecosystem Course** | Educational course bot about the TON ecosystem | [Bot](https://t.me/magnetto_edu_tonecosystem_bot) | 2025-10-23 |  |  |
+| 28 | **TON France** | French community chat of TON France | [Telegram](https://t.me/ton_france_chat) | 2024-04-13 |  |  |
+| 29 | **TON Smart Challenge** | Bot for TON smart contract contests | [Bot](https://t.me/smartchallengebot) | 2023-08-29 |  |  |
+| 30 | **TON Society Lisbon** | Local TON community hub in Lisbon | [Telegram](https://t.me/tonlisbonhub) | 2023-01-22 |  |  |
+| 31 | **Дневник разработчика на TON** |  | [Gram News](https://gramnews.org/apps/dnevnik-razrabotchika-na-ton) | 2024-06-08 |  |  |
+| 32 | **Дневник стартапера** |  | [Bot](https://t.me/chaingptai_bot) [Site](https://www.chaingpt.org/) [Gram News](https://gramnews.org/apps/dnevnik-startupera) | 2024-06 | 4K |  |
+| 33 | **Мнимый в крипте** |  | [Telegram](https://t.me/pixilandofficial) [Bot](https://t.me/pixiland_bot) [Site](https://pixiland.app) [Gram News](https://gramnews.org/apps/mnimyi-v-kripte) | 2024-05-15 |  |  |
+| 34 | **TON Builders** | Hub for developers, creators and founders on TON | [Telegram](https://t.me/tonbuild) | 2025-06-04 |  |  |
+| 35 | **WORD** | Telegram app for learning languages with a WORD token | [Telegram](https://t.me/words) | 2025-09-18 |  |  |
+| 36 | **Lazy Reader** |  | [Telegram](https://t.me/lazyreader_channel) [Bot](https://t.me/lazyreader_bot) [Site](https://lazy-reader.com/) [Gram News](https://gramnews.org/apps/lazy-reader) | 2025-02-20 |  |  |
 
 </details>

@@ -8,14 +8,14 @@
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified since |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 1 | **TonMobile eSIM** | Mobile eSIM Purchaser | [Telegram](https://t.me/tonmobile_en) [Bot](https://t.me/MobileSuppBot) [X](https://x.com/tonmobile_esim) [Site](https://tonmobile.com) [Gram News](https://gramnews.org/apps/mobile) | 2022-07-05 |  | 2026-09 |
+| 1 | **TonMobile eSIM** | Mobile eSIM Purchaser | [Telegram](https://t.me/tonmobile_en) [Bot](https://t.me/MobileSuppBot) [X](https://x.com/tonmobile_esim) [Site](https://tonmobile.com) [Gram News](https://gramnews.org/apps/mobile) | 2022-07-05 |  | 2026-06 |
 | 2 | **SnapSIM** | Access numbers from anywhere in the world | [Bot](https://t.me/snapsimbot) [Site](https://snapsim.online) [Gram News](https://gramnews.org/apps/snapsim) | 2025-09-23 |  |  |
 | 3 | **Durev VPN** | Durev VPN is a VPN service for fast and reliable internet access | [Telegram](https://t.me/durevvpn) [Bot](https://t.me/DureVpnBot) [Site](https://durevpn.com/) [Gram News](https://gramnews.org/apps/durev-vpn) | 2024-10-05 |  |  |
 | 4 | **Resistance Tools** | An open-source privacy toolkit for TON, run through the bot | [Telegram](https://t.me/resistancetools) [Bot](https://t.me/ResistanceToolsBot) [Site](https://resistance.dog) [Gram News](https://gramnews.org/apps/resistance-tools) | 2025-10-30 |  |  |
 | 5 | **1323vpn** | Публикуем новости и обновления VPN'а | [Telegram](https://t.me/vpn1323) [Bot](https://t.me/vpn1323bot) [Gram News](https://gramnews.org/apps/1323vpn) | 2023-05-20 |  |  |
 | 6 | **Connecton VPN** |  | [Telegram](https://t.me/connectonbot) [GitHub](https://github.com/Connecton) | 2026-09-15 |  |  |
 | 7 | **Need VPN & eSIM** | Fast & Stable VPN & eSIM | [Telegram](https://t.me/needapp) [Bot](https://t.me/need) | 2024-10-25 |  | 2026-09 |
-| 8 | **Mr. Freeman** | VPN, proxy, eSIM and crypto cards service via Telegram bot | [Telegram](https://t.me/nosignalgohome) [X](https://x.com/MrFreeman0) | 2025-09-04 |  | 2026-09 |
+| 8 | **Mr. Freeman** | VPN, proxy, eSIM and crypto cards service via Telegram bot | [Telegram](https://t.me/nosignalgohome) [X](https://x.com/MrFreeman0) | 2025-09-04 |  | 2026-06 |
 | 9 | **VPN Скруджа** | VPN Сервис для избранных Помощь | [Telegram](https://t.me/scroogevpn) [Bot](https://t.me/scroogevpnrobot) | 2023-01-12 |  |  |
 | 10 | **Связь VPN** | Безопасный, Быстрый, Удобный и Лучший VPN на рынке с приятной ценой Наш Наш магазин | [Telegram](https://t.me/svyaznews) [Bot](https://t.me/svyazvpnrobot) | 2026-04-24 |  |  |
 | 11 | **WayLuckyVPN** | WayLuckyVPN bot - WayLuckyVPN Support account | [Telegram](https://t.me/wayluckyvpnchannel) [Bot](https://t.me/wayluckyvpn_bot) | 2024-11-28 |  |  |

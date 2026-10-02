@@ -2,6 +2,7 @@
 """Validate data/ before it is merged. Exits 1 on the first broken file."""
 import csv
 import json
+import os
 import re
 import sys
 
@@ -68,6 +69,8 @@ for i, r in enumerate(csv.DictReader(open("data/projects.csv", encoding="utf-8")
     if r["github"] and not re.fullmatch(r"https://github\.com/[A-Za-z0-9_.-]+(/[A-Za-z0-9_.-]+)?", r["github"]):
         errors.append(f"{where}: github must look like https://github.com/owner or https://github.com/owner/repo")
 slugs = seen
+if os.path.exists("data/merged.csv"):  # a merged row's fixes stay in the log under its old slug
+    slugs = seen | {m["removed_slug"] for m in csv.DictReader(open("data/merged.csv", encoding="utf-8"))}
 for i, f in enumerate(csv.DictReader(open("data/link-fixes.csv", encoding="utf-8")), start=2):
     if f["slug"] not in slugs:
         errors.append(f"data/link-fixes.csv:{i}: unknown slug '{f['slug']}'")
@@ -91,7 +94,7 @@ for i, r in enumerate(csv.DictReader(open("data/channels.csv", encoding="utf-8")
 import os
 if os.path.exists("data/relations.csv"):
     for i, x in enumerate(csv.DictReader(open("data/relations.csv", encoding="utf-8")), start=2):
-        if x["project_slug"] not in seen or x["organisation_slug"] not in seen:
+        if x["project_slug"] not in slugs or x["organisation_slug"] not in slugs:
             errors.append(f"data/relations.csv:{i}: unknown slug")
         if not x["source"].startswith("https://"):
             errors.append(f"data/relations.csv:{i}: source must be an https:// link")

@@ -2,7 +2,7 @@
 
 # Infra
 
-**53 projects: 26 active, 27 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**61 projects: 26 active, 35 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -10,7 +10,7 @@
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 1 | **Telegram** | The official Telegram on Telegram. Much recursion. Very Telegram. Wow | [Telegram](https://t.me/telegram) [Site](https://telegram.org) | 2020-01-06 |  | 2026-06 |
 | 2 | **Fragment** |  | [Site](https://fragment.com) [Gram News](https://gramnews.org/apps/fragment-7kzxik) | 2022-10-27 |  |  |
-| 3 | **TON Core** |  | [Telegram](https://t.me/toncore) [Site](https://ton.org) | 2024-11-06 |  | 2026-09 |
+| 3 | **TON Core** |  | [Telegram](https://t.me/toncore) [Site](https://ton.org) | 2024-11-06 |  | 2020-01 |
 | 4 | **Acton** | A unified command-line toolchain for TON smart contracts in Tolk — project setup, tests,… | [Telegram](https://t.me/theopentooling) [Site](https://ton-blockchain.github.io/acton/) [GitHub](https://github.com/ton-blockchain/acton) [Gram News](https://gramnews.org/apps/acton) | 2025-07-17 |  |  |
 | 5 | **Tolk** | Channel devoted to TOLK — "next-generation FunC" — a language for writing smart… | [Telegram](https://t.me/tolk_lang) [Site](https://docs.ton.org/v3/documentation/smart-contracts/tolk/overview) | 2024-08-05 |  |  |
 | 6 | **Pyth** |  | [Site](https://www.pyth.network) | 2020-12-01 |  |  |
@@ -28,21 +28,21 @@
 | 18 | **TON Storage** |  | [Site](https://docs.ton.org/v3/guidelines/web3/ton-storage/storage-daemon) | 2023-01-04 |  |  |
 | 19 | **MyTonCtrl** |  | [Site](https://github.com/ton-blockchain/mytonctrl) | 2020-01-31 |  |  |
 | 20 | **TON Verifier** |  | [X](https://x.com/LevelQFinance) [Site](https://verifier.ton.org) [GitHub](https://github.com/ton-blockchain/verifier) [Gram News](https://gramnews.org/apps/ton-verifier) | 2022-10-24 |  |  |
-| 21 | **Cocoon** | A decentralized network for confidential AI inference — GPU owners are paid in TON for… | [Telegram](https://t.me/cocoon) [Site](https://cocoon.org) [GitHub](https://github.com/TelegramMessenger/cocoon) [Gram News](https://gramnews.org/apps/cocoon) | 2025-10-29 |  | 2026-09 |
-| 22 | **BotFather** | BotFather is the one bot to rule them all. Use it to create new bot accounts and manage… | [Bot](https://t.me/botfather) | 2016-01-14 | 10.2M | 2026-10 |
+| 21 | **Cocoon** | A decentralized network for confidential AI inference — GPU owners are paid in TON for… | [Telegram](https://t.me/cocoon) [Site](https://cocoon.org) [GitHub](https://github.com/TelegramMessenger/cocoon) [Gram News](https://gramnews.org/apps/cocoon) | 2025-10-29 |  | 2025-10 |
+| 22 | **BotFather** | BotFather is the one bot to rule them all. Use it to create new bot accounts and manage… | [Bot](https://t.me/botfather) | 2016-01-14 | 10.2M | 2020-06 |
 | 23 | **XOOB** | Web3 growth infrastructure network | [Telegram](https://t.me/xoob_announcement) | 2025-02-01 |  |  |
 | 24 | **DTON GraphQL** |  | [Telegram](https://t.me/tvorogme) [GitHub](https://github.com/disintar) | 2023-10-04 |  |  |
-| 25 | **NOWNodes** | RPC & node infrastructure for 120+ blockchains, with human support | [Telegram](https://t.me/nownodes) [X](https://x.com/NowNodes) [GitHub](https://github.com/NOWNodes) | 2019-05-15 |  | 2026-10 |
-| 26 | **TON Access** |  | [Telegram](https://t.me/orbsnetwork) [GitHub](https://github.com/orbs-network) | 2022-08-29 |  | 2026-10 |
+| 25 | **NOWNodes** | RPC & node infrastructure for 120+ blockchains, with human support | [Telegram](https://t.me/nownodes) [X](https://x.com/NowNodes) [GitHub](https://github.com/NOWNodes) | 2019-05-15 |  | 2023-10 |
+| 26 | **TON Access** |  | [Telegram](https://t.me/orbsnetwork) [GitHub](https://github.com/orbs-network) | 2022-08-29 |  | 2023-08 |
 
-<details><summary><b>Quiet: 27</b></summary>
+<details><summary><b>Quiet: 35</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified since |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 27 | **Ancient8** | Gaming-focused Ethereum Layer 2 | [Telegram](https://t.me/ancient8_gg) | 2021-09-25 |  |  |
 | 28 | **Apex Fusion Telegram App** | The Apex Fusion Telegram app is an interactive tool that helps users engage with the… | [Bot](https://t.me/apexfusion_bot) | 2025-02-10 | 37K |  |
 | 29 | **Athene Network** | Athene Network - Leading The Future Of AI And Blockchain Website: X: Mini app: https | [Telegram](https://t.me/athenenetwork_ann) | 2024-10-15 |  |  |
-| 30 | **Chainlink** | Official Chainlink oracle community | [Telegram](https://t.me/chainlinkofficial) | 2021-08-10 |  | 2026-10 |
+| 30 | **Chainlink** | Official Chainlink oracle community | [Telegram](https://t.me/chainlinkofficial) | 2021-08-10 |  | 2022-03 |
 | 31 | **DATS** | You can start the app with /start command | [Bot](https://t.me/datsapp_bot) | 2024-10-07 | 195K |  |
 | 32 | **DeepLink Protocol** | Decentralized AI cloud gaming and GPU protocol | [Telegram](https://t.me/deeplinkglobal) | 2024-05-21 |  |  |
 | 33 | **DeepSafe** | The first CRVA (Crypto Random Verification Agent) solution, leveraging MPC, ZKP, TEE,… | [Telegram](https://t.me/deepsafe_official) | 2025-01-03 |  |  |
@@ -55,16 +55,24 @@
 | 40 | **Orochi Network** | Verifiable data infrastructure | [Telegram](https://t.me/orochinetwork) | 2024-04-16 |  |  |
 | 41 | **Pyth Network** | First-party oracle for financial data | [Telegram](https://t.me/pyth_network) | 2024-11-12 |  |  |
 | 42 | **Resistance Storage Bot** | Free TON Storage Provider Bag Explorer Mini-App Decentralized Storage Indexer piracy.ton | [Bot](https://t.me/resistoragebot) | 2025-11-08 |  |  |
-| 43 | **TON Console (TonAPI)** |  | [GitHub](https://github.com/tonkeeper/tonapi) | 2022-06-28 |  |  |
-| 44 | **TON Factory** | Scalability accelerator for the TVM ecosystem | [Telegram](https://t.me/tonfactory_news) | 2025-04-30 |  |  |
-| 45 | **TON Help** | Technical support for TON bridge, vesting and multisig | [Bot](https://t.me/ton_help_bot) | 2022-07-30 |  | 2026-10 |
-| 46 | **TON Search Engine** |  | [Telegram](https://t.me/runner_ton) | 2023-08-21 |  |  |
-| 47 | **TON Torrents** |  | [Telegram](https://t.me/tonrh) [GitHub](https://github.com/xssnick/TON-Torrent) | 2023-06-12 |  |  |
-| 48 | **Warden Protocol** | Protocol bringing AI to web3 applications and smart contracts | [Telegram](https://t.me/wardenprotocol) | 2025-09-19 |  |  |
-| 49 | **TON Tech** | Core tech organization abstracting blockchain complexity on TON | [Telegram](https://t.me/tontech) [X](https://x.com/TONTechHQ) [GitHub](https://github.com/the-ton-tech) | 2022-05-16 |  |  |
-| 50 | **TON Tech** | Core tech organization abstracting blockchain complexity on TON | [Telegram](https://t.me/tontechru) [X](https://x.com/TONTechHQ) | 2026-04-14 |  |  |
-| 51 | **TeraHash** | Bitcoin-native yield layer bridging hashrate and DeFi | [Telegram](https://t.me/terahash) [X](https://x.com/TeraHash_xyz) | 2025-06-04 |  |  |
-| 52 | **Rebalancer** | TON project with English channel and site | [Telegram](https://t.me/rebalancer_en) | 2024-06-25 |  |  |
-| 53 | **TON Foundation** |  | [Telegram](https://t.me/tonfoundation) | 2023-11-02 |  |  |
+| 43 | **The Open Network** | Archived official channel of the TON blockchain | [Telegram](https://t.me/tonblockchain) | 2021-01-11 |  |  |
+| 44 | **TON Console (TonAPI)** |  | [GitHub](https://github.com/tonkeeper/tonapi) | 2022-06-28 |  |  |
+| 45 | **TON Factory** | Scalability accelerator for the TVM ecosystem | [Telegram](https://t.me/tonfactory_news) | 2025-04-30 |  |  |
+| 46 | **TON Help** | Technical support for TON bridge, vesting and multisig | [Bot](https://t.me/ton_help_bot) | 2022-07-30 |  | 2023-03 |
+| 47 | **TON Search Engine** |  | [Telegram](https://t.me/runner_ton) | 2023-08-21 |  |  |
+| 48 | **TON Status** | Technical notifications for TON validators and developers | [Telegram](https://t.me/tonstatus) | 2020-05-06 |  |  |
+| 49 | **TON Torrents** |  | [Telegram](https://t.me/tonrh) [GitHub](https://github.com/xssnick/TON-Torrent) | 2023-06-12 |  |  |
+| 50 | **Toncoin Chinese** | Chinese-language Toncoin community channel | [Telegram](https://t.me/toncoin_tc) | 2021-11-18 |  |  |
+| 51 | **Toncoin Indonesia** | Regional channel of the TON Foundation covering the TON ecosystem | [Telegram](https://t.me/toncoin_id) | 2021-11-18 |  |  |
+| 52 | **Toncoin Italy** | Regional channel of the TON Foundation covering the TON ecosystem | [Telegram](https://t.me/toncoin_it) | 2021-11-18 |  |  |
+| 53 | **Toncoin Korea** | Regional channel of the TON Foundation covering the TON ecosystem | [Telegram](https://t.me/toncoin_kr) | 2021-11-08 |  |  |
+| 54 | **Toncoin Turkey** | Regional channel of the TON Foundation covering the TON ecosystem | [Telegram](https://t.me/toncoin_tur) | 2021-11-18 |  |  |
+| 55 | **Toncoin Uzbekistan** | Regional channel of the TON Foundation covering the TON ecosystem | [Telegram](https://t.me/toncoin_uz) | 2021-11-18 |  |  |
+| 56 | **Warden Protocol** | Protocol bringing AI to web3 applications and smart contracts | [Telegram](https://t.me/wardenprotocol) | 2025-09-19 |  |  |
+| 57 | **TON Tech** | Core tech organization abstracting blockchain complexity on TON | [Telegram](https://t.me/tontech) [X](https://x.com/TONTechHQ) [GitHub](https://github.com/the-ton-tech) | 2022-05-16 |  |  |
+| 58 | **TON Tech** | Core tech organization abstracting blockchain complexity on TON | [Telegram](https://t.me/tontechru) [X](https://x.com/TONTechHQ) | 2026-04-14 |  |  |
+| 59 | **TeraHash** | Bitcoin-native yield layer bridging hashrate and DeFi | [Telegram](https://t.me/terahash) [X](https://x.com/TeraHash_xyz) | 2025-06-04 |  |  |
+| 60 | **Rebalancer** | TON project with English channel and site | [Telegram](https://t.me/rebalancer_en) | 2024-06-25 |  |  |
+| 61 | **TON Foundation** |  | [Telegram](https://t.me/tonfoundation) | 2023-11-02 |  |  |
 
 </details>

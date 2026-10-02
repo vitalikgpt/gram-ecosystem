@@ -18,7 +18,7 @@
 | 8 | **Orbit Bridge** | Orbit Chain Announcement Channel | [Telegram](https://t.me/OrbitChainChannel) [X](https://x.com/Orbit_Chain) [Site](https://bridge.orbitchain.io/) [GitHub](https://github.com/orbit-chain) [Gram News](https://gramnews.org/apps/orbit-bridge) | 2025-12-24 |  |  |
 | 9 | **SoDEX Bridge** | SoDEX is a high-performance order book decentralized exchange (DEX) built on ValueChain | [X](https://x.com/sodex_official) [Site](https://ssi.sosovalue.com) | 2026-01-08 |  |  |
 | 10 | **TAC Cross Chain Layer** | TAC Cross Chain Layer is a messaging and custody layer connecting TON and TAC EVM,… | [X](https://x.com/tacbuild) [Site](https://tac.build) | 2025-08-28 |  |  |
-| 11 | **TON BSC** |  | [Telegram](https://t.me/contest) [Bot](https://t.me/cryptouser_bot) [Site](https://bridge.ton.org) [GitHub](https://github.com/ton-blockchain) [Gram News](https://gramnews.org/apps/ton-bsc) | 2016-03-22 |  | 2026-06 |
+| 11 | **TON BSC** |  | [Telegram](https://t.me/contest) [Bot](https://t.me/cryptouser_bot) [Site](https://bridge.ton.org) [GitHub](https://github.com/ton-blockchain) [Gram News](https://gramnews.org/apps/ton-bsc) | 2016-03-22 |  | 2020-04 |
 
 <details><summary><b>Quiet: 11</b></summary>
 

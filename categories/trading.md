@@ -2,14 +2,14 @@
 
 # Trading bots
 
-**70 projects: 22 active, 48 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**74 projects: 22 active, 52 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified since |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 1 | **@Trade** | Обменивайтесь подарками в | [Telegram](https://t.me/gifttradeservise) [Bot](https://t.me/trade) | 2022-03-09 | 344K |  |
-| 2 | **PocketFi** | Telegram-native memecoin trading app | [Telegram](https://t.me/pocketfi) [Bot](https://t.me/pocketfi_bot) [X](https://x.com/pocket_fi) [Site](https://pocketfi.org/) [Gram News](https://gramnews.org/apps/pocketfi) | 2023-08-22 | 6.9M | 2026-06 |
+| 2 | **PocketFi** | Telegram-native memecoin trading app | [Telegram](https://t.me/pocketfi) [Bot](https://t.me/pocketfi_bot) [X](https://x.com/pocket_fi) [Site](https://pocketfi.org/) [Gram News](https://gramnews.org/apps/pocketfi) | 2023-08-22 | 6.9M | 2024-08 |
 | 3 | **Maestro** |  | [Telegram](https://t.me/maestrosniperupdates) [Bot](https://t.me/maestro) [Site](https://www.maestrobots.com) | 2022-09-05 |  |  |
 | 4 | **Upscale** | Upscale – a prop‑trading service without KYC | [Telegram](https://t.me/upscale_news_en) [Bot](https://t.me/UpscaleTradeBot) [X](https://x.com/upscaletrade) [Site](https://app.upscale.trade) [Gram News](https://gramnews.org/apps/upscale) | 2022-10-25 | 109K |  |
 | 5 | **@GroypFi_bot** | Chief Vibrations Officer A dose of this, a hit of that Twitter - Gbot | [Telegram](https://t.me/groyp) [Bot](https://t.me/groypfi_bot) [X](https://x.com/groyp_on_ton) [Site](https://groypfi.io/) [Gram News](https://gramnews.org/apps/groypfi) | 2025-11-11 |  |  |
@@ -17,7 +17,7 @@
 | 7 | **RedoTrade** |  | [Telegram](https://t.me/gramtrade) [X](https://x.com/redo_trade) [Site](https://redo.trade/) | 2025-08-04 |  |  |
 | 8 | **@Swapi** |  | [Telegram](https://t.me/swapi_news) [Bot](https://t.me/swapi) | 2024-09-20 |  |  |
 | 9 | **ATF** |  | [Telegram](https://t.me/ai_trading_forex) [Bot](https://t.me/atf_airdrop_bot) [X](https://x.com/ai_trading_frx) [Site](https://www.atftoken.com) | 2026-02-20 |  |  |
-| 10 | **Лобушкин молнит** | Главный новостной терминал Прислать новость — Основной Канал в MAX —… | [Telegram](https://t.me/lobushkinflash) [Bot](https://t.me/tgpodbor_bot) | 2022-10-19 |  | 2026-09 |
+| 10 | **Лобушкин молнит** | Главный новостной терминал Прислать новость — Основной Канал в MAX —… | [Telegram](https://t.me/lobushkinflash) [Bot](https://t.me/tgpodbor_bot) | 2022-10-19 |  | 2023-02 |
 | 11 | **КриптоАтака 24** | Наибыстрейший информационный по крипте 24/7 - мгновенный агрегатор данных с… | [Telegram](https://t.me/cryptoattack24) [Bot](https://t.me/attackconnect_bot) | 2021-12-18 |  |  |
 | 12 | **Ultra Wallet** |  | [Telegram](https://t.me/ultrawalletofficial) [Bot](https://t.me/ultrawallettrade_bot) | 2026-09-06 |  |  |
 | 13 | **Beta Arena** | AI-powered crypto trading platform | [Telegram](https://t.me/betaarenachannel) [Bot](https://t.me/betaarenabot) [X](https://x.com/beta_arena_io) | 2026-05-04 |  |  |
@@ -31,7 +31,7 @@
 | 21 | **NoName Trending** | Big buys among the tokens tracked by the by | [Telegram](https://t.me/nonametrending) [Bot](https://t.me/buynnbot) | 2026-03-28 |  |  |
 | 22 | **Algofin** | Algorithmic trading ecosystem on TON | [Telegram](https://t.me/algofinancex) [X](https://x.com/algofinx) | 2026-04-18 |  |  |
 
-<details><summary><b>Quiet: 48</b></summary>
+<details><summary><b>Quiet: 52</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified since |
 | ---: | --- | --- | --- | --- | ---: | --- |
@@ -45,43 +45,47 @@
 | 30 | **CAIHawk Signals** | Precision LONG signals SMC • Elliott Wave • TA 14-Day Free Trial Live Proofs | [Bot](https://t.me/caihawk_signals_bot) [Site](https://signals.caihawk.com) | 2026-04-09 |  |  |
 | 31 | **CV Trade** | Crypto trading bot on Telegram | [Bot](https://t.me/cvt_official_bot) |  |  |  |
 | 32 | **DEX Diamonds** | Bot for trading jettons | [Bot](https://t.me/dexdiamondsbot) | 2024-06-15 |  |  |
-| 33 | **DTrade** | Fastest trading bot on TON | [Telegram](https://t.me/dtrade_news_en) [Bot](https://t.me/dtrade_ton_bot) | 2024-07-26 |  |  |
-| 34 | **DTrade DC4 Backup** |  | [Bot](https://t.me/dtrade_dc4_backup_bot) | 2026-01-30 |  |  |
-| 35 | **F8** | Betting market app for weather, crypto and sports in Telegram | [Bot](https://t.me/f8marketbot) | 2026-02-12 |  |  |
-| 36 | **Felix** |  | [Bot](https://t.me/felix_farm_stars_bot) | 2026-07-03 |  |  |
-| 37 | **Floki Trading Bot** | Telegram bot to trade tokens | [Bot](https://t.me/floki_trading_bot) | 2024-09-20 |  |  |
-| 38 | **Gift Arbitrage Bot** | Bot for gift arbitrage | [Bot](https://t.me/gift_arbitrage_bot) | 2025-07-25 |  |  |
-| 39 | **GRIM** |  | [Bot](https://t.me/grimsniper_bot) | 2024-08-29 |  |  |
-| 40 | **Hedger Bot** |  | [Bot](https://t.me/hedger_one_bot) | 2026-03-25 |  |  |
-| 41 | **Jasper Vault Mini BTC** | Discover a New Era of Trading Join Jasper Vault News Join our Community | [Bot](https://t.me/jasper_vault_bot) |  |  |  |
-| 42 | **lockin app** | Social trading for TON, Solana, BNB and Robinhood chains — trade, post calls, follow… | [Bot](https://t.me/tradeonlockinbot) | 2026-08-20 |  |  |
-| 43 | **Lucky Pickaxe** | Hire miners, collect their shifts and trade crystals for GRAM you can withdraw. An idle… | [Telegram](https://t.me/luckypickaxe) [Bot](https://t.me/luckypickaxebot) | 2026-09-25 |  |  |
-| 44 | **Mite Market** | Trade Polymarket Natively on TON with Non-custodial Wallet | [Bot](https://t.me/mite_robot) | 2026-07-18 |  |  |
-| 45 | **MultiTools** | Social trading for Gram, Solana, BNB & more - trade, post calls, follow winning traders.… | [Telegram](https://t.me/multitoolssocial) [Bot](https://t.me/multitoools_bot) | 2026-08-28 |  |  |
-| 46 | **OnlyOptions: Trading Platform** | Earn on changes in asset prices | [Telegram](https://t.me/only_options_tg) [Bot](https://t.me/only_options_bot) | 2025-09-06 |  |  |
-| 47 | **OTC Auto Bot** | Automated OTC bot | [Bot](https://t.me/otc_auto_bot) | 2025-05-03 |  |  |
-| 48 | **Polyboost** | Parlays on Polymarket | [Bot](https://t.me/polyboostbot) | 2026-03-19 |  |  |
-| 49 | **Rabica Finance** | Grid trading mini app on ETH price | [Bot](https://t.me/rabicabot) | 2026-04-21 |  |  |
-| 50 | **SkyBot** |  | [Bot](https://t.me/tradewithskybot) | 2025-06-14 |  |  |
-| 51 | **Snapster** | Token trading app in Telegram | [Bot](https://t.me/snapster_bot) | 2024-05-16 | 914K |  |
-| 52 | **Spot On Chain** | The first Proof of Sentiment game, combining technical analysis and human sentiment to… | [Bot](https://t.me/socai_bot) | 2024-11-19 |  |  |
-| 53 | **StarsMarket** | Prediction market on future events in Telegram | [Bot](https://t.me/starshash_bot) | 2025-01-01 | 1.4M | 2026-06 |
-| 54 | **Stun Trade** | Trading bot with news and support channels | [Bot](https://t.me/stuntrade_bot) | 2026-05-09 |  |  |
-| 55 | **Swaps** | Chat for Swaps alerts and bot | [Telegram](https://t.me/swapsforum) | 2023-06-08 |  |  |
-| 56 | **Tinu Sniper Bot** | TINU Trading Bot on TON is a powerful tool Part of | [Bot](https://t.me/tinusniperbot) | 2026-05-28 |  |  |
-| 57 | **TokeHunt** |  | [Bot](https://t.me/tokehuntbot) | 2026-08-23 |  |  |
-| 58 | **TONTRA** | Trading bot and sniper for TON tokens | [Bot](https://t.me/tontra_bot) | 2024-05-31 |  |  |
-| 59 | **Tradowix Rewards** | Official TradoWix rewards bot. Join , send your Trader ID, get your bonus. One reward… | [Telegram](https://t.me/tradowix_official) [Bot](https://t.me/tradowix_promo_bot) | 2026-08-15 |  |  |
-| 60 | **UXUY Agent2** | UXUY Dec bot’s trading and market features have moved to UXUY Wallet | [Bot](https://t.me/uxuydexbot) | 2025-01-06 | 895K |  |
-| 61 | **Venkate OptionX** | Crypto trading bot on Telegram | [Bot](https://t.me/venkateoptionxbot) | 2025-05-21 | 355K |  |
-| 62 | **VodkaTrade** | Telegram trading bot | [Bot](https://t.me/vodkatradebot) | 2025-08-27 |  |  |
-| 63 | **Wisdomise AI Trader** | AI memecoin trading bot | [Bot](https://t.me/wisdomiseton_bot) | 2024-08-06 |  |  |
-| 64 | **ZShot** | Trade-to-Mine: Earn as you trade | [Bot](https://t.me/thezshot_bot) | 2024-11-15 | 954K |  |
-| 65 | **Wisdomise** | AI-automated index funds for digital assets | [Telegram](https://t.me/wisdomise_announcement) [X](https://x.com/wisdomise) [Site](https://wisdomise.com) | 2024-05-09 |  | 2026-09 |
-| 66 | **DXS: Trade The World** | Новости проекта, а также полезная информация о мире криптовалют и трейдинга | [Telegram](https://t.me/dxsapp) [X](https://x.com/DXSapp) [Site](https://dxs.app) [Gram News](https://gramnews.org/apps/dxs-trade-the-world) | 2025-07-24 |  |  |
-| 67 | **Agent X** | Smart trading agent app | [Telegram](https://t.me/agentxnews) | 2025-04-07 |  |  |
-| 68 | **TOX** | Crypto trading hub and bot on TON | [Telegram](https://t.me/toxonton) | 2024-06-17 |  |  |
-| 69 | **Optsnap Trading** |  | [Telegram](https://t.me/opt_snap) [Site](https://optsnap.com/) [Gram News](https://gramnews.org/apps/optsnap-trading) | 2024-09-05 |  |  |
-| 70 | **TG20** | Multi-chain asset management and social trading in Telegram | [Telegram](https://t.me/tg20_official) | 2023-12-22 |  |  |
+| 33 | **DTrade DC4 Backup** |  | [Bot](https://t.me/dtrade_dc4_backup_bot) | 2026-01-30 |  |  |
+| 34 | **F8** | Betting market app for weather, crypto and sports in Telegram | [Bot](https://t.me/f8marketbot) | 2026-02-12 |  |  |
+| 35 | **Felix** |  | [Bot](https://t.me/felix_farm_stars_bot) | 2026-07-03 |  |  |
+| 36 | **Floki Trading Bot** | Telegram bot to trade tokens | [Bot](https://t.me/floki_trading_bot) | 2024-09-20 |  |  |
+| 37 | **Gift Arbitrage Bot** | Bot for gift arbitrage | [Bot](https://t.me/gift_arbitrage_bot) | 2025-07-25 |  |  |
+| 38 | **GRIM** |  | [Bot](https://t.me/grimsniper_bot) | 2024-08-29 |  |  |
+| 39 | **Hedger Bot** |  | [Bot](https://t.me/hedger_one_bot) | 2026-03-25 |  |  |
+| 40 | **Jasper Vault Mini BTC** | Discover a New Era of Trading Join Jasper Vault News Join our Community | [Bot](https://t.me/jasper_vault_bot) |  |  |  |
+| 41 | **lockin app** | Social trading for TON, Solana, BNB and Robinhood chains — trade, post calls, follow… | [Bot](https://t.me/tradeonlockinbot) | 2026-08-20 |  |  |
+| 42 | **Lucky Pickaxe** | Hire miners, collect their shifts and trade crystals for GRAM you can withdraw. An idle… | [Telegram](https://t.me/luckypickaxe) [Bot](https://t.me/luckypickaxebot) | 2026-09-25 |  |  |
+| 43 | **Mite Market** | Trade Polymarket Natively on TON with Non-custodial Wallet | [Bot](https://t.me/mite_robot) | 2026-07-18 |  |  |
+| 44 | **MultiTools** | Social trading for Gram, Solana, BNB & more - trade, post calls, follow winning traders.… | [Telegram](https://t.me/multitoolssocial) [Bot](https://t.me/multitoools_bot) | 2026-08-28 |  |  |
+| 45 | **OnlyOptions: Trading Platform** | Earn on changes in asset prices | [Telegram](https://t.me/only_options_tg) [Bot](https://t.me/only_options_bot) | 2025-09-06 |  |  |
+| 46 | **OTC Auto Bot** | Automated OTC bot | [Bot](https://t.me/otc_auto_bot) | 2025-05-03 |  |  |
+| 47 | **Polyboost** | Parlays on Polymarket | [Bot](https://t.me/polyboostbot) | 2026-03-19 |  |  |
+| 48 | **Predict** | Prediction market trading app inside Telegram | [Telegram](https://t.me/predictapp_en) | 2026-06-24 |  |  |
+| 49 | **PredictMe** | Bot for competing in stock price predictions | [Bot](https://t.me/predictmebot) | 2022-08-18 |  |  |
+| 50 | **Rabica Finance** | Grid trading mini app on ETH price | [Bot](https://t.me/rabicabot) | 2026-04-21 |  |  |
+| 51 | **SkyBot** |  | [Bot](https://t.me/tradewithskybot) | 2025-06-14 |  |  |
+| 52 | **Snapster** | Token trading app in Telegram | [Bot](https://t.me/snapster_bot) | 2024-05-16 | 914K |  |
+| 53 | **Spot On Chain** | The first Proof of Sentiment game, combining technical analysis and human sentiment to… | [Bot](https://t.me/socai_bot) | 2024-11-19 |  |  |
+| 54 | **StarsMarket** | Prediction market on future events in Telegram | [Bot](https://t.me/starshash_bot) | 2025-01-01 | 1.4M | 2025-01 |
+| 55 | **StickerPad Sniper** | Sniper bot for StickerPad sticker marketplace | [Bot](https://t.me/stickerssniperbot) | 2026-04-27 |  |  |
+| 56 | **Stun Trade** | Trading bot with news and support channels | [Bot](https://t.me/stuntrade_bot) | 2026-05-09 |  |  |
+| 57 | **Swaps** | Chat for Swaps alerts and bot | [Telegram](https://t.me/swapsforum) | 2023-06-08 |  |  |
+| 58 | **TerminalX** | DeFi trading tool for TON on top of DeDust | [Bot](https://t.me/terminalxtrade_bot) | 2024-12-20 |  |  |
+| 59 | **Tinu Sniper Bot** | TINU Trading Bot on TON is a powerful tool Part of | [Bot](https://t.me/tinusniperbot) | 2026-05-28 |  |  |
+| 60 | **TokeHunt** |  | [Bot](https://t.me/tokehuntbot) | 2026-08-23 |  |  |
+| 61 | **TON Trading** | OTC and spot deals via smart contracts on TON | [Telegram](https://t.me/tontradingchannel) | 2024-07-19 |  |  |
+| 62 | **TONTRA** | Trading bot and sniper for TON tokens | [Bot](https://t.me/tontra_bot) | 2024-05-31 |  |  |
+| 63 | **Tradowix Rewards** | Official TradoWix rewards bot. Join , send your Trader ID, get your bonus. One reward… | [Telegram](https://t.me/tradowix_official) [Bot](https://t.me/tradowix_promo_bot) | 2026-08-15 |  |  |
+| 64 | **UXUY Agent2** | UXUY Dec bot’s trading and market features have moved to UXUY Wallet | [Bot](https://t.me/uxuydexbot) | 2025-01-06 | 895K |  |
+| 65 | **Venkate OptionX** | Crypto trading bot on Telegram | [Bot](https://t.me/venkateoptionxbot) | 2025-05-21 | 355K |  |
+| 66 | **VodkaTrade** | Telegram trading bot | [Bot](https://t.me/vodkatradebot) | 2025-08-27 |  |  |
+| 67 | **Wisdomise AI Trader** | AI memecoin trading bot | [Bot](https://t.me/wisdomiseton_bot) | 2024-08-06 |  |  |
+| 68 | **ZShot** | Trade-to-Mine: Earn as you trade | [Bot](https://t.me/thezshot_bot) | 2024-11-15 | 954K |  |
+| 69 | **Wisdomise** | AI-automated index funds for digital assets | [Telegram](https://t.me/wisdomise_announcement) [X](https://x.com/wisdomise) [Site](https://wisdomise.com) | 2024-05-09 |  | 2024-05 |
+| 70 | **DXS: Trade The World** | Новости проекта, а также полезная информация о мире криптовалют и трейдинга | [Telegram](https://t.me/dxsapp) [X](https://x.com/DXSapp) [Site](https://dxs.app) [Gram News](https://gramnews.org/apps/dxs-trade-the-world) | 2025-07-24 |  |  |
+| 71 | **Agent X** | Smart trading agent app | [Telegram](https://t.me/agentxnews) | 2025-04-07 |  |  |
+| 72 | **TOX** | Crypto trading hub and bot on TON | [Telegram](https://t.me/toxonton) | 2024-06-17 |  |  |
+| 73 | **Optsnap Trading** |  | [Telegram](https://t.me/opt_snap) [Site](https://optsnap.com/) [Gram News](https://gramnews.org/apps/optsnap-trading) | 2024-09-05 |  |  |
+| 74 | **TG20** | Multi-chain asset management and social trading in Telegram | [Telegram](https://t.me/tg20_official) | 2023-12-22 |  |  |
 
 </details>
