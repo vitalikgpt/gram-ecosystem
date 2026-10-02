@@ -391,6 +391,42 @@
    }
   },
   {
+   "name": "usernames",
+   "path": "data/usernames.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "other usernames of the same Telegram accounts, matched by numeric id",
+   "schema": {
+    "fields": [
+     {
+      "name": "telegram_id",
+      "type": "integer"
+     },
+     {
+      "name": "name",
+      "type": "string"
+     },
+     {
+      "name": "now",
+      "type": "string"
+     },
+     {
+      "name": "other",
+      "type": "string"
+     },
+     {
+      "name": "kind",
+      "type": "string"
+     },
+     {
+      "name": "seen_in",
+      "type": "string"
+     }
+    ]
+   }
+  },
+  {
    "name": "unresolved",
    "path": "data/unresolved.csv",
    "format": "csv",

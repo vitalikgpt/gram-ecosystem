@@ -130,6 +130,7 @@ ABOUT = {
     "relations": "which studio built, fund backed or accelerator took a project, with the source",
     "link-fixes": "every link decision with its evidence",
     "merged": "rows folded into the row that shares their Telegram account",
+    "usernames": "other usernames of the same Telegram accounts, matched by numeric id",
     "unresolved": "names from old ecosystem maps not tied to a project yet",
 }
 
@@ -199,10 +200,14 @@ def build():
         "",
         "Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, build on it.",
         "",
+        *([f"**This week**: " + ", ".join(t for n, t in ((wk["added"], f"{wk['added']:,} new projects"), (wk["woke"], f"{wk['woke']:,} became active"),
+                                                         (wk["badge"], f"{wk['badge']:,} got the verified badge"), (wk["channels"], f"{wk['channels']:,} new channels")) if n)
+           + f"; [the weekly summary]({wk['path']}) has the names, [earlier weeks](reports/weekly/README.md) too.", ""]
+          if (wk := (json.load(open("reports/weekly/latest.json")) if os.path.exists("reports/weekly/latest.json") else None)) else []),
         "**Browse it right here**: every category opens as a searchable table, its *table* link below; "
         "so do [channels](data/channels.csv) and [studios and funds](data/relations.csv).",
         "",
-        "**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Neighbours on Telegram](#neighbours-on-telegram), [Verified](#verified-on-telegram), "
+        "**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Neighbours on Telegram](#neighbours-on-telegram), [Verified](#verified-on-telegram), [Other usernames](#other-usernames), "
         "[Studios and funds](#studios-funds-and-accelerators), [Channels](#channels), [How to read it](#how-to-read-it), "
         "[Data](#data), [Maps and reports](#maps-and-reports), [Contribute](#contribute)",
         "",
@@ -319,6 +324,36 @@ def build():
     ]
     for r, es in shown:
         out.append(f"| {plink(r)} | " + ", ".join(plink(by_url[e['to']]) if e["to"] in by_url else cell(e["to_name"]) for e in es) + " |")
+    # other usernames of the same accounts, matched by Telegram's numeric id
+    uns = list(csv.DictReader(open("data/usernames.csv", encoding="utf-8"))) if os.path.exists("data/usernames.csv") else []
+    if uns:
+        reach_of = {}
+        for r in rows:
+            for k in ("telegram", "bot"):
+                if r[k]: reach_of[r[k]] = max(reach_of.get(r[k], 0), reach_n(r))
+        moved = sorted((u for u in uns if u["kind"] != "also known as"), key=lambda u: -reach_of.get(u["now"], 0))
+        aka = {}
+        for u in uns:
+            if u["kind"] == "also known as":
+                aka.setdefault(u["now"], []).append(u)
+        out += [
+            "",
+            "## Other usernames",
+            "",
+            f"Telegram's numeric id outlives a username, so the same account can be followed across names. "
+            f"{len(aka):,} accounts here hold more than one username ({sum(len(v) for v in aka.values()):,} extra names, mostly collectible ones), "
+            f"and {len(moved)} moved to a new name. All pairs are in [data/usernames.csv](data/usernames.csv).",
+            "",
+            "| Account | Now | Was |",
+            "| --- | --- | --- |",
+        ]
+        for u in moved[:10]:
+            out.append(f"| {cell(u['name'])} | [@{u['now'].rsplit('/', 1)[-1]}]({u['now']}) | @{u['other'].rsplit('/', 1)[-1]}"
+                       + (" (now another account)" if u["kind"] == "name taken" else " (free)") + " |")
+        out += ["", "| Account | Also answers to |", "| --- | --- |"]
+        for now, us in sorted(aka.items(), key=lambda kv: -reach_of.get(kv[0], 0))[:10]:
+            out.append(f"| [{cell(us[0]['name'])}]({now}) | " + ", ".join(f"[@{x['other'].rsplit('/', 1)[-1]}]({x['other']})" for x in us[:8])
+                       + (f" and {len(us) - 8} more" if len(us) > 8 else "") + " |")
     out += [
         "",
         "## Studios, funds and accelerators",
@@ -419,6 +454,7 @@ def build():
         "| [data/categories.json](data/categories.json) | categories in display order |",
         f"| [data/link-fixes.csv](data/link-fixes.csv) | {len(fixes):,} link decisions (replaced, removed, confirmed, marked down) with evidence |",
         "| [datapackage.json](datapackage.json) | the [Frictionless](https://frictionlessdata.io) descriptor: every file and column, for tools that load typed tables |",
+        f"| [data/usernames.csv](data/usernames.csv) | {sum(1 for _ in open('data/usernames.csv')) - 1 if os.path.exists('data/usernames.csv') else 0} other usernames of the same accounts, by numeric id: second names, renames, names now held by someone else |",
         f"| [data/merged.csv](data/merged.csv) | {sum(1 for _ in open('data/merged.csv')) - 1 if os.path.exists('data/merged.csv') else 0} rows folded into the row that shares their Telegram account (the numeric id), with the key |",
         f"| [data/unresolved.csv](data/unresolved.csv) | {len(unresolved)} names from old maps not tied to a project yet |",
         "| [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |",

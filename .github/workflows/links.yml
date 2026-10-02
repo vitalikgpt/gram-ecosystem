@@ -1,6 +1,6 @@
 name: links
 
-# Weekly full link check: refreshes reports/link-check.md and commits it if anything changed.
+# Every Monday: full link check (reports/link-check.md) and the weekly summary of changes (reports/weekly/), committed if anything changed.
 on:
   schedule:
     - cron: "0 6 * * 1"
@@ -14,15 +14,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # the weekly summary compares with the data of a week ago
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - run: python3 scripts/check_links.py
+      - run: python3 scripts/weekly.py
       - run: python3 scripts/build_readme.py
       - name: Commit report
         run: |
           git config user.name "gram-ecosystem bot"
           git config user.email "actions@users.noreply.github.com"
-          git add reports/link-check.md README.md categories
-          git diff --cached --quiet || git commit -m "link check: refresh report"
+          git add reports/link-check.md reports/weekly README.md categories data/by-category datapackage.json
+          git diff --cached --quiet || git commit -m "Weekly: link check and summary"
           git push
