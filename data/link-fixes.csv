@@ -1,21 +1,21 @@
 date,slug,name,field,action,old,new,evidence
 2026-10-01,1323vpn,1323vpn,x,remove,https://x.com/TonTakeGame,,"same account listed for unrelated projects: TonTake Bridge, 1323vpn, TonTake (TAKE), TakeRobot, TONvsTAKE, Jetton lucky spin"
 2026-10-01,90rich,90Rich,bot,remove,https://t.me/app_90rich_bot,,username does not exist on t.me on 2026-10-01
-2026-10-01,90rich,90Rich,website,remove,https://web.90rich.com,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,90rich,90Rich,website,down,https://web.90rich.com,https://web.90rich.com,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,90rich,90Rich,x,remove,https://x.com/rich90492056,,"same account listed for unrelated projects: 90Rich, fedafone"
 2026-10-01,aas-tap,AAS TAP,x,remove,https://x.com/toon_nation_app,,"same account listed for unrelated projects: ToON Nation, AAS TAP"
 2026-10-01,adbuy,AdBuy,x,remove,https://x.com/thetonhub,,"same account listed for unrelated projects: MEXC, Crypton Buy Bot, Cryptonite Scanner, AdBuy, PAPERCOIN"
 2026-10-01,adradar,Adradar,telegram,remove,https://t.me/adradar_xyz,,username does not exist on t.me on 2026-10-01
 2026-10-01,aec-ton,AEC TON,bot,remove,https://t.me/animal_evolution_coin_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,ai-buddy,AI Buddy,x,remove,https://x.com/cohortX_ai,,"same account listed for unrelated projects: Polyton App, AI Buddy"
-2026-10-01,ai-sketch-art,AI Sketch Art,website,remove,https://www.sketchart.ai/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,ai-sketch-art,AI Sketch Art,website,down,https://www.sketchart.ai/,https://www.sketchart.ai/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,aipets,AiPets,telegram,remove,https://t.me/autgfts,,username does not exist on t.me on 2026-10-01
 2026-10-01,akedobot,AkedoBot,bot,remove,https://t.me/akedo_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,akefish,AKEFish,x,remove,https://x.com/Cyberpunk_R,,"same account listed for unrelated projects: AKEFish, Cyberpunk R"
 2026-10-01,alert-price-ton,Alert Price TON,x,remove,https://x.com/multi_sender,,"same account listed for unrelated projects: Multisender, Alert Price TON"
 2026-10-01,alfa-game,ALFA GAME,x,remove,https://x.com/fizenapp,,"same account listed for unrelated projects: USDt Gift Shop, ALFA GAME"
 2026-10-01,alpaca-ai,Alpaca AI,telegram,remove,https://t.me/whalesocials2,,username does not exist on t.me on 2026-10-01
-2026-10-01,alpaca-ai,Alpaca AI,website,remove,https://wheelofwhales.io/?start=PofgiUcwpub,,site is gone: http 526 on 2026-10-01
+2026-10-01,alpaca-ai,Alpaca AI,website,down,https://wheelofwhales.io/?start=PofgiUcwpub,https://wheelofwhales.io/?start=PofgiUcwpub,site is gone: http 526 on 2026-10-01
 2026-10-01,alpaton,AlpaTON,bot,remove,https://t.me/AlpaTONbot,,username does not exist on t.me on 2026-10-01
 2026-10-01,alpaton,AlpaTON,x,remove,https://x.com/Changehero_io,,"same account listed for unrelated projects: ChangeHero Bot, AlpaTON"
 2026-10-01,alpha-dex,Alpha Dex,x,confirm,https://x.com/hotdao_,https://x.com/hotdao_,https://t.me/alpha_web3_bot
@@ -29,20 +29,20 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,babyton,BABYTON,telegram,remove,https://t.me/babyyton,,username does not exist on t.me on 2026-10-01
 2026-10-01,bankcoin,Bankcoin,x,confirm,https://x.com/realDogsHouse,https://x.com/realDogsHouse,https://t.me/bankcoins_bot
 2026-10-01,base-bear-cutie,Base Bear Cutie,x,remove,https://x.com/DefiLlama,,"same account listed for unrelated projects: DefiLlama, Base Bear Cutie"
-2026-10-01,battleofmemes,BattleOfMemes,website,remove,https://headgun.org/,,site is gone: http 404 on 2026-10-01
+2026-10-01,battleofmemes,BattleOfMemes,website,down,https://headgun.org/,https://headgun.org/,site is gone: http 404 on 2026-10-01
 2026-10-01,be-taurus,Be Taurus,telegram,remove,https://t.me/be_taurus,,username does not exist on t.me on 2026-10-01
-2026-10-01,be-taurus,Be Taurus,website,remove,https://betaurus.io,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,be-taurus,Be Taurus,website,down,https://betaurus.io,https://betaurus.io,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,beamtapbot,BeamTapBot,x,remove,https://x.com/Gatto_game,,"same account listed for unrelated projects: Gatto, BeamTapBot"
-2026-10-01,beecoin,BeeCoin,website,remove,https://beecoin.finance/,,site is gone: domain does not resolve on 2026-10-01
-2026-10-01,beertap-game,BEERTAP GAME,website,remove,https://beercoin2.wtf/,,site is gone: http 402 on 2026-10-01
+2026-10-01,beecoin,BeeCoin,website,down,https://beecoin.finance/,https://beecoin.finance/,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,beertap-game,BEERTAP GAME,website,down,https://beercoin2.wtf/,https://beercoin2.wtf/,site is gone: http 402 on 2026-10-01
 2026-10-01,beeton,BeeTon,x,remove,https://x.com/fintopio,,"same account listed for unrelated projects: OKX, Fintopio, BeeTon"
 2026-10-01,beeverse-by-nctr,BeeVerse By NCTR,x,remove,https://x.com/TRUExWorld,,"same account listed for unrelated projects: BeeVerse By NCTR, Truecoin"
 2026-10-01,behappy,BeHappy,x,confirm,https://x.com/TractionEye,https://x.com/TractionEye,https://t.me/ibehappybot
 2026-10-01,behind,behind,x,remove,https://x.com/TomCoinBnb,,"same account listed for unrelated projects: behind, TomClicker"
 2026-10-01,bettor-whales,Bettor Whales,x,remove,https://x.com/OlaWealth_xyz,,"same account listed for unrelated projects: EXOUSDT Farming Bot APP, Bettor Whales"
-2026-10-01,bfdcoin,BFDCoin,website,remove,https://presale.bfdcoin.org,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,bfdcoin,BFDCoin,website,down,https://presale.bfdcoin.org,https://presale.bfdcoin.org,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,bfinance,BFinance,website,replace,https://bfinance.space,https://bfinance.app,https://t.me/bfinancepay (old site: http no answer)
-2026-10-01,billybob,BillyBob,website,remove,https://nftkeeper.org/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,billybob,BillyBob,website,down,https://nftkeeper.org/,https://nftkeeper.org/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,bime,BIME,x,confirm,https://x.com/btc_is_meme,https://x.com/btc_is_meme,https://t.me/bime_ann
 2026-10-01,birds,BIRDS,x,remove,https://x.com/noxecoin,,"same account listed for unrelated projects: BIRDS, Noxecoin"
 2026-10-01,bitbot,Bitbot,x,remove,https://x.com/TapJenix,,"same account listed for unrelated projects: Bitbot, Tapjenix"
@@ -66,10 +66,10 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,cexio-power-tap,CEXIO Power Tap,website,confirm,https://earn.cex.io/,https://earn.cex.io/,https://earn.cex.io/ (page title)
 2026-10-01,challenquizbot,ChallenQuizBot,x,remove,https://x.com/zggycoin,,"same account listed for unrelated projects: ZGGY, ChallenQuizBot"
 2026-10-01,changelly,Changelly,x,remove,https://x.com/excoino,,"same account listed for unrelated projects: Excoino, Changelly"
-2026-10-01,characterx,CharacterX,website,remove,https://unknown-coin.com,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,characterx,CharacterX,website,down,https://unknown-coin.com,https://unknown-coin.com,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,characterx,CharacterX,x,remove,https://x.com/unk_coin,,"same account listed for unrelated projects: Unknown, CharacterX"
 2026-10-01,chess-zombies-project,Chess Zombies project,x,remove,https://x.com/SHEDEVERstudio,,"same account listed for unrelated projects: Hare, Chess Pieces, Chess Zombies project, Chess Zombies"
-2026-10-01,chessio,Chessio,website,remove,https://chessio.org,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,chessio,Chessio,website,down,https://chessio.org,https://chessio.org,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,cielo-free-bot-1,Cielo Free Bot 1,x,remove,https://x.com/Utya_game,,"same account listed for unrelated projects: Cielo Free Bot 1, UTYA"
 2026-10-01,clickmiobot,Clickmiobot,website,confirm,https://miomi.game/games/?game=kick-mio,https://miomi.game/games/?game=kick-mio,https://t.me/miomigame
 2026-10-01,clickmiobot,Clickmiobot,x,confirm,https://x.com/miomi_game,https://x.com/miomi_game,https://t.me/clickmio_bot
@@ -77,16 +77,16 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,clowntown,ClownTown,x,remove,https://x.com/FightBrawl_Ton,,"same account listed for unrelated projects: Fight Brawl, ClownTown"
 2026-10-01,coffinmeme-jqsnmp,CoffinMeme,website,confirm,https://coffin.meme,https://coffin.meme,https://coffin.meme (page title)
 2026-10-01,coinchance,CoinChance,x,remove,https://x.com/zombiesquad_ai,,"same account listed for unrelated projects: CoinChance, ZombieSquad"
-2026-10-01,coincraze,Coincraze,website,remove,https://coincraze.ai,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,coincraze,Coincraze,website,down,https://coincraze.ai,https://coincraze.ai,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,coinrobot,CoinRobot,x,remove,https://x.com/polkaswap,,"same account listed for unrelated projects: Polkaswap DEX, CoinRobot"
 2026-10-01,commander,Commander,bot,remove,https://t.me/commander_ton_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,cowtopia-mbalbf,Cowtopia,bot,remove,https://t.me/cowtopiabot,,username does not exist on t.me on 2026-10-01
 2026-10-01,coytx,COYTX,github,remove,https://github.com/kir32232/coytx,,GitHub returns 404 on 2026-10-01
-2026-10-01,crazy-llama-english,Crazy Llama English,website,remove,https://crazyllama.farm,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,crazy-llama-english,Crazy Llama English,website,down,https://crazyllama.farm,https://crazyllama.farm,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,crona,CRONA,bot,remove,https://t.me/crona_game_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,crona,CRONA,x,remove,https://x.com/sociafober,,"same account listed for unrelated projects: CRONA, Sociafober"
 2026-10-01,crossfi-tap,CrossFi Tap,x,remove,https://x.com/Hamsterdam_ton,,"same account listed for unrelated projects: Hamsterdam, CrossFi Tap"
-2026-10-01,crypto-mason-game,Crypto Mason Game,website,remove,https://cryptomasonsgame.com,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,crypto-mason-game,Crypto Mason Game,website,down,https://cryptomasonsgame.com,https://cryptomasonsgame.com,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,crypto-millionaire-bot,Crypto Millionaire Bot,x,remove,https://x.com/MEMEOW_IO,,"same account listed for unrelated projects: Crypto Millionaire Bot, MEMEOW"
 2026-10-01,cryptohacker,CryptoHacker,bot,remove,https://t.me/CryptoHackerGame_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,cryptohalva,Криптохалва,x,remove,https://x.com/jettongames,,"same account listed for unrelated projects: Криптохалва, JetTon Games"
@@ -102,7 +102,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,deadcoin,DeadCoin,x,remove,https://x.com/notmeme_app,,"same account listed for unrelated projects: DeadCoin, NOTMEME app"
 2026-10-01,decrypton-l6k7v7,DecrypTON,telegram,remove,https://t.me/Decryp_TON,,username does not exist on t.me on 2026-10-01
 2026-10-01,degenerative,degenerative,x,confirm,https://x.com/degespace,https://x.com/degespace,https://degenerative.space
-2026-10-01,delab,DeLab,website,remove,https://delabteam.com,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,delab,DeLab,website,down,https://delabteam.com,https://delabteam.com,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,development-wallet,Development Wallet,x,remove,https://x.com/TractionEye,,"same account listed for unrelated projects: Development Wallet, TractionEye, Cubes, BeHappy"
 2026-10-01,devomon,Devomon,x,remove,https://x.com/tonbetapp,,"same account listed for unrelated projects: Devomon, Tonbet App"
 2026-10-01,dewallet,DeWallet,x,remove,https://x.com/PurrFund,,"same account listed for unrelated projects: DeWallet, Purr.Fund"
@@ -118,12 +118,12 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,dynabit-app,Dynabit App,x,remove,https://x.com/xpnetwork_,,"same account listed for unrelated projects: XP.NETWORK, Dynabit App"
 2026-10-01,easywatch,EasyWatch,x,remove,https://x.com/blockcard_q,,"same account listed for unrelated projects: Block Card Game, EasyWatch"
 2026-10-01,ecohero,EcoHero,x,replace,https://x.com/layerswap,https://x.com/echa_ecohero,https://t.me/ECHA_EcoHero
-2026-10-01,edchess,EdChess,website,remove,https://padton.com/,,site is gone: http 522 on 2026-10-01
+2026-10-01,edchess,EdChess,website,down,https://padton.com/,https://padton.com/,site is gone: http 522 on 2026-10-01
 2026-10-01,efootballmanager,efootballmanager,x,remove,https://x.com/EFM_TON,,"same account listed for unrelated projects: efootballmanager, Ordeez Airdrop"
 2026-10-01,el-ton,EL TON,x,remove,https://x.com/WeAreCatia,,"same account listed for unrelated projects: EL TON, Catia Eduverse"
-2026-10-01,election-wars,Election Wars,website,remove,https://delabteam.com,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,election-wars,Election Wars,website,down,https://delabteam.com,https://delabteam.com,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,elympics,Elympics,telegram,remove,https://t.me/FoxiCoinBot,,username does not exist on t.me on 2026-10-01
-2026-10-01,elympics,Elympics,website,remove,https://foxiscoin.com/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,elympics,Elympics,website,down,https://foxiscoin.com/,https://foxiscoin.com/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,exchangel,Exchangel,x,remove,https://x.com/onmetahq,,"same account listed for unrelated projects: Exchangel, Onmeta"
 2026-10-01,exmo,EXMO,x,remove,https://x.com/grindery_io,,"same account listed for unrelated projects: EXMO, TreasureTapper"
 2026-10-01,exousdt-farming-bot-app,EXOUSDT Farming Bot APP,x,remove,https://x.com/OlaWealth_xyz,,"same account listed for unrelated projects: EXOUSDT Farming Bot APP, Bettor Whales"
@@ -134,7 +134,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,fast-food-memes,Fast Food Memes,x,remove,https://x.com/BombCryptoGame,,"same account listed for unrelated projects: Fast Food Memes, Bomb Crypto BCOIN"
 2026-10-01,fedafone,fedafone,bot,remove,https://t.me/app_90rich_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,fedafone,fedafone,x,remove,https://x.com/rich90492056,,"same account listed for unrelated projects: 90Rich, fedafone"
-2026-10-01,fingerprint-scanner,Fingerprint Scanner,website,remove,https://nft.mir.one/fingerprints,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,fingerprint-scanner,Fingerprint Scanner,website,down,https://nft.mir.one/fingerprints,https://nft.mir.one/fingerprints,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,fingerprint-scanner,Fingerprint Scanner,x,remove,https://x.com/catidpaw,,"same account listed for unrelated projects: Cat ID Paws, Fingerprint Scanner"
 2026-10-01,fireton-drop,FireTon Drop,x,remove,https://x.com/moklgamefi,,"same account listed for unrelated projects: FireTon Drop, Mortal Klicker"
 2026-10-01,fnot-13-12,$FNOT 13:12,x,remove,https://x.com/ston_fi,,"same account listed for unrelated projects: STON.fi, STON.fi Bot, STON, $FNOT 13:12"
@@ -158,14 +158,14 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,greedy-ball,Greedy Ball,x,replace,https://x.com/cardify_ton,https://x.com/greedy_ball,https://t.me/greedy_ball
 2026-10-01,greenorred,GreenOrRed,x,remove,https://x.com/Petoshi_Blast,,"same account listed for unrelated projects: PetTap, Petoshi, GreenOrRed"
 2026-10-01,groypfi,@GroypFi_bot,x,confirm,https://x.com/groyp_on_ton,https://x.com/groyp_on_ton,https://groypfi.io/
-2026-10-01,gu-i-coin-runner-game,Gu$$i coin runner Game,website,remove,https://landing.m2fund.io/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,gu-i-coin-runner-game,Gu$$i coin runner Game,website,down,https://landing.m2fund.io/,https://landing.m2fund.io/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,gvws,GVWS,x,confirm,https://x.com/tecteam_,https://x.com/tecteam_,https://t.me/gvws_bot
-2026-10-01,hamster-kombat,Hamster Kombat,website,remove,https://hamster.network,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,hamster-kombat,Hamster Kombat,website,down,https://hamster.network,https://hamster.network,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,hamsterbabybot,Hamsterbabybot,x,remove,https://x.com/greensfinance,,"same account listed for unrelated projects: Hamsterbabybot, Greens"
 2026-10-01,hamstergo,HamsterGo,x,remove,https://x.com/onai_official,,"same account listed for unrelated projects: onai_galaxy_blaster, HamsterGo"
 2026-10-01,happy-farmer,Happy Farmer,x,replace,https://x.com/cropandrob,https://x.com/happyfarmerapp,https://t.me/happyfarmer_official
 2026-10-01,hare,Hare,x,remove,https://x.com/SHEDEVERstudio,,"same account listed for unrelated projects: Hare, Chess Pieces, Chess Zombies project, Chess Zombies"
-2026-10-01,headcoin,Headcoin,website,remove,https://headgun.org/,,site is gone: http 404 on 2026-10-01
+2026-10-01,headcoin,Headcoin,website,down,https://headgun.org/,https://headgun.org/,site is gone: http 404 on 2026-10-01
 2026-10-01,hexacore-gaming-universe,Hexacore Gaming Universe,x,remove,https://x.com/meme_capybara,,"same account listed for unrelated projects: Hexacore Gaming Universe, Capybara MEME, CapybaraCoins"
 2026-10-01,hexmine,#HexMine,telegram,remove,https://t.me/hexminecoin,,username does not exist on t.me on 2026-10-01
 2026-10-01,horizon-launch,Horizon Launch,x,remove,https://x.com/smoke_solana,,"same account listed for unrelated projects: Horizon Launch, SMOKE Airdrop"
@@ -183,18 +183,18 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,jettontonguard,JettonTonGuard,website,confirm,https://app.scriptsnap.site/,https://app.scriptsnap.site/,https://app.scriptsnap.site/ (page title)
 2026-10-01,join-studihub,Join Studihub,x,remove,https://x.com/pie_exchange,,"same account listed for unrelated projects: Fragment @username, Join Studihub"
 2026-10-01,joker,Joker,telegram,remove,https://t.me/moki_ag,,username does not exist on t.me on 2026-10-01
-2026-10-01,joker,Joker,website,remove,https://moki.ag/,,site is gone: domain does not resolve on 2026-10-01
-2026-10-01,kametap,KameTap,website,remove,https://clicker.space,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,joker,Joker,website,down,https://moki.ag/,https://moki.ag/,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,kametap,KameTap,website,down,https://clicker.space,https://clicker.space,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,kametap,KameTap,x,remove,https://x.com/clickerfarm,,"same account listed for unrelated projects: KameTap, FARM CLICKER"
 2026-10-01,keko-killer,Keko Killer,x,remove,https://x.com/letsexchange_io,,"same account listed for unrelated projects: LetsExchange.io, Keko Killer"
 2026-10-01,khomyakovo-gov,Khomyakovo GOV,x,remove,https://x.com/tonstonks,,"same account listed for unrelated projects: Bitget, sTONks, Khomyakovo GOV"
 2026-10-01,kibble-exchange,Kibble Exchange,github,remove,https://github.com/KibbleExchange/kibble-mini-app,,GitHub returns 404 on 2026-10-01
-2026-10-01,kibble-exchange,Kibble Exchange,website,remove,https://app.kibble.exchange/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,kibble-exchange,Kibble Exchange,website,down,https://app.kibble.exchange/,https://app.kibble.exchange/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,kismi-app,KISMI.APP,bot,remove,https://t.me/kismiapp_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,kismi-app,KISMI.APP,telegram,remove,https://t.me/kismiapp,,username does not exist on t.me on 2026-10-01
-2026-10-01,kismi-app,KISMI.APP,website,remove,https://kismi.app/,,site is gone: http 522 on 2026-10-01
+2026-10-01,kismi-app,KISMI.APP,website,down,https://kismi.app/,https://kismi.app/,site is gone: http 522 on 2026-10-01
 2026-10-01,landrocker-miner,Landrocker Miner,github,remove,https://github.com/infinite8fze,,GitHub returns 404 on 2026-10-01
-2026-10-01,lbank-exchange,LBank Exchange,website,remove,https://www.lbank.com/trade/ton_usdt/,,site is gone: http 404 on 2026-10-01
+2026-10-01,lbank-exchange,LBank Exchange,website,down,https://www.lbank.com/trade/ton_usdt/,https://www.lbank.com/trade/ton_usdt/,site is gone: http 404 on 2026-10-01
 2026-10-01,lbank-exchange,LBank Exchange,x,remove,https://x.com/nexabitHQ,,"same account listed for unrelated projects: LBank Exchange, NexaBit AI"
 2026-10-01,leagushqa-bot,Leagushqa Bot,x,remove,https://x.com/Cwalletofficial,,"same account listed for unrelated projects: Cwallet, Leagushqa Bot"
 2026-10-01,live-price-toncoin,Live Price TonCoin,x,remove,https://x.com/FantasyFanton,,"same account listed for unrelated projects: Live Price TonCoin, Fanton Fantasy Football, Fanton"
@@ -205,12 +205,12 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,lonft-alerts,LONFT Alerts,x,remove,https://x.com/lunaornot,,"same account listed for unrelated projects: LONFT Alerts, Dropee"
 2026-10-01,lost-cats,Lost Cats,bot,remove,https://t.me/lostcatsappbot,,username does not exist on t.me on 2026-10-01
 2026-10-01,lost-cats,Lost Cats,x,remove,https://x.com/TokenLone,,"same account listed for unrelated projects: LoneToken CABOT, Lost Cats"
-2026-10-01,luckydrawmaster,Lucky Draw Master,website,remove,https://www.moboost.xyz/,,site is gone: http 525 on 2026-10-01
+2026-10-01,luckydrawmaster,Lucky Draw Master,website,down,https://www.moboost.xyz/,https://www.moboost.xyz/,site is gone: http 525 on 2026-10-01
 2026-10-01,luckydrawmaster,Lucky Draw Master,x,remove,https://x.com/mogifts312,,"same account listed for unrelated projects: Nomiswap, Cyber Village, Lucky Draw Master"
-2026-10-01,lumberjackgame,LumberJackGame,website,remove,https://www.tonspay.top,,site is gone: http 404 on 2026-10-01
+2026-10-01,lumberjackgame,LumberJackGame,website,down,https://www.tonspay.top,https://www.tonspay.top,site is gone: http 404 on 2026-10-01
 2026-10-01,lumberjackgame,LumberJackGame,x,remove,https://x.com/tonsprotocols,,"same account listed for unrelated projects: Tonspay, LumberJackGame"
 2026-10-01,lumo,LUMO,x,remove,https://x.com/gemseeton,,"same account listed for unrelated projects: LUMO, Gemsee"
-2026-10-01,mafiadao,MafiaDAO,website,remove,https://web3co.xyz,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,mafiadao,MafiaDAO,website,down,https://web3co.xyz,https://web3co.xyz,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,mafiadao,MafiaDAO,x,confirm,https://x.com/mafiada0,https://x.com/mafiada0,https://t.me/MafiaDAO
 2026-10-01,magic-pot,Magic Pot,x,remove,https://x.com/Hangarxio,,"same account listed for unrelated projects: HangarX Gaming, HangarX, Magic Pot"
 2026-10-01,majyotreasurebot,MajyoTreasureBot,x,confirm,https://x.com/MajyoGame,https://x.com/MajyoGame,https://t.me/majyotreasurebot
@@ -222,8 +222,8 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,maxi-game,Maxi GAME,x,remove,https://x.com/chancetg_app,,"same account listed for unrelated projects: Maxi GAME, Chance Bot"
 2026-10-01,memecatsbot,MemeCatsBot,x,confirm,https://x.com/MemeCatsXYZ,https://x.com/MemeCatsXYZ,https://t.me/imemecatsbot
 2026-10-01,memefi-coin,MemeFi Coin,x,remove,https://x.com/CrgCalls,,"same account listed for unrelated projects: CryptoRiskyGameCalls, MemeFi Coin"
-2026-10-01,memexzone,MemexZone,website,remove,https://memex.zone,,site is gone: domain does not resolve on 2026-10-01
-2026-10-01,merge-pals,Merge Pals,website,remove,https://lucky.vote,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,memexzone,MemexZone,website,down,https://memex.zone,https://memex.zone,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,merge-pals,Merge Pals,website,down,https://lucky.vote,https://lucky.vote,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,mexc-cex,MEXC,x,replace,https://x.com/thetonhub,https://x.com/mexc,https://t.me/mexcofficialnews
 2026-10-01,minter,Minter,x,remove,https://x.com/mooniniofficial,,"same account listed for unrelated projects: Minter, moonpacket"
 2026-10-01,mintodinos-staking,MINTODINOS Staking,bot,remove,https://t.me/mintodinos_staking_bot,,username does not exist on t.me on 2026-10-01
@@ -236,7 +236,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,momoai-abdmcn,MomoAI,x,confirm,https://x.com/Metaoasis_,https://x.com/Metaoasis_,https://t.me/metaoasis_official
 2026-10-01,monorix,Monorix,bot,remove,https://t.me/monorixbot,,username does not exist on t.me on 2026-10-01
 2026-10-01,monsterrr,MonsteRRR,x,remove,https://x.com/anonclub8,,"same account listed for unrelated projects: ANON (ANON), ANON Space, MonsteRRR"
-2026-10-01,mooli,Mooli,website,remove,https://ton.mooli.app/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,mooli,Mooli,website,down,https://ton.mooli.app/,https://ton.mooli.app/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,moon-app,MOON App,x,remove,https://x.com/EntertaimentCGS,,"same account listed for unrelated projects: CryptoMine CGS, MOON App"
 2026-10-01,moonberg-ai-bot,MOONBERG AI BOT,website,replace,https://coming.It,https://moonberg.com,https://t.me/moonbergai
 2026-10-01,moonpacket,moonpacket,x,confirm,https://x.com/mooniniofficial,https://x.com/mooniniofficial,https://moonpacket.com
@@ -250,11 +250,11 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,musgard,Musgard,x,remove,https://x.com/SnakeTON_Game,,"same account listed for unrelated projects: SnakeTON, Musgard"
 2026-10-01,mylegton,mylegton,x,remove,https://x.com/mylegonton,,"same account listed for unrelated projects: THEarthGame, mylegton, MyLeg"
 2026-10-01,mypaal,MyPaal,x,remove,https://x.com/EarthNetworkio,,"same account listed for unrelated projects: MyPaal, Earth Coin"
-2026-10-01,mytonswap,MyTonSwap,website,remove,https://mytonswap.com,,site is gone: http 521 on 2026-10-01
+2026-10-01,mytonswap,MyTonSwap,website,down,https://mytonswap.com,https://mytonswap.com,site is gone: http 521 on 2026-10-01
 2026-10-01,naga-everything-trading,NAGA Everything Trading,x,confirm,https://x.com/cedelabs,https://x.com/cedelabs,https://t.me/naga_everything_trading
 2026-10-01,nail-mini-game,Nail Mini Game,x,remove,https://x.com/Bot_Gameyard,,"same account listed for unrelated projects: Nail Mini Game, ISEKAI Adventure, Almost A Hero"
 2026-10-01,necasino,NECASINO,bot,remove,https://t.me/necaplaybot,,username does not exist on t.me on 2026-10-01
-2026-10-01,neural-networks,Neural Networks,website,remove,https://web3.xn--e1aajcsinjk.com/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,neural-networks,Neural Networks,website,down,https://web3.xn--e1aajcsinjk.com/,https://web3.xn--e1aajcsinjk.com/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,nexus,Nexus,x,confirm,https://x.com/ioneoki,https://x.com/ioneoki,https://t.me/nexusportalbot
 2026-10-01,nft-drop-calendar,NFT Drop Calendar,telegram,remove,https://t.me/tonpro_for_builders,,username does not exist on t.me on 2026-10-01
 2026-10-01,nft-scanner,NFT Scanner,bot,remove,https://t.me/wallet_arbitragescanner_bot,,username does not exist on t.me on 2026-10-01
@@ -269,19 +269,19 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,notai,NOTAI,telegram,remove,https://t.me/CryptoRivieraNews,,username does not exist on t.me on 2026-10-01
 2026-10-01,notai,NOTAI,x,remove,https://x.com/CryptoRivieraAI,,"same account listed for unrelated projects: CryptoRiviera, NOTAI"
 2026-10-01,notbabycoinfam,NotBabyCoinFAM,telegram,remove,https://t.me/tonyielding,,username does not exist on t.me on 2026-10-01
-2026-10-01,notbabycoinfam,NotBabyCoinFAM,website,remove,https://www.tonyielding.com/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,notbabycoinfam,NotBabyCoinFAM,website,down,https://www.tonyielding.com/,https://www.tonyielding.com/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,notbabycoinfam,NotBabyCoinFAM,x,remove,https://x.com/Tonyielding,,"same account listed for unrelated projects: Tonyielding, NotBabyCoinFAM"
 2026-10-01,notbitcoin-bot,NotBitCoin Bot,website,confirm,https://notbitco.in,https://notbitco.in,https://notbitco.in (page title)
 2026-10-01,nothero,NOTHERO,x,remove,https://x.com/Not_Notcoin,,"same account listed for unrelated projects: Not Notcoin, NOTHERO"
 2026-10-01,notonbot,notonbot,x,remove,https://x.com/noton_tap,,"same account listed for unrelated projects: notonbot, Telegram one Top"
 2026-10-01,novadax,NovaDax,x,confirm,https://x.com/livehub_to,https://x.com/livehub_to,https://www.novadax.com.br/product/orderbook?pair=TON_BRL
 2026-10-01,official-satoshi-miner,Official Satoshi Miner,x,remove,https://x.com/thetritonapp,,"same account listed for unrelated projects: Triton, Official Satoshi Miner"
-2026-10-01,oinkcoin,OinkCoin,website,remove,https://oinkcoin.org,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,oinkcoin,OinkCoin,website,down,https://oinkcoin.org,https://oinkcoin.org,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,openshield,OpenShield,telegram,remove,https://t.me/ShieldFoundation,,username does not exist on t.me on 2026-10-01
 2026-10-01,optsnap-trading,Optsnap Trading,bot,remove,https://t.me/optsnap_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,optsnap-trading,Optsnap Trading,x,remove,https://x.com/BoinkersIO,,"same account listed for unrelated projects: Optsnap Trading, Boinkers, Boinkers Parody Game"
 2026-10-01,ordeez-airdrop,Ordeez Airdrop,x,remove,https://x.com/EFM_TON,,"same account listed for unrelated projects: efootballmanager, Ordeez Airdrop"
-2026-10-01,orexn,Orexn,website,remove,https://www.orexn.net/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,orexn,Orexn,website,down,https://www.orexn.net/,https://www.orexn.net/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,p2e,P2E,telegram,remove,https://t.me/comunitiygreen,,username does not exist on t.me on 2026-10-01
 2026-10-01,pacbot,Pacbot,telegram,remove,https://t.me/Wtonxi,,username does not exist on t.me on 2026-10-01
 2026-10-01,paketka,PAKETKA,x,remove,https://x.com/swap_coffee_ton,,"same account listed for unrelated projects: swap.coffee, PAKETKA"
@@ -292,31 +292,31 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,payhook,Payhook,x,remove,https://x.com/BehLandOfficial,,"same account listed for unrelated projects: Payhook, BehLand"
 2026-10-01,peng,Peng,telegram,remove,https://t.me/pengtoncoin,,username does not exist on t.me on 2026-10-01
 2026-10-01,peng,Peng,telegram,remove,https://t.me/pengtoncoin,,username does not exist on t.me on 2026-10-01
-2026-10-01,pepe-miner-bot,PEPE Miner Bot,website,remove,https://www.arcadiaweb3.net/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,pepe-miner-bot,PEPE Miner Bot,website,down,https://www.arcadiaweb3.net/,https://www.arcadiaweb3.net/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,pepes-frogbar,Pepes Frogbar,x,remove,https://x.com/di_sob,,"same account listed for unrelated projects: Pepes Frogbar, BIX Games"
 2026-10-01,pet-tap-tap,PET TAP TAP,github,remove,https://github.com/OGenLab/Thero1,,GitHub returns 404 on 2026-10-01
 2026-10-01,pettap,PetTap,x,remove,https://x.com/Petoshi_Blast,,"same account listed for unrelated projects: PetTap, Petoshi, GreenOrRed"
-2026-10-01,pizzaton,PizzaTon,website,remove,https://launch.pizzaton.me,,site is gone: http 526 on 2026-10-01
+2026-10-01,pizzaton,PizzaTon,website,down,https://launch.pizzaton.me,https://launch.pizzaton.me,site is gone: http 526 on 2026-10-01
 2026-10-01,pizzaton,PizzaTon,x,remove,https://x.com/pitzaton,,"same account listed for unrelated projects: PizzaTon, Cashbacker"
-2026-10-01,pollo,Pollo,website,remove,https://pollo.vote/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,pollo,Pollo,website,down,https://pollo.vote/,https://pollo.vote/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,polytend-digest,POLYTEND DIGEST,bot,remove,https://t.me/slotapp_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,polytend-digest,POLYTEND DIGEST,x,remove,https://x.com/slotgame_ton,,"same account listed for unrelated projects: POLYTEND DIGEST, Slot Game"
 2026-10-01,polytend-dom,POLYTEND (DOM),x,remove,https://x.com/VirtualsWorlds,,"same account listed for unrelated projects: Mining NFT, POLYTEND (DOM), VWS Utilities, Clicker VWS, VWS Games"
 2026-10-01,polyton-app,Polyton App,x,remove,https://x.com/cohortX_ai,,"same account listed for unrelated projects: Polyton App, AI Buddy"
 2026-10-01,power-ton,Power TON,bot,remove,https://t.me/powertonbot,,username does not exist on t.me on 2026-10-01
 2026-10-01,prebit-io,Prebit.io,telegram,remove,https://t.me/prebit,,username does not exist on t.me on 2026-10-01
-2026-10-01,puffy-games,Puffy Games,website,remove,https://puffy.games/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,puffy-games,Puffy Games,website,down,https://puffy.games/,https://puffy.games/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,pulse,Pulse,telegram,remove,https://t.me/PulseTokenOfficial,,username does not exist on t.me on 2026-10-01
 2026-10-01,pulse,Pulse,x,remove,https://x.com/whalegames_en,,"same account listed for unrelated projects: Welcome to @Whale, Pulse, @WheelOfWhalesBot, Whale"
 2026-10-01,punks-game,Punks Game,x,remove,https://x.com/nakamotoGames,,"same account listed for unrelated projects: Nakamoto Games, Punks Game"
 2026-10-01,pups-ton,PUPS TON,bot,remove,https://t.me/pupsdropbot,,username does not exist on t.me on 2026-10-01
-2026-10-01,purr-fund,Purr.Fund,website,remove,https://www.purr.fund/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,purr-fund,Purr.Fund,website,down,https://www.purr.fund/,https://www.purr.fund/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,qrmint,QRMint,x,remove,https://x.com/whatsgamesio,,"same account listed for unrelated projects: QRMint, WGScoin"
 2026-10-01,quest-labs,Quest Labs,x,confirm,https://x.com/TorchTon,https://x.com/TorchTon,https://t.me/questlabsbot
 2026-10-01,quick,Quick,x,remove,https://x.com/GSHAKE_app,,"same account listed for unrelated projects: Quick, GSHAKE"
-2026-10-01,quton-cash-qtc,QuTON Cash (QTC),website,remove,https://qutoncash.org/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,quton-cash-qtc,QuTON Cash (QTC),website,down,https://qutoncash.org/,https://qutoncash.org/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,raccoon-starz,Raccoon STARZ,x,remove,https://x.com/SnapFly_xyz,,"same account listed for unrelated projects: Snap Fly Bot, Raccoon STARZ"
-2026-10-01,re-doubt,re:doubt,website,remove,https://www.redoubt.online/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,re-doubt,re:doubt,website,down,https://www.redoubt.online/,https://www.redoubt.online/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,reklama-nft-v-telegram,Реклама NFT в Telegram,github,remove,https://github.com/Libgram,,GitHub returns 404 on 2026-10-01
 2026-10-01,reputation-builder,Reputation Builder,x,confirm,https://x.com/GalacticaNet,https://x.com/GalacticaNet,https://t.me/reputationbuilderbot
 2026-10-01,resistance-dog,Resistance Dog,x,remove,https://x.com/redotoken,,"same account listed for unrelated projects: Redo, Resistance Dog"
@@ -335,7 +335,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,scam-detect,Scam-detect,telegram,remove,https://t.me/scam_detect_ru,,username does not exist on t.me on 2026-10-01
 2026-10-01,scanner-message,SCANNER MESSAGE,x,confirm,https://x.com/arbitragescan,https://x.com/arbitragescan,https://arbitragescanner.io
 2026-10-01,scp,SCP,x,remove,https://x.com/mAInet_io,,"same account listed for unrelated projects: SCP, mAInet V2"
-2026-10-01,secondlive-bot,SecondLive Bot,website,remove,https://secondlive.world/,,site is gone: http 530 on 2026-10-01
+2026-10-01,secondlive-bot,SecondLive Bot,website,down,https://secondlive.world/,https://secondlive.world/,site is gone: http 530 on 2026-10-01
 2026-10-01,sender,Sender,x,remove,https://x.com/huntex_bot,,"same account listed for unrelated projects: HunteX, Sender"
 2026-10-01,settleton,SettleTON,website,confirm,https://x.com/TonSettle,https://x.com/TonSettle,https://x.com/TonSettle (page title)
 2026-10-01,settleton,SettleTON,x,confirm,https://x.com/TonSettle,https://x.com/TonSettle,https://x.com/TonSettle
@@ -347,17 +347,17 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,slot-game,Slot Game,bot,remove,https://t.me/slotapp_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,smartest,Smartest,github,remove,https://github.com/wallexchange,,GitHub returns 404 on 2026-10-01
 2026-10-01,smartest,Smartest,x,remove,https://x.com/Wallex_ir,,"same account listed for unrelated projects: wallex, Smartest"
-2026-10-01,snapx,SnapX,website,remove,https://snapx.co/en,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,snapx,SnapX,website,down,https://snapx.co/en,https://snapx.co/en,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,solarian-tech,SOLARIAN TECH,x,remove,https://x.com/MOONTOKENMINING,,"same account listed for unrelated projects: SOLARIAN TECH, MOON TOKEN MINING"
-2026-10-01,space-hunters-ecosystem,Space Hunters Ecosystem,website,remove,https://spacehunters.online,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,space-hunters-ecosystem,Space Hunters Ecosystem,website,down,https://spacehunters.online,https://spacehunters.online,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,spark-zjwxnz,Spark,telegram,remove,https://t.me/SparkOne_Ton,,username does not exist on t.me on 2026-10-01
 2026-10-01,spend,Spend,x,remove,https://x.com/zjor,,"same account listed for unrelated projects: SunKong Bot, Spend, Spend-A-TON"
 2026-10-01,spica,Spica,bot,remove,https://t.me/spicafundingbot,,username does not exist on t.me on 2026-10-01
 2026-10-01,spide,Spide,github,remove,https://github.com/spidesecurity,,GitHub returns 404 on 2026-10-01
 2026-10-01,spike-game,Spike Game,bot,remove,https://t.me/dogespikebot,,username does not exist on t.me on 2026-10-01
-2026-10-01,sportsbet,Sportsbet,website,remove,https://tonshaker.com/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,sportsbet,Sportsbet,website,down,https://tonshaker.com/,https://tonshaker.com/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,sportsbet,Sportsbet,x,remove,https://x.com/tonshaker,,"same account listed for unrelated projects: TON Shaker, Sportsbet"
-2026-10-01,spun-game-app,Spun Game App,website,remove,https://spunmeme.io,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,spun-game-app,Spun Game App,website,down,https://spunmeme.io,https://spunmeme.io,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,squid-ton,SQUID TON,bot,remove,https://t.me/SQUIDTONGAMES_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,squirrel-legend,Squirrel Legend,x,remove,https://x.com/catvsalien,,"same account listed for unrelated projects: Cat vs Alien, Squirrel Legend"
 2026-10-01,stakee,Stakee,x,remove,https://x.com/stable_metal,,"same account listed for unrelated projects: Stakee, Stable Metal"
@@ -372,14 +372,14 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,tago,Tago,telegram,remove,https://t.me/WelcomeToTago,,username does not exist on t.me on 2026-10-01
 2026-10-01,takerobot,TakeRobot,x,remove,https://x.com/TonTakeGame,,"same account listed for unrelated projects: TonTake Bridge, 1323vpn, TonTake (TAKE), TakeRobot, TONvsTAKE, Jetton lucky spin"
 2026-10-01,tand3m,TAND3M,telegram,remove,https://t.me/tand3m_channel,,username does not exist on t.me on 2026-10-01
-2026-10-01,tapcgpt,TapCGPT,website,remove,https://tap.chaingpt.org/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,tapcgpt,TapCGPT,website,down,https://tap.chaingpt.org/,https://tap.chaingpt.org/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,taprush,TapRush,x,remove,https://x.com/BBQ_Coin,,"same account listed for unrelated projects: BBQCoin, TapRush"
 2026-10-01,tapswap-jdcfzr,TapSwap,github,remove,https://github.com/Jackpot-ton,,GitHub returns 404 on 2026-10-01
 2026-10-01,tbc-tvl-ton,TBC TVL TON,x,remove,https://x.com/tonbankcard,,"same account listed for unrelated projects: TONBANKCARD Exchange, Rift, TBC, TBC TVL TON, TON Bridge"
 2026-10-01,tbearbot,TbearBot,x,remove,https://x.com/TBEAR_Ton,,"same account listed for unrelated projects: TbearBot, Bear TON, Urkocoin Tap Game"
 2026-10-01,tbook,tbook,x,remove,https://x.com/cocopark_io,,"same account listed for unrelated projects: tbook, Coco Park"
 2026-10-01,teabank,TeaBank,telegram,remove,https://t.me/tea_bank,,username does not exist on t.me on 2026-10-01
-2026-10-01,teabank,TeaBank,website,remove,https://teabank.io/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,teabank,TeaBank,website,down,https://teabank.io/,https://teabank.io/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,tearline-bot,Tearline Bot,x,remove,https://x.com/Tonshi_2024,,"same account listed for unrelated projects: Tearline Bot, Tonshi"
 2026-10-01,telegram-one-top,Telegram one Top,x,remove,https://x.com/noton_tap,,"same account listed for unrelated projects: notonbot, Telegram one Top"
 2026-10-01,telegram-usd,Telegram USD,x,remove,https://x.com/TorchTon,,"same account listed for unrelated projects: Telegram USD, Telegram USD (tgusd), Quest Labs"
@@ -387,7 +387,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,telegramconnect,telegramconnect,x,remove,https://x.com/ArbitrageScan,,"same account listed for unrelated projects: SCANNER MESSAGE, Wallet Analysis, Wallets Live, telegramconnect, NFT Scanner"
 2026-10-01,teletop,Teletop,x,remove,https://x.com/Tomtalkofficial,,"same account listed for unrelated projects: Teletop, TOM TALK"
 2026-10-01,televerse-odyssey,Televerse Odyssey,x,remove,https://x.com/spicafund,,"same account listed for unrelated projects: Spica, Televerse Odyssey, Spica, Spica Chance"
-2026-10-01,tepe,TEPE,website,remove,https://sirex.io,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,tepe,TEPE,website,down,https://sirex.io,https://sirex.io,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,testnet-faucet,Testnet Faucet,x,remove,https://x.com/paybis,,"same account listed for unrelated projects: Paybis Wallet, Testnet Faucet, Toncoin Converter"
 2026-10-01,tgcasino,TGCasino,bot,remove,https://t.me/tgcasinoofficialbot,,username does not exist on t.me on 2026-10-01
 2026-10-01,tgr-boost,TGR Boost,x,replace,https://x.com/TegroTON,https://x.com/tgrtoken,https://t.me/tegrotonbot
@@ -398,7 +398,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,tic-tac-toe-game-on-telegram,Tic-Tac-Toe: game on Telegram,x,remove,https://x.com/Hasbiland,,"same account listed for unrelated projects: HASBILAND, Tic-Tac-Toe: game on Telegram, HASBi RUN"
 2026-10-01,time-farm,Time Farm,x,confirm,https://x.com/ChronotechNews,https://x.com/ChronotechNews,https://t.me/timefarmchannel
 2026-10-01,time-ton-ecosystem,Time TON Ecosystem,bot,remove,https://t.me/timetonbot,,username does not exist on t.me on 2026-10-01
-2026-10-01,titan,Titan,website,remove,https://titan.tg/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,titan,Titan,website,down,https://titan.tg/,https://titan.tg/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,titon-network,titon.network,github,remove,https://github.com/titon-network,,GitHub returns 404 on 2026-10-01
 2026-10-01,tmnt-game,TMNT Game,x,remove,https://x.com/iMePlatform,,"same account listed for unrelated projects: Uniswap, iMe app, TMNT Game"
 2026-10-01,token-bemo-staked-ton,bemo Staked TON (STTON),telegram,remove,https://t.me/bemofinanceENG,,username does not exist on t.me on 2026-10-01
@@ -414,9 +414,9 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,ton-console,TonAPI,bot,remove,https://t.me/Grokholders_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,ton-dating,TON Dating,x,remove,https://x.com/real_whitedogs,,"same account listed for unrelated projects: TON Dating, Real WhiteDogs"
 2026-10-01,ton-domain-info-bot,TON Domain Info bot,x,remove,https://x.com/coincraddle,,"same account listed for unrelated projects: CoinCraddle, TON Domain Info bot"
-2026-10-01,ton-fonates,TON Fonates,website,remove,https://fonates.com,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,ton-fonates,TON Fonates,website,down,https://fonates.com,https://fonates.com,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,ton-fonates,TON Fonates,x,remove,https://x.com/ton_mochimonkey,,"same account listed for unrelated projects: TON Fonates, Mochi Monkey"
-2026-10-01,ton-galaxy,Ton Galaxy,website,remove,https://tongalaxy.com,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,ton-galaxy,Ton Galaxy,website,down,https://tongalaxy.com,https://tongalaxy.com,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,ton-grafana,TON Grafana,website,confirm,https://tonmon.xyz/,https://tonmon.xyz/,https://tonmon.xyz/ (page title)
 2026-10-01,ton-inu-scanner,Ton Inu Scanner,telegram,remove,https://t.me/toncastnews,,username does not exist on t.me on 2026-10-01
 2026-10-01,ton-notify-bot,TON Notify Bot,x,remove,https://x.com/CoinAppWallet,,"same account listed for unrelated projects: Coin Wallet, TON Notify Bot, Mr BitGenie"
@@ -429,14 +429,14 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,ton-tarot,TON Tarot,x,remove,https://x.com/luckyton8,,"same account listed for unrelated projects: TON Tarot, Lucky TON"
 2026-10-01,ton-testnet-faucet,TON Testnet Faucet,x,remove,https://x.com/TonxStudio,,"same account listed for unrelated projects: TON Search Engine, TON Testnet Faucet"
 2026-10-01,ton-tg-dev-tools,TON & TG Dev Tools,telegram,remove,https://t.me/MJK_Dev_BOT,,username does not exist on t.me on 2026-10-01
-2026-10-01,ton-tools-bot,TON Tools Bot,website,remove,https://snoopybabe.com/bot_ton,,site is gone: http 522 on 2026-10-01
+2026-10-01,ton-tools-bot,TON Tools Bot,website,down,https://snoopybabe.com/bot_ton,https://snoopybabe.com/bot_ton,site is gone: http 522 on 2026-10-01
 2026-10-01,ton-tracker-2,Ton Tracker,x,remove,https://x.com/TonTon_Intract,,"same account listed for unrelated projects: Ton Tracker, TonTon by Intract"
-2026-10-01,ton-trending-bot,TON TRENDING BOT,website,remove,https://insects.vip/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,ton-trending-bot,TON TRENDING BOT,website,down,https://insects.vip/,https://insects.vip/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,ton-trending-bot,TON TRENDING BOT,x,remove,https://x.com/insectsvip,,"same account listed for unrelated projects: TON TRENDING BOT, INSECTS"
 2026-10-01,tonano,Tonano,x,confirm,https://x.com/Ton_scription,https://x.com/Ton_scription,https://t.me/tonanobot
 2026-10-01,toncaps,Toncaps,telegram,remove,https://t.me/toncapsio,,username does not exist on t.me on 2026-10-01
 2026-10-01,toncoin-converter,Toncoin Converter,x,remove,https://x.com/paybis,,"same account listed for unrelated projects: Paybis Wallet, Testnet Faucet, Toncoin Converter"
-2026-10-01,tondb,TONDb,website,remove,https://tondb.app,,site is gone: http 521 on 2026-10-01
+2026-10-01,tondb,TONDb,website,down,https://tondb.app,https://tondb.app,site is gone: http 521 on 2026-10-01
 2026-10-01,tondevwallet,TonDevWallet,x,remove,https://x.com/KiTon_Gaming,,"same account listed for unrelated projects: TonDevWallet, KITON"
 2026-10-01,tondomenbot,TonDomenBot,bot,remove,https://t.me/durovs_protocol_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,tondomenbot,TonDomenBot,telegram,remove,https://t.me/durovs_protocol_news,,username does not exist on t.me on 2026-10-01
@@ -444,45 +444,45 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,tonhub-w,Tonhub,x,remove,https://x.com/whalescorp,,"same account listed for unrelated projects: Tonhub, Walbi, TON Whales, Whales Staking, TON Box"
 2026-10-01,tonjump,TonJump,bot,remove,https://t.me/ton_jump_xyz_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,tonkey,Tonkey,telegram,remove,https://t.me/tonkeyapp,,username does not exist on t.me on 2026-10-01
-2026-10-01,tonnewbie-nr1hca,TonNewbie,website,remove,https://new-jetton.site,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,tonnewbie-nr1hca,TonNewbie,website,down,https://new-jetton.site,https://new-jetton.site,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,tonny,TONNY,x,remove,https://x.com/PixelXFarm,,"same account listed for unrelated projects: TONNY, pixelxfarm_bot"
 2026-10-01,tonogram,TonoGram,telegram,remove,https://t.me/scam_detect_ru,,username does not exist on t.me on 2026-10-01
 2026-10-01,tonpad,TONpad,bot,remove,https://t.me/Tonpad_launchbot,,username does not exist on t.me on 2026-10-01
-2026-10-01,tonpad,TONpad,website,remove,https://app.tonpad.space,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,tonpad,TONpad,website,down,https://app.tonpad.space,https://app.tonpad.space,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,tonpad,TONpad,x,confirm,https://x.com/TON_launchpad,https://x.com/TON_launchpad,https://t.me/TONpad_news
 2026-10-01,tonpie,TONpie,x,remove,https://x.com/Explaceio,,"same account listed for unrelated projects: Explace, TONpie"
 2026-10-01,tonsoffriends,TonsOfFriends,telegram,remove,https://t.me/TonsOfFriends_Ann,,username does not exist on t.me on 2026-10-01
 2026-10-01,tonsonar,TonSonar,website,confirm,https://ozamotailov.github.io/alphaping/,https://ozamotailov.github.io/alphaping/,https://ozamotailov.github.io/alphaping/ (page title)
-2026-10-01,tonspack,Tonspack,website,remove,https://tonspack.com/,,site is gone: domain does not resolve on 2026-10-01
-2026-10-01,tonspay,Tonspay,website,remove,https://www.tonspay.top/,,site is gone: http 404 on 2026-10-01
+2026-10-01,tonspack,Tonspack,website,down,https://tonspack.com/,https://tonspack.com/,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,tonspay,Tonspay,website,down,https://www.tonspay.top/,https://www.tonspay.top/,site is gone: http 404 on 2026-10-01
 2026-10-01,tonspay,Tonspay,x,remove,https://x.com/tonsprotocols,,"same account listed for unrelated projects: Tonspay, LumberJackGame"
 2026-10-01,tonstable,TonStable,bot,remove,https://t.me/TonStableBot,,username does not exist on t.me on 2026-10-01
 2026-10-01,tonstarter,Tonstarter,telegram,remove,https://t.me/tonpro_for_builders,,username does not exist on t.me on 2026-10-01
-2026-10-01,tontake-take,TonTake (TAKE),website,remove,https://www.tontake.website/,,site is gone: http 404 on 2026-10-01
+2026-10-01,tontake-take,TonTake (TAKE),website,down,https://www.tontake.website/,https://www.tontake.website/,site is gone: http 404 on 2026-10-01
 2026-10-01,tontogether,TonTogether,telegram,remove,https://t.me/ton_together,,username does not exist on t.me on 2026-10-01
 2026-10-01,tonturbobot,TONTurbobot,bot,remove,https://t.me/tonturbo_mint_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,tony-vpn,Tony VPN,x,remove,https://x.com/thenotcoin,,"same account listed for unrelated projects: Tony VPN, Notcoin"
 2026-10-01,tonyielding,Tonyielding,bot,remove,https://t.me/tonyieldingbot,,username does not exist on t.me on 2026-10-01
 2026-10-01,tonyielding,Tonyielding,telegram,remove,https://t.me/tonyielding,,username does not exist on t.me on 2026-10-01
-2026-10-01,tonyielding,Tonyielding,website,remove,https://www.tonyielding.com/,,site is gone: domain does not resolve on 2026-10-01
-2026-10-01,tonzcoin,TonzCoin,website,remove,https://testnet.scaleton.co,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,tonyielding,Tonyielding,website,down,https://www.tonyielding.com/,https://www.tonyielding.com/,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,tonzcoin,TonzCoin,website,down,https://testnet.scaleton.co,https://testnet.scaleton.co,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,totkit,TOTKIT,telegram,remove,https://t.me/totkitnews,,username does not exist on t.me on 2026-10-01
-2026-10-01,totkit,TOTKIT,website,remove,https://totkit.org/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,totkit,TOTKIT,website,down,https://totkit.org/,https://totkit.org/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,totkit,TOTKIT,x,remove,https://x.com/bradcommunity,,"same account listed for unrelated projects: TOTKIT, Vottun Dojo"
 2026-10-01,towim,Towim,telegram,remove,https://t.me/theopenwork,,username does not exist on t.me on 2026-10-01
 2026-10-01,towim,Towim,x,remove,https://x.com/PlanetorGame,,"same account listed for unrelated projects: Towim, Planetor"
 2026-10-01,tpib-token,TPIB Token,x,remove,https://x.com/PiBridgeOrg,,"same account listed for unrelated projects: GLOBULA, TPIB Token"
-2026-10-01,trading-bot,Trading Bot,website,remove,https://mytonswap.com,,site is gone: http 521 on 2026-10-01
+2026-10-01,trading-bot,Trading Bot,website,down,https://mytonswap.com,https://mytonswap.com,site is gone: http 521 on 2026-10-01
 2026-10-01,trading-bot,Trading Bot,x,remove,https://x.com/MyTonSwap,,"same account listed for unrelated projects: MyTonSwap, Trading Bot"
 2026-10-01,treasuretapper,TreasureTapper,x,remove,https://x.com/grindery_io,,"same account listed for unrelated projects: EXMO, TreasureTapper"
 2026-10-01,truecoin,Truecoin,x,remove,https://x.com/TRUExWorld,,"same account listed for unrelated projects: BeeVerse By NCTR, Truecoin"
 2026-10-01,trustatonapp-bot,TrustaTONApp_bot,website,confirm,https://trustalabs.ai,https://trustalabs.ai,https://t.me/trustalabsann
 2026-10-01,ttcoin,TTCoin,telegram,remove,https://t.me/tontoncoinoffical,,username does not exist on t.me on 2026-10-01
-2026-10-01,twif-choice,TWIF_choice,website,remove,https://trumpwifcoin.pro/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,twif-choice,TWIF_choice,website,down,https://trumpwifcoin.pro/,https://trumpwifcoin.pro/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,twif-choice,TWIF_choice,x,confirm,https://x.com/TrumpWifCoin,https://x.com/TrumpWifCoin,https://t.me/TWIFchoice_bot
 2026-10-01,twyx,Twyx,telegram,remove,https://t.me/twyx_bot,,username does not exist on t.me on 2026-10-01
 2026-10-01,uniswap,Uniswap,x,remove,https://x.com/iMePlatform,,"same account listed for unrelated projects: Uniswap, iMe app, TMNT Game"
-2026-10-01,unknown,Unknown,website,remove,https://unknown-coin.com,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,unknown,Unknown,website,down,https://unknown-coin.com,https://unknown-coin.com,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,unknown,Unknown,x,remove,https://x.com/unk_coin,,"same account listed for unrelated projects: Unknown, CharacterX"
 2026-10-01,upfin-trading-bot,UpFin Trading Bot,website,confirm,https://bit.ly/4lKLauS,https://bit.ly/4lKLauS,https://bit.ly/4lKLauS (page title)
 2026-10-01,upton,UPTON,x,remove,https://x.com/dashpoolapp,,"same account listed for unrelated projects: DashPool, UPTON"
@@ -494,9 +494,9 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,vanity-ton,Vanity TON,x,remove,https://x.com/earnigram,,"same account listed for unrelated projects: Vanity TON, WhoWhere, Manage Ton Subdomain, Earnigram, Earnigram Prediction"
 2026-10-01,vending-coin-vndg,Vending Coin ($VNDG),github,remove,https://github.com/Vending-Coin/vending-coin.github.io,,GitHub returns 404 on 2026-10-01
 2026-10-01,verify,Verify,x,remove,https://x.com/tribeton,,"same account listed for unrelated projects: Verify, TRIBE marketplace"
-2026-10-01,vottun-dojo,Vottun Dojo,website,remove,https://thebrad.space/,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,vottun-dojo,Vottun Dojo,website,down,https://thebrad.space/,https://thebrad.space/,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,vottun-dojo,Vottun Dojo,x,remove,https://x.com/bradcommunity,,"same account listed for unrelated projects: TOTKIT, Vottun Dojo"
-2026-10-01,vws-utilities,VWS Utilities,website,remove,https://virtualsworlds.online,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,vws-utilities,VWS Utilities,website,down,https://virtualsworlds.online,https://virtualsworlds.online,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,vws-utilities,VWS Utilities,x,remove,https://x.com/VirtualsWorlds,,"same account listed for unrelated projects: Mining NFT, POLYTEND (DOM), VWS Utilities, Clicker VWS, VWS Games"
 2026-10-01,walbi,Walbi,x,remove,https://x.com/whalescorp,,"same account listed for unrelated projects: Tonhub, Walbi, TON Whales, Whales Staking, TON Box"
 2026-10-01,wallet,@Walt,x,remove,https://x.com/architec_ton,,"same account listed for unrelated projects: @Walt, Architect.ton"
@@ -512,7 +512,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,web3-gem,Web3 Gem,x,remove,https://x.com/RoachRacingClub,,"same account listed for unrelated projects: Roach Racing Club, Web3 Gem"
 2026-10-01,web3-jobs-bot,Web3 Jobs Bot,telegram,remove,https://t.me/tonpro_for_builders,,username does not exist on t.me on 2026-10-01
 2026-10-01,web3events,Web3Events,telegram,remove,https://t.me/web3events_eng,,username does not exist on t.me on 2026-10-01
-2026-10-01,webdosa,WebDosa,website,remove,https://webdosa.app,,site is gone: http 530 on 2026-10-01
+2026-10-01,webdosa,WebDosa,website,down,https://webdosa.app,https://webdosa.app,site is gone: http 530 on 2026-10-01
 2026-10-01,wgscoin,WGScoin,x,remove,https://x.com/whatsgamesio,,"same account listed for unrelated projects: QRMint, WGScoin"
 2026-10-01,whale,Whale,telegram,remove,https://t.me/whalesocials2,,username does not exist on t.me on 2026-10-01
 2026-10-01,what-swap,What Swap,telegram,remove,https://t.me/bigbangbusiness,,username does not exist on t.me on 2026-10-01
@@ -520,8 +520,8 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,xblast-app,xBLAST APP,x,remove,https://x.com/Ton_Capy,,"same account listed for unrelated projects: TonCapy, xBLAST APP"
 2026-10-01,xrareio,xRareio,x,remove,https://x.com/0xVersus,,"same account listed for unrelated projects: xRareio, Versus"
 2026-10-01,xton-launchpad,XTON Launchpad,x,remove,https://x.com/NobbyGame,,"same account listed for unrelated projects: Nobby.Game Fortune, NobbyGame Royale SOX, XTON Launchpad, Nobby Game"
-2026-10-01,zencoin,ZenCoin,website,remove,https://panicboo.co/,,site is gone: domain does not resolve on 2026-10-01
-2026-10-01,zonerift-vpn,zonerift VPN,website,remove,https://zonerift.com,,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,zencoin,ZenCoin,website,down,https://panicboo.co/,https://panicboo.co/,site is gone: domain does not resolve on 2026-10-01
+2026-10-01,zonerift-vpn,zonerift VPN,website,down,https://zonerift.com,https://zonerift.com,site is gone: domain does not resolve on 2026-10-01
 2026-10-01,bitget,Bitget,x,replace,https://x.com/tonstonks,https://x.com/bitget,https://t.me/bitget_announcements posts link to x.com/bitget
 2026-10-01,trustatonapp-bot,TrustaTONApp_bot,x,confirm,https://x.com/TrustaLabs,https://x.com/TrustaLabs,https://t.me/trustalabsann posts link to x.com/trustalabs
 2026-10-01,elephantstorebot,Elephant Store,x,confirm,https://x.com/ownthedoge,https://x.com/ownthedoge,https://t.me/slon_market posts link to x.com/ownthedoge
@@ -770,247 +770,250 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,the-future-is-ton,the future is TON,x,confirm,https://x.com/cointool,https://x.com/cointool,profile links to ct.app (x profile)
 2026-10-01,tonvstake,TONvsTAKE,x,remove,https://x.com/TonTakeGame,,"@TonTakeGame is ""@TonTake"", the account of Zernosklad (x profile)"
 2026-10-01,fantasygame-bitplay,FantasyGame,x,remove,https://x.com/catplanetstg,,"@catplanetstg is ""Cat Planets"", the account of Cat Planets (x profile)"
+2026-10-02,pepe-miner-bot,PEPE Miner Bot,x,confirm,https://x.com/ArcadiaWeb3_0,https://x.com/ArcadiaWeb3_0,profile links to arcadiaweb3.net (x profile)
 2026-10-01,frutoncrypto,Frutoncrypto,x,remove,https://x.com/Pleasure_PLQT,,"@Pleasure_PLQT is ""Pleasure Quest"", the account of Pleasure Quest (x profile)"
 2026-10-01,wheelofwhalesbot,@WheelOfWhalesBot,x,remove,https://x.com/whalegames_en,,"@WhaleGames_en is ""Whale"", the account of Whale (x profile)"
-2026-10-01,tonflow-wallet,Tonflow Wallet,website,remove,https://tonflow.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,papa-carlo-bot,PAPA CARLO BOT,website,remove,https://papacarlo.tech,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-web-ide,TON Web IDE,website,remove,https://ide.ton.org,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,dashpool,DashPool,website,remove,https://dashpool.ai,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,dton-forum,dTON Forum,website,remove,https://tech.dton.сo,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-research,Ton Research,website,remove,https://www.flutterbees.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,token-hamster-kombat,Hamster Kombat (HMSTR),website,remove,https://hamster.network,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-street-boys,Ton Street Boys,website,remove,https://tonstreetboys.xyz,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,mining-nft,Mining NFT,website,remove,https://virtualsworlds.online,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,3-14xl-pixel,3.14XL (Pixel),website,remove,https://pi.oberton.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,animals-cyberpunk,Animals Cyberpunk,website,remove,https://animalscyberpunk.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,bitcoinjet,BitcoinJet,website,remove,https://bitcoinjet.ru,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,camels,CAMELS,website,remove,https://game.charisma.lol/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,crazy-llama-farm-nft,Crazy Llama Farm NFT,website,remove,https://crazyllama.farm,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,dangerous-chickens,Dangerous Chickens,website,remove,https://dc-ton.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,dc-ton,DC TON,website,remove,https://dc-ton.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,montessori-school,Montessori School,website,remove,https://montenft.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,smart-tigers,SMART TIGERS,website,remove,https://stteam.pro/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,spacediscosheep,SPACEDISCOSHEEP,website,remove,https://spacedisco.world,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,teiko,TEIKO,website,remove,https://teiko.me/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,tenere-slopy,Tenere Slopy,website,remove,https://slopy.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,tenere-wanderlust,Tenere Wanderlust,website,remove,https://teneretoken.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-fingerprints,TON Fingerprints,website,remove,https://nft.mir.one/fingerprints,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,tondons,TONDONS,website,remove,https://tondons.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,white-rabbit-ton,White Rabbit TON,website,remove,https://whiteclub.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,playmuse,Playmuse,website,remove,https://playmuse.org,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,tonium-world,Tonium World,website,remove,https://tonium.world,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,angga-code,Angga Code,website,remove,https://angga.me,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,cookie-nft,Cookie NFT,website,remove,https://cookietoken.net/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,cossacks-nft,Cossacks NFT,website,remove,https://cossacks.shop/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-gifts,TON Gifts,website,remove,https://retrocoin.me,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,plays-hub,PLAYS Hub,website,remove,https://playshub.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,gaspump-1,GasPump,website,remove,https://gaspump.tg,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,digiverse-pzj157,digiverse,website,remove,https://tgapp.digibuy.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,the-saudis-ton,The Saudis TON,website,remove,https://thesaudis.ton-s.cam,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,commander,Commander,website,remove,https://www.toncommander.fun/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,glow,Glow,website,remove,https://secretglow.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,revyou,RevYou,website,remove,https://revyou.xyz/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,tons-of-dungeons,TONs of Dungeons,website,remove,https://tonsofdungeons.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,the-2-chairs,The 2 Chairs,website,remove,https://game.the2chairs.top/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,snaketon,SnakeTON,website,remove,https://snaketon.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,monkeyrush,MonkeyRush,website,remove,https://monkeyrush.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,bird,BIRD,website,remove,https://birdton.site,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,puparty,Puparty,website,remove,https://puparty.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,flutter-bees,Flutter Bees,website,remove,https://www.flutterbees.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,dealton,DealTON,website,remove,https://www.dealton.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ludoton,LudoTON,website,remove,https://www.ludoton.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,bear-ton,Bear TON,website,remove,https://www.tonbear.vip/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,sanctum-ai,Sanctum AI,website,remove,https://sanctumworlds.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,dogin-hood,Dogin Hood,website,remove,https://doginhood.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,cryptoworms,CryptoWorms,website,remove,https://cryptoworms.online,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,efootballmanager,efootballmanager,website,remove,https://e-footballmanager.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,metaboss,MetaBoss,website,remove,https://metaboss.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,mochi-monkey,Mochi Monkey,website,remove,https://mochimonkey.net,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,neko-box,NEKO Box,website,remove,https://neko-ton.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,portal-fantasy,Portal Fantasy,website,remove,https://portalfantasy.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,caton,CaTon,website,remove,https://www.caton.website/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ai-buddy,AI Buddy,website,remove,https://web.vbuddy.xyz,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-pirate-kings,TON Pirate Kings,website,remove,https://tonpiratekings.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,cat-vs-alien,Cat vs Alien,website,remove,https://catvsalien.ai/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,tapmemes,TapMemes,website,remove,https://www.soonverse.xyz/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,beeton,BeeTon,website,remove,https://beetongame.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-milk,Ton Milk,website,remove,https://tonmilk.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,jokecoin,Jokecoin,website,remove,https://jokeco.in/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,quackquack,QuackQuack,website,remove,https://quackquack.games/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,cakon,Cakon,website,remove,https://cakon.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,otter-loot,Otter Loot,website,remove,https://otterloot.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,chickizen,Chickizen,website,remove,https://docs.chickizen.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,squid,Squid,website,remove,https://squidtg.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,catopia,Catopia,website,remove,https://catopia.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,notmeme-app,NOTMEME app,website,remove,https://notmeme.xyz,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,meme-battle,Meme Battle,website,remove,https://memebattle.app/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,tg-games,TG GAMES,website,remove,https://tg.games,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-shaker,TON Shaker,website,remove,https://tonshaker.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,memetd,MemeTD,website,remove,https://memetd.game/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,memetv,MemeTV,website,remove,https://memetv.fun,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,scroo-g,Scroo-G,website,remove,https://scroo-g.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,quack-attack,Quack Attack,website,remove,https://www.quackattackgame.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,asset-mart,Asset Mart,website,remove,https://assetmart.co/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,braveminer,BraveMiner,website,remove,https://bfbsport.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,chainmedia,Chainmedia链媒,website,remove,https://chainmedia.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,cosmostap,CosmosTap,website,remove,https://cosmostap.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,cryptomine-cgs,CryptoMine CGS,website,remove,https://cryptogameio.com.ru/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,dfantasy,Dfantasy,website,remove,https://app.dfantasy.pro/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,don-ton,DON TON,website,remove,https://donton.net/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,farmaton-land,Farmaton land,website,remove,https://farmaton.app/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,gram-city,GRAM CITY,website,remove,https://gcapp.games/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,gshake,GSHAKE,website,remove,https://gshake.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ikeeper,IKEEPER,website,remove,https://ikeeper.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,king-of-dragons,King of Dragons,website,remove,https://www.playkod.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,lucky-spins,Lucky Spins,website,remove,https://luckyspinsgame.net,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,masterverses,Masterverses,website,remove,https://masterverses.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,memes-corp,Memes Corp.,website,remove,https://memescorp.xyz/en,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,mowton,MOWTON,website,remove,https://mow.game/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,nothero,NOTHERO,website,remove,https://notnotcoin.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,quokkacoin,QuokkaCoin,website,remove,https://quokka-coin.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,racoin-app,Racoin APP,website,remove,https://racoin.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,wallet-league,Wallet League,website,remove,https://walletleague.club,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,aec-ton,AEC TON,website,remove,https://aecton.space/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,tonion,Tonion,website,remove,https://tonion.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-realm,Ton Realm,website,remove,https://tonrealm.com/landing,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,pixieland,Pixieland,website,remove,https://PixieLand.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,corn-battles,Corn Battles,website,remove,https://tonbox.me,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,tonopolis,TONopolis,website,remove,https://www.tonopolisgame.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,blops,Blops,website,remove,https://blops.wiki,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,zggy,ZGGY,website,remove,https://zggy.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,native-survivors,Native Survivors,website,remove,https://survivors-project.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,lucky-ton,Lucky TON,website,remove,https://lucky-ton.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,tapjenix,Tapjenix,website,remove,https://tapjenix.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,blockrain,Blockrain,website,remove,https://blockrain.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,bfb-sport,BFB Sport,website,remove,https://bfbsport.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,catirace,Catirace,website,remove,https://catirace.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,magiton,Magiton,website,remove,https://magiton.online/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,not-quiz,Not Quiz,website,remove,https://notQuiz.online,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-cook,TON Cook,website,remove,https://toncook.fun/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,yescoin-pf3wj6,Yescoin,website,remove,https://yesco.in/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,baks-ton-game,BAKS TON GAME,website,remove,https://baks.tgstore.app/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,yumify,Yumify,website,remove,https://yumify.one,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,happy-farmer,Happy Farmer,website,remove,https://www.happyfarmer.ai/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,dakecoin,Dakecoin,website,remove,https://dake.xyz/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,hamster,Hamster,website,remove,https://hamster.network,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,humanpass,HumanPass,website,remove,https://www.humanpass.ai,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,chiliversus,ChiliVersus,website,remove,https://chiliversus.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,boom,$BOOM,website,remove,https://tonbox.me,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,flagship-crypto,Flagship Crypto,website,remove,https://flagship.fyi,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,anycraft,Anycraft,website,remove,https://anycraft.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,cryptotonmines,CryptoTonMines,website,remove,https://www.cryptotonmines.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,paragonz,ParagonZ,website,remove,https://paragonz.me/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,moewbie,Moewbie,website,remove,https://moewbie.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,vws-games,VWS Games,website,remove,https://virtualsworlds.online,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,hexmine,#HexMine,website,remove,https://tbitcoin.online,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,challenquizbot,ChallenQuizBot,website,remove,https://challenquiz.online,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,fig-farm,$FIG FARM,website,remove,https://figfarm.pro,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,retro,$RETRO,website,remove,https://retrocoin.me,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,1xmm-market-master,1xMM Market Master,website,remove,https://one-xmm.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,tontribebot,@tontribebot,website,remove,https://tribeton.app/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,afkpepe-bot,AFKPepe Bot,website,remove,https://afkpepe.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,airbot,Airbot,website,remove,https://airbot-crypto.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ask-coin,Ask Coin,website,remove,https://askcoin.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,astrex,ASTREX,website,remove,https://www.astrex.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,awaken-citizen,Awaken Citizen,website,remove,https://playawaken.xyz/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,betfury-cryptodrop,BetFury Cryptodrop,website,remove,https://cryptodrop.ai/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,boss,BOSS,website,remove,https://bossmbtcoin.pp.ua,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,buinkers,Buinkers,website,remove,https://bot.buinkers.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,combatx,CombatX,website,remove,https://www.combatx.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,crypto-masons,Crypto Masons,website,remove,https://cryptomasonsgame.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,dog-mutant,Dog Mutant,website,remove,https://dogmutant.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,fortunehusky,FortuneHusky,website,remove,https://www.FortuneHusky.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,gemwall,Gemwall,website,remove,https://gemwall.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,giraffe-kombat,Giraffe Kombat,website,remove,https://giraffekombat.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,grand-combat,GRAND COMBAT,website,remove,https://grandcombat.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,grand-journey,Grand Journey,website,remove,https://www.grandjourney.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,hero-guild,Hero Guild,website,remove,https://www.heroguildapp.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,kingcoin,KingCoin,website,remove,https://kingcoin.tech/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,malldriven-game,MallDriven Game,website,remove,https://Malldriven.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,me-earn-mine-mea,Me Earn,website,remove,https://www.meearn.club,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,memeow,MEMEOW,website,remove,https://memeow.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,miner-rush,Miner Rush,website,remove,https://minerrush.fun/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,monkey-play,Monkey Play,website,remove,https://www.monkeyplay.xyz/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,mushroom-warrior,Mushroom Warrior,website,remove,https://mushcoin.xyz/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,oxygen-hunters,Oxygen Hunters,website,remove,https://oxc.world/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,pehe-kingdom,PEHE Kingdom,website,remove,https://pehe.pro/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,pokergram,Pokergram,website,remove,https://www.pokergram.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,puffs-dragon,Puffs Dragon,website,remove,https://puffsdragon.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,px-tarot,PX Tarot,website,remove,https://pxtarot.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,qubix-arena,Qubix Arena,website,remove,https://www.qubixinfinity.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,rumble-arcade,Rumble Arcade,website,remove,https://www.rumblearcade.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,telegram-fights,Telegram Fights,website,remove,https://toncoingame.ru/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-miner-gold,Ton Miner Gold,website,remove,https://tonminer.co/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-mole,TON MOLE,website,remove,https://tonmole.com&source:tonapps,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-titan,Ton Titan,website,remove,https://tontitan.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-ton-coin,Ton Ton Coin,website,remove,https://www.ttcoin.online/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-world,TON World,website,remove,https://world.tons.me,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,versus,Versus,website,remove,https://versus.app/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,vibecoin,VibeCoin,website,remove,https://vibeminiapp.online,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,wordly,Wordly,website,remove,https://yldrow.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,wow,Wow,website,remove,https://thewarriorofwealth.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,x-bull,X Bull,website,remove,https://x-bull.pp.ua,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,xd2048,XD2048,website,remove,https://xd2048.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,zombietrain,ZombieTrain,website,remove,https://zombietra.in/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,slimak-adventures,Slimak Adventures,website,remove,https://slimak-world.ton,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,other-worlds-ton,Other Worlds TON,website,remove,https://other-worlds.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,erax,ERAX,website,remove,https://erax-reward.pp.ua,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,brainscoin,BrainsCoin,website,remove,https://brainsco.in,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,fananas,Fananas,website,remove,https://ton.fananas.world,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,goblin-mine-game,Goblin Mine Game,website,remove,https://goblinmine.game/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,goblin-s-garage,Goblin’s Garage,website,remove,https://goblins-garage.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,space-hunters-hub,Space Hunters HUB,website,remove,https://spacehunters.online,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,drifterz,Drifterz,website,remove,https://drifterz.app/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,sphynx,Sphynx,website,remove,https://sphynx.meme,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,spacefarm,SpaceFarm,website,remove,https://crypto-farm.space/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,noxecoin,Noxecoin,website,remove,https://noxeco.in/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,not-shiba,Not Shiba,website,remove,https://notshiba.org,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,bibizean-tcg,Bibizean TCG,website,remove,https://bibizean.fun/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,myleg,MyLeg,website,remove,https://www.myleg.xyz,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,apiary,Apiary,website,remove,https://www.syrupal.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,lizarts,LizArts,website,remove,https://lizartsworld.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,piston-hub,Piston Hub,website,remove,https://piston.live/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,space-birds,Space Birds,website,remove,https://space-birds.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,bank-miner-wbt,Bank Miner WBT,website,remove,https://minerwbt.cc,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,muduck-io,MUDUCK.IO,website,remove,https://muduck.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,panda-gold-miner,Panda Gold Miner,website,remove,https://pandagoldminer.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,happy-llama,Happy Llama,website,remove,https://happyllama.farm,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,voltum,VOLTUM,website,remove,https://voltum.cc/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,taptap,TapTap,website,remove,https://taptap.bot,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,rooster-fights,Rooster Fights,website,remove,https://marketplace.roosterfights.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,bahne-ai,Bahne AI,website,remove,https://bahne.ai,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,shiok,Shiok,website,remove,https://shiok.fun/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,aao-all-at-once,AAO,website,remove,https://aao.game,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,cryston,Cryston,website,remove,https://cryston.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,cosmic-invaders,Cosmic Invaders,website,remove,https://cosmicinvaders.pro,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,epic-battle,EPIC BATTLE,website,remove,https://epicbattle.co/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,dropshit,Dropshit,website,remove,https://dropshit.xyz/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,tonbat-miner,TONBAT Miner,website,remove,https://tonbat.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,the-five-realms,The Five Realms,website,remove,https://fiverealms.ai,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,panicoin,PaniCoin,website,remove,https://panicboo.co/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,cookiebitten,CookieBitten,website,remove,https://cookietoken.net/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,power-ton,Power TON,website,remove,https://www.powerton.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,bitcoinjet-game-bot,BitcoinJet Game bot,website,remove,https://bitcoinjet.ru,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,minutka,MINUTKA,website,remove,https://tonminute.app/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,mono-casino,Mono Casino,website,remove,https://mono.casino,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,plane-gift,Plane.gift,website,remove,https://plane.gift/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,random-tg,Random.tg,website,remove,https://random.tg,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,spica-lottery,Spica,website,remove,https://spica.fund,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,spinarena,SpinArena,website,remove,https://web.topslotsarena.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,tgpoker,TGPoker,website,remove,https://www.tgpoker.win/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,thepredictorx,ThePredictorX,website,remove,https://thepredictorx.app/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-fruits,TON Fruits,website,remove,https://ton-fruits.shop/game?utm_campaign=tonapp,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-lottery,TON Lottery,website,remove,https://lot-ton.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,tondice,TonDice,website,remove,https://tondice.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,jackdaw-flip,JackDaw Flip,website,remove,https://jackdawflip.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,fairgram-predict-gas,FairGram Predict Gas,website,remove,https://fairgram.me/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ohplay,OhPlay,website,remove,https://ohplay.club/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ultimate-poker,Ultimate Poker,website,remove,https://ultimatepoker.io/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,uluru-bet,ULURU BET,website,remove,https://ulurubet.com,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,cyberpunk-r,Cyberpunk R,website,remove,https://Cyberpunkr.io,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,tonjiggle,TONJiggle,website,remove,https://tonjiggle.com/,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,ton-bingo,TON Bingo,website,remove,https://tonbingo.app,,site is gone: domain does not resolve on 2026-10-01 (dns)
-2026-10-01,megadice,Megadice,website,remove,https://games.paraliq.com/ton/megadice/,,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tonflow-wallet,Tonflow Wallet,website,down,https://tonflow.app,https://tonflow.app,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,papa-carlo-bot,PAPA CARLO BOT,website,down,https://papacarlo.tech,https://papacarlo.tech,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-web-ide,TON Web IDE,website,down,https://ide.ton.org,https://ide.ton.org,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,dashpool,DashPool,website,down,https://dashpool.ai,https://dashpool.ai,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,dton-forum,dTON Forum,website,down,https://tech.dton.сo,https://tech.dton.сo,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-research,Ton Research,website,down,https://www.flutterbees.app,https://www.flutterbees.app,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,token-hamster-kombat,Hamster Kombat (HMSTR),website,down,https://hamster.network,https://hamster.network,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-street-boys,Ton Street Boys,website,down,https://tonstreetboys.xyz,https://tonstreetboys.xyz,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,mining-nft,Mining NFT,website,down,https://virtualsworlds.online,https://virtualsworlds.online,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,3-14xl-pixel,3.14XL (Pixel),website,down,https://pi.oberton.io/,https://pi.oberton.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,animals-cyberpunk,Animals Cyberpunk,website,down,https://animalscyberpunk.com,https://animalscyberpunk.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,bitcoinjet,BitcoinJet,website,down,https://bitcoinjet.ru,https://bitcoinjet.ru,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,camels,CAMELS,website,down,https://game.charisma.lol/,https://game.charisma.lol/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,crazy-llama-farm-nft,Crazy Llama Farm NFT,website,down,https://crazyllama.farm,https://crazyllama.farm,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,dangerous-chickens,Dangerous Chickens,website,down,https://dc-ton.com/,https://dc-ton.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,dc-ton,DC TON,website,down,https://dc-ton.com/,https://dc-ton.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,montessori-school,Montessori School,website,down,https://montenft.com,https://montenft.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,smart-tigers,SMART TIGERS,website,down,https://stteam.pro/,https://stteam.pro/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,spacediscosheep,SPACEDISCOSHEEP,website,down,https://spacedisco.world,https://spacedisco.world,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,teiko,TEIKO,website,down,https://teiko.me/,https://teiko.me/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tenere-slopy,Tenere Slopy,website,down,https://slopy.io,https://slopy.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tenere-wanderlust,Tenere Wanderlust,website,down,https://teneretoken.com,https://teneretoken.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-fingerprints,TON Fingerprints,website,down,https://nft.mir.one/fingerprints,https://nft.mir.one/fingerprints,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tondons,TONDONS,website,down,https://tondons.com,https://tondons.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,white-rabbit-ton,White Rabbit TON,website,down,https://whiteclub.io/,https://whiteclub.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,playmuse,Playmuse,website,down,https://playmuse.org,https://playmuse.org,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tonium-world,Tonium World,website,down,https://tonium.world,https://tonium.world,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,angga-code,Angga Code,website,down,https://angga.me,https://angga.me,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,cookie-nft,Cookie NFT,website,down,https://cookietoken.net/,https://cookietoken.net/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,cossacks-nft,Cossacks NFT,website,down,https://cossacks.shop/,https://cossacks.shop/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-gifts,TON Gifts,website,down,https://retrocoin.me,https://retrocoin.me,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,plays-hub,PLAYS Hub,website,down,https://playshub.io/,https://playshub.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,gaspump-1,GasPump,website,down,https://gaspump.tg,https://gaspump.tg,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,digiverse-pzj157,digiverse,website,down,https://tgapp.digibuy.io/,https://tgapp.digibuy.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,the-saudis-ton,The Saudis TON,website,down,https://thesaudis.ton-s.cam,https://thesaudis.ton-s.cam,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,commander,Commander,website,down,https://www.toncommander.fun/,https://www.toncommander.fun/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,glow,Glow,website,down,https://secretglow.io,https://secretglow.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,revyou,RevYou,website,down,https://revyou.xyz/,https://revyou.xyz/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tons-of-dungeons,TONs of Dungeons,website,down,https://tonsofdungeons.com/,https://tonsofdungeons.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,the-2-chairs,The 2 Chairs,website,down,https://game.the2chairs.top/,https://game.the2chairs.top/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,snaketon,SnakeTON,website,down,https://snaketon.com/,https://snaketon.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,monkeyrush,MonkeyRush,website,down,https://monkeyrush.app,https://monkeyrush.app,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,bird,BIRD,website,down,https://birdton.site,https://birdton.site,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,puparty,Puparty,website,down,https://puparty.com,https://puparty.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,flutter-bees,Flutter Bees,website,down,https://www.flutterbees.app,https://www.flutterbees.app,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,dealton,DealTON,website,down,https://www.dealton.io/,https://www.dealton.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ludoton,LudoTON,website,down,https://www.ludoton.io/,https://www.ludoton.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,bear-ton,Bear TON,website,down,https://www.tonbear.vip/,https://www.tonbear.vip/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-02,slimewifhat,Slimewifhat,website,down,https://slimewifcoin.xyz,https://slimewifcoin.xyz,site is gone: domain does not resolve on 2026-10-02 (dns)
+2026-10-01,sanctum-ai,Sanctum AI,website,down,https://sanctumworlds.com/,https://sanctumworlds.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,dogin-hood,Dogin Hood,website,down,https://doginhood.io,https://doginhood.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,cryptoworms,CryptoWorms,website,down,https://cryptoworms.online,https://cryptoworms.online,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,efootballmanager,efootballmanager,website,down,https://e-footballmanager.com/,https://e-footballmanager.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,metaboss,MetaBoss,website,down,https://metaboss.io/,https://metaboss.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,mochi-monkey,Mochi Monkey,website,down,https://mochimonkey.net,https://mochimonkey.net,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,neko-box,NEKO Box,website,down,https://neko-ton.com/,https://neko-ton.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,portal-fantasy,Portal Fantasy,website,down,https://portalfantasy.io,https://portalfantasy.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,caton,CaTon,website,down,https://www.caton.website/,https://www.caton.website/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ai-buddy,AI Buddy,website,down,https://web.vbuddy.xyz,https://web.vbuddy.xyz,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-pirate-kings,TON Pirate Kings,website,down,https://tonpiratekings.com/,https://tonpiratekings.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,cat-vs-alien,Cat vs Alien,website,down,https://catvsalien.ai/,https://catvsalien.ai/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tapmemes,TapMemes,website,down,https://www.soonverse.xyz/,https://www.soonverse.xyz/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,beeton,BeeTon,website,down,https://beetongame.com,https://beetongame.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-milk,Ton Milk,website,down,https://tonmilk.com,https://tonmilk.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,jokecoin,Jokecoin,website,down,https://jokeco.in/,https://jokeco.in/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,quackquack,QuackQuack,website,down,https://quackquack.games/,https://quackquack.games/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,cakon,Cakon,website,down,https://cakon.io/,https://cakon.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,otter-loot,Otter Loot,website,down,https://otterloot.io/,https://otterloot.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,chickizen,Chickizen,website,down,https://docs.chickizen.com/,https://docs.chickizen.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,squid,Squid,website,down,https://squidtg.com/,https://squidtg.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,catopia,Catopia,website,down,https://catopia.io/,https://catopia.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,notmeme-app,NOTMEME app,website,down,https://notmeme.xyz,https://notmeme.xyz,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,meme-battle,Meme Battle,website,down,https://memebattle.app/,https://memebattle.app/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tg-games,TG GAMES,website,down,https://tg.games,https://tg.games,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-shaker,TON Shaker,website,down,https://tonshaker.com/,https://tonshaker.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,memetd,MemeTD,website,down,https://memetd.game/,https://memetd.game/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,memetv,MemeTV,website,down,https://memetv.fun,https://memetv.fun,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,scroo-g,Scroo-G,website,down,https://scroo-g.com,https://scroo-g.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,quack-attack,Quack Attack,website,down,https://www.quackattackgame.com/,https://www.quackattackgame.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,asset-mart,Asset Mart,website,down,https://assetmart.co/,https://assetmart.co/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,braveminer,BraveMiner,website,down,https://bfbsport.com/,https://bfbsport.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,chainmedia,Chainmedia链媒,website,down,https://chainmedia.io,https://chainmedia.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,cosmostap,CosmosTap,website,down,https://cosmostap.com/,https://cosmostap.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,cryptomine-cgs,CryptoMine CGS,website,down,https://cryptogameio.com.ru/,https://cryptogameio.com.ru/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,dfantasy,Dfantasy,website,down,https://app.dfantasy.pro/,https://app.dfantasy.pro/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,don-ton,DON TON,website,down,https://donton.net/,https://donton.net/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,farmaton-land,Farmaton land,website,down,https://farmaton.app/,https://farmaton.app/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,gram-city,GRAM CITY,website,down,https://gcapp.games/,https://gcapp.games/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,gshake,GSHAKE,website,down,https://gshake.io,https://gshake.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ikeeper,IKEEPER,website,down,https://ikeeper.app,https://ikeeper.app,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,king-of-dragons,King of Dragons,website,down,https://www.playkod.com,https://www.playkod.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,lucky-spins,Lucky Spins,website,down,https://luckyspinsgame.net,https://luckyspinsgame.net,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,masterverses,Masterverses,website,down,https://masterverses.com/,https://masterverses.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,memes-corp,Memes Corp.,website,down,https://memescorp.xyz/en,https://memescorp.xyz/en,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,mowton,MOWTON,website,down,https://mow.game/,https://mow.game/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,nothero,NOTHERO,website,down,https://notnotcoin.com/,https://notnotcoin.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,quokkacoin,QuokkaCoin,website,down,https://quokka-coin.com,https://quokka-coin.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,racoin-app,Racoin APP,website,down,https://racoin.app,https://racoin.app,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,wallet-league,Wallet League,website,down,https://walletleague.club,https://walletleague.club,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,aec-ton,AEC TON,website,down,https://aecton.space/,https://aecton.space/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tonion,Tonion,website,down,https://tonion.io,https://tonion.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-realm,Ton Realm,website,down,https://tonrealm.com/landing,https://tonrealm.com/landing,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,pixieland,Pixieland,website,down,https://PixieLand.io,https://PixieLand.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,corn-battles,Corn Battles,website,down,https://tonbox.me,https://tonbox.me,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tonopolis,TONopolis,website,down,https://www.tonopolisgame.com,https://www.tonopolisgame.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,blops,Blops,website,down,https://blops.wiki,https://blops.wiki,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,zggy,ZGGY,website,down,https://zggy.io/,https://zggy.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,native-survivors,Native Survivors,website,down,https://survivors-project.com,https://survivors-project.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,lucky-ton,Lucky TON,website,down,https://lucky-ton.com,https://lucky-ton.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tapjenix,Tapjenix,website,down,https://tapjenix.io,https://tapjenix.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,blockrain,Blockrain,website,down,https://blockrain.io,https://blockrain.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,bfb-sport,BFB Sport,website,down,https://bfbsport.com/,https://bfbsport.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,catirace,Catirace,website,down,https://catirace.com,https://catirace.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,magiton,Magiton,website,down,https://magiton.online/,https://magiton.online/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,not-quiz,Not Quiz,website,down,https://notQuiz.online,https://notQuiz.online,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-cook,TON Cook,website,down,https://toncook.fun/,https://toncook.fun/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,yescoin-pf3wj6,Yescoin,website,down,https://yesco.in/,https://yesco.in/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,baks-ton-game,BAKS TON GAME,website,down,https://baks.tgstore.app/,https://baks.tgstore.app/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,yumify,Yumify,website,down,https://yumify.one,https://yumify.one,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,happy-farmer,Happy Farmer,website,down,https://www.happyfarmer.ai/,https://www.happyfarmer.ai/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,dakecoin,Dakecoin,website,down,https://dake.xyz/,https://dake.xyz/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,hamster,Hamster,website,down,https://hamster.network,https://hamster.network,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,humanpass,HumanPass,website,down,https://www.humanpass.ai,https://www.humanpass.ai,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,chiliversus,ChiliVersus,website,down,https://chiliversus.com/,https://chiliversus.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,boom,$BOOM,website,down,https://tonbox.me,https://tonbox.me,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,flagship-crypto,Flagship Crypto,website,down,https://flagship.fyi,https://flagship.fyi,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,anycraft,Anycraft,website,down,https://anycraft.io,https://anycraft.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,cryptotonmines,CryptoTonMines,website,down,https://www.cryptotonmines.com/,https://www.cryptotonmines.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,paragonz,ParagonZ,website,down,https://paragonz.me/,https://paragonz.me/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,moewbie,Moewbie,website,down,https://moewbie.com,https://moewbie.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,vws-games,VWS Games,website,down,https://virtualsworlds.online,https://virtualsworlds.online,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-02,optimusx,OptimusX,website,down,https://optimusx.org/,https://optimusx.org/,site is gone: domain does not resolve on 2026-10-02 (dns)
+2026-10-01,hexmine,#HexMine,website,down,https://tbitcoin.online,https://tbitcoin.online,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,challenquizbot,ChallenQuizBot,website,down,https://challenquiz.online,https://challenquiz.online,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,fig-farm,$FIG FARM,website,down,https://figfarm.pro,https://figfarm.pro,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,retro,$RETRO,website,down,https://retrocoin.me,https://retrocoin.me,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,1xmm-market-master,1xMM Market Master,website,down,https://one-xmm.com,https://one-xmm.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tontribebot,@tontribebot,website,down,https://tribeton.app/,https://tribeton.app/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,afkpepe-bot,AFKPepe Bot,website,down,https://afkpepe.com/,https://afkpepe.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,airbot,Airbot,website,down,https://airbot-crypto.com/,https://airbot-crypto.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ask-coin,Ask Coin,website,down,https://askcoin.io/,https://askcoin.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,astrex,ASTREX,website,down,https://www.astrex.io/,https://www.astrex.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,awaken-citizen,Awaken Citizen,website,down,https://playawaken.xyz/,https://playawaken.xyz/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,betfury-cryptodrop,BetFury Cryptodrop,website,down,https://cryptodrop.ai/,https://cryptodrop.ai/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,boss,BOSS,website,down,https://bossmbtcoin.pp.ua,https://bossmbtcoin.pp.ua,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,buinkers,Buinkers,website,down,https://bot.buinkers.com,https://bot.buinkers.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,combatx,CombatX,website,down,https://www.combatx.io/,https://www.combatx.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,crypto-masons,Crypto Masons,website,down,https://cryptomasonsgame.com/,https://cryptomasonsgame.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,dog-mutant,Dog Mutant,website,down,https://dogmutant.com,https://dogmutant.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,fortunehusky,FortuneHusky,website,down,https://www.FortuneHusky.com,https://www.FortuneHusky.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,gemwall,Gemwall,website,down,https://gemwall.io/,https://gemwall.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,giraffe-kombat,Giraffe Kombat,website,down,https://giraffekombat.com/,https://giraffekombat.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,grand-combat,GRAND COMBAT,website,down,https://grandcombat.io/,https://grandcombat.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,grand-journey,Grand Journey,website,down,https://www.grandjourney.io/,https://www.grandjourney.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,hero-guild,Hero Guild,website,down,https://www.heroguildapp.com/,https://www.heroguildapp.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,kingcoin,KingCoin,website,down,https://kingcoin.tech/,https://kingcoin.tech/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,malldriven-game,MallDriven Game,website,down,https://Malldriven.com,https://Malldriven.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,me-earn-mine-mea,Me Earn,website,down,https://www.meearn.club,https://www.meearn.club,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,memeow,MEMEOW,website,down,https://memeow.io/,https://memeow.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,miner-rush,Miner Rush,website,down,https://minerrush.fun/,https://minerrush.fun/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,monkey-play,Monkey Play,website,down,https://www.monkeyplay.xyz/,https://www.monkeyplay.xyz/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,mushroom-warrior,Mushroom Warrior,website,down,https://mushcoin.xyz/,https://mushcoin.xyz/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,oxygen-hunters,Oxygen Hunters,website,down,https://oxc.world/,https://oxc.world/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,pehe-kingdom,PEHE Kingdom,website,down,https://pehe.pro/,https://pehe.pro/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,pokergram,Pokergram,website,down,https://www.pokergram.com,https://www.pokergram.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,puffs-dragon,Puffs Dragon,website,down,https://puffsdragon.com,https://puffsdragon.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,px-tarot,PX Tarot,website,down,https://pxtarot.com,https://pxtarot.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,qubix-arena,Qubix Arena,website,down,https://www.qubixinfinity.io/,https://www.qubixinfinity.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,rumble-arcade,Rumble Arcade,website,down,https://www.rumblearcade.io/,https://www.rumblearcade.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,telegram-fights,Telegram Fights,website,down,https://toncoingame.ru/,https://toncoingame.ru/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-miner-gold,Ton Miner Gold,website,down,https://tonminer.co/,https://tonminer.co/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-mole,TON MOLE,website,down,https://tonmole.com&source:tonapps,https://tonmole.com&source:tonapps,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-titan,Ton Titan,website,down,https://tontitan.com/,https://tontitan.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-ton-coin,Ton Ton Coin,website,down,https://www.ttcoin.online/,https://www.ttcoin.online/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-world,TON World,website,down,https://world.tons.me,https://world.tons.me,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,versus,Versus,website,down,https://versus.app/,https://versus.app/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,vibecoin,VibeCoin,website,down,https://vibeminiapp.online,https://vibeminiapp.online,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,wordly,Wordly,website,down,https://yldrow.com/,https://yldrow.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,wow,Wow,website,down,https://thewarriorofwealth.com/,https://thewarriorofwealth.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,x-bull,X Bull,website,down,https://x-bull.pp.ua,https://x-bull.pp.ua,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,xd2048,XD2048,website,down,https://xd2048.com,https://xd2048.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,zombietrain,ZombieTrain,website,down,https://zombietra.in/,https://zombietra.in/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,slimak-adventures,Slimak Adventures,website,down,https://slimak-world.ton,https://slimak-world.ton,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,other-worlds-ton,Other Worlds TON,website,down,https://other-worlds.io/,https://other-worlds.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,erax,ERAX,website,down,https://erax-reward.pp.ua,https://erax-reward.pp.ua,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,brainscoin,BrainsCoin,website,down,https://brainsco.in,https://brainsco.in,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,fananas,Fananas,website,down,https://ton.fananas.world,https://ton.fananas.world,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,goblin-mine-game,Goblin Mine Game,website,down,https://goblinmine.game/,https://goblinmine.game/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,goblin-s-garage,Goblin’s Garage,website,down,https://goblins-garage.com/,https://goblins-garage.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,space-hunters-hub,Space Hunters HUB,website,down,https://spacehunters.online,https://spacehunters.online,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,drifterz,Drifterz,website,down,https://drifterz.app/,https://drifterz.app/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,sphynx,Sphynx,website,down,https://sphynx.meme,https://sphynx.meme,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,spacefarm,SpaceFarm,website,down,https://crypto-farm.space/,https://crypto-farm.space/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,noxecoin,Noxecoin,website,down,https://noxeco.in/,https://noxeco.in/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,not-shiba,Not Shiba,website,down,https://notshiba.org,https://notshiba.org,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,bibizean-tcg,Bibizean TCG,website,down,https://bibizean.fun/,https://bibizean.fun/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,myleg,MyLeg,website,down,https://www.myleg.xyz,https://www.myleg.xyz,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,apiary,Apiary,website,down,https://www.syrupal.com/,https://www.syrupal.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,lizarts,LizArts,website,down,https://lizartsworld.com/,https://lizartsworld.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,piston-hub,Piston Hub,website,down,https://piston.live/,https://piston.live/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,space-birds,Space Birds,website,down,https://space-birds.com/,https://space-birds.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,bank-miner-wbt,Bank Miner WBT,website,down,https://minerwbt.cc,https://minerwbt.cc,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,muduck-io,MUDUCK.IO,website,down,https://muduck.io,https://muduck.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,panda-gold-miner,Panda Gold Miner,website,down,https://pandagoldminer.io,https://pandagoldminer.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,happy-llama,Happy Llama,website,down,https://happyllama.farm,https://happyllama.farm,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,voltum,VOLTUM,website,down,https://voltum.cc/,https://voltum.cc/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,taptap,TapTap,website,down,https://taptap.bot,https://taptap.bot,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,rooster-fights,Rooster Fights,website,down,https://marketplace.roosterfights.com,https://marketplace.roosterfights.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,bahne-ai,Bahne AI,website,down,https://bahne.ai,https://bahne.ai,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,shiok,Shiok,website,down,https://shiok.fun/,https://shiok.fun/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,aao-all-at-once,AAO,website,down,https://aao.game,https://aao.game,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,cryston,Cryston,website,down,https://cryston.app,https://cryston.app,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,cosmic-invaders,Cosmic Invaders,website,down,https://cosmicinvaders.pro,https://cosmicinvaders.pro,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,epic-battle,EPIC BATTLE,website,down,https://epicbattle.co/,https://epicbattle.co/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,dropshit,Dropshit,website,down,https://dropshit.xyz/,https://dropshit.xyz/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tonbat-miner,TONBAT Miner,website,down,https://tonbat.com,https://tonbat.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,the-five-realms,The Five Realms,website,down,https://fiverealms.ai,https://fiverealms.ai,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,panicoin,PaniCoin,website,down,https://panicboo.co/,https://panicboo.co/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,cookiebitten,CookieBitten,website,down,https://cookietoken.net/,https://cookietoken.net/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,power-ton,Power TON,website,down,https://www.powerton.io,https://www.powerton.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,bitcoinjet-game-bot,BitcoinJet Game bot,website,down,https://bitcoinjet.ru,https://bitcoinjet.ru,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,minutka,MINUTKA,website,down,https://tonminute.app/,https://tonminute.app/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,mono-casino,Mono Casino,website,down,https://mono.casino,https://mono.casino,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,plane-gift,Plane.gift,website,down,https://plane.gift/,https://plane.gift/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,random-tg,Random.tg,website,down,https://random.tg,https://random.tg,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,spica-lottery,Spica,website,down,https://spica.fund,https://spica.fund,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,spinarena,SpinArena,website,down,https://web.topslotsarena.com,https://web.topslotsarena.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tgpoker,TGPoker,website,down,https://www.tgpoker.win/,https://www.tgpoker.win/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,thepredictorx,ThePredictorX,website,down,https://thepredictorx.app/,https://thepredictorx.app/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-fruits,TON Fruits,website,down,https://ton-fruits.shop/game?utm_campaign=tonapp,https://ton-fruits.shop/game?utm_campaign=tonapp,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-lottery,TON Lottery,website,down,https://lot-ton.com/,https://lot-ton.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tondice,TonDice,website,down,https://tondice.io,https://tondice.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,jackdaw-flip,JackDaw Flip,website,down,https://jackdawflip.io,https://jackdawflip.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,fairgram-predict-gas,FairGram Predict Gas,website,down,https://fairgram.me/,https://fairgram.me/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ohplay,OhPlay,website,down,https://ohplay.club/,https://ohplay.club/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ultimate-poker,Ultimate Poker,website,down,https://ultimatepoker.io/,https://ultimatepoker.io/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,uluru-bet,ULURU BET,website,down,https://ulurubet.com,https://ulurubet.com,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,cyberpunk-r,Cyberpunk R,website,down,https://Cyberpunkr.io,https://Cyberpunkr.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,tonjiggle,TONJiggle,website,down,https://tonjiggle.com/,https://tonjiggle.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,ton-bingo,TON Bingo,website,down,https://tonbingo.app,https://tonbingo.app,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-01,megadice,Megadice,website,down,https://games.paraliq.com/ton/megadice/,https://games.paraliq.com/ton/megadice/,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,mooli,Mooli,telegram,remove,https://t.me/Okexir,,"@okexir (""صرافی ارز دیجیتال اوکی اکسچنج | ok-ex.io"") belongs to اوکی اکسچنج (shared link)"
 2026-10-01,easywatch,EasyWatch,telegram,remove,https://t.me/blockcard_bc,,"@blockcard_bc (""Block Card | $BC"") belongs to Block Card Future (shared link)"
 2026-10-01,ton-domain-info-bot,TON Domain Info bot,telegram,remove,https://t.me/coincraddle_en,,"@coincraddle_en (""CoinCraddle Exchange"") belongs to CoinCraddle (shared link)"

@@ -6,33 +6,33 @@
 
 ## Active
 
-| # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
-| ---: | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **MoonPay** |  | [X](https://x.com/moonpay) [Site](https://www.moonpay.com) [Gram News](https://gramnews.org/apps/moonpay) | 2024-03-28 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 2 | **Changelly** | Exchange crypto changelly.page.link/telegram | [Telegram](https://t.me/changelly) [Site](https://apps.apple.com/us/app/crypto-exchange-buy-bitcoin/id1435140380) [GitHub](https://github.com/changelly) [Gram News](https://gramnews.org/apps/changelly) | 2019-06-11 | 65K views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
-| 3 | **ChangeNOW** |  | [Telegram](https://t.me/changenow_chat) [X](https://x.com/ChangeNOW) [Site](https://changenow.io) [GitHub](https://github.com/ChangeNow-io) [Gram News](https://gramnews.org/apps/changenow) | 2024-10-28 |  | 2021-09-06 | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 4 | **Alchemy Pay** |  | [Site](https://alchemypay.org) [Gram News](https://gramnews.org/apps/alchemy-pay) | 2023-10-17 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 5 | **Transak** |  | [Site](https://transak.com) [Gram News](https://gramnews.org/apps/transak) | 2024-05-05 |  |  |  |
-| 6 | **Itez** | Buy, sell, swap and store digital assets in one app. OTC, off-ramp and payment solutions… | [Telegram](https://t.me/itezofficial) [X](https://x.com/Itezofficial) [Site](https://itez.com/) [Gram News](https://gramnews.org/apps/itez) | 2019-07-23 | 2K views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
-| 7 | **MultiKassa Bot** ✓ | MultiKassa bot lets you exchange cash rubles for cryptocurrency | [Telegram](https://t.me/multikassa_channel) [Bot](https://t.me/multikassa_bot) [X](https://x.com/multikassa) [Site](https://multikassa.com/) [Gram News](https://gramnews.org/apps/multikassa-bot) | 2022-11-30 | 64 views | 2026-09-21 |  |
-| 8 | **Mercuryo** |  | [Site](https://mercuryo.io) [Gram News](https://gramnews.org/apps/mercuryo) | 2026-06-17 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 9 | **Prosto Exchange** | Платите криптой по QR. Покупка и вывод на карту, наличные по миру. ProstoEx -легальный… | [Telegram](https://t.me/prostoex_news) [Bot](https://t.me/prostoexbot) | 2021-10-11 | mentioned by 5 TON channels in Q3 |  |  |
+| # | Project | What it is | Links | Launched |
+| ---: | --- | --- | --- | --- |
+| 1 | **MoonPay** |  | [X](https://x.com/moonpay) [Site](https://www.moonpay.com) [Gram News](https://gramnews.org/apps/moonpay) | 2024-03-28 |
+| 2 | **Changelly** | Exchange crypto changelly.page.link/telegram | [Telegram](https://t.me/changelly) [Site](https://apps.apple.com/us/app/crypto-exchange-buy-bitcoin/id1435140380) [GitHub](https://github.com/changelly) [Gram News](https://gramnews.org/apps/changelly) | 2019-06-11 |
+| 3 | **ChangeNOW** |  | [Telegram](https://t.me/changenow_chat) [X](https://x.com/ChangeNOW) [Site](https://changenow.io) [GitHub](https://github.com/ChangeNow-io) [Gram News](https://gramnews.org/apps/changenow) | 2024-10-28 |
+| 4 | **Alchemy Pay** |  | [Site](https://alchemypay.org) [Gram News](https://gramnews.org/apps/alchemy-pay) | 2023-10-17 |
+| 5 | **Transak** |  | [Site](https://transak.com) [Gram News](https://gramnews.org/apps/transak) | 2024-05-05 |
+| 6 | **Itez** | Buy, sell, swap and store digital assets in one app. OTC, off-ramp and payment solutions… | [Telegram](https://t.me/itezofficial) [X](https://x.com/Itezofficial) [Site](https://itez.com/) [Gram News](https://gramnews.org/apps/itez) | 2019-07-23 |
+| 7 | **MultiKassa Bot** | MultiKassa bot lets you exchange cash rubles for cryptocurrency | [Telegram](https://t.me/multikassa_channel) [Bot](https://t.me/multikassa_bot) [X](https://x.com/multikassa) [Site](https://multikassa.com/) [Gram News](https://gramnews.org/apps/multikassa-bot) | 2022-11-30 |
+| 8 | **Mercuryo** |  | [Site](https://mercuryo.io) [Gram News](https://gramnews.org/apps/mercuryo) | 2026-06-17 |
+| 9 | **Prosto Exchange** | Платите криптой по QR. Покупка и вывод на карту, наличные по миру. ProstoEx -легальный… | [Telegram](https://t.me/prostoex_news) [Bot](https://t.me/prostoexbot) | 2021-10-11 |
 
 <details><summary><b>Quiet: 12</b></summary>
 
-| # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
-| ---: | --- | --- | --- | --- | --- | --- | --- |
-| 10 | **FinchPay** | FinchPay — buy crypto with a bank card, no KYC up to 500 EUR | [Telegram](https://t.me/FinchPay_io) [Bot](https://t.me/finchpaybot) [X](https://x.com/FinchPay_io) [Site](https://finchpay.io/) [Gram News](https://gramnews.org/apps/finchpay) | 2024-02-28 |  | 2026-05-07 |  |
-| 11 | **Avanchange** | Fast and secure crypto exchange since 2018. Buy, sell, or swap | [Bot](https://t.me/avanchange_bot) | 2021-01-29 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 12 | **AWX Crypto SHOP** | Покупка и продажа крипто за фиат в офисах по всему Миру! | [Bot](https://t.me/awexcryptobot) | 2026-10 |  |  |  |
-| 13 | **Bitpapa** |  | [Telegram](https://t.me/bitpapa_io) [X](https://x.com/bitpapa_io) [Site](https://bitpapa.com) [Gram News](https://gramnews.org/apps/bitpapa) | 2024-03-09 |  |  |  |
-| 14 | **DW: Toncoin Buy&Sell** | Buy & Sale TON Coin with great rate in few clicks. The part of the ecosystem | [Telegram](https://t.me/TokenInfinity) [Bot](https://t.me/DW_tonbot) [Gram News](https://gramnews.org/apps/dw-toncoin-buy-sell) | 2022-09-12 |  |  |  |
-| 15 | **GRAM в Рубли** | Автоматический обмен GRAM в рубли с выводом на банковскую карту. Без верификации / NO KYC | [Telegram](https://t.me/gram) [Bot](https://t.me/gramtorub_bot) [X](https://x.com/ton_blockchain) [Site](https://gram.org) | 2026-06-01 | mentioned by 6 TON channels in Q3 |  |  |
-| 16 | **HoudiniSwap** | HoudiniSwap bot will enable you to create exchanges directly within Telegram | [Bot](https://t.me/houdiniswap_bot) | 2026-05 |  |  | [messari 26](../archive/2026-05-messari.jpg) |
-| 17 | **ONLY** |  | [Telegram](https://t.me/p2pru) [Bot](https://t.me/only_pays_bot) | 2025-12-16 | mentioned by 3 TON channels in Q3 |  |  |
-| 18 | **Onmeta** |  | [Telegram](https://t.me/onmetatg) [X](https://x.com/onmetahq) [Site](https://onmeta.in/) [GitHub](https://github.com/onmetahq) [Gram News](https://gramnews.org/apps/onmeta) | 2022-01-18 |  | 2026-02-16 |  |
-| 19 | **Onramp** |  | [Site](https://onramp.money/main/buy/?appId=1&coinCode=ton) [Gram News](https://gramnews.org/apps/onramp) | 2023-02 |  |  | [ton 25](../archive/2025-07-ton.jpg) |
-| 20 | **SimpleSwap** |  | [Site](https://simpleswap.io/?utm_source=tonapp&utm_medium=portal&utm_campaign=exchange) [Gram News](https://gramnews.org/apps/simpleswap) | 2023-02-04 |  |  |  |
-| 21 | **Transack** |  | [Telegram](https://t.me/transakfinance) [X](https://x.com/transak) [GitHub](https://github.com/Transak) | 2019-04-26 |  | 2026-08-26 |  |
+| # | Project | What it is | Links | Launched |
+| ---: | --- | --- | --- | --- |
+| 10 | **FinchPay** | FinchPay — buy crypto with a bank card, no KYC up to 500 EUR | [Telegram](https://t.me/FinchPay_io) [Bot](https://t.me/finchpaybot) [X](https://x.com/FinchPay_io) [Site](https://finchpay.io/) [Gram News](https://gramnews.org/apps/finchpay) | 2024-02-28 |
+| 11 | **Avanchange** | Fast and secure crypto exchange since 2018. Buy, sell, or swap | [Bot](https://t.me/avanchange_bot) | 2021-01-29 |
+| 12 | **AWX Crypto SHOP** | Покупка и продажа крипто за фиат в офисах по всему Миру! | [Bot](https://t.me/awexcryptobot) | 2026-10 |
+| 13 | **Bitpapa** |  | [Telegram](https://t.me/bitpapa_io) [X](https://x.com/bitpapa_io) [Site](https://bitpapa.com) [Gram News](https://gramnews.org/apps/bitpapa) | 2024-03-09 |
+| 14 | **DW: Toncoin Buy&Sell** | Buy & Sale TON Coin with great rate in few clicks. The part of the ecosystem | [Telegram](https://t.me/TokenInfinity) [Bot](https://t.me/DW_tonbot) [Gram News](https://gramnews.org/apps/dw-toncoin-buy-sell) | 2022-09-12 |
+| 15 | **GRAM в Рубли** | Автоматический обмен GRAM в рубли с выводом на банковскую карту. Без верификации / NO KYC | [Telegram](https://t.me/gram) [Bot](https://t.me/gramtorub_bot) [X](https://x.com/ton_blockchain) [Site](https://gram.org) | 2026-06-01 |
+| 16 | **HoudiniSwap** | HoudiniSwap bot will enable you to create exchanges directly within Telegram | [Bot](https://t.me/houdiniswap_bot) | 2026-05 |
+| 17 | **ONLY** |  | [Telegram](https://t.me/p2pru) [Bot](https://t.me/only_pays_bot) | 2025-12-16 |
+| 18 | **Onmeta** |  | [Telegram](https://t.me/onmetatg) [X](https://x.com/onmetahq) [Site](https://onmeta.in/) [GitHub](https://github.com/onmetahq) [Gram News](https://gramnews.org/apps/onmeta) | 2022-01-18 |
+| 19 | **Onramp** |  | [Site](https://onramp.money/main/buy/?appId=1&coinCode=ton) [Gram News](https://gramnews.org/apps/onramp) | 2023-02 |
+| 20 | **SimpleSwap** |  | [Site](https://simpleswap.io/?utm_source=tonapp&utm_medium=portal&utm_campaign=exchange) [Gram News](https://gramnews.org/apps/simpleswap) | 2023-02-04 |
+| 21 | **Transack** |  | [Telegram](https://t.me/transakfinance) [X](https://x.com/transak) [GitHub](https://github.com/Transak) | 2019-04-26 |
 
 </details>

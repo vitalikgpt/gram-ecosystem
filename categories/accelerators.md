@@ -6,12 +6,12 @@
 
 <details><summary><b>Quiet: 5</b></summary>
 
-| # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
-| ---: | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **Gaming.tg** |  |  |  |  |  |  |
-| 2 | **Telegram Growth Hub** |  |  |  |  |  |  |
-| 3 | **TON Accelerator** |  | [X](https://x.com/accelerator_ton) |  |  |  |  |
-| 4 | **TON Nest** |  |  |  |  |  |  |
-| 5 | **Triangle.tg** |  | [Telegram](https://t.me/triangle_builders) [X](https://x.com/triangle_web3) [Site](https://triangle.tg) |  |  |  |  |
+| # | Project | What it is | Links | Launched |
+| ---: | --- | --- | --- | --- |
+| 1 | **Gaming.tg** |  | [Telegram](https://t.me/tggamingaccelerator) [X](https://x.com/TGAccelerator) [Site](https://www.gaming.tg) | 2024-07-04 |
+| 2 | **Telegram Growth Hub** |  |  | 2024-10-30 |
+| 3 | **TON Accelerator** |  | [Telegram](https://t.me/accelerator_ton) [X](https://x.com/accelerator_ton) | 2024-09-03 |
+| 4 | **TON Nest** |  |  | 2024-08-16 |
+| 5 | **Triangle.tg** |  | [Telegram](https://t.me/triangle_builders) [Site](https://triangle.tg) | 2024-07-10 |
 
 </details>

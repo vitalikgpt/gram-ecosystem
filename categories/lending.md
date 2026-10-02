@@ -6,26 +6,26 @@
 
 ## Active
 
-| # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
-| ---: | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **EVAA Protocol** ✓ | The first decentralized lending protocol on TON | [Telegram](https://t.me/evaaprotocol) [Bot](https://t.me/EvaaAppBot) [X](https://x.com/evaaprotocol) [Site](https://evaa.finance) [GitHub](https://github.com/evaafi) [Gram News](https://gramnews.org/apps/evaa-protocol) | 2022-12-10 |  | 2026-08-30 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 2 | **TONLender** ✓ | Borrow GRAM against NFT collateral on TON | [Telegram](https://t.me/tonlender_ru) [Bot](https://t.me/tonlenderbot) [X](https://x.com/tonlender) [Site](https://tonlender.com) [Gram News](https://gramnews.org/apps/tonlender) | 2026-04-22 | 7K views, 16K MAU | 2026-09-28 |  |
-| 3 | **DAOLama** ✓ | DAOLama is a lending service for NFT collateral that is closing soon | [Telegram](https://t.me/daolama) [Bot](https://t.me/daolama_bot) [X](https://x.com/daolama_ton) [Site](https://daolama.co?utm_source=tonapp&utm_medium=marketplace&utm_campaign=NFT_service) [Gram News](https://gramnews.org/apps/daolama) | 2022-08-30 | 11K views | 2026-09-24 | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
-| 4 | **GTC (Gift To Credit)** ✓ | GTC is onchain / offchain lending against Telegram gifts & NFTs | [Telegram](https://t.me/gifttocredit_new_age) [Site](https://giftcredit.app/borrow) | 2026-07-01 | 9K views | 2026-08-20 |  |
-| 5 | **Fiva** ✓ | FIVA - Your financial app in Telegram | [Telegram](https://t.me/fiva_protocol) [X](https://x.com/FivaProtocol) [Site](https://thefiva.com) [Gram News](https://gramnews.org/apps/fiva) | 2024-07-23 | 2K views | 2026-07-21 | [ton 25](../archive/2025-07-ton.jpg) |
-| 6 | **Octalend** ✓ | Octalend — NFT and gift-backed lending on TON | [Telegram](https://t.me/octalend) [Bot](https://t.me/octalend_bot) [X](https://x.com/octalend) [Site](https://octalend.xyz) [Gram News](https://gramnews.org/apps/octalend) | 2026-03-09 | 542 views | 2026-09-24 |  |
-| 7 | **Aqua Protocol (CDP)** ✓ |  | [Telegram](https://t.me/aquaprotocolxyzchannel) [Bot](https://t.me/AquaProtocolxyz_Bot) [X](https://x.com/aquaprotocolxyz) [Site](https://aquaprotocol.xyz/?utm_source=tonapp&utm_medium=ecosystem&utm_campaign=aqua) [Gram News](https://gramnews.org/apps/aqua-protocol-cdp) | 2022-11-10 | 487 views | 2026-09-29 |  |
-| 8 | **Delea Finance** ✓ |  | [Telegram](https://t.me/delea_finance) [Bot](https://t.me/delea_app_bot) [X](https://x.com/DeleaFinance) [Site](https://delea.finance/) [Gram News](https://gramnews.org/apps/delea-finance) | 2024-11-19 | 1 views | 2026-09-09 | [messari 26](../archive/2026-05-messari.jpg) |
-| 9 | **Affluent** ✓ | Affluent is a Telegram mini app for staking | [Telegram](https://t.me/Affluent) [Bot](https://t.me/affluentappbot) [X](https://x.com/affluentorg) [Site](https://affluent.org) [Gram News](https://gramnews.org/apps/affluent) | 2024-10-22 |  | 2026-06-10 | [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 10 | **Telegram USD** | Telegram USD is a blue-chip-backed stablecoin on the TON blockchain, designed for… | [Site](https://torch.finance) | 2025-05-05 | TVL $0.4M |  |  |
+| # | Project | What it is | Links | Launched |
+| ---: | --- | --- | --- | --- |
+| 1 | **EVAA Protocol** | The first decentralized lending protocol on TON | [Telegram](https://t.me/evaaprotocol) [Bot](https://t.me/EvaaAppBot) [X](https://x.com/evaaprotocol) [Site](https://evaa.finance) [GitHub](https://github.com/evaafi) [Gram News](https://gramnews.org/apps/evaa-protocol) | 2022-12-10 |
+| 2 | **TONLender** | Borrow GRAM against NFT collateral on TON | [Telegram](https://t.me/tonlender_ru) [Bot](https://t.me/tonlenderbot) [X](https://x.com/tonlender) [Site](https://tonlender.com) [Gram News](https://gramnews.org/apps/tonlender) | 2026-04-22 |
+| 3 | **DAOLama** | DAOLama is a lending service for NFT collateral that is closing soon | [Telegram](https://t.me/daolama) [Bot](https://t.me/daolama_bot) [X](https://x.com/daolama_ton) [Site](https://daolama.co?utm_source=tonapp&utm_medium=marketplace&utm_campaign=NFT_service) [Gram News](https://gramnews.org/apps/daolama) | 2022-08-30 |
+| 4 | **GTC (Gift To Credit)** | GTC is onchain / offchain lending against Telegram gifts & NFTs | [Telegram](https://t.me/gifttocredit_new_age) [Site](https://giftcredit.app/borrow) | 2026-07-01 |
+| 5 | **Fiva** | FIVA - Your financial app in Telegram | [Telegram](https://t.me/fiva_protocol) [X](https://x.com/FivaProtocol) [Site](https://thefiva.com) [Gram News](https://gramnews.org/apps/fiva) | 2024-07-23 |
+| 6 | **Octalend** | Octalend — NFT and gift-backed lending on TON | [Telegram](https://t.me/octalend) [Bot](https://t.me/octalend_bot) [X](https://x.com/octalend) [Site](https://octalend.xyz) [Gram News](https://gramnews.org/apps/octalend) | 2026-03-09 |
+| 7 | **Aqua Protocol (CDP)** |  | [Telegram](https://t.me/aquaprotocolxyzchannel) [Bot](https://t.me/AquaProtocolxyz_Bot) [X](https://x.com/aquaprotocolxyz) [Site](https://aquaprotocol.xyz/?utm_source=tonapp&utm_medium=ecosystem&utm_campaign=aqua) [Gram News](https://gramnews.org/apps/aqua-protocol-cdp) | 2022-11-10 |
+| 8 | **Delea Finance** |  | [Telegram](https://t.me/delea_finance) [Bot](https://t.me/delea_app_bot) [X](https://x.com/DeleaFinance) [Site](https://delea.finance/) [Gram News](https://gramnews.org/apps/delea-finance) | 2024-11-19 |
+| 9 | **Affluent** | Affluent is a Telegram mini app for staking | [Telegram](https://t.me/Affluent) [Bot](https://t.me/affluentappbot) [X](https://x.com/affluentorg) [Site](https://affluent.org) [Gram News](https://gramnews.org/apps/affluent) | 2024-10-22 |
+| 10 | **Telegram USD** | Telegram USD is a blue-chip-backed stablecoin on the TON blockchain, designed for… | [Site](https://torch.finance) | 2025-05-05 |
 
 <details><summary><b>Quiet: 4</b></summary>
 
-| # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
-| ---: | --- | --- | --- | --- | --- | --- | --- |
-| 11 | **AXUS Protocol** |  | [Telegram](https://t.me/axusprotocol) [Bot](https://t.me/AXUSProtocol_bot) [X](https://x.com/axusprotocol) [Site](https://axus-protocol.web.app) [GitHub](https://github.com/axusprotocol/axusprotocol) [Gram News](https://gramnews.org/apps/axus-protocol) | 2025-05-21 |  | 2025-05-25 |  |
-| 12 | **Telegram USD (tgusd)** | Telegram USD (tgusd) — yield-generating stablecoin on TON | [Site](https://torch.finance) [GitHub](https://github.com/torch-core) [Gram News](https://gramnews.org/apps/telegram-usd-tgusd) | 2024-05-28 |  | 2026-06-30 |  |
-| 13 | **Tonpound** |  | [Bot](https://t.me/tonpoundbot) | 2024-06 |  |  | [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) |
-| 14 | **TonStable** | The decentralized over-collateralized stablecoin protocol built on TON | [Telegram](https://t.me/TonStableOfficial) [X](https://x.com/TonStable) [Site](https://tonstable.xyz/) [Gram News](https://gramnews.org/apps/tonstable) | 2024-09-05 | TVL $2K |  |  |
+| # | Project | What it is | Links | Launched |
+| ---: | --- | --- | --- | --- |
+| 11 | **AXUS Protocol** |  | [Telegram](https://t.me/axusprotocol) [Bot](https://t.me/AXUSProtocol_bot) [X](https://x.com/axusprotocol) [Site](https://axus-protocol.web.app) [GitHub](https://github.com/axusprotocol/axusprotocol) [Gram News](https://gramnews.org/apps/axus-protocol) | 2025-05-21 |
+| 12 | **Telegram USD (tgusd)** | Telegram USD (tgusd) — yield-generating stablecoin on TON | [Site](https://torch.finance) [GitHub](https://github.com/torch-core) [Gram News](https://gramnews.org/apps/telegram-usd-tgusd) | 2024-05-28 |
+| 13 | **Tonpound** |  | [Bot](https://t.me/tonpoundbot) | 2024-06 |
+| 14 | **TonStable** | The decentralized over-collateralized stablecoin protocol built on TON | [Telegram](https://t.me/TonStableOfficial) [X](https://x.com/TonStable) [Site](https://tonstable.xyz/) [Gram News](https://gramnews.org/apps/tonstable) | 2024-09-05 |
 
 </details>

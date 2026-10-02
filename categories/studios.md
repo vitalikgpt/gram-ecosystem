@@ -6,26 +6,26 @@
 
 ## Active
 
-| # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
-| ---: | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **GAMEE** ✓ | Biggest gaming community on Telegram, powered by $GMEE token | [Telegram](https://t.me/gameechannel) [Bot](https://t.me/gamee) [X](https://x.com/gameetoken) [Site](https://www.gamee.com) [Gram News](https://gramnews.org/apps/gamee) | 2024-03-29 | 1.2M views, 279K MAU | 2026-09-29 | [ton 25](../archive/2025-07-ton.jpg) |
-| 2 | **PlayDeck** ✓ | PlayDeck is a Telegram mini app offering over 250 free games | [Telegram](https://t.me/playdeck_en) [Bot](https://t.me/playdeckbot) [X](https://x.com/playdeckgames) [Site](https://www.playdeck.io) [GitHub](https://github.com/ton-play) [Gram News](https://gramnews.org/apps/playdeck) | 2023-10-18 | 987K MAU | 2025-11-12 | [coin98-games 24](../archive/2024-02-coin98-games.jpg) [coin98-games 24](../archive/2024-05-coin98-games.jpg) [ton 25](../archive/2025-07-ton.jpg) |
-| 3 | **TonTon Games** |  | [Telegram](https://t.me/tikitons) | 2026-04-27 | 25K views | 2026-10-01 | [ton 25](../archive/2025-07-ton.jpg) |
+| # | Project | What it is | Links | Launched |
+| ---: | --- | --- | --- | --- |
+| 1 | **GAMEE** | Biggest gaming community on Telegram, powered by $GMEE token | [Telegram](https://t.me/gameechannel) [Bot](https://t.me/gamee) [X](https://x.com/gameetoken) [Site](https://www.gamee.com) [Gram News](https://gramnews.org/apps/gamee) | 2024 |
+| 2 | **PlayDeck** | PlayDeck is a Telegram mini app offering over 250 free games | [Telegram](https://t.me/playdeck_en) [Bot](https://t.me/playdeckbot) [X](https://x.com/playdeckgames) [Site](https://www.playdeck.io) [GitHub](https://github.com/ton-play) [Gram News](https://gramnews.org/apps/playdeck) | 2023-10-13 |
+| 3 | **TonTon Games** |  | [Telegram](https://t.me/tikitons) [X](https://x.com/ton_tongames) | 2024 |
 
 <details><summary><b>Quiet: 11</b></summary>
 
-| # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
-| ---: | --- | --- | --- | --- | --- | --- | --- |
-| 4 | **AKEDO Games** |  |  |  |  |  |  |
-| 5 | **Axiom Labs** |  | [Telegram](https://t.me/axiomlabsofficial) |  |  |  |  |
-| 6 | **Bastion** |  |  |  |  |  |  |
-| 7 | **Delabs Games** |  |  |  |  |  |  |
-| 8 | **Hackney Games** |  |  |  |  |  |  |
-| 9 | **LevelQ** |  |  |  |  |  |  |
-| 10 | **Open Builders** |  | [Telegram](https://t.me/builders) [X](https://x.com/open_builders) [Site](https://openbuilders.xyz) |  |  |  |  |
-| 11 | **Pluto Studios** |  |  |  |  |  |  |
-| 12 | **RSquad** |  |  |  |  |  |  |
-| 13 | **The Open Platform** |  | [X](https://x.com/topdotco) [Site](https://top.co) |  |  |  |  |
-| 14 | **TON Studio** |  | [Telegram](https://t.me/ton_studio) |  |  |  |  |
+| # | Project | What it is | Links | Launched |
+| ---: | --- | --- | --- | --- |
+| 4 | **AKEDO Games** |  | [Telegram](https://t.me/akedofun) [X](https://x.com/akedofun) [Site](https://akedo.fun) | 2024-07-18 |
+| 5 | **Axiom Labs** |  | [Telegram](https://t.me/axiomlabsofficial) [X](https://x.com/AxiomGame_Labs) | 2024-10 |
+| 6 | **Bastion** |  |  |  |
+| 7 | **Delabs Games** |  | [Telegram](https://t.me/delabsgameschat) [X](https://x.com/delabsOfficial) [Site](https://www.delabs.gg) | 2024-07-15 |
+| 8 | **Hackney Games** |  |  | 2022 |
+| 9 | **LevelQ** |  | [Telegram](https://t.me/levelqfin) | 2025-03-17 |
+| 10 | **Open Builders** |  | [Telegram](https://t.me/builders) [X](https://x.com/open_builders) [Site](https://openbuilders.xyz) | 2022-06 |
+| 11 | **Pluto Studios** |  | [X](https://x.com/PlutoVisionLabs) [Site](https://www.pluto.vision) | 2024-03 |
+| 12 | **RSquad** |  | [Telegram](https://t.me/rsquad) [X](https://x.com/rsquadlab) [Site](https://rsquad.io) | 2015 |
+| 13 | **The Open Platform** |  | [Telegram](https://t.me/topco) [X](https://x.com/topdotco) [Site](https://top.co) | 2023-09-08 |
+| 14 | **TON Studio** |  | [Telegram](https://t.me/ton_studio) [X](https://x.com/thetonstudio) [Site](https://tonstudio.io) | 2024-11-01 |
 
 </details>

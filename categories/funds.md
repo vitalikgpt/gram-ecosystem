@@ -2,26 +2,25 @@
 
 # Funds
 
-**15 projects: 0 active, 15 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**14 projects: 0 active, 14 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
-<details><summary><b>Quiet: 15</b></summary>
+<details><summary><b>Quiet: 14</b></summary>
 
-| # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
-| ---: | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **Animoca Brands** |  |  |  |  |  |  |
-| 2 | **CoinFund** |  |  |  |  |  |  |
-| 3 | **Cypher Capital** |  | [Telegram](https://t.me/cyphercapital) |  |  |  |  |
-| 4 | **DWF Labs** |  | [Telegram](https://t.me/dwflabs) |  |  |  |  |
-| 5 | **Folius Ventures** |  |  |  |  |  |  |
-| 6 | **Impossible Finance** |  |  |  |  |  |  |
-| 7 | **Kingsway Capital** |  |  |  |  |  |  |
-| 8 | **Mechanism Capital** |  |  |  |  |  |  |
-| 9 | **OKX Ventures** |  | [Telegram](https://t.me/okxventures) |  |  |  |  |
-| 10 | **Pantera Capital** |  |  |  |  |  |  |
-| 11 | **Polymorphic Capital** |  |  |  |  |  |  |
-| 12 | **TON Ventures** |  | [Telegram](https://t.me/ton_ventures) |  |  |  |  |
-| 13 | **TONcoin.Fund** |  |  |  |  |  |  |
-| 14 | **TOP Labs** |  |  |  |  |  |  |
-| 15 | **TVM Ventures** |  | [Telegram](https://t.me/tvmventures) |  |  |  |  |
+| # | Project | What it is | Links | Launched |
+| ---: | --- | --- | --- | --- |
+| 1 | **Animoca Brands** |  | [X](https://x.com/animocabrands) [Site](https://www.animocabrands.com) | 2023-11-28 |
+| 2 | **CoinFund** |  | [X](https://x.com/coinfund) [Site](https://coinfund.io) | 2025-03-20 |
+| 3 | **Cypher Capital** |  | [Telegram](https://t.me/cyphercapital) [X](https://x.com/cypher_capital) [Site](https://www.cyphercapital.com) | 2023-05 |
+| 4 | **DWF Labs** |  | [Telegram](https://t.me/dwflabs) [X](https://x.com/DWFLabs) [Site](https://www.dwf-labs.com) | 2022-11-17 |
+| 5 | **Folius Ventures** |  | [X](https://x.com/FoliusVentures) [Site](https://www.folius.ventures) | 2024-07 |
+| 6 | **Impossible Finance** |  | [Telegram](https://t.me/impossiblefinance) [X](https://x.com/impossible_) [Site](https://www.impossible.finance) |  |
+| 7 | **Kingsway Capital** |  |  | 2025-03-20 |
+| 8 | **Mechanism Capital** |  | [X](https://x.com/MechanismCap) [Site](https://www.mechanism.capital) |  |
+| 9 | **OKX Ventures** |  | [Telegram](https://t.me/okxventures) [X](https://x.com/okx_ventures) [Site](https://www.okx.com/ventures) | 2024-10-30 |
+| 10 | **Pantera Capital** |  | [X](https://x.com/PanteraCapital) [Site](https://panteracapital.com) | 2024-05-02 |
+| 11 | **Polymorphic Capital** |  | [X](https://x.com/polymorphiccap) [Site](https://polymorphic.capital) | 2025-01 |
+| 12 | **TON Ventures** |  | [Telegram](https://t.me/ton_ventures) [X](https://x.com/TON_Ventures) | 2024-08-14 |
+| 13 | **TONcoin.Fund** |  | [X](https://x.com/toncoinfund) [Site](https://toncoin.fund) | 2022-04-11 |
+| 14 | **TVM Ventures** |  | [Telegram](https://t.me/tvmventures) [X](https://x.com/tvm_ventures) [Site](https://tvm.ventures) | 2024-11 |
 
 </details>

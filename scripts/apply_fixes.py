@@ -2,7 +2,7 @@
 """Apply data/link-fixes.csv to data/projects.csv.
 
 link-fixes.csv is both the log and the source of truth for link decisions: each row says which link
-was replaced, removed or confirmed, and the evidence. Re-running is safe: a fix applies only while
+was replaced, removed, confirmed or marked down (a dead site), and the evidence. Re-running is safe: a fix applies only while
 the link still holds the old value.
 """
 import csv
@@ -16,6 +16,11 @@ for f in fixes:
     r = by.get(f["slug"])
     if not r or f["action"] == "confirm":
         continue
+    if f["action"] == "down":  # a dead site keeps its address, marked with the date of the check
+        if r[f["field"]] == f["old"] and not r.get("website_down"):
+            r["website_down"] = f["date"]
+            n += 1
+        continue
     if r[f["field"]] == f["old"]:
         r[f["field"]] = f["new"]
         if f["field"] == "telegram" and "subscribers" in r:
@@ -23,10 +28,10 @@ for f in fixes:
         n += 1
 # A quiet project whose every link turned out dead is closed: the evidence is in link-fixes.csv.
 DEAD = ("does not exist", "site is gone", "returns 404")
-dead = {f["slug"] for f in fixes if f["action"] == "remove" and any(m in f["evidence"] for m in DEAD)}
+dead = {f["slug"] for f in fixes if f["action"] in ("remove", "down") and any(m in f["evidence"] for m in DEAD)}
 closed = 0
 for r in rows:
-    if r["status"] == "quiet" and r["slug"] in dead and not any(r[k] for k in ("telegram", "bot", "x", "website", "github")):
+    if r["status"] == "quiet" and r["slug"] in dead and not any(r[k] for k in ("telegram", "bot", "x", "github")) and not (r["website"] and not r.get("website_down")):
         r["status"] = "closed"
         closed += 1
 w = csv.DictWriter(open("data/projects.csv", "w", encoding="utf-8"), fieldnames=fields, lineterminator="\n")

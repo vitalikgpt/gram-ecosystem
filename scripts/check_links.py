@@ -170,7 +170,9 @@ def check_row(r):
         out["bot"] = check_tme(r["bot"], "bot", nw)
     if r["x"]:
         out["x"] = "ok" if (r["slug"], "x", r["x"]) in CONFIRMED else check_x(r["x"], nw)
-    if r["website"]:
+    if r["website"] and r.get("website_down"):
+        out["website"] = "ok"  # already marked down; data/link-fixes.csv has the evidence
+    elif r["website"]:
         out["website"] = check_site(r["website"], nw)
         if (r["slug"], "website", r["website"]) in CONFIRMED and "does not match" in out["website"]:
             out["website"] = out["website"].split(";")[0] if out["website"].startswith("http") else "ok"

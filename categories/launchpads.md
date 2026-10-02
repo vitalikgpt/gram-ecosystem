@@ -2,102 +2,103 @@
 
 # Memepads
 
-**79 projects: 17 active, 61 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**80 projects: 17 active, 62 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
-| # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
-| ---: | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **TopBlast** ✓ | Launch and create history on topblast.lol | [Telegram](https://t.me/topblastdotlol) | 2026-02-11 | 59K views | 2026-10-01 |  |
-| 2 | **Meridian** ✓ | Investors Сlub Meridian | [Telegram](https://t.me/meridian_wtf) [X](https://x.com/meridianwtf) [Site](https://getgems.io/collection/EQAVGhk_3rUA3ypZAZ1SkVGZIaDt7UdvwA4jsSGRKRo-MRDN) | 2022-09-14 | 4K views | 2026-08-04 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 3 | **@Blum** ✓ | Blum Memepad is a trading platform for launching and trading meme coins | [Telegram](https://t.me/blumcrypto_memepad) [Bot](https://t.me/blum) [X](https://x.com/blumcrypto) [Site](https://blum.io) [Gram News](https://gramnews.org/apps/blum-memepad) | 2022-12-31 | 266K MAU | 2026-02-06 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 4 | **BigPump** ✓ | Hottest in Meme Trading from BigPump | [Telegram](https://t.me/bigpumphub) [X](https://x.com/bigpumpmeme) | 2024-10-30 | 40K views | 2026-09-16 | [ton 25](../archive/2025-07-ton.jpg) |
-| 5 | **Uranus** ✓ |  | [Telegram](https://t.me/nonameuranus) | 2026-05-06 | 25K views | 2026-10-01 |  |
-| 6 | **JVault** ✓ | JVault is a protocol for staking, launchpad, and locker on TON | [Telegram](https://t.me/jvault) [Bot](https://t.me/JVaultBot) [X](https://x.com/JVault_app) [Site](https://jvault.xyz) [GitHub](https://github.com/JVault-app) [Gram News](https://gramnews.org/apps/jvault) | 2023-09-25 | 2K views | 2026-08-17 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton 25](../archive/2025-07-ton.jpg) [tradoor 25](../archive/2025-08-tradoor.jpg) |
-| 7 | **PumpMeme** ✓ |  | [Telegram](https://t.me/pumpmemenews) [Bot](https://t.me/pumpmeme_bot) [X](https://x.com/PumpMemeClub) [Gram News](https://gramnews.org/apps/pumpmeme) | 2024-09-24 | 2K views | 2026-09-26 |  |
-| 8 | **DuckChain** | DuckChain is a service for staking and bridging crypto assets | [Telegram](https://t.me/duckchainann) [Bot](https://t.me/duckchain_bot) [X](https://x.com/duck_chain) [Site](https://bridge.duckchain.io) [Gram News](https://gramnews.org/apps/duckchain) | 2024-06-15 | 71K views, 24K MAU | 2026-07-20 | [ton 25](../archive/2025-07-ton.jpg) |
-| 9 | **Pumplyx Competition** |  | [Bot](https://t.me/pumplyxcompetitionbot) | 2026-08-25 | mentioned by 5 TON channels in Q3 |  |  |
-| 10 | **PLAYS Hub** |  | [Telegram](https://t.me/PlayshubAnn) [Bot](https://t.me/playshubbot) [X](https://x.com/PlaysHub) [Gram News](https://gramnews.org/apps/plays-hub) | 2024-07-25 | 308 views, 25K MAU | 2026-09-28 |  |
-| 11 | **W3BFLIX** | Experience the future of entertainment with W3BFLIX | [Bot](https://t.me/w3bflixbot) | 2024-05-15 | 19K MAU |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 12 | **GasPump** | GasPump fun channel. DYOR | [Telegram](https://t.me/gaspump_tv) [Bot](https://t.me/gasPump_bot) [X](https://x.com/gaspump_tv) [Gram News](https://gramnews.org/apps/gaspump-1) | 2024-05-29 | TVL $35K | 2026-06-23 | [ton 25](../archive/2025-07-ton.jpg) [messari 26](../archive/2026-05-messari.jpg) |
-| 13 | **Clarnium Games** | Clarnium Games — a platform for launching tokens and earning meme coins through quests… | [Telegram](https://t.me/clarnium) [Bot](https://t.me/ClarniumGame_bot) [X](https://x.com/clarnium_io) [Site](https://clarnium.io/) [Gram News](https://gramnews.org/apps/clarnium-games) | 2022-09-13 | 10K MAU | 2026-06-08 |  |
-| 14 | **Wizzwoods** |  | [Bot](https://t.me/wizzwoodsbot) [Site](https://wizzwoods.com/) [Gram News](https://gramnews.org/apps/wizzwoods) | 2024-06-17 | 6K MAU |  |  |
-| 15 | **USDAGemBot** | Here will be new tokens from USDA launchpad chat Channel Pump launch your gem here | [Telegram](https://t.me/usdagembot) [Bot](https://t.me/pumpitlaunch_bot) | 2026-08-17 | mentioned by 5 TON channels in Q3 | 2026-09-08 |  |
-| 16 | **NitroChain** | NitroChain — blockchain infrastructure for fast and low-cost transactions | [Telegram](https://t.me/NitrochainNews) [Bot](https://t.me/nitrochainbot) [X](https://x.com/Nitrochainapp) [Site](https://nitrochain.space/) [Gram News](https://gramnews.org/apps/nitrochain) | 2023-12-07 | 1K views, 59 MAU | 2026-08-04 |  |
-| 17 | **Tonstarter** | Tonstarter — a launchpad for projects on TON | [Bot](https://t.me/ton_starter_bot) [X](https://x.com/ton_starter) [Site](https://tonstarter.com) [Gram News](https://gramnews.org/apps/tonstarter) | 2022-02-23 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [dwf-ventures 24](../archive/2024-06-dwf-ventures.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| # | Project | What it is | Links | Launched |
+| ---: | --- | --- | --- | --- |
+| 1 | **TopBlast** | Launch and create history on topblast.lol | [Telegram](https://t.me/topblastdotlol) | 2026-02-11 |
+| 2 | **Meridian** | Investors Сlub Meridian | [Telegram](https://t.me/meridian_wtf) [X](https://x.com/meridianwtf) [Site](https://getgems.io/collection/EQAVGhk_3rUA3ypZAZ1SkVGZIaDt7UdvwA4jsSGRKRo-MRDN) | 2022-09-14 |
+| 3 | **@Blum** | Blum Memepad is a trading platform for launching and trading meme coins | [Telegram](https://t.me/blumcrypto_memepad) [Bot](https://t.me/blum) [X](https://x.com/blumcrypto) [Site](https://blum.io) [Gram News](https://gramnews.org/apps/blum-memepad) | 2022-12-31 |
+| 4 | **BigPump** | Hottest in Meme Trading from BigPump | [Telegram](https://t.me/bigpumphub) [X](https://x.com/bigpumpmeme) | 2024-10-30 |
+| 5 | **Uranus** |  | [Telegram](https://t.me/nonameuranus) | 2026-05-06 |
+| 6 | **JVault** | JVault is a protocol for staking, launchpad, and locker on TON | [Telegram](https://t.me/jvault) [Bot](https://t.me/JVaultBot) [X](https://x.com/JVault_app) [Site](https://jvault.xyz) [GitHub](https://github.com/JVault-app) [Gram News](https://gramnews.org/apps/jvault) | 2023-09-25 |
+| 7 | **PumpMeme** |  | [Telegram](https://t.me/pumpmemenews) [Bot](https://t.me/pumpmeme_bot) [X](https://x.com/PumpMemeClub) [Gram News](https://gramnews.org/apps/pumpmeme) | 2024-09-24 |
+| 8 | **DuckChain** | DuckChain is a service for staking and bridging crypto assets | [Telegram](https://t.me/duckchainann) [Bot](https://t.me/duckchain_bot) [X](https://x.com/duck_chain) [Site](https://bridge.duckchain.io) [Gram News](https://gramnews.org/apps/duckchain) | 2024-06-15 |
+| 9 | **Pumplyx Competition** |  | [Bot](https://t.me/pumplyxcompetitionbot) | 2026-08-25 |
+| 10 | **PLAYS Hub** |  | [Telegram](https://t.me/PlayshubAnn) [Bot](https://t.me/playshubbot) [X](https://x.com/PlaysHub) Site (down) [Gram News](https://gramnews.org/apps/plays-hub) | 2024-07-25 |
+| 11 | **W3BFLIX** | Experience the future of entertainment with W3BFLIX | [Bot](https://t.me/w3bflixbot) | 2024-05-15 |
+| 12 | **GasPump** | GasPump fun channel. DYOR | [Telegram](https://t.me/gaspump_tv) [Bot](https://t.me/gasPump_bot) [X](https://x.com/gaspump_tv) Site (down) [Gram News](https://gramnews.org/apps/gaspump-1) | 2024-05-29 |
+| 13 | **Clarnium Games** | Clarnium Games — a platform for launching tokens and earning meme coins through quests… | [Telegram](https://t.me/clarnium) [Bot](https://t.me/ClarniumGame_bot) [X](https://x.com/clarnium_io) [Site](https://clarnium.io/) [Gram News](https://gramnews.org/apps/clarnium-games) | 2022-09-13 |
+| 14 | **Wizzwoods** |  | [Bot](https://t.me/wizzwoodsbot) [Site](https://wizzwoods.com/) [Gram News](https://gramnews.org/apps/wizzwoods) | 2024-06-17 |
+| 15 | **USDAGemBot** | Here will be new tokens from USDA launchpad chat Channel Pump launch your gem here | [Telegram](https://t.me/usdagembot) [Bot](https://t.me/pumpitlaunch_bot) | 2026-08-17 |
+| 16 | **NitroChain** | NitroChain — blockchain infrastructure for fast and low-cost transactions | [Telegram](https://t.me/NitrochainNews) [Bot](https://t.me/nitrochainbot) [X](https://x.com/Nitrochainapp) [Site](https://nitrochain.space/) [Gram News](https://gramnews.org/apps/nitrochain) | 2023-12-07 |
+| 17 | **Tonstarter** | Tonstarter — a launchpad for projects on TON | [Bot](https://t.me/ton_starter_bot) [X](https://x.com/ton_starter) [Site](https://tonstarter.com) [Gram News](https://gramnews.org/apps/tonstarter) | 2022-02-23 |
 
-<details><summary><b>Quiet: 61</b></summary>
+<details><summary><b>Quiet: 62</b></summary>
 
-| # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
-| ---: | --- | --- | --- | --- | --- | --- | --- |
-| 18 | **TON of Memes** | Create and trade memecoins | [Bot](https://t.me/TonOfMemesBot) [X](https://x.com/useTONMemes) [Gram News](https://gramnews.org/apps/ton-of-memes) | 2024-09-04 |  |  |  |
-| 19 | **Planeton** | PlaneTon is a SocialFi game where you can earn real money by growing your fleet of planes | [Telegram](https://t.me/planeton_hub) [Bot](https://t.me/theplanetonbot) [X](https://x.com/theplaneton) [Site](https://0xiceberg.com/) [Gram News](https://gramnews.org/apps/planeton) | 2024-07-07 |  |  |  |
-| 20 | **Polyton App** | Easy and secure token launches! | [Telegram](https://t.me/soda_fun) [Bot](https://t.me/polytonappbot) [Gram News](https://gramnews.org/apps/polyton-app) | 2024-06-18 |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 21 | **FUNTON.AI** | The Modular Multi-Game Platform | [Telegram](https://t.me/funton_ai) [Bot](https://t.me/funton_ai_app_bot) [X](https://x.com/funton_ai) [Site](https://funton.ai) [Gram News](https://gramnews.org/apps/funton-ai) | 2024-07-05 |  |  |  |
-| 22 | **Quest Labs** |  | [Bot](https://t.me/questlabsbot) [X](https://x.com/TorchTon) [Site](https://torch.finance) [GitHub](https://github.com/torch-core) [Gram News](https://gramnews.org/apps/quest-labs) | 2024-05-28 |  | 2026-06-30 |  |
-| 23 | **Crypto Magnet** |  | [Bot](https://t.me/magnet_crypto_bot) [Gram News](https://gramnews.org/apps/crypto-magnet) | 2024-09-08 |  |  |  |
-| 24 | **ApePadcom** |  | [Bot](https://t.me/apepad_bot) [Gram News](https://gramnews.org/apps/apepadcom) | 2024-06-22 |  |  |  |
-| 25 | **SecretTonProject QQQ** |  | [Telegram](https://t.me/secrettonprojectqqq) [Bot](https://t.me/secretpadbot) [Gram News](https://gramnews.org/apps/secrettonproject-qqq) | 2024-08-02 |  |  |  |
-| 26 | **OpenTap by Openpad** |  | [Bot](https://t.me/openpadbot) [X](https://x.com/Openpad_io) [Gram News](https://gramnews.org/apps/opentap-by-openpad) | 2023-02-10 |  |  |  |
-| 27 | **2040World** | PvP game on a space station with avatars and combat | [Bot](https://t.me/world2040_bot) [X](https://x.com/2040World) [Site](https://cloudflare.com) [Gram News](https://gramnews.org/apps/2040world) | 2022-06-09 |  |  |  |
-| 28 | **RoOLZ** | RoOLZ — a Telegram roleplay game with NFTs and agentic gameplay | [Telegram](https://t.me/roolznft) [Bot](https://t.me/roolzquest_bot) [X](https://x.com/AtriumNft) [Site](https://Atrium.art) [Gram News](https://gramnews.org/apps/roolz) | 2023-08-23 |  |  | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 29 | **Bankcoin** | Master Banking, Earn Bitcoin | [Bot](https://t.me/bankcoins_bot) [X](https://x.com/realDogsHouse) [Gram News](https://gramnews.org/apps/bankcoin) | 2024-07-03 |  |  |  |
-| 30 | **Snap Fly Bot** | Snap Fly / Snap & Earn - Play for airdrop | [Telegram](https://t.me/SnapFly_updates) [Bot](https://t.me/snapfly_game_bot) [X](https://x.com/SnapFly_xyz) [Site](https://docs.snapfly.xyz/) [Gram News](https://gramnews.org/apps/snap-fly-bot) | 2024-06-28 |  | 2025-09-16 |  |
-| 31 | **PinGo** | PinGo Punny Bot - Wrapped your telegram | [Bot](https://t.me/pingo_minibot) [X](https://x.com/PinGoAI) [Site](https://pingo.work) [Gram News](https://gramnews.org/apps/pingo) | 2024-08-06 |  |  |  |
-| 32 | **LUMO** | Tap, trade, connect, grow and… farm LUMO Tokens! Next generation wallet. Made by team | [Telegram](https://t.me/cryptolumo) [Bot](https://t.me/cryptolumo_bot) [Gram News](https://gramnews.org/apps/lumo) | 2024-08-22 |  |  |  |
-| 33 | **BoostChain** | web 3.0 ecosystem for making money | [Bot](https://t.me/boostchainbot) [Gram News](https://gramnews.org/apps/boostchain) | 2024-07-13 |  |  |  |
-| 34 | **TokenTable** |  | [Telegram](https://t.me/tokentable) [Bot](https://t.me/tokentable_bot) [Gram News](https://gramnews.org/apps/tokentable) | 2024-08-26 |  |  | [ton-cis-hub-q2 25](../archive/2025-07-ton-cis-hub-q2.jpg) [ton-cis-hub 25](../archive/2025-ton-cis-hub.jpg) |
-| 35 | **AGIcoin** |  | [Bot](https://t.me/agicoins_bot) [X](https://x.com/agicointon) [Gram News](https://gramnews.org/apps/agicoin) | 2022-11-13 |  |  |  |
-| 36 | **Parachute** |  | [Telegram](https://t.me/parachuteannouncements) [Bot](https://t.me/parachute_app_bot) [X](https://x.com/Parachute_ton) [Site](https://www.parachute.finance/) [Gram News](https://gramnews.org/apps/parachute) | 2024-10-01 |  | 2026-02-13 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 37 | **TonCapy** |  | [Telegram](https://t.me/toncapy) [Bot](https://t.me/toncapy_bot) [X](https://x.com/Ton_Capy) [Site](https://toncapy.com) [Gram News](https://gramnews.org/apps/toncapy) | 2024-07-21 |  | 2024-11-04 | [tonpost 23](../archive/2023-10-tonpost.jpg) |
-| 38 | **Oldy** | Oldyest crypto community | [Telegram](https://t.me/oldy_community) [Bot](https://t.me/tonoldy_bot) [X](https://x.com/Oldy_Community) [Gram News](https://gramnews.org/apps/oldy) | 2024-08-08 |  | 2025-01-22 |  |
-| 39 | **RATS** |  | [Telegram](https://t.me/ratsgame_community) [Bot](https://t.me/ratsgame_bot) [Gram News](https://gramnews.org/apps/rats) | 2024-06-10 |  |  |  |
-| 40 | **Firecoin** | At the beginning of time, you could stare at Nothing. Now you stare at light shining… | [Bot](https://t.me/firecoin_app_bot) [X](https://x.com/firecoin_app) [Gram News](https://gramnews.org/apps/firecoin) | 2024-05-07 |  |  |  |
-| 41 | **Bitbot** | Secure, manage, and protect your wallets with ease | [Telegram](https://t.me/bitbotofficial) [Bot](https://t.me/hello_bitbot) [Gram News](https://gramnews.org/apps/bitbot) | 2024-08-30 |  |  |  |
-| 42 | **Horizon Launch** | Official bot of the EVEDEX decentralized exchange | [Bot](https://t.me/horizonlaunch_bot) [Gram News](https://gramnews.org/apps/horizon-launch) | 2024-07-14 |  |  |  |
-| 43 | **RoketoCoin Lunar Program** |  | [Bot](https://t.me/roketo_lunar_bot) [Gram News](https://gramnews.org/apps/roketocoin-lunar-program) | 2024-05-21 |  |  |  |
-| 44 | **Fastmint App** | Secure your future with Fastmint | [Telegram](https://t.me/Fastmint_Assist) [Bot](https://t.me/fastmintapp_bot) [X](https://x.com/fastmintorg) [Gram News](https://gramnews.org/apps/fastmint-app) | 2023-03-13 |  |  |  |
-| 45 | **CoinGatePad** | CoinGatePad — a platform for voting on and discovering new crypto projects | [Bot](https://t.me/coingatepadbot) [X](https://x.com/CoinGatePad) [Site](https://coingatepad.com/cgp) [Gram News](https://gramnews.org/apps/coingatepad) | 2023-08-11 |  |  |  |
-| 46 | **XTON Launchpad** | XTON is a Funding Platform Activating Telegram's Billion Users | [Bot](https://t.me/xtonbetabot) [Gram News](https://gramnews.org/apps/xton-launchpad) | 2024-03-15 |  |  |  |
-| 47 | **NotBabyCoinFAM** |  | [Bot](https://t.me/notbabycoinfambot) [GitHub](https://github.com/marakitio) [Gram News](https://gramnews.org/apps/notbabycoinfam) | 2024-02-03 |  |  |  |
-| 48 | **Shaker Coin** |  | [Bot](https://t.me/shaker_coin_bot) [Gram News](https://gramnews.org/apps/shaker-coin) | 2024-06-26 |  |  |  |
-| 49 | **Spica** |  | [X](https://x.com/spicafund) [Gram News](https://gramnews.org/apps/spica) | 2025-02-17 |  |  |  |
-| 50 | **PizzaTon** |  | [Telegram](https://t.me/PitzaTon) [Bot](https://t.me/pizzatonbot) [GitHub](https://github.com/pizzaton) [Gram News](https://gramnews.org/apps/pizzaton) | 2023-11-04 |  | 2025-06-28 |  |
-| 51 | **Finch Coin** | Finch Coin – a Telegram mini app for claiming airdrop tokens | [Telegram](https://t.me/FinchCoin_org) [Bot](https://t.me/FinchAirdropBot) [X](https://x.com/FinchCoin_org) [Site](https://finchcoin.org) [Gram News](https://gramnews.org/apps/finch-coin) | 2024-10-04 |  | 2026-04-23 |  |
-| 52 | **Flare X** | Mission to the Flare X solar system (Version 1.4.6) | [Bot](https://t.me/flarexgamebot) [Gram News](https://gramnews.org/apps/flare-x) | 2024-04-03 |  |  |  |
-| 53 | **TonUP Launchpad** |  | [Bot](https://t.me/tonup_launchpad_bot) [Gram News](https://gramnews.org/apps/tonup-launchpad) | 2024-03-16 |  |  |  |
-| 54 | **MoneyMaker by RAYS** | RAYS: The Super Account for Multichain DeFi Management | [Telegram](https://t.me/raysx_global) [Bot](https://t.me/xtap_rays_bot) [X](https://x.com/Ray__sX) [Gram News](https://gramnews.org/apps/moneymaker-by-rays) | 2022-06-03 |  | 2026-04-30 |  |
-| 55 | **Seeds of TON** | Seed is an open social exploration game aiming at realizing social games. Telegram | [Telegram](https://t.me/SeedsofTON) [Bot](https://t.me/seeds_game_bot) [X](https://x.com/SeedsofTon) [Gram News](https://gramnews.org/apps/seeds-of-ton) | 2024-07-19 |  |  |  |
-| 56 | **Rikcoin** |  | [Telegram](https://t.me/r1kcoin) [Bot](https://t.me/rikcoinbot) [X](https://x.com/r1kcoin) [Gram News](https://gramnews.org/apps/rikcoin) | 2022-02-09 |  | 2025-05-20 |  |
-| 57 | **Buck** | Making an honest buck | [Bot](https://t.me/buck_meme_bot) [Gram News](https://gramnews.org/apps/buck) | 2024-04-25 |  |  |  |
-| 58 | **EL TON** | Memecoin Most Wanted on TON! | [Bot](https://t.me/eltoncoin_bot) [Gram News](https://gramnews.org/apps/el-ton) | 2025-04-29 |  |  |  |
-| 59 | **Hypecoin** |  | [Telegram](https://t.me/hypecoinnews) [X](https://x.com/HypecoinFinance) [Gram News](https://gramnews.org/apps/hypecoin) | 2024-06-07 |  |  |  |
-| 60 | **Investment kingyru EN** |  | [X](https://x.com/kingyru) [Gram News](https://gramnews.org/apps/investment-kingyru-en) | 2022-02-14 |  |  |  |
-| 61 | **ListingUz** |  | [Bot](https://t.me/cryptowood_mini_app_bot) [Gram News](https://gramnews.org/apps/listinguz) | 2023-02-11 |  |  |  |
-| 62 | **Memes Lab** | LAB launcher: create, trade, develop | [Bot](https://t.me/memeslabbot) |  |  |  |  |
-| 63 | **Memetics** | Home of Telegram mini economies | [Telegram](https://t.me/memetics_news) |  |  |  |  |
-| 64 | **Pandastic** |  | [Bot](https://t.me/pandastic_bot) [X](https://x.com/pandastic_io) [Gram News](https://gramnews.org/apps/pandastic) | 2024-06-23 |  |  |  |
-| 65 | **Preseller** | Launch secure presale campaign on the TON blockchain in 5 minutes | [Bot](https://t.me/tonpreseller_bot) [Gram News](https://gramnews.org/apps/preseller) | 2025-01 |  |  |  |
-| 66 | **Quick** |  | [Bot](https://t.me/quick_tg_bot) [Gram News](https://gramnews.org/apps/quick) | 2024-08-15 |  |  |  |
-| 67 | **SolanaForge** | SolanaForge is a no-code multi-chain token creation platform that makes launching Web3… | [Telegram](https://t.me/SolanaForgeGroup) [X](https://x.com/solanaforgeapp) [Site](https://solanaforge.app) [GitHub](https://github.com/SolanaForge/SolanaForge) | 2026-05-10 |  | 2026-05-29 |  |
-| 68 | **TAND3M** | TAND3M – a platform for launching tokens and NFTs via LBP on the TON blockchain | [Bot](https://t.me/Tand3m_bot) [X](https://x.com/TAND3M_Official) [Site](https://tand3m.io/) [Gram News](https://gramnews.org/apps/tand3m) | 2024-12-13 |  |  |  |
-| 69 | **TON Gagarin World** |  | [Telegram](https://t.me/ton_gagarin_world_chat) [X](https://x.com/GAGARIN_World) | 2022-02-07 |  |  |  |
-| 70 | **TON INU Launchpad** |  | [Telegram](https://t.me/toninutools) [Bot](https://t.me/theontonbot) [X](https://x.com/toninutools) [Site](https://app.toninu.tech/launchpad) [Gram News](https://gramnews.org/apps/ton-inu-launchpad) | 2024-01-12 |  |  |  |
-| 71 | **ton.fun** |  | [Bot](https://t.me/tonfunbot) | 2024-10-16 |  |  | [messari 26](../archive/2026-05-messari.jpg) |
-| 72 | **TonPump.app** | TonPump Memes Launchpad Community | [Telegram](https://t.me/tonpump_community) [X](https://x.com/TonPump_app) | 2024-12-06 | TVL $2K |  |  |
-| 73 | **TONUP** |  | [Telegram](https://t.me/tonup_io) [X](https://x.com/TonUP_io) [Site](https://tonup.io/) [Gram News](https://gramnews.org/apps/tonup) | 2023-04 |  |  | [tonpost 23](../archive/2023-10-tonpost.jpg) [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
-| 74 | **Orexn** |  | [Telegram](https://t.me/OrexnApp) [Bot](https://t.me/Orexnbot) [X](https://x.com/OrexnX) [Gram News](https://gramnews.org/apps/orexn) | 2025-07-25 |  | 2026-05-02 |  |
-| 75 | **Ton Launchpad** |  | [Telegram](https://t.me/TheTonlaunch_pad) [Bot](https://t.me/tonlaunchpadofficial_bot) [X](https://x.com/thetonlaunchpad) [Site](https://tonlaunchpad.com/) [Gram News](https://gramnews.org/apps/ton-launchpad) | 2025-04-09 |  | 2025-04-10 |  |
-| 76 | **Capitalist** |  | [Telegram](https://t.me/capitalist_web3) [Bot](https://t.me/wisekeeperbot) [X](https://x.com/capitalistweb3) [Gram News](https://gramnews.org/apps/capitalist) | 2024-10-25 |  | 2024-10-25 |  |
-| 77 | **Purr.Fund** | The first Community-Driven Launchpad & Launchpool | [Telegram](https://t.me/purr_news) [Bot](https://t.me/purr_fund_bot) [X](https://x.com/PurrFund) [GitHub](https://github.com/PurrFund/SC-Purr) [Gram News](https://gramnews.org/apps/purr-fund) | 2024-04-09 |  | 2024-10-09 |  |
-| 78 | **TONpad** | TONpad - The first and premier Community-driven Token Launch Protocol on TON Blockchain | [Telegram](https://t.me/TONpad_news) [X](https://x.com/TON_launchpad) [GitHub](https://github.com/tonpad) [Gram News](https://gramnews.org/apps/tonpad) | 2024-03-20 |  | 2024-06-25 | [ton-degen 24](../archive/2024-06-ton-degen.jpg) |
+| # | Project | What it is | Links | Launched |
+| ---: | --- | --- | --- | --- |
+| 18 | **TON of Memes** | Create and trade memecoins | [Bot](https://t.me/TonOfMemesBot) [X](https://x.com/useTONMemes) [Gram News](https://gramnews.org/apps/ton-of-memes) | 2024-09-04 |
+| 19 | **Planeton** | PlaneTon is a SocialFi game where you can earn real money by growing your fleet of planes | [Telegram](https://t.me/planeton_hub) [Bot](https://t.me/theplanetonbot) [X](https://x.com/theplaneton) [Site](https://0xiceberg.com/) [Gram News](https://gramnews.org/apps/planeton) | 2024-07-07 |
+| 20 | **Polyton App** | Easy and secure token launches! | [Telegram](https://t.me/soda_fun) [Bot](https://t.me/polytonappbot) [Gram News](https://gramnews.org/apps/polyton-app) | 2024-06-18 |
+| 21 | **FUNTON.AI** | The Modular Multi-Game Platform | [Telegram](https://t.me/funton_ai) [Bot](https://t.me/funton_ai_app_bot) [X](https://x.com/funton_ai) [Site](https://funton.ai) [Gram News](https://gramnews.org/apps/funton-ai) | 2024-07-05 |
+| 22 | **Quest Labs** |  | [Bot](https://t.me/questlabsbot) [X](https://x.com/TorchTon) [Site](https://torch.finance) [GitHub](https://github.com/torch-core) [Gram News](https://gramnews.org/apps/quest-labs) | 2024-05-28 |
+| 23 | **Crypto Magnet** |  | [Bot](https://t.me/magnet_crypto_bot) [Gram News](https://gramnews.org/apps/crypto-magnet) | 2024-09-08 |
+| 24 | **ApePadcom** |  | [Bot](https://t.me/apepad_bot) [Gram News](https://gramnews.org/apps/apepadcom) | 2024-06-22 |
+| 25 | **SecretTonProject QQQ** |  | [Telegram](https://t.me/secrettonprojectqqq) [Bot](https://t.me/secretpadbot) [Gram News](https://gramnews.org/apps/secrettonproject-qqq) | 2024-08-02 |
+| 26 | **OpenTap by Openpad** |  | [Bot](https://t.me/openpadbot) [X](https://x.com/Openpad_io) [Gram News](https://gramnews.org/apps/opentap-by-openpad) | 2023-02-10 |
+| 27 | **2040World** | PvP game on a space station with avatars and combat | [Bot](https://t.me/world2040_bot) [X](https://x.com/2040World) [Site](https://cloudflare.com) [Gram News](https://gramnews.org/apps/2040world) | 2022-06-09 |
+| 28 | **RoOLZ** | RoOLZ — a Telegram roleplay game with NFTs and agentic gameplay | [Telegram](https://t.me/roolznft) [Bot](https://t.me/roolzquest_bot) [X](https://x.com/AtriumNft) [Site](https://Atrium.art) [Gram News](https://gramnews.org/apps/roolz) | 2023-08-23 |
+| 29 | **Bankcoin** | Master Banking, Earn Bitcoin | [Bot](https://t.me/bankcoins_bot) [X](https://x.com/realDogsHouse) [Gram News](https://gramnews.org/apps/bankcoin) | 2024-07-03 |
+| 30 | **Snap Fly Bot** | Snap Fly / Snap & Earn - Play for airdrop | [Telegram](https://t.me/SnapFly_updates) [Bot](https://t.me/snapfly_game_bot) [X](https://x.com/SnapFly_xyz) [Site](https://docs.snapfly.xyz/) [Gram News](https://gramnews.org/apps/snap-fly-bot) | 2024-06-28 |
+| 31 | **PinGo** | PinGo Punny Bot - Wrapped your telegram | [Bot](https://t.me/pingo_minibot) [X](https://x.com/PinGoAI) [Site](https://pingo.work) [Gram News](https://gramnews.org/apps/pingo) | 2024-08-06 |
+| 32 | **LUMO** | Tap, trade, connect, grow and… farm LUMO Tokens! Next generation wallet. Made by team | [Telegram](https://t.me/cryptolumo) [Bot](https://t.me/cryptolumo_bot) [Gram News](https://gramnews.org/apps/lumo) | 2024-08-22 |
+| 33 | **BoostChain** | web 3.0 ecosystem for making money | [Bot](https://t.me/boostchainbot) [Gram News](https://gramnews.org/apps/boostchain) | 2024-07-13 |
+| 34 | **TokenTable** |  | [Telegram](https://t.me/tokentable) [Bot](https://t.me/tokentable_bot) [Gram News](https://gramnews.org/apps/tokentable) | 2024-08-26 |
+| 35 | **AGIcoin** |  | [Bot](https://t.me/agicoins_bot) [X](https://x.com/agicointon) [Gram News](https://gramnews.org/apps/agicoin) | 2022-11-13 |
+| 36 | **Parachute** |  | [Telegram](https://t.me/parachuteannouncements) [Bot](https://t.me/parachute_app_bot) [X](https://x.com/Parachute_ton) [Site](https://www.parachute.finance/) [Gram News](https://gramnews.org/apps/parachute) | 2024-10-01 |
+| 37 | **TonCapy** |  | [Telegram](https://t.me/toncapy) [Bot](https://t.me/toncapy_bot) [X](https://x.com/Ton_Capy) [Site](https://toncapy.com) [Gram News](https://gramnews.org/apps/toncapy) | 2024-07-21 |
+| 38 | **Oldy** | Oldyest crypto community | [Telegram](https://t.me/oldy_community) [Bot](https://t.me/tonoldy_bot) [X](https://x.com/Oldy_Community) [Gram News](https://gramnews.org/apps/oldy) | 2024-08-08 |
+| 39 | **RATS** |  | [Telegram](https://t.me/ratsgame_community) [Bot](https://t.me/ratsgame_bot) [Gram News](https://gramnews.org/apps/rats) | 2024-06-10 |
+| 40 | **Firecoin** | At the beginning of time, you could stare at Nothing. Now you stare at light shining… | [Bot](https://t.me/firecoin_app_bot) [X](https://x.com/firecoin_app) [Gram News](https://gramnews.org/apps/firecoin) | 2024-05-07 |
+| 41 | **Bitbot** | Secure, manage, and protect your wallets with ease | [Telegram](https://t.me/bitbotofficial) [Bot](https://t.me/hello_bitbot) [Gram News](https://gramnews.org/apps/bitbot) | 2024-08-30 |
+| 42 | **Horizon Launch** | Official bot of the EVEDEX decentralized exchange | [Bot](https://t.me/horizonlaunch_bot) [Gram News](https://gramnews.org/apps/horizon-launch) | 2024-07-14 |
+| 43 | **RoketoCoin Lunar Program** |  | [Bot](https://t.me/roketo_lunar_bot) [Gram News](https://gramnews.org/apps/roketocoin-lunar-program) | 2024-05-21 |
+| 44 | **Fastmint App** | Secure your future with Fastmint | [Telegram](https://t.me/Fastmint_Assist) [Bot](https://t.me/fastmintapp_bot) [X](https://x.com/fastmintorg) [Gram News](https://gramnews.org/apps/fastmint-app) | 2023-03-13 |
+| 45 | **CoinGatePad** | CoinGatePad — a platform for voting on and discovering new crypto projects | [Bot](https://t.me/coingatepadbot) [X](https://x.com/CoinGatePad) [Site](https://coingatepad.com/cgp) [Gram News](https://gramnews.org/apps/coingatepad) | 2023-08-11 |
+| 46 | **XTON Launchpad** | XTON is a Funding Platform Activating Telegram's Billion Users | [Bot](https://t.me/xtonbetabot) [Gram News](https://gramnews.org/apps/xton-launchpad) | 2024-03-15 |
+| 47 | **NotBabyCoinFAM** |  | [Bot](https://t.me/notbabycoinfambot) Site (down) [GitHub](https://github.com/marakitio) [Gram News](https://gramnews.org/apps/notbabycoinfam) | 2024-02-03 |
+| 48 | **Shaker Coin** |  | [Bot](https://t.me/shaker_coin_bot) [Gram News](https://gramnews.org/apps/shaker-coin) | 2024-06-26 |
+| 49 | **Spica** |  | [X](https://x.com/spicafund) [Gram News](https://gramnews.org/apps/spica) | 2025-02-17 |
+| 50 | **PizzaTon** |  | [Telegram](https://t.me/PitzaTon) [Bot](https://t.me/pizzatonbot) Site (down) [GitHub](https://github.com/pizzaton) [Gram News](https://gramnews.org/apps/pizzaton) | 2023-11-04 |
+| 51 | **Finch Coin** | Finch Coin – a Telegram mini app for claiming airdrop tokens | [Telegram](https://t.me/FinchCoin_org) [Bot](https://t.me/FinchAirdropBot) [X](https://x.com/FinchCoin_org) [Site](https://finchcoin.org) [Gram News](https://gramnews.org/apps/finch-coin) | 2024-10-04 |
+| 52 | **Flare X** | Mission to the Flare X solar system (Version 1.4.6) | [Bot](https://t.me/flarexgamebot) [Gram News](https://gramnews.org/apps/flare-x) | 2024-04-03 |
+| 53 | **TonUP Launchpad** |  | [Bot](https://t.me/tonup_launchpad_bot) [Gram News](https://gramnews.org/apps/tonup-launchpad) | 2024-03-16 |
+| 54 | **MoneyMaker by RAYS** | RAYS: The Super Account for Multichain DeFi Management | [Telegram](https://t.me/raysx_global) [Bot](https://t.me/xtap_rays_bot) [X](https://x.com/Ray__sX) [Gram News](https://gramnews.org/apps/moneymaker-by-rays) | 2022-06-03 |
+| 55 | **Seeds of TON** | Seed is an open social exploration game aiming at realizing social games. Telegram | [Telegram](https://t.me/SeedsofTON) [Bot](https://t.me/seeds_game_bot) [X](https://x.com/SeedsofTon) [Gram News](https://gramnews.org/apps/seeds-of-ton) | 2024-07-19 |
+| 56 | **Rikcoin** |  | [Telegram](https://t.me/r1kcoin) [Bot](https://t.me/rikcoinbot) [X](https://x.com/r1kcoin) [Gram News](https://gramnews.org/apps/rikcoin) | 2022-02-09 |
+| 57 | **Buck** | Making an honest buck | [Bot](https://t.me/buck_meme_bot) [Gram News](https://gramnews.org/apps/buck) | 2024-04-25 |
+| 58 | **Early** | Offers from early-stage projects for their contributors and active users | [Telegram](https://t.me/earn_early) | 2024-02 |
+| 59 | **EL TON** | Memecoin Most Wanted on TON! | [Bot](https://t.me/eltoncoin_bot) [Gram News](https://gramnews.org/apps/el-ton) | 2025-04-29 |
+| 60 | **Hypecoin** |  | [Telegram](https://t.me/hypecoinnews) [X](https://x.com/HypecoinFinance) [Gram News](https://gramnews.org/apps/hypecoin) | 2024-06-07 |
+| 61 | **Investment kingyru EN** |  | [X](https://x.com/kingyru) [Gram News](https://gramnews.org/apps/investment-kingyru-en) | 2022-02-14 |
+| 62 | **ListingUz** |  | [Bot](https://t.me/cryptowood_mini_app_bot) [Gram News](https://gramnews.org/apps/listinguz) | 2023-02-11 |
+| 63 | **Memes Lab** | LAB launcher: create, trade, develop | [Telegram](https://t.me/lab_trade) [Bot](https://t.me/memeslabbot) [Site](https://lab.pro) | 2024-07-25 |
+| 64 | **Memetics** | Home of Telegram mini economies | [Telegram](https://t.me/memetics_news) | 2024-09-23 |
+| 65 | **Pandastic** |  | [Bot](https://t.me/pandastic_bot) [X](https://x.com/pandastic_io) [Gram News](https://gramnews.org/apps/pandastic) | 2024-06-23 |
+| 66 | **Preseller** | Launch secure presale campaign on the TON blockchain in 5 minutes | [Bot](https://t.me/tonpreseller_bot) [Gram News](https://gramnews.org/apps/preseller) | 2025-01 |
+| 67 | **Quick** |  | [Bot](https://t.me/quick_tg_bot) [Gram News](https://gramnews.org/apps/quick) | 2024-08-15 |
+| 68 | **SolanaForge** | SolanaForge is a no-code multi-chain token creation platform that makes launching Web3… | [Telegram](https://t.me/SolanaForgeGroup) [X](https://x.com/solanaforgeapp) [Site](https://solanaforge.app) [GitHub](https://github.com/SolanaForge/SolanaForge) | 2026-05-10 |
+| 69 | **TAND3M** | TAND3M – a platform for launching tokens and NFTs via LBP on the TON blockchain | [Bot](https://t.me/Tand3m_bot) [X](https://x.com/TAND3M_Official) [Site](https://tand3m.io/) [Gram News](https://gramnews.org/apps/tand3m) | 2024-12-13 |
+| 70 | **TON Gagarin World** |  | [Telegram](https://t.me/ton_gagarin_world_chat) [X](https://x.com/GAGARIN_World) | 2022-02-07 |
+| 71 | **TON INU Launchpad** |  | [Telegram](https://t.me/toninutools) [Bot](https://t.me/theontonbot) [X](https://x.com/toninutools) [Site](https://app.toninu.tech/launchpad) [Gram News](https://gramnews.org/apps/ton-inu-launchpad) | 2024-01-12 |
+| 72 | **ton.fun** |  | [Bot](https://t.me/tonfunbot) | 2024-10-16 |
+| 73 | **TonPump.app** | TonPump Memes Launchpad Community | [Telegram](https://t.me/tonpump_community) [X](https://x.com/TonPump_app) | 2024-12-06 |
+| 74 | **TONUP** |  | [Telegram](https://t.me/tonup_io) [X](https://x.com/TonUP_io) [Site](https://tonup.io/) [Gram News](https://gramnews.org/apps/tonup) | 2023-04 |
+| 75 | **Orexn** |  | [Telegram](https://t.me/OrexnApp) [Bot](https://t.me/Orexnbot) [X](https://x.com/OrexnX) Site (down) [Gram News](https://gramnews.org/apps/orexn) | 2025-07-25 |
+| 76 | **Ton Launchpad** |  | [Telegram](https://t.me/TheTonlaunch_pad) [Bot](https://t.me/tonlaunchpadofficial_bot) [X](https://x.com/thetonlaunchpad) [Site](https://tonlaunchpad.com/) [Gram News](https://gramnews.org/apps/ton-launchpad) | 2025-04-09 |
+| 77 | **Capitalist** |  | [Telegram](https://t.me/capitalist_web3) [Bot](https://t.me/wisekeeperbot) [X](https://x.com/capitalistweb3) [Gram News](https://gramnews.org/apps/capitalist) | 2024-10-25 |
+| 78 | **Purr.Fund** | The first Community-Driven Launchpad & Launchpool | [Telegram](https://t.me/purr_news) [Bot](https://t.me/purr_fund_bot) [X](https://x.com/PurrFund) Site (down) [GitHub](https://github.com/PurrFund/SC-Purr) [Gram News](https://gramnews.org/apps/purr-fund) | 2024-04-09 |
+| 79 | **TONpad** | TONpad - The first and premier Community-driven Token Launch Protocol on TON Blockchain | [Telegram](https://t.me/TONpad_news) [X](https://x.com/TON_launchpad) Site (down) [GitHub](https://github.com/tonpad) [Gram News](https://gramnews.org/apps/tonpad) | 2024-03-20 |
 
 </details>
 
 <details><summary><b>Closed: 1</b></summary>
 
-| # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
-| ---: | --- | --- | --- | --- | --- | --- | --- |
-| 79 | **Pumpers.tg** | Launch and Trade Memecoins on TON | [Telegram](https://t.me/pumpers) [X](https://x.com/pumperstg) | 2024-05-21 | 13K views | 2026-09-30 |  |
+| # | Project | What it is | Links | Launched |
+| ---: | --- | --- | --- | --- |
+| 80 | **Pumpers.tg** | Launch and Trade Memecoins on TON | [Telegram](https://t.me/pumpers) [X](https://x.com/pumperstg) | 2024-05-21 |
 
 </details>

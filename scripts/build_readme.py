@@ -58,45 +58,24 @@ def links(r):
     out = []
     for key, label in (("telegram", "Telegram"), ("bot", "Bot"), ("x", "X"), ("website", "Site"), ("github", "GitHub"),
                        ("gramnews", "Gram News")):
-        if r.get(key):
+        if key == "website" and r.get("website_down"):
+            out.append("Site (down)")   # the address stays in the data; a dead domain is often resold, so no link
+        elif r.get(key):
             out.append(f"[{label}]({r[key]})")
     return " ".join(out)
 
 
-def activity(r):
-    if r["metric"]:
-        return r["metric"]
-    parts = []
-    if r["views_q3"]:
-        parts.append(f"{fmt(r['views_q3'])} views")
-    if r["mau"] and r["status"] == "active":
-        parts.append(f"{fmt(r['mau'])} MAU")
-    if not parts and r["last_commit"] >= "2026-07-01" and r["category"] in ("devtools", "infra", "tools"):
-        parts.append(f"commit {r['last_commit']}")
-    return ", ".join(parts)
 
 
-def last_seen(r):
-    return max(r["last_post"], r["last_commit"]) or ""
 
 
-def seen_in(r, prefix=""):
-    out = []
-    for s in r["sources"].split():
-        if os.path.exists(f"archive/{s}.jpg"):
-            parts = s.split("-")
-            year = parts[0] if parts[0].isdigit() else ""
-            author = "-".join(p for p in parts if not p.isdigit() and p != "thumb")
-            out.append(f"[{author} {year[2:]}]({prefix}archive/{s}.jpg)".replace(" ]", "]"))
-    return " ".join(out)
 
 
 def table(items, prefix=""):
-    out = ["| # | Project | What it is | Links | Launched | Activity | Last seen | On maps |",
-           "| ---: | --- | --- | --- | --- | --- | --- | --- |"]
+    out = ["| # | Project | What it is | Links | Launched |",
+           "| ---: | --- | --- | --- | --- |"]
     for r in items:
-        name = f"**{cell(r['name'])}**" + (" ✓" if r["native"] == "1" else "")
-        out.append(f"| {r['rank']} | {name} | {short(r['description'])} | {links(r)} | {r.get('launched', '')} | {activity(r)} | {last_seen(r)} | {seen_in(r, prefix)} |")
+        out.append(f"| {r['rank']} | **{cell(r['name'])}** | {short(r['description'])} | {links(r)} | {r.get('launched', '')} |")
     return out
 
 
@@ -206,10 +185,7 @@ def build():
         "## How to read it",
         "",
         "- **Status** is measured, not judged: `active`, `quiet` or `closed`.",
-        "- **Last seen** is the latest post on the project's own channel, or its latest commit.",
         "- **Launched** is when the project started or came to TON; `launched_source` says how the date was found.",
-        "- **✓** marks projects built for TON, as opposed to global brands and multi-chain services.",
-        "- **On maps** links to the ecosystem maps the project appeared on since 2022.",
         "",
         "<details><summary><b>What makes a project active</b></summary>",
         "",
@@ -254,7 +230,7 @@ def build():
         "",
         "<details><summary><b>Columns of projects.csv</b></summary>",
         "",
-        "`category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, "
+        "`category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `website_down` (the date a check found the site gone), "
         "`github`, `gramnews` (the project's card on gramnews.org), `last_post`, `last_commit`, `launched`, `launched_source`, `subscribers`, "
         "`reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.",
         "",
@@ -313,13 +289,10 @@ def build():
         "",
         "## Contribute",
         "",
-        f"1. **Fix a link.** Start with [{PROBLEMS}]({PROBLEMS}), correct `data/projects.csv` and log the change in "
-        "`data/link-fixes.csv` with the page that proves it.",
-        f"2. **Tie a name from an old map.** [data/unresolved.csv](data/unresolved.csv) has {len(unresolved)} of them, "
-        "half with a candidate channel to check.",
-        "3. **Add a project** with at least one link and where you found it.",
-        "",
-        "Then run `python3 scripts/build_readme.py`; CI checks the rest. Details in [CONTRIBUTING.md](CONTRIBUTING.md).",
+        "Found a wrong link or a missing project? Fill in a form, no files to edit: "
+        "[wrong link](https://github.com/vitalikgpt/gram-ecosystem/issues/new?template=fix-link.yml), "
+        "[missing project](https://github.com/vitalikgpt/gram-ecosystem/issues/new?template=add-project.yml). "
+        "Pull requests are welcome too, see [CONTRIBUTING.md](CONTRIBUTING.md).",
         "",
         "## License",
         "",

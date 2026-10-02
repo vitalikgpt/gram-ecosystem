@@ -33,6 +33,8 @@ for i, r in enumerate(csv.DictReader(open("data/projects.csv", encoding="utf-8")
             errors.append(f"{where}: {k} must be YYYY-MM-DD")
     if r.get("launched") and not re.fullmatch(r"\d{4}(-\d{2}(-\d{2})?)?", r["launched"]):
         errors.append(f"{where}: launched must be YYYY, YYYY-MM or YYYY-MM-DD")
+    if r.get("website_down") and (not DATE.fullmatch(r["website_down"]) or not r["website"]):
+        errors.append(f"{where}: website_down must be YYYY-MM-DD and needs a website")
     if r.get("launched") and not r.get("launched_source"):
         errors.append(f"{where}: launched needs launched_source")
     for k in ("subscribers", "mau", "reach_q3", "views_q3", "posts_q3"):
@@ -59,7 +61,7 @@ slugs = seen
 for i, f in enumerate(csv.DictReader(open("data/link-fixes.csv", encoding="utf-8")), start=2):
     if f["slug"] not in slugs:
         errors.append(f"data/link-fixes.csv:{i}: unknown slug '{f['slug']}'")
-    if f["field"] not in ("telegram", "bot", "x", "website", "github") or f["action"] not in ("replace", "remove", "confirm"):
+    if f["field"] not in ("telegram", "bot", "x", "website", "github") or f["action"] not in ("replace", "remove", "confirm", "down"):
         errors.append(f"data/link-fixes.csv:{i}: field or action is not recognised")
     if not f["evidence"].strip():
         errors.append(f"data/link-fixes.csv:{i}: evidence is required")

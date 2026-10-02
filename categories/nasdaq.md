@@ -6,7 +6,7 @@
 
 ## Active
 
-| # | Project | What it is | Links | Launched | Activity | Last seen | On maps |
-| ---: | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **TON Strategy** ✓ |  | [Site](https://tonstrat.com) | 2025-07-03 |  |  |  |
-| 2 | **Alpha Compute** ✓ |  | [Site](https://alphacompute.com) | 2009-03-12 |  |  |  |
+| # | Project | What it is | Links | Launched |
+| ---: | --- | --- | --- | --- |
+| 1 | **TON Strategy** |  | [Site](https://tonstrat.com) | 2025-07-03 |
+| 2 | **Alpha Compute** |  | [Site](https://alphacompute.com) | 2009-03-12 |

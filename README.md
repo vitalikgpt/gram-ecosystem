@@ -2,9 +2,9 @@
 
 <img src="assets/cover.jpg" alt="Gram Ecosystem: TON and Telegram projects" width="100%">
 
-<img src="https://img.shields.io/badge/projects-3%2C221-5aa9ff?style=flat-square" alt="projects: 3,221"> <img src="https://img.shields.io/badge/active-928-4cd08a?style=flat-square" alt="active: 928"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/links%20fixed-1%2C872-f2b84b?style=flat-square" alt="links fixed: 1,872"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
+<img src="https://img.shields.io/badge/projects-3%2C223-5aa9ff?style=flat-square" alt="projects: 3,223"> <img src="https://img.shields.io/badge/active-928-4cd08a?style=flat-square" alt="active: 928"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/links%20fixed-1%2C874-f2b84b?style=flat-square" alt="links fixed: 1,874"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
 
-**Every TON and Telegram project we could verify: 3,221 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 7,479 links are checked every week; 1,872 wrong ones have been fixed so far, each with its evidence.
+**Every TON and Telegram project we could verify: 3,223 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 7,847 links are checked every week; 1,874 wrong ones have been fixed so far, each with its evidence.
 
 Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, build on it.
 
@@ -38,18 +38,18 @@ Each category has its own page with every project, active ones first.
 | [NFT collections](categories/nftcaps.md) | 5 | 5 | Anonymous Numbers, Plush Pepe, Telegram Usernames, Scared Cat |
 | [Tokens](categories/tokens.md) | 44 | 114 | GROYP, UTYA, XROCK, CHERRY |
 | [NFT & Gifts](categories/nftmarkets.md) | 84 | 236 | Getgems, Tonnel, @MRKT, Marketapp |
-| [Memepads](categories/launchpads.md) | 17 | 79 | TopBlast, Meridian, @Blum, BigPump |
+| [Memepads](categories/launchpads.md) | 17 | 80 | TopBlast, Meridian, @Blum, BigPump |
 | [Trading bots](categories/trading.md) | 20 | 37 | @Trade, PocketFi, Maestro, Upscale |
 | [Social](categories/social.md) | 19 | 107 | @Mira, TON Dating, @Major, @IPredict |
 | [AI](categories/ai.md) | 15 | 39 | AI Lab, MOONBERG AI BOT, Spru, AgentBook |
-| [Tools](categories/tools.md) | 23 | 73 | Randomize Bot, RandomGodBot, XDAO, Random Beast |
+| [Tools](categories/tools.md) | 23 | 75 | Randomize Bot, RandomGodBot, XDAO, Random Beast |
 | [Shopping](categories/shopping.md) | 5 | 32 | iCryptoCheck, Uquid Shop, uShopWebBot, IrenSystem |
 | [Education](categories/education.md) | 4 | 26 | TonNewbie, Be Unstoppable, iQuizMaster, BehLand |
 | [Games](categories/games.md) | 116 | 751 | Dogs, CITY Holder, Catizen, Gatto |
 | [Farming](categories/farming.md) | 247 | 772 | Boinkers, Time Farm, Agent 301, Hrum |
 | [Casino](categories/gambling.md) | 45 | 175 | VIRUS GAME, Epic Gift, Easy Gift, Gorilla Case |
 | [Studios](categories/studios.md) | 3 | 14 | GAMEE, PlayDeck, TonTon Games |
-| [Funds](categories/funds.md) | 0 | 15 |  |
+| [Funds](categories/funds.md) | 0 | 14 |  |
 | [Accelerators](categories/accelerators.md) | 0 | 5 |  |
 
 ## Largest projects
@@ -77,8 +77,8 @@ Who builds and backs the projects. Each link between a project and an organisati
 
 | Organisation | Type | Projects |
 | --- | --- | --- |
-| [The Open Platform](categories/studios.md) | studio | [@Walt](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (built), [Wallet Pay](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (built), [PlayDeck](https://www.playdeck.io/) (owns), [STON.fi](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (ecosystem), [Getgems](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (ecosystem), [Keeper](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (ecosystem), [Telegram Growth Hub](https://www.streetinsider.com/Globe+Newswire/OKX+Ventures,+The+Open+Platform+and+Folius+Ventures+Launch+$10+Million+Telegram+Growth+Hub/23896789.html) (co-launched), [TOP Labs](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (venture arm) |
-| [Open Builders](categories/studios.md) | studio | [Notcoin](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built), [Tonstarter](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built), [Community](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built), [Access](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built) |
+| [Open Builders](categories/studios.md) | studio | [Notcoin](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built), [Tonstarter](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built), [Community](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built), [Access](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built), [Contests](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built), [Giveaway](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built), [Early](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built) |
+| [The Open Platform](categories/studios.md) | studio | [@Walt](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (built), [Wallet Pay](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (built), [PlayDeck](https://www.playdeck.io/) (owns), [STON.fi](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (ecosystem), [Getgems](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (ecosystem), [Keeper](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (ecosystem), [Telegram Growth Hub](https://www.streetinsider.com/Globe+Newswire/OKX+Ventures,+The+Open+Platform+and+Folius+Ventures+Launch+$10+Million+Telegram+Growth+Hub/23896789.html) (co-launched) |
 | [GAMEE](categories/studios.md) | studio | [WatBird](https://www.animocabrands.com/gamee-receives-investment-from-ton-ventures) (built), [Moon Cards](https://playtoearn.com/news/gamee-launches-moon-cards-a-memecoin-powered-tcg-on-telegram) (built) |
 | [PlayDeck](categories/studios.md) | studio | [State.io](https://www.playdeck.io/) (published), [Idle Legion](https://www.playdeck.io/) (published) |
 | [TON Ventures](categories/funds.md) | fund | [GAMEE](https://www.animocabrands.com/gamee-receives-investment-from-ton-ventures) (invested), [Delabs Games](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) (invested), [Goat Gaming](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) (invested), [Memetics](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) (invested), [TAC](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) (invested), [STON.fi](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) (invested), [EVAA Protocol](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) (invested), [bionapp](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) (invested) |
@@ -93,10 +93,7 @@ Who builds and backs the projects. Each link between a project and an organisati
 ## How to read it
 
 - **Status** is measured, not judged: `active`, `quiet` or `closed`.
-- **Last seen** is the latest post on the project's own channel, or its latest commit.
 - **Launched** is when the project started or came to TON; `launched_source` says how the date was found.
-- **✓** marks projects built for TON, as opposed to global brands and multi-chain services.
-- **On maps** links to the ecosystem maps the project appeared on since 2022.
 
 <details><summary><b>What makes a project active</b></summary>
 
@@ -137,17 +134,17 @@ The `sources` column lists every place a project was found:
 
 | File | What is in it |
 | --- | --- |
-| [data/projects.csv](data/projects.csv) | 3,221 projects, one per row |
+| [data/projects.csv](data/projects.csv) | 3,223 projects, one per row |
 | [data/channels.csv](data/channels.csv) | 685 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
 | [data/categories.json](data/categories.json) | categories in display order |
-| [data/link-fixes.csv](data/link-fixes.csv) | 1,961 link decisions (replaced, removed, confirmed) with evidence |
+| [data/link-fixes.csv](data/link-fixes.csv) | 1,964 link decisions (replaced, removed, confirmed) with evidence |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
 | [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |
 | [reports/link-check.md](reports/link-check.md) | 770 links that failed the last check |
 
 <details><summary><b>Columns of projects.csv</b></summary>
 
-`category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `github`, `gramnews` (the project's card on gramnews.org), `last_post`, `last_commit`, `launched`, `launched_source`, `subscribers`, `reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.
+`category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `website_down` (the date a check found the site gone), `github`, `gramnews` (the project's card on gramnews.org), `last_post`, `last_commit`, `launched`, `launched_source`, `subscribers`, `reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.
 
 </details>
 
@@ -187,11 +184,7 @@ By language: Russian 447, English 204, Persian 10, Ukrainian 6, Arabic 5, Indone
 
 ## Contribute
 
-1. **Fix a link.** Start with [reports/link-check.md](reports/link-check.md), correct `data/projects.csv` and log the change in `data/link-fixes.csv` with the page that proves it.
-2. **Tie a name from an old map.** [data/unresolved.csv](data/unresolved.csv) has 220 of them, half with a candidate channel to check.
-3. **Add a project** with at least one link and where you found it.
-
-Then run `python3 scripts/build_readme.py`; CI checks the rest. Details in [CONTRIBUTING.md](CONTRIBUTING.md).
+Found a wrong link or a missing project? Fill in a form, no files to edit: [wrong link](https://github.com/vitalikgpt/gram-ecosystem/issues/new?template=fix-link.yml), [missing project](https://github.com/vitalikgpt/gram-ecosystem/issues/new?template=add-project.yml). Pull requests are welcome too, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
