@@ -1,0 +1,418 @@
+{
+ "name": "gram-ecosystem",
+ "title": "Gram Ecosystem: TON and Telegram projects",
+ "homepage": "https://github.com/vitalikgpt/gram-ecosystem",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "Creative Commons Attribution 4.0"
+  }
+ ],
+ "contributors": [
+  {
+   "title": "Gram News",
+   "path": "https://gramnews.org",
+   "role": "author"
+  }
+ ],
+ "resources": [
+  {
+   "name": "projects",
+   "path": "data/projects.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "TON and Telegram projects, one per row, with links, ids, activity and launch dates",
+   "schema": {
+    "fields": [
+     {
+      "name": "category",
+      "type": "string"
+     },
+     {
+      "name": "rank",
+      "type": "integer"
+     },
+     {
+      "name": "name",
+      "type": "string"
+     },
+     {
+      "name": "slug",
+      "type": "string"
+     },
+     {
+      "name": "status",
+      "type": "string"
+     },
+     {
+      "name": "on_map",
+      "type": "integer"
+     },
+     {
+      "name": "native",
+      "type": "integer"
+     },
+     {
+      "name": "evidence",
+      "type": "string"
+     },
+     {
+      "name": "telegram",
+      "type": "string"
+     },
+     {
+      "name": "bot",
+      "type": "string"
+     },
+     {
+      "name": "x",
+      "type": "string"
+     },
+     {
+      "name": "website",
+      "type": "string"
+     },
+     {
+      "name": "website_down",
+      "type": "string",
+      "description": "YYYY-MM-DD"
+     },
+     {
+      "name": "github",
+      "type": "string"
+     },
+     {
+      "name": "gramnews",
+      "type": "string"
+     },
+     {
+      "name": "last_post",
+      "type": "string",
+      "description": "YYYY-MM-DD"
+     },
+     {
+      "name": "last_commit",
+      "type": "string",
+      "description": "YYYY-MM-DD"
+     },
+     {
+      "name": "launched",
+      "type": "string"
+     },
+     {
+      "name": "launched_source",
+      "type": "string"
+     },
+     {
+      "name": "subscribers",
+      "type": "integer"
+     },
+     {
+      "name": "reach_q3",
+      "type": "integer"
+     },
+     {
+      "name": "views_q3",
+      "type": "integer"
+     },
+     {
+      "name": "posts_q3",
+      "type": "integer"
+     },
+     {
+      "name": "mau",
+      "type": "integer"
+     },
+     {
+      "name": "metric",
+      "type": "string"
+     },
+     {
+      "name": "sources",
+      "type": "string"
+     },
+     {
+      "name": "description",
+      "type": "string"
+     },
+     {
+      "name": "peak_mau",
+      "type": "integer"
+     },
+     {
+      "name": "peak_mau_date",
+      "type": "string",
+      "description": "YYYY-MM-DD"
+     },
+     {
+      "name": "telegram_id",
+      "type": "integer"
+     },
+     {
+      "name": "bot_id",
+      "type": "integer"
+     },
+     {
+      "name": "verified",
+      "type": "integer"
+     },
+     {
+      "name": "verified_since",
+      "type": "string",
+      "description": "YYYY-MM-DD"
+     }
+    ]
+   }
+  },
+  {
+   "name": "channels",
+   "path": "data/channels.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "channels that write about TON without being a project's own",
+   "schema": {
+    "fields": [
+     {
+      "name": "rank",
+      "type": "integer"
+     },
+     {
+      "name": "name",
+      "type": "string"
+     },
+     {
+      "name": "telegram",
+      "type": "string"
+     },
+     {
+      "name": "language",
+      "type": "string"
+     },
+     {
+      "name": "theme",
+      "type": "string"
+     },
+     {
+      "name": "created",
+      "type": "string"
+     },
+     {
+      "name": "created_source",
+      "type": "string"
+     },
+     {
+      "name": "subscribers",
+      "type": "integer"
+     },
+     {
+      "name": "posts_q3",
+      "type": "integer"
+     },
+     {
+      "name": "views_q3",
+      "type": "integer"
+     },
+     {
+      "name": "telegram_id",
+      "type": "integer"
+     },
+     {
+      "name": "verified",
+      "type": "integer"
+     },
+     {
+      "name": "verified_since",
+      "type": "string",
+      "description": "YYYY-MM-DD"
+     }
+    ]
+   }
+  },
+  {
+   "name": "similar",
+   "path": "data/similar.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "whom Telegram shows in similar channels or similar bots next to an entity here (June 2026)",
+   "schema": {
+    "fields": [
+     {
+      "name": "list",
+      "type": "string"
+     },
+     {
+      "name": "from",
+      "type": "string"
+     },
+     {
+      "name": "from_name",
+      "type": "string"
+     },
+     {
+      "name": "to",
+      "type": "string"
+     },
+     {
+      "name": "to_name",
+      "type": "string"
+     },
+     {
+      "name": "rank",
+      "type": "integer"
+     },
+     {
+      "name": "seen",
+      "type": "string",
+      "description": "YYYY-MM-DD"
+     }
+    ]
+   }
+  },
+  {
+   "name": "relations",
+   "path": "data/relations.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "which studio built, fund backed or accelerator took a project, with the source",
+   "schema": {
+    "fields": [
+     {
+      "name": "project",
+      "type": "string"
+     },
+     {
+      "name": "project_slug",
+      "type": "string"
+     },
+     {
+      "name": "organisation",
+      "type": "string"
+     },
+     {
+      "name": "organisation_slug",
+      "type": "string"
+     },
+     {
+      "name": "relation",
+      "type": "string"
+     },
+     {
+      "name": "source",
+      "type": "string"
+     }
+    ]
+   }
+  },
+  {
+   "name": "link-fixes",
+   "path": "data/link-fixes.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "every link decision with its evidence",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "string",
+      "description": "YYYY-MM-DD"
+     },
+     {
+      "name": "slug",
+      "type": "string"
+     },
+     {
+      "name": "name",
+      "type": "string"
+     },
+     {
+      "name": "field",
+      "type": "string"
+     },
+     {
+      "name": "action",
+      "type": "string"
+     },
+     {
+      "name": "old",
+      "type": "string"
+     },
+     {
+      "name": "new",
+      "type": "string"
+     },
+     {
+      "name": "evidence",
+      "type": "string"
+     }
+    ]
+   }
+  },
+  {
+   "name": "merged",
+   "path": "data/merged.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "rows folded into the row that shares their Telegram account",
+   "schema": {
+    "fields": [
+     {
+      "name": "removed_slug",
+      "type": "string"
+     },
+     {
+      "name": "removed_name",
+      "type": "string"
+     },
+     {
+      "name": "kept_slug",
+      "type": "string"
+     },
+     {
+      "name": "kept_name",
+      "type": "string"
+     },
+     {
+      "name": "key",
+      "type": "string"
+     },
+     {
+      "name": "date",
+      "type": "string",
+      "description": "YYYY-MM-DD"
+     }
+    ]
+   }
+  },
+  {
+   "name": "unresolved",
+   "path": "data/unresolved.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "names from old ecosystem maps not tied to a project yet",
+   "schema": {
+    "fields": [
+     {
+      "name": "name",
+      "type": "string"
+     },
+     {
+      "name": "seen_on",
+      "type": "string"
+     },
+     {
+      "name": "candidate_telegram",
+      "type": "string"
+     }
+    ]
+   }
+  }
+ ]
+}

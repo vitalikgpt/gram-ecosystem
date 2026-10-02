@@ -8,6 +8,8 @@
 
 Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, build on it.
 
+**Explore it in your browser**, no download: [active projects by category](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/projects.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/channels.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/similar.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/relations.csv#/data/projects?_facet=category&_facet=status&status=active), [the largest by peak monthly users](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/projects.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/channels.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/similar.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/relations.csv#/data?sql=select%20name%2C%20category%2C%20peak_mau%2C%20peak_mau_date%2C%20launched%2C%20telegram%2C%20bot%20from%20projects%20where%20peak_mau%20%21%3D%20%27%27%20order%20by%20cast%28peak_mau%20as%20integer%29%20desc%20limit%20100), [verified accounts and since when](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/projects.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/channels.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/similar.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/relations.csv#/data?sql=select%20name%2C%20category%2C%20verified_since%2C%20telegram%2C%20bot%20from%20projects%20where%20verified%20%3D%201%20order%20by%20verified_since%20%3D%20%27%27%2C%20verified_since), [launches by year](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/projects.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/channels.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/similar.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/relations.csv#/data?sql=select%20substr%28launched%2C%201%2C%204%29%20as%20year%2C%20count%28%2A%29%20as%20projects%20from%20projects%20group%20by%20year%20order%20by%20year), [who Telegram shows next to whom](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/projects.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/channels.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/similar.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/relations.csv#/data/similar?_facet=list), [channels by theme](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/projects.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/channels.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/similar.csv&csv=https://raw.githubusercontent.com/vitalikgpt/gram-ecosystem/main/data/relations.csv#/data/channels?_facet=theme&_facet=language). It is [Datasette Lite](https://lite.datasette.io): filters, facets and SQL over the CSV files here.
+
 **Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Neighbours on Telegram](#neighbours-on-telegram), [Studios and funds](#studios-funds-and-accelerators), [Channels](#channels), [How to read it](#how-to-read-it), [Data](#data), [Maps and reports](#maps-and-reports), [Contribute](#contribute)
 
 ## Categories
@@ -71,6 +73,17 @@ By reach: post views on the project's own channel from July to September 2026, o
 | [Gorilla Case](https://t.me/gorilla_news) | [Casino](categories/gambling.md) | 4.4M | 681K | 2025-05 |  |
 | [New Listings Feed](https://t.me/newlistingsfeed) | [Analytics](categories/analytics.md) | 4M |  | 2024-03 |  |
 
+## Launches by quarter
+
+When the 4,351 projects with a known launch month started or came to TON. The busiest quarter was Q2 2024 with 731.
+
+```mermaid
+xychart-beta
+  x-axis ["21Q1", "21Q2", "21Q3", "21Q4", "22Q1", "22Q2", "22Q3", "22Q4", "23Q1", "23Q2", "23Q3", "23Q4", "24Q1", "24Q2", "24Q3", "24Q4", "25Q1", "25Q2", "25Q3", "25Q4", "26Q1", "26Q2", "26Q3"]
+  y-axis "Projects launched"
+  bar [8, 8, 17, 48, 75, 94, 73, 98, 75, 116, 116, 97, 298, 731, 670, 434, 256, 188, 156, 168, 156, 218, 251]
+```
+
 ## Neighbours on Telegram
 
 Whom Telegram itself puts in *similar channels* and *similar bots* next to the largest projects, in its order. It picks them by overlapping audiences, so this is who shares the crowd, not who sends traffic. All 17,956 pairs are in [data/similar.csv](data/similar.csv) (snapshot of June 2026).
@@ -106,6 +119,98 @@ Who builds and backs the projects. Each link between a project and an organisati
 | [OKX Ventures](https://t.me/okxventures) | fund | co-launched: Telegram Growth Hub | [1](https://www.streetinsider.com/Globe+Newswire/OKX+Ventures,+The+Open+Platform+and+Folius+Ventures+Launch+$10+Million+Telegram+Growth+Hub/23896789.html) |
 | [Pantera Capital](https://panteracapital.com) | fund | invested: [GAMEE](https://t.me/gameechannel) | [1](https://www.animocabrands.com/gamee-receives-investment-from-pantera-capital) |
 | [TON Accelerator](https://t.me/accelerator_ton) | accelerator | first cohort: [Prophecy Pulse](https://t.me/prophecypulse_bot), [Storm Trade](https://t.me/storm_trade_news), [EVAA Protocol](https://t.me/evaaprotocol), [DeDust](https://t.me/dedust_en), [TON.SKI Access](https://t.me/tonski_eng), [Pluto Studios](https://www.pluto.vision) | [1](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) |
+
+The same links as a web: organisations in blue, a project backed by several of them drawn once.
+
+```mermaid
+flowchart LR
+  o0(["The Open Platform"])
+  p1["@Walt"]
+  p2["Wallet Pay"]
+  o3(["PlayDeck"])
+  p4["STON.fi"]
+  p5["Getgems"]
+  p6["Keeper"]
+  p7["State.io"]
+  p8["Idle Legion"]
+  o9(["GAMEE"])
+  p10["WatBird"]
+  p11["Moon Cards"]
+  o12(["TON Ventures"])
+  o13(["Open Builders"])
+  p14["Notcoin"]
+  p15["Tonstarter"]
+  p16["Community"]
+  p17["Access"]
+  p18["Contests"]
+  p19["Giveaway"]
+  p20["Early"]
+  o21(["TVM Ventures"])
+  p22["Affluent"]
+  p23["Torch Finance"]
+  p24["Fiva"]
+  p25["Memes Lab"]
+  p26["TON Strategy"]
+  p27["Delabs Games"]
+  p28["Goat Gaming"]
+  p29["Memetics"]
+  p30["TAC"]
+  p31["EVAA Protocol"]
+  p32["TONCash"]
+  p33["bionapp"]
+  o34(["TON Accelerator"])
+  p35["Prophecy Pulse"]
+  p36["Storm Trade"]
+  p37["DeDust"]
+  p38["TON.SKI Access"]
+  p39["Pluto Studios"]
+  o40(["TONcoin.Fund"])
+  p41["Telegram Growth Hub"]
+  o0 -->|built| p1
+  o0 -->|built| p2
+  o0 -->|owns| o3
+  o0 -->|ecosystem| p4
+  o0 -->|ecosystem| p5
+  o0 -->|ecosystem| p6
+  o3 -->|published| p7
+  o3 -->|published| p8
+  o9 -->|built| p10
+  o9 -->|built| p11
+  o12 -->|invested| o9
+  o13 -->|built| p14
+  o13 -->|built| p15
+  o13 -->|built| p16
+  o13 -->|built| p17
+  o13 -->|built| p18
+  o13 -->|built| p19
+  o13 -->|built| p20
+  o21 -->|invested| p22
+  o21 -->|invested| p23
+  o21 -->|invested| p24
+  o21 -->|invested| p25
+  o21 -->|invested| p26
+  o12 -->|invested| p27
+  o12 -->|invested| p28
+  o12 -->|invested| p29
+  o12 -->|invested| p30
+  o12 -->|invested| p4
+  o12 -->|invested| p31
+  o12 -->|invested| p32
+  o12 -->|invested| p33
+  o34 -->|first cohort| p35
+  o34 -->|first cohort| p36
+  o34 -->|first cohort| p31
+  o34 -->|first cohort| p37
+  o34 -->|first cohort| p38
+  o34 -->|first cohort| p39
+  o40 -->|invested| p35
+  o40 -->|invested| p36
+  o40 -->|invested| p37
+  o0 -->|co-launched| p41
+  classDef org fill:#1f6feb,color:#fff,stroke:#1f6feb
+  class o0,o3,o9,o12,o13,o21,o34,o40 org
+```
+
 
 ## How to read it
 
@@ -158,6 +263,7 @@ The `sources` column lists every place a project was found:
 | [data/channels.csv](data/channels.csv) | 1,210 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
 | [data/categories.json](data/categories.json) | categories in display order |
 | [data/link-fixes.csv](data/link-fixes.csv) | 2,235 link decisions (replaced, removed, confirmed, marked down) with evidence |
+| [datapackage.json](datapackage.json) | the [Frictionless](https://frictionlessdata.io) descriptor: every file and column, for tools that load typed tables |
 | [data/merged.csv](data/merged.csv) | 33 rows folded into the row that shares their Telegram account (the numeric id), with the key |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
 | [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |
