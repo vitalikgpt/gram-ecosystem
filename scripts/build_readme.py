@@ -365,7 +365,7 @@ def build():
             if own:
                 ls.append(f"[{cell(own['name'])}](categories/{own['category']}.md)")
             out.append(f"| {r['rank']} | {ic}[{cell(r['name'])}]({r['getgems']}) | {KIND[r['kind']]} | {fmt(r['volume_ton'])} | "
-                       f"{fmt(r['floor_ton']) if float(r['floor_ton'] or 0) >= 1000 else r['floor_ton']} | {fmt(r['owners'])} | {fmt(r['items'])} | {r['launched'][:7]} | {', '.join(l for l in ls if l)} |")
+                       f"{(f"{float(r['floor_ton']) / 1e3:.1f}K".replace('.0K', 'K')) if float(r['floor_ton'] or 0) >= 1000 else r['floor_ton']} | {fmt(r['owners'])} | {fmt(r['items'])} | {r['launched'][:7]} | {', '.join(l for l in ls if l)} |")
     out += [
         "",
         "## Neighbours on Telegram",
