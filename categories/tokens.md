@@ -2,7 +2,7 @@
 
 # Tokens
 
-**114 projects: 44 active, 70 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**211 projects: 59 active, 152 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -18,7 +18,7 @@
 | 8 | **DOGS** |  | [Telegram](https://t.me/dogs_community) [X](https://x.com/realDogsHouse) [Site](https://dogs.dev/links) | 2024-12-16 |
 | 9 | **RECA** |  | [X](https://x.com/ResistanceCat) [Site](https://reca.live) | 2024-04-08 |
 | 10 | **STON** | STON.fi: Cross-chain DeFi, without the chaos | [Telegram](https://t.me/stonfidex) [X](https://x.com/ston_fi) [Site](https://ston.fi) | 2023-06-27 |
-| 11 | **Blum (BLUM)** | Your easy, fun crypto trading app for buying and trading any crypto on the market | [Telegram](https://t.me/blumcrypto) [X](https://x.com/Blumcrypto) [Site](https://www.blum.io) | 2024-11-10 |
+| 11 | **Blum (BLUM)** | Your easy, fun crypto trading app for buying and trading any crypto on the market | [Telegram](https://t.me/blumcrypto) [Bot](https://t.me/blumcryptobot) [X](https://x.com/Blumcrypto) [Site](https://www.blum.io) | 2024-11-10 |
 | 12 | **Catizen (CATI)** | Catizen is a Cat Intelligence ecosystem built around a cat-themed Telegram Mini App | [Telegram](https://t.me/CatizenAnn) [X](https://x.com/CatizenAI) [Site](https://linktr.ee/catizen) | 2024-08-16 |
 | 13 | **$DROPEE (DROPEE)** | Welcome to the official Dropee channel! | [Telegram](https://t.me/dropee_community) [X](https://x.com/dropee_app) [Site](https://dropee.xyz) | 2025-08-07 |
 | 14 | **Capybobo (PYBOBO)** | PYBOBO, Your Capy, Your Culture, Your Coin | [Telegram](https://t.me/CapyboboNews) [X](https://x.com/Capybobo_io) [Site](https://capybobo.io) | 2025-09-18 |
@@ -31,101 +31,198 @@
 | 21 | **Tether Gold (XAUt0)** |  | [Telegram](https://t.me/tether) [X](https://x.com/USDT0_to) [Site](https://gold.usdt0.to/transfer) | 2025-04-22 |
 | 22 | **DuckChain Token (DUCK)** | The Telegram AI Chain. Empowering Telegram users to enter crypto through AI, EVM, and… | [Telegram](https://t.me/DuckChainAnn) [X](https://x.com/Duck_Chain) [Site](https://bridge.duckchain.io) | 2024-02-25 |
 | 23 | **DuckCoin (DUCK)** |  | [Telegram](https://t.me/duckcoin) [X](https://x.com/Duck_Chain) [Site](https://duckcoin.org) | 2024-02-25 |
-| 24 | **Storm Trade (STORM)** | Official news & announcement channel of | [Telegram](https://t.me/storm_trade_news) [X](https://x.com/storm_trade_ton) [Site](https://storm.tg) | 2024-10-12 |
-| 25 | **LAMBO ($LAMBO)** | The only official channel of LAMBO | [Telegram](https://t.me/lambospeak) [X](https://x.com/LAMBOtokenTON) [Site](https://lambo.tg) | 2024-11-01 |
-| 26 | **Not Meme (MEM)** |  | [Telegram](https://t.me/notmeme) [X](https://x.com/notmeme_org) [Site](https://notmeme.org) | 2024-04-10 |
-| 27 | **SOEX (SOEX)** | SOEX Gaming Universe is a rapidly growing, skill-based gaming ecosystem | [Telegram](https://t.me/ShelterOfExiles) [Site](https://shelterofexiles.com) | 2025-02-27 |
-| 28 | **JetTon Games (JETTON)** |  | [Telegram](https://t.me/jetannouncements) [X](https://x.com/JetTonGames) [Site](https://jetton.pet/cffiylglyk5?click_id=%7Bclick_id%7D) | 2023-05-28 |
-| 29 | **Povel Durev (DUREV)** |  | [Telegram](https://t.me/poveldurev) [X](https://x.com/poveldurev) [Site](https://poveldurev.net) | 2024-04-03 |
-| 30 | **Hydra** | Официальный канал токена $HYDRA | [Telegram](https://t.me/ton_hydra_community) [X](https://x.com/ton_hydra) [Site](https://tonhydra.com) | 2023-05-04 |
-| 31 | **Arbuz** |  | [Telegram](https://t.me/tonarbuz) [X](https://x.com/arbuz_ton) [Site](https://tonarbuz.fun) | 2023-12-03 |
-| 32 | **Ton Fish** |  | [Telegram](https://t.me/tonfish_tg) [X](https://x.com/tonfish_tg) | 2023-11-04 |
-| 33 | **TON FISH MEMECOIN (FISH)** |  | [Telegram](https://t.me/tonfish_tg) [X](https://x.com/tonfish_tg) [Site](https://www.tonfish.io) | 2023-12-31 |
-| 34 | **Gifts Strategy (GIFTSTR)** | $GIFTSTR — The Degen Engine for Telegram Gifts on TON Blockchain | [Telegram](https://t.me/giftsfomo) [X](https://x.com/giftsfomo) | 2025-09-29 |
-| 35 | **JVault Token (JVT)** | JVault is an ecosystem for project creators and investors that includes three active… | [Telegram](https://t.me/JVault) [X](https://x.com/JVault_app) [Site](https://jvault.xyz) | 2023-12-27 |
-| 36 | **The Resistance Cat** |  | [Telegram](https://t.me/resistancecatton) [X](https://x.com/ResistanceCat) | 2024-04-08 |
-| 37 | **Long Capital (LNG)** | Official channel of Long Capital strategy - The first fully decentralized 7x leveraged… | [Telegram](https://t.me/longcapitalstrategy) [X](https://x.com/longton_capital) [Site](https://longton.capital) | 2026-04-24 |
-| 38 | **COFFEE (COFE)** | the holy water of caffeine junkies | [Telegram](https://t.me/coffeesolmeme) [X](https://x.com/CoffeeMemeCoin) [Site](https://www.cofe.fun) | 2024-03-22 |
-| 39 | **LLAMA (LLAMA)** |  | [Telegram](https://t.me/daolama_en) [X](https://x.com/daolama_ton) [Site](https://daolama.co) | 2024-04-25 |
-| 40 | **1RUS DAO (1RUSD)** |  | [Telegram](https://t.me/bitcon2024) [Site](https://1rus.com) | 2024-02-06 |
-| 41 | **ANON (ANON)** |  | [Telegram](https://t.me/anon_club) [X](https://x.com/anonclub8) [Site](https://anon.tg) | 2024-04-02 |
-| 42 | **INSECTS** | For support and enquiries, please contacts the core team and | [Telegram](https://t.me/insects_futures) [X](https://x.com/insectsvip) | 2025-11-17 |
-| 43 | **Holdcoin (HOLD)** |  | [Telegram](https://t.me/Holdcoin_Channel) [X](https://x.com/HoldCoinGo) [Site](https://holdcoin.xyz) | 2024-11-15 |
-| 44 | **Mittens (MITTENS)** |  | [Telegram](https://t.me/Mittenston) [X](https://x.com/mittenstonchain) [Site](https://www.mittenston.com) | 2024-04-16 |
+| 24 | **ANTHILL** | Reward token backed by BTC mining | [Telegram](https://t.me/anthill_rewards) | 2025-07-15 |
+| 25 | **Storm Trade (STORM)** | Official news & announcement channel of | [Telegram](https://t.me/storm_trade_news) [X](https://x.com/storm_trade_ton) [Site](https://storm.tg) | 2024-10-12 |
+| 26 | **Groyper** |  | [Telegram](https://t.me/gtrade) | 2026-05-22 |
+| 27 | **Groyper** | Announcement channel of the Groyper memecoin on TON | [Telegram](https://t.me/gapps) | 2026-04-16 |
+| 28 | **LAMBO ($LAMBO)** | The only official channel of LAMBO | [Telegram](https://t.me/lambospeak) [X](https://x.com/LAMBOtokenTON) [Site](https://lambo.tg) | 2024-11-01 |
+| 29 | **Not Meme (MEM)** |  | [Telegram](https://t.me/notmeme) [X](https://x.com/notmeme_org) [Site](https://notmeme.org) | 2024-04-10 |
+| 30 | **SOEX (SOEX)** | SOEX Gaming Universe is a rapidly growing, skill-based gaming ecosystem | [Telegram](https://t.me/ShelterOfExiles) [Site](https://shelterofexiles.com) | 2025-02-27 |
+| 31 | **JetTon Games (JETTON)** |  | [Telegram](https://t.me/jetannouncements) [X](https://x.com/JetTonGames) [Site](https://jetton.pet/cffiylglyk5?click_id=%7Bclick_id%7D) | 2023-05-28 |
+| 32 | **Povel Durev (DUREV)** |  | [Telegram](https://t.me/poveldurev) [X](https://x.com/poveldurev) [Site](https://poveldurev.net) | 2024-04-03 |
+| 33 | **S.O.T.A.** | Token project linked to BEETON | [Telegram](https://t.me/sotatoken) [Site](https://sotatoken.ru) | 2025-02-19 |
+| 34 | **Hydra** | Официальный канал токена $HYDRA | [Telegram](https://t.me/ton_hydra_community) [X](https://x.com/ton_hydra) [Site](https://tonhydra.com) | 2023-05-04 |
+| 35 | **Arbuz** |  | [Telegram](https://t.me/tonarbuz) [X](https://x.com/arbuz_ton) [Site](https://tonarbuz.fun) | 2023-12-03 |
+| 36 | **Ton Fish** |  | [Telegram](https://t.me/tonfish_tg) [X](https://x.com/tonfish_tg) | 2023-11-04 |
+| 37 | **TON FISH MEMECOIN (FISH)** |  | [Telegram](https://t.me/tonfish_tg) [X](https://x.com/tonfish_tg) [Site](https://www.tonfish.io) | 2023-12-31 |
+| 38 | **JOYSTICK** | Digital assets project with TON dividends | [Telegram](https://t.me/joystickpro) | 2025-02-25 |
+| 39 | **POK** | Memecoin built on Proof of Capital technology | [Telegram](https://t.me/proofofkarl) [X](https://x.com/proofofkarl) [Site](https://proofofcapital.org) | 2025-03-10 |
+| 40 | **SISU** | Dragon-themed meme token on TON | [Telegram](https://t.me/sisudatuton) [X](https://x.com/SisuTon) | 2025-03-26 |
+| 41 | **Soko Inu** | Soko Inu memecoin news channel | [Telegram](https://t.me/soko_inu) | 2024-12-20 |
+| 42 | **VNUK** | Reward token on TON | [Telegram](https://t.me/vnukton) | 2025-03-20 |
+| 43 | **Terminator** | Token on TON spun off from ARNI | [Telegram](https://t.me/termionton) | 2025-09-06 |
+| 44 | **Gifts Strategy (GIFTSTR)** | $GIFTSTR — The Degen Engine for Telegram Gifts on TON Blockchain | [Telegram](https://t.me/giftsfomo) [X](https://x.com/giftsfomo) | 2025-09-29 |
+| 45 | **JVault Token (JVT)** | JVault is an ecosystem for project creators and investors that includes three active… | [Telegram](https://t.me/JVault) [X](https://x.com/JVault_app) [Site](https://jvault.xyz) | 2023-12-27 |
+| 46 | **The Resistance Cat** |  | [Telegram](https://t.me/resistancecatton) [X](https://x.com/ResistanceCat) | 2024-04-08 |
+| 47 | **Melody Token** | MLT token connecting music and technology | [Telegram](https://t.me/melody_token) | 2025-03-21 |
+| 48 | **SHRK** |  | [Telegram](https://t.me/shrkonton) | 2025-12-28 |
+| 49 | **TELO** | Meme token on TON with a mining bot | [Telegram](https://t.me/telomeme) [Site](https://telo.meme) | 2024-11-16 |
+| 50 | **WTF** | Ecosystem memecoin on TON | [Telegram](https://t.me/wtf_on_ton) [Site](https://tonwtf.xyz) | 2024-05-26 |
+| 51 | **KILOTON** | KILOTON project channel | [Telegram](https://t.me/kilotonisboom) | 2024-10-10 |
+| 52 | **Long Capital (LNG)** | Official channel of Long Capital strategy - The first fully decentralized 7x leveraged… | [Telegram](https://t.me/longcapitalstrategy) [X](https://x.com/longton_capital) [Site](https://longton.capital) | 2026-04-24 |
+| 53 | **COFFEE (COFE)** | the holy water of caffeine junkies | [Telegram](https://t.me/coffeesolmeme) [X](https://x.com/CoffeeMemeCoin) [Site](https://www.cofe.fun) | 2024-03-22 |
+| 54 | **LLAMA (LLAMA)** |  | [Telegram](https://t.me/daolama_en) [X](https://x.com/daolama_ton) [Site](https://daolama.co) | 2024-04-25 |
+| 55 | **1RUS DAO (1RUSD)** |  | [Telegram](https://t.me/bitcon2024) [Site](https://1rus.com) | 2024-02-06 |
+| 56 | **ANON (ANON)** |  | [Telegram](https://t.me/anon_club) [X](https://x.com/anonclub8) [Site](https://anon.tg) | 2024-04-02 |
+| 57 | **INSECTS** | For support and enquiries, please contacts the core team and | [Telegram](https://t.me/insects_futures) [X](https://x.com/insectsvip) | 2025-11-17 |
+| 58 | **Holdcoin (HOLD)** |  | [Telegram](https://t.me/Holdcoin_Channel) [X](https://x.com/HoldCoinGo) [Site](https://holdcoin.xyz) | 2024-11-15 |
+| 59 | **Mittens (MITTENS)** |  | [Telegram](https://t.me/Mittenston) [X](https://x.com/mittenstonchain) [Site](https://www.mittenston.com) | 2024-04-16 |
 
-<details><summary><b>Quiet: 70</b></summary>
+<details><summary><b>Quiet: 152</b></summary>
 
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
-| 45 | **@BTC25** |  | [Telegram](https://t.me/tonbtc25) [X](https://x.com/daoproxima) [Site](https://1rus.com) | 2024-03-04 |
-| 46 | **bemo Staked TON (STTON)** |  | [X](https://x.com/bemo_finance) [Site](https://bemo.fi) | 2023-06-09 |
-| 47 | **Bridged USD Coin (TON Bridge) (JUSDC)** |  | [Site](https://bridge.ton.org) | 2023-04-01 |
-| 48 | **DOGWIFHOOD (WIF)** |  | [Telegram](https://t.me/dogwifhood_TON) [X](https://x.com/dogwifhoodTON) [Site](https://wifhood.dog) | 2024-03-04 |
-| 49 | **Durovs Dog (PYONYA)** | Original Sticker Pack created by Pavel Durov | [Telegram](https://t.me/PYONYATON) [X](https://x.com/pyonyaton) [Site](https://pyonya.com) | 2026-05-05 |
-| 50 | **DYOR Coin (DYOR)** | Official DYOR English Chat | [Telegram](https://t.me/DYORchatEN) [X](https://x.com/dyorninja) [Site](https://dyor.io/?utm_source=chaten) | 2023-07-11 |
-| 51 | **Ethena tsUSDe (tsUSDe)** |  | [X](https://x.com/ethena_labs) [Site](https://app.ethena.fi) | 2025-04-29 |
-| 52 | **Ethena USDe (USDe)** |  | [X](https://x.com/ethena_labs) [Site](https://app.ethena.fi) | 2025-02-07 |
-| 53 | **Fish** |  | [Telegram](https://t.me/tonfish_en) [X](https://x.com/tonfish_tg) [Site](https://www.tonfish.io) | 2023-12-31 |
-| 54 | **GOVNO (GOVNO)** |  | [Telegram](https://t.me/cryptover1eng) [X](https://x.com/official_govno) [Site](https://govnoton.com) | 2025-01-10 |
-| 55 | **Grm (GRM)** |  | [Telegram](https://t.me/gramcoinorg) [X](https://x.com/gramcoinorg) [Site](https://gramcoin.org) | 2024-01-26 |
-| 56 | **Hot Cherry** |  | [Telegram](https://t.me/hotcherry_ton) [X](https://x.com/hotcherry_ton) | 2024-04-22 |
-| 57 | **jUSDT (jUSDT)** |  | [Site](https://bridge.ton.org) | 2023-04-01 |
-| 58 | **Make TON Great Again (MTONGA)** |  | [Telegram](https://t.me/mtonga_meme) [X](https://x.com/MTONGA_ON_TON) [Site](https://www.mtonga.com/) | 2026-04-09 |
-| 59 | **MOEW (MOEW)** | Official $MOEW Community group | [Telegram](https://t.me/moewcommunty) [X](https://x.com/MOEW_Agent) [Site](https://donotfomoew.org) | 2024-07-17 |
-| 60 | **NikolAI (NIKO)** | The Meme, The Myth, The AI Machina | [Telegram](https://t.me/NikolAIToncoinChat) [X](https://x.com/NikolAIToncoin) [Site](https://nikolai.meme/) | 2024-11-01 |
-| 61 | **Peng** |  | [X](https://x.com/pengtoncoin) [Site](https://pengonton.com) | 2024-04-15 |
-| 62 | **PinGo (PINGO)** |  | [Telegram](https://t.me/PinGo_AI) [X](https://x.com/PinGoAI) [Site](https://pingo.work) | 2024-11-17 |
-| 63 | **PirateCash (PIRATE)** | PIRATECASH ($PIRATE) – cryptocurrency for privacy and freedom | [Telegram](https://t.me/PirateCash_ENG) [X](https://x.com/PirateCash_NET) [Site](https://p.cash) | 2024-01-16 |
-| 64 | **Shard.Zone** | Lightweight inscription protocol based on TON and inspired by the Ordinals NFT on Bitcoin | [Telegram](https://t.me/tonshardzone) [X](https://x.com/ShardMarket) | 2023-12-20 |
-| 65 | **sTONks (STONKS)** | The First Trading Bot on TON | [Telegram](https://t.me/stonksonton) [X](https://x.com/stonksbots) [Site](https://stonksbots.com) | 2024-01-06 |
-| 66 | **The Resistance Girl** |  | [Telegram](https://t.me/resistancegirl) [X](https://x.com/regitoncoin) | 2024-03-12 |
-| 67 | **TOGE** |  | [Telegram](https://t.me/togeofficial) [X](https://x.com/TOGE_TON) [Site](https://toge.world) | 2024-01-06 |
-| 68 | **Ton Inu (TINU)** |  | [Telegram](https://t.me/toninutools) [X](https://x.com/toninutools) [Site](https://toninu.tech) | 2024-01-07 |
-| 69 | **Tonio (TONIO)** |  | [Telegram](https://t.me/toniomeme) [X](https://x.com/TonioMeme) [Site](https://www.toniomeme.com) | 2025-06-24 |
-| 70 | **Tonk** | $TONK An entire ecosystem for traders on $TON and the first multichain influencer… | [Telegram](https://t.me/tonkinu_official) [X](https://x.com/tonkinubot) [Site](https://tonk.bot) | 2024-01-20 |
-| 71 | **Tony The Duck** | The Quackiest Duck on TON | [Telegram](https://t.me/tonytheduck) [X](https://x.com/theducktony) [Site](https://tonytheduck.com) | 2024-01-13 |
-| 72 | **Tower (TOWER)** | Powered by $TOWER, experience pioneering blockchain game features and earn rewards from… | [Telegram](https://t.me/TowerToken) [X](https://x.com/TowerToken) [Site](https://www.towerecosystem.com) | 2024-01-22 |
-| 73 | **WOOF (WOOF)** |  | [X](https://x.com/LostDogsCo) [Site](https://x.com/lostdogsco) | 2024-12-23 |
-| 74 | **X Empire (X)** |  | [X](https://x.com/xempiregame) [Site](https://xempire.io) | 2024-10-11 |
-| 75 | **EvoSimGame (ESIM)** | EvoLife — switch on your new lifestyle and earn with every MB | [Telegram](https://t.me/evolife_channel) [X](https://x.com/evo_evolife) [Site](https://evolife.me) | 2025-04-09 |
-| 76 | **DeDust (DUST)** |  | [Telegram](https://t.me/dedust_en) [X](https://x.com/dedust_io) [Site](https://dedust.io) | 2024-06-04 |
-| 77 | **TON Raffles (RAFF)** |  | [Telegram](https://t.me/tonraffles_en) [X](https://x.com/TonRaffles) [Site](https://tonraffles.app) | 2023-12-01 |
-| 78 | **Bombie (BOMB)** | Survive the Apocalypse, Airdrop is Key! | [Telegram](https://t.me/BombieNews) [X](https://x.com/Bombie_xyz) [Site](https://bombie.xyz) | 2025-03-24 |
-| 79 | **Vertus (VERT)** | Official channel of Vertus | [Telegram](https://t.me/the_vertus) [X](https://x.com/the_vertus) [Site](https://x.com/the_vertus) | 2025-01-07 |
-| 80 | **Gentleman (MAN)** |  | [Telegram](https://t.me/gentlemanton) [X](https://x.com/gentlemanonton) [Site](https://gentlemanton.com) | 2024-04-23 |
-| 81 | **Huebel Bolt** |  | [Telegram](https://t.me/boltfoundation) [X](https://x.com/boltlabston) | 2022-06-14 |
-| 82 | **DIAMOND HANDS (DIAMOND)** |  | [Telegram](https://t.me/DiamondHandsonTON) [X](https://x.com/diamondhandston) [Site](https://diamondhandston.com) | 2026-02-09 |
-| 83 | **Spintria (SP)** | Spintria (SP) is a token on the TON network created for anonymous and quick access to… | [Telegram](https://t.me/spintr) [X](https://x.com/Spintria_coin) [Site](https://sp.one) | 2024-04-08 |
-| 84 | **CATS (CATS)** | Only $CATS the meowest Telegram native token. Join meow | [Telegram](https://t.me/Cats_housewtf) [X](https://x.com/toncats_tg) [Site](https://toncats.pw) | 2024-09-21 |
-| 85 | **PunkCity (PUNK)** | The first NFT on the TON Blockchain | [Telegram](https://t.me/TONPunksENG) [X](https://x.com/TonPunks) [Site](https://tonpunks.org) | 2023-07-04 |
-| 86 | **OwnershipCoin (OC)** | The Community-run Chill Gallery on TON. We are the Gallery that doesn't take itself too… | [Telegram](https://t.me/ownershipcoin) [X](https://x.com/ownershipcoin) [Site](https://ownershipcoin.com) | 2024-10-09 |
-| 87 | **Amocucinare (AMORE)** |  | [Telegram](https://t.me/amoreAIcrypto) [X](https://x.com/AmoreCoin) [Site](https://amorecoin.love/) | 2024-11-04 |
-| 88 | **GOATS (GOATS)** |  | [Telegram](https://t.me/realgoats_channel) [X](https://x.com/GOATS_immortal) [Site](https://ton.goatsbot.xyz/) | 2024-11-23 |
-| 89 | **TON Cats Jetton** |  | [Telegram](https://t.me/toncats_tg) [X](https://x.com/toncats_tg) | 2024-03-13 |
-| 90 | **Hamster Kombat (HMSTR)** |  | [Telegram](https://t.me/hamster_kombat) [X](https://x.com/hamster_kombat) Site (down) | 2024-09-22 |
-| 91 | **Memhash (MEMHASH)** |  | [Telegram](https://t.me/memhash) [X](https://x.com/memhash_app) [Site](https://memhash.org) | 2025-02-13 |
-| 92 | **FPI Bank (FPIBANK)** |  | [Telegram](https://t.me/fpibank) [X](https://x.com/fpi_bank) [Site](https://fpibank.com) | 2024-11-26 |
-| 93 | **ARTDRA Coin (ARTDRA)** | Combat Games & Artdra Coin | [Telegram](https://t.me/artdracoin) [X](https://x.com/combatgamestv) [Site](https://artdra.pro) | 2025-07-10 |
-| 94 | **Ton Cat (TCAT)** |  | [Telegram](https://t.me/TheRealTCAT) [X](https://x.com/TonCatonTon) [Site](https://www.toncat.net) | 2024-06-26 |
-| 95 | **EVAA Protocol (EVAA)** | The first decentralized lending protocol on TON | [Telegram](https://t.me/evaaprotocol) [X](https://x.com/evaaprotocol) [Site](https://evaa.finance) | 2025-09-29 |
-| 96 | **TAC (TAC)** |  | [Telegram](https://t.me/TACbuild) [X](https://x.com/TacBuild) [Site](https://tac.build) | 2024-02-01 |
-| 97 | **BUILD (BUILD)** |  | [Telegram](https://t.me/join_community) [X](https://x.com/commmmmunity) [Site](https://openbuilders.xyz) | 2025-01-06 |
-| 98 | **TapSwapToken (TAPS)** | Turn your endless taps into a financial tool | [Telegram](https://t.me/tapswapai) [X](https://x.com/tapswapai) [Site](https://www.tapswap.ai) | 2025-02-12 |
-| 99 | **EMOB TON** |  | [Telegram](https://t.me/emobton) [X](https://x.com/emobton) [GitHub](https://github.com/emobton) | 2025-01-18 |
-| 100 | **Redo** | Welcome to the Digital Resistance | [Telegram](https://t.me/redotoken) [X](https://x.com/redotoken) [Site](https://redoton.com) | 2024-01-09 |
-| 101 | **Resistance Dog (REDO)** | Welcome to the Digital Resistance | [Telegram](https://t.me/redotoken) [X](https://x.com/redotoken) [Site](https://redoton.com) | 2024-01-09 |
-| 102 | **Shitcoin (SHIT)** | Главный Shitcoin, чтобы править всеми | [Telegram](https://t.me/Shitcoinrun) [X](https://x.com/shitcoinrun) [Site](https://tonshitcoin.xyz/) | 2024-05-09 |
-| 103 | **Hedgehog in the Fog** | It’s just hedgehog in the fog on TON. Listing is on 5th of June on StonFi | [Telegram](https://t.me/hedgehoginthefogen) [X](https://x.com/hedgehogton) [Site](https://www.hedgehoginthefog.xyz) | 2024-06-05 |
-| 104 | **Resistance Girl (REGI)** |  | [Telegram](https://t.me/ResistanceGirlCoin) [X](https://x.com/regitoncoin) [Site](https://regiton.net) | 2024-03-13 |
-| 105 | **SAD MEOW (SADMEOW)** |  | [Telegram](https://t.me/sadmeowcto_portal) [X](https://x.com/SadMeowMP3) [Site](https://sadmeow.lol) | 2024-10-11 |
-| 106 | **meh (MEH)** |  | [Telegram](https://t.me/mehtoken) [X](https://x.com/meh_ton) [Site](https://meh.promo) | 2024-04-06 |
-| 107 | **The Open League MEME** | $TOL is The Open League meme community token. Earn rewards by using TON ecosystem projects | [Telegram](https://t.me/tolmeme) [X](https://x.com/tolmeme) | 2024-03-26 |
-| 108 | **John Doge** |  | [Telegram](https://t.me/johndogeton) [X](https://x.com/JohnDogeTON) | 2024-02-05 |
-| 109 | **Cubigator (CUB)** |  | [Telegram](https://t.me/cubigatorton) [X](https://x.com/CubigatorOnTon) [Site](https://www.cubigator.club) | 2024-04-24 |
-| 110 | **Morfey** | Ton founders' (Nikolai and Pavel Durov) Cat | [Telegram](https://t.me/morfeyofficial) [X](https://x.com/morfeytoken) [Site](https://morfeytoken.io) | 2024-01-07 |
-| 111 | **Laika** |  | [Telegram](https://t.me/laikaofficialstation) [X](https://x.com/LaikaOnTon) [Site](https://www.laikaonton.com) | 2023-12-27 |
-| 112 | **Rosecoin (ROSE)** | Rosecoin pays homage to the most recognisable face on Telegram - Join our fan token… | [Telegram](https://t.me/Rosecointon) [X](https://x.com/RosecoinTon) [Site](https://roseton.org) | 2024-04-12 |
-| 113 | **Paper Plane (PLANE)** |  | [Telegram](https://t.me/paperplane_ton) [X](https://x.com/paperplane_ton) [Site](https://paperplanetoken.site) | 2024-01-11 |
-| 114 | **Not Notcoin** |  | [Telegram](https://t.me/not_notcoin) [X](https://x.com/Not_Notcoin) | 2024-01-10 |
+| 60 | **@BTC25** |  | [Telegram](https://t.me/tonbtc25) [X](https://x.com/daoproxima) [Site](https://1rus.com) | 2024-03-04 |
+| 61 | **Addickted** | Russian chat of the Addickted DICK token | [Telegram](https://t.me/addicktedchat) | 2024-04-10 |
+| 62 | **AiDogs** | AI-themed meme coin born on Telegram, claimable by DOGS holders | [Bot](https://t.me/aidogs_bot) | 2024-08-29 |
+| 63 | **Based Mike** | Buy bot for Based Mike token on TON | [Bot](https://t.me/basedmikebuybot) | 2025-06-02 |
+| 64 | **Bear Country Token** | BCT token community chat | [Telegram](https://t.me/bct_official_chat) | 2023-01-18 |
+| 65 | **bemo Staked TON (STTON)** |  | [X](https://x.com/bemo_finance) [Site](https://bemo.fi) | 2023-06-09 |
+| 66 | **BOLT** | Community chat of the BOLT token | [Telegram](https://t.me/daiteboltchat) [X](https://x.com/boltlabston) [Site](https://huebel.art) | 2022-06-20 |
+| 67 | **Bridged USD Coin (TON Bridge) (JUSDC)** |  | [Site](https://bridge.ton.org) | 2023-04-01 |
+| 68 | **CLAN Coin** | Community chat of CLAN CLN and CLNR tokens | [Telegram](https://t.me/spr_clan) | 2025-08-14 |
+| 69 | **DHD** | Holders bot for DHD token | [Bot](https://t.me/dhd_holder_bot) | 2022-11-21 |
+| 70 | **DOGG TON** | Community chat of the DOGG TON meme token | [Telegram](https://t.me/dogetonchat) | 2024-06-22 |
+| 71 | **DOGWIFHOOD (WIF)** |  | [Telegram](https://t.me/dogwifhood_TON) [X](https://x.com/dogwifhoodTON) [Site](https://wifhood.dog) | 2024-03-04 |
+| 72 | **DUCKS** | Social meme token on Telegram | [Bot](https://t.me/duckscoop_bot) | 2025-01-05 |
+| 73 | **Durovs Dog (PYONYA)** | Original Sticker Pack created by Pavel Durov | [Telegram](https://t.me/PYONYATON) [X](https://x.com/pyonyaton) [Site](https://pyonya.com) | 2026-05-05 |
+| 74 | **DYOR Coin (DYOR)** | Official DYOR English Chat | [Telegram](https://t.me/DYORchatEN) [X](https://x.com/dyorninja) [Site](https://dyor.io/?utm_source=chaten) | 2023-07-11 |
+| 75 | **Ethena tsUSDe (tsUSDe)** |  | [X](https://x.com/ethena_labs) [Site](https://app.ethena.fi) | 2025-04-29 |
+| 76 | **Ethena USDe (USDe)** |  | [X](https://x.com/ethena_labs) [Site](https://app.ethena.fi) | 2025-02-07 |
+| 77 | **Fish** |  | [Telegram](https://t.me/tonfish_en) [X](https://x.com/tonfish_tg) [Site](https://www.tonfish.io) | 2023-12-31 |
+| 78 | **GOVNO (GOVNO)** |  | [Telegram](https://t.me/cryptover1eng) [X](https://x.com/official_govno) [Site](https://govnoton.com) | 2025-01-10 |
+| 79 | **Gram Morning** | GM meme token on TON | [Telegram](https://t.me/gram_morning) | 2026-06-07 |
+| 80 | **Gram-20** | Inscription token standard on the TON blockchain | [Bot](https://t.me/gram20bot) | 2023-12-22 |
+| 81 | **Grm (GRM)** |  | [Telegram](https://t.me/gramcoinorg) [X](https://x.com/gramcoinorg) [Site](https://gramcoin.org) | 2024-01-26 |
+| 82 | **Harry Coin** | Harry Coin token community bot | [Bot](https://t.me/harry_coin_bot) | 2024-09-28 |
+| 83 | **Hot Cherry** |  | [Telegram](https://t.me/hotcherry_ton) [X](https://x.com/hotcherry_ton) | 2024-04-22 |
+| 84 | **Jetty** |  | [Telegram](https://t.me/jettymem) | 2024-11-08 |
+| 85 | **jUSDT (jUSDT)** |  | [Site](https://bridge.ton.org) | 2023-04-01 |
+| 86 | **Kilogram** |  | [Telegram](https://t.me/kgonton) | 2025-01-18 |
+| 87 | **LAMBO** | Meme token on TON with adventure game | [Bot](https://t.me/lambo_adventurebot) [X](https://x.com/LAMBOtokenTON) [Site](https://lambo.tg) | 2024-12-06 |
+| 88 | **LAMBO** | Meme token and Wen Lambo project | [Telegram](https://t.me/lambo_ru) [X](https://x.com/LAMBOtokenTON) [Site](https://lambo.tg) | 2025-09-29 |
+| 89 | **Make TON Great Again (MTONGA)** |  | [Telegram](https://t.me/mtonga_meme) [X](https://x.com/MTONGA_ON_TON) [Site](https://www.mtonga.com/) | 2026-04-09 |
+| 90 | **MOEW (MOEW)** | Official $MOEW Community group | [Telegram](https://t.me/moewcommunty) [X](https://x.com/MOEW_Agent) [Site](https://donotfomoew.org) | 2024-07-17 |
+| 91 | **NEW** | NEW jetton token channel on TON | [Telegram](https://t.me/newbiejet) [X](https://x.com/newjetton) [Site](https://new-jetton.site) | 2024-10-30 |
+| 92 | **NikolAI (NIKO)** | The Meme, The Myth, The AI Machina | [Telegram](https://t.me/NikolAIToncoinChat) [X](https://x.com/NikolAIToncoin) [Site](https://nikolai.meme/) | 2024-11-01 |
+| 93 | **Peng** |  | [X](https://x.com/pengtoncoin) [Site](https://pengonton.com) | 2024-04-15 |
+| 94 | **PinGo (PINGO)** |  | [Telegram](https://t.me/PinGo_AI) [X](https://x.com/PinGoAI) [Site](https://pingo.work) | 2024-11-17 |
+| 95 | **PirateCash (PIRATE)** | PIRATECASH ($PIRATE) – cryptocurrency for privacy and freedom | [Telegram](https://t.me/PirateCash_ENG) [X](https://x.com/PirateCash_NET) [Site](https://p.cash) | 2024-01-16 |
+| 96 | **PLPP** | PLPP token community chat on TON | [Telegram](https://t.me/plpphold) [X](https://x.com/poolpepehold) | 2026-05-01 |
+| 97 | **PUPCUBY** | Community for the PUPCUBY token on TON | [Telegram](https://t.me/pupcuby) [X](https://x.com/pupcuby) | 2024-12-02 |
+| 98 | **Redrawn Dog** | Meme token REDRAW on TON | [Telegram](https://t.me/redrawndogton) | 2026-04-18 |
+| 99 | **Rekt.me** | Meme token bot for the REKT token on TON | [Bot](https://t.me/rektme_bot) | 2024-10-14 |
+| 100 | **Shard.Zone** | Lightweight inscription protocol based on TON and inspired by the Ordinals NFT on Bitcoin | [Telegram](https://t.me/tonshardzone) [X](https://x.com/ShardMarket) | 2023-12-20 |
+| 101 | **SHWRM** | Community chat of the SHWRM memecoin | [Telegram](https://t.me/shwrmm) | 2024-07-11 |
+| 102 | **sTONks (STONKS)** | The First Trading Bot on TON | [Telegram](https://t.me/stonksonton) [X](https://x.com/stonksbots) [Site](https://stonksbots.com) | 2024-01-06 |
+| 103 | **tgUSD** | Yield-bearing stablecoin by Torch Finance | [Bot](https://t.me/tgusd_official_bot) | 2025-05-05 |
+| 104 | **The Resistance Girl** |  | [Telegram](https://t.me/resistancegirl) [X](https://x.com/regitoncoin) | 2024-03-12 |
+| 105 | **TOGE** |  | [Telegram](https://t.me/togeofficial) [X](https://x.com/TOGE_TON) [Site](https://toge.world) | 2024-01-06 |
+| 106 | **Ton Capybara** | TCAPY token community | [Telegram](https://t.me/t_capy) | 2025-12-05 |
+| 107 | **Ton Inu** | Ton Inu memecoin bot | [Bot](https://t.me/toninubot) | 2026-01-15 |
+| 108 | **Ton Inu (TINU)** |  | [Telegram](https://t.me/toninutools) [X](https://x.com/toninutools) [Site](https://toninu.tech) | 2024-01-07 |
+| 109 | **TON Pedro** | Airdrop bot for the PEDRO coin on TON | [Bot](https://t.me/tonpedrocoin_bot) | 2024-06-03 |
+| 110 | **Tonio (TONIO)** |  | [Telegram](https://t.me/toniomeme) [X](https://x.com/TonioMeme) [Site](https://www.toniomeme.com) | 2025-06-24 |
+| 111 | **Tonk** | $TONK An entire ecosystem for traders on $TON and the first multichain influencer… | [Telegram](https://t.me/tonkinu_official) [X](https://x.com/tonkinubot) [Site](https://tonk.bot) | 2024-01-20 |
+| 112 | **Tony The Duck** | The Quackiest Duck on TON | [Telegram](https://t.me/tonytheduck) [X](https://x.com/theducktony) [Site](https://tonytheduck.com) | 2024-01-13 |
+| 113 | **Tower (TOWER)** | Powered by $TOWER, experience pioneering blockchain game features and earn rewards from… | [Telegram](https://t.me/TowerToken) [X](https://x.com/TowerToken) [Site](https://www.towerecosystem.com) | 2024-01-22 |
+| 114 | **WOOF (WOOF)** |  | [X](https://x.com/LostDogsCo) [Site](https://x.com/lostdogsco) | 2024-12-23 |
+| 115 | **X Empire (X)** |  | [X](https://x.com/xempiregame) [Site](https://xempire.io) | 2024-10-11 |
+| 116 | **Yaya** | Yaya memecoin community on TON | [Telegram](https://t.me/yayamemeton) | 2026-05-09 |
+| 117 | **DUCKS** | Telegram social game and token on TON | [Telegram](https://t.me/duckcoopchannel) | 2024-07-19 |
+| 118 | **UNIC** | Utility token community on TON | [Telegram](https://t.me/unicorncoinmain) [X](https://x.com/unicornmainai) [Site](https://unic.pro) | 2024-02-13 |
+| 119 | **EvoSimGame (ESIM)** | EvoLife — switch on your new lifestyle and earn with every MB | [Telegram](https://t.me/evolife_channel) [X](https://x.com/evo_evolife) [Site](https://evolife.me) | 2025-04-09 |
+| 120 | **DeDust (DUST)** |  | [Telegram](https://t.me/dedust_en) [X](https://x.com/dedust_io) [Site](https://dedust.io) | 2024-06-04 |
+| 121 | **DRIFT Foundation** | Car enthusiast community and token on TON | [Telegram](https://t.me/ton_drift) | 2023-11-04 |
+| 122 | **Ton Inu** | TINU token announcements and tools | [Telegram](https://t.me/toninuannoucement) | 2024-03-15 |
+| 123 | **Dracoin** |  | [Telegram](https://t.me/dracoin) | 2024-01-13 |
+| 124 | **Grand Ton Ape** | Memecoin project on TON themed around GTA | [Telegram](https://t.me/gtaonton) | 2025-09-08 |
+| 125 | **TON Raffles (RAFF)** |  | [Telegram](https://t.me/tonraffles_en) [X](https://x.com/TonRaffles) [Site](https://tonraffles.app) | 2023-12-01 |
+| 126 | **Bombie (BOMB)** | Survive the Apocalypse, Airdrop is Key! | [Telegram](https://t.me/BombieNews) [X](https://x.com/Bombie_xyz) [Site](https://bombie.xyz) | 2025-03-24 |
+| 127 | **Pepek TON** | Frog-themed memecoin on the TON network | [Telegram](https://t.me/pepekton) | 2026-05-05 |
+| 128 | **Vertus (VERT)** | Official channel of Vertus | [Telegram](https://t.me/the_vertus) [X](https://x.com/the_vertus) [Site](https://x.com/the_vertus) | 2025-01-07 |
+| 129 | **Gentleman (MAN)** |  | [Telegram](https://t.me/gentlemanton) [X](https://x.com/gentlemanonton) [Site](https://gentlemanton.com) | 2024-04-23 |
+| 130 | **Lavandos** | LAVE decentralized token on TON | [Telegram](https://t.me/lavefoundation) | 2023-01-25 |
+| 131 | **Huebel Bolt** |  | [Telegram](https://t.me/boltfoundation) [X](https://x.com/boltlabston) | 2022-06-14 |
+| 132 | **BlyatCoin** |  | [Telegram](https://t.me/blyatcoin) | 2023-12-28 |
+| 133 | **DIAMOND HANDS (DIAMOND)** |  | [Telegram](https://t.me/DiamondHandsonTON) [X](https://x.com/diamondhandston) [Site](https://diamondhandston.com) | 2026-02-09 |
+| 134 | **SPONGE** |  | [Telegram](https://t.me/spngton) | 2024-10-25 |
+| 135 | **Durov Official Meme** | Meme token community on TON | [Telegram](https://t.me/durov_official_meme) | 2025-01-19 |
+| 136 | **PEPE TON** | Memecoin on TON with burnt LP | [Telegram](https://t.me/pepecoin_ton) | 2024-03-27 |
+| 137 | **Spintria (SP)** | Spintria (SP) is a token on the TON network created for anonymous and quick access to… | [Telegram](https://t.me/spintr) [X](https://x.com/Spintria_coin) [Site](https://sp.one) | 2024-04-08 |
+| 138 | **CATS (CATS)** | Only $CATS the meowest Telegram native token. Join meow | [Telegram](https://t.me/Cats_housewtf) [X](https://x.com/toncats_tg) [Site](https://toncats.pw) | 2024-09-21 |
+| 139 | **PunkCity (PUNK)** | The first NFT on the TON Blockchain | [Telegram](https://t.me/TONPunksENG) [X](https://x.com/TonPunks) [Site](https://tonpunks.org) | 2023-07-04 |
+| 140 | **OwnershipCoin (OC)** | The Community-run Chill Gallery on TON. We are the Gallery that doesn't take itself too… | [Telegram](https://t.me/ownershipcoin) [X](https://x.com/ownershipcoin) [Site](https://ownershipcoin.com) | 2024-10-09 |
+| 141 | **TONDEV** | Jetton token of the TON developer community | [Telegram](https://t.me/tondev_jetton) [X](https://x.com/tondevmeme) [Site](https://tondev.foundation) | 2025-11-29 |
+| 142 | **SuperVerse** | Announcement channel for SuperVerse and the $SUPER token | [Telegram](https://t.me/superverse) | 2024-09-04 |
+| 143 | **Amocucinare (AMORE)** |  | [Telegram](https://t.me/amoreAIcrypto) [X](https://x.com/AmoreCoin) [Site](https://amorecoin.love/) | 2024-11-04 |
+| 144 | **GOATS (GOATS)** |  | [Telegram](https://t.me/realgoats_channel) [X](https://x.com/GOATS_immortal) [Site](https://ton.goatsbot.xyz/) | 2024-11-23 |
+| 145 | **Numbers Strategy** | NUMSTR token focused on anonymous Telegram numbers on TON | [Telegram](https://t.me/numsfomo) | 2025-10-03 |
+| 146 | **Turbo Toad** | Turbo Toad token community portal | [Telegram](https://t.me/turbotoadtoken) | 2024-05-28 |
+| 147 | **Nest Coin** | Official channel of the Nest Coin token | [Telegram](https://t.me/tapovich_channel) | 2024-03-13 |
+| 148 | **TON Cats Jetton** |  | [Telegram](https://t.me/toncats_tg) [Bot](https://t.me/toncats_cbot) [X](https://x.com/toncats_tg) | 2024-03-13 |
+| 149 | **Hamster Kombat (HMSTR)** |  | [Telegram](https://t.me/hamster_kombat) [X](https://x.com/hamster_kombat) Site (down) | 2024-09-22 |
+| 150 | **Memhash (MEMHASH)** |  | [Telegram](https://t.me/memhash) [Bot](https://t.me/memhash_bot) [X](https://x.com/memhash_app) [Site](https://memhash.org) | 2025-02-13 |
+| 151 | **FPI Bank (FPIBANK)** |  | [Telegram](https://t.me/fpibank) [X](https://x.com/fpi_bank) [Site](https://fpibank.com) | 2024-11-26 |
+| 152 | **SHWRM** | SHWRM memecoin channel | [Telegram](https://t.me/shwrm) | 2024-07-11 |
+| 153 | **ARTDRA Coin (ARTDRA)** | Combat Games & Artdra Coin | [Telegram](https://t.me/artdracoin) [X](https://x.com/combatgamestv) [Site](https://artdra.pro) | 2025-07-10 |
+| 154 | **Epic Clash Story** | Memecoin project with TON and Solana communities | [Telegram](https://t.me/epicclashstory) | 2024-11-13 |
+| 155 | **Bolgur** | Meme token project with official channel on TON | [Telegram](https://t.me/airinabolgur) [X](https://x.com/airinabolgur) [Site](https://bolgur.ai) | 2024-11-01 |
+| 156 | **Ton Cat (TCAT)** |  | [Telegram](https://t.me/TheRealTCAT) [X](https://x.com/TonCatonTon) [Site](https://www.toncat.net) | 2024-06-26 |
+| 157 | **BARK47** |  | [Telegram](https://t.me/bark_47) [X](https://x.com/bark047) [Site](https://bark47.com) | 2024-11-14 |
+| 158 | **CAVIAR** | Utility token of the TON Frogs NFT project | [Telegram](https://t.me/caviarcoin) | 2024-03-22 |
+| 159 | **DoubleDog** | Memecoin community | [Telegram](https://t.me/doubledogmeme) | 2024-04-07 |
+| 160 | **EVAA Protocol (EVAA)** | The first decentralized lending protocol on TON | [Telegram](https://t.me/evaaprotocol) [X](https://x.com/evaaprotocol) [Site](https://evaa.finance) | 2025-09-29 |
+| 161 | **TON Degen** | Degen community on TON | [Telegram](https://t.me/degenon_ton) | 2024-06-20 |
+| 162 | **TAC (TAC)** |  | [Telegram](https://t.me/TACbuild) [X](https://x.com/TacBuild) [Site](https://tac.build) | 2024-02-01 |
+| 163 | **BUILD (BUILD)** |  | [Telegram](https://t.me/join_community) [X](https://x.com/commmmmunity) [Site](https://openbuilders.xyz) | 2025-01-06 |
+| 164 | **AngelPoop** | Announcements for the AngelPoop token | [Telegram](https://t.me/angelpoop_announcements) | 2024-11-02 |
+| 165 | **ECO Project** | ECO token project on TON | [Telegram](https://t.me/eco_project_ton) | 2024-07-12 |
+| 166 | **Mr. Feeman** | FMAN meme token on TON | [Telegram](https://t.me/mrfeeman_ru) [Bot](https://t.me/mrfeeman_bot) | 2024-06-02 |
+| 167 | **Memeerkat** |  | [Telegram](https://t.me/memeerkat) | 2024-11-26 |
+| 168 | **TapSwapToken (TAPS)** | Turn your endless taps into a financial tool | [Telegram](https://t.me/tapswapai) [X](https://x.com/tapswapai) [Site](https://www.tapswap.ai) | 2025-02-12 |
+| 169 | **England Fan Token** |  | [Telegram](https://t.me/englandfantokenchannel) | 2024-05-24 |
+| 170 | **Cyber Dog** |  | [Telegram](https://t.me/cyberdogmeme) | 2024-09-06 |
+| 171 | **BOOK OF MEME TON** |  | [Telegram](https://t.me/bome_tonann) | 2024-04-07 |
+| 172 | **JIRIQ** | Meme coin with website and roadmap | [Telegram](https://t.me/jirique) | 2025-01-21 |
+| 173 | **EMOB TON** |  | [Telegram](https://t.me/emobton) [X](https://x.com/emobton) [GitHub](https://github.com/emobton) | 2025-01-18 |
+| 174 | **OTON** | Announcement channel of the OTON token | [Telegram](https://t.me/orangutonchain) [X](https://x.com/RealOranguTON) [Site](https://oranguton.com) | 2024-04-21 |
+| 175 | **Redo** | Welcome to the Digital Resistance | [Telegram](https://t.me/redotoken) [X](https://x.com/redotoken) [Site](https://redoton.com) | 2024-01-09 |
+| 176 | **Resistance Dog (REDO)** | Welcome to the Digital Resistance | [Telegram](https://t.me/redotoken) [X](https://x.com/redotoken) [Site](https://redoton.com) | 2024-01-09 |
+| 177 | **DOGG TON** | Dog-themed meme token on TON with a game | [Telegram](https://t.me/dogecoin_onton) | 2024-04-12 |
+| 178 | **KAKAXA** |  | [Telegram](https://t.me/kakaxa_coin) [X](https://x.com/kakaxa_ton) [Site](https://kakaxa.com/eng#rec739886644) | 2024-04-17 |
+| 179 | **Pizza Gram** | Memecoin on The Open Network | [Telegram](https://t.me/pizzaforgram) | 2024-03-25 |
+| 180 | **Shitcoin (SHIT)** | Главный Shitcoin, чтобы править всеми | [Telegram](https://t.me/Shitcoinrun) [X](https://x.com/shitcoinrun) [Site](https://tonshitcoin.xyz/) | 2024-05-09 |
+| 181 | **Hedgehog in the Fog** | It’s just hedgehog in the fog on TON. Listing is on 5th of June on StonFi | [Telegram](https://t.me/hedgehoginthefogen) [X](https://x.com/hedgehogton) [Site](https://www.hedgehoginthefog.xyz) | 2024-06-05 |
+| 182 | **TonBubbles** | Antimemecoin on TON with the DICK token | [Telegram](https://t.me/addicktedton) | 2024-04-09 |
+| 183 | **Alenka** | ALENKA coin project on TON | [Telegram](https://t.me/alenkaonton) [X](https://x.com/AlenkaTON) [Site](https://alenka.tg) | 2024-05-31 |
+| 184 | **Resistance Girl (REGI)** |  | [Telegram](https://t.me/ResistanceGirlCoin) [X](https://x.com/regitoncoin) [Site](https://regiton.net) | 2024-03-13 |
+| 185 | **SAD MEOW (SADMEOW)** |  | [Telegram](https://t.me/sadmeowcto_portal) [X](https://x.com/SadMeowMP3) [Site](https://sadmeow.lol) | 2024-10-11 |
+| 186 | **Jason Statham TON** |  | [Telegram](https://t.me/statham_ton) | 2024-01-28 |
+| 187 | **SpartaCats** | Cat-themed memecoin | [Telegram](https://t.me/spartacats) | 2024-04-13 |
+| 188 | **meh (MEH)** |  | [Telegram](https://t.me/mehtoken) [X](https://x.com/meh_ton) [Site](https://meh.promo) | 2024-04-06 |
+| 189 | **BROUK** |  | [Telegram](https://t.me/broukonton) | 2024-07-02 |
+| 190 | **Kotecoin** | Russian community of Kotecoin, a jetton and ICO on TON | [Telegram](https://t.me/kotecoinru) | 2022-04-21 |
+| 191 | **NOTGEM** |  | [Telegram](https://t.me/gemtonmeme) | 2024-05-03 |
+| 192 | **Raha Coin** | Raha Coin token project | [Telegram](https://t.me/rahacoin) | 2023-09-05 |
+| 193 | **FUEL** | Jetton with Telegram bot | [Telegram](https://t.me/fueljetton) | 2024-04-16 |
+| 194 | **KOT on TON** |  | [Telegram](https://t.me/kot_on_ton) | 2024-04-28 |
+| 195 | **MMM2049** |  | [Telegram](https://t.me/mmm2049) | 2024-05-14 |
+| 196 | **Fuel Jetton** | Jetton token on TON with its own bot | [Telegram](https://t.me/fueljetton_en) | 2024-05-31 |
+| 197 | **The Open League MEME** | $TOL is The Open League meme community token. Earn rewards by using TON ecosystem projects | [Telegram](https://t.me/tolmeme) [X](https://x.com/tolmeme) | 2024-03-26 |
+| 198 | **John Doge** |  | [Telegram](https://t.me/johndogeton) [X](https://x.com/JohnDogeTON) | 2024-02-05 |
+| 199 | **Cubigator (CUB)** |  | [Telegram](https://t.me/cubigatorton) [X](https://x.com/CubigatorOnTon) [Site](https://www.cubigator.club) | 2024-04-24 |
+| 200 | **TON Airplane** | Community token project on TON | [Telegram](https://t.me/tonairplane) | 2022-01-15 |
+| 201 | **KREEPTA** | Meme token on TON with community channel | [Telegram](https://t.me/kreeptatoken) | 2024-06-26 |
+| 202 | **Morfey** | Ton founders' (Nikolai and Pavel Durov) Cat | [Telegram](https://t.me/morfeyofficial) [X](https://x.com/morfeytoken) [Site](https://morfeytoken.io) | 2024-01-07 |
+| 203 | **Laika** |  | [Telegram](https://t.me/laikaofficialstation) [X](https://x.com/LaikaOnTon) [Site](https://www.laikaonton.com) | 2023-12-27 |
+| 204 | **Rosecoin (ROSE)** | Rosecoin pays homage to the most recognisable face on Telegram - Join our fan token… | [Telegram](https://t.me/Rosecointon) [X](https://x.com/RosecoinTon) [Site](https://roseton.org) | 2024-04-12 |
+| 205 | **tbrc** | Inscription-style token experiment on TON and Telegram | [Telegram](https://t.me/tbrc_ton) | 2024-02-02 |
+| 206 | **PAPA** | Community token project | [Telegram](https://t.me/papa_community) | 2023-12-31 |
+| 207 | **PADLA** | Official channel of the PADLA bear project | [Telegram](https://t.me/padla_project) | 2022-08-26 |
+| 208 | **Paper Plane (PLANE)** |  | [Telegram](https://t.me/paperplane_ton) [X](https://x.com/paperplane_ton) [Site](https://paperplanetoken.site) | 2024-01-11 |
+| 209 | **NOT DAO** | Community DAO channel of the Notcoin ecosystem | [Telegram](https://t.me/not_dao) | 2024-01-27 |
+| 210 | **Not Notcoin** |  | [Telegram](https://t.me/not_notcoin) [X](https://x.com/Not_Notcoin) | 2024-01-10 |
+| 211 | **iOi Coin** | Official channel of iOi coin with wallet bot | [Telegram](https://t.me/ioi_coin) | 2023-03-18 |
 
 </details>

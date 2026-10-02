@@ -2,7 +2,7 @@
 
 # Privacy
 
-**28 projects: 10 active, 17 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**41 projects: 11 active, 29 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -15,31 +15,44 @@
 | 5 | **1323vpn** | Публикуем новости и обновления VPN'а | [Telegram](https://t.me/vpn1323) [Bot](https://t.me/vpn1323bot) [Gram News](https://gramnews.org/apps/1323vpn) | 2023-05-20 |
 | 6 | **Connecton VPN** |  | [Telegram](https://t.me/connectonbot) [GitHub](https://github.com/Connecton) | 2026-09-15 |
 | 7 | **Need VPN & eSIM** | Fast & Stable VPN & eSIM | [Telegram](https://t.me/needapp) [Bot](https://t.me/need) | 2024-10-25 |
-| 8 | **VPN Скруджа** | VPN Сервис для избранных Помощь | [Telegram](https://t.me/scroogevpn) [Bot](https://t.me/scroogevpnrobot) | 2023-01-12 |
-| 9 | **Связь VPN** | Безопасный, Быстрый, Удобный и Лучший VPN на рынке с приятной ценой Наш Наш магазин | [Telegram](https://t.me/svyaznews) [Bot](https://t.me/svyazvpnrobot) | 2026-04-24 |
-| 10 | **WayLuckyVPN** | WayLuckyVPN bot - WayLuckyVPN Support account | [Telegram](https://t.me/wayluckyvpnchannel) [Bot](https://t.me/wayluckyvpn_bot) | 2024-11-28 |
+| 8 | **Mr. Freeman** | VPN, proxy, eSIM and crypto cards service via Telegram bot | [Telegram](https://t.me/nosignalgohome) | 2025-09-04 |
+| 9 | **VPN Скруджа** | VPN Сервис для избранных Помощь | [Telegram](https://t.me/scroogevpn) [Bot](https://t.me/scroogevpnrobot) | 2023-01-12 |
+| 10 | **Связь VPN** | Безопасный, Быстрый, Удобный и Лучший VPN на рынке с приятной ценой Наш Наш магазин | [Telegram](https://t.me/svyaznews) [Bot](https://t.me/svyazvpnrobot) | 2026-04-24 |
+| 11 | **WayLuckyVPN** | WayLuckyVPN bot - WayLuckyVPN Support account | [Telegram](https://t.me/wayluckyvpnchannel) [Bot](https://t.me/wayluckyvpn_bot) | 2024-11-28 |
 
-<details><summary><b>Quiet: 17</b></summary>
+<details><summary><b>Quiet: 29</b></summary>
 
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
-| 11 | **Depinsim** | World’s first decentralized connectivity infrastructure network | [Telegram](https://t.me/depinsim) [Bot](https://t.me/DepinSimBot) [X](https://x.com/depinsim) [Site](https://www.depinsim.com/) [Gram News](https://gramnews.org/apps/depinsim) | 2024-06-20 |
-| 12 | **Acton VPN** | Быстрый и надёжный VPN | [Bot](https://t.me/actonvpn_bot) | 2026-09-16 |
-| 13 | **ConnectMeGuru eSIM** | Instant travel eSIMs for 190+ countries. Buy, install & manage data plans directly in… | [Bot](https://t.me/esim_connectmeguru_bot) [X](https://x.com/connectmeguru) [Site](https://www.connectmeguru.com) [Gram News](https://gramnews.org/apps/connectmeguru-esim) | 2026-02-21 |
-| 14 | **DARK VPN** | Телеграм - Вебсайт - cabinet.dark-vpn.com Вконтакте - vk.ru/darkvpn_official | [Telegram](https://t.me/d_k_vpn) [Bot](https://t.me/darklightvpn_bot) | 2025-07-15 |
-| 16 | **Gimme VPN** |  | [Bot](https://t.me/gimmelifevpn_bot) | 2026-07-10 |
-| 17 | **hitvpnbot** | Быстрый и безопасный VPN сервис | [Bot](https://t.me/hitvpnbot) | 2023-10-03 |
-| 18 | **Kent VPN** | Шифрование трафика, анонимность поисков и обход белых списков. Работает даже в бункере.… | [Bot](https://t.me/vpn_kentbot) | 2024-07-23 |
-| 19 | **mgs backstage** | Дискорд - ———— Лучший VPN - в разработке Хаб для покупки цифровых товаров | [Telegram](https://t.me/mgsbackstage) [Bot](https://t.me/lumenx_robot) | 2026-08-18 |
-| 20 | **Molly VPN** | MOLLY - скоростной анонимный VPN | [Telegram](https://t.me/mollyvpn_community) [Bot](https://t.me/mollyvpnbot_bot) | 2026-05-05 |
-| 21 | **NETZ.RUN VPN** | Fast and reliable VPN service in Telegram | [Bot](https://t.me/netzrun_bot) | 2023-10-03 |
-| 22 | **Plume Proxy** | Fast & Affordable Rotating Proxy Servers | [Bot](https://t.me/plumeproxy_bot) | 2023-10-03 |
-| 23 | **PlusOne VPN** |  | [Bot](https://t.me/plusonevpn_bot) | 2026-04-27 |
-| 24 | **Tony VPN** |  | [Bot](https://t.me/tony_vpn_bot) [Gram News](https://gramnews.org/apps/tony-vpn) | 2026-03-26 |
-| 25 | **VPN4TON** |  | [Bot](https://t.me/vpn4ton_bot) | 2023-10-03 |
-| 26 | **zonerift VPN** | Buy Premium VPN with Telegram Stars and TON | [Telegram](https://t.me/TildaApp) [Bot](https://t.me/zoneriftvpn_bot) [X](https://x.com/zoneriftvpn) Site (down) [Gram News](https://gramnews.org/apps/zonerift-vpn) | 2024-05-13 |
-| 27 | **Gram VPN** | A VPN inside Telegram — the bot opens blocked websites through a blocking-bypass system… | [Telegram](https://t.me/GramVPN) [Bot](https://t.me/GramVBot) [Gram News](https://gramnews.org/apps/gram-vpn) | 2018-04-16 |
-| 28 | **telegramconnect** | Earn crypto and get access to 15M WiFi passwords with ! | [Telegram](https://t.me/townwifi) [Bot](https://t.me/townwifibot) [Gram News](https://gramnews.org/apps/telegramconnect) | 2024-06-03 |
+| 12 | **Depinsim** | World’s first decentralized connectivity infrastructure network | [Telegram](https://t.me/depinsim) [Bot](https://t.me/DepinSimBot) [X](https://x.com/depinsim) [Site](https://www.depinsim.com/) [Gram News](https://gramnews.org/apps/depinsim) | 2024-06-20 |
+| 13 | **Acton VPN** | Быстрый и надёжный VPN | [Bot](https://t.me/actonvpn_bot) | 2026-09-16 |
+| 14 | **BerkutTeam VPN** | VPN service run as a Telegram bot | [Bot](https://t.me/berkutteamvpn_bot) | 2026-07-02 |
+| 15 | **ConnectMeGuru eSIM** | Instant travel eSIMs for 190+ countries. Buy, install & manage data plans directly in… | [Bot](https://t.me/esim_connectmeguru_bot) [X](https://x.com/connectmeguru) [Site](https://www.connectmeguru.com) [Gram News](https://gramnews.org/apps/connectmeguru-esim) | 2026-02-21 |
+| 16 | **DARK VPN** | Телеграм - Вебсайт - cabinet.dark-vpn.com Вконтакте - vk.ru/darkvpn_official | [Telegram](https://t.me/d_k_vpn) [Bot](https://t.me/darklightvpn_bot) | 2025-07-15 |
+| 17 | **DeVPN** | VPN service run as a Telegram bot | [Bot](https://t.me/delabvpnbot) | 2024-09-12 |
+| 18 | **EJX VPNAI** | VPN service delivered through a Telegram bot | [Bot](https://t.me/vpnai) | 2026-03-26 |
+| 19 | **EJX VPNAI** | VPN service in a Telegram bot | [Bot](https://t.me/ejxbot) | 2026-03-30 |
+| 21 | **GercVPN** | VPN service in a Telegram bot | [Bot](https://t.me/gercvpn_bot) | 2026-04-24 |
+| 22 | **Gimme VPN** |  | [Bot](https://t.me/gimmelifevpn_bot) | 2026-07-10 |
+| 23 | **Hermit VPN** | VPN service in a Telegram bot | [Bot](https://t.me/hermitvpnbot) | 2026-03-26 |
+| 24 | **hitvpnbot** | Быстрый и безопасный VPN сервис | [Bot](https://t.me/hitvpnbot) | 2023-10-03 |
+| 25 | **HysteriaVPN** | VPN service as a Telegram bot | [Bot](https://t.me/hysteria2vpn_bot) | 2026-05-18 |
+| 26 | **INCY VPN** | VPN service as a Telegram bot | [Bot](https://t.me/incy) | 2026-06-08 |
+| 27 | **Kent VPN** | Шифрование трафика, анонимность поисков и обход белых списков. Работает даже в бункере.… | [Bot](https://t.me/vpn_kentbot) | 2024-07-23 |
+| 28 | **Makaka VPN** | Telegram bot selling VPN access | [Bot](https://t.me/makakavpnbot) | 2026-04-18 |
+| 29 | **mgs backstage** | Дискорд - ———— Лучший VPN - в разработке Хаб для покупки цифровых товаров | [Telegram](https://t.me/mgsbackstage) [Bot](https://t.me/lumenx_robot) | 2026-08-18 |
+| 30 | **Molly VPN** | MOLLY - скоростной анонимный VPN | [Telegram](https://t.me/mollyvpn_community) [Bot](https://t.me/mollyvpnbot_bot) | 2026-05-05 |
+| 31 | **Mr. Freeman** | VPN, proxy, eSIM and crypto cards service via Telegram bot | [Bot](https://t.me/dmf0_bot) | 2025-10-15 |
+| 32 | **NETZ.RUN VPN** | Fast and reliable VPN service in Telegram | [Bot](https://t.me/netzrun_bot) | 2023-10-03 |
+| 33 | **Plume Proxy** | Fast & Affordable Rotating Proxy Servers | [Bot](https://t.me/plumeproxy_bot) | 2023-10-03 |
+| 34 | **PlusOne VPN** |  | [Bot](https://t.me/plusonevpn_bot) | 2026-04-27 |
+| 35 | **Telegram Info VPN** | VPN service in a Telegram bot | [Bot](https://t.me/tginfovpn_bot) | 2022-06-20 |
+| 36 | **Ton VPN** | VPN service operating as a Telegram bot | [Bot](https://t.me/tonvpn_bot) | 2024-11-30 |
+| 37 | **Tony VPN** |  | [Bot](https://t.me/tony_vpn_bot) [Gram News](https://gramnews.org/apps/tony-vpn) | 2026-03-26 |
+| 38 | **VPN4TON** |  | [Bot](https://t.me/vpn4ton_bot) | 2023-10-03 |
+| 39 | **zonerift VPN** | Buy Premium VPN with Telegram Stars and TON | [Telegram](https://t.me/TildaApp) [Bot](https://t.me/zoneriftvpn_bot) [X](https://x.com/zoneriftvpn) Site (down) [Gram News](https://gramnews.org/apps/zonerift-vpn) | 2024-05-13 |
+| 40 | **Gram VPN** | A VPN inside Telegram — the bot opens blocked websites through a blocking-bypass system… | [Telegram](https://t.me/GramVPN) [Bot](https://t.me/GramVBot) [Gram News](https://gramnews.org/apps/gram-vpn) | 2018-04-16 |
+| 41 | **telegramconnect** | Earn crypto and get access to 15M WiFi passwords with ! | [Telegram](https://t.me/townwifi) [Bot](https://t.me/townwifibot) [Gram News](https://gramnews.org/apps/telegramconnect) | 2024-06-03 |
 
 </details>
 
@@ -47,6 +60,6 @@
 
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
-| 15 | **fedafone** |  | [Gram News](https://gramnews.org/apps/fedafone) | 2025-04-09 |
+| 20 | **fedafone** |  | [Gram News](https://gramnews.org/apps/fedafone) | 2025-04-09 |
 
 </details>

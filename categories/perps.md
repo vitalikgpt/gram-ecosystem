@@ -2,7 +2,7 @@
 
 # Perp DEX
 
-**7 projects: 7 active, 0 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**11 projects: 7 active, 4 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -15,3 +15,14 @@
 | 5 | **Vooi App** | Join VOOI - Trade, Arbitrage, Earn Rewards / Unlock trading | [Telegram](https://t.me/vooi_app) [Bot](https://t.me/vooiappbot) [Gram News](https://gramnews.org/apps/vooi-app) | 2024-04-16 |
 | 6 | **Aster** |  | [Telegram](https://t.me/asterdex) [Site](https://www.asterdex.com) | 2025-03-14 |
 | 7 | **Lighter** |  | [Site](https://lighter.xyz) | 2025-10 |
+
+<details><summary><b>Quiet: 4</b></summary>
+
+| # | Project | What it is | Links | Launched |
+| ---: | --- | --- | --- | --- |
+| 8 | **Hopium** | Social perp trading on Telegram | [Bot](https://t.me/hopium_official_bot) | 2024-08-20 |
+| 9 | **HyperFun** | Leveraged Bitcoin trading in Telegram | [Bot](https://t.me/hyperfn_bot) | 2026-04-23 |
+| 10 | **KiloEx** | Peer-to-pool perpetual DEX with an official community chat | [Telegram](https://t.me/kiloex) | 2024-07-24 |
+| 11 | **Scalr** | Perpetual DEX powered by TON | [Telegram](https://t.me/scalr_dex) | 2024-06-14 |
+
+</details>

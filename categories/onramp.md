@@ -2,7 +2,7 @@
 
 # On-ramp
 
-**21 projects: 9 active, 12 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**28 projects: 9 active, 19 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -18,7 +18,7 @@
 | 8 | **Mercuryo** |  | [Site](https://mercuryo.io) [Gram News](https://gramnews.org/apps/mercuryo) | 2026-06-17 |
 | 9 | **Prosto Exchange** | Платите криптой по QR. Покупка и вывод на карту, наличные по миру. ProstoEx -легальный… | [Telegram](https://t.me/prostoex_news) [Bot](https://t.me/prostoexbot) | 2021-10-11 |
 
-<details><summary><b>Quiet: 12</b></summary>
+<details><summary><b>Quiet: 19</b></summary>
 
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
@@ -27,12 +27,19 @@
 | 12 | **AWX Crypto SHOP** | Покупка и продажа крипто за фиат в офисах по всему Миру! | [Bot](https://t.me/awexcryptobot) | 2026-10 |
 | 13 | **Bitpapa** |  | [Telegram](https://t.me/bitpapa_io) [X](https://x.com/bitpapa_io) [Site](https://bitpapa.com) [Gram News](https://gramnews.org/apps/bitpapa) | 2024-03-09 |
 | 14 | **DW: Toncoin Buy&Sell** | Buy & Sale TON Coin with great rate in few clicks. The part of the ecosystem | [Telegram](https://t.me/TokenInfinity) [Bot](https://t.me/DW_tonbot) [Gram News](https://gramnews.org/apps/dw-toncoin-buy-sell) | 2022-09-12 |
-| 15 | **GRAM в Рубли** | Автоматический обмен GRAM в рубли с выводом на банковскую карту. Без верификации / NO KYC | [Bot](https://t.me/gramtorub_bot) | 2026-06-01 |
-| 16 | **HoudiniSwap** | HoudiniSwap bot will enable you to create exchanges directly within Telegram | [Bot](https://t.me/houdiniswap_bot) | 2026-05 |
-| 17 | **ONLY** |  | [Telegram](https://t.me/p2pru) [Bot](https://t.me/only_pays_bot) | 2025-12-16 |
-| 18 | **Onmeta** |  | [Telegram](https://t.me/onmetatg) [X](https://x.com/onmetahq) [Site](https://onmeta.in/) [GitHub](https://github.com/onmetahq) [Gram News](https://gramnews.org/apps/onmeta) | 2022-01-18 |
-| 19 | **Onramp** |  | [Site](https://onramp.money/main/buy/?appId=1&coinCode=ton) [Gram News](https://gramnews.org/apps/onramp) | 2023-02 |
-| 20 | **SimpleSwap** |  | [Site](https://simpleswap.io/?utm_source=tonapp&utm_medium=portal&utm_campaign=exchange) [Gram News](https://gramnews.org/apps/simpleswap) | 2023-02-04 |
-| 21 | **Transack** |  | [Telegram](https://t.me/transakfinance) [X](https://x.com/transak) [GitHub](https://github.com/Transak) | 2019-04-26 |
+| 15 | **Golden Stars** | Service for buying Stars, TON and NFT gifts for rubles | [Bot](https://t.me/golden_starsbot) | 2025-03-09 |
+| 16 | **GRAM в Рубли** | Автоматический обмен GRAM в рубли с выводом на банковскую карту. Без верификации / NO KYC | [Bot](https://t.me/gramtorub_bot) | 2026-06-01 |
+| 17 | **HoudiniSwap** | HoudiniSwap bot will enable you to create exchanges directly within Telegram | [Bot](https://t.me/houdiniswap_bot) | 2026-05 |
+| 18 | **LH Telegram Stars** | Service for buying and selling Telegram Stars | [Bot](https://t.me/lh_tgstars_bot) | 2025-08-14 |
+| 19 | **LH TON Buy** | Bot to buy and sell TON and USDT | [Bot](https://t.me/lh_tonbuy_bot) | 2024-04-21 |
+| 20 | **ONLY** |  | [Telegram](https://t.me/p2pru) [Bot](https://t.me/only_pays_bot) | 2025-12-16 |
+| 21 | **Onmeta** |  | [Telegram](https://t.me/onmetatg) [X](https://x.com/onmetahq) [Site](https://onmeta.in/) [GitHub](https://github.com/onmetahq) [Gram News](https://gramnews.org/apps/onmeta) | 2022-01-18 |
+| 22 | **Onramp** |  | [Site](https://onramp.money/main/buy/?appId=1&coinCode=ton) [Gram News](https://gramnews.org/apps/onramp) | 2023-02 |
+| 23 | **PSINA Stars** | Service for buying Telegram Stars and Premium | [Bot](https://t.me/psinastarsbot) | 2026-01-06 |
+| 24 | **Ray Stars** | Bot for buying Telegram Stars | [Bot](https://t.me/raystarsrobot) | 2026-02-27 |
+| 25 | **SimpleSwap** |  | [Site](https://simpleswap.io/?utm_source=tonapp&utm_medium=portal&utm_campaign=exchange) [Gram News](https://gramnews.org/apps/simpleswap) | 2023-02-04 |
+| 26 | **Stars Buy** | Bot for buying Telegram Stars | [Bot](https://t.me/sells_stars_bot) | 2026-02-03 |
+| 27 | **Transack** |  | [Telegram](https://t.me/transakfinance) [X](https://x.com/transak) [GitHub](https://github.com/Transak) | 2019-04-26 |
+| 28 | **Vseznayka** | Bot for buying TON and Telegram Stars for rubles | [Bot](https://t.me/vseznayka_ex_bot) | 2025-06-23 |
 
 </details>

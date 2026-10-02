@@ -2,7 +2,7 @@
 
 # Catalogues
 
-**10 projects: 6 active, 4 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**15 projects: 7 active, 8 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -14,14 +14,19 @@
 | 4 | **ton.website** |  | [Telegram](https://t.me/mtproxyfreedom) [Site](https://ton.website) | 2022-10-15 |
 | 5 | **FindMini.app** | Discover curated selection of the best Telegram Mini Apps | [Telegram](https://t.me/findminiapp) [Site](https://www.findmini.app/) | 2024-06-23 |
 | 6 | **SUPER PLATFORM** | Discover quality platforms worth your attention | [Bot](https://t.me/yaojingappbot) | 2026-09-08 |
+| 7 | **Sousou** | Chinese-language index of Telegram groups, channels and bots | [Telegram](https://t.me/cn123) | 2023-04-20 |
 
-<details><summary><b>Quiet: 4</b></summary>
+<details><summary><b>Quiet: 8</b></summary>
 
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
-| 7 | **Gapps Center** | Your Favourite App Center on Telegram gapps.site | [Bot](https://t.me/gappscenter_bot) | 2026-04-16 |
-| 8 | **TON App Center** |  | [Telegram](https://t.me/tonappcenterbot) | 2024-07-14 |
-| 9 | **Yaya Mini Apps** | Yaya community: Dev | [Telegram](https://t.me/yaya_gram) [Bot](https://t.me/yayaminiapps_bot) | 2026-06-16 |
-| 10 | **Trending Apps** | Trending Apps is a community-powered hub spotlighting the most exciting Telegram apps… | [Telegram](https://t.me/trendingapps) | 2023-07-31 |
+| 8 | **Gapps Center** | Your Favourite App Center on Telegram gapps.site | [Bot](https://t.me/gappscenter_bot) | 2026-04-16 |
+| 9 | **Mini Apps Center** | Directory of Telegram mini apps | [Bot](https://t.me/miniappscenterbot) | 2024-09-22 |
+| 10 | **TappRank** | Bot ranking and promoting Telegram bots | [Bot](https://t.me/tapprankbot) | 2025-03-10 |
+| 11 | **TON App Center** |  | [Telegram](https://t.me/tonappcenterbot) | 2024-07-14 |
+| 12 | **Yaya Mini Apps** | Yaya community: Dev | [Telegram](https://t.me/yaya_gram) [Bot](https://t.me/yayaminiapps_bot) | 2026-06-16 |
+| 13 | **Trending Apps** | Trending Apps is a community-powered hub spotlighting the most exciting Telegram apps… | [Telegram](https://t.me/trendingapps) | 2023-07-31 |
+| 14 | **Futurum** | Marketplace for digital assets, NFTs and investment projects | [Telegram](https://t.me/futurumx100) [Bot](https://t.me/futurumx100_bot) | 2024-09-18 |
+| 15 | **Tonski** | Ecosystem and catalogue for TON Sites | [Telegram](https://t.me/searchington) | 2022-10-04 |
 
 </details>

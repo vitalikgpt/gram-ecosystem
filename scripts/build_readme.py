@@ -24,6 +24,9 @@ SOURCES = {
     "ton-channel-posts": "bots and product channels linked by at least three different TON channels "
     "(`metric` says how many)",
     "gramnews-feed": "a post on [@gramnews](https://t.me/gramnews)",
+    "gramnews-corpus": "the Gram News post corpus: 531.7 million Telegram posts since 2015, names mentioned "
+    "by at least three TON channels, then checked by hand",
+    "gramnews-orgs": "studio, fund and accelerator portfolios, each link with its source",
     "gramnews-q3-2026": "the [Gram News quarterly map](reports/2026-q3)",
     "ton-society-ecosystem-map": "[ton-society/ecosystem-map](https://github.com/ton-society/ecosystem-map)",
     "awesome-ton": "[ton-community/awesome-ton](https://github.com/ton-community/awesome-ton)",

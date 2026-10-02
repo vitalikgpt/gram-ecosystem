@@ -2,7 +2,7 @@
 
 # Security
 
-**33 projects: 11 active, 22 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**37 projects: 11 active, 26 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -20,7 +20,7 @@
 | 10 | **GID Anti-Scam** | Крупнейший анти-скам проект в Telegram Подать жалобу /report Скам-База Все ресурсы | [Telegram](https://t.me/gid_scambase) [Bot](https://t.me/gidbanbot) | 2024-02-24 |
 | 11 | **Nowarp** | nowarp.io / github.com/nowarp / x.com/nowarp_io | [Telegram](https://t.me/nowarp_io) [X](https://x.com/nowarp_io) [Site](https://nowarp.io) [GitHub](https://github.com/nowarp) [Gram News](https://gramnews.org/apps/nowarp) | 2025-01-24 |
 
-<details><summary><b>Quiet: 22</b></summary>
+<details><summary><b>Quiet: 26</b></summary>
 
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
@@ -31,20 +31,24 @@
 | 16 | **Cryptonite Scanner** | TON blockchain token scanner for detecting scam projects | [Telegram](https://t.me/cryptonportal) [Bot](https://t.me/CryptoniteScannerBot) [Site](https://crypton.tools) [Gram News](https://gramnews.org/apps/cryptonite-scanner) | 2024-01-08 |
 | 17 | **Decurity** |  | [Telegram](https://t.me/defimon_alerts) [X](https://x.com/DecurityHQ) [Site](https://www.decurity.io/) [GitHub](https://github.com/Decurity) [Gram News](https://gramnews.org/apps/decurity) | 2024-11-24 |
 | 18 | **Fuck Scammers** |  | [Telegram](https://t.me/fuck_scammers_onTon) [Bot](https://t.me/fuck_scams_bot) [X](https://x.com/Fuck_scams_ton) [Gram News](https://gramnews.org/apps/fuck-scammers) | 2024-09 |
-| 19 | **Hexens** |  | [X](https://x.com/hexensio) [Site](https://hexens.io) [Gram News](https://gramnews.org/apps/hexens) | 2024-07 |
-| 20 | **JettonTonGuard** | TON token analytics: contract, liquidity, holders | [Telegram](https://t.me/JettonTonGuard) [Bot](https://t.me/JettonTonGuard_Bot) [Site](https://app.scriptsnap.site/) [Gram News](https://gramnews.org/apps/jettontonguard) | 2026-05-27 |
-| 21 | **QuillAudits** | Web3 security research & audits (8+ yrs) | [Telegram](https://t.me/quillaudits_official) [X](https://x.com/quillaudits_ai) [Site](https://quillaudits.com/) [GitHub](https://github.com/Quillhash/QuillAudit_Reports) [Gram News](https://gramnews.org/apps/quillaudits) | 2019-01-21 |
-| 22 | **re:doubt** |  | [Telegram](https://t.me/uShopWeb) Site (down) [GitHub](https://github.com/re-doubt) [Gram News](https://gramnews.org/apps/re-doubt) | 2022-12-05 |
-| 23 | **ScaleBit** | MoveBit - The Pioneer in MOVE Security | [Telegram](https://t.me/BitsLabHQ) [X](https://x.com/scalebit_) [Site](https://www.scalebit.xyz) [Gram News](https://gramnews.org/apps/scalebit) | 2024-08-19 |
-| 24 | **Scam-detect** | Scam-detect. Our mission - your security | [Bot](https://t.me/scam_detectg_bot) [Gram News](https://gramnews.org/apps/scam-detect) | 2024-07-06 |
-| 25 | **Scorechain** | Know Your Address / Wallet screening | [Bot](https://t.me/scorechainbot) [X](https://x.com/scorechain) | 2015-04-17 |
-| 26 | **Solidity auditor** |  | [X](https://x.com/legalkornet) [Site](https://www.legal-kornet.com) [GitHub](https://github.com/Silent47boryara/AuditBadge) [Gram News](https://gramnews.org/apps/solidity-auditor) | 2025-08-19 |
-| 27 | **TokenGuide** |  | [Telegram](https://t.me/tokenguidesecurity) [Bot](https://t.me/tokenguide_bot) [X](https://x.com/tokenguideio) [Site](https://tokenguide.io) [Gram News](https://gramnews.org/apps/tokenguide) | 2024-05 |
-| 28 | **Vidma** |  | [Telegram](https://t.me/vidmasecurity) [X](https://x.com/Vidma_security) [Site](https://www.vidma.io) [GitHub](https://github.com/vidma-security) [Gram News](https://gramnews.org/apps/vidma) | 2022-02-28 |
-| 29 | **Web3defender** | Web3defender — wallet and link fraud detection | [Telegram](https://t.me/web3defender_alerts) [Bot](https://t.me/web3defender_bot) [Site](https://web3defender.tech) [Gram News](https://gramnews.org/apps/web3defender) | 2026-09-04 |
-| 30 | **Spide** | IT company in the field of development & cybersecurity | [Telegram](https://t.me/spide) [Bot](https://t.me/spide_robot) [X](https://x.com/spidesecurity) [Site](https://spide.org) [Gram News](https://gramnews.org/apps/spide) | 2021-03-26 |
-| 31 | **PositiveWeb3** | Web3 Security Research audit.com | [Telegram](https://t.me/positiveweb3) [X](https://x.com/PositiveWeb3) [GitHub](https://github.com/PositiveSecurity) | 2023-09-26 |
-| 32 | **Esprito Protocol** | Esprito is an on-chain security analytics company. We offer comprehensive TON analytics… | [Telegram](https://t.me/espritoxyz) [Bot](https://t.me/espritobot) [X](https://x.com/espritoxyz) [Site](https://esprito.com/) [GitHub](https://github.com/espritoxyz) [Gram News](https://gramnews.org/apps/esprito-protocol) | 2024-06-17 |
-| 33 | **Verify** |  | [Telegram](https://t.me/verify_ton_ru) [Bot](https://t.me/verify_eng) [Gram News](https://gramnews.org/apps/verify) | 2024-05-29 |
+| 19 | **GoPlus Security** | Transaction security intelligence | [Telegram](https://t.me/goplussecurity) | 2022-03-30 |
+| 20 | **Hexens** |  | [X](https://x.com/hexensio) [Site](https://hexens.io) [Gram News](https://gramnews.org/apps/hexens) | 2024-07 |
+| 21 | **JettonTonGuard** | TON token analytics: contract, liquidity, holders | [Telegram](https://t.me/JettonTonGuard) [Bot](https://t.me/JettonTonGuard_Bot) [Site](https://app.scriptsnap.site/) [Gram News](https://gramnews.org/apps/jettontonguard) | 2026-05-27 |
+| 22 | **QuillAudits** | Web3 security research & audits (8+ yrs) | [Telegram](https://t.me/quillaudits_official) [X](https://x.com/quillaudits_ai) [Site](https://quillaudits.com/) [GitHub](https://github.com/Quillhash/QuillAudit_Reports) [Gram News](https://gramnews.org/apps/quillaudits) | 2019-01-21 |
+| 23 | **re:doubt** |  | [Telegram](https://t.me/uShopWeb) Site (down) [GitHub](https://github.com/re-doubt) [Gram News](https://gramnews.org/apps/re-doubt) | 2022-12-05 |
+| 24 | **ScaleBit** | MoveBit - The Pioneer in MOVE Security | [Telegram](https://t.me/BitsLabHQ) [X](https://x.com/scalebit_) [Site](https://www.scalebit.xyz) [Gram News](https://gramnews.org/apps/scalebit) | 2024-08-19 |
+| 25 | **Scam-detect** | Scam-detect. Our mission - your security | [Bot](https://t.me/scam_detectg_bot) [Gram News](https://gramnews.org/apps/scam-detect) | 2024-07-06 |
+| 26 | **Scorechain** | Know Your Address / Wallet screening | [Bot](https://t.me/scorechainbot) [X](https://x.com/scorechain) | 2015-04-17 |
+| 27 | **Solidity auditor** |  | [X](https://x.com/legalkornet) [Site](https://www.legal-kornet.com) [GitHub](https://github.com/Silent47boryara/AuditBadge) [Gram News](https://gramnews.org/apps/solidity-auditor) | 2025-08-19 |
+| 28 | **TokenGuide** |  | [Telegram](https://t.me/tokenguidesecurity) [Bot](https://t.me/tokenguide_bot) [X](https://x.com/tokenguideio) [Site](https://tokenguide.io) [Gram News](https://gramnews.org/apps/tokenguide) | 2024-05 |
+| 29 | **TON Security Bug Bounty** | Bug bounty bot for TON security | [Bot](https://t.me/ton_bugs_bot) | 2022-06-24 |
+| 30 | **Vidma** |  | [Telegram](https://t.me/vidmasecurity) [X](https://x.com/Vidma_security) [Site](https://www.vidma.io) [GitHub](https://github.com/vidma-security) [Gram News](https://gramnews.org/apps/vidma) | 2022-02-28 |
+| 31 | **Web3defender** | Web3defender — wallet and link fraud detection | [Telegram](https://t.me/web3defender_alerts) [Bot](https://t.me/web3defender_bot) [Site](https://web3defender.tech) [Gram News](https://gramnews.org/apps/web3defender) | 2026-09-04 |
+| 32 | **Zokyo** | Web3 cybersecurity firm | [Bot](https://t.me/zokyouat_bot) | 2024-10-24 |
+| 33 | **HAPI** | Onchain cybersecurity protocol for DeFi projects | [Telegram](https://t.me/hapi_ann) | 2024-10-25 |
+| 34 | **Spide** | IT company in the field of development & cybersecurity | [Telegram](https://t.me/spide) [Bot](https://t.me/spide_robot) [X](https://x.com/spidesecurity) [Site](https://spide.org) [Gram News](https://gramnews.org/apps/spide) | 2021-03-26 |
+| 35 | **PositiveWeb3** | Web3 Security Research audit.com | [Telegram](https://t.me/positiveweb3) [X](https://x.com/PositiveWeb3) [GitHub](https://github.com/PositiveSecurity) | 2023-09-26 |
+| 36 | **Esprito Protocol** | Esprito is an on-chain security analytics company. We offer comprehensive TON analytics… | [Telegram](https://t.me/espritoxyz) [Bot](https://t.me/espritobot) [X](https://x.com/espritoxyz) [Site](https://esprito.com/) [GitHub](https://github.com/espritoxyz) [Gram News](https://gramnews.org/apps/esprito-protocol) | 2024-06-17 |
+| 37 | **Verify** |  | [Telegram](https://t.me/verify_ton_ru) [Bot](https://t.me/verify_eng) [Gram News](https://gramnews.org/apps/verify) | 2024-05-29 |
 
 </details>

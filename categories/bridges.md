@@ -2,7 +2,7 @@
 
 # Bridges
 
-**19 projects: 11 active, 6 quiet, 2 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**23 projects: 11 active, 10 quiet, 2 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -20,7 +20,7 @@
 | 10 | **TAC Cross Chain Layer** | TAC Cross Chain Layer is a messaging and custody layer connecting TON and TAC EVM,… | [X](https://x.com/tacbuild) [Site](https://tac.build) | 2025-08-28 |
 | 11 | **TON BSC** |  | [Telegram](https://t.me/contest) [Bot](https://t.me/cryptouser_bot) [Site](https://bridge.ton.org) [GitHub](https://github.com/ton-blockchain) [Gram News](https://gramnews.org/apps/ton-bsc) | 2016-03-22 |
 
-<details><summary><b>Quiet: 6</b></summary>
+<details><summary><b>Quiet: 10</b></summary>
 
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
@@ -28,8 +28,12 @@
 | 13 | **TON Bridge** | Bridge for transferring USDT and USDC from other chains to TON | [Bot](https://t.me/TONBridge_robot) [Site](https://bridge.tonbankcard.com) [GitHub](https://github.com/xlabtg) [Gram News](https://gramnews.org/apps/ton-bridge) | 2022-10-08 |
 | 14 | **Axai on Waves** |  | [Bot](https://t.me/wavesaxaibot) [X](https://x.com/wxnetwork) [Gram News](https://gramnews.org/apps/axai-on-waves) | 2020-01-29 |
 | 15 | **island3** |  | [Site](https://bridge.rangersprotocol.com/) [GitHub](https://github.com/rangersprotocolcode) [Gram News](https://gramnews.org/apps/island3) | 2022-01-28 |
-| 16 | **Transit Swap** |  | [X](https://x.com/TransitFinance) [Site](https://swap.transit.finance/) [Gram News](https://gramnews.org/apps/transit-swap) | 2021-07-04 |
-| 17 | **VIZ gateway** | VIZ gateway — bridge between GRAM and Solana chains for wVIZ | [Telegram](https://t.me/viz_world) [Site](https://gateway.viz.cx) [GitHub](https://github.com/viz-cx/viz-gateway) [Gram News](https://gramnews.org/apps/viz-gateway) | 2020-07-09 |
+| 16 | **rhino.fi** | Cross-chain bridging bot | [Bot](https://t.me/rhinofi_bot) | 2024-10-13 |
+| 17 | **Transit Swap** |  | [X](https://x.com/TransitFinance) [Site](https://swap.transit.finance/) [Gram News](https://gramnews.org/apps/transit-swap) | 2021-07-04 |
+| 18 | **VIZ gateway** | VIZ gateway — bridge between GRAM and Solana chains for wVIZ | [Telegram](https://t.me/viz_world) [Site](https://gateway.viz.cx) [GitHub](https://github.com/viz-cx/viz-gateway) [Gram News](https://gramnews.org/apps/viz-gateway) | 2020-07-09 |
+| 19 | **tgBTC** | Bitcoin on TON via TON Teleport | [Telegram](https://t.me/tgbtc_news) | 2024-10-31 |
+| 20 | **CrossCurve** | Cross-chain bridge, formerly EYWA | [Telegram](https://t.me/eywa_channel) | 2022-06-11 |
+| 21 | **MoonTON** | Bridge between TON, Ethereum and Solana | [Telegram](https://t.me/moonton_bridge) | 2024-09-14 |
 
 </details>
 
@@ -37,7 +41,7 @@
 
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
-| 18 | **Layerswap** |  | [Telegram](https://t.me/layerswap_io) [Bot](https://t.me/lowkeybrokeybot) [X](https://x.com/layerswap) [Site](https://layerswap.io) [GitHub](https://github.com/layerswap) | 2021-09-12 |
-| 19 | **XP.NETWORK** | A powerful NFT bridge connecting 30+ EVM and non-EVM blockchains. Go multichain… | [Telegram](https://t.me/XP_NETWORK_Ann) [Bot](https://t.me/siptg_bot) [X](https://x.com/xpnetwork_) [Site](https://bridge.xp.network/) [GitHub](https://github.com/XP-NETWORK) | 2021-09-30 |
+| 22 | **Layerswap** |  | [Telegram](https://t.me/layerswap_io) [Bot](https://t.me/lowkeybrokeybot) [X](https://x.com/layerswap) [Site](https://layerswap.io) [GitHub](https://github.com/layerswap) | 2021-09-12 |
+| 23 | **XP.NETWORK** | A powerful NFT bridge connecting 30+ EVM and non-EVM blockchains. Go multichain… | [Telegram](https://t.me/XP_NETWORK_Ann) [Bot](https://t.me/siptg_bot) [X](https://x.com/xpnetwork_) [Site](https://bridge.xp.network/) [GitHub](https://github.com/XP-NETWORK) | 2021-09-30 |
 
 </details>

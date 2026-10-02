@@ -2,7 +2,7 @@
 
 # RWA
 
-**9 projects: 4 active, 5 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**12 projects: 4 active, 8 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -13,7 +13,7 @@
 | 3 | **USDT** |  | [Site](https://tether.to) | 2024-04-19 |
 | 4 | **Ethena USDe** |  | [Telegram](https://t.me/ethena_labs) [Site](https://ethena.fi) | 2023-05-23 |
 
-<details><summary><b>Quiet: 5</b></summary>
+<details><summary><b>Quiet: 8</b></summary>
 
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
@@ -21,6 +21,9 @@
 | 6 | **SOLARIAN TECH** |  | [Bot](https://t.me/solariantechbot) [Gram News](https://gramnews.org/apps/solarian-tech) | 2024-07-02 |
 | 7 | **TokenizeTrade** |  | [Telegram](https://t.me/tokenizetrade) [Bot](https://t.me/tokenizetradebot) [X](https://x.com/tokenizetrade) [Site](https://www.tokenize.trade) [Gram News](https://gramnews.org/apps/tokenizetrade) | 2024-02-05 |
 | 8 | **Aqua Protocol** |  | [Telegram](https://t.me/aquaprotocolxyz) [X](https://x.com/aquaprotocolxyz) | 2024-09-18 |
-| 9 | **Nexton** | NEXTON is a staking and arbitrage platform designed to maximize rewards in the TON… | [X](https://x.com/NextonNode) [Site](https://www.nexton.solutions) | 2024-11-29 |
+| 9 | **CurioDAO** | Real-world asset tokenization ecosystem | [Telegram](https://t.me/curiocarqa) | 2024-08-22 |
+| 10 | **Nexton** | NEXTON is a staking and arbitrage platform designed to maximize rewards in the TON… | [X](https://x.com/NextonNode) [Site](https://www.nexton.solutions) | 2024-11-29 |
+| 11 | **TVERLOFT** | Real estate-backed RWA token TLOFT | [Telegram](https://t.me/tverloft_chat) | 2025-06-30 |
+| 12 | **Plume** | Real-world asset blockchain network | [Telegram](https://t.me/plumenetwork) | 2025-01-06 |
 
 </details>

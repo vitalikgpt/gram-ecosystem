@@ -2,7 +2,7 @@
 
 # Farming
 
-**772 projects: 247 active, 517 quiet, 8 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**863 projects: 249 active, 606 quiet, 8 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
@@ -118,665 +118,756 @@
 | 108 | **Notcoin Inu** |  | [Telegram](https://t.me/notcoininu_news) [Bot](https://t.me/notcoininu_bot) [X](https://x.com/NotcoinInu_TON) [Site](https://notcoininu.com/) [Gram News](https://gramnews.org/apps/notcoin-inu) | 2024-06-01 |
 | 109 | **Абу** | спасибо Абу / Двач Связь со мной: , за шитпостинг бан+спам. Предложка: Реклама: Разбаны,… | [Telegram](https://t.me/abuwtf) [Bot](https://t.me/abutalk_bot) | 2022-10-29 |
 | 110 | **NOVUM.AI Agent** | Activate your personal AI agent and earn daily! | [Bot](https://t.me/ainovum_bot) | 2026-08-20 |
-| 111 | **Hamster** |  | [Telegram](https://t.me/hamster_kombat) [Bot](https://t.me/hamster_kombat_bot) [X](https://x.com/hamster_kombat) Site (down) | 2023-10-23 |
-| 112 | **Boinkers Parody Game** | Free2Play Jump into meme chaos, where humor has no limits | [Telegram](https://t.me/boinkercommunity) [Bot](https://t.me/boinker_bot) [X](https://x.com/BoinkersIO) [Site](https://boinkers.io/) | 2024-07-18 |
-| 113 | **MRG** |  | [Telegram](https://t.me/mrgminer) [Bot](https://t.me/mrgminerbot) | 2026-09-13 |
-| 114 | **Cattea** | Simple to play, easy to earn, and perfect for cats and bubble tea lovers! | [Telegram](https://t.me/CatteaNews) [Bot](https://t.me/CatteaAIbot) [X](https://x.com/CatteaAI) | 2024-03-30 |
-| 115 | **Pitcoin Miner** | Welcome to Pitcoin ($PTC) Mining! Mine $PTC — the Next Bitcoin on the TON Blockchain! | [Bot](https://t.me/pitbullcoinbot) | 2026-09-03 |
-| 116 | **ART** |  | [Telegram](https://t.me/art_airdrop) [Bot](https://t.me/art_airdrop_bot) | 2026-09-15 |
-| 117 | **Honey Farm** |  | [Telegram](https://t.me/honeyfarmnews) [Bot](https://t.me/honey_farmbot) | 2026-07-22 |
-| 118 | **GetBonus** | GetBonus is an app that instantly rewards you with Telegram Stars for completing simple… | [Telegram](https://t.me/getbonustg) [Bot](https://t.me/GetBonusAppBot) [X](https://x.com/GetBonusGlobal) [Site](https://getbonus.red/) | 2024-10-29 |
-| 119 | **Epsilon** | Mine EPS Invite Friends Earn Rewards The next-generation Telegram crypto ecosystem… | [Bot](https://t.me/epsiloncrypto_bot) | 2026-06-28 |
-| 120 | **Stones White Stand** | Tap to MINE STONES ! Level up, earn bonuse and withdraw Real Token ! | [Bot](https://t.me/stoneswithestand_bot) | 2026-09-06 |
-| 121 | **Earn Craft** | The fun and rewarding mini game where every task brings you closer to fortune! Website | [Bot](https://t.me/earncraft_bot) [Site](https://ecraftx.com) | 2026-04-14 |
-| 122 | **MIDASO** | 1 free spin every 4 hours, a prize every time: XP, $GRAM, $MIDASO or extra spins. Cash… | [Bot](https://t.me/appmidaso_bot) | 2026-09-22 |
-| 123 | **Not Games Coin** | Инвестиционный токен. Получай дивиденды при любом движении токена. Майнинг токена | [Telegram](https://t.me/notgamescoin) [Bot](https://t.me/not_games_mining_bot) | 2025-02-17 |
-| 124 | **Jack's Farm** |  | [Telegram](https://t.me/jacksfarmnews) [Bot](https://t.me/jacksfarm_bot) | 2026-05-15 |
-| 125 | **Mouse** | MOUS is a P2E (Play-to-Earn) game based on the TON blockchain that gives users a unique… | [Telegram](https://t.me/Mouse_community) [Bot](https://t.me/mousehous_bot) [X](https://x.com/MouseHomies) [Site](https://mousehouses.com/) | 2022-04-01 |
-| 126 | **Agent Ai** | Invest, Refer & Earn! Invite friends and earn referral rewards | [Bot](https://t.me/agentaiinvestdailybot) | 2026-09-07 |
-| 127 | **RubUP** |  | [Telegram](https://t.me/udalenkarabotaai) [Bot](https://t.me/rubup) | 2025-05-03 |
-| 128 | **Data Miner** | Mining of the reward token $Data each purchase/sale burns 15% forever | [Bot](https://t.me/datamineer_bot) | 2026-09-04 |
-| 129 | **Bigram** | The first mobile mining CEX on Telegram. Powered by BIUSD | [Bot](https://t.me/bigramapp_bot) | 2026-08-27 |
-| 130 | **MusicMining$MB** | Mining of the reward token $MB, each purchase/sale burns 15% forever | [Bot](https://t.me/musicminingmb_bot) | 2026-08-22 |
-| 131 | **RUBY EARN** |  | [Bot](https://t.me/rubyearn_bot) | 2026-08-22 |
-| 132 | **Victor's Company** | Victor's Company where every crew get hired! Subscribe Support | [Telegram](https://t.me/victors_company) [Bot](https://t.me/victorscompanybot) | 2026-09-28 |
-| 133 | **EMBERWING** | Dragon P2E game on Telegram — hatch, train, battle, earn GRAM | [Telegram](https://t.me/emberwing_official) [Bot](https://t.me/emberwing_emb_bot) | 2026-08-06 |
-| 134 | **Naughty Coin** | NOTY Coin game is a mining Game Mine and earn, decentralized digital currency designed… | [Telegram](https://t.me/naughtycoin_channel) [Bot](https://t.me/naughtycoinofficial_bot) [X](https://x.com/notycoin) [Site](https://naughtycoin.club) | 2024-10-18 |
-| 135 | **Inside Ads** | Smart tool for growth and monetisation of Telegram channels. Attract subscribers and… | [Telegram](https://t.me/insideads_news) [Bot](https://t.me/insideads_bot) | 2024-12-30 |
-| 136 | **MEME Mining** | Launch your MEME Miner and reach the TOP! | [Telegram](https://t.me/mememiningnews) [Bot](https://t.me/mememiningbot) | 2026-04-14 |
-| 137 | **Hipo Gang** | Hipo Gang allows you to earn airdrops of $HPO | [Telegram](https://t.me/HipoFinance) [Bot](https://t.me/HipoGangBot) [X](https://x.com/hipofinance) [Site](https://hipo.finance) | 2023-02-23 |
-| 138 | **Tomarket.ai** | Welcome to Tomarket! | [Telegram](https://t.me/tomarket_ai) [Bot](https://t.me/tomarket_ai_bot) [X](https://x.com/tomarket_ai) [Site](https://tomarket.ai) | 2024-05-15 |
-| 139 | **Diaverse Game** | A game combining the concepts of Move 2 earn and Health Fi with an exciting RPG game | [Telegram](https://t.me/DiaverseMedia) [Bot](https://t.me/DiasporaPartnerBot) [Site](https://diaverse.app/?utm_sid=321277444) | 2023-09-11 |
-| 140 | **Gmail Farmer PRO** |  | [Telegram](https://t.me/gfprocom) [Bot](https://t.me/gmailfprobot) | 2025-10-28 |
-| 141 | **Imperial Citadel** | Build your empire, upgrade your Gold Mines, and farm Gold. Official | [Telegram](https://t.me/imperial_citadel_channel) [Bot](https://t.me/imperial_citadel_bot) | 2025-10-15 |
-| 142 | **Golden Miner** | Gather your dwarf crew, upgrade the mines, and turn ore into rewards. Dig deeper, climb… | [Telegram](https://t.me/goldenminernews) [Bot](https://t.me/goldenminerbot) | 2026-01-26 |
-| 143 | **Leaf Earn Bot** | Play games, complete tasks, collect Stars and grow your Leaf balance with fun ways to… | [Bot](https://t.me/leafearnbot) | 2026-09-23 |
-| 144 | **ClawQuest** | ClawQuest is a Telegram-native Command-to-Earn AI agent game available as a Telegram… | [Telegram](https://t.me/Claw_Quest_Chat) [Bot](https://t.me/Claw_Quest_bot) [X](https://x.com/ClawQuest_net) [Site](https://clawquest.net/) | 2026-04-16 |
-| 145 | **GoBull To Da Moon** | Invite your friends Earn Free USDT | [Bot](https://t.me/gobullmoonbot) | 2026-09-21 |
-| 146 | **HumanPass** | With HumanPass, you can unlock the value of your unique DID and access unlimited rewards… | [Telegram](https://t.me/HumanPass) [Bot](https://t.me/HumanPassBot) [X](https://x.com/HumanPassAI) Site (down) | 2024-10-17 |
-| 147 | **LIME Game** | A Telegram Mini App game (Tap-To-Earn) by the iMe project | [Bot](https://t.me/iMe_lime_bot) [Site](https://www.imem.app/) | 2024-11-05 |
-| 148 | **Zentorno** | MINE & EARN Join And Get 1,000 POWER Minimum Withdrawal 0.05 USD Earn And Withdraw… | [Bot](https://t.me/zentorno_gram_bot) | 2026-09-19 |
-| 149 | **Adclickersbot** | On This Bot You Can Earn Money By Complete Simple Task. Join Here For More info | [Telegram](https://t.me/adclickersbotchannel) [Bot](https://t.me/adclickersbot) | 2022-05-29 |
-| 150 | **VOLTA** | Activate and Earn! | [Bot](https://t.me/volta_mining_bot) | 2026-08-10 |
-| 151 | **PowerPoolX DEX Listed Airdrop (Listed On Pancakeswap)** |  | [Bot](https://t.me/powerpoolxpancakeswapairdropbot) | 2026-09-14 |
-| 152 | **The Open Earn App** |  | [Bot](https://t.me/theopenearnappbot) | 2025-04-17 |
-| 153 | **YODA** |  | [Bot](https://t.me/yodaairdropbot) | 2026-08-24 |
-| 154 | **Cat Gold Miner** | Cat Gold Miner: Where Purr-fectly adorable meets Purr-fectly profitable! | [Telegram](https://t.me/catgoldminerann) [Bot](https://t.me/catgoldminerbot) [X](https://x.com/catgoldminer) [Site](https://www.catgoldminer.ai/) [Gram News](https://gramnews.org/apps/cat-gold-miner) | 2024-04-13 |
-| 155 | **Dragonz Land** | Step into the world of Dragonz Land, where every card played shapes your destiny At… | [Telegram](https://t.me/dragonz_land_announcement) [Bot](https://t.me/dragonz_land_bot) [X](https://x.com/dragonzlandx) [Site](https://www.dragonz.land/) | 2024-04-21 |
-| 156 | **LF Wallet Airdrop** |  | [Bot](https://t.me/lfwallet_airdropbot) | 2026-08-14 |
-| 157 | **GoMine App** | Mine rewards, not points. Real $GOMINE on TON, withdraw from $1 | [Bot](https://t.me/gomineappbot) | 2026-06-15 |
-| 158 | **9Chain Official New Airdrop (Layer 1 Blockchain)** |  | [Bot](https://t.me/official9chainnewairdropbot) [Site](https://9chain.org/) | 2026-09-03 |
-| 159 | **JBTClabs New Round Official Airdrop (Listing CEX)** |  | [Bot](https://t.me/jbtclabsnewroundairdropbot) | 2026-08-24 |
-| 160 | **SEED App** | SEED App — the Telegram's 1st farming game and the fastest-growing app, reaching over 1M… | [Telegram](https://t.me/seedupdates) [Bot](https://t.me/seed_coin_bot) [X](https://x.com/SeedCombinator) [Site](https://home.seeddao.org/) | 2024-04-03 |
-| 161 | **Grow Tea** | Build up your tea farm and become the best! Exchange tea for money online! | [Telegram](https://t.me/growteanews) [Bot](https://t.me/growteabot) | 2026-02-14 |
-| 162 | **Pixel Wars** | Pixel strategy: mining, heroes, clans & PvP | [Telegram](https://t.me/pixlws) [Bot](https://t.me/pxlw_bot) | 2025-10-26 |
-| 163 | **ASTRA** | Astra: USDT mining and tons of bonuses! | [Bot](https://t.me/auctionastra_bot) | 2026-08-03 |
-| 164 | **Flames Earn Bot** | Flames is a gaming and rewards hub where games, Telegram Stars, and activities turn into… | [Bot](https://t.me/flamesearnbot) | 2026-06-11 |
-| 165 | **SheikDoge New Round Official Airdrop (Plan Listing On CEX)** |  | [Bot](https://t.me/sheikdogenewofficialairdropbot) [Site](https://sheikdoge.com/) | 2026-09-01 |
-| 166 | **EmE App** | EmE App: tap game, investment plans, referral program. USDT deposits and withdrawals… | [Bot](https://t.me/eme_app_bot) | 2026-09-04 |
-| 167 | **Money Bux** | Complete simple tasks, play, farm, and withdraw TON and USDT! | [Telegram](https://t.me/moneybux_channel) [Bot](https://t.me/mbuxbot) | 2025-02-20 |
-| 168 | **48Hashes** | Your 48Hashes contract is ready | [Bot](https://t.me/gramhashes48bot) | 2026-08-25 |
-| 169 | **Bitcoin Base Airdrop** | Complete simple tasks, invite friends, and earn Bitcoin Base (BCB) rewards | [Bot](https://t.me/bitcoinbaseairdropbot) | 2026-08-27 |
-| 170 | **Wisplings** | Collect spirits, take care of them, combine powers and earn WISP | [Bot](https://t.me/wisplings_bot) | 2026-08-16 |
-| 171 | **TMTMINE** | TMTMINE — Mining, rewards, referrals and essential TMT ecosystem features, all in one… | [Bot](https://t.me/tmtminebot) | 2026-09-25 |
-| 172 | **Mining Buddies** |  | [Bot](https://t.me/miningbuddiesbot) | 2026-07-23 |
-| 173 | **Doodle Jump** |  | [Telegram](https://t.me/doodleplaynews) [Bot](https://t.me/doodleplaybot) | 2026-05-30 |
-| 174 | **Call of Odin's Chosen** | Mine now, own the Future! Just like mining Bitcoin 2009 News Channel： | [Telegram](https://t.me/coc_web3_news) [Bot](https://t.me/coc_web3_bot) | 2025-09-30 |
-| 175 | **EASY COIN FARM** | Bot - . Token Chat (soon) | [Telegram](https://t.me/ezzcoint) [Bot](https://t.me/easycoinfarbot) | 2026-07-27 |
-| 176 | **Polox DAO Airdrop** |  | [Bot](https://t.me/poloxdaoairdropbot) | 2026-07-24 |
-| 177 | **Farming Mates** | Grow your crops, complete tasks, invite friends & earn USDT | [Telegram](https://t.me/farmingmateschat) [Bot](https://t.me/farmingmatesbot) | 2026-09-06 |
-| 178 | **Lucky Train** | Lucky Train is a gamified Web3 project on the TON blockchain, built as a Telegram Mini App | [Telegram](https://t.me/LuckyTrain) [Bot](https://t.me/LuckyTrainBot) [X](https://x.com/LuckyTrainApp) [Site](https://luckytrain.com) | 2025-06-12 |
-| 179 | **CRYPTICO** | CRYPTICO — a game about trading and character leveling | [Telegram](https://t.me/cryptico_app) [X](https://x.com/cryptico_app) | 2024-10-07 |
-| 180 | **HoneyInc New Guaranteed USDT Airdrop** |  | [Telegram](https://t.me/thehivegoop) [Bot](https://t.me/honeyincnewguaranteedairdropbot) [Site](https://honeyinc.app/) | 2025-12-07 |
-| 181 | **72Hashes** | Your 72Hashes contract is ready | [Bot](https://t.me/gramhashes72bot) | 2026-06-26 |
-| 182 | **Otters** | Otters is a gamified Telegram Mini App built on TON that rewards users through daily… | [Telegram](https://t.me/otters_games) [X](https://x.com/OttersComm) [Site](https://otters.games) | 2024-12-08 |
-| 183 | **PythoDex Airdrop** |  | [Bot](https://t.me/pythodexairdropbot) | 2026-08-20 |
-| 184 | **ChiliVersus** | Join ChiliVersus, where you dive into popular rivalries, embrace the versus spirit, fuel… | [Bot](https://t.me/ChiliVersusBot) [X](https://x.com/ChiliVersus) Site (down) | 2024-11-19 |
-| 185 | **Huevos** | Build your farm, earn CHICKENS, complete tasks & unlock referral rewards! | [Bot](https://t.me/huevos_farm_bot) | 2026-08-18 |
-| 186 | **Ads Galaxy** | Ads Galaxy connects advertisers with Telegram channels to promote ads and help… | [Bot](https://t.me/ads_galaxy_bot) | 2026-01-26 |
-| 187 | **Agriverse-X Airdrop** |  | [Bot](https://t.me/agriversexairdropbot) | 2026-08-25 |
-| 188 | **Rignite** | Tap-to-earn crypto mining game. Mine, upgrade rigs, cash out real TON. Daily cipher &… | [Bot](https://t.me/rignitebot) | 2026-07-08 |
-| 189 | **Lifetime Energy** | Increase Watts, generate Energy, sell it for Gold, and grow without limits | [Bot](https://t.me/lifetime_energy_bot) | 2026-07-28 |
-| 190 | **SheikDoge Airdrop** |  | [Bot](https://t.me/sheikdogeairdropbot) | 2026-08-27 |
-| 191 | **Elyon Chain Airdrop Bot** |  | [Bot](https://t.me/elyonchainbot) | 2026-08-14 |
-| 192 | **CryptoBotsDevilishGoodBot** | CBDG 2.1 Devil Miner • Marketplace • Referrals • Leaderboards | [Bot](https://t.me/cryptobotsdevilishgoodbot) | 2026-06-05 |
-| 193 | **Elyon Chain @AIRDROP** |  | [Telegram](https://t.me/airdrop) [Bot](https://t.me/elyonchainairdropbot) | 2026-08-11 |
-| 194 | **JOKR Labs** | JOKR offers multiple skill & luck games — Crash, Mines, Roulette, Blackjack and more | [Telegram](https://t.me/JOKRLabs) [Bot](https://t.me/JokInTheBox_bot) [X](https://x.com/JOKRLabs) [Site](https://jokrlabs.io/) | 2024-08-14 |
-| 195 | **StarMine** | Майнинг Stars без вложений 1 реферал — 0.5 ‼ Накрутка ботов/твинки/арабы — отмена выплат… | [Bot](https://t.me/starminesr_bot) | 2026-09-13 |
-| 196 | **RushMining** |  | [Telegram](https://t.me/rushminingnews) [Bot](https://t.me/rushmining_bot) | 2026-09-01 |
-| 197 | **FAST STARS** | Фарми Stars и TON в Telegram! Выполняй задания, зови друзей и получай награды | [Telegram](https://t.me/stars_fast_go) [Bot](https://t.me/stars_fast_bot) | 2025-02-08 |
-| 198 | **$BOOM: Crypto Rewards** | $BOOM: Loud Coin let you exchange your time for REAL money! | [Bot](https://t.me/boomcoinsbot) | 2026-10 |
-| 199 | **$BOOM** | $Boom will become the fastest-growing crypto community, allowing everyone to earn REAL… | [Telegram](https://t.me/boomloudcoin) [Bot](https://t.me/boom) Site (down) | 2024-06-16 |
-| 200 | **8lends Airdrop** |  | [Bot](https://t.me/eightlendsairdropbot) | 2026-08-13 |
-| 201 | **Elyon Airdrop** |  | [Bot](https://t.me/elyonairdropbot) | 2026-08-12 |
-| 202 | **MineEVO** | Не является азартной игрой. Заработать реальные деньги здесь нельзя. Сайт с актуальной… | [Telegram](https://t.me/mine_evo_trades) [Bot](https://t.me/mine_evo_bot) [Site](https://mineevo.com) | 2023-02-26 |
-| 203 | **EcoForest** | Plant trees, produce Oxygen (O₂), and earn real crypto! The most eco-friendly Web3 game | [Telegram](https://t.me/ecoforestton) [Bot](https://t.me/ecoforesttonbot) | 2026-06-03 |
-| 204 | **Innovative Usdt** | Innovative USDT / Earn BANANA through tasks, ads & referrals. Convert to USDT I… | [Telegram](https://t.me/innovativeusdt) [Bot](https://t.me/innovativeusdtbot) | 2026-08-03 |
-| 205 | **Paygent Airdrop** |  | [Bot](https://t.me/paygentairdropbot) | 2026-08-24 |
-| 206 | **Flagship Crypto** | Flagship Crypto — a mini app for gaming and earning $FYI tokens | [Telegram](https://t.me/flagship_announcements) [Bot](https://t.me/Flagshipfyibot) [X](https://x.com/FlagshipFYI) Site (down) [Gram News](https://gramnews.org/apps/flagship-crypto) | 2023-11-16 |
-| 207 | **Asteroid Shiba** | Season 1 is live on Asteroid Shiba. Discover asteroids, earn ASTRO, and grow your… | [Telegram](https://t.me/astroidshiba_ton) [Bot](https://t.me/asteroidshiba_app_bot) [X](https://x.com/asteroidton) [Site](https://www.asteroidshiba-ton.xyz) | 2026-07-16 |
-| 208 | **Virtual Mine** | Instant USDT Mining just by Tasks | [Bot](https://t.me/virtual_mine_rbot) | 2026-09-17 |
-| 209 | **FishFarm** | Рыбная ферма с настоящими деньгами. Лови, качай, выводи в GRAM | [Bot](https://t.me/fish_farmings_bot) | 2026-08-17 |
-| 210 | **Escomine** |  | [Telegram](https://t.me/escominepey) [Bot](https://t.me/escominerbot) | 2026-07-01 |
-| 211 | **UNIC @AIRDROP** |  | [Bot](https://t.me/unicairdropbot) | 2026-09-01 |
-| 212 | **4EVERLAND Bot** | The Powerful AI Cloud Platform for Web3. Backed by , Arweave, and IPFS! | [Telegram](https://t.me/Announcements4EVERLAND) [Bot](https://t.me/tg_4everland_bot) [X](https://x.com/4everland_org) [Site](https://4everland.org) [GitHub](https://github.com/4everland) [Gram News](https://gramnews.org/apps/4everland-bot) | 2021-07-19 |
-| 213 | **GetBonus** | Новости Выполняй задания от известных брендов прямо в Telegram и получай награду! | [Bot](https://t.me/getbonus) | 2024-11-02 |
-| 214 | **$ORCA Mining Game** | Official Mini App for $ORCA Mining Game on TON. Mine $ORCA, build your fleet & earn! | [Telegram](https://t.me/orcamine) [Bot](https://t.me/orcaminebot) | 2026-08-12 |
-| 215 | **Outmine** | Outmine is a fun and action-packed dungeon crawler game where you earn gems | [Telegram](https://t.me/playoutmine) [Bot](https://t.me/OutmineBot) [X](https://x.com/playoutmine) [Site](https://www.rogues.studio/outmine) | 2024-10-19 |
-| 216 | **GenkiMiner** | Welcome to the world of GenkiMiner! | [Telegram](https://t.me/GenkiMiner_Announcement) [Bot](https://t.me/GenkiMinerBot) [X](https://x.com/GenkiMiner_Team) [Site](https://genkiminer.gitbook.io/) | 2024-08-19 |
-| 217 | **Earnigram Fantasy** | Earnigram Fantasy is a fast-paced fantasy gaming app built around TON tokens | [Telegram](https://t.me/Earnigram) | 2024-06-15 |
-| 218 | **CapybaraCoins** | Capybara is The Friendliest Telegram-Native Meme Coin! | [Telegram](https://t.me/the_capybara_meme) [X](https://x.com/meme_capybara) | 2024-07-15 |
-| 219 | **Pleasure Quest** | Pleasure Quest — a tap-to-earn game with monthly token airdrops | [Telegram](https://t.me/pleasure_quest) [Bot](https://t.me/PleasureQuest_bot) [X](https://x.com/Pleasure_PLQT) [Site](https://questpl.com) [Gram News](https://gramnews.org/apps/pleasure-quest) | 2024-09-29 |
-| 220 | **The Open Earn** |  | [Telegram](https://t.me/theopenearnnews) [Bot](https://t.me/theopenearnbot) | 2025-04-17 |
-| 221 | **Sheik Doge** | Play, learn, and participate in Pools and Rewards. Participate in the airdrop on… | [Bot](https://t.me/sheikdogebot) | 2026-08-28 |
-| 222 | **Bits** | Welcome to BITS! Earn more every day. Check out our Airdrop roadmap! | [Bot](https://t.me/bitstonboxbot) [X](https://x.com/bits_tonbox) [Gram News](https://gramnews.org/apps/bits) | 2022-05-01 |
-| 223 | **Iceberg** |  | [Telegram](https://t.me/icebergen) [Bot](https://t.me/icebergappbot) [X](https://x.com/0xiceberg_com) [Site](https://0xiceberg.com/) [Gram News](https://gramnews.org/apps/iceberg-oav4it) | 2024-04-19 |
-| 224 | **SOULFARM** | Тёмная idle-RPG, где лут выводится в реальные деньги. Стартовый сундук уже внутри | [Telegram](https://t.me/SOULFARMCHAT) [Bot](https://t.me/soulfarmbot) [X](https://x.com/soulfarmbot) [Site](https://soulfarm.saturn.ac/about) | 2026-06-17 |
-| 225 | **BirdX Bot** | Stay tuned for further BirdX updates and get ready for a journey that transcends the… | [Telegram](https://t.me/birdx_community) [Bot](https://t.me/bird_x_app_bot) [Gram News](https://gramnews.org/apps/birdx-bot) | 2024-03-31 |
-| 226 | **CryptoRank** | CryptoRank — a bot for earning rewards by completing tasks | [Bot](https://t.me/cryptorank_app_bot) [Site](https://cryptorank.io/ico/cooking-city) [Gram News](https://gramnews.org/apps/cryptorank) | 2024-04-16 |
-| 227 | **WEB3 Portal** |  | [Telegram](https://t.me/tondnsweb3) [Bot](https://t.me/tondnsclub) [X](https://x.com/web3tondns) [Gram News](https://gramnews.org/apps/web3portal) | 2023-06-10 |
-| 228 | **String Arc8 Retro** | String Retro Arc8 is a TON blockchain-based Telegram gaming bot where you can play… | [Telegram](https://t.me/stringarc8) [Bot](https://t.me/Stringarc8Retrobot) [X](https://x.com/StringArc8) | 2023-12-29 |
-| 229 | **PoYCoins** | In the PoYCoins, every tap brings you one step closer to financial success | [Telegram](https://t.me/PoYCoins) [Bot](https://t.me/PoYCoins_Bot) [X](https://x.com/uPoYAIToken) [Site](https://biomatrix.ai/) | 2024-08-03 |
-| 230 | **Block Card Game** | Block Card Game: Where is the crypt found with memes You just took the first step in the… | [Telegram](https://t.me/blockcard_bc) [X](https://x.com/blockcard_q) | 2024-09-10 |
-| 231 | **Bullish Farm Game** | Grow and manufacture resources, dispatch them to continents, acquire keys, and earn… | [Telegram](https://t.me/bullishfarmgame) [Bot](https://t.me/bullishfarmbot) [X](https://x.com/bullishfarmgame) [Gram News](https://gramnews.org/apps/bullish-farm-game) | 2024-06-04 |
-| 232 | **TapOk Space** | Spin and invite new users to earn points, which can later be converted into ERC-20… | [Bot](https://t.me/tapokspace_bot) [Site](https://dexscreener.com/ton/eqc0ocg895i5hqqa2opwsh8x7zbreujt-xmmcqspliztlwez) [Gram News](https://gramnews.org/apps/tapok-space) | 2024-04-14 |
-| 233 | **RevoRogue** | RevoRogue is a free web3 mini game based on TON blockchain and inspired by Pokémon mixed… | [Telegram](https://t.me/revomonnews) [Bot](https://t.me/RevoRogueBot) [X](https://x.com/RevomonVR) [Site](https://revomon.io/) | 2021-03-01 |
-| 234 | **Spincity Tycoon** | Welcome to the SpinCity Tycoon! | [Telegram](https://t.me/SpincitytycoonAnn) [Bot](https://t.me/SpinCityTycoonbot) [Site](https://spincitytycoon.com/?ref=n3obp14axsm.c) | 2025-11-24 |
-| 235 | **Terminus Coin Drop** | Terminus Coin Drop — TON token airdrop | [Telegram](https://t.me/terminusdex) [Bot](https://t.me/terminuscoinbot) [X](https://x.com/TerminusFinance) [Site](https://terminus.finance) [GitHub](https://github.com/TerminusFinance) [Gram News](https://gramnews.org/apps/terminus-coin-drop) | 2024-07-18 |
-| 236 | **Anycraft** | In Anycraft, creativity meets real rewards! | [Telegram](https://t.me/anycraft_community) [Bot](https://t.me/anycraftbot) [X](https://x.com/Anycraft_TMA) Site (down) | 2024-08-30 |
-| 237 | **Crypto Fruit Farm** | Welcome to Fruit Crypto Farm! | [Telegram](https://t.me/fruitcryptofarm_bot) [Site](https://home.fruitcryptofarm.xyz) | 2026-07-31 |
-| 238 | **Dragon Farm** | Welcome to Dragon Farm, a unique play-to-earn game where players become Dragon Lords | [Telegram](https://t.me/dragonfarm) [Bot](https://t.me/DragonFarm_Bot) [X](https://x.com/dragonfarmgame) [Site](https://dragonfarm.app/) | 2024-06-25 |
-| 239 | **CryptoTonMines** | CryptoTonMines is a free game where you can mine tokens on the TON blockchain without… | [Telegram](https://t.me/CryptoTonMines) [Bot](https://t.me/CyptoTonMines_bot) [X](https://x.com/CryptoTonMines) Site (down) | 2025-04-08 |
-| 240 | **Get Games** | Get Games — an innovative gaming platform on Telegram where users can earn $GG tokens… | [Telegram](https://t.me/GetGames_TG) [Bot](https://t.me/getgamestgbot) [X](https://x.com/GetGames_TG) | 2024-07-09 |
-| 241 | **Ton Heroes** | Ton Heroes is designed to provide continuous joy and rewards through engaging gameplay… | [Telegram](https://t.me/tonheroes01) [Bot](https://t.me/TonHeroesBot) [X](https://x.com/TonHeroes1) [Site](https://twitter.com/TonHeroes1) [GitHub](https://github.com/OGenLab/Thero1) | 2024-06-23 |
-| 242 | **PsyDuck Game** | Quack into a world of fun with PsyDuckGame! | [Telegram](https://t.me/psyduckgamexyz) [Bot](https://t.me/psyduckgamexyzbot) [X](https://x.com/psyduckgamexyz) [Site](https://psyduckgame.xyz/) | 2024-06-28 |
-| 243 | **Shkipper Penguins** | Shkipper Penguins is an innovative Web3 mini-app where players don’t just have fun—they… | [Telegram](https://t.me/ShkipperNest) [Bot](https://t.me/ShkipperCoinBot) [X](https://x.com/ShkipperNest) [Site](https://shkipper.online) | 2024-08-24 |
-| 244 | **Airdropify** | Airdropify is a Telegram-based gamified engagement platform that transforms traditional… | [Telegram](https://t.me/AirdropifyHub) [Bot](https://t.me/airdropify_bot) [X](https://x.com/AirdropifyHub) [Site](https://airdropify.net/) | 2024-09-03 |
-| 245 | **Quantum Club** | Quantum Club combines in-app earning mechanics with Telegram ecosystem activity to… | [Telegram](https://t.me/quantumclubinc) [Bot](https://t.me/QuantumClubBot) [X](https://x.com/quantumclubinc) [Site](https://quantumclub.space/) | 2024-09-03 |
-| 246 | **ParagonZ** | ParagonZ takes the power of the TON blockchain to a new level by combining it with a… | [Telegram](https://t.me/paragonz_channel) [X](https://x.com/paragonz_me) Site (down) | 2026-07-07 |
-| 247 | **BlackHole** |  | [Telegram](https://t.me/blackhole_tap) [Bot](https://t.me/blackhole_tap_bot) [X](https://x.com/blackhole_tap) [Site](https://blackhole-tap.com) | 2026-06-21 |
+| 111 | **Bums** | Telegram mini app game with a token ecosystem | [Telegram](https://t.me/bums_official) [Bot](https://t.me/bums) | 2024-04-16 |
+| 112 | **Hamster** |  | [Telegram](https://t.me/hamster_kombat) [Bot](https://t.me/hamster_kombat_bot) [X](https://x.com/hamster_kombat) Site (down) | 2023-10-23 |
+| 113 | **Boinkers Parody Game** | Free2Play Jump into meme chaos, where humor has no limits | [Telegram](https://t.me/boinkercommunity) [Bot](https://t.me/boinker_bot) [X](https://x.com/BoinkersIO) [Site](https://boinkers.io/) | 2024-07-18 |
+| 114 | **MRG** |  | [Telegram](https://t.me/mrgminer) [Bot](https://t.me/mrgminerbot) | 2026-09-13 |
+| 115 | **Cattea** | Simple to play, easy to earn, and perfect for cats and bubble tea lovers! | [Telegram](https://t.me/CatteaNews) [Bot](https://t.me/CatteaAIbot) [X](https://x.com/CatteaAI) | 2024-03-30 |
+| 116 | **Pitcoin Miner** | Welcome to Pitcoin ($PTC) Mining! Mine $PTC — the Next Bitcoin on the TON Blockchain! | [Bot](https://t.me/pitbullcoinbot) | 2026-09-03 |
+| 117 | **ART** |  | [Telegram](https://t.me/art_airdrop) [Bot](https://t.me/art_airdrop_bot) | 2026-09-15 |
+| 118 | **Honey Farm** |  | [Telegram](https://t.me/honeyfarmnews) [Bot](https://t.me/honey_farmbot) | 2026-07-22 |
+| 119 | **GetBonus** | GetBonus is an app that instantly rewards you with Telegram Stars for completing simple… | [Telegram](https://t.me/getbonustg) [Bot](https://t.me/GetBonusAppBot) [X](https://x.com/GetBonusGlobal) [Site](https://getbonus.red/) | 2024-10-29 |
+| 120 | **Epsilon** | Mine EPS Invite Friends Earn Rewards The next-generation Telegram crypto ecosystem… | [Bot](https://t.me/epsiloncrypto_bot) | 2026-06-28 |
+| 121 | **Stones White Stand** | Tap to MINE STONES ! Level up, earn bonuse and withdraw Real Token ! | [Bot](https://t.me/stoneswithestand_bot) | 2026-09-06 |
+| 122 | **Earn Craft** | The fun and rewarding mini game where every task brings you closer to fortune! Website | [Bot](https://t.me/earncraft_bot) [Site](https://ecraftx.com) | 2026-04-14 |
+| 123 | **MIDASO** | 1 free spin every 4 hours, a prize every time: XP, $GRAM, $MIDASO or extra spins. Cash… | [Bot](https://t.me/appmidaso_bot) | 2026-09-22 |
+| 124 | **Not Games Coin** | Инвестиционный токен. Получай дивиденды при любом движении токена. Майнинг токена | [Telegram](https://t.me/notgamescoin) [Bot](https://t.me/not_games_mining_bot) | 2025-02-17 |
+| 125 | **Jack's Farm** |  | [Telegram](https://t.me/jacksfarmnews) [Bot](https://t.me/jacksfarm_bot) | 2026-05-15 |
+| 126 | **Mouse** | MOUS is a P2E (Play-to-Earn) game based on the TON blockchain that gives users a unique… | [Telegram](https://t.me/Mouse_community) [Bot](https://t.me/mousehous_bot) [X](https://x.com/MouseHomies) [Site](https://mousehouses.com/) | 2022-04-01 |
+| 127 | **Agent Ai** | Invest, Refer & Earn! Invite friends and earn referral rewards | [Bot](https://t.me/agentaiinvestdailybot) | 2026-09-07 |
+| 128 | **RubUP** |  | [Telegram](https://t.me/udalenkarabotaai) [Bot](https://t.me/rubup) | 2025-05-03 |
+| 129 | **Data Miner** | Mining of the reward token $Data each purchase/sale burns 15% forever | [Bot](https://t.me/datamineer_bot) | 2026-09-04 |
+| 130 | **Bigram** | The first mobile mining CEX on Telegram. Powered by BIUSD | [Bot](https://t.me/bigramapp_bot) | 2026-08-27 |
+| 131 | **MusicMining$MB** | Mining of the reward token $MB, each purchase/sale burns 15% forever | [Bot](https://t.me/musicminingmb_bot) | 2026-08-22 |
+| 132 | **RUBY EARN** |  | [Bot](https://t.me/rubyearn_bot) | 2026-08-22 |
+| 133 | **Victor's Company** | Victor's Company where every crew get hired! Subscribe Support | [Telegram](https://t.me/victors_company) [Bot](https://t.me/victorscompanybot) | 2026-09-28 |
+| 134 | **EMBERWING** | Dragon P2E game on Telegram — hatch, train, battle, earn GRAM | [Telegram](https://t.me/emberwing_official) [Bot](https://t.me/emberwing_emb_bot) | 2026-08-06 |
+| 135 | **Naughty Coin** | NOTY Coin game is a mining Game Mine and earn, decentralized digital currency designed… | [Telegram](https://t.me/naughtycoin_channel) [Bot](https://t.me/naughtycoinofficial_bot) [X](https://x.com/notycoin) [Site](https://naughtycoin.club) | 2024-10-18 |
+| 136 | **Inside Ads** | Smart tool for growth and monetisation of Telegram channels. Attract subscribers and… | [Telegram](https://t.me/insideads_news) [Bot](https://t.me/insideads_bot) | 2024-12-30 |
+| 137 | **MEME Mining** | Launch your MEME Miner and reach the TOP! | [Telegram](https://t.me/mememiningnews) [Bot](https://t.me/mememiningbot) | 2026-04-14 |
+| 138 | **Hipo Gang** | Hipo Gang allows you to earn airdrops of $HPO | [Telegram](https://t.me/HipoFinance) [Bot](https://t.me/HipoGangBot) [X](https://x.com/hipofinance) [Site](https://hipo.finance) | 2023-02-23 |
+| 139 | **Tomarket.ai** | Welcome to Tomarket! | [Telegram](https://t.me/tomarket_ai) [Bot](https://t.me/tomarket_ai_bot) [X](https://x.com/tomarket_ai) [Site](https://tomarket.ai) | 2024-05-15 |
+| 140 | **Diaverse Game** | A game combining the concepts of Move 2 earn and Health Fi with an exciting RPG game | [Telegram](https://t.me/DiaverseMedia) [Bot](https://t.me/DiasporaPartnerBot) [Site](https://diaverse.app/?utm_sid=321277444) | 2023-09-11 |
+| 141 | **Gmail Farmer PRO** |  | [Telegram](https://t.me/gfprocom) [Bot](https://t.me/gmailfprobot) | 2025-10-28 |
+| 142 | **Imperial Citadel** | Build your empire, upgrade your Gold Mines, and farm Gold. Official | [Telegram](https://t.me/imperial_citadel_channel) [Bot](https://t.me/imperial_citadel_bot) | 2025-10-15 |
+| 143 | **Golden Miner** | Gather your dwarf crew, upgrade the mines, and turn ore into rewards. Dig deeper, climb… | [Telegram](https://t.me/goldenminernews) [Bot](https://t.me/goldenminerbot) | 2026-01-26 |
+| 144 | **Leaf Earn Bot** | Play games, complete tasks, collect Stars and grow your Leaf balance with fun ways to… | [Bot](https://t.me/leafearnbot) | 2026-09-23 |
+| 145 | **ClawQuest** | ClawQuest is a Telegram-native Command-to-Earn AI agent game available as a Telegram… | [Telegram](https://t.me/Claw_Quest_Chat) [Bot](https://t.me/Claw_Quest_bot) [X](https://x.com/ClawQuest_net) [Site](https://clawquest.net/) | 2026-04-16 |
+| 146 | **GoBull To Da Moon** | Invite your friends Earn Free USDT | [Bot](https://t.me/gobullmoonbot) | 2026-09-21 |
+| 147 | **HumanPass** | With HumanPass, you can unlock the value of your unique DID and access unlimited rewards… | [Telegram](https://t.me/HumanPass) [Bot](https://t.me/HumanPassBot) [X](https://x.com/HumanPassAI) Site (down) | 2024-10-17 |
+| 148 | **LIME Game** | A Telegram Mini App game (Tap-To-Earn) by the iMe project | [Bot](https://t.me/iMe_lime_bot) [Site](https://www.imem.app/) | 2024-11-05 |
+| 149 | **Zentorno** | MINE & EARN Join And Get 1,000 POWER Minimum Withdrawal 0.05 USD Earn And Withdraw… | [Bot](https://t.me/zentorno_gram_bot) | 2026-09-19 |
+| 150 | **Adclickersbot** | On This Bot You Can Earn Money By Complete Simple Task. Join Here For More info | [Telegram](https://t.me/adclickersbotchannel) [Bot](https://t.me/adclickersbot) | 2022-05-29 |
+| 151 | **VOLTA** | Activate and Earn! | [Bot](https://t.me/volta_mining_bot) | 2026-08-10 |
+| 152 | **PowerPoolX DEX Listed Airdrop (Listed On Pancakeswap)** |  | [Bot](https://t.me/powerpoolxpancakeswapairdropbot) | 2026-09-14 |
+| 153 | **The Open Earn App** |  | [Bot](https://t.me/theopenearnappbot) | 2025-04-17 |
+| 154 | **YODA** |  | [Bot](https://t.me/yodaairdropbot) | 2026-08-24 |
+| 155 | **Cat Gold Miner** | Cat Gold Miner: Where Purr-fectly adorable meets Purr-fectly profitable! | [Telegram](https://t.me/catgoldminerann) [Bot](https://t.me/catgoldminerbot) [X](https://x.com/catgoldminer) [Site](https://www.catgoldminer.ai/) [Gram News](https://gramnews.org/apps/cat-gold-miner) | 2024-04-13 |
+| 156 | **Dragonz Land** | Step into the world of Dragonz Land, where every card played shapes your destiny At… | [Telegram](https://t.me/dragonz_land_announcement) [Bot](https://t.me/dragonz_land_bot) [X](https://x.com/dragonzlandx) [Site](https://www.dragonz.land/) | 2024-04-21 |
+| 157 | **LF Wallet Airdrop** |  | [Bot](https://t.me/lfwallet_airdropbot) | 2026-08-14 |
+| 158 | **GoMine App** | Mine rewards, not points. Real $GOMINE on TON, withdraw from $1 | [Bot](https://t.me/gomineappbot) | 2026-06-15 |
+| 159 | **9Chain Official New Airdrop (Layer 1 Blockchain)** |  | [Bot](https://t.me/official9chainnewairdropbot) [Site](https://9chain.org/) | 2026-09-03 |
+| 160 | **JBTClabs New Round Official Airdrop (Listing CEX)** |  | [Bot](https://t.me/jbtclabsnewroundairdropbot) | 2026-08-24 |
+| 161 | **SEED App** | SEED App — the Telegram's 1st farming game and the fastest-growing app, reaching over 1M… | [Telegram](https://t.me/seedupdates) [Bot](https://t.me/seed_coin_bot) [X](https://x.com/SeedCombinator) [Site](https://home.seeddao.org/) | 2024-04-03 |
+| 162 | **Grow Tea** | Build up your tea farm and become the best! Exchange tea for money online! | [Telegram](https://t.me/growteanews) [Bot](https://t.me/growteabot) | 2026-02-14 |
+| 163 | **Pixel Wars** | Pixel strategy: mining, heroes, clans & PvP | [Telegram](https://t.me/pixlws) [Bot](https://t.me/pxlw_bot) | 2025-10-26 |
+| 164 | **ASTRA** | Astra: USDT mining and tons of bonuses! | [Bot](https://t.me/auctionastra_bot) | 2026-08-03 |
+| 165 | **Flames Earn Bot** | Flames is a gaming and rewards hub where games, Telegram Stars, and activities turn into… | [Bot](https://t.me/flamesearnbot) | 2026-06-11 |
+| 166 | **SheikDoge New Round Official Airdrop (Plan Listing On CEX)** |  | [Bot](https://t.me/sheikdogenewofficialairdropbot) [Site](https://sheikdoge.com/) | 2026-09-01 |
+| 167 | **EmE App** | EmE App: tap game, investment plans, referral program. USDT deposits and withdrawals… | [Bot](https://t.me/eme_app_bot) | 2026-09-04 |
+| 168 | **Money Bux** | Complete simple tasks, play, farm, and withdraw TON and USDT! | [Telegram](https://t.me/moneybux_channel) [Bot](https://t.me/mbuxbot) | 2025-02-20 |
+| 169 | **48Hashes** | Your 48Hashes contract is ready | [Bot](https://t.me/gramhashes48bot) | 2026-08-25 |
+| 170 | **Bitcoin Base Airdrop** | Complete simple tasks, invite friends, and earn Bitcoin Base (BCB) rewards | [Bot](https://t.me/bitcoinbaseairdropbot) | 2026-08-27 |
+| 171 | **Wisplings** | Collect spirits, take care of them, combine powers and earn WISP | [Bot](https://t.me/wisplings_bot) | 2026-08-16 |
+| 172 | **TMTMINE** | TMTMINE — Mining, rewards, referrals and essential TMT ecosystem features, all in one… | [Bot](https://t.me/tmtminebot) | 2026-09-25 |
+| 173 | **Mining Buddies** |  | [Bot](https://t.me/miningbuddiesbot) | 2026-07-23 |
+| 174 | **Doodle Jump** |  | [Telegram](https://t.me/doodleplaynews) [Bot](https://t.me/doodleplaybot) | 2026-05-30 |
+| 175 | **Call of Odin's Chosen** | Mine now, own the Future! Just like mining Bitcoin 2009 News Channel： | [Telegram](https://t.me/coc_web3_news) [Bot](https://t.me/coc_web3_bot) | 2025-09-30 |
+| 176 | **EASY COIN FARM** | Bot - . Token Chat (soon) | [Telegram](https://t.me/ezzcoint) [Bot](https://t.me/easycoinfarbot) | 2026-07-27 |
+| 177 | **Polox DAO Airdrop** |  | [Bot](https://t.me/poloxdaoairdropbot) | 2026-07-24 |
+| 178 | **Farming Mates** | Grow your crops, complete tasks, invite friends & earn USDT | [Telegram](https://t.me/farmingmateschat) [Bot](https://t.me/farmingmatesbot) | 2026-09-06 |
+| 179 | **Lucky Train** | Lucky Train is a gamified Web3 project on the TON blockchain, built as a Telegram Mini App | [Telegram](https://t.me/LuckyTrain) [Bot](https://t.me/LuckyTrainBot) [X](https://x.com/LuckyTrainApp) [Site](https://luckytrain.com) | 2025-06-12 |
+| 180 | **CRYPTICO** | CRYPTICO — a game about trading and character leveling | [Telegram](https://t.me/cryptico_app) [X](https://x.com/cryptico_app) | 2024-10-07 |
+| 181 | **HoneyInc New Guaranteed USDT Airdrop** |  | [Telegram](https://t.me/thehivegoop) [Bot](https://t.me/honeyincnewguaranteedairdropbot) [Site](https://honeyinc.app/) | 2025-12-07 |
+| 182 | **72Hashes** | Your 72Hashes contract is ready | [Bot](https://t.me/gramhashes72bot) | 2026-06-26 |
+| 183 | **Otters** | Otters is a gamified Telegram Mini App built on TON that rewards users through daily… | [Telegram](https://t.me/otters_games) [X](https://x.com/OttersComm) [Site](https://otters.games) | 2024-12-08 |
+| 184 | **PythoDex Airdrop** |  | [Bot](https://t.me/pythodexairdropbot) | 2026-08-20 |
+| 185 | **ChiliVersus** | Join ChiliVersus, where you dive into popular rivalries, embrace the versus spirit, fuel… | [Bot](https://t.me/ChiliVersusBot) [X](https://x.com/ChiliVersus) Site (down) | 2024-11-19 |
+| 186 | **Huevos** | Build your farm, earn CHICKENS, complete tasks & unlock referral rewards! | [Bot](https://t.me/huevos_farm_bot) | 2026-08-18 |
+| 187 | **Ads Galaxy** | Ads Galaxy connects advertisers with Telegram channels to promote ads and help… | [Bot](https://t.me/ads_galaxy_bot) | 2026-01-26 |
+| 188 | **Agriverse-X Airdrop** |  | [Bot](https://t.me/agriversexairdropbot) | 2026-08-25 |
+| 189 | **Rignite** | Tap-to-earn crypto mining game. Mine, upgrade rigs, cash out real TON. Daily cipher &… | [Bot](https://t.me/rignitebot) | 2026-07-08 |
+| 190 | **Lifetime Energy** | Increase Watts, generate Energy, sell it for Gold, and grow without limits | [Bot](https://t.me/lifetime_energy_bot) | 2026-07-28 |
+| 191 | **SheikDoge Airdrop** |  | [Bot](https://t.me/sheikdogeairdropbot) | 2026-08-27 |
+| 192 | **Elyon Chain Airdrop Bot** |  | [Bot](https://t.me/elyonchainbot) | 2026-08-14 |
+| 193 | **CryptoBotsDevilishGoodBot** | CBDG 2.1 Devil Miner • Marketplace • Referrals • Leaderboards | [Bot](https://t.me/cryptobotsdevilishgoodbot) | 2026-06-05 |
+| 194 | **Elyon Chain @AIRDROP** |  | [Telegram](https://t.me/airdrop) [Bot](https://t.me/elyonchainairdropbot) | 2026-08-11 |
+| 195 | **JOKR Labs** | JOKR offers multiple skill & luck games — Crash, Mines, Roulette, Blackjack and more | [Telegram](https://t.me/JOKRLabs) [Bot](https://t.me/JokInTheBox_bot) [X](https://x.com/JOKRLabs) [Site](https://jokrlabs.io/) | 2024-08-14 |
+| 196 | **StarMine** | Майнинг Stars без вложений 1 реферал — 0.5 ‼ Накрутка ботов/твинки/арабы — отмена выплат… | [Bot](https://t.me/starminesr_bot) | 2026-09-13 |
+| 197 | **RushMining** |  | [Telegram](https://t.me/rushminingnews) [Bot](https://t.me/rushmining_bot) | 2026-09-01 |
+| 198 | **FAST STARS** | Фарми Stars и TON в Telegram! Выполняй задания, зови друзей и получай награды | [Telegram](https://t.me/stars_fast_go) [Bot](https://t.me/stars_fast_bot) | 2025-02-08 |
+| 199 | **$BOOM: Crypto Rewards** | $BOOM: Loud Coin let you exchange your time for REAL money! | [Bot](https://t.me/boomcoinsbot) | 2026-10 |
+| 200 | **$BOOM** | $Boom will become the fastest-growing crypto community, allowing everyone to earn REAL… | [Telegram](https://t.me/boomloudcoin) [Bot](https://t.me/boom) Site (down) | 2024-06-16 |
+| 201 | **8lends Airdrop** |  | [Bot](https://t.me/eightlendsairdropbot) | 2026-08-13 |
+| 202 | **Elyon Airdrop** |  | [Bot](https://t.me/elyonairdropbot) | 2026-08-12 |
+| 203 | **MineEVO** | Не является азартной игрой. Заработать реальные деньги здесь нельзя. Сайт с актуальной… | [Telegram](https://t.me/mine_evo_trades) [Bot](https://t.me/mine_evo_bot) [Site](https://mineevo.com) | 2023-02-26 |
+| 204 | **EcoForest** | Plant trees, produce Oxygen (O₂), and earn real crypto! The most eco-friendly Web3 game | [Telegram](https://t.me/ecoforestton) [Bot](https://t.me/ecoforesttonbot) | 2026-06-03 |
+| 205 | **Innovative Usdt** | Innovative USDT / Earn BANANA through tasks, ads & referrals. Convert to USDT I… | [Telegram](https://t.me/innovativeusdt) [Bot](https://t.me/innovativeusdtbot) | 2026-08-03 |
+| 206 | **Paygent Airdrop** |  | [Bot](https://t.me/paygentairdropbot) | 2026-08-24 |
+| 207 | **Flagship Crypto** | Flagship Crypto — a mini app for gaming and earning $FYI tokens | [Telegram](https://t.me/flagship_announcements) [Bot](https://t.me/Flagshipfyibot) [X](https://x.com/FlagshipFYI) Site (down) [Gram News](https://gramnews.org/apps/flagship-crypto) | 2023-11-16 |
+| 208 | **Asteroid Shiba** | Season 1 is live on Asteroid Shiba. Discover asteroids, earn ASTRO, and grow your… | [Telegram](https://t.me/astroidshiba_ton) [Bot](https://t.me/asteroidshiba_app_bot) [X](https://x.com/asteroidton) [Site](https://www.asteroidshiba-ton.xyz) | 2026-07-16 |
+| 209 | **Virtual Mine** | Instant USDT Mining just by Tasks | [Bot](https://t.me/virtual_mine_rbot) | 2026-09-17 |
+| 210 | **FishFarm** | Рыбная ферма с настоящими деньгами. Лови, качай, выводи в GRAM | [Bot](https://t.me/fish_farmings_bot) | 2026-08-17 |
+| 211 | **Escomine** |  | [Telegram](https://t.me/escominepey) [Bot](https://t.me/escominerbot) | 2026-07-01 |
+| 212 | **UNIC @AIRDROP** |  | [Bot](https://t.me/unicairdropbot) | 2026-09-01 |
+| 213 | **4EVERLAND Bot** | The Powerful AI Cloud Platform for Web3. Backed by , Arweave, and IPFS! | [Telegram](https://t.me/Announcements4EVERLAND) [Bot](https://t.me/tg_4everland_bot) [X](https://x.com/4everland_org) [Site](https://4everland.org) [GitHub](https://github.com/4everland) [Gram News](https://gramnews.org/apps/4everland-bot) | 2021-07-19 |
+| 214 | **GetBonus** | Новости Выполняй задания от известных брендов прямо в Telegram и получай награду! | [Bot](https://t.me/getbonus) | 2024-11-02 |
+| 215 | **$ORCA Mining Game** | Official Mini App for $ORCA Mining Game on TON. Mine $ORCA, build your fleet & earn! | [Telegram](https://t.me/orcamine) [Bot](https://t.me/orcaminebot) | 2026-08-12 |
+| 216 | **Outmine** | Outmine is a fun and action-packed dungeon crawler game where you earn gems | [Telegram](https://t.me/playoutmine) [Bot](https://t.me/OutmineBot) [X](https://x.com/playoutmine) [Site](https://www.rogues.studio/outmine) | 2024-10-19 |
+| 217 | **GenkiMiner** | Welcome to the world of GenkiMiner! | [Telegram](https://t.me/GenkiMiner_Announcement) [Bot](https://t.me/GenkiMinerBot) [X](https://x.com/GenkiMiner_Team) [Site](https://genkiminer.gitbook.io/) | 2024-08-19 |
+| 218 | **Earnigram Fantasy** | Earnigram Fantasy is a fast-paced fantasy gaming app built around TON tokens | [Telegram](https://t.me/Earnigram) | 2024-06-15 |
+| 219 | **CapybaraCoins** | Capybara is The Friendliest Telegram-Native Meme Coin! | [Telegram](https://t.me/the_capybara_meme) [X](https://x.com/meme_capybara) | 2024-07-15 |
+| 220 | **Pleasure Quest** | Pleasure Quest — a tap-to-earn game with monthly token airdrops | [Telegram](https://t.me/pleasure_quest) [Bot](https://t.me/PleasureQuest_bot) [X](https://x.com/Pleasure_PLQT) [Site](https://questpl.com) [Gram News](https://gramnews.org/apps/pleasure-quest) | 2024-09-29 |
+| 221 | **The Open Earn** |  | [Telegram](https://t.me/theopenearnnews) [Bot](https://t.me/theopenearnbot) | 2025-04-17 |
+| 222 | **Sheik Doge** | Play, learn, and participate in Pools and Rewards. Participate in the airdrop on… | [Bot](https://t.me/sheikdogebot) | 2026-08-28 |
+| 223 | **Bits** | Welcome to BITS! Earn more every day. Check out our Airdrop roadmap! | [Bot](https://t.me/bitstonboxbot) [X](https://x.com/bits_tonbox) [Gram News](https://gramnews.org/apps/bits) | 2022-05-01 |
+| 224 | **Iceberg** |  | [Telegram](https://t.me/icebergen) [Bot](https://t.me/icebergappbot) [X](https://x.com/0xiceberg_com) [Site](https://0xiceberg.com/) [Gram News](https://gramnews.org/apps/iceberg-oav4it) | 2024-04-19 |
+| 225 | **SOULFARM** | Тёмная idle-RPG, где лут выводится в реальные деньги. Стартовый сундук уже внутри | [Telegram](https://t.me/SOULFARMCHAT) [Bot](https://t.me/soulfarmbot) [X](https://x.com/soulfarmbot) [Site](https://soulfarm.saturn.ac/about) | 2026-06-17 |
+| 226 | **BirdX Bot** | Stay tuned for further BirdX updates and get ready for a journey that transcends the… | [Telegram](https://t.me/birdx_community) [Bot](https://t.me/bird_x_app_bot) [Gram News](https://gramnews.org/apps/birdx-bot) | 2024-03-31 |
+| 227 | **CryptoRank** | CryptoRank — a bot for earning rewards by completing tasks | [Bot](https://t.me/cryptorank_app_bot) [Site](https://cryptorank.io/ico/cooking-city) [Gram News](https://gramnews.org/apps/cryptorank) | 2024-04-16 |
+| 228 | **WEB3 Portal** |  | [Telegram](https://t.me/tondnsweb3) [Bot](https://t.me/tondnsclub) [X](https://x.com/web3tondns) [Gram News](https://gramnews.org/apps/web3portal) | 2023-06-10 |
+| 229 | **String Arc8 Retro** | String Retro Arc8 is a TON blockchain-based Telegram gaming bot where you can play… | [Telegram](https://t.me/stringarc8) [Bot](https://t.me/Stringarc8Retrobot) [X](https://x.com/StringArc8) | 2023-12-29 |
+| 230 | **PoYCoins** | In the PoYCoins, every tap brings you one step closer to financial success | [Telegram](https://t.me/PoYCoins) [Bot](https://t.me/PoYCoins_Bot) [X](https://x.com/uPoYAIToken) [Site](https://biomatrix.ai/) | 2024-08-03 |
+| 231 | **Block Card Game** | Block Card Game: Where is the crypt found with memes You just took the first step in the… | [Telegram](https://t.me/blockcard_bc) [X](https://x.com/blockcard_q) | 2024-09-10 |
+| 232 | **CerMiner** | Official channel of the CerMiner app | [Telegram](https://t.me/cerus_ton) | 2025-07-16 |
+| 233 | **Bullish Farm Game** | Grow and manufacture resources, dispatch them to continents, acquire keys, and earn… | [Telegram](https://t.me/bullishfarmgame) [Bot](https://t.me/bullishfarmbot) [X](https://x.com/bullishfarmgame) [Gram News](https://gramnews.org/apps/bullish-farm-game) | 2024-06-04 |
+| 234 | **TapOk Space** | Spin and invite new users to earn points, which can later be converted into ERC-20… | [Bot](https://t.me/tapokspace_bot) [Site](https://dexscreener.com/ton/eqc0ocg895i5hqqa2opwsh8x7zbreujt-xmmcqspliztlwez) [Gram News](https://gramnews.org/apps/tapok-space) | 2024-04-14 |
+| 235 | **RevoRogue** | RevoRogue is a free web3 mini game based on TON blockchain and inspired by Pokémon mixed… | [Telegram](https://t.me/revomonnews) [Bot](https://t.me/RevoRogueBot) [X](https://x.com/RevomonVR) [Site](https://revomon.io/) | 2021-03-01 |
+| 236 | **Spincity Tycoon** | Welcome to the SpinCity Tycoon! | [Telegram](https://t.me/SpincitytycoonAnn) [Bot](https://t.me/SpinCityTycoonbot) [Site](https://spincitytycoon.com/?ref=n3obp14axsm.c) | 2025-11-24 |
+| 237 | **Terminus Coin Drop** | Terminus Coin Drop — TON token airdrop | [Telegram](https://t.me/terminusdex) [Bot](https://t.me/terminuscoinbot) [X](https://x.com/TerminusFinance) [Site](https://terminus.finance) [GitHub](https://github.com/TerminusFinance) [Gram News](https://gramnews.org/apps/terminus-coin-drop) | 2024-07-18 |
+| 238 | **Anycraft** | In Anycraft, creativity meets real rewards! | [Telegram](https://t.me/anycraft_community) [Bot](https://t.me/anycraftbot) [X](https://x.com/Anycraft_TMA) Site (down) | 2024-08-30 |
+| 239 | **Crypto Fruit Farm** | Welcome to Fruit Crypto Farm! | [Telegram](https://t.me/fruitcryptofarm_bot) [Site](https://home.fruitcryptofarm.xyz) | 2026-07-31 |
+| 240 | **Dragon Farm** | Welcome to Dragon Farm, a unique play-to-earn game where players become Dragon Lords | [Telegram](https://t.me/dragonfarm) [Bot](https://t.me/DragonFarm_Bot) [X](https://x.com/dragonfarmgame) [Site](https://dragonfarm.app/) | 2024-06-25 |
+| 241 | **CryptoTonMines** | CryptoTonMines is a free game where you can mine tokens on the TON blockchain without… | [Telegram](https://t.me/CryptoTonMines) [Bot](https://t.me/CyptoTonMines_bot) [X](https://x.com/CryptoTonMines) Site (down) | 2025-04-08 |
+| 242 | **Get Games** | Get Games — an innovative gaming platform on Telegram where users can earn $GG tokens… | [Telegram](https://t.me/GetGames_TG) [Bot](https://t.me/getgamestgbot) [X](https://x.com/GetGames_TG) | 2024-07-09 |
+| 243 | **Ton Heroes** | Ton Heroes is designed to provide continuous joy and rewards through engaging gameplay… | [Telegram](https://t.me/tonheroes01) [Bot](https://t.me/TonHeroesBot) [X](https://x.com/TonHeroes1) [Site](https://twitter.com/TonHeroes1) [GitHub](https://github.com/OGenLab/Thero1) | 2024-06-23 |
+| 244 | **PsyDuck Game** | Quack into a world of fun with PsyDuckGame! | [Telegram](https://t.me/psyduckgamexyz) [Bot](https://t.me/psyduckgamexyzbot) [X](https://x.com/psyduckgamexyz) [Site](https://psyduckgame.xyz/) | 2024-06-28 |
+| 245 | **Shkipper Penguins** | Shkipper Penguins is an innovative Web3 mini-app where players don’t just have fun—they… | [Telegram](https://t.me/ShkipperNest) [Bot](https://t.me/ShkipperCoinBot) [X](https://x.com/ShkipperNest) [Site](https://shkipper.online) | 2024-08-24 |
+| 246 | **Airdropify** | Airdropify is a Telegram-based gamified engagement platform that transforms traditional… | [Telegram](https://t.me/AirdropifyHub) [Bot](https://t.me/airdropify_bot) [X](https://x.com/AirdropifyHub) [Site](https://airdropify.net/) | 2024-09-03 |
+| 247 | **Quantum Club** | Quantum Club combines in-app earning mechanics with Telegram ecosystem activity to… | [Telegram](https://t.me/quantumclubinc) [Bot](https://t.me/QuantumClubBot) [X](https://x.com/quantumclubinc) [Site](https://quantumclub.space/) | 2024-09-03 |
+| 248 | **ParagonZ** | ParagonZ takes the power of the TON blockchain to a new level by combining it with a… | [Telegram](https://t.me/paragonz_channel) [X](https://x.com/paragonz_me) Site (down) | 2026-07-07 |
+| 249 | **BlackHole** |  | [Telegram](https://t.me/blackhole_tap) [Bot](https://t.me/blackhole_tap_bot) [X](https://x.com/blackhole_tap) [Site](https://blackhole-tap.com) | 2026-06-21 |
 
-<details><summary><b>Quiet: 517</b></summary>
+<details><summary><b>Quiet: 606</b></summary>
 
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
-| 248 | **MemeFi Coin** | MemeFi Coin — a mini app with earning, items, collections and giveaways; the project… | [Telegram](https://t.me/memeficlub) [Bot](https://t.me/memefi_coin_bot) [Gram News](https://gramnews.org/apps/memefi-coin) | 2024-02-03 |
-| 249 | **Frutoncrypto** | A Telegram game where you shake your smartphone to earn crystals and frucoins | [Telegram](https://t.me/frutoncrypto) [Bot](https://t.me/frutoncrypto_bot) [Gram News](https://gramnews.org/apps/frutoncrypto) | 2024-06-17 |
-| 250 | **Farm TON** | You're growing strong, Farmer! | [Bot](https://t.me/yourfarmton_bot) [Gram News](https://gramnews.org/apps/farm-ton) | 2024-09-18 |
-| 251 | **Cosmo Miner** | Channel: Community: Cooperation | [Telegram](https://t.me/cosmominer) [Bot](https://t.me/cosmominerrobot) [Gram News](https://gramnews.org/apps/cosmo-miner) | 2024-06-08 |
-| 252 | **Cutlet Tap** |  | [Bot](https://t.me/cutlet_tap_bot) [X](https://x.com/cutlet_tap) [Gram News](https://gramnews.org/apps/cutlet-tap) | 2024-07-01 |
-| 253 | **pixelxfarm_bot** | Pixel X Farm is a Telegram mini app for a farming game | [Telegram](https://t.me/pixelxfarm) [Bot](https://t.me/pixelxfarm_bot) [X](https://x.com/PixelXFarm) [Gram News](https://gramnews.org/apps/pixelxfarm_bot) | 2024-05-22 |
-| 254 | **AlayaAI** | AlayaAI is a product where users earn Tokens by performing AI training annotation tasks | [Telegram](https://t.me/Alaya_AI) [Bot](https://t.me/alayai_ai_bot) [Gram News](https://gramnews.org/apps/alayaai) | 2023-06-18 |
-| 255 | **Moewbie** | Moewbie is a tap-to-earn game where users adopt cats and earn | [Telegram](https://t.me/Moewbie) [Bot](https://t.me/moewbietapbot) [X](https://x.com/0xMoewbie) Site (down) [Gram News](https://gramnews.org/apps/moewbie) | 2024-07-18 |
-| 256 | **Upayworld Airdrop** |  | [Bot](https://t.me/upayworldairdropbot) [Gram News](https://gramnews.org/apps/upayworld-airdrop) | 2024-07-20 |
-| 257 | **FastX** | FastX is a free play-to-earn game where you can earn token rewards by parking your car | [Bot](https://t.me/fastxparkingbot) [X](https://x.com/FastXParking) [Site](https://x.com/FastXParking) [Gram News](https://gramnews.org/apps/fastx) | 2024-06-03 |
-| 258 | **Nexus** | Nexus is a metaverse for virtual life, land ownership, and earning | [Bot](https://t.me/nexusportalbot) [X](https://x.com/ioneoki) [Site](https://Neoki.io) [Gram News](https://gramnews.org/apps/nexus) | 2024-08-27 |
-| 259 | **Clicker VWS** | Clicker VWS Web3 Bot - GameFi and SocialFi Staking VWS,TON, cNfts,NFTs | [Telegram](https://t.me/MagicVipClub) [Bot](https://t.me/ClickerVWSBot) [X](https://x.com/VirtualsWorlds) [GitHub](https://github.com/VirtualsWorlds) | 2023-09-12 |
-| 260 | **VWS Games** | VWS Game A game where the user can build their own settlement, will be able to earn from… | [Telegram](https://t.me/MagicVipClub) [Bot](https://t.me/AirdropVWSbot) [X](https://x.com/VirtualsWorlds) Site (down) [GitHub](https://github.com/MagicVipPeople) | 2022-07-30 |
-| 261 | **TapCrystal** | New Tap project on TON! Earn TapCrystal | [Telegram](https://t.me/tapcrystal) [Bot](https://t.me/tapcrystalbot) [X](https://x.com/Tap_Crystal) [Gram News](https://gramnews.org/apps/tapcrystal) | 2024-06-02 |
-| 262 | **StewieQuest** | StewieQuest is a Telegram game where you earn coins, upgrade energy, and unlock auto-tap… | [Telegram](https://t.me/donotgame) [Bot](https://t.me/stewiequestbot) [Gram News](https://gramnews.org/apps/stewiequest) | 2024-07-23 |
-| 263 | **BLOCK** | Stack blocks, mine $BLOCK coins | [Telegram](https://t.me/block_en_community) [Bot](https://t.me/block_app_bot) [Gram News](https://gramnews.org/apps/block) | 2024-08-08 |
-| 264 | **ZombieSquad** | ZombieSquad is a survival game in a post-apocalyptic world, featuring AI girlfriend care… | [Bot](https://t.me/zombiesquadbot) [X](https://x.com/zombiesquad_ai) [Gram News](https://gramnews.org/apps/zombiesquad) | 2024-07-22 |
-| 265 | **TMNT Game** | A tap-to-earn game in the Teenage Mutant Ninja Turtles universe | [Bot](https://t.me/tmnt_crypto_bot) [Site](https://www.imem.app/) [GitHub](https://github.com/imemessenger) [Gram News](https://gramnews.org/apps/tmnt-game) | 2020-04-26 |
-| 266 | **Changpeng Zhao Airdrop** |  | [Bot](https://t.me/changpengzhaoairdropbot) [Gram News](https://gramnews.org/apps/changpeng-zhao-airdrop) | 2024-07-16 |
-| 267 | **Ordeez Airdrop** |  | [Bot](https://t.me/ordeezairdropbot) [Gram News](https://gramnews.org/apps/ordeez-airdrop) | 2024-05-27 |
-| 268 | **Music** | First music streaming service inside Telegram: read, chat, listen to music | [Telegram](https://t.me/tonmusiccommunity) [Bot](https://t.me/ton_music_bot) [X](https://x.com/ton_music_x) [Gram News](https://gramnews.org/apps/music) | 2021-11-09 |
-| 269 | **CELL Wallet** | Mine CELL Coin to your Telegram Wallet via . This is the official channel with all the… | [Telegram](https://t.me/cell_news) [Bot](https://t.me/cellcoin_bot) [X](https://x.com/kirillzzy) [Site](https://joinhuman.com/) [Gram News](https://gramnews.org/apps/cell-wallet) | 2024-04-26 |
-| 270 | **FARM CLICKER** |  | [Bot](https://t.me/clicker_farm_bot) [X](https://x.com/clickerfarm) [Site](https://clicker.farm) [GitHub](https://github.com/clickerspace) [Gram News](https://gramnews.org/apps/farm-clicker) | 2024-09-09 |
-| 271 | **EasyPeasyBot** | Earn lemons in telegram and exchange them for real money | [Bot](https://t.me/easypeasylemon_bot) [Gram News](https://gramnews.org/apps/easypeasybot) | 2024-06-06 |
-| 272 | **XYRO PORTAL** | XYRO PORTAL — a gamified crypto trading platform with game mechanics | [Telegram](https://t.me/xyro_io) [Bot](https://t.me/xyroportalbot) [X](https://x.com/xyro_io) [Site](https://xyro.io) [Gram News](https://gramnews.org/apps/xyro-portal) | 2023-11-02 |
-| 273 | **DuppiCOIN** |  | [Telegram](https://t.me/duppicommunity) [Bot](https://t.me/DuppiCoinUz_bot) [Site](https://blockcardweb.web.app/) [Gram News](https://gramnews.org/apps/duppicoin-fim19z) | 2024-06-15 |
-| 274 | **Mono Farm** |  | [X](https://x.com/Glow_Stories) [Gram News](https://gramnews.org/apps/mono-farm) | 2025-04-06 |
-| 275 | **Water Tap** | Pump water and earn coins, invest them in equipment and a team to build an empire! | [Bot](https://t.me/watertaps_bot) [Gram News](https://gramnews.org/apps/water-tap) | 2024-08-06 |
-| 276 | **tapNonce** | The official tapNonce announcements channel. Join to stay updated for the latest news… | [Telegram](https://t.me/tapNonce) [Bot](https://t.me/tapnonce_bot) [X](https://x.com/tapnonce) [Gram News](https://gramnews.org/apps/tapnonce) | 2024-08-04 |
-| 277 | **MissCharm Tap** |  | [Bot](https://t.me/miss_charm_bot) [Gram News](https://gramnews.org/apps/misscharm-tap) | 2022-10-30 |
-| 278 | **TON Walk App** | Telegram mini-app that lets you earn crypto by just... walking | [Telegram](https://t.me/tonwalk) [Bot](https://t.me/tonwalk_bot) [Site](https://tonwalk.com) [GitHub](https://github.com/tonwalk) [Gram News](https://gramnews.org/apps/ton-walk-app) | 2024-04-26 |
-| 279 | **TonBitcoin Mine-2-Earn** | Приложение майнер токена tBTC | [Telegram](https://t.me/ton4btc) [Bot](https://t.me/tBTCminer_bot) [X](https://x.com/_tbtc) [Gram News](https://gramnews.org/apps/tonbitcoin-mine-2-earn) | 2024-01-05 |
-| 280 | **SAVE Trump Tap** | Tap to earn rewards and support Donald Trump. Let's make America great again! | [Telegram](https://t.me/steamify) [Bot](https://t.me/savetrump_bot) [X](https://x.com/steamify_io) [Site](https://steamify.io/topup) [Gram News](https://gramnews.org/apps/save-trump-tap) | 2023-11-03 |
-| 281 | **SMOKE Airdrop** | $SMOKE is coming to solana! | [Telegram](https://t.me/smokesolana) [Bot](https://t.me/smokesolbot) [X](https://x.com/smoke_solana) [Gram News](https://gramnews.org/apps/smoke-airdrop) | 2024-07-23 |
-| 282 | **Sizu Network Game** | Sizu Network is an innovative cryptocurrency powered by blockchain technology | [Bot](https://t.me/sizucoin_bot) [Site](https://pyramida.app) [Gram News](https://gramnews.org/apps/sizu-network-game) | 2024-06 |
-| 283 | **SPLASH App** | Dive in & build SPLASH: the next #1 Telegram Mini-App to earn, mint & trade tokens | [Bot](https://t.me/splashapp_bot) [Gram News](https://gramnews.org/apps/splash-app) | 2024-09-06 |
-| 284 | **HABIT Farming** | HABIT Farming — app to earn rewards by interacting with an AI agent | [Telegram](https://t.me/habitnetwork) [Bot](https://t.me/habitnetwork_bot) [X](https://x.com/0xHabitNetwork) [Site](https://virtuals.io/) [Gram News](https://gramnews.org/apps/habit-farming) | 2024-02-21 |
-| 285 | **MrGem** | MrGem — a marketplace for in-game items and gift cards | [Telegram](https://t.me/mrgem_official) [Bot](https://t.me/mestergem_bot) [Site](https://mrgem.io/blog/) [Gram News](https://gramnews.org/apps/mrgem) | 2024-04-20 |
-| 286 | **Tonshi** | 寿司キャンプへようこそ — 素晴らしい一日は寿司から始まります。 | [Telegram](https://t.me/Tonshi_news) [Bot](https://t.me/officialtonshi_bot) [X](https://x.com/Tonshi_2024) [GitHub](https://github.com/TonShipCom) [Gram News](https://gramnews.org/apps/tonshi) | 2024-09-09 |
-| 287 | **Pixie** |  | [Telegram](https://t.me/pixiecm) [Bot](https://t.me/pixie_project_bot) [Gram News](https://gramnews.org/apps/pixie) | 2022-10-27 |
-| 288 | **PET TAP TAP** | ▶ Tap to catch cute pets, earn coins & $TAPET points! Join our community | [Bot](https://t.me/pettaptap_bot) [X](https://x.com/pet_tap_tap) [Site](https://pettaptap.com) [Gram News](https://gramnews.org/apps/pet-tap-tap) | 2024-08-21 |
-| 289 | **Crypto Millionaire Bot** | Play, Learn, and Earn with Crypto Millionaire! | [Telegram](https://t.me/cryptomillionairenews) [Bot](https://t.me/cryptomillionaireapp_bot) [Gram News](https://gramnews.org/apps/crypto-millionaire-bot) | 2024-06-10 |
-| 290 | **Lizarts World** | Adventure game with farming and roulette elements for lizards | [Telegram](https://t.me/lizartsworld) [Bot](https://t.me/lizartsworld_bot) [X](https://x.com/lizarts_nft) [Gram News](https://gramnews.org/apps/lizarts-world) | 2024-04-21 |
-| 291 | **Nistap fun and earn** | Play NisTap and earn tokens! Complete challenges, get daily rewards. Join our channel… | [Bot](https://t.me/nistap_bot) [Gram News](https://gramnews.org/apps/nistap-fun-and-earn) | 2024-06-07 |
-| 292 | **NASDUCK** | Start farming points now! | [Telegram](https://t.me/nasduck_official) [Bot](https://t.me/nasduck_official_bot) [Gram News](https://gramnews.org/apps/nasduck) | 2024-07-16 |
-| 293 | **Ancestral Land** | A tap-to-earn game with farming and NFTs | [Telegram](https://t.me/ancestralland) [Bot](https://t.me/ancestrallandbot) [X](https://x.com/Ancestral_Land) [Site](https://ancestral-landing.vercel.app) [Gram News](https://gramnews.org/apps/ancestral-land) | 2024-09-04 |
-| 294 | **Pixiland** | Pixiland — a farming game with strategy and racing elements | [Telegram](https://t.me/pixilandofficial) [Bot](https://t.me/pixiland_bot) [X](https://x.com/pixilandsocial) [Site](https://pixiland.app) [Gram News](https://gramnews.org/apps/pixiland) | 2024-10-11 |
-| 295 | **Gold Miner** |  | [Telegram](https://t.me/tongoldminerchat) [Bot](https://t.me/tongoldminer_bot) [X](https://x.com/tongoldminer) [Gram News](https://gramnews.org/apps/gold-miner) | 2024-07-11 |
-| 296 | **Cephei Bot** | Cephei is a CDP (Сollaterized Debt Position) protocol aiming to create sustainable… | [Telegram](https://t.me/cephei_fi) [Bot](https://t.me/cephei_fi_bot) [X](https://x.com/cephei_fi) [Gram News](https://gramnews.org/apps/cephei-bot) | 2024-04-21 |
-| 297 | **Neuron** |  | [Telegram](https://t.me/iamneuron) [Bot](https://t.me/iamneuron_bot) [Gram News](https://gramnews.org/apps/neuron) | 2024-07-24 |
-| 298 | **Save Question** | Every day, the number of tokens of all users decreases until the listing on January 1!… | [Bot](https://t.me/savequestion_bot) [Gram News](https://gramnews.org/apps/save-question) | 2024-07-02 |
-| 299 | **Tap Cat Bot** |  | [Telegram](https://t.me/cattapcoin) [Bot](https://t.me/app_tap_cat_bot) [X](https://x.com/CatTapCoin) [Gram News](https://gramnews.org/apps/tap-cat-bot) | 2024-07-08 |
-| 300 | **BAYC Miner** | #BAYCMiner is co-invested by BAYC#7537 and Btok | [Telegram](https://t.me/bayc_miner) [Bot](https://t.me/btokminerbot) [X](https://x.com/BaycCto) [GitHub](https://github.com/orgs/Fonates) [Gram News](https://gramnews.org/apps/bayc-miner) | 2024-06-11 |
-| 301 | **Alpha TON** | Alpha TON — a social clicker for earning | [Telegram](https://t.me/alphatongame) [Bot](https://t.me/alphatongame_bot) [X](https://x.com/AlphaTONCrypto) [Site](https://www.tiktok.com/@al) [Gram News](https://gramnews.org/apps/alpha-ton) | 2024-06-16 |
-| 302 | **LimeCoin** |  | [Bot](https://t.me/officiallimecoinbot) [Site](https://limecoin.notion.site/LimeCoin-e66eb3a9cd124102a7617d6d939851d6?pvs=4) [Gram News](https://gramnews.org/apps/limecoin) | 2024-03-04 |
-| 303 | **KISMI.APP** | KISMI.APP — a dice-rolling game mini app with winnable rewards | [X](https://x.com/kismiapp) Site (down) [Gram News](https://gramnews.org/apps/kismi-app) | 2026-05-24 |
-| 304 | **MOON TOKEN MINING** |  | [Telegram](https://t.me/MOONTOKENMINING) [Bot](https://t.me/moon_tokenmining_bot) [X](https://x.com/MOONTOKENMINING) [Site](https://github.com/VirtualsWorlds) [GitHub](https://github.com/VirtualsWorlds) [Gram News](https://gramnews.org/apps/moon-token-mining) | 2024-07-02 |
-| 305 | **Not Panda Bot** |  | [Bot](https://t.me/not_panda_bot) [Gram News](https://gramnews.org/apps/not-panda-bot) | 2024-06-13 |
-| 306 | **Buffy Drop** | Buffy’s debut meme airdrop, where your rewards rise with your spot in the bot lineup! | [Bot](https://t.me/buffydropbot) [X](https://x.com/BuffyDrop) [Gram News](https://gramnews.org/apps/buffy-drop) | 2024-09-10 |
-| 307 | **MoonDrops** |  | [Bot](https://t.me/moondropsggbot) [Gram News](https://gramnews.org/apps/moondrops) | 2023-07-20 |
-| 308 | **TON Start Earn XP** |  | [Bot](https://t.me/tonstartbot) [Gram News](https://gramnews.org/apps/ton-start-earn-xp) | 2021-08-17 |
-| 309 | **Ballz of Steel** |  | [Telegram](https://t.me/ballzgametg) [Bot](https://t.me/ballzofsteelbot) [X](https://x.com/theballzgame) [Site](https://chainaware.ai/) [Gram News](https://gramnews.org/apps/ballz-of-steel) | 2024-10-02 |
-| 310 | **ONUS Tap Tap Tap** | Perpetual DEX - up to 150× leverage. Effortless trading experience! | [Bot](https://t.me/onus_tap_tap_tap_bot) [X](https://x.com/ONUSFinance) [Gram News](https://gramnews.org/apps/onus-tap-tap-tap) | 2021-09-01 |
-| 311 | **TapTrend** | Earn with Every Tap, Start Tapping and Start Earning Today – Transform Simple Taps into… | [Bot](https://t.me/taptrendbot) [Gram News](https://gramnews.org/apps/taptrend) | 2024-09-13 |
-| 312 | **Gold Tap Tap** | Gold Tap Tap channel official | [Telegram](https://t.me/goldtaptap) [Bot](https://t.me/gold_tap_tap_bot) [X](https://x.com/goldtaptap) [Gram News](https://gramnews.org/apps/gold-tap-tap) | 2024-07-20 |
-| 313 | **Satoshi Game** | TON game – Watch. Mine. Repeat | [Telegram](https://t.me/satoshi_game_news) [Bot](https://t.me/satoshi_game_bot) [Gram News](https://gramnews.org/apps/satoshi-game) | 2024-12-31 |
-| 314 | **DFTap** | Join me in the DFTap adventure! | [Bot](https://t.me/dftap_bot) [Site](https://www.digifinex.com/) [Gram News](https://gramnews.org/apps/dftap) | 2024-08-09 |
-| 315 | **AAS TAP** | Afriq JM Arbitrage System (AAS) is a pioneering digital currency trading platform with a… | [Bot](https://t.me/aastap2earnbot) [Gram News](https://gramnews.org/apps/aas-tap) | 2025-05-19 |
-| 316 | **OptimusX** |  | [Telegram](https://t.me/optimusx_official) [Bot](https://t.me/Optimus_x_bot) [X](https://x.com/optimusx_bot) Site (down) [Gram News](https://gramnews.org/apps/optimusx) | 2024-11-01 |
-| 317 | **EasyWatch** |  | [Bot](https://t.me/eswatch_bot) [Gram News](https://gramnews.org/apps/easywatch) | 2024-04-04 |
-| 318 | **ELSE** | ELSE is an action-based marketing platform | [Bot](https://t.me/else_app_bot) [Gram News](https://gramnews.org/apps/else) | 2024-06-20 |
-| 319 | **Tonoreum PoW & PoL** | The Tonoreum project employs a unique combination of Proof of Link and Proof of Work… | [Telegram](https://t.me/Tonoreum) [Bot](https://t.me/Tonoreum_Bot) [X](https://x.com/tonoreum) [Site](https://tonoreum.com/) [Gram News](https://gramnews.org/apps/tonoreum-pow-pol) | 2024-05-07 |
-| 320 | **Tiger** |  | [Bot](https://t.me/tigernetwork_bot) [X](https://x.com/tigernetworkio) [Gram News](https://gramnews.org/apps/tiger) | 2024-04-21 |
-| 321 | **Qappi Miner** | Platform with various quests from cryptocurrency projects! | [Telegram](https://t.me/qappi) [Bot](https://t.me/qappiminerbot) [X](https://x.com/weatherxm) [Gram News](https://gramnews.org/apps/qappi-miner) | 2022-03-15 |
-| 322 | **Atleta TAP** | Explore the testnet of the new L1 blockchain, get XP and break new ground in the world… | [Telegram](https://t.me/atletatap) [Bot](https://t.me/atleta_tap_bot) [X](https://x.com/AtletaTAP) [Gram News](https://gramnews.org/apps/atleta-tap) | 2022-05-01 |
-| 323 | **Maybecoin** |  | [Bot](https://t.me/maybecoin_officialbot) [Site](https://alchemy.f2p.ms) [Gram News](https://gramnews.org/apps/maybecoin) | 2024-06-23 |
-| 324 | **Ape Farm** |  | [Bot](https://t.me/apefarm_bot) [Gram News](https://gramnews.org/apps/ape-farm) | 2024-08-08 |
-| 325 | **Official Satoshi Miner** | Crypto is complicated—we fixed that. Satoshi Network makes gaming & DeFi fun, strategic,… | [Bot](https://t.me/satoshiminer_hq_bot) [Gram News](https://gramnews.org/apps/official-satoshi-miner) | 2024-06-24 |
-| 326 | **Obix Power Tap** | Welcome to the Obix fam! Connect your account and start to earn | [Telegram](https://t.me/obixtoken) [Bot](https://t.me/obix_bot) [X](https://x.com/ObixToken) [Gram News](https://gramnews.org/apps/obix-power-tap) | 2024-06-09 |
-| 327 | **LumaCoin** | Eco-friendly crypto with fair, innovative mining to democratize digital wealth | [Telegram](https://t.me/lumacoin) [Bot](https://t.me/lumacoinbot) [X](https://x.com/lumacoin) [Site](https://lumacoin.org/) [Gram News](https://gramnews.org/apps/lumacoin) | 2024-03-14 |
-| 328 | **Earth Coin** | Participate in mining to easily obtain EC tokens and begin your journey of asset… | [Telegram](https://t.me/earthcoin_channel) [Bot](https://t.me/earthcoinapp_bot) [X](https://x.com/EarthNetworkio) [Gram News](https://gramnews.org/apps/earth-coin) | 2024-03-28 |
-| 329 | **Mine2Mine App** |  | [Telegram](https://t.me/mine2mine_news) [Bot](https://t.me/mine2mine_bot) [Gram News](https://gramnews.org/apps/mine2mine-app) | 2024-05-20 |
-| 330 | **TOM** |  | [Telegram](https://t.me/doges_ton) [Bot](https://t.me/theopenmeme_bot) [Gram News](https://gramnews.org/apps/tom-the-open-meme) | 2024-04-25 |
-| 331 | **Oxygen Miner** | Oxygen Miner: Survival in a futuristic shelter on an asteroid debris | [Telegram](https://t.me/oxygenminerchannel) [Bot](https://t.me/oxygenminerbot) [X](https://x.com/oxygen_miner) [Site](https://xp.network/) [GitHub](https://github.com/xp-network) [Gram News](https://gramnews.org/apps/oxygen-miner) | 2024-03-30 |
-| 332 | **TONIX App** |  | [Telegram](https://t.me/TonixDAO_bot) [Bot](https://t.me/tonix_mining_bot) [X](https://x.com/TonixDAO) [Site](https://tonix.app) [Gram News](https://gramnews.org/apps/tonix-app) | 2024-07-20 |
-| 333 | **Money Mining** |  | [Bot](https://t.me/money_mining_bot) [Gram News](https://gramnews.org/apps/money-mining) | 2024-04-26 |
-| 334 | **GoMint** | Get $5000 Coin . A brand new mining game you have never played before! Come and see… | [Bot](https://t.me/gomint_bot) [Gram News](https://gramnews.org/apps/gomint) | 2024-06 |
-| 335 | **Pulse Bot** | Pulse – a crypto wallet and rewards platform, discontinued 21 Aug 2026 | [Telegram](https://t.me/PulseSocialGlobal) [Bot](https://t.me/pulsesocial_bot) [X](https://x.com/PulseSocialFi) [Gram News](https://gramnews.org/apps/pulse-bot) | 2024-05-15 |
-| 336 | **Novas** |  | [Telegram](https://t.me/boxty_news) [Bot](https://t.me/xnovas_bot) [X](https://x.com/the_novasapp) [Gram News](https://gramnews.org/apps/novas) | 2024-05-11 |
-| 337 | **ZND Airdrop App** |  | [Bot](https://t.me/znd_airdrop_app_bot) [Gram News](https://gramnews.org/apps/znd-airdrop-app) | 2023-10-12 |
-| 338 | **Pikachu Tap** |  | [Bot](https://t.me/pikachu_tap_bot) [Gram News](https://gramnews.org/apps/pikachu-tap) | 2024-06 |
-| 339 | **Sunwaves Token** | Join the Sunwaves community and earn SW Tokens effortlessly with our blockchain-powered… | [Bot](https://t.me/sunwaves_token_bot) [X](https://x.com/sunwaves_token) [Gram News](https://gramnews.org/apps/sunwaves-token) | 2024-06-07 |
-| 340 | **Miner Kombat** | Join Miner Kombat! Mine treasures, earn real tokens, and become a legend of mining | [Telegram](https://t.me/miner_kombat) [Bot](https://t.me/miner_kombat_bot) [X](https://x.com/MinerKombat) [Gram News](https://gramnews.org/apps/miner-kombat) | 2024-07-02 |
-| 341 | **Ton Flash** |  | [Telegram](https://t.me/tonflash_channel) [Bot](https://t.me/tonflash_mine_bot) [Gram News](https://gramnews.org/apps/ton-flash) | 2024-09-16 |
-| 342 | **Tongems0x Bot** | Play top games, earn $TGX and referrals for free | [Bot](https://t.me/tongems0x_bot) [Gram News](https://gramnews.org/apps/tongems0x-bot) | 2024-07-22 |
-| 343 | **Timecoin** | Timecoin - mine your time | [Bot](https://t.me/timecoinbot) [X](https://x.com/Timecoin_mine) [Gram News](https://gramnews.org/apps/timecoin) | 2023-05-13 |
-| 344 | **MTK Clicker Mafia** | Meet MTK CLICKER MAFIA - clicker game of MetaToken project! Tap and earn $MTKBOSS | [Bot](https://t.me/mtkbossbot) [Site](https://www.metatoken.gg) [Gram News](https://gramnews.org/apps/mtk-clicker-mafia) | 2024-03-17 |
-| 345 | **TPIB Token** |  | [Telegram](https://t.me/PiBridgeChannel) [Bot](https://t.me/tpibtap_bot) [Site](https://Pibridge.org) [Gram News](https://gramnews.org/apps/tpib-token) | 2024-06-23 |
-| 346 | **Lamaz bot Play Earn** |  | [Telegram](https://t.me/lamaz_official) [Bot](https://t.me/cryptolamaz_bot) [Gram News](https://gramnews.org/apps/lamaz-bot-play-earn) | 2024-08-26 |
-| 347 | **Pulse AIRDROP** |  | [Bot](https://t.me/pulseairdropbot) [Gram News](https://gramnews.org/apps/pulse-airdrop) | 2024-07-16 |
-| 348 | **MemexZone** | Memex.Zone: Multiproject application combines mining, clicker, games and tasks with an… | [Bot](https://t.me/memexappbot) [X](https://x.com/MemexZone) Site (down) [Gram News](https://gramnews.org/apps/memexzone) | 2024-06-01 |
-| 349 | **CoinGEM Miner Game** | Official CoinGem.com Ecosystem Telegram Channel | [Telegram](https://t.me/coingem_com) [Bot](https://t.me/coinsgem_miner_bot) [X](https://x.com/coingem_com) [Site](https://CoinGem.com) [Gram News](https://gramnews.org/apps/coingem-miner-game) | 2022-10-29 |
-| 350 | **Frog Farm** | Join the first truly liquid telegram game. Farm points, complete tasks, invite friends… | [Telegram](https://t.me/frogfarmceo) [Bot](https://t.me/frogfarmbot) [Gram News](https://gramnews.org/apps/frog-farm) | 2024-04-04 |
-| 351 | **CharacterX** |  | [Bot](https://t.me/characterx_bot) Site (down) [GitHub](https://github.com/coin-unknown) [Gram News](https://gramnews.org/apps/characterx) | 2021-11-12 |
-| 352 | **GTon** | Turn your time to a financial tool | [Telegram](https://t.me/gtoncrypto) [Bot](https://t.me/gtonapp_bot) [Gram News](https://gramnews.org/apps/gton) | 2024-06-18 |
-| 353 | **Radiogram** | First “Listen & Earn” Telegram App. Earn Impulse by listening to music | [Bot](https://t.me/radiogrammbot) [X](https://x.com/radiogrambot) [Gram News](https://gramnews.org/apps/radiogram) | 2024-08-03 |
-| 354 | **AvanGifts** | Contest bot by . Join, pass the tasks to win prizes! | [Bot](https://t.me/avangifts_bot) [X](https://x.com/avanchange) [Site](https://avangifts.com/) [Gram News](https://gramnews.org/apps/avangifts) | 2024-08-08 |
-| 355 | **#HexMine** | Earn HEX, mine rewards, and grow your impact. Join the ecosystem! Support & Partnerships | [Bot](https://t.me/HexMine_bot) Site (down) [Gram News](https://gramnews.org/apps/hexmine) | 2025-02-26 |
-| 356 | **YN Promo app** | Watch videos, express your opinion. Participate in video battles. Earn coins on the fame… | [Bot](https://t.me/ynpromobot) [Gram News](https://gramnews.org/apps/yn-promo-app) | 2024-01-18 |
-| 357 | **Dust of the Moon Token Dispenser** |  | [Bot](https://t.me/dust_of_the_moon_bot) [Gram News](https://gramnews.org/apps/dust-of-the-moon-token-dispenser) | 2024-06 |
-| 358 | **GHOST** | Check your account and get rewards | [Bot](https://t.me/ghost_web3_bot) [Gram News](https://gramnews.org/apps/ghost) | 2024-08-05 |
-| 359 | **TonMoney Box** | Complete tasks and get TON | [Telegram](https://t.me/ton_moneybox) [Bot](https://t.me/tonmoneybox_bot) [Gram News](https://gramnews.org/apps/tonmoney-box) | 2024-02-19 |
-| 360 | **XNX Crypto Clicker** |  | [Bot](https://t.me/xnxcoin_bot) [Gram News](https://gramnews.org/apps/xnx-crypto-clicker) | 2024-05 |
-| 361 | **GobblUp** | Munch on $GOBBL tokens & join the biggest food revolution in Web3! Claim your Free… | [Bot](https://t.me/gobblupbot) [X](https://x.com/gmgobbl) [Gram News](https://gramnews.org/apps/gobblup) | 2021-11-05 |
-| 362 | **Alpha World** |  | [Telegram](https://t.me/alphaworldofficial) [Bot](https://t.me/thealphaworld_bot) [X](https://x.com/CryptoAlpha2025) [Gram News](https://gramnews.org/apps/alpha-world) | 2024-04-17 |
-| 363 | **BABYTON** | EARN FREE BABYTON TOKEN LISTING VERY SOON ON #TON CHAIN | [Bot](https://t.me/babytonmining_bot) [X](https://x.com/babiytonn) [Site](https://www.babyton.pro) [Gram News](https://gramnews.org/apps/babyton) | 2025-06-14 |
-| 364 | **GVWS** | GVWS is an app for giveaways! | [Telegram](https://t.me/tecteam) [Bot](https://t.me/gvws_bot) [X](https://x.com/tecteam_) [Gram News](https://gramnews.org/apps/gvws) | 2023-12-17 |
-| 365 | **Tea Farm** | P2E game where players grow, produce, and sell tea using TON blockchain | [Telegram](https://t.me/teafarmcoin) [Bot](https://t.me/teafarmtownbot) [X](https://x.com/teafarmtown) [Site](https://teafarmcoin.com/) [Gram News](https://gramnews.org/apps/tea-farm) | 2022-07-04 |
-| 366 | **Tap Goose Adventure** | Play, earn coins, invite friends | [Bot](https://t.me/tap_igoose_bot) [Gram News](https://gramnews.org/apps/tap-goose-adventure) | 2022-11-07 |
-| 367 | **Checkiton** | Start your adventure here | [Bot](https://t.me/checkitonbot) [Gram News](https://gramnews.org/apps/checkiton) | 2024-05-05 |
-| 368 | **SQUID TON** |  | [Telegram](https://t.me/ChannelPays) [X](https://x.com/squidton) [Gram News](https://gramnews.org/apps/squid-ton) | 2024-12-17 |
-| 369 | **ChallenQuizBot** | is a knowledge assessment competitive game on TON blockchain | [Telegram](https://t.me/challenquiz) [Bot](https://t.me/challenquizbot) Site (down) [Gram News](https://gramnews.org/apps/challenquizbot) | 2023-09-09 |
-| 370 | **The Caps** | Tolymarket - рынок прогнозов в Telegram | [Bot](https://t.me/the_caps_bot) [X](https://x.com/The_Caps_Game) [Gram News](https://gramnews.org/apps/the-caps) | 2024-04-30 |
-| 371 | **Vending Coin ($VNDG)** | Be a member of Vending Coin community | [Telegram](https://t.me/VNDG_COIN) [Bot](https://t.me/VNDG_COIN_BOT) [X](https://x.com/VNDG_COIN) [Site](https://vndg.world/) [Gram News](https://gramnews.org/apps/vending-coin-vndg) | 2024-12-28 |
-| 372 | **TonzCoin** |  | [Telegram](https://t.me/TonzCoin) [Bot](https://t.me/tonzcoin_bot) [X](https://x.com/tonzcoin) Site (down) [Gram News](https://gramnews.org/apps/tonzcoin) | 2022-11-22 |
-| 373 | **APO11O** |  | [Telegram](https://t.me/apo11ocomm) [Bot](https://t.me/apo11_bot) [Gram News](https://gramnews.org/apps/apo11o) | 2025-01-31 |
-| 374 | **RocketTON** | A play-to-earn game where you launch a rocket and must stop it before it crashes | [Telegram](https://t.me/rocketton_official) [Bot](https://t.me/getyourrocketbot) [X](https://x.com/RocketTONApp) [Site](https://rocketton.com) [Gram News](https://gramnews.org/apps/rocketton) | 2023-07-27 |
-| 375 | **Chain Bunny Inc.** | Chain Bunny Inc. — a game where you can earn cryptocurrency | [Telegram](https://t.me/ChainBunny) [Bot](https://t.me/ChainBunnyBot) [X](https://x.com/chainbunnyinc) [Site](https://chainbunny.site) [Gram News](https://gramnews.org/apps/chain-bunny-inc) | 2025-07-22 |
-| 376 | **Me Earn** | Farm $MEA token. Tap Tap to earn | [Bot](https://t.me/meearn_bot) [X](https://x.com/meearn_club) [Site](https://architecton.tech/) [Gram News](https://gramnews.org/apps/me-earn) | 2024-04-24 |
-| 377 | **Pulse** |  | [Bot](https://t.me/PulseToken_bot) [Gram News](https://gramnews.org/apps/pulse) | 2015-06-03 |
-| 378 | **#ApexHash** | #ApexHash is a real-time mining system built inside Telegram | [Telegram](https://t.me/apexhashcommunity) [Bot](https://t.me/apexhash_bot) | 2024-12 |
-| 379 | **$FIG FARM** | $FIG: Your Gateway to the Future of Web3! | [Telegram](https://t.me/fig_farming) [Bot](https://t.me/FigFarming_bot) [X](https://x.com/Figfarming) Site (down) | 2024-10 |
-| 380 | **$FNOT 13:12** | $FNOT 13:12 — a game where users can earn a fake token | [Bot](https://t.me/notcoin_core_stat_bot) [Site](https://app.ston.fi/pools/EQCZBmf0ijfNqZo09OkMty9Kz0xywgbqSe2ncM4xBnGXR8XI) [GitHub](https://github.com/ston-fi) [Gram News](https://gramnews.org/apps/fnot-13-12) | 2022-04-30 |
-| 381 | **$RETRO** | Join the adventure, mine $RETRO coins before they're all gone! | [Bot](https://t.me/joinretrocoinbot) [X](https://x.com/joinretrocoin) Site (down) | 2024-09 |
-| 382 | **$TCULT Plush Bot** | $TCULT Plush Bot is the official Telegram launch hub for four free games: Plush Tap,… | [Telegram](https://t.me/TCULT_GROUP) [Bot](https://t.me/TCultPlushBot) [X](https://x.com/TCULTonTON) [Site](https://www.tcult.site/#arcade) | 2026-05 |
-| 383 | **1xMM Market Master** | 1xMM is a fast-paced Telegram mini app trading game where you compete against others in… | [Telegram](https://t.me/onexmm_official) [Bot](https://t.me/OneXMM_bot) [X](https://x.com/onexmm_official) Site (down) | 2024-12 |
-| 384 | **2048 TON** | You can play 2048 TON directly on the Telegram app | [Telegram](https://t.me/T2EGAMENotice) [Bot](https://t.me/MergeNumberTONbot) [Site](https://telegramgame.net/) | 2024-10 |
-| 385 | **@appss** | is your go-to global catalog for discovering Telegram Mini Apps, Bots, and Channels | [Telegram](https://t.me/appss_channel) [Bot](https://t.me/appsshubbot) | 2026-10 |
-| 386 | **@push** | Secure crypto transfers on Telegram. By | [Bot](https://t.me/brilliantappbot) | 2026-10 |
-| 387 | **@tontribebot** | Become the tribe leader, where you'll raise legendary PET creatures to mine $TON and… | [Telegram](https://t.me/gametribeton) [X](https://x.com/tribetonapp) Site (down) | 2024-10 |
-| 388 | **@WheelOfWhalesBot** | Welcome to Wheel of Whales! | [Site](https://whale.io/?start=tonapp-review) | 2015-06-03 |
-| 389 | **ABT Miner** | Build your future with ABT ecosystem! | [Bot](https://t.me/aibetradecombot) [Site](https://durevpn.com/) [Gram News](https://gramnews.org/apps/abt-miner) | 2023-09-01 |
-| 390 | **AFKPepe Bot** | Start your adventure and earn your share of AFKPepe | [Bot](https://t.me/afkpepebot) [X](https://x.com/PepeAfk) Site (down) | 2024-06-23 |
-| 391 | **Age Of Gram** | Welcome to Age Of Gram! Build your kingdom, command legendary armies, conquer your… | [Bot](https://t.me/ageofgrambot) | 2026-09-24 |
-| 392 | **Agent AI Cash Airdrop** |  | [Bot](https://t.me/agentaicashairdropbot) | 2026-09-26 |
-| 393 | **Airbot** | Hello World, I’m Airbot If you’re finding massive Airdrops to join or you’re a Newbie… | [Bot](https://t.me/AirbotCrypto_bot) [X](https://x.com/Airbot_x) Site (down) | 2024-11-20 |
-| 394 | **Airdrop Express** |  | [X](https://x.com/BRC20Chat) [Gram News](https://gramnews.org/apps/airdrop-express) | 2024-07 |
-| 395 | **AIxFlap** | Welcome to AIxFlap – The AIxBlock Telegram mini app Tap, Fly, Compete and Earn Rewards! | [Telegram](https://t.me/AIxFlap_Announcement) [Bot](https://t.me/AIxFlap_bot) [X](https://x.com/AIxBlock) [Site](https://aixblock.io) [GitHub](https://github.com/AIxBlock-2023/aixblock-ai-dev-platform-public) | 2025-01 |
-| 396 | **Almost A Hero** | Almost A Hero is probably one of the most addicting RPG clicker games you will find out… | [Telegram](https://t.me/BotGameyard) [Bot](https://t.me/Herotonbot) [X](https://x.com/Bot_Gameyard) | 2024-05-17 |
-| 397 | **ANTOWN** | ANTTIME is a Web3 project blending Game-Fi and Social-Fi to create a fair ecosystem… | [Telegram](https://t.me/ANTTIME_NET) [Bot](https://t.me/anttime_antown_bot) [X](https://x.com/ANTTIME_NET) [Site](https://anttime.net/) | 2025-03-06 |
-| 398 | **ANTS Colony** | ANTS is a TON-powered mining ecosystem where daily activity, hashrate growth, and… | [Bot](https://t.me/ants_miner_bot) [X](https://x.com/ants_coin_x) [Site](https://antss-six.vercel.app) | 2026-01 |
-| 399 | **Ask Coin** | Test your knowledge, answer questions, and earn $AskCoin! | [Telegram](https://t.me/askcoinchat) [Bot](https://t.me/AskCoin_bot) [X](https://x.com/theAskcoin) Site (down) | 2024-05 |
-| 400 | **AskTon** |  | [Gram News](https://gramnews.org/apps/askton) | 2020-08-13 |
-| 401 | **ASTREX** | ASTREX is a fast-paced space arcade game built for Telegram Mini Apps | [Telegram](https://t.me/astrex_game) [Bot](https://t.me/astrex_bot) [X](https://x.com/AstrexGame) Site (down) | 2024-10 |
-| 402 | **Athledium CEX Airdrop (Listed On Biconomy)** |  | [Telegram](https://t.me/athledium) [Bot](https://t.me/athlediumbiconomycexairdropbot) [Site](https://athledium.com/) | 2026-07-24 |
-| 403 | **AuraPet** | Welcome to AuraPet! | [Bot](https://t.me/AuraPetBot) [Site](https://aurapetgame.vercel.app/) | 2026-05 |
-| 404 | **Awaken Citizen** | Embark on a thrilling adventure where gaming meets rewards | [Bot](https://t.me/AwakenCitizenBot) [X](https://x.com/PlayAwakenHQ) Site (down) | 2024-11-25 |
-| 405 | **Bait Island** | Bait Island is a pixel art farming and fishing simulation game built on the TON Blockchain | [Bot](https://t.me/BaitIslandBot) [X](https://x.com/Bait_island_) [Site](https://bait-island.com/) | 2025-12 |
-| 406 | **Bankify** |  | [Bot](https://t.me/bankifyton_bot) | 2026-08-19 |
-| 407 | **BearDrop** | Introducing BearDrop - the exciting new way to earn free AIRDROPS Crystals! | [Telegram](https://t.me/TheBearDrop) [Bot](https://t.me/TheBearDropBot) [X](https://x.com/TheBearDrop) | 2024-07-15 |
-| 408 | **BeastGRAM PvP** | WELCOME: BeastGRAM PvP Mine & Forge! Be the KING of PvP, Conquer the mines, Dominate the… | [Bot](https://t.me/beastgrambot) | 2026-08-07 |
-| 409 | **BeeHive** | Welcome to BeeHive! Complete tasks, collect honey, and hire bees | [Bot](https://t.me/behives_bot) | 2025-12-18 |
-| 410 | **bemo The Raffle** |  | [Bot](https://t.me/bemo_raffle_bot) [Site](https://app.bemo.finance) [Gram News](https://gramnews.org/apps/bemo_raffle_bot) | 2023-06-01 |
-| 411 | **BetFury Cryptodrop** | $20’000’000 prize pool just for completing easy tasks in your favorite messenger -… | [Telegram](https://t.me/betfury_cryptodrop_chat) [Bot](https://t.me/betfury_social_bot) Site (down) | 2024-03-04 |
-| 412 | **BOSS** | BOSSMBT Tap2Earn – Play and Earn Crypto Rewards | [X](https://x.com/bossmbtcoin) Site (down) | 2024-12 |
-| 413 | **Buinkers** | Buinkers is free to play parody minigame where players farm holy shitcoin token by… | [Telegram](https://t.me/buinkers) [Bot](https://t.me/buinkersbot) [X](https://x.com/buinkers) Site (down) | 2026-01-02 |
-| 414 | **ByteLords** | ByteLords is a tech-themed progression game where you build and upgrade a virtual… | [Telegram](https://t.me/ByteLordsChannel) [Bot](https://t.me/ByteLords_bot) [X](https://x.com/bytelords_game) [Site](https://play.ibtechsupport.com/ByteLords/index.php) | 2025-11 |
-| 415 | **Cashbox** | Cashbox is a Web3 game where you, a chosen explorer, harness the golden touch to earn Ra… | [Telegram](https://t.me/CashboxCommunity) [Bot](https://t.me/CashboxGameBot) [X](https://x.com/CashboxAuth) [Site](https://www.cashbox.info/) | 2025-10-22 |
-| 416 | **Catchain** | Daily CATCHAIN swaps, streaks, boxes & friend invites. Open the Mini App | [Telegram](https://t.me/catchaincto) [Bot](https://t.me/catchain_robot) | 2026-07-10 |
-| 417 | **Cats Mining** |  | [Bot](https://t.me/miningcatsbot) | 2026-06-26 |
-| 418 | **Chaos War** | Chaos War is a fast-paced arcade game where you battle endless waves of enemies using… | [Telegram](https://t.me/chaoswargame_en) [Site](https://chaoswar.xyz) | 2024-10 |
-| 419 | **Chasing Jiggy** | Unlock wealth through Play Chasing Jiggy is an ultimate play-to-earn game for everyone! | [Telegram](https://t.me/chasingjiggycommunity) [Bot](https://t.me/ChasingJiggybot) [X](https://x.com/ChasingJiggy) | 2024-12 |
-| 420 | **Chiсken farm** |  | [Telegram](https://t.me/chicken_farmb) [Bot](https://t.me/chicken_farmbot) | 2026-08-31 |
-| 421 | **CICADA** | Immerse yourself in the exciting world of Cicada - a unique Play-to-Earn game on the TON… | [Bot](https://t.me/cicadagame_bot) [X](https://x.com/Cicada_Swarm) [Site](https://cicadagame.fun/) | 2025-05-03 |
-| 422 | **Clean Sheets** | Clean Sheets is a hypercasual penalty shootout game where players can earn tokens by… | [Telegram](https://t.me/balliesuniverse) [Bot](https://t.me/BalliesUniverse_bot) [X](https://x.com/BalliesUniverse) [Site](https://cs.ballies.gg) | 2024-10 |
-| 423 | **COIN KERO** | Чат / Канал / Новости | [Telegram](https://t.me/coinkeronews) [Bot](https://t.me/coinkerobot) | 2026-08-16 |
-| 424 | **CombatX** | CombatX is a fun way to earn real money | [Telegram](https://t.me/combatxio) [Bot](https://t.me/combat_xbot) Site (down) | 2024-10 |
-| 425 | **Crondom Idle Clicker** | Crondom Idle Clicker — the Telegram idle RPG built for the GRAM ecosystem | [Telegram](https://t.me/CrondomLabs) [Bot](https://t.me/CrondomIdleClickerBot) [X](https://x.com/CrondomLabs) [Site](https://crondom-clicker.vercel.app/landing.html) | 2026-05 |
-| 426 | **CrossFi Tap** |  | [Telegram](https://t.me/crossfitapnews) [Bot](https://t.me/xficonsolebot) [Site](https://test.xficonsole.com) [Gram News](https://gramnews.org/apps/crossfi-tap) | 2024-05-11 |
-| 427 | **Crown Village** | Turn your village into a thriving kingdom and earn passive income—all without leaving… | [Telegram](https://t.me/crownvillagenews) [Bot](https://t.me/crownvillage_bot) | 2026-08-02 |
-| 428 | **CrownMiner** | The mining game of the Crown ecosystem. Presale is live — gear up before launch. Mine,… | [Telegram](https://t.me/crownminernews) [Bot](https://t.me/crownminerbot) | 2026-08-31 |
-| 429 | **Crypto Masons** | Crypto Masons, a revolutionary Clicker game based on the famous cartoon "Take my… | [Telegram](https://t.me/cryptomasonsgame) [X](https://x.com/CryptoMasonGame) Site (down) | 2024-07-22 |
-| 430 | **CryptoCat** | This isn't just another tap-to-earn crypto game! | [Bot](https://t.me/CryptoCatGame_bot) [X](https://x.com/SimCat_io) [Site](https://cryptocat.io/) | 2025-10 |
-| 431 | **Daily GHS** | Free Daily GHS Directly To Your TON Wallet | [Bot](https://t.me/dailyghsbot) | 2026-07-07 |
-| 432 | **DefyTON** | AI-powered habit challenge platform. Deposit GRAM, verify with photos, get rewarded | [Bot](https://t.me/DefyTONBot) [X](https://x.com/DefyTON_app) [Site](https://defyton.com) [Gram News](https://gramnews.org/apps/defyton) | 2026-06-01 |
-| 433 | **DiaTON** | Earn GRAM for completing simple tasks. Channel Group | [Telegram](https://t.me/diaton_news) [Bot](https://t.me/diaton_bot) | 2026-02-26 |
-| 434 | **Dig It Gold Game** | A Web3 play-to-earn mining game on TON where players collect ore and $NUGS, redeemable… | [Telegram](https://t.me/DigItGoldGame) [Bot](https://t.me/dig_it_game_bot) [X](https://x.com/DigItGoldGame) [Site](https://flashy.fun/digit/) | 2025-10-20 |
-| 435 | **DinoDash** | DinoDash is a Telegram-based dAPP where players nurture their Deeno by hatching their… | [Telegram](https://t.me/derivioannouncement) [Bot](https://t.me/DerivioBot) [X](https://x.com/derivio_xyz) [Site](https://derivio.xyz/) | 2024-10 |
-| 436 | **Ditto Quest** | Stack, Slay, and Thrive — Welcome to the Dittoverse | [Bot](https://t.me/the_ditto_bot) [X](https://x.com/dittocoin) [Site](https://team-ditto.notion.site/Ditto-Quest-21359184254f803e8fcbc1c4783cd579) [GitHub](https://github.com/Ditto-Labs) | 2024-09-27 |
-| 437 | **Dog Mutant** | Dog Mutant is an idle PvP game on TON Blockchain | [Telegram](https://t.me/DogMutantNews) [Bot](https://t.me/DogMutantBot) [X](https://x.com/dog_mutant) Site (down) | 2024-06-23 |
-| 438 | **Doge Miner** |  | [Telegram](https://t.me/dogeminernews) [Bot](https://t.me/dogeforge_bot) | 2026-06-12 |
-| 439 | **DoggieZen** | DoggieZen is a fun Telegram Mini App where you can play, complete missions, earn $DOGZ,… | [Telegram](https://t.me/doggiezen) [Bot](https://t.me/doggiezenbot) [X](https://x.com/DoggiezenFam) | 2026-09-02 |
-| 440 | **Dogs Mining** |  | [Telegram](https://t.me/dogsminingn) [Bot](https://t.me/miningdogs1bot) | 2026-07-05 |
-| 441 | **Dogs404** | Dogs404 is the TG mini app for merging virtual NFTs and this way mining $SHDG / $404… | [Telegram](https://t.me/ShoeDogannon) [Bot](https://t.me/Cube404Bot) | 2025-01 |
-| 442 | **Dragons Farm** | Imagine a world where dragons bring you gold, gnomes work for you, and magical crystals… | [Site](https://osnovakamen.ru) | 2024-12 |
-| 443 | **Drop2Drop** | Join daily drops of TON cryptocurrency! | [Bot](https://t.me/Drop2DropBot) | 2024-10-13 |
-| 444 | **Durak on TON** | The most iconic card game is now available on TON! | [Bot](https://t.me/durakton_playbot) | 2024-11-02 |
-| 445 | **Dynabit App** | Dynabit Ecosystem is a cutting-edge Web 3 institute built on the TON blockchain | [Bot](https://t.me/dynabitbot) [Site](https://xp.network/) [GitHub](https://github.com/XP-NETWORK) [Gram News](https://gramnews.org/apps/dynabit-app) | 2024-08-31 |
-| 446 | **Earn** | Telegram Launchpools. Hold tokens and Earn. Supported by | [Bot](https://t.me/earnhqbot) | 2025-01-09 |
-| 447 | **Earnigram** | Earnigram is a reward-based Telegram mini app where users can earn crypto by completing… | [Bot](https://t.me/Earnigram_bot) [X](https://x.com/Earnigram) [Site](https://earnigram.com) | 2024-12 |
-| 448 | **Earnigram Prediction** | Step into the world of market forecasting with Earnigram Prediction! | [Telegram](https://t.me/earnigram_group) [X](https://x.com/earnigram) | 2026-01 |
-| 449 | **eGold Mining** | eGOLD Mining is an exhilarating play-to-earn game, exclusively available on the Telegram… | [Telegram](https://t.me/egold_news) [Bot](https://t.me/eGOLD_Mining_Bot) [X](https://x.com/eGold_mine) | 2024-06 |
-| 450 | **eMule Army** | eMule Army is a Web3 crypto game on Telegram that lets you earn while playing | [Telegram](https://t.me/eMuleArmychat) [Bot](https://t.me/emulearmy_bot) [X](https://x.com/eMuleArmy) [Site](https://emulearmy.ai/) | 2024-10 |
-| 451 | **Enchant TON** | The iconic Enchant game is back, now supercharged with the TON blockchain platform! | [Telegram](https://t.me/T2EGAMENotice) [Bot](https://t.me/EnchantTONbot) [Site](https://telegramgame.net/) | 2024-10 |
-| 452 | **Etaku** | Etaku is centered around a simple gameplay and focus on collecting Anime characters | [Telegram](https://t.me/EtakuANN) [Bot](https://t.me/etakubot) [X](https://x.com/EtakuAI) [Site](https://etaku.ai/) | 2024-10-06 |
-| 453 | **Eva Quiz** | Eva is a thrilling quiz game built on Telegram mini app, offering players the chance to… | [Telegram](https://t.me/InFancy_AI) [Bot](https://t.me/InFancyAI_Bot) [X](https://x.com/Infancy_ai) | 2024-05 |
-| 454 | **EXOUSDT Farming Bot APP** |  | [Bot](https://t.me/exotapapp_bot) [Gram News](https://gramnews.org/apps/exousdt-farming-bot-app) | 2024-07-31 |
-| 455 | **FarmGram** |  | [Bot](https://t.me/farmgramsbot) | 2026-06-28 |
-| 456 | **Feline Dynasty** | Feline Dynasty is an idle Play-to-Earn ecosystem built as a Telegram Mini App on the TON… | [Telegram](https://t.me/FelineDynastyOfficial) [Bot](https://t.me/FelineDynastyBot) [X](https://x.com/felinedynastyof) [Site](https://felinedynasty.com/) [GitHub](https://github.com/deficapital81/tma-game-template) | 2026-05 |
-| 457 | **FlopTurn** | FlopTurn brings you a fast and easy poker experience, perfect for beginners! | [Telegram](https://t.me/chainpokerofficial) [X](https://x.com/ChainPokerio) | 2024-09 |
-| 458 | **Flowers Garden** | Welcome to Flowers Garden! | [Bot](https://t.me/flowers_game_bot) | 2025-10-11 |
-| 459 | **FortuneHusky** | Welcome to Husrich – The most exciting GameFi on TON! | [Telegram](https://t.me/FortuneHusky) [X](https://x.com/Fortune_Husky) Site (down) | 2024-09 |
-| 460 | **FoxiTask** | Earn rewards by completing tasks, and enjoy all of this. Post a task | [Bot](https://t.me/foxitaskbot) | 2026-07-13 |
-| 461 | **Fruitfy** |  | [Bot](https://t.me/fruitfyton_bot) | 2026-06-29 |
-| 462 | **Gem Farming** |  | [Bot](https://t.me/Gem_Farming_Bot) [X](https://x.com/gem_farming) | 2025-01 |
-| 463 | **Gemwall** | Swipe Mystery card and earn daily rewards Collect and trade cards of top crypto projects… | [Bot](https://t.me/Gemwall_Bot) [X](https://x.com/gemwall_app) Site (down) | 2024-10 |
-| 464 | **Giga Hash** | Turn Energy into GHS | [Bot](https://t.me/giga_hash_ghs_bot) | 2026-06-06 |
-| 465 | **Giraffe Kombat** | Introducing a New Income-Generating Project on Telegram! | [Bot](https://t.me/GiraffeKombatbot) Site (down) | 2024-12-08 |
-| 466 | **Go!** | Go! is an agentic operating system for automatic income | [Bot](https://t.me/thegoprojectbot) [Site](https://gosmartchain.ai) [Gram News](https://gramnews.org/apps/go) | 2024-06-05 |
-| 467 | **Go! App** | Welcome to the All-New Go! | [Telegram](https://t.me/gorwachain) [X](https://x.com/gorwachain) [Site](https://www.gosmartchain.ai/) | 2023-09 |
-| 468 | **GoalChain** | GoalChain is a football manager built for Telegram | [Telegram](https://t.me/goalchain) [Bot](https://t.me/goalchainbot) [X](https://x.com/goalchaingame) | 2026-09-05 |
-| 469 | **GochiFi** | Тапай, копи монеты, жди дроп. Или прокачай питомца за GRAM и получай $USDT уже сейчас | [Bot](https://t.me/gochifibot) | 2026-08-19 |
-| 470 | **Gold Age** | Gold Age is a user-driven economic strategy game built around land ownership, resource… | [Telegram](https://t.me/goldagechat) [Bot](https://t.me/goldageio_bot) [X](https://x.com/GoldAgeGame) [Site](https://goldage.io/) | 2026-01-15 |
-| 471 | **Gold Bux** | Users can complete tasks to generate passive income, and tasks can be created directly… | [Telegram](https://t.me/gold_bux) [Bot](https://t.me/GBux_Bot) [X](https://x.com/gold_bux5) | 2026-04 |
-| 472 | **Gold Striker** | Welcome to Gold Striker! | [Telegram](https://t.me/LINEUP_games) [Bot](https://t.me/gold_striker_bot) [X](https://x.com/LINEUP_games) [Site](https://www.lineupgames.io/) | 2025-05-13 |
-| 473 | **GOLD Workers** |  | [Bot](https://t.me/gold_workers_bot) | 2026-09-29 |
-| 474 | **GoMining** |  | [Telegram](https://t.me/gomining) [X](https://x.com/Gomining_token) [Site](https://gomining.com) [Gram News](https://gramnews.org/apps/gomining) | 2024-06 |
-| 475 | **Gram Farm** |  | [Bot](https://t.me/gramfarmingapp_bot) | 2026-07-25 |
-| 476 | **GRAM tasks** | Earn GRAM with GRAM Tasks | [Bot](https://t.me/ton_tasks_robot) | 2026-08-05 |
-| 477 | **GRAM.ZONE** | Welcome to GramZone! Earn Gram, have fun & win bonuses! Ready? Join now! Official | [Telegram](https://t.me/gramzone_official) [Bot](https://t.me/gram_zonebot) | 2025-01-14 |
-| 478 | **GramMiner** | Mine Gram & earn rewards daily! | [Bot](https://t.me/gramminer1_bot) | 2026-08-03 |
-| 479 | **GramX** | Помощь - Регламент на вывод 48 часов | [Telegram](https://t.me/gram_x_x) [Bot](https://t.me/gramx_x_bot) | 2026-07-29 |
-| 480 | **GRAND COMBAT** | Unleash Your Inner Tycoon in Grand Combat! | [X](https://x.com/grand_combat) Site (down) | 2024-06 |
-| 481 | **Grand Journey** | Prepare for an epic adventure in "Grand Journey"! | [Telegram](https://t.me/Channel_GrandJourney) [Bot](https://t.me/grandjourneybot) [X](https://x.com/journeygrand) Site (down) | 2024-08-31 |
-| 482 | **Greens** | Greens is the first virtual agriculture ecosystem, part of which has been designed like… | [X](https://x.com/greensfinance) [Site](https://www.greensfi.com/) | 2022-02-19 |
-| 483 | **GrGrDino** | GrGrDino is a game in which you control Dino | [Telegram](https://t.me/ettoonn) [Bot](https://t.me/GrGrGame_bot) [Site](https://getgems.io/collection/EQAJPR7nXdMn_-nBwTcNRR7mqPv6j9w-mMiLzN9j0iNGjctS) | 2024-06 |
-| 484 | **Gumcoin** | The bot lets you farm coins, track your balance, and be part of the community | [Telegram](https://t.me/gumcoin) [Bot](https://t.me/gumcoinBot) [Site](https://gumcoin.org) | 2025-09 |
-| 485 | **Happy Farm** |  | [Bot](https://t.me/happyfarmgrambot) | 2026-08-07 |
-| 486 | **Hattori game** | The official Hattori App game where you can play and earn! | [Bot](https://t.me/hattoribot) | 2025-05-08 |
-| 487 | **Hempton** | Hempton isn’t just a game — it’s your underground empire | [Telegram](https://t.me/Hempton_CIS) [Bot](https://t.me/hempton_bot) [X](https://x.com/HemptonFarm) [Site](https://hempton.farm) | 2024-12 |
-| 488 | **Hempton Farm** | Hampton is a game for fun only! There are no instructions and call to action. Contact | [Bot](https://t.me/hempton_bot) | 2025-01-07 |
-| 489 | **Hero Guild** | Hero Guild is a platform that allows you to earn cryptocurrency by playing your favorite… | [X](https://x.com/HeroGuildApp) Site (down) | 2024-09 |
-| 490 | **Honey Ants** | Grow your ant colony, collect honey, earn GRAM and withdraw in TON. Payout proofs | [Telegram](https://t.me/honeyantspayout) [Bot](https://t.me/honeyantsbot) | 2026-09-29 |
-| 491 | **Hydroponic Game** | HydroFarm is a hydroponic farming game built for Telegram | [Telegram](https://t.me/hydroponicgame) [Bot](https://t.me/Hydrogame_bot) [Site](https://www.hydroponicgame.com/) | 2026-03 |
-| 492 | **IEM Hash** | IEM Hash — TON mining app with token rewards | [Bot](https://t.me/IEMHash_bot) [X](https://x.com/IEMHash) [Site](https://www.iemhash.com) [Gram News](https://gramnews.org/apps/tgbtc) | 2025-03-28 |
-| 493 | **IQcoin** | IQCOIN is a space for developing and strengthening your mind | [Telegram](https://t.me/IQCOIN_Smart_Community) [Bot](https://t.me/IQcoinApp_Bot) [X](https://x.com/IQCOIN_IQS) | 2025-12 |
-| 494 | **JackKegs** | Farming game Jack Kegs coin | [Telegram](https://t.me/jackkegscoin) [Bot](https://t.me/jackkegsbot) | 2025-11-21 |
-| 495 | **JBTClabs Pre TGE Airdrop (Listing On Top CEX)** |  | [Bot](https://t.me/jbtclabscexlistingairdropbot) | 2026-08-04 |
-| 496 | **KingCoin** |  | [Bot](https://t.me/KingCoin_ebot) [X](https://x.com/King_Coin_X) Site (down) | 2024-08 |
-| 497 | **KYRZA FARM** | Фарми монеты на стримах KYRZA и меняй их на призы | [Bot](https://t.me/kyrza_farm_bot) | 2026-07-30 |
-| 498 | **Level Legends** | Dive into fast-paced battles, epic boss fights, and endless progression | [Bot](https://t.me/level_legends_bot) [X](https://x.com/tg_levellegends) | 2026-01 |
-| 499 | **Liberty Dog** | Liberty Dog is a community dedicated to digital freedom | [Bot](https://t.me/lido_appbot) [X](https://x.com/lidotoken) [Site](https://lido-app.fun/) | 2025-07 |
-| 500 | **LLL Lossless Lottery** | LLL pre-launch game lets users earn chips, spin, and compete on the leaderboard before… | [Telegram](https://t.me/lll_space) [Bot](https://t.me/lll_space_bot) [X](https://x.com/lll_space_en) [Site](https://lll.space) [GitHub](https://github.com/lll-space) | 2025-09 |
-| 501 | **Lode Hunter** |  | [Telegram](https://t.me/lodehunter) [Bot](https://t.me/lodehunter_bot) | 2026-07-10 |
-| 502 | **Lootify** |  | [Telegram](https://t.me/lootifychannel) [Bot](https://t.me/lootifyton_bot) | 2026-06-09 |
-| 503 | **Lucky Rooms** | Rocket up your lucky to the moon and earn some coins! | [Telegram](https://t.me/luckyroomsofficial) [Bot](https://t.me/luckyroomsbot) [X](https://x.com/lucky_rooms) [Site](https://luckyrooms.io) | 2024-10-29 |
-| 504 | **LuckyHub** | Open the lucky box to win $USD, $TON and upcoming $Lucky drop with LuckyHub Now! | [Telegram](https://t.me/luckyhubcash) [Bot](https://t.me/LuckyHubCashBot) | 2024-11-15 |
-| 505 | **LuckyMoney** | LuckyMoney is a social & gaming platform where you can claim USDT and airdrop | [Bot](https://t.me/LuckyMoney_release_bot) [X](https://x.com/0xluckymoney) [Site](https://luckymoneys.net/) | 2024-09 |
-| 506 | **MallDriven Game** | MallDriven is a gamified business simulator inside Telegram where players can start and… | [Telegram](https://t.me/MallDriven) [Bot](https://t.me/MallDrivenBot) [X](https://x.com/MallDriven) Site (down) | 2025-01 |
-| 507 | **Mars2049** | MARS2049 is a strategy RPG that drops you on the frontlines of Mars colonization | [Telegram](https://t.me/mars2049channel) [Bot](https://t.me/Mars2049_Bot) [X](https://x.com/mars2049online) [Site](https://www.mars2049.online/) | 2024-10 |
-| 508 | **Me Earn** | Be a hardworking bee to earn $MEA | [Bot](https://t.me/meearn_bot) [X](https://x.com/meearn_club) Site (down) | 2024-05 |
-| 509 | **Mech3** | Mech3 is a Match-3 puzzle game powered by Mixie AI | [Telegram](https://t.me/mech3game) [Bot](https://t.me/MechArcadebot) [X](https://x.com/Mechnft) [Site](https://mech.mixie.ai/) | 2024-10 |
-| 510 | **Mechaversus** | Mechaversus Marketing App is your gateway to exclusive rewards and engagement! | [Telegram](https://t.me/Mechaversus) [Bot](https://t.me/mechaversus_bot) [X](https://x.com/Mechaversusgame) [Site](https://mechaversus.co/) | 2024-10 |
-| 511 | **Member Rewards Bot** | Earn TON for Telegram tasks or boost your channel with real engagement | [Telegram](https://t.me/memberrewards) [Bot](https://t.me/memberrewardsbot) | 2026-02-17 |
-| 512 | **MEMEOW** | Dive into the depths and mine MEMEOW coins, enhance your cat's abilities, and purchase… | [Bot](https://t.me/memeow_io_bot) [X](https://x.com/MEMEOW_IO) Site (down) | 2024-06-23 |
-| 513 | **Minegram** | A Minecraft-inspired 2D world inside Telegram | [Telegram](https://t.me/minegram_game) [Bot](https://t.me/minegram_game_bot) | 2026-03-02 |
-| 514 | **MineGram** | Mine HASHES, stack POWER, and turn your mining progress into GRAM | [Bot](https://t.me/minegramtonbot) | 2026-06-19 |
-| 515 | **Miner Rush** | Miner Rush is a unique project that combines mining and gaming mechanics | [Telegram](https://t.me/miner_rush) [Bot](https://t.me/MinerRush_bot) [X](https://x.com/rush_miner) Site (down) | 2024-12 |
-| 516 | **Miner TAC** |  | [Bot](https://t.me/minertacbot) | 2026-08-13 |
-| 517 | **MiniSpot Miner** | Welcome to MiniSpot Miner! | [Telegram](https://t.me/minispot_app_bot) [Bot](https://t.me/minispot_helper_bot) | 2026-05 |
-| 518 | **Money Nova** |  | [Bot](https://t.me/moneynovaearn_bot) | 2026-07-05 |
-| 519 | **Monkey Play** | MonkeyPlay is a mini-game platform that runs inside Telegram | [Bot](https://t.me/monkey_play_bot) [X](https://x.com/MonkeyPlayToken) Site (down) | 2025-10 |
-| 520 | **moonpacket** | moonpacket — sending token red packets in Telegram | [Telegram](https://t.me/moonpacketchat) [Bot](https://t.me/moonpacket_bot) [X](https://x.com/mooniniofficial) [Site](https://moonpacket.com) [Gram News](https://gramnews.org/apps/moonpacket) | 2025-10-28 |
-| 521 | **MoonTap** | MoonTap is a new play-to-earn clicker game inside Telegram, built on the TON blockchain | [Telegram](https://t.me/MoonTapCommunity) | 2025-06 |
-| 522 | **Mr. MeMe Airdrop** | Earn real money by playing right on Telegram with Mr | [Telegram](https://t.me/mrmeme) [Bot](https://t.me/mrmeme_airdrop_bot) [X](https://x.com/mrmeme_fun) [Site](https://mrmeme.fun) | 2024-11-13 |
-| 523 | **Mushroom Warrior** | Mushroom Warrior is a play to earn Web3 game | [Telegram](https://t.me/notmushcoin) [Bot](https://t.me/NotMushCoin_bot) [X](https://x.com/notmushcoin) Site (down) | 2024-09 |
-| 524 | **mylegton** | Just a degen token on #TON | [Bot](https://t.me/mylegonton_bot) [Gram News](https://gramnews.org/apps/mylegton) | 2025-04-06 |
-| 525 | **Mystic Forge** | Combine elements in the forge to create artifacts | [Bot](https://t.me/mysticforgebot) [X](https://x.com/MysticForgeGame) [Site](https://mysticforgegame.com) | 2025-08 |
-| 526 | **NEO-TOKYO: 2099** | NEO-TOKYO: PROTOCOL 2099 The megacity fell | [Telegram](https://t.me/ntp2099) [Bot](https://t.me/protocol2099_bot) [X](https://x.com/JRK_studio) [Site](https://play.protocol2099.workers.dev/go/) | 2026-05 |
-| 527 | **NeuroTON** | AI-нейроны зарабатывают для тебя 24/7 — пассивный доход, задания, рефералка, вывод в… | [Bot](https://t.me/neurotonx_bot) | 2026-07-21 |
-| 528 | **NEXO STARS** | Фарми Stars в Telegram! Выполняй простые задания, приглашай друзей и получай Stars | [Telegram](https://t.me/nexostarsfarm) [Bot](https://t.me/nexo_stars_bot) | 2026-09-17 |
-| 529 | **Nexus Coin** | Nexus Coin is a high-performance Tap-to-Earn mini-app integrated with the TON blockchain | [Telegram](https://t.me/NexusCoinSohbet) [Bot](https://t.me/nexuscoinofficial_bot) [Site](https://cyber-nexus.replit.app) | 2025-12 |
-| 530 | **Nifty Nerds Network** | Nifty Nerds Network(NNN) is a Web3 gaming launchpad built on top of Telegram and TON… | [Telegram](https://t.me/niftynerdsnetwork) [Bot](https://t.me/niftynerds_bot) [X](https://x.com/niftynerds) [Site](https://niftynerdsnetwork.com/) | 2024-08-12 |
-| 531 | **Novrinex Airdrop** |  | [Bot](https://t.me/novrinexairdropbot) | 2026-08-15 |
-| 532 | **ONE USDT** | One Usdt is the Official Telegram Rewarding Mini App Powered by One Dropz | [Bot](https://t.me/oneusdtappbot) | 2026-07-25 |
-| 533 | **OrbitFall** | OrbitFall is a Strategic Mini-App (TON/Ronin) officially approved by the Telegram Apps… | [Telegram](https://t.me/OrbitfallNews) [Bot](https://t.me/OrbitFallBot) [X](https://x.com/OrbitfallNFT) [Site](https://www.orbitfall.online/wiki) | 2025-09 |
-| 534 | **OrixBNB Pre TGE Airdrop (Backed By BNBChain)** |  | [Telegram](https://t.me/bnbchain) [Bot](https://t.me/orixbnbofficialpretgeairdropbot) [Site](https://dappbay.bnbchain.org/detail/orix) | 2026-07-01 |
-| 535 | **Oxygen Hunters** | The first Chia token to be traded on a centralized exchange! | [X](https://x.com/Oxygen_Hunters) Site (down) | 2024-10 |
-| 536 | **PEHE Kingdom** | Test your luck with PEHE spin to win TON,USDT FOR FREE, and boost your rewards with tap,… | [X](https://x.com/pehekingdom) Site (down) | 2024-07 |
-| 537 | **Pepe Meme** | Pepe Meme by Evo Frogs Airdrop! 1000x gains are coming! Earn tokens and epic rewards! | [Telegram](https://t.me/pepememecommunity) [Bot](https://t.me/raccooncoinbot) | 2026-10 |
-| 538 | **Piggy Tap** | Play PiggyTap! Dive into casual style fun: Smash piggy banks, collect coins, and chase… | [Telegram](https://t.me/PiggyTapNews) [Bot](https://t.me/piggytapofficial_bot) [X](https://x.com/PiggyTap) [Gram News](https://gramnews.org/apps/piggy-tap) | 2024-09-10 |
-| 539 | **Pixel Aquarium** |  | [Bot](https://t.me/pixelaquariumbot) | 2026-07-17 |
-| 540 | **Pixel Hunter** | Pixel Hunter is a Telegram Mini App and idle Action RPG built on the TON ecosystem | [Telegram](https://t.me/pixelhuntergames_offical) [Bot](https://t.me/PixelHuntergame_bot) [X](https://x.com/pixelhunterlab) [Site](https://www.pixelhunter.app) | 2026-05 |
-| 541 | **Pixelpond** | Cast, catch, earn. Pixel Pond — the fishing GameFi where your catch becomes real GRAM/USDT | [Telegram](https://t.me/pixelpondofficial) [Bot](https://t.me/pixelpond_bot) | 2026-08-19 |
-| 542 | **Play Corn Battles** | Play Corn Battles and earn with Corn Heroes Official channel Official site www.corn.io | [Bot](https://t.me/cornbattlesbot) | 2024-07-13 |
-| 543 | **Pocket Waifu** | $WIFE is the #1 waifu meme coin, bringing you closer to your favorite waifus in ways… | [Bot](https://t.me/pocketwaifu_bot) [X](https://x.com/PocketWaifuGame) [Site](https://pocketwaifu.io/) | 2024-10-02 |
-| 544 | **Pokergang** | Simple tasks, high rewards Mine tokens that can be redeemed for platform earnings, and… | [Telegram](https://t.me/chainpokerofficial) [Bot](https://t.me/Pokergang_bot) [X](https://x.com/ChainPokerio) [Site](https://chaingame.pro) | 2024-10 |
-| 545 | **Pokergram** | Jump into games with a single tap, no app stores or extra sign-ups needed | [Telegram](https://t.me/Pokergramnews) [Bot](https://t.me/PokergramComBot) [X](https://x.com/PokergramCom) Site (down) | 2025-12-09 |
-| 546 | **Polyfarm** | Join us and earn crypto easily with Polyway Farm Bot | [Telegram](https://t.me/polyway_app) [X](https://x.com/polyway_app) [Site](https://polyway.investments) | 2024-06 |
-| 547 | **Probablycoin** | Get ready to tap into a world of endless possibilities with Probably! | [Telegram](https://t.me/pcoin) [Bot](https://t.me/Probablycoinbot) [X](https://x.com/probablycoin) | 2024-06-08 |
-| 548 | **PROJECTFADE** | PROJECTFADE is a peer-to-peer prediction platform inside Telegram | [Telegram](https://t.me/projectfade) [Bot](https://t.me/projectfade_bot) [Site](https://projectfade.ru) | 2026-06-16 |
-| 549 | **Puffs Dragon** | PuffsDragon is a blockchain-based gaming project built on the TON network, offering… | [Telegram](https://t.me/PuffsAnn) [Bot](https://t.me/PuffsAppBot) [X](https://x.com/puffs_ton) Site (down) [GitHub](https://github.com/puffsdragon/PuffsDragon.Com) | 2024-11-06 |
-| 550 | **PX Tarot** | Next-Gen AI-powered Tarot Reading Experience with Pixel Art & the TON Blockchain! | [Telegram](https://t.me/pxtarot_community) [Bot](https://t.me/pxtarot_bot) [X](https://x.com/px_tarot) Site (down) | 2024-10 |
-| 551 | **Quantum Core** | Extract Quantum Jelly (JE) tokens, unlock legendary jellybean skins, upgrade your mining… | [Telegram](https://t.me/quantumcoregame) [Bot](https://t.me/quantum_core_game_bot) [X](https://x.com/ocalirdigital) [Site](https://quantum-core.click/) | 2026-04 |
-| 552 | **Qubbi** | Experience a fast and exciting dice game where every roll matters | [Telegram](https://t.me/QubbiOfficialBot) [Site](https://qubbi.gemstar.io/) | 2026-01 |
-| 553 | **Qubix Arena** | Prepare for action in Qubix, the ultimate multiplayer battle game! | [Telegram](https://t.me/qubixarena) [X](https://x.com/QubixArena) Site (down) | 2024-06 |
-| 554 | **Quiz Wars** | Quiz Wars is a fast-paced quiz arena where micro-learning meets competition | [Telegram](https://t.me/quizwars) [Bot](https://t.me/quizwars_bot) | 2025-06 |
-| 555 | **QuokkaCoin Tap Bot** | An innovative project that combines blockchain technology with the joy and happiness of… | [Bot](https://t.me/quokkacointap_bot) [X](https://x.com/QuokkaCoinNews) [Gram News](https://gramnews.org/apps/quokkacoin-tap-bot) | 2024-06 |
-| 556 | **Rarecrows** | Rarecrows is a chapter-based collectible game built around discovery, progression, and… | [Telegram](https://t.me/rarecrows_bot) [X](https://x.com/0xSunflowerLand) [Site](https://beta.rarecrows.io) | 2025-12 |
-| 557 | **RateOracleBot** | Make price predictions for crypto, stocks, and national currencies – the rules are yours | [Bot](https://t.me/RateOracleBot) | 2024-09 |
-| 558 | **Rating** | Become a king and earn $RATING! Official channel | [Telegram](https://t.me/rating_community) [Bot](https://t.me/the_best_rating_bot) | 2026-10 |
-| 559 | **Release Kraken** | In Release Kraken, you can play, earn, and enjoy an exciting gameplay experience | [Bot](https://t.me/kraken_tap_to_earn_bot) [X](https://x.com/SRTKraken) [Site](https://releasethekraken.io/) | 2024-10-18 |
-| 560 | **RICHTON** | BANK of RICH — место добычи монет | [Bot](https://t.me/richton_bank_bot) | 2026-06-03 |
-| 561 | **Rignite** | Rignite is a TON-native Telegram mini app | [Telegram](https://t.me/RigniteOfficial) [Bot](https://t.me/RigniteBot) [X](https://x.com/RigniteOfficial) [Site](https://rignite.app) | 2026-05 |
-| 562 | **Rise of Cinder Duck** | "Rise of Cinder Duck" is an engaging Web3 GameFi Mini App on the TON ecosystem, blending… | [Telegram](https://t.me/RCD_Web3_News) [Bot](https://t.me/RCD_Web3_bot) [X](https://x.com/RCD_Web3) [Site](https://rcdweb3.xyz/) | 2025-12 |
-| 563 | **ROIC BOT** | ROIC BOT is your gateway to earning tokens with ease | [Telegram](https://t.me/ROIC_Community) [Bot](https://t.me/ROIC_Bot) [X](https://x.com/ROIC_Finance) [Site](https://roic.finance/) | 2024-10 |
-| 564 | **RPSG** | Spend time with pleasure and enjoy friendly competition in the classic game of… | [Telegram](https://t.me/rpsgameio) [Bot](https://t.me/rpsgameio_bot) [X](https://x.com/RPSGameio) [Site](https://rpsg.gitbook.io/rpsg) | 2024-10 |
-| 565 | **Rumble Arcade** | Take on daily challenges, build your ultimate squad, and climb the leaderboard in… | [Telegram](https://t.me/RumbleArcadeNews) [Bot](https://t.me/RumbleArcadeBot) [X](https://x.com/RumbleArcade) Site (down) | 2025-04-26 |
-| 566 | **Runiverse Idle** | Runiverse Idle — a free idle-RPG right inside Telegram | [Telegram](https://t.me/runiverseidle) [Bot](https://t.me/runiverseidlebot) [X](https://x.com/runiverseIdle) [Site](https://runiverseidle.com) | 2026-04 |
-| 567 | **SANS** | SANS is a free tap-to-earn game on TON, played right inside Telegram | [Telegram](https://t.me/sanslicekilisduyuru) [Bot](https://t.me/sanslicekilisbot) [X](https://x.com/sansliofficial) [Site](https://www.sanslicekilis.com) | 2026-06-24 |
-| 568 | **Sengoku TON** | Welcome to SengokuTon Build your feudal Japanese empire in this stunning pixel art game! | [Telegram](https://t.me/sengoku_ton_chat) [X](https://x.com/SengokuTon) [Site](https://sengoku-ton.gitbook.io/sengoku-ton/) | 2024-12 |
-| 569 | **SheikDoge @AIRDROP** |  | [Bot](https://t.me/sheikdogegameairdropbot) | 2026-09-02 |
-| 570 | **ShipCoinsBattle** | 1v1 Player-Versus-Player Battleship Game Three Exciting Game Modes: 1 | [Site](https://www.shipcoinsbattle.com/) | 2024-10 |
-| 571 | **Shroomsters** | Tap to earn with Shroomsters! | [X](https://x.com/ShroomstersClub) [Site](https://www.shroomsters.club/) | 2024-12 |
-| 572 | **Slime Smith** | Craft legendary weapons, upgrade your forge, and compete in seasonal leaderboards for… | [Telegram](https://t.me/slimeminigames) [Bot](https://t.me/SlimeSmithBot) [X](https://x.com/Slime_Miner) [Site](https://linktr.ee/slimexofficial) | 2025-12 |
-| 573 | **Snackify** |  | [Bot](https://t.me/snackifyton_bot) | 2026-07-15 |
-| 574 | **Spark** | Spark is an app that supports the TON ecosystem through tasks and contributions. Earn… | [Bot](https://t.me/SparkOne_Bot) [Gram News](https://gramnews.org/apps/spark-zjwxnz) | 2024-01-23 |
-| 575 | **Sprize** | Sprize is the ultimate gaming and rewards app that turns your free time into real value | [Telegram](https://t.me/sprize_chat) [Bot](https://t.me/sprizebot) [X](https://x.com/sprizeplay) [Site](https://sprize.gg) | 2025-02-08 |
-| 576 | **Squid 2** | Squid 2 is a TON-based farming game inside Telegram | [Bot](https://t.me/Squid2tg_bot) [X](https://x.com/Squid2tg) [Site](https://squidtg.vip/) | 2026-03 |
-| 577 | **Stack** | Stack – The Exciting Telegram Mini-App! | [Telegram](https://t.me/TuringNexus) [Bot](https://t.me/Web3StackBot) | 2024-12 |
-| 578 | **Star Industry** | Start producing resources, materials, and goods | [Telegram](https://t.me/starindustry_channel) [Bot](https://t.me/starindustry_bot) [X](https://x.com/john_0x25_) [Site](https://starindustry.io) | 2025-03-17 |
-| 579 | **StarLoot** | Explore deep space | [Bot](https://t.me/StarLootGame_bot) | 2025-12 |
-| 580 | **Swipe Quest Pixel** | An entertaining game genre | [Bot](https://t.me/swipe_quest_bot) [X](https://x.com/swipe_quest) [Site](https://s2pixel.fun/) | 2024-10-17 |
-| 581 | **Syndicate Miner** |  | [Telegram](https://t.me/syndicateminer) [Bot](https://t.me/syndicate_miner_bot) | 2026-07-17 |
-| 582 | **Tap Lords** | Idle MMO gacha game in Telegram. PvP battles, PvE raids Partnership | [Bot](https://t.me/taplordsbot) | 2026-06-29 |
-| 583 | **TapTopia** | TapTopia is a casual, tap-based battle game where players grow their character by… | [Telegram](https://t.me/taptopia_io) [Bot](https://t.me/taptopiaio_bot) [X](https://x.com/taptopia_io) [Site](https://www.taptopia.io/) | 2026-01-19 |
-| 584 | **TaskGo** | Регламент на вывод 48 ч | [Telegram](https://t.me/taskgo_channle) [Bot](https://t.me/taskgo_task_bot) | 2026-07-15 |
-| 585 | **Tegen Tap** | Discount crypto seller up to 15% discount | [Telegram](https://t.me/tmail_ton) [Bot](https://t.me/tegentap_bot) [X](https://x.com/TegenTap) [Site](https://tmail.ae/) [Gram News](https://gramnews.org/apps/tegen-tap) | 2024-11-20 |
-| 587 | **TGR Boost** | TGR Boost is a bot for earning tokens through actions in the Tegro ecosystem | [Telegram](https://t.me/toncorp) [Bot](https://t.me/tegrotonbot) [X](https://x.com/tgrtoken) [Site](https://tegro.money) [GitHub](https://github.com/TegroTON) [Gram News](https://gramnews.org/apps/tgr-boost) | 2021-11-30 |
-| 588 | **The Sparky** |  | [Bot](https://t.me/SparkyGameBot) [X](https://x.com/TheSparkyVerse) [Site](https://www.sparky.zone/) | 2025-12 |
-| 589 | **The Treasury** |  | [Bot](https://t.me/ownershipcoinbot) [X](https://x.com/ownershipcoin) [Site](https://ownershipcoin.com) [Gram News](https://gramnews.org/apps/the-treasury) | 2023-01-30 |
-| 590 | **Tilda** | Tilda is an all-in-one mining app that makes earning fun and rewarding | [Telegram](https://t.me/TildaApp) [Bot](https://t.me/TildaAppBot) | 2025-07 |
-| 591 | **Tmail: Merge & Dig** | Mine. Compete. Win in the TMail universe | [Bot](https://t.me/tmailgamebot) | 2026-09-18 |
-| 592 | **To the MOO** | To the MOO is where Telegram’s mass adoption meets Bitcoin, letting users farm their… | [Bot](https://t.me/tothemoo_bot) [X](https://x.com/TothemooFarm) [Site](https://landing.tothemoo.farm/) | 2024-12-04 |
-| 593 | **Token Lis** | Открой мини-приложение: кнопка в меню или | [Bot](https://t.me/tokenlisbot) | 2025-10-12 |
-| 594 | **TokenXGames** | Welcome to TokenXGames - Play & Earn Rewards! | [Telegram](https://t.me/tokenxgames) [Bot](https://t.me/TokenXGamesBot) [X](https://x.com/Tokenxgames) [Site](https://tokenxgames.com) | 2026-06-17 |
-| 595 | **TOM** | TOM isn’t just another community or mini app; it’s a movement to unlock opportunities… | [Telegram](https://t.me/TOM_Talent) [Bot](https://t.me/tom_mainnet_bot) [X](https://x.com/TalentOriginM) [Site](https://x.com/TalentOriginM) | 2024-11-26 |
-| 596 | **TON Click Bot** |  | [Gram News](https://gramnews.org/apps/ton-click-bot) | 2018-06-13 |
-| 597 | **TON Click Bot** | frequently asked questions | [Telegram](https://t.me/TONClickFAQ) [Bot](https://t.me/TonClickRobot) [Gram News](https://gramnews.org/apps/ton-click-bot-2) | 2022-02-22 |
-| 598 | **TON Faucet** | We’ve launched a unique bot that lets you earn real money just by watching ads and… | [Bot](https://t.me/TonFaucetCryptoBot) | 2025-01 |
-| 599 | **Ton For Speed** | It’s been a while since you hit the street | [Bot](https://t.me/tonforspeed_bot) | 2024-12 |
-| 600 | **Ton Miner Gold** |  | [Bot](https://t.me/tongoldminerbot) [X](https://x.com/TonMinerGold) Site (down) [Gram News](https://gramnews.org/apps/ton-miner-gold) | 2024-06-26 |
-| 601 | **TON MOLE** | Mole is a play-to-earn ecosystem that combines NFTs with Telegram gaming | [Bot](https://t.me/TonMole_Bot) [X](https://x.com/Ton_mole) Site (down) | 2024-06-11 |
-| 602 | **TON NEWS** |  | [Telegram](https://t.me/tonnewsio) [Bot](https://t.me/beecon_bot) [X](https://x.com/TonAirdropChat) [Gram News](https://gramnews.org/apps/ton-news) | 2021-10-09 |
-| 603 | **TON Teleport** |  | [Bot](https://t.me/tonteleportbot) | 2025-07 |
-| 604 | **Ton Titan** | Unleash your inner hero with the Titan app! | [Bot](https://t.me/TonTitanBot) [X](https://x.com/thetontitan) Site (down) | 2024-05 |
-| 605 | **Ton Ton Coin** | For the purpose of obtaining efficient and practical earnings By accessing the game… | [Bot](https://t.me/TonTonCoinBot) Site (down) | 2024-09-28 |
-| 607 | **TONTurbobot** |  | [X](https://x.com/tonturbo_app) [Gram News](https://gramnews.org/apps/tonturbobot) | 2024-08-15 |
-| 608 | **Towerly** | Towerly is a skill game | [Bot](https://t.me/TowerlyBot) | 2026-01 |
-| 609 | **TradyFi** | TradyFi is a Web3 SuperApp built on the TON blockchain, merging three powerful utilities… | [Telegram](https://t.me/TradyFiCC) [Bot](https://t.me/tradyfi_token_bot) [X](https://x.com/tradyfi_TDF) [Site](https://www.tradyfi.io) [GitHub](https://github.com/tradyfiTDF) | 2025-09 |
-| 611 | **TWallet App** | Tokens, transactions, and digital collectibles in one clean interface that keeps the… | [Bot](https://t.me/twalletappbot) | 2026-08-28 |
-| 612 | **Vault Miner** | Mine $Gram & Earn 10% Daily | [Telegram](https://t.me/vaultminernews) [Bot](https://t.me/vaultminingbot) | 2026-06-27 |
-| 613 | **Versus** | Versus is a gaming ecosystem that unites players and enables on-chain wagering in their… | [Telegram](https://t.me/versus_community) [Bot](https://t.me/versus_app_bot) [X](https://x.com/0xVersus) Site (down) | 2025-05-07 |
-| 614 | **Vetka** | Enough bending your back at the factory for a branch! Drocheslav, the main character of… | [Telegram](https://t.me/vetka_announcement) [Bot](https://t.me/VetkaTON_bot) [X](https://x.com/VetkaTon) [Site](https://x.com/VetkaTon) | 2024-11-01 |
-| 615 | **VibeCoin** | VibeCoin MiniApp is a play-to-earn game where you mine to earn $VBC tokens and unlock… | [X](https://x.com/VibeCrackers) Site (down) | 2024-10 |
-| 616 | **Vice City Frog** | Tap-to-earn crime empire game on Telegram | [Bot](https://t.me/AetherFrogViceCityBot) [X](https://x.com/ViceCityFrog) [Site](https://frogstarsgames.com) | 2025-12 |
-| 617 | **VOW TO EARN** | VOW TO EARN is a Telegram Mini App built around action-to-earn and proof-to-earn mechanics | [Telegram](https://t.me/vow_crypto) [Bot](https://t.me/vow_to_earn_bot) [X](https://x.com/vowtoearn) [Site](https://crypto.vowapp.space) | 2026-04 |
-| 618 | **Warcraft Miner** |  | [Telegram](https://t.me/warcraftofficialchannel) [Bot](https://t.me/warcraft_miner_bot) | 2026-08-11 |
-| 619 | **WatBird** | GAMEE mini app; the $WAT token on TON | [Telegram](https://t.me/watbird) [X](https://x.com/watbird) | 2024-06-04 |
-| 620 | **web3islands** | Web3Islands – a vibe-first, relaxing virtual city where citizens tap and complete quests… | [Telegram](https://t.me/web3islands) [Bot](https://t.me/web3islands_bot) | 2025-12-15 |
-| 621 | **Wordly** | Wordly is an engaging and interactive word-based puzzle game designed to challenge your… | [Bot](https://t.me/wordlythegamebot) [X](https://x.com/wordlythegame) Site (down) | 2024-09-16 |
-| 622 | **Wovula** | Welcome to Wovula, the ultimate space trading simulation built on the TON Blockchain | [Telegram](https://t.me/wovula_official) [Bot](https://t.me/wovula_bot) [X](https://x.com/wovulaapp) [Site](https://wovula.com/) | 2025-11 |
-| 623 | **Wow** | WOW Bot is the ultimate play-to-earn platform where your skills turn into real rewards! | [Bot](https://t.me/Wowairdropbot) [X](https://x.com/wowCommunityX) Site (down) | 2024-12-06 |
-| 625 | **X-ATOMS** | Discover XATOMS, the guitar-strumming game where you earn daily rewards while shaping… | [Site](https://xatoms.xyz/) | 2024-05 |
-| 626 | **XD2048** | We are thrilled to introduce XD2048, a revolutionary P2E game that transforms how you… | [Bot](https://t.me/XD2048BOT) Site (down) | 2024-07 |
-| 627 | **YOUR TIME App** | The official mining bot for the Your Time project! | [Telegram](https://t.me/yourtime_tma) [Bot](https://t.me/yourstimebot) | 2026-06-17 |
-| 628 | **YumParty** | In a world of candy and sweetness, collect candies through quests and daily challenges | [Telegram](https://t.me/yumparty_chat) [Bot](https://t.me/yumparty_bot) [X](https://x.com/theyumparty) [Site](https://yumparty.com) | 2024-08-10 |
-| 629 | **Zavod** |  | [Bot](https://t.me/nazavodappbot) | 2026-06-13 |
-| 630 | **ZombieTrain** | ZombieTrain is a casual 3D mobile game available on Telegram | [Telegram](https://t.me/zombie_train_en) [Bot](https://t.me/zombietrainbot) [X](https://x.com/zombietraingame) Site (down) | 2024-12-05 |
-| 631 | **Biz Tycoon** | Introducing Biz Tycoon A casual play-to-earn blockchain game on Telegram powered by TON… | [Telegram](https://t.me/biz_tycoon) [Bot](https://t.me/biztycoon_bot) [X](https://x.com/BizTycoonGame) [Site](https://intriguing-wax-2a9.notion.site/Biz-Tycoon-Roadmap-14cb58a6b2a3803dab6dc08b9a6c56de?pvs=73) | 2024-12-10 |
-| 632 | **KriptoMir** | A game dedicated to the creation of our Crypto World, in which we will be able to farm… | [Telegram](https://t.me/kriptofarmers) [Bot](https://t.me/kriptofarmbot) | 2024-05-31 |
-| 633 | **DexCoyote Legends** | DexCoyote Legends is a new generation crypto game on the TON blockchain-network | [Telegram](https://t.me/dexcoyote) [Site](https://dclgame.com) | 2026-06-09 |
-| 634 | **Slimak Adventures** | The adventures of a little snail begin right now! | [Telegram](https://t.me/slimak_official) Site (down) | 2025-03-26 |
-| 635 | **Goat Gaming** |  | [Telegram](https://t.me/playgoatgaming) [Bot](https://t.me/goatgaming_bot) [X](https://x.com/playgoatgaming) [Site](https://goatgaming.com/) | 2026-06-14 |
-| 636 | **Other Worlds TON** | Welcome to "Other Worlds", an immersive dark fantasy game that merges blockchain… | [Telegram](https://t.me/otherworlds_club) [Bot](https://t.me/OtherWorldsTONbot) [X](https://x.com/otherworlds_ton) Site (down) | 2022-03-31 |
-| 637 | **Dino Tycoon** | Build, Manage & Earn in Dino Tycoon! | [Telegram](https://t.me/DinoTycoon_Announcement) [Bot](https://t.me/DinoTycoon_Bot) [X](https://x.com/dino_tycoon) [Site](https://Dinotycoon.io) | 2021-11-18 |
-| 638 | **DropHunter Game.** | DropHunter: Play and Earn with Ease! | [Telegram](https://t.me/drophunter_games) [Bot](https://t.me/drophuntergames_bot) [X](https://x.com/drophuntergames) [Site](https://drophunter.games) | 2024-04-21 |
-| 639 | **SweetyVerse** | SweetyVerse Play, Earn, Airdrop in an Adorable Animal City Discover the Ultimate Cute… | [Telegram](https://t.me/sweetyverse_official) [Bot](https://t.me/sweetyverse_bot) [X](https://x.com/sweetyverse) [Site](https://sweetyverse.com/) | 2024-06-23 |
-| 640 | **AI Sketch Art** |  | [Telegram](https://t.me/sketchartai_ann) [X](https://x.com/SketchArtAI) Site (down) [GitHub](https://github.com/sketchartai) [Gram News](https://gramnews.org/apps/ai-sketch-art) | 2024-04-13 |
-| 641 | **ERAX** |  | [Telegram](https://t.me/THE_ERAXCoin) [Bot](https://t.me/the_eraxbot) [X](https://x.com/Real_ERAX) Site (down) | 2024-10-12 |
-| 642 | **AIHash** | AIHash is mining based game | [Telegram](https://t.me/aihashoffcial) [Bot](https://t.me/ai_hash_bot) [X](https://x.com/AIHashOfficial) | 2025-01-23 |
-| 643 | **NokNok** | The game operates on a seasonal model | [Telegram](https://t.me/NokNokOfficial) [Bot](https://t.me/tonnokbot) [X](https://x.com/TonNok_AI) [Site](https://twitter.com/TonNok_AI) | 2024-06-14 |
-| 644 | **TAP TON GAME** | TAP TON is a free play to earn game on TON | [Telegram](https://t.me/TapTonGame) [Bot](https://t.me/Taptongamebot) [X](https://x.com/TonBatGame) [Site](https://taptongame.com) | 2024-06-05 |
-| 645 | **TON Dungeon** | Battle monsters, collect loot and earn $PNY rewards in the ultimate blockchain dungeon… | [Telegram](https://t.me/tondungeon_news) [Bot](https://t.me/tondungeon_app_bot) [X](https://x.com/tondungeonTG) [Site](https://tondungeon.com) | 2026-01-20 |
-| 646 | **PIGCoin** | PIGCoin is the newest swipe-to-earn game | [Telegram](https://t.me/AIPIG_Coin) [Bot](https://t.me/PIGCoinAI_bot) [X](https://x.com/PIGCoinAI) [Site](https://pigcoin.sunrisebeet.top/home/) | 2024-06-05 |
-| 647 | **Token Tails** | Token Tails is a Web3 Play to Save game, where every player can own NFT cat linked with… | [Telegram](https://t.me/tokentails) [Bot](https://t.me/catbassadorsbot) [X](https://x.com/tokentails) [Site](https://tokentails.com) [GitHub](https://github.com/zbagdzevicius/tokentails) | 2024-03-18 |
-| 648 | **Venus World Survival** | Venus World Survival - the first-ever Tap2Earn survival game! | [Telegram](https://t.me/VenusWS) [Bot](https://t.me/VenusWSBot) [X](https://x.com/VenusSurvival) [Site](https://venus.ws) | 2024-11-30 |
-| 649 | **Mucca** | Mucca — a Telegram Mini App on TON where you mine $MUU, claim & customize land, spin the… | [Telegram](https://t.me/muccaofficial) [Bot](https://t.me/MuccaAppBot) [X](https://x.com/MuccaApp) [Site](https://mucca.app) | 2025-05-31 |
-| 650 | **BrainsCoin** | Brainscoin is a web application in Telegram that allows users to spend time in an… | [Telegram](https://t.me/brainscoin) [Bot](https://t.me/brainscoin_bot) [X](https://x.com/brainscoin_off) Site (down) | 2024-05-15 |
-| 651 | **Fananas** | Fananas is the first-ever Play-to-Earn, Compete-to-Earn Big platform featuring intuitive… | [Telegram](https://t.me/fananas_official) [Bot](https://t.me/fananas_game_bot) [X](https://x.com/FananasOfficial) Site (down) | 2024-12-12 |
-| 652 | **Ai Angels** | AI Angels is the hottest viral tap-to-earn game on Telegram, blending AI-powered… | [Telegram](https://t.me/ai_angels_news) [X](https://x.com/AI_Angels_Game) [Site](https://www.aiangels.io/) | 2025-06-21 |
-| 653 | **Goblin Mine Game** | Goblin Mine is an economic game where your mission is to develop mines, hire miners, go… | [Telegram](https://t.me/GoblinMine) [Bot](https://t.me/GoblinMine_bot) [X](https://x.com/goblin_mine) Site (down) | 2024-07-11 |
-| 654 | **Goblin’s Garage** | Introducing a new game in the Goblin ecosystem: Goblin’s Garage Goblin’s Garage is an… | [Telegram](https://t.me/GoblinMine) [X](https://x.com/goblin_mine) Site (down) | 2024-10-02 |
-| 655 | **Singularity Shift** | Singularity Shift is a hardcore cyberpunk clicker where players act as system operators… | [Telegram](https://t.me/Singularity_Shift) [Bot](https://t.me/Crystal_Clicker_bot) [Site](https://singularityshift.ru/) | 2025-12-16 |
-| 656 | **Grand Gangsta City** | The World Of Gangsta! | [Telegram](https://t.me/GrandGangstaCityAnnouncement) [Bot](https://t.me/GGCTON_Bot) [X](https://x.com/grandgangstaci) [Site](https://grandgangstacity.com/) | 2024-01-31 |
-| 657 | **TON Diamonds** |  | [Telegram](https://t.me/tondiamonds) [Bot](https://t.me/tondiamondsbot) [X](https://x.com/TonDiamonds) [Site](https://ton.diamonds) [Gram News](https://gramnews.org/apps/tondiamondsbot) | 2021-11-11 |
-| 658 | **30sec CASUAL** | We are building the world's best advertising media for spreading brands | [Telegram](https://t.me/info30sec) [Bot](https://t.me/casual30sec_bot) [X](https://x.com/30sec_yet) [Site](https://30sec.net/) [Gram News](https://gramnews.org/apps/30sec-casual) | 2023-06-02 |
-| 659 | **GangsterGames Pick3** | "Mobsters Choice-Pick 3" is a custom Telegram App allowing users to Click-2-Earn without… | [Telegram](https://t.me/gangstergamesio) [Bot](https://t.me/gangster_games_pick3_bot) [X](https://x.com/GangsterGamesio) [Site](https://gangstergames.io/) [GitHub](https://github.com/iconworldwide/pick-three-lottery) | 2023-08-29 |
-| 660 | **Space Hunters HUB** | The Space Hunters Ecosystem is a project dedicated to developing interconnected… | [Telegram](https://t.me/spacehuntersnews) [Bot](https://t.me/spacehuntersbot) [X](https://x.com/nftspacehunters) Site (down) | 2024-05-19 |
-| 661 | **Symptomify App** | An innovative platform using CNN-based AI technology to enhance engagement and create a… | [Telegram](https://t.me/symptomify) [Bot](https://t.me/symptomify_bot) [X](https://x.com/symptomify) [Site](https://www.symptomify.io) | 2024-11-21 |
-| 662 | **Tonagotchi** | Your new virtual pet companion is here! | [Telegram](https://t.me/TonagotchiNews) [Bot](https://t.me/TonagotchiBot) | 2024-03-03 |
-| 663 | **Hype Fisher** | Catch fish, earn TON! | [Telegram](https://t.me/HypeFisher) [Bot](https://t.me/hype_fisher_bot) [X](https://x.com/HypeFisherGame) [Site](https://hypefisher.com) | 2024-06-21 |
-| 664 | **VOXEL** | Collect NFT 3D models and sell them to other users Earn $VOXL and exchange it for $TON… | [Telegram](https://t.me/voxelplay) [Bot](https://t.me/voxel_verse_bot) [X](https://x.com/VOXELVerseApp) | 2024-10-20 |
-| 665 | **NetFishion** | NetFishion — Bringing GameFi Fun to Your Fingertips As a TON-based GameFi project,… | [Telegram](https://t.me/NetFishionchannel) [Bot](https://t.me/PreNetfishionbot) [X](https://x.com/NetFishion) [Site](https://netfishion.online/) | 2025-03-19 |
-| 666 | **Drifterz** | Drifterz is a unique racing game in Telegram, where your drifting skills can make you a… | [Telegram](https://t.me/Drifterz_channel) [Bot](https://t.me/drifterz_bot) [X](https://x.com/drifterz_) Site (down) | 2024-09-17 |
-| 667 | **Diamore.co App** | Tap, Earn and Learn! | [Telegram](https://t.me/diamoremarket) [Bot](https://t.me/DiamoreCryptoBot) [X](https://x.com/diamore_market) [Site](https://Diamore.co) | 2024-03-24 |
-| 668 | **1win Token** | 1win Token is not just a clicker, it is part of an entire ecosystem | [Telegram](https://t.me/token1win_bot) [Bot](https://t.me/token1win_bot) [X](https://x.com/1winToken) [Site](https://1wintoken.com/) | 2024-04-04 |
-| 669 | **Mumba Games** | Game hub of mini-games from mumba, which combines 12 games, for top games in which… | [Telegram](https://t.me/mumbatonofficial) [X](https://x.com/mumba_ton) | 2024-02-02 |
-| 670 | **Mumba TaskBot** | Official Channel of the Mumba Token | [Telegram](https://t.me/mumbatonofficial) [X](https://x.com/mumba_ton) [Site](https://teletype.in/@mumba/taskbot) [Gram News](https://gramnews.org/apps/mumba-taskbot) | 2024-02-02 |
-| 671 | **Ton's Monsters** | As soon as you launch the Mini App, you will unlock your first monster and points | [Telegram](https://t.me/TonsMonsters) [Bot](https://t.me/TonsMonstersBot) [X](https://x.com/TonsMonsters) [Site](https://revomon.io/) | 2024-07-17 |
-| 672 | **Voscoin** | Join Voscoin today and experience the excitement of cryptocurrency mining while earning… | [Telegram](https://t.me/voscoins) [Bot](https://t.me/Voscoin_bot) [X](https://x.com/voscoins) | 2024-10-18 |
-| 673 | **Cut & Stack** | CutStack is a simple yet rewarding play-to-earn game where every move matters | [Telegram](https://t.me/StackPlayAnn) [Bot](https://t.me/CutStackBot) [X](https://x.com/CutStackBot) [Site](https://fe-stackgame.onrender.com) | 2025-02-02 |
-| 674 | **Reality Rush** |  | [Telegram](https://t.me/realityrush) [Bot](https://t.me/realityrush_bot) [X](https://x.com/realityrushgame) [Site](https://realitymeta.io/) | 2024-07-12 |
-| 675 | **Nomka** | Nomka is a fast-paced multiplayer arcade about growth, risk, and tactics | [Telegram](https://t.me/nomka_fun) [Bot](https://t.me/NomkaFunbot) [Site](https://nomka.fun/site/) | 2025-07-29 |
-| 676 | **Crypto Fox Lab** | This channel has moved to a new location | [Telegram](https://t.me/CryptoFoxLab) [Bot](https://t.me/cryptofoxlab_bot) [Gram News](https://gramnews.org/apps/crypto-fox-lab) | 2025-09-21 |
-| 677 | **Sphynx** | Sphynx is a Web3 Mini App on Telegram built on TON blockchain that offers free mining,… | [Telegram](https://t.me/sphynxANN) [Bot](https://t.me/sphynxmeme_bot) [X](https://x.com/sphynx_meme) Site (down) | 2024-04-21 |
-| 678 | **SpaceFarm** | Discover many planets and build your farm on them to earn coins! | [Telegram](https://t.me/SpaceCryptoFarm) [Bot](https://t.me/Space_Farm_bot) [X](https://x.com/CrypoSpaceFarm) Site (down) | 2024-04-12 |
-| 679 | **Happy Farming** | Meet Happy Farming Manage your own farm, grow vegetables and fruits, raise animals to… | [Telegram](https://t.me/happy_farming) [Bot](https://t.me/HappyFarming_bot) [Site](https://happyfarm.fun) | 2024-06-20 |
-| 680 | **Mind Guardians** | Watch out - your negative thoughts are attacking your mind as zombies! | [Telegram](https://t.me/mindunix) [Bot](https://t.me/mindguardiansbot) [X](https://x.com/unimindx) [Site](https://minduniversity.info/) | 2024-04-12 |
-| 681 | **SoarFun** | Blockchain mining and trading platform in Telegram based on Ton_blockchain | [Telegram](https://t.me/Soar_Fun) [Bot](https://t.me/SoarFunTradingBot) [X](https://x.com/soarfuntoken) | 2024-07-14 |
-| 682 | **HASBi RUN** | HASBi RUN Overview: ”HASBi RUN” by Hasbiland is the classic endless runner game… | [Telegram](https://t.me/hasbiland) [Bot](https://t.me/hasbiland_bot) [X](https://x.com/Hasbiland) [Site](https://hasbiland.io/) | 2024-01-12 |
-| 683 | **Genopets: Pixelton** | Retro PVP BATTLE with Frens on Telegram Genopets: Pixelton Arena is a nostalgic,… | [Telegram](https://t.me/GenopetsAnnouncements) [Bot](https://t.me/genopets_pixelton_bot) [X](https://x.com/genopets) [Site](https://www.genopets.me/articles/ready-to-battle-introducing-genopets-pixelton-arena-clzlqik4y004778t2sra0702l) | 2021-08-05 |
-| 684 | **Chick Coop** | Chick Coop is the first game in the Farming Universe on Ton Blockchain | [Telegram](https://t.me/chickcoop_announcement) [Bot](https://t.me/chickcoopofficial_bot) [X](https://x.com/chickcoop_io) [Site](https://Chickcoop.io) | 2024-02-16 |
-| 685 | **The Rocket** | Clicker game with ROCKET token on the Toncoin blockchain | [Telegram](https://t.me/the_rocket_official) [Bot](https://t.me/The_Rocket_bot) [X](https://x.com/the_rocket_x) | 2024-03-29 |
-| 686 | **Predipie** | Predipie is a halal Web3 Football Prediction game where users can "predict to earn" real… | [Telegram](https://t.me/predipie_official_announcements) [Bot](https://t.me/Predipie_bot) [X](https://x.com/predipie) [Site](https://predipie.com) | 2024-05-13 |
-| 687 | **GeoBattle** | GeoBattle is an online game | [Telegram](https://t.me/GeoBattle) [Bot](https://t.me/GeoBattleBot) | 2024-09-23 |
-| 688 | **Мine2Мine (M2M)** | Mine2Mine (M2M) is a Mine-to-Earn platform with its utility token ($GPU) and Telegram… | [Telegram](https://t.me/mine2mine_ru) [Bot](https://t.me/mine2mine_bot) [Site](https://mine2mine.org) | 2024-05-20 |
-| 689 | **Real WhiteDogs** | WhiteDogs is a Telegram-based platform where users can earn rewards through mining,… | [Telegram](https://t.me/real_whitedogs) [Bot](https://t.me/Real_WhiteDogsbot) [X](https://x.com/real_whitedogs) [Site](https://whiteDogs.xyz) | 2024-08-13 |
-| 690 | **Shiba Empire** | With Shiba Empire, you can mine coins by tapping on your Shiba workforce | [Telegram](https://t.me/ShibaEmpireChannel) [Bot](https://t.me/shibaEmpireBot) [X](https://x.com/shiba_empire_) [Site](https://shibaempire.co/) | 2024-09-11 |
-| 691 | **Neon Maidens Online** | Join the journey to the first P2E PVP jRPG on Telegram | [Telegram](https://t.me/nmotongame) [Bot](https://t.me/nmogame_bot) [X](https://x.com/neonmaidens) | 2024-04-05 |
-| 692 | **Noxecoin** | Noxecoin is a play to airdrop project where you earn coins by completing tasks and daily… | [Telegram](https://t.me/noxecoin) [Bot](https://t.me/noxecoin_bot) [X](https://x.com/noxecoin) Site (down) | 2024-08-05 |
-| 693 | **My Corp** | Welcome to My Corp! | [Telegram](https://t.me/mycorp_official) [Bot](https://t.me/mycorpbot) [X](https://x.com/mycorpbot) | 2024-07-11 |
-| 694 | **Raccoon** | Raccoon is a casual puzzle game that combines container organization and matching gameplay | [Telegram](https://t.me/RaccoonGoAnn) [Bot](https://t.me/RaccoonGo_bot) [X](https://x.com/raccoonket) | 2024-12-19 |
-| 695 | **HarcoDeck** | Build your deck, challenge opponents in thrilling PvP battles, and climb the ranks | [Telegram](https://t.me/HarcoDeckAnnouncements) [Bot](https://t.me/HarcoDeck_bot) [X](https://x.com/Harcodeck) [Site](https://harco.gitbook.io/harcodeck) | 2024-09-18 |
-| 696 | **FEFE FIGHT** | The game has three modes: "Random P2P battle, battle against bots, P2P tournaments" | [Telegram](https://t.me/FEFELAND) [Bot](https://t.me/FllopBot) | 2025-04-11 |
-| 697 | **Not Shiba** | Not Shiba is not just a game, it's an opportunity to earn up to $BONES token listing | [Telegram](https://t.me/not_shiba) [X](https://x.com/Not_Shiba_X) Site (down) | 2025-04-11 |
-| 698 | **Farm Stars** | Farm Stars is a pioneering game on Telegram, that merges the simplicity of mobile gaming… | [Telegram](https://t.me/farm_starss) [Bot](https://t.me/Farm_stars_bot) [X](https://x.com/farmstarstg) [Site](https://stars.farm) | 2023-01-24 |
-| 699 | **HODL Button** | HODL Button is a GameFi app where you earn by simply holding a button | [Telegram](https://t.me/Hodl_Button_Game) [Bot](https://t.me/Hodl_Button_Bot) [Site](https://game.p2p.am) | 2025-03-16 |
-| 700 | **Bibizean TCG** | The "Bibizean" project is a collectible card game focused on gathering unique cards with… | [Telegram](https://t.me/bibizeancoin) [Bot](https://t.me/BibizeanTCGbot) [X](https://x.com/bibizean) Site (down) | 2025-04-06 |
-| 701 | **Fortune Boss** | Welcome to Fortune Boss - Your Casino Empire Awaits! | [Telegram](https://t.me/fortune_boss) [Bot](https://t.me/fortune_boss_game_bot) | 2024-09-14 |
-| 702 | **Game Launcher** | Hello, nice to meet you! | [Telegram](https://t.me/game_launcher_news) [Bot](https://t.me/game_launcher_bot) [Site](https://gamelauncher.xyz) | 2024-10-01 |
-| 703 | **MyLeg** | Myleg is just a fictional degen character finding his way around the crypto ecosystem,… | [Telegram](https://t.me/mylegonton) [Bot](https://t.me/Mylegonton_bot) [X](https://x.com/mylegonton) Site (down) | 2024-09-15 |
-| 704 | **T88 mini app** | T88: A New Twist in Meme Coins T88 is an innovative meme coin inspired by Andrew Tate,… | [Telegram](https://t.me/T88_WTF) [Bot](https://t.me/T88_WTF_BOT) [X](https://x.com/T88_WTF) [Site](https://linktr.ee/T88coin) | 2024-09-11 |
-| 705 | **Jungle Gaming** | Jungle Gaming is a Telegram Mini App where players can explore games, complete… | [Telegram](https://t.me/JungleGaming_Chat) [Bot](https://t.me/JungleGamingBot) [X](https://x.com/JungleGamingCom) [Site](https://junglegaming.com/) | 2025-04-03 |
-| 706 | **GobblUp- Feed & Earn** | Welcome to Gobbl—The World’s First Food Blockchain! | [Telegram](https://t.me/gobblnews) [Bot](https://t.me/gobblupbot) [X](https://x.com/gobblchain) [Site](https://gobbl.io) | 2021-11-05 |
-| 707 | **SORATOPIA** | SORATOPIA is a vibrant Telegram game where players explore, complete quests, and earn… | [Telegram](https://t.me/soratopia_announcements) [Bot](https://t.me/soratopia_bot) [X](https://x.com/soratopia_game) | 2024-06-19 |
-| 708 | **Bit Billionaire** | Welcome to Bit Billionaire! | [Telegram](https://t.me/BitBillionaireGameAnn) [Bot](https://t.me/bitbillionairebot) [X](https://x.com/BitBillionaire_) | 2024-10-20 |
-| 709 | **Apiary** | Visit accessible finance in your pocket | [Telegram](https://t.me/apiaryFinance) [Bot](https://t.me/ApiaryFinanceBot) [X](https://x.com/SyrupalOfficial) Site (down) | 2024-09-09 |
-| 710 | **LizArts** | LizArts is a universe where an army of powerful fighting lizards, survivors of… | [Telegram](https://t.me/Lizarts_Nation) [Bot](https://t.me/lizartsworld_bot) Site (down) | 2024-04-21 |
-| 711 | **Piston Hub** | Combining mining games, entertainment communities, and the characteristics of meme coins… | [Telegram](https://t.me/PISTON_Announcements) [Bot](https://t.me/piston_hub_bot) [X](https://x.com/thepistonhub) Site (down) | 2024-07-22 |
-| 712 | **Racing TON** | Racing TON is an exhilarating animal racing game on the Telegram mini-apps | [Telegram](https://t.me/Racing_TON) [X](https://x.com/RacingonTON) [Site](https://racington.tongram.app/) | 2024-10-14 |
-| 713 | **Durov Run** | Durov Run is a dynamic runner game with a storyline and elements of an economic… | [Telegram](https://t.me/durovrungame) [Bot](https://t.me/durovrunbot) [X](https://x.com/DurovRun) | 2024-08-25 |
-| 714 | **Space Birds** | Space Bird is a play-to-earn game where you guide a bird soaring to conquer the cosmos! | [Telegram](https://t.me/space_birds_game) [Bot](https://t.me/Space_birds_bot) [X](https://x.com/SpaceBirds_Game) Site (down) | 2024-06-18 |
-| 715 | **Erzy Channel Collab** | Управление Телеграм каналами: актуальные новости, аналитика, и инновации в одном месте.… | [Telegram](https://t.me/raskrutichannel) [Bot](https://t.me/ErzyNetWebBot) [Site](https://erzy.net/) [Gram News](https://gramnews.org/apps/erzy-channel-collab) | 2023-02-04 |
-| 716 | **Bank Miner WBT** | Bank Miner WBT is a mobile app that allows you to mine $WBT tokens right on your phone! | [Telegram](https://t.me/GirlsClubWBT) [Bot](https://t.me/MinerWBTbot) [X](https://x.com/GirlsClubWBT) Site (down) | 2024-11-09 |
-| 717 | **HangarX** | Welcome to HangarX! | [Telegram](https://t.me/hangarxgam) [Bot](https://t.me/hangarxgaming_bot) [X](https://x.com/Hangarxio) [GitHub](https://github.com/hangarx) | 2024-06-03 |
-| 718 | **Crypto Colonies** | Colonize & Conquer! | [Telegram](https://t.me/crypto_colonies) [Bot](https://t.me/cryptocolonies_bot) [X](https://x.com/CryptoColoniesX) [Site](https://cryptocolonies.io/) | 2025-02-03 |
-| 719 | **MUDUCK.IO** | MuDuck is cross-chain crypto project that bridges the power and scalability of the TON,… | [Telegram](https://t.me/muduck_io) [Bot](https://t.me/muduckio_bot) [X](https://x.com/muduck_io) Site (down) | 2024-07-16 |
-| 720 | **ArteFarm** | ArteFarm is a Telegram-based Tap2Earn Farming Game Tap to seed, water, harvest, and earn… | [Telegram](https://t.me/artefarm_game) [Bot](https://t.me/artefarm_bot) [X](https://x.com/artefarm) | 2024-06-29 |
-| 721 | **Petoshi** | Merge your Telegram usage with blockchain through Petoshi, a Tap to Earn that gamifies… | [Telegram](https://t.me/petoshiclub) [X](https://x.com/Petoshi_Blast) [Site](https://petoshi.io/) | 2024-06-01 |
-| 722 | **BuxHub App** | We are also tired of endless clickers and so we've decided to create something special -… | [Telegram](https://t.me/bux_hub) [Bot](https://t.me/buxhub_bot) [X](https://x.com/buxhub_team) | 2024-08-16 |
-| 723 | **Monsterz** | Monsterz In is a thrilling Web3 gaming experience where players earn tokens, upgrade… | [Telegram](https://t.me/monsterz_in) [Bot](https://t.me/monsterzin_bot) [X](https://x.com/monsterz_in) [Site](https://monsterz.in) | 2024-06-09 |
-| 724 | **notreal** | A Telegram Mini App that combines an automatic point-farming system with a… | [Telegram](https://t.me/notrealcommunity) [Bot](https://t.me/ntrcrypto_bot) [X](https://x.com/notrealapp) | 2024-09-24 |
-| 725 | **Panda Gold Miner** | Panda Gold Miner is a T2E mini-game on Telegram that takes you on an evolution journey:… | [Telegram](https://t.me/pandagoldminer) [Bot](https://t.me/pandagoldminer_bot) [X](https://x.com/pandagoldminer) Site (down) | 2024-11-02 |
-| 726 | **TradeUpDown** | Welcome to TradeUpDown Web3 Game! | [Telegram](https://t.me/tradeupdown_com) [Site](https://tradeupdown.com) | 2024-04-25 |
-| 727 | **Happy Llama** | Earn $HAPPY tokens by grazing your virtual llama | [Telegram](https://t.me/happy_llama_news) [Bot](https://t.me/HappyLlamaBot) [X](https://x.com/HappyLlamaGame) Site (down) | 2024-07-11 |
-| 728 | **Piloton** | About Piloton Start with a free plane on your central runway and build an air force full… | [Telegram](https://t.me/pilotongame) [Bot](https://t.me/pilotongamebot) [X](https://x.com/pilotongame) [Site](https://piloton.io/) | 2024-05-21 |
-| 729 | **Alien Mine ($ALEN)** | Embark on an intergalactic adventure as you assemble your team of cosmic explorers | [Telegram](https://t.me/alienminep2e) [Bot](https://t.me/AlienMineBot) [X](https://x.com/AlienMine_P2E) [Site](https://alienmine.io/) | 2025-01-02 |
-| 730 | **RetoLabs** | Your all-in-one Web3 entertainment hub on Telegram! | [Telegram](https://t.me/RetoLabs) [Bot](https://t.me/RETOLabsBot) [X](https://x.com/retolabs) [Site](https://retolabs.com) | 2025-01-17 |
-| 731 | **Money Craft** | Become the architect of a fairytale kingdom in 3D pixel style! | [Telegram](https://t.me/money_craft_news) [Bot](https://t.me/money_craft_game_bot) | 2024-06-23 |
-| 732 | **VOLTUM** | VOLTUM is a new era of games based on the principles of fair competition and player… | [Telegram](https://t.me/voltum_game) [Bot](https://t.me/Voltum_bot) [X](https://x.com/Volrum_official) Site (down) | 2024-06-21 |
-| 733 | **Cupiee Mini** | Cupiee: Relax, Earn, and Nurture Your AI Pet Cupiee is the first Telegram application… | [Telegram](https://t.me/cupiee_officialANN) [Bot](https://t.me/cupiee_bot) [X](https://x.com/Cupiee_official) [Site](https://cupiee.com/) | 2023-09-14 |
-| 734 | **TapTap** | Backed by iMe, Crypto Messenger App with 1 Million+ Users | [Telegram](https://t.me/taptap_official) [Bot](https://t.me/taptapcore_bot) [X](https://x.com/taptap_bot) Site (down) | 2024-06-05 |
-| 735 | **Rooster Fights** | Rooster Fights is a captivating mobile Web3 game that combines auto-battler gameplay… | [Telegram](https://t.me/rooster_fights_game) [Bot](https://t.me/rooster_fights_bot) [X](https://x.com/rooster_fights) Site (down) | 2023-10-23 |
-| 736 | **FishMeme** | FishMeme is building a next-level blockchain Web3 platform! | [Telegram](https://t.me/FishMemeOfficial) [Bot](https://t.me/fishmeme_bot) | 2024-06-16 |
-| 737 | **Bahne AI** | More than just a tap-tap game | [Telegram](https://t.me/bahneai) [Bot](https://t.me/BahneAIBot) [X](https://x.com/bahne_ai) Site (down) | 2024-10-18 |
-| 738 | **Shiok** | Shiok brings a thrilling tower defense experience to the Telegram ecosystem, immersing… | [Telegram](https://t.me/shiok_ann) [Bot](https://t.me/the_shiok_bot) [X](https://x.com/shiok_fun) Site (down) | 2024-08-01 |
-| 739 | **AAO** | All At Once (AAO) - The First Battle To Earn On Web3 Game AAO Game delivers exhilarating… | [Telegram](https://t.me/AAO_Game) [X](https://x.com/AAO_Game) Site (down) | 2024-05-17 |
-| 740 | **GoldenBillionGame** | GBG is a platform for monetizing your attention | [Telegram](https://t.me/GoldenBillionGame) [Bot](https://t.me/goldenbilliongame_bot) [Site](https://www.goldenbilliongame.com) | 2024-03-18 |
-| 741 | **Bacoin Farm** | Welcome to the world of Bacoin, where you start from scratch to build your own farm empire | [Telegram](https://t.me/bacoin_community) [Bot](https://t.me/bacoin_bot) [X](https://x.com/the_bacoin) | 2024-06-20 |
-| 742 | **HELL RØLL** |  | [Telegram](https://t.me/hellrollgg) [Bot](https://t.me/hell_roll_bot) [X](https://x.com/hellrollgg) | 2024-10-06 |
-| 743 | **MythNum** | How beautiful and perfect your ID is Let MythNum help you find out! | [Telegram](https://t.me/myth_num) [Bot](https://t.me/myth_num_bot) [X](https://x.com/myth_num) [Site](https://mythnum.one/) | 2024-09-20 |
-| 744 | **Cryston** | Cryston is a free-to-play game on Telegram where you take on the role of a talented… | [Telegram](https://t.me/CrystonAnn) [Bot](https://t.me/crystonappbot) [X](https://x.com/cryston_app) Site (down) | 2024-08-12 |
-| 745 | **Dragons House** | Start Mining $DHT by unlocking Dragon's Boxes that are packed with exciting rewards! | [Telegram](https://t.me/dragonshousecrypto) [Bot](https://t.me/dragonshouse_bot) [X](https://x.com/DragonsHouseBot) | 2024-08-26 |
-| 746 | **Smart Mouse** | Smart Mouse is a Tap2Earn puzzle game (similar to Mastermind) where you train your brain… | [Telegram](https://t.me/smartmousenews) [Bot](https://t.me/SmartMouseGameBot) [X](https://x.com/SmartMouseIo) [Site](https://smartmouse.io/) | 2024-09-24 |
-| 747 | **BlueChain** | The BlueChain airdrop is a way for early adopters to earn a share of BlueChain tokens… | [Telegram](https://t.me/bluechainch) [Bot](https://t.me/bluechainbot) [X](https://x.com/bluechaintorg) | 2024-10-19 |
-| 748 | **PRETON DROP** |  | [Telegram](https://t.me/preton) [Bot](https://t.me/preton_drop_bot) [X](https://x.com/preton_official) [Gram News](https://gramnews.org/apps/preton-drop) | 2024-04-27 |
-| 749 | **Crypto Mason Game** | A TON token mining game in Telegram | [Telegram](https://t.me/cryptomasonsru) [Bot](https://t.me/masson_game_bot) [X](https://x.com/CryptoMasonGame) Site (down) [Gram News](https://gramnews.org/apps/crypto-mason-game) | 2024-07-04 |
-| 750 | **TON_Monster** | TON Monster A monster-raising game on the TON blockchain where your monsters bring you… | [Telegram](https://t.me/Ton_MonsterChannel) [X](https://x.com/TON_Monster_OF) | 2024-10-22 |
-| 751 | **Cosmic Invaders** | In Cosmic Invaders, players take control of a spaceship tasked with defending the galaxy… | [Telegram](https://t.me/CosmicInvadersGame) [Bot](https://t.me/CosmicInvadersBot) [X](https://x.com/Cosmic_Invaders) Site (down) | 2024-10-25 |
-| 752 | **SVEN** | SVEN is a unique Play And Earn game where you can earn SVEN tokens, as well as TON, for… | [Telegram](https://t.me/SvenTon) [Bot](https://t.me/SvenTon_bot) | 2024-10-23 |
-| 753 | **Orbiter Vizing** | The First Omni chain Play-to-Earn game powered by Vizing | [Telegram](https://t.me/orbiter_vizing) [Bot](https://t.me/orbiter_vizing_bot) [X](https://x.com/Vizing_L2) [Site](https://www.vizing.com/) [GitHub](https://github.com/Orbiter-Vizing) | 2024-10-09 |
-| 754 | **EPIC BATTLE** | Core Gameplay: - Tap-to-Mine - Passive Mining - Collect & Upgrade NFTs - Friends &… | [Telegram](https://t.me/EpicBattleGame_Announcement) [Bot](https://t.me/EpicBattleGamebot) [X](https://x.com/EpicBattle_co) Site (down) | 2024-09-28 |
-| 755 | **Chicker: Your Chicks** | Our latest game challenges you to tap on chickens to purchase them, and they will start… | [Telegram](https://t.me/yourchicksgame) [Bot](https://t.me/yourchicksbot) [X](https://x.com/yourchicksgame) | 2024-10-03 |
-| 756 | **Cat Blades!** | Choose your hero: unique characters for every taste, each with its own characteristics | [Telegram](https://t.me/Cats_Blades) [Bot](https://t.me/CatsBladesBot) | 2024-06-08 |
-| 757 | **SACKBIRD** | Telegram/Ton Ecosystem Pray-to-Earn Mini Game: Pray-2-Earn, no tasks required for players | [Telegram](https://t.me/SackbirdTeam) [Bot](https://t.me/SackBirdBless_bot) [X](https://x.com/SackBird_O) [Site](https://sackbird.vercel.app/) | 2024-07-10 |
-| 758 | **Dropshit** | Drop Shit is a unique GameFi project on the TON network | [Telegram](https://t.me/dropshit_official) [Bot](https://t.me/drop_shit_game_bot) [X](https://x.com/Drop_shit_game) Site (down) | 2024-05-14 |
-| 759 | **TONBAT Miner** | TONBAT $TBAT is new MEME on TON Trending | [Telegram](https://t.me/TonBatNews) [Bot](https://t.me/TBATMinerBot) [X](https://x.com/TonBatMiner) Site (down) | 2024-07-03 |
-| 760 | **The Five Realms** | The Five Realms is an open-world AI and GameFi adventure where players explore… | [Telegram](https://t.me/TheFiveRealms) [Bot](https://t.me/TheFiveRealmsBot) [X](https://x.com/thefiverealms) Site (down) | 2024-07-24 |
-| 761 | **Tap To Punch!** | The first tap-to-punch clicker game where you earn coins by tapping to punch bosses in… | [Telegram](https://t.me/taptopunch) [Bot](https://t.me/taptopunch_bot) [X](https://x.com/taptopunchgame) | 2024-05-28 |
-| 762 | **upbeat** |  | [Telegram](https://t.me/upbeat_community) [Bot](https://t.me/upbeatapp_bot) [Gram News](https://gramnews.org/apps/upbeat) | 2024-07-15 |
-| 763 | **PaniCoin** | How does Time Farm work ? | [Telegram](https://t.me/panic_coin) [X](https://x.com/panic_coin) Site (down) [GitHub](https://github.com/Panic-Coin) | 2024-08-02 |
-| 764 | **Tap Planet** | "Tap Planet" is a space clicker game where players explore planets, gather resources,… | [Telegram](https://t.me/tapplanet) [Bot](https://t.me/Tapplanet_bot) | 2024-04-10 |
-| 765 | **Games Ether Bot** | Games Ether includes various mini-games for you to participate in and earn jetton tokens | [Telegram](https://t.me/gamesether_news) [Bot](https://t.me/gamesether_bot) | 2024-06-16 |
-| 767 | **Rage Battles MMORPG** | Welcome to the world of Rage Battles — a unique turn-based tactical P2E MMORPG set in an… | [Telegram](https://t.me/ragebattles) [Bot](https://t.me/RageBattlesBot) | 2022-01-04 |
-| 768 | **Ton Shiba Inu** | Shiba Inu on Ton Blockchain | [Telegram](https://t.me/ton_shibainu) [X](https://x.com/ton_shiba) [Gram News](https://gramnews.org/apps/ton-shiba-inu) | 2024-03-22 |
-| 769 | **TotalCup** | The Battlefield Of Brains | [Telegram](https://t.me/TotalCup) [Bot](https://t.me/TotalCupBot) | 2023-07-20 |
+| 250 | **MemeFi Coin** | MemeFi Coin — a mini app with earning, items, collections and giveaways; the project… | [Telegram](https://t.me/memeficlub) [Bot](https://t.me/memefi_coin_bot) [Gram News](https://gramnews.org/apps/memefi-coin) | 2024-02-03 |
+| 251 | **Frutoncrypto** | A Telegram game where you shake your smartphone to earn crystals and frucoins | [Telegram](https://t.me/frutoncrypto) [Bot](https://t.me/frutoncrypto_bot) [Gram News](https://gramnews.org/apps/frutoncrypto) | 2024-06-17 |
+| 252 | **Farm TON** | You're growing strong, Farmer! | [Bot](https://t.me/yourfarmton_bot) [Gram News](https://gramnews.org/apps/farm-ton) | 2024-09-18 |
+| 253 | **Cosmo Miner** | Channel: Community: Cooperation | [Telegram](https://t.me/cosmominer) [Bot](https://t.me/cosmominerrobot) [Gram News](https://gramnews.org/apps/cosmo-miner) | 2024-06-08 |
+| 254 | **Cutlet Tap** |  | [Bot](https://t.me/cutlet_tap_bot) [X](https://x.com/cutlet_tap) [Gram News](https://gramnews.org/apps/cutlet-tap) | 2024-07-01 |
+| 255 | **pixelxfarm_bot** | Pixel X Farm is a Telegram mini app for a farming game | [Telegram](https://t.me/pixelxfarm) [Bot](https://t.me/pixelxfarm_bot) [X](https://x.com/PixelXFarm) [Gram News](https://gramnews.org/apps/pixelxfarm_bot) | 2024-05-22 |
+| 256 | **AlayaAI** | AlayaAI is a product where users earn Tokens by performing AI training annotation tasks | [Telegram](https://t.me/Alaya_AI) [Bot](https://t.me/alayai_ai_bot) [Gram News](https://gramnews.org/apps/alayaai) | 2023-06-18 |
+| 257 | **Moewbie** | Moewbie is a tap-to-earn game where users adopt cats and earn | [Telegram](https://t.me/Moewbie) [Bot](https://t.me/moewbietapbot) [X](https://x.com/0xMoewbie) Site (down) [Gram News](https://gramnews.org/apps/moewbie) | 2024-07-18 |
+| 258 | **Upayworld Airdrop** |  | [Bot](https://t.me/upayworldairdropbot) [Gram News](https://gramnews.org/apps/upayworld-airdrop) | 2024-07-20 |
+| 259 | **FastX** | FastX is a free play-to-earn game where you can earn token rewards by parking your car | [Bot](https://t.me/fastxparkingbot) [X](https://x.com/FastXParking) [Site](https://x.com/FastXParking) [Gram News](https://gramnews.org/apps/fastx) | 2024-06-03 |
+| 260 | **Nexus** | Nexus is a metaverse for virtual life, land ownership, and earning | [Bot](https://t.me/nexusportalbot) [X](https://x.com/ioneoki) [Site](https://Neoki.io) [Gram News](https://gramnews.org/apps/nexus) | 2024-08-27 |
+| 261 | **Clicker VWS** | Clicker VWS Web3 Bot - GameFi and SocialFi Staking VWS,TON, cNfts,NFTs | [Telegram](https://t.me/MagicVipClub) [Bot](https://t.me/ClickerVWSBot) [X](https://x.com/VirtualsWorlds) [GitHub](https://github.com/VirtualsWorlds) | 2023-09-12 |
+| 262 | **VWS Games** | VWS Game A game where the user can build their own settlement, will be able to earn from… | [Telegram](https://t.me/MagicVipClub) [Bot](https://t.me/AirdropVWSbot) [X](https://x.com/VirtualsWorlds) Site (down) [GitHub](https://github.com/MagicVipPeople) | 2022-07-30 |
+| 263 | **TapCrystal** | New Tap project on TON! Earn TapCrystal | [Telegram](https://t.me/tapcrystal) [Bot](https://t.me/tapcrystalbot) [X](https://x.com/Tap_Crystal) [Gram News](https://gramnews.org/apps/tapcrystal) | 2024-06-02 |
+| 264 | **StewieQuest** | StewieQuest is a Telegram game where you earn coins, upgrade energy, and unlock auto-tap… | [Telegram](https://t.me/donotgame) [Bot](https://t.me/stewiequestbot) [Gram News](https://gramnews.org/apps/stewiequest) | 2024-07-23 |
+| 265 | **BLOCK** | Stack blocks, mine $BLOCK coins | [Telegram](https://t.me/block_en_community) [Bot](https://t.me/block_app_bot) [Gram News](https://gramnews.org/apps/block) | 2024-08-08 |
+| 266 | **ZombieSquad** | ZombieSquad is a survival game in a post-apocalyptic world, featuring AI girlfriend care… | [Bot](https://t.me/zombiesquadbot) [X](https://x.com/zombiesquad_ai) [Gram News](https://gramnews.org/apps/zombiesquad) | 2024-07-22 |
+| 267 | **TMNT Game** | A tap-to-earn game in the Teenage Mutant Ninja Turtles universe | [Bot](https://t.me/tmnt_crypto_bot) [Site](https://www.imem.app/) [GitHub](https://github.com/imemessenger) [Gram News](https://gramnews.org/apps/tmnt-game) | 2020-04-26 |
+| 268 | **Changpeng Zhao Airdrop** |  | [Bot](https://t.me/changpengzhaoairdropbot) [Gram News](https://gramnews.org/apps/changpeng-zhao-airdrop) | 2024-07-16 |
+| 269 | **Ordeez Airdrop** |  | [Bot](https://t.me/ordeezairdropbot) [Gram News](https://gramnews.org/apps/ordeez-airdrop) | 2024-05-27 |
+| 270 | **Music** | First music streaming service inside Telegram: read, chat, listen to music | [Telegram](https://t.me/tonmusiccommunity) [Bot](https://t.me/ton_music_bot) [X](https://x.com/ton_music_x) [Gram News](https://gramnews.org/apps/music) | 2021-11-09 |
+| 271 | **CELL Wallet** | Mine CELL Coin to your Telegram Wallet via . This is the official channel with all the… | [Telegram](https://t.me/cell_news) [Bot](https://t.me/cellcoin_bot) [X](https://x.com/kirillzzy) [Site](https://joinhuman.com/) [Gram News](https://gramnews.org/apps/cell-wallet) | 2024-04-26 |
+| 272 | **FARM CLICKER** |  | [Bot](https://t.me/clicker_farm_bot) [X](https://x.com/clickerfarm) [Site](https://clicker.farm) [GitHub](https://github.com/clickerspace) [Gram News](https://gramnews.org/apps/farm-clicker) | 2024-09-09 |
+| 273 | **EasyPeasyBot** | Earn lemons in telegram and exchange them for real money | [Bot](https://t.me/easypeasylemon_bot) [Gram News](https://gramnews.org/apps/easypeasybot) | 2024-06-06 |
+| 274 | **XYRO PORTAL** | XYRO PORTAL — a gamified crypto trading platform with game mechanics | [Telegram](https://t.me/xyro_io) [Bot](https://t.me/xyroportalbot) [X](https://x.com/xyro_io) [Site](https://xyro.io) [Gram News](https://gramnews.org/apps/xyro-portal) | 2023-11-02 |
+| 275 | **DuppiCOIN** |  | [Telegram](https://t.me/duppicommunity) [Bot](https://t.me/DuppiCoinUz_bot) [Site](https://blockcardweb.web.app/) [Gram News](https://gramnews.org/apps/duppicoin-fim19z) | 2024-06-15 |
+| 276 | **Mono Farm** |  | [X](https://x.com/Glow_Stories) [Gram News](https://gramnews.org/apps/mono-farm) | 2025-04-06 |
+| 277 | **Water Tap** | Pump water and earn coins, invest them in equipment and a team to build an empire! | [Bot](https://t.me/watertaps_bot) [Gram News](https://gramnews.org/apps/water-tap) | 2024-08-06 |
+| 278 | **tapNonce** | The official tapNonce announcements channel. Join to stay updated for the latest news… | [Telegram](https://t.me/tapNonce) [Bot](https://t.me/tapnonce_bot) [X](https://x.com/tapnonce) [Gram News](https://gramnews.org/apps/tapnonce) | 2024-08-04 |
+| 279 | **MissCharm Tap** |  | [Bot](https://t.me/miss_charm_bot) [Gram News](https://gramnews.org/apps/misscharm-tap) | 2022-10-30 |
+| 280 | **TON Walk App** | Telegram mini-app that lets you earn crypto by just... walking | [Telegram](https://t.me/tonwalk) [Bot](https://t.me/tonwalk_bot) [Site](https://tonwalk.com) [GitHub](https://github.com/tonwalk) [Gram News](https://gramnews.org/apps/ton-walk-app) | 2024-04-26 |
+| 281 | **TonBitcoin Mine-2-Earn** | Приложение майнер токена tBTC | [Telegram](https://t.me/ton4btc) [Bot](https://t.me/tBTCminer_bot) [X](https://x.com/_tbtc) [Gram News](https://gramnews.org/apps/tonbitcoin-mine-2-earn) | 2024-01-05 |
+| 282 | **SAVE Trump Tap** | Tap to earn rewards and support Donald Trump. Let's make America great again! | [Telegram](https://t.me/steamify) [Bot](https://t.me/savetrump_bot) [X](https://x.com/steamify_io) [Site](https://steamify.io/topup) [Gram News](https://gramnews.org/apps/save-trump-tap) | 2023-11-03 |
+| 283 | **SMOKE Airdrop** | $SMOKE is coming to solana! | [Telegram](https://t.me/smokesolana) [Bot](https://t.me/smokesolbot) [X](https://x.com/smoke_solana) [Gram News](https://gramnews.org/apps/smoke-airdrop) | 2024-07-23 |
+| 284 | **Sizu Network Game** | Sizu Network is an innovative cryptocurrency powered by blockchain technology | [Bot](https://t.me/sizucoin_bot) [Site](https://pyramida.app) [Gram News](https://gramnews.org/apps/sizu-network-game) | 2024-06 |
+| 285 | **SPLASH App** | Dive in & build SPLASH: the next #1 Telegram Mini-App to earn, mint & trade tokens | [Bot](https://t.me/splashapp_bot) [Gram News](https://gramnews.org/apps/splash-app) | 2024-09-06 |
+| 286 | **HABIT Farming** | HABIT Farming — app to earn rewards by interacting with an AI agent | [Telegram](https://t.me/habitnetwork) [Bot](https://t.me/habitnetwork_bot) [X](https://x.com/0xHabitNetwork) [Site](https://virtuals.io/) [Gram News](https://gramnews.org/apps/habit-farming) | 2024-02-21 |
+| 287 | **MrGem** | MrGem — a marketplace for in-game items and gift cards | [Telegram](https://t.me/mrgem_official) [Bot](https://t.me/mestergem_bot) [Site](https://mrgem.io/blog/) [Gram News](https://gramnews.org/apps/mrgem) | 2024-04-20 |
+| 288 | **Tonshi** | 寿司キャンプへようこそ — 素晴らしい一日は寿司から始まります。 | [Telegram](https://t.me/Tonshi_news) [Bot](https://t.me/officialtonshi_bot) [X](https://x.com/Tonshi_2024) [GitHub](https://github.com/TonShipCom) [Gram News](https://gramnews.org/apps/tonshi) | 2024-09-09 |
+| 289 | **Pixie** |  | [Telegram](https://t.me/pixiecm) [Bot](https://t.me/pixie_project_bot) [Gram News](https://gramnews.org/apps/pixie) | 2022-10-27 |
+| 290 | **PET TAP TAP** | ▶ Tap to catch cute pets, earn coins & $TAPET points! Join our community | [Bot](https://t.me/pettaptap_bot) [X](https://x.com/pet_tap_tap) [Site](https://pettaptap.com) [Gram News](https://gramnews.org/apps/pet-tap-tap) | 2024-08-21 |
+| 291 | **Crypto Millionaire Bot** | Play, Learn, and Earn with Crypto Millionaire! | [Telegram](https://t.me/cryptomillionairenews) [Bot](https://t.me/cryptomillionaireapp_bot) [Gram News](https://gramnews.org/apps/crypto-millionaire-bot) | 2024-06-10 |
+| 292 | **Lizarts World** | Adventure game with farming and roulette elements for lizards | [Telegram](https://t.me/lizartsworld) [Bot](https://t.me/lizartsworld_bot) [X](https://x.com/lizarts_nft) [Gram News](https://gramnews.org/apps/lizarts-world) | 2024-04-21 |
+| 293 | **Nistap fun and earn** | Play NisTap and earn tokens! Complete challenges, get daily rewards. Join our channel… | [Bot](https://t.me/nistap_bot) [Gram News](https://gramnews.org/apps/nistap-fun-and-earn) | 2024-06-07 |
+| 294 | **NASDUCK** | Start farming points now! | [Telegram](https://t.me/nasduck_official) [Bot](https://t.me/nasduck_official_bot) [Gram News](https://gramnews.org/apps/nasduck) | 2024-07-16 |
+| 295 | **Ancestral Land** | A tap-to-earn game with farming and NFTs | [Telegram](https://t.me/ancestralland) [Bot](https://t.me/ancestrallandbot) [X](https://x.com/Ancestral_Land) [Site](https://ancestral-landing.vercel.app) [Gram News](https://gramnews.org/apps/ancestral-land) | 2024-09-04 |
+| 296 | **Pixiland** | Pixiland — a farming game with strategy and racing elements | [Telegram](https://t.me/pixilandofficial) [Bot](https://t.me/pixiland_bot) [X](https://x.com/pixilandsocial) [Site](https://pixiland.app) [Gram News](https://gramnews.org/apps/pixiland) | 2024-10-11 |
+| 297 | **Gold Miner** |  | [Telegram](https://t.me/tongoldminerchat) [Bot](https://t.me/tongoldminer_bot) [X](https://x.com/tongoldminer) [Gram News](https://gramnews.org/apps/gold-miner) | 2024-07-11 |
+| 298 | **Cephei Bot** | Cephei is a CDP (Сollaterized Debt Position) protocol aiming to create sustainable… | [Telegram](https://t.me/cephei_fi) [Bot](https://t.me/cephei_fi_bot) [X](https://x.com/cephei_fi) [Gram News](https://gramnews.org/apps/cephei-bot) | 2024-04-21 |
+| 299 | **Neuron** |  | [Telegram](https://t.me/iamneuron) [Bot](https://t.me/iamneuron_bot) [Gram News](https://gramnews.org/apps/neuron) | 2024-07-24 |
+| 300 | **Save Question** | Every day, the number of tokens of all users decreases until the listing on January 1!… | [Bot](https://t.me/savequestion_bot) [Gram News](https://gramnews.org/apps/save-question) | 2024-07-02 |
+| 301 | **Tap Cat Bot** |  | [Telegram](https://t.me/cattapcoin) [Bot](https://t.me/app_tap_cat_bot) [X](https://x.com/CatTapCoin) [Gram News](https://gramnews.org/apps/tap-cat-bot) | 2024-07-08 |
+| 302 | **BAYC Miner** | #BAYCMiner is co-invested by BAYC#7537 and Btok | [Telegram](https://t.me/bayc_miner) [Bot](https://t.me/btokminerbot) [X](https://x.com/BaycCto) [GitHub](https://github.com/orgs/Fonates) [Gram News](https://gramnews.org/apps/bayc-miner) | 2024-06-11 |
+| 303 | **Alpha TON** | Alpha TON — a social clicker for earning | [Telegram](https://t.me/alphatongame) [Bot](https://t.me/alphatongame_bot) [X](https://x.com/AlphaTONCrypto) [Site](https://www.tiktok.com/@al) [Gram News](https://gramnews.org/apps/alpha-ton) | 2024-06-16 |
+| 304 | **LimeCoin** |  | [Bot](https://t.me/officiallimecoinbot) [Site](https://limecoin.notion.site/LimeCoin-e66eb3a9cd124102a7617d6d939851d6?pvs=4) [Gram News](https://gramnews.org/apps/limecoin) | 2024-03-04 |
+| 305 | **KISMI.APP** | KISMI.APP — a dice-rolling game mini app with winnable rewards | [X](https://x.com/kismiapp) Site (down) [Gram News](https://gramnews.org/apps/kismi-app) | 2026-05-24 |
+| 306 | **MOON TOKEN MINING** |  | [Telegram](https://t.me/MOONTOKENMINING) [Bot](https://t.me/moon_tokenmining_bot) [X](https://x.com/MOONTOKENMINING) [Site](https://github.com/VirtualsWorlds) [GitHub](https://github.com/VirtualsWorlds) [Gram News](https://gramnews.org/apps/moon-token-mining) | 2024-07-02 |
+| 307 | **Not Panda Bot** |  | [Bot](https://t.me/not_panda_bot) [Gram News](https://gramnews.org/apps/not-panda-bot) | 2024-06-13 |
+| 308 | **Buffy Drop** | Buffy’s debut meme airdrop, where your rewards rise with your spot in the bot lineup! | [Bot](https://t.me/buffydropbot) [X](https://x.com/BuffyDrop) [Gram News](https://gramnews.org/apps/buffy-drop) | 2024-09-10 |
+| 309 | **MoonDrops** |  | [Bot](https://t.me/moondropsggbot) [Gram News](https://gramnews.org/apps/moondrops) | 2023-07-20 |
+| 310 | **TON Start Earn XP** |  | [Bot](https://t.me/tonstartbot) [Gram News](https://gramnews.org/apps/ton-start-earn-xp) | 2021-08-17 |
+| 311 | **Ballz of Steel** |  | [Telegram](https://t.me/ballzgametg) [Bot](https://t.me/ballzofsteelbot) [X](https://x.com/theballzgame) [Site](https://chainaware.ai/) [Gram News](https://gramnews.org/apps/ballz-of-steel) | 2024-10-02 |
+| 312 | **ONUS Tap Tap Tap** | Perpetual DEX - up to 150× leverage. Effortless trading experience! | [Bot](https://t.me/onus_tap_tap_tap_bot) [X](https://x.com/ONUSFinance) [Gram News](https://gramnews.org/apps/onus-tap-tap-tap) | 2021-09-01 |
+| 313 | **TapTrend** | Earn with Every Tap, Start Tapping and Start Earning Today – Transform Simple Taps into… | [Bot](https://t.me/taptrendbot) [Gram News](https://gramnews.org/apps/taptrend) | 2024-09-13 |
+| 314 | **Gold Tap Tap** | Gold Tap Tap channel official | [Telegram](https://t.me/goldtaptap) [Bot](https://t.me/gold_tap_tap_bot) [X](https://x.com/goldtaptap) [Gram News](https://gramnews.org/apps/gold-tap-tap) | 2024-07-20 |
+| 315 | **Satoshi Game** | TON game – Watch. Mine. Repeat | [Telegram](https://t.me/satoshi_game_news) [Bot](https://t.me/satoshi_game_bot) [Gram News](https://gramnews.org/apps/satoshi-game) | 2024-12-31 |
+| 316 | **DFTap** | Join me in the DFTap adventure! | [Bot](https://t.me/dftap_bot) [Site](https://www.digifinex.com/) [Gram News](https://gramnews.org/apps/dftap) | 2024-08-09 |
+| 317 | **AAS TAP** | Afriq JM Arbitrage System (AAS) is a pioneering digital currency trading platform with a… | [Bot](https://t.me/aastap2earnbot) [Gram News](https://gramnews.org/apps/aas-tap) | 2025-05-19 |
+| 318 | **OptimusX** |  | [Telegram](https://t.me/optimusx_official) [Bot](https://t.me/Optimus_x_bot) [X](https://x.com/optimusx_bot) Site (down) [Gram News](https://gramnews.org/apps/optimusx) | 2024-11-01 |
+| 319 | **EasyWatch** |  | [Bot](https://t.me/eswatch_bot) [Gram News](https://gramnews.org/apps/easywatch) | 2024-04-04 |
+| 320 | **ELSE** | ELSE is an action-based marketing platform | [Bot](https://t.me/else_app_bot) [Gram News](https://gramnews.org/apps/else) | 2024-06-20 |
+| 321 | **Tonoreum PoW & PoL** | The Tonoreum project employs a unique combination of Proof of Link and Proof of Work… | [Telegram](https://t.me/Tonoreum) [Bot](https://t.me/Tonoreum_Bot) [X](https://x.com/tonoreum) [Site](https://tonoreum.com/) [Gram News](https://gramnews.org/apps/tonoreum-pow-pol) | 2024-05-07 |
+| 322 | **Tiger** |  | [Bot](https://t.me/tigernetwork_bot) [X](https://x.com/tigernetworkio) [Gram News](https://gramnews.org/apps/tiger) | 2024-04-21 |
+| 323 | **Qappi Miner** | Platform with various quests from cryptocurrency projects! | [Telegram](https://t.me/qappi) [Bot](https://t.me/qappiminerbot) [X](https://x.com/weatherxm) [Gram News](https://gramnews.org/apps/qappi-miner) | 2022-03-15 |
+| 324 | **Atleta TAP** | Explore the testnet of the new L1 blockchain, get XP and break new ground in the world… | [Telegram](https://t.me/atletatap) [Bot](https://t.me/atleta_tap_bot) [X](https://x.com/AtletaTAP) [Gram News](https://gramnews.org/apps/atleta-tap) | 2022-05-01 |
+| 325 | **Maybecoin** |  | [Bot](https://t.me/maybecoin_officialbot) [Site](https://alchemy.f2p.ms) [Gram News](https://gramnews.org/apps/maybecoin) | 2024-06-23 |
+| 326 | **Ape Farm** |  | [Bot](https://t.me/apefarm_bot) [Gram News](https://gramnews.org/apps/ape-farm) | 2024-08-08 |
+| 327 | **Official Satoshi Miner** | Crypto is complicated—we fixed that. Satoshi Network makes gaming & DeFi fun, strategic,… | [Bot](https://t.me/satoshiminer_hq_bot) [Gram News](https://gramnews.org/apps/official-satoshi-miner) | 2024-06-24 |
+| 328 | **Obix Power Tap** | Welcome to the Obix fam! Connect your account and start to earn | [Telegram](https://t.me/obixtoken) [Bot](https://t.me/obix_bot) [X](https://x.com/ObixToken) [Gram News](https://gramnews.org/apps/obix-power-tap) | 2024-06-09 |
+| 329 | **LumaCoin** | Eco-friendly crypto with fair, innovative mining to democratize digital wealth | [Telegram](https://t.me/lumacoin) [Bot](https://t.me/lumacoinbot) [X](https://x.com/lumacoin) [Site](https://lumacoin.org/) [Gram News](https://gramnews.org/apps/lumacoin) | 2024-03-14 |
+| 330 | **Earth Coin** | Participate in mining to easily obtain EC tokens and begin your journey of asset… | [Telegram](https://t.me/earthcoin_channel) [Bot](https://t.me/earthcoinapp_bot) [X](https://x.com/EarthNetworkio) [Gram News](https://gramnews.org/apps/earth-coin) | 2024-03-28 |
+| 331 | **Mine2Mine App** |  | [Telegram](https://t.me/mine2mine_news) [Bot](https://t.me/mine2mine_bot) [Gram News](https://gramnews.org/apps/mine2mine-app) | 2024-05-20 |
+| 332 | **TOM** |  | [Telegram](https://t.me/doges_ton) [Bot](https://t.me/theopenmeme_bot) [Gram News](https://gramnews.org/apps/tom-the-open-meme) | 2024-04-25 |
+| 333 | **Oxygen Miner** | Oxygen Miner: Survival in a futuristic shelter on an asteroid debris | [Telegram](https://t.me/oxygenminerchannel) [Bot](https://t.me/oxygenminerbot) [X](https://x.com/oxygen_miner) [Site](https://xp.network/) [GitHub](https://github.com/xp-network) [Gram News](https://gramnews.org/apps/oxygen-miner) | 2024-03-30 |
+| 334 | **TONIX App** |  | [Telegram](https://t.me/TonixDAO_bot) [Bot](https://t.me/tonix_mining_bot) [X](https://x.com/TonixDAO) [Site](https://tonix.app) [Gram News](https://gramnews.org/apps/tonix-app) | 2024-07-20 |
+| 335 | **Money Mining** |  | [Telegram](https://t.me/moneyminingplay) [Bot](https://t.me/money_mining_bot) [Gram News](https://gramnews.org/apps/money-mining) | 2024-04-26 |
+| 336 | **GoMint** | Get $5000 Coin . A brand new mining game you have never played before! Come and see… | [Bot](https://t.me/gomint_bot) [Gram News](https://gramnews.org/apps/gomint) | 2024-06 |
+| 337 | **Pulse Bot** | Pulse – a crypto wallet and rewards platform, discontinued 21 Aug 2026 | [Telegram](https://t.me/PulseSocialGlobal) [Bot](https://t.me/pulsesocial_bot) [X](https://x.com/PulseSocialFi) [Gram News](https://gramnews.org/apps/pulse-bot) | 2024-05-15 |
+| 338 | **Novas** |  | [Telegram](https://t.me/boxty_news) [Bot](https://t.me/xnovas_bot) [X](https://x.com/the_novasapp) [Gram News](https://gramnews.org/apps/novas) | 2024-05-11 |
+| 339 | **ZND Airdrop App** |  | [Bot](https://t.me/znd_airdrop_app_bot) [Gram News](https://gramnews.org/apps/znd-airdrop-app) | 2023-10-12 |
+| 340 | **Pikachu Tap** |  | [Bot](https://t.me/pikachu_tap_bot) [Gram News](https://gramnews.org/apps/pikachu-tap) | 2024-06 |
+| 341 | **Sunwaves Token** | Join the Sunwaves community and earn SW Tokens effortlessly with our blockchain-powered… | [Bot](https://t.me/sunwaves_token_bot) [X](https://x.com/sunwaves_token) [Gram News](https://gramnews.org/apps/sunwaves-token) | 2024-06-07 |
+| 342 | **Miner Kombat** | Join Miner Kombat! Mine treasures, earn real tokens, and become a legend of mining | [Telegram](https://t.me/miner_kombat) [Bot](https://t.me/miner_kombat_bot) [X](https://x.com/MinerKombat) [Gram News](https://gramnews.org/apps/miner-kombat) | 2024-07-02 |
+| 343 | **Ton Flash** |  | [Telegram](https://t.me/tonflash_channel) [Bot](https://t.me/tonflash_mine_bot) [Gram News](https://gramnews.org/apps/ton-flash) | 2024-09-16 |
+| 344 | **Tongems0x Bot** | Play top games, earn $TGX and referrals for free | [Bot](https://t.me/tongems0x_bot) [Gram News](https://gramnews.org/apps/tongems0x-bot) | 2024-07-22 |
+| 345 | **Timecoin** | Timecoin - mine your time | [Bot](https://t.me/timecoinbot) [X](https://x.com/Timecoin_mine) [Gram News](https://gramnews.org/apps/timecoin) | 2023-05-13 |
+| 346 | **MTK Clicker Mafia** | Meet MTK CLICKER MAFIA - clicker game of MetaToken project! Tap and earn $MTKBOSS | [Bot](https://t.me/mtkbossbot) [Site](https://www.metatoken.gg) [Gram News](https://gramnews.org/apps/mtk-clicker-mafia) | 2024-03-17 |
+| 347 | **TPIB Token** |  | [Telegram](https://t.me/PiBridgeChannel) [Bot](https://t.me/tpibtap_bot) [Site](https://Pibridge.org) [Gram News](https://gramnews.org/apps/tpib-token) | 2024-06-23 |
+| 348 | **Lamaz bot Play Earn** |  | [Telegram](https://t.me/lamaz_official) [Bot](https://t.me/cryptolamaz_bot) [Gram News](https://gramnews.org/apps/lamaz-bot-play-earn) | 2024-08-26 |
+| 349 | **Pulse AIRDROP** |  | [Bot](https://t.me/pulseairdropbot) [Gram News](https://gramnews.org/apps/pulse-airdrop) | 2024-07-16 |
+| 350 | **MemexZone** | Memex.Zone: Multiproject application combines mining, clicker, games and tasks with an… | [Bot](https://t.me/memexappbot) [X](https://x.com/MemexZone) Site (down) [Gram News](https://gramnews.org/apps/memexzone) | 2024-06-01 |
+| 351 | **CoinGEM Miner Game** | Official CoinGem.com Ecosystem Telegram Channel | [Telegram](https://t.me/coingem_com) [Bot](https://t.me/coinsgem_miner_bot) [X](https://x.com/coingem_com) [Site](https://CoinGem.com) [Gram News](https://gramnews.org/apps/coingem-miner-game) | 2022-10-29 |
+| 352 | **Frog Farm** | Join the first truly liquid telegram game. Farm points, complete tasks, invite friends… | [Telegram](https://t.me/frogfarmceo) [Bot](https://t.me/frogfarmbot) [Gram News](https://gramnews.org/apps/frog-farm) | 2024-04-04 |
+| 353 | **CharacterX** |  | [Bot](https://t.me/characterx_bot) Site (down) [GitHub](https://github.com/coin-unknown) [Gram News](https://gramnews.org/apps/characterx) | 2021-11-12 |
+| 354 | **GTon** | Turn your time to a financial tool | [Telegram](https://t.me/gtoncrypto) [Bot](https://t.me/gtonapp_bot) [Gram News](https://gramnews.org/apps/gton) | 2024-06-18 |
+| 355 | **Radiogram** | First “Listen & Earn” Telegram App. Earn Impulse by listening to music | [Bot](https://t.me/radiogrammbot) [X](https://x.com/radiogrambot) [Gram News](https://gramnews.org/apps/radiogram) | 2024-08-03 |
+| 356 | **AvanGifts** | Contest bot by . Join, pass the tasks to win prizes! | [Bot](https://t.me/avangifts_bot) [X](https://x.com/avanchange) [Site](https://avangifts.com/) [Gram News](https://gramnews.org/apps/avangifts) | 2024-08-08 |
+| 357 | **#HexMine** | Earn HEX, mine rewards, and grow your impact. Join the ecosystem! Support & Partnerships | [Bot](https://t.me/HexMine_bot) Site (down) [Gram News](https://gramnews.org/apps/hexmine) | 2025-02-26 |
+| 358 | **YN Promo app** | Watch videos, express your opinion. Participate in video battles. Earn coins on the fame… | [Bot](https://t.me/ynpromobot) [Gram News](https://gramnews.org/apps/yn-promo-app) | 2024-01-18 |
+| 359 | **Dust of the Moon Token Dispenser** |  | [Bot](https://t.me/dust_of_the_moon_bot) [Gram News](https://gramnews.org/apps/dust-of-the-moon-token-dispenser) | 2024-06 |
+| 360 | **GHOST** | Check your account and get rewards | [Bot](https://t.me/ghost_web3_bot) [Gram News](https://gramnews.org/apps/ghost) | 2024-08-05 |
+| 361 | **TonMoney Box** | Complete tasks and get TON | [Telegram](https://t.me/ton_moneybox) [Bot](https://t.me/tonmoneybox_bot) [Gram News](https://gramnews.org/apps/tonmoney-box) | 2024-02-19 |
+| 362 | **XNX Crypto Clicker** |  | [Bot](https://t.me/xnxcoin_bot) [Gram News](https://gramnews.org/apps/xnx-crypto-clicker) | 2024-05 |
+| 363 | **GobblUp** | Munch on $GOBBL tokens & join the biggest food revolution in Web3! Claim your Free… | [Bot](https://t.me/gobblupbot) [X](https://x.com/gmgobbl) [Gram News](https://gramnews.org/apps/gobblup) | 2021-11-05 |
+| 364 | **Alpha World** |  | [Telegram](https://t.me/alphaworldofficial) [Bot](https://t.me/thealphaworld_bot) [X](https://x.com/CryptoAlpha2025) [Gram News](https://gramnews.org/apps/alpha-world) | 2024-04-17 |
+| 365 | **BABYTON** | EARN FREE BABYTON TOKEN LISTING VERY SOON ON #TON CHAIN | [Bot](https://t.me/babytonmining_bot) [X](https://x.com/babiytonn) [Site](https://www.babyton.pro) [Gram News](https://gramnews.org/apps/babyton) | 2025-06-14 |
+| 366 | **GVWS** | GVWS is an app for giveaways! | [Telegram](https://t.me/tecteam) [Bot](https://t.me/gvws_bot) [X](https://x.com/tecteam_) [Gram News](https://gramnews.org/apps/gvws) | 2023-12-17 |
+| 367 | **Tea Farm** | P2E game where players grow, produce, and sell tea using TON blockchain | [Telegram](https://t.me/teafarmcoin) [Bot](https://t.me/teafarmtownbot) [X](https://x.com/teafarmtown) [Site](https://teafarmcoin.com/) [Gram News](https://gramnews.org/apps/tea-farm) | 2022-07-04 |
+| 368 | **Tap Goose Adventure** | Play, earn coins, invite friends | [Bot](https://t.me/tap_igoose_bot) [Gram News](https://gramnews.org/apps/tap-goose-adventure) | 2022-11-07 |
+| 369 | **Checkiton** | Start your adventure here | [Bot](https://t.me/checkitonbot) [Gram News](https://gramnews.org/apps/checkiton) | 2024-05-05 |
+| 370 | **SQUID TON** |  | [Telegram](https://t.me/ChannelPays) [X](https://x.com/squidton) [Gram News](https://gramnews.org/apps/squid-ton) | 2024-12-17 |
+| 371 | **ChallenQuizBot** | is a knowledge assessment competitive game on TON blockchain | [Telegram](https://t.me/challenquiz) [Bot](https://t.me/challenquizbot) Site (down) [Gram News](https://gramnews.org/apps/challenquizbot) | 2023-09-09 |
+| 372 | **The Caps** | Tolymarket - рынок прогнозов в Telegram | [Bot](https://t.me/the_caps_bot) [X](https://x.com/The_Caps_Game) [Gram News](https://gramnews.org/apps/the-caps) | 2024-04-30 |
+| 373 | **Vending Coin ($VNDG)** | Be a member of Vending Coin community | [Telegram](https://t.me/VNDG_COIN) [Bot](https://t.me/VNDG_COIN_BOT) [X](https://x.com/VNDG_COIN) [Site](https://vndg.world/) [Gram News](https://gramnews.org/apps/vending-coin-vndg) | 2024-12-28 |
+| 374 | **TonzCoin** |  | [Telegram](https://t.me/TonzCoin) [Bot](https://t.me/tonzcoin_bot) [X](https://x.com/tonzcoin) Site (down) [Gram News](https://gramnews.org/apps/tonzcoin) | 2022-11-22 |
+| 375 | **APO11O** |  | [Telegram](https://t.me/apo11ocomm) [Bot](https://t.me/apo11_bot) [Gram News](https://gramnews.org/apps/apo11o) | 2025-01-31 |
+| 376 | **RocketTON** | A play-to-earn game where you launch a rocket and must stop it before it crashes | [Telegram](https://t.me/rocketton_official) [Bot](https://t.me/getyourrocketbot) [X](https://x.com/RocketTONApp) [Site](https://rocketton.com) [Gram News](https://gramnews.org/apps/rocketton) | 2023-07-27 |
+| 377 | **Chain Bunny Inc.** | Chain Bunny Inc. — a game where you can earn cryptocurrency | [Telegram](https://t.me/ChainBunny) [Bot](https://t.me/ChainBunnyBot) [X](https://x.com/chainbunnyinc) [Site](https://chainbunny.site) [Gram News](https://gramnews.org/apps/chain-bunny-inc) | 2025-07-22 |
+| 378 | **Me Earn** | Farm $MEA token. Tap Tap to earn | [Bot](https://t.me/meearn_bot) [X](https://x.com/meearn_club) [Site](https://architecton.tech/) [Gram News](https://gramnews.org/apps/me-earn) | 2024-04-24 |
+| 379 | **Pulse** |  | [Bot](https://t.me/PulseToken_bot) [Gram News](https://gramnews.org/apps/pulse) | 2015-06-03 |
+| 380 | **#ApexHash** | #ApexHash is a real-time mining system built inside Telegram | [Telegram](https://t.me/apexhashcommunity) [Bot](https://t.me/apexhash_bot) | 2024-12 |
+| 381 | **$ANON Miner** | Mining mini app of the ANON club | [Bot](https://t.me/mineranonbot) | 2024-05-14 |
+| 382 | **$FIG FARM** | $FIG: Your Gateway to the Future of Web3! | [Telegram](https://t.me/fig_farming) [Bot](https://t.me/FigFarming_bot) [X](https://x.com/Figfarming) Site (down) | 2024-10 |
+| 383 | **$FNOT 13:12** | $FNOT 13:12 — a game where users can earn a fake token | [Bot](https://t.me/notcoin_core_stat_bot) [Site](https://app.ston.fi/pools/EQCZBmf0ijfNqZo09OkMty9Kz0xywgbqSe2ncM4xBnGXR8XI) [GitHub](https://github.com/ston-fi) [Gram News](https://gramnews.org/apps/fnot-13-12) | 2022-04-30 |
+| 384 | **$RETRO** | Join the adventure, mine $RETRO coins before they're all gone! | [Bot](https://t.me/joinretrocoinbot) [X](https://x.com/joinretrocoin) Site (down) | 2024-09 |
+| 385 | **$TCULT Plush Bot** | $TCULT Plush Bot is the official Telegram launch hub for four free games: Plush Tap,… | [Telegram](https://t.me/TCULT_GROUP) [Bot](https://t.me/TCultPlushBot) [X](https://x.com/TCULTonTON) [Site](https://www.tcult.site/#arcade) | 2026-05 |
+| 386 | **1xMM Market Master** | 1xMM is a fast-paced Telegram mini app trading game where you compete against others in… | [Telegram](https://t.me/onexmm_official) [Bot](https://t.me/OneXMM_bot) [X](https://x.com/onexmm_official) Site (down) | 2024-12 |
+| 387 | **2048 TON** | You can play 2048 TON directly on the Telegram app | [Telegram](https://t.me/T2EGAMENotice) [Bot](https://t.me/MergeNumberTONbot) [Site](https://telegramgame.net/) | 2024-10 |
+| 388 | **@appss** | is your go-to global catalog for discovering Telegram Mini Apps, Bots, and Channels | [Telegram](https://t.me/appss_channel) [Bot](https://t.me/appsshubbot) | 2026-10 |
+| 389 | **@push** | Secure crypto transfers on Telegram. By | [Bot](https://t.me/brilliantappbot) | 2026-10 |
+| 390 | **@tontribebot** | Become the tribe leader, where you'll raise legendary PET creatures to mine $TON and… | [Telegram](https://t.me/gametribeton) [X](https://x.com/tribetonapp) Site (down) | 2024-10 |
+| 391 | **@WheelOfWhalesBot** | Welcome to Wheel of Whales! | [Site](https://whale.io/?start=tonapp-review) | 2015-06-03 |
+| 392 | **ABT Miner** | Build your future with ABT ecosystem! | [Bot](https://t.me/aibetradecombot) [Site](https://durevpn.com/) [Gram News](https://gramnews.org/apps/abt-miner) | 2023-09-01 |
+| 393 | **AFKPepe Bot** | Start your adventure and earn your share of AFKPepe | [Bot](https://t.me/afkpepebot) [X](https://x.com/PepeAfk) Site (down) | 2024-06-23 |
+| 394 | **Age of Farm** | Farming game on TON | [Bot](https://t.me/aof_ton_bot) | 2024-06-11 |
+| 395 | **Age Of Gram** | Welcome to Age Of Gram! Build your kingdom, command legendary armies, conquer your… | [Bot](https://t.me/ageofgrambot) | 2026-09-24 |
+| 396 | **Agent AI Cash Airdrop** |  | [Bot](https://t.me/agentaicashairdropbot) | 2026-09-26 |
+| 397 | **Agro Farm** | Farming game bot on TON | [Bot](https://t.me/tonagrofarmbot) | 2025-11-28 |
+| 398 | **Airbot** | Hello World, I’m Airbot If you’re finding massive Airdrops to join or you’re a Newbie… | [Bot](https://t.me/AirbotCrypto_bot) [X](https://x.com/Airbot_x) Site (down) | 2024-11-20 |
+| 399 | **Airdrop Express** |  | [X](https://x.com/BRC20Chat) [Gram News](https://gramnews.org/apps/airdrop-express) | 2024-07 |
+| 400 | **AIxFlap** | Welcome to AIxFlap – The AIxBlock Telegram mini app Tap, Fly, Compete and Earn Rewards! | [Telegram](https://t.me/AIxFlap_Announcement) [Bot](https://t.me/AIxFlap_bot) [X](https://x.com/AIxBlock) [Site](https://aixblock.io) [GitHub](https://github.com/AIxBlock-2023/aixblock-ai-dev-platform-public) | 2025-01 |
+| 401 | **Almost A Hero** | Almost A Hero is probably one of the most addicting RPG clicker games you will find out… | [Telegram](https://t.me/BotGameyard) [Bot](https://t.me/Herotonbot) [X](https://x.com/Bot_Gameyard) | 2024-05-17 |
+| 402 | **Angry Miner** | Airdrop mini app for earning before the main event | [Bot](https://t.me/angryminerbot) | 2024-10-03 |
+| 403 | **ANTOWN** | ANTTIME is a Web3 project blending Game-Fi and Social-Fi to create a fair ecosystem… | [Telegram](https://t.me/ANTTIME_NET) [Bot](https://t.me/anttime_antown_bot) [X](https://x.com/ANTTIME_NET) [Site](https://anttime.net/) | 2025-03-06 |
+| 404 | **ANTS Colony** | ANTS is a TON-powered mining ecosystem where daily activity, hashrate growth, and… | [Bot](https://t.me/ants_miner_bot) [X](https://x.com/ants_coin_x) [Site](https://antss-six.vercel.app) | 2026-01 |
+| 405 | **Ask Coin** | Test your knowledge, answer questions, and earn $AskCoin! | [Telegram](https://t.me/askcoinchat) [Bot](https://t.me/AskCoin_bot) [X](https://x.com/theAskcoin) Site (down) | 2024-05 |
+| 406 | **AskTon** |  | [Gram News](https://gramnews.org/apps/askton) | 2020-08-13 |
+| 407 | **ASTREX** | ASTREX is a fast-paced space arcade game built for Telegram Mini Apps | [Telegram](https://t.me/astrex_game) [Bot](https://t.me/astrex_bot) [X](https://x.com/AstrexGame) Site (down) | 2024-10 |
+| 408 | **Athledium CEX Airdrop (Listed On Biconomy)** |  | [Telegram](https://t.me/athledium) [Bot](https://t.me/athlediumbiconomycexairdropbot) [Site](https://athledium.com/) | 2026-07-24 |
+| 409 | **Atomic Bux** | Earn USDT by completing tasks | [Bot](https://t.me/atomicbux_bot) | 2026-05-23 |
+| 410 | **AuraPet** | Welcome to AuraPet! | [Bot](https://t.me/AuraPetBot) [Site](https://aurapetgame.vercel.app/) | 2026-05 |
+| 411 | **Awaken Citizen** | Embark on a thrilling adventure where gaming meets rewards | [Bot](https://t.me/AwakenCitizenBot) [X](https://x.com/PlayAwakenHQ) Site (down) | 2024-11-25 |
+| 412 | **Bait Island** | Bait Island is a pixel art farming and fishing simulation game built on the TON Blockchain | [Bot](https://t.me/BaitIslandBot) [X](https://x.com/Bait_island_) [Site](https://bait-island.com/) | 2025-12 |
+| 413 | **Bankify** |  | [Bot](https://t.me/bankifyton_bot) | 2026-08-19 |
+| 414 | **BearDrop** | Introducing BearDrop - the exciting new way to earn free AIRDROPS Crystals! | [Telegram](https://t.me/TheBearDrop) [Bot](https://t.me/TheBearDropBot) [X](https://x.com/TheBearDrop) | 2024-07-15 |
+| 415 | **BeastGRAM PvP** | WELCOME: BeastGRAM PvP Mine & Forge! Be the KING of PvP, Conquer the mines, Dominate the… | [Bot](https://t.me/beastgrambot) | 2026-08-07 |
+| 416 | **BeeHive** | Welcome to BeeHive! Complete tasks, collect honey, and hire bees | [Bot](https://t.me/behives_bot) | 2025-12-18 |
+| 417 | **bemo The Raffle** |  | [Bot](https://t.me/bemo_raffle_bot) [Site](https://app.bemo.finance) [Gram News](https://gramnews.org/apps/bemo_raffle_bot) | 2023-06-01 |
+| 418 | **BetFury Cryptodrop** | $20’000’000 prize pool just for completing easy tasks in your favorite messenger -… | [Telegram](https://t.me/betfury_cryptodrop_chat) [Bot](https://t.me/betfury_social_bot) Site (down) | 2024-03-04 |
+| 419 | **Bit Energy** | Mining-based game earning tokens | [Bot](https://t.me/bit_energy_bot) | 2024-11-25 |
+| 420 | **BIT U MINE** | Bitcoin-like mining mini app with BTUM token | [Bot](https://t.me/bituminebot) | 2024-12-11 |
+| 421 | **Bitton** | Tap mini app giving BTN tokens | [Bot](https://t.me/bittonapp_bot) | 2024-03-21 |
+| 422 | **Block Labs** | Mini app for mining PoW tokens | [Bot](https://t.me/blocklab_bot) | 2024-11-27 |
+| 423 | **BlockHash** | Mining game mini app | [Bot](https://t.me/hashapp_bot) | 2024-09-07 |
+| 424 | **BOSS** | BOSSMBT Tap2Earn – Play and Earn Crypto Rewards | [X](https://x.com/bossmbtcoin) Site (down) | 2024-12 |
+| 425 | **Buinkers** | Buinkers is free to play parody minigame where players farm holy shitcoin token by… | [Telegram](https://t.me/buinkers) [Bot](https://t.me/buinkersbot) [X](https://x.com/buinkers) Site (down) | 2026-01-02 |
+| 426 | **Bums** | Support bot of the Bums game center | [Bot](https://t.me/bums_support_bot) | 2024-09-16 |
+| 427 | **ByteLords** | ByteLords is a tech-themed progression game where you build and upgrade a virtual… | [Telegram](https://t.me/ByteLordsChannel) [Bot](https://t.me/ByteLords_bot) [X](https://x.com/bytelords_game) [Site](https://play.ibtechsupport.com/ByteLords/index.php) | 2025-11 |
+| 428 | **CAPTCHA CASH** | Play and earn TON bot | [Bot](https://t.me/captcha_cash_off_bot) | 2025-10-20 |
+| 429 | **Cashbox** | Cashbox is a Web3 game where you, a chosen explorer, harness the golden touch to earn Ra… | [Telegram](https://t.me/CashboxCommunity) [Bot](https://t.me/CashboxGameBot) [X](https://x.com/CashboxAuth) [Site](https://www.cashbox.info/) | 2025-10-22 |
+| 430 | **CashCoin** | Clicker game that pays out rewards | [Bot](https://t.me/cashcoingame_bot) | 2024-04-21 |
+| 431 | **Catchain** | Daily CATCHAIN swaps, streaks, boxes & friend invites. Open the Mini App | [Telegram](https://t.me/catchaincto) [Bot](https://t.me/catchain_robot) | 2026-07-10 |
+| 432 | **Cats Mining** |  | [Bot](https://t.me/miningcatsbot) | 2026-06-26 |
+| 433 | **Cattie Miner** | Mine-to-earn mini app on Telegram | [Bot](https://t.me/cattie_miner_bot) | 2024-08-02 |
+| 434 | **CEDEX Tap** | Tap game earning CDXP tokens | [Bot](https://t.me/cedex_tap_bot) | 2024-05-21 |
+| 435 | **CerMiner** | Mining game bot of the Cerus project on TON | [Bot](https://t.me/cerminer_bot) | 2025-07-09 |
+| 436 | **Chaos War** | Chaos War is a fast-paced arcade game where you battle endless waves of enemies using… | [Telegram](https://t.me/chaoswargame_en) [Site](https://chaoswar.xyz) | 2024-10 |
+| 437 | **Chasing Jiggy** | Unlock wealth through Play Chasing Jiggy is an ultimate play-to-earn game for everyone! | [Telegram](https://t.me/chasingjiggycommunity) [Bot](https://t.me/ChasingJiggybot) [X](https://x.com/ChasingJiggy) | 2024-12 |
+| 438 | **Cheke Wallet** | Bot for earning TON from channel tasks | [Bot](https://t.me/chqe_bot) | 2026-05-27 |
+| 439 | **Chiсken farm** |  | [Telegram](https://t.me/chicken_farmb) [Bot](https://t.me/chicken_farmbot) | 2026-08-31 |
+| 440 | **CICADA** | Immerse yourself in the exciting world of Cicada - a unique Play-to-Earn game on the TON… | [Bot](https://t.me/cicadagame_bot) [X](https://x.com/Cicada_Swarm) [Site](https://cicadagame.fun/) | 2025-05-03 |
+| 441 | **Claimybot** | Bot for earning TIGER and partner tokens | [Bot](https://t.me/claimybot) | 2024-09-05 |
+| 442 | **Clean Sheets** | Clean Sheets is a hypercasual penalty shootout game where players can earn tokens by… | [Telegram](https://t.me/balliesuniverse) [Bot](https://t.me/BalliesUniverse_bot) [X](https://x.com/BalliesUniverse) [Site](https://cs.ballies.gg) | 2024-10 |
+| 443 | **COIN KERO** | Чат / Канал / Новости | [Telegram](https://t.me/coinkeronews) [Bot](https://t.me/coinkerobot) | 2026-08-16 |
+| 444 | **CombatX** | CombatX is a fun way to earn real money | [Telegram](https://t.me/combatxio) [Bot](https://t.me/combat_xbot) Site (down) | 2024-10 |
+| 445 | **Core-X** | Play and mine mini app on Telegram | [Bot](https://t.me/core_xbot) | 2025-05-30 |
+| 446 | **Crondom Idle Clicker** | Crondom Idle Clicker — the Telegram idle RPG built for the GRAM ecosystem | [Telegram](https://t.me/CrondomLabs) [Bot](https://t.me/CrondomIdleClickerBot) [X](https://x.com/CrondomLabs) [Site](https://crondom-clicker.vercel.app/landing.html) | 2026-05 |
+| 447 | **CrossFi Tap** |  | [Telegram](https://t.me/crossfitapnews) [Bot](https://t.me/xficonsolebot) [Site](https://test.xficonsole.com) [Gram News](https://gramnews.org/apps/crossfi-tap) | 2024-05-11 |
+| 448 | **Crown Village** | Turn your village into a thriving kingdom and earn passive income—all without leaving… | [Telegram](https://t.me/crownvillagenews) [Bot](https://t.me/crownvillage_bot) | 2026-08-02 |
+| 449 | **CrownMiner** | The mining game of the Crown ecosystem. Presale is live — gear up before launch. Mine,… | [Telegram](https://t.me/crownminernews) [Bot](https://t.me/crownminerbot) | 2026-08-31 |
+| 450 | **Crypto Masons** | Crypto Masons, a revolutionary Clicker game based on the famous cartoon "Take my… | [Telegram](https://t.me/cryptomasonsgame) [X](https://x.com/CryptoMasonGame) Site (down) | 2024-07-22 |
+| 451 | **CryptoCat** | This isn't just another tap-to-earn crypto game! | [Bot](https://t.me/CryptoCatGame_bot) [X](https://x.com/SimCat_io) [Site](https://cryptocat.io/) | 2025-10 |
+| 452 | **CYBASE Farm** | Farm bot of Cybase | [Bot](https://t.me/cyberbasefarm_bot) | 2024-04-21 |
+| 453 | **Daily GHS** | Free Daily GHS Directly To Your TON Wallet | [Bot](https://t.me/dailyghsbot) | 2026-07-07 |
+| 454 | **DataRush** | Mining project with real server infrastructure | [Bot](https://t.me/datarushbot) | 2024-09-07 |
+| 455 | **DefyTON** | AI-powered habit challenge platform. Deposit GRAM, verify with photos, get rewarded | [Bot](https://t.me/DefyTONBot) [X](https://x.com/DefyTON_app) [Site](https://defyton.com) [Gram News](https://gramnews.org/apps/defyton) | 2026-06-01 |
+| 456 | **DePIN Alliance** | DePIN earning mini app | [Bot](https://t.me/depin_alliance_bot) | 2024-09-13 |
+| 457 | **DiaTON** | Earn GRAM for completing simple tasks. Channel Group | [Telegram](https://t.me/diaton_news) [Bot](https://t.me/diaton_bot) | 2026-02-26 |
+| 458 | **Dig It Gold Game** | A Web3 play-to-earn mining game on TON where players collect ore and $NUGS, redeemable… | [Telegram](https://t.me/DigItGoldGame) [Bot](https://t.me/dig_it_game_bot) [X](https://x.com/DigItGoldGame) [Site](https://flashy.fun/digit/) | 2025-10-20 |
+| 459 | **DinoDash** | DinoDash is a Telegram-based dAPP where players nurture their Deeno by hatching their… | [Telegram](https://t.me/derivioannouncement) [Bot](https://t.me/DerivioBot) [X](https://x.com/derivio_xyz) [Site](https://derivio.xyz/) | 2024-10 |
+| 460 | **Ditto Quest** | Stack, Slay, and Thrive — Welcome to the Dittoverse | [Bot](https://t.me/the_ditto_bot) [X](https://x.com/dittocoin) [Site](https://team-ditto.notion.site/Ditto-Quest-21359184254f803e8fcbc1c4783cd579) [GitHub](https://github.com/Ditto-Labs) | 2024-09-27 |
+| 461 | **Dog Mutant** | Dog Mutant is an idle PvP game on TON Blockchain | [Telegram](https://t.me/DogMutantNews) [Bot](https://t.me/DogMutantBot) [X](https://x.com/dog_mutant) Site (down) | 2024-06-23 |
+| 462 | **Doge Miner** |  | [Telegram](https://t.me/dogeminernews) [Bot](https://t.me/dogeforge_bot) | 2026-06-12 |
+| 463 | **DoggieZen** | DoggieZen is a fun Telegram Mini App where you can play, complete missions, earn $DOGZ,… | [Telegram](https://t.me/doggiezen) [Bot](https://t.me/doggiezenbot) [X](https://x.com/DoggiezenFam) | 2026-09-02 |
+| 464 | **Dogs Mining** |  | [Telegram](https://t.me/dogsminingn) [Bot](https://t.me/miningdogs1bot) | 2026-07-05 |
+| 465 | **Dogs404** | Dogs404 is the TG mini app for merging virtual NFTs and this way mining $SHDG / $404… | [Telegram](https://t.me/ShoeDogannon) [Bot](https://t.me/Cube404Bot) | 2025-01 |
+| 466 | **Dragons Farm** | Imagine a world where dragons bring you gold, gnomes work for you, and magical crystals… | [Site](https://osnovakamen.ru) | 2024-12 |
+| 467 | **Drop2Drop** | Join daily drops of TON cryptocurrency! | [Bot](https://t.me/Drop2DropBot) | 2024-10-13 |
+| 468 | **DUCK** | Quests mini app earning real money | [Bot](https://t.me/duckcommunitybot) | 2024-11-17 |
+| 469 | **Dulce** | Candy mining bot that earns TON | [Bot](https://t.me/dulcecandybot) | 2026-05-08 |
+| 470 | **Durak on TON** | The most iconic card game is now available on TON! | [Bot](https://t.me/durakton_playbot) | 2024-11-02 |
+| 471 | **Dynabit App** | Dynabit Ecosystem is a cutting-edge Web 3 institute built on the TON blockchain | [Bot](https://t.me/dynabitbot) [Site](https://xp.network/) [GitHub](https://github.com/XP-NETWORK) [Gram News](https://gramnews.org/apps/dynabit-app) | 2024-08-31 |
+| 472 | **Earn** | Telegram Launchpools. Hold tokens and Earn. Supported by | [Bot](https://t.me/earnhqbot) | 2025-01-09 |
+| 473 | **Earnigram** | Earnigram is a reward-based Telegram mini app where users can earn crypto by completing… | [Bot](https://t.me/Earnigram_bot) [X](https://x.com/Earnigram) [Site](https://earnigram.com) | 2024-12 |
+| 474 | **Earnigram Prediction** | Step into the world of market forecasting with Earnigram Prediction! | [Telegram](https://t.me/earnigram_group) [X](https://x.com/earnigram) | 2026-01 |
+| 475 | **EasyCake** | DeFi tap mini app on Telegram | [Bot](https://t.me/easycaketapbot) | 2024-07-26 |
+| 476 | **eGold Mining** | eGOLD Mining is an exhilarating play-to-earn game, exclusively available on the Telegram… | [Telegram](https://t.me/egold_news) [Bot](https://t.me/eGOLD_Mining_Bot) [X](https://x.com/eGold_mine) | 2024-06 |
+| 477 | **eMule Army** | eMule Army is a Web3 crypto game on Telegram that lets you earn while playing | [Telegram](https://t.me/eMuleArmychat) [Bot](https://t.me/emulearmy_bot) [X](https://x.com/eMuleArmy) [Site](https://emulearmy.ai/) | 2024-10 |
+| 478 | **Enchant TON** | The iconic Enchant game is back, now supercharged with the TON blockchain platform! | [Telegram](https://t.me/T2EGAMENotice) [Bot](https://t.me/EnchantTONbot) [Site](https://telegramgame.net/) | 2024-10 |
+| 479 | **Etaku** | Etaku is centered around a simple gameplay and focus on collecting Anime characters | [Telegram](https://t.me/EtakuANN) [Bot](https://t.me/etakubot) [X](https://x.com/EtakuAI) [Site](https://etaku.ai/) | 2024-10-06 |
+| 480 | **Eva Quiz** | Eva is a thrilling quiz game built on Telegram mini app, offering players the chance to… | [Telegram](https://t.me/InFancy_AI) [Bot](https://t.me/InFancyAI_Bot) [X](https://x.com/Infancy_ai) | 2024-05 |
+| 481 | **EXOUSDT Farming Bot APP** |  | [Bot](https://t.me/exotapapp_bot) [Gram News](https://gramnews.org/apps/exousdt-farming-bot-app) | 2024-07-31 |
+| 482 | **FarmGram** |  | [Bot](https://t.me/farmgramsbot) | 2026-06-28 |
+| 483 | **Farmizen** | Farming game on TON integrated with DeDust | [Telegram](https://t.me/farmizen) | 2024-07-11 |
+| 484 | **Feline Dynasty** | Feline Dynasty is an idle Play-to-Earn ecosystem built as a Telegram Mini App on the TON… | [Telegram](https://t.me/FelineDynastyOfficial) [Bot](https://t.me/FelineDynastyBot) [X](https://x.com/felinedynastyof) [Site](https://felinedynasty.com/) [GitHub](https://github.com/deficapital81/tma-game-template) | 2026-05 |
+| 485 | **FlopTurn** | FlopTurn brings you a fast and easy poker experience, perfect for beginners! | [Telegram](https://t.me/chainpokerofficial) [X](https://x.com/ChainPokerio) | 2024-09 |
+| 486 | **Flowers Garden** | Welcome to Flowers Garden! | [Bot](https://t.me/flowers_game_bot) | 2025-10-11 |
+| 487 | **FluxMining** | Mining game with FLX token on TON | [Bot](https://t.me/flux_mining_bot) | 2026-03-27 |
+| 488 | **FortuneHusky** | Welcome to Husrich – The most exciting GameFi on TON! | [Telegram](https://t.me/FortuneHusky) [X](https://x.com/Fortune_Husky) Site (down) | 2024-09 |
+| 489 | **FoxiTask** | Earn rewards by completing tasks, and enjoy all of this. Post a task | [Bot](https://t.me/foxitaskbot) | 2026-07-13 |
+| 490 | **Fruitfy** |  | [Bot](https://t.me/fruitfyton_bot) | 2026-06-29 |
+| 491 | **GDrop** | App paying USDT and GRAM for ads and games | [Bot](https://t.me/gdropappbot) | 2026-08-16 |
+| 492 | **Gem Farming** |  | [Bot](https://t.me/Gem_Farming_Bot) [X](https://x.com/gem_farming) | 2025-01 |
+| 493 | **GemsWall** | Rewards bot and announcements for Telegram tasks | [Bot](https://t.me/gleamrewardsbot) | 2024-04-16 |
+| 494 | **Gemwall** | Swipe Mystery card and earn daily rewards Collect and trade cards of top crypto projects… | [Bot](https://t.me/Gemwall_Bot) [X](https://x.com/gemwall_app) Site (down) | 2024-10 |
+| 495 | **Giga Hash** | Turn Energy into GHS | [Bot](https://t.me/giga_hash_ghs_bot) | 2026-06-06 |
+| 496 | **Giraffe Kombat** | Introducing a New Income-Generating Project on Telegram! | [Bot](https://t.me/GiraffeKombatbot) Site (down) | 2024-12-08 |
+| 497 | **Go!** | Go! is an agentic operating system for automatic income | [Bot](https://t.me/thegoprojectbot) [Site](https://gosmartchain.ai) [Gram News](https://gramnews.org/apps/go) | 2024-06-05 |
+| 498 | **Go! App** | Welcome to the All-New Go! | [Telegram](https://t.me/gorwachain) [X](https://x.com/gorwachain) [Site](https://www.gosmartchain.ai/) | 2023-09 |
+| 499 | **GoalChain** | GoalChain is a football manager built for Telegram | [Telegram](https://t.me/goalchain) [Bot](https://t.me/goalchainbot) [X](https://x.com/goalchaingame) | 2026-09-05 |
+| 500 | **GochiFi** | Тапай, копи монеты, жди дроп. Или прокачай питомца за GRAM и получай $USDT уже сейчас | [Bot](https://t.me/gochifibot) | 2026-08-19 |
+| 501 | **Gold Age** | Gold Age is a user-driven economic strategy game built around land ownership, resource… | [Telegram](https://t.me/goldagechat) [Bot](https://t.me/goldageio_bot) [X](https://x.com/GoldAgeGame) [Site](https://goldage.io/) | 2026-01-15 |
+| 502 | **Gold Bux** | Users can complete tasks to generate passive income, and tasks can be created directly… | [Telegram](https://t.me/gold_bux) [Bot](https://t.me/GBux_Bot) [X](https://x.com/gold_bux5) | 2026-04 |
+| 503 | **Gold Striker** | Welcome to Gold Striker! | [Telegram](https://t.me/LINEUP_games) [Bot](https://t.me/gold_striker_bot) [X](https://x.com/LINEUP_games) [Site](https://www.lineupgames.io/) | 2025-05-13 |
+| 504 | **GOLD Workers** |  | [Bot](https://t.me/gold_workers_bot) | 2026-09-29 |
+| 505 | **GoMining** |  | [Telegram](https://t.me/gomining) [X](https://x.com/Gomining_token) [Site](https://gomining.com) [Gram News](https://gramnews.org/apps/gomining) | 2024-06 |
+| 506 | **Gram Farm** |  | [Bot](https://t.me/gramfarmingapp_bot) | 2026-07-25 |
+| 507 | **GRAM tasks** | Earn GRAM with GRAM Tasks | [Bot](https://t.me/ton_tasks_robot) | 2026-08-05 |
+| 508 | **GRAM.ZONE** | Welcome to GramZone! Earn Gram, have fun & win bonuses! Ready? Join now! Official | [Telegram](https://t.me/gramzone_official) [Bot](https://t.me/gram_zonebot) | 2025-01-14 |
+| 509 | **GramMiner** | Mine Gram & earn rewards daily! | [Bot](https://t.me/gramminer1_bot) | 2026-08-03 |
+| 510 | **GramX** | Помощь - Регламент на вывод 48 часов | [Telegram](https://t.me/gram_x_x) [Bot](https://t.me/gramx_x_bot) | 2026-07-29 |
+| 511 | **GRAND COMBAT** | Unleash Your Inner Tycoon in Grand Combat! | [X](https://x.com/grand_combat) Site (down) | 2024-06 |
+| 512 | **Grand Journey** | Prepare for an epic adventure in "Grand Journey"! | [Telegram](https://t.me/Channel_GrandJourney) [Bot](https://t.me/grandjourneybot) [X](https://x.com/journeygrand) Site (down) | 2024-08-31 |
+| 513 | **Greens** | Greens is the first virtual agriculture ecosystem, part of which has been designed like… | [X](https://x.com/greensfinance) [Site](https://www.greensfi.com/) | 2022-02-19 |
+| 514 | **GrGrDino** | GrGrDino is a game in which you control Dino | [Telegram](https://t.me/ettoonn) [Bot](https://t.me/GrGrGame_bot) [Site](https://getgems.io/collection/EQAJPR7nXdMn_-nBwTcNRR7mqPv6j9w-mMiLzN9j0iNGjctS) | 2024-06 |
+| 515 | **Gumcoin** | The bot lets you farm coins, track your balance, and be part of the community | [Telegram](https://t.me/gumcoin) [Bot](https://t.me/gumcoinBot) [Site](https://gumcoin.org) | 2025-09 |
+| 516 | **Happy Farm** |  | [Bot](https://t.me/happyfarmgrambot) | 2026-08-07 |
+| 517 | **Hash mining game** | Mining-style mini app game on TON | [Bot](https://t.me/megahashtonbot) | 2025-10-02 |
+| 518 | **HashSeeker** | Free mining mini app | [Bot](https://t.me/hashseekerbot) | 2024-09-07 |
+| 519 | **Hattori game** | The official Hattori App game where you can play and earn! | [Bot](https://t.me/hattoribot) | 2025-05-08 |
+| 520 | **Hempton** | Hempton isn’t just a game — it’s your underground empire | [Telegram](https://t.me/Hempton_CIS) [Bot](https://t.me/hempton_bot) [X](https://x.com/HemptonFarm) [Site](https://hempton.farm) | 2024-12 |
+| 521 | **Hempton Farm** | Hampton is a game for fun only! There are no instructions and call to action. Contact | [Bot](https://t.me/hempton_bot) | 2025-01-07 |
+| 522 | **Hero Guild** | Hero Guild is a platform that allows you to earn cryptocurrency by playing your favorite… | [X](https://x.com/HeroGuildApp) Site (down) | 2024-09 |
+| 523 | **Hexos** | Community quests and play-to-earn bot on TON | [Bot](https://t.me/xw3_quest_bot) | 2024-12-12 |
+| 524 | **Honey Ants** | Grow your ant colony, collect honey, earn GRAM and withdraw in TON. Payout proofs | [Telegram](https://t.me/honeyantspayout) [Bot](https://t.me/honeyantsbot) | 2026-09-29 |
+| 525 | **Hydroponic Game** | HydroFarm is a hydroponic farming game built for Telegram | [Telegram](https://t.me/hydroponicgame) [Bot](https://t.me/Hydrogame_bot) [Site](https://www.hydroponicgame.com/) | 2026-03 |
+| 526 | **IEM Hash** | IEM Hash — TON mining app with token rewards | [Bot](https://t.me/IEMHash_bot) [X](https://x.com/IEMHash) [Site](https://www.iemhash.com) [Gram News](https://gramnews.org/apps/tgbtc) | 2025-03-28 |
+| 527 | **iMiner** | Mining-style app on Telegram with IMR coins | [Bot](https://t.me/iminer_bot) | 2025-06-10 |
+| 528 | **IQcoin** | IQCOIN is a space for developing and strengthening your mind | [Telegram](https://t.me/IQCOIN_Smart_Community) [Bot](https://t.me/IQcoinApp_Bot) [X](https://x.com/IQCOIN_IQS) | 2025-12 |
+| 529 | **JackKegs** | Farming game Jack Kegs coin | [Telegram](https://t.me/jackkegscoin) [Bot](https://t.me/jackkegsbot) | 2025-11-21 |
+| 530 | **JAM** | Daily mining mini app in Telegram | [Bot](https://t.me/justanotherminerbot) | 2025-11-21 |
+| 531 | **JBTClabs Pre TGE Airdrop (Listing On Top CEX)** |  | [Bot](https://t.me/jbtclabscexlistingairdropbot) | 2026-08-04 |
+| 532 | **JetPunk** | Farm JETTON in Telegram mini app | [Bot](https://t.me/jetpunkapp_bot) | 2026-01-01 |
+| 533 | **KingCoin** |  | [Bot](https://t.me/KingCoin_ebot) [X](https://x.com/King_Coin_X) Site (down) | 2024-08 |
+| 534 | **Klikado** | Mini app for earning by tasks and ads | [Bot](https://t.me/klikadobot) | 2026-02-22 |
+| 535 | **KYRZA FARM** | Фарми монеты на стримах KYRZA и меняй их на призы | [Bot](https://t.me/kyrza_farm_bot) | 2026-07-30 |
+| 536 | **Level Legends** | Dive into fast-paced battles, epic boss fights, and endless progression | [Bot](https://t.me/level_legends_bot) [X](https://x.com/tg_levellegends) | 2026-01 |
+| 537 | **Liberty Dog** | Liberty Dog is a community dedicated to digital freedom | [Bot](https://t.me/lido_appbot) [X](https://x.com/lidotoken) [Site](https://lido-app.fun/) | 2025-07 |
+| 538 | **LLL Lossless Lottery** | LLL pre-launch game lets users earn chips, spin, and compete on the leaderboard before… | [Telegram](https://t.me/lll_space) [Bot](https://t.me/lll_space_bot) [X](https://x.com/lll_space_en) [Site](https://lll.space) [GitHub](https://github.com/lll-space) | 2025-09 |
+| 539 | **Lode Hunter** |  | [Telegram](https://t.me/lodehunter) [Bot](https://t.me/lodehunter_bot) | 2026-07-10 |
+| 540 | **Lootify** |  | [Telegram](https://t.me/lootifychannel) [Bot](https://t.me/lootifyton_bot) | 2026-06-09 |
+| 541 | **Loton** | Mini app for hourly pools where users activate positions and earn pool shares | [Bot](https://t.me/lotonapp_bot) | 2026-03-16 |
+| 542 | **Lucky Rooms** | Rocket up your lucky to the moon and earn some coins! | [Telegram](https://t.me/luckyroomsofficial) [Bot](https://t.me/luckyroomsbot) [X](https://x.com/lucky_rooms) [Site](https://luckyrooms.io) | 2024-10-29 |
+| 543 | **LuckyHub** | Open the lucky box to win $USD, $TON and upcoming $Lucky drop with LuckyHub Now! | [Telegram](https://t.me/luckyhubcash) [Bot](https://t.me/LuckyHubCashBot) | 2024-11-15 |
+| 544 | **LuckyMoney** | LuckyMoney is a social & gaming platform where you can claim USDT and airdrop | [Bot](https://t.me/LuckyMoney_release_bot) [X](https://x.com/0xluckymoney) [Site](https://luckymoneys.net/) | 2024-09 |
+| 545 | **LumCity** | Mini app for managing a miner and joining daily airdrops | [Bot](https://t.me/lumcity_bot) | 2024-05-06 |
+| 546 | **mAInet** | AI mining game in Telegram | [Bot](https://t.me/mainetbot) [X](https://x.com/MaiNet_io) [Site](https://mainet-game.gitbook.io/mainet-whitepaper) | 2024-04-16 |
+| 547 | **MallDriven Game** | MallDriven is a gamified business simulator inside Telegram where players can start and… | [Telegram](https://t.me/MallDriven) [Bot](https://t.me/MallDrivenBot) [X](https://x.com/MallDriven) Site (down) | 2025-01 |
+| 548 | **Mars2049** | MARS2049 is a strategy RPG that drops you on the frontlines of Mars colonization | [Telegram](https://t.me/mars2049channel) [Bot](https://t.me/Mars2049_Bot) [X](https://x.com/mars2049online) [Site](https://www.mars2049.online/) | 2024-10 |
+| 549 | **Me Earn** | Be a hardworking bee to earn $MEA | [Bot](https://t.me/meearn_bot) [X](https://x.com/meearn_club) Site (down) | 2024-05 |
+| 550 | **Mech3** | Mech3 is a Match-3 puzzle game powered by Mixie AI | [Telegram](https://t.me/mech3game) [Bot](https://t.me/MechArcadebot) [X](https://x.com/Mechnft) [Site](https://mech.mixie.ai/) | 2024-10 |
+| 551 | **Mechaversus** | Mechaversus Marketing App is your gateway to exclusive rewards and engagement! | [Telegram](https://t.me/Mechaversus) [Bot](https://t.me/mechaversus_bot) [X](https://x.com/Mechaversusgame) [Site](https://mechaversus.co/) | 2024-10 |
+| 552 | **Megahash** | Cloud mining bot in Telegram | [Bot](https://t.me/mega_hash_bot) | 2024-12-05 |
+| 553 | **Megamine** | Proof-of-work style mining game on Telegram | [Bot](https://t.me/megaminetg_bot) | 2025-01-31 |
+| 554 | **Member Rewards Bot** | Earn TON for Telegram tasks or boost your channel with real engagement | [Telegram](https://t.me/memberrewards) [Bot](https://t.me/memberrewardsbot) | 2026-02-17 |
+| 555 | **MEMEOW** | Dive into the depths and mine MEMEOW coins, enhance your cat's abilities, and purchase… | [Bot](https://t.me/memeow_io_bot) [X](https://x.com/MEMEOW_IO) Site (down) | 2024-06-23 |
+| 556 | **MeshChain** | Airdrop task bot of MeshChain | [Bot](https://t.me/meshchain_bot) | 2024-12-17 |
+| 557 | **Minegram** | A Minecraft-inspired 2D world inside Telegram | [Telegram](https://t.me/minegram_game) [Bot](https://t.me/minegram_game_bot) | 2026-03-02 |
+| 558 | **MineGram** | Mine HASHES, stack POWER, and turn your mining progress into GRAM | [Bot](https://t.me/minegramtonbot) | 2026-06-19 |
+| 559 | **Miner** | MINER token mining bot | [Bot](https://t.me/minersquad_bot) | 2024-12-02 |
+| 560 | **Miner Rush** | Miner Rush is a unique project that combines mining and gaming mechanics | [Telegram](https://t.me/miner_rush) [Bot](https://t.me/MinerRush_bot) [X](https://x.com/rush_miner) Site (down) | 2024-12 |
+| 561 | **Miner TAC** |  | [Bot](https://t.me/minertacbot) | 2026-08-13 |
+| 562 | **MinerGram** | Telegram app for renting mining power and earning TON | [Bot](https://t.me/minergramofficial_bot) | 2026-06-21 |
+| 563 | **MiniSpot Miner** | Welcome to MiniSpot Miner! | [Telegram](https://t.me/minispot_app_bot) [Bot](https://t.me/minispot_helper_bot) | 2026-05 |
+| 564 | **Money Nova** |  | [Bot](https://t.me/moneynovaearn_bot) | 2026-07-05 |
+| 565 | **MoneyFarm** | Bot for earning Stars and TON via simple tasks | [Bot](https://t.me/farmmoneyyy_bot) | 2026-04-21 |
+| 566 | **Monkey Play** | MonkeyPlay is a mini-game platform that runs inside Telegram | [Bot](https://t.me/monkey_play_bot) [X](https://x.com/MonkeyPlayToken) Site (down) | 2025-10 |
+| 567 | **Moon Hash** | Mining game bot on Telegram | [Bot](https://t.me/moonhashmine_bot) | 2025-03-07 |
+| 568 | **moonpacket** | moonpacket — sending token red packets in Telegram | [Telegram](https://t.me/moonpacketchat) [Bot](https://t.me/moonpacket_bot) [X](https://x.com/mooniniofficial) [Site](https://moonpacket.com) [Gram News](https://gramnews.org/apps/moonpacket) | 2025-10-28 |
+| 569 | **MoonTap** | MoonTap is a new play-to-earn clicker game inside Telegram, built on the TON blockchain | [Telegram](https://t.me/MoonTapCommunity) | 2025-06 |
+| 570 | **Mr. MeMe Airdrop** | Earn real money by playing right on Telegram with Mr | [Telegram](https://t.me/mrmeme) [Bot](https://t.me/mrmeme_airdrop_bot) [X](https://x.com/mrmeme_fun) [Site](https://mrmeme.fun) | 2024-11-13 |
+| 571 | **Mushroom Warrior** | Mushroom Warrior is a play to earn Web3 game | [Telegram](https://t.me/notmushcoin) [Bot](https://t.me/NotMushCoin_bot) [X](https://x.com/notmushcoin) Site (down) | 2024-09 |
+| 572 | **MusiKhan** | Tune-to-earn music mini app | [Bot](https://t.me/musikhan_bot) | 2025-07-22 |
+| 573 | **mylegton** | Just a degen token on #TON | [Bot](https://t.me/mylegonton_bot) [Gram News](https://gramnews.org/apps/mylegton) | 2025-04-06 |
+| 574 | **Mystic Forge** | Combine elements in the forge to create artifacts | [Bot](https://t.me/mysticforgebot) [X](https://x.com/MysticForgeGame) [Site](https://mysticforgegame.com) | 2025-08 |
+| 575 | **NEO-TOKYO: 2099** | NEO-TOKYO: PROTOCOL 2099 The megacity fell | [Telegram](https://t.me/ntp2099) [Bot](https://t.me/protocol2099_bot) [X](https://x.com/JRK_studio) [Site](https://play.protocol2099.workers.dev/go/) | 2026-05 |
+| 576 | **NeoHash** | Mining game in Telegram | [Bot](https://t.me/neohash_bot) | 2024-09-07 |
+| 577 | **NeuroTON** | AI-нейроны зарабатывают для тебя 24/7 — пассивный доход, задания, рефералка, вывод в… | [Bot](https://t.me/neurotonx_bot) | 2026-07-21 |
+| 578 | **NEXO STARS** | Фарми Stars в Telegram! Выполняй простые задания, приглашай друзей и получай Stars | [Telegram](https://t.me/nexostarsfarm) [Bot](https://t.me/nexo_stars_bot) | 2026-09-17 |
+| 579 | **Nexus Coin** | Nexus Coin is a high-performance Tap-to-Earn mini-app integrated with the TON blockchain | [Telegram](https://t.me/NexusCoinSohbet) [Bot](https://t.me/nexuscoinofficial_bot) [Site](https://cyber-nexus.replit.app) | 2025-12 |
+| 580 | **NGB App** | Task mini app with experience and tickets | [Bot](https://t.me/ngb_app_bot) | 2025-12-18 |
+| 581 | **Nifty Nerds Network** | Nifty Nerds Network(NNN) is a Web3 gaming launchpad built on top of Telegram and TON… | [Telegram](https://t.me/niftynerdsnetwork) [Bot](https://t.me/niftynerds_bot) [X](https://x.com/niftynerds) [Site](https://niftynerdsnetwork.com/) | 2024-08-12 |
+| 582 | **NOTBUX** | Task bot paying TON for simple tasks | [Bot](https://t.me/notbux_bot) | 2026-02-02 |
+| 583 | **Novrinex Airdrop** |  | [Bot](https://t.me/novrinexairdropbot) | 2026-08-15 |
+| 584 | **ONE USDT** | One Usdt is the Official Telegram Rewarding Mini App Powered by One Dropz | [Bot](https://t.me/oneusdtappbot) | 2026-07-25 |
+| 585 | **OrbitFall** | OrbitFall is a Strategic Mini-App (TON/Ronin) officially approved by the Telegram Apps… | [Telegram](https://t.me/OrbitfallNews) [Bot](https://t.me/OrbitFallBot) [X](https://x.com/OrbitfallNFT) [Site](https://www.orbitfall.online/wiki) | 2025-09 |
+| 586 | **OrixBNB Pre TGE Airdrop (Backed By BNBChain)** |  | [Telegram](https://t.me/bnbchain) [Bot](https://t.me/orixbnbofficialpretgeairdropbot) [Site](https://dappbay.bnbchain.org/detail/orix) | 2026-07-01 |
+| 587 | **Oxygen Hunters** | The first Chia token to be traded on a centralized exchange! | [X](https://x.com/Oxygen_Hunters) Site (down) | 2024-10 |
+| 588 | **PawPower** | Farm and trade bot for the PPWR token | [Bot](https://t.me/pawpower_bot) | 2025-03-23 |
+| 589 | **PEHE Kingdom** | Test your luck with PEHE spin to win TON,USDT FOR FREE, and boost your rewards with tap,… | [X](https://x.com/pehekingdom) Site (down) | 2024-07 |
+| 590 | **Pepe Meme** | Pepe Meme by Evo Frogs Airdrop! 1000x gains are coming! Earn tokens and epic rewards! | [Telegram](https://t.me/pepememecommunity) [Bot](https://t.me/raccooncoinbot) | 2026-10 |
+| 591 | **Piggy Tap** | Play PiggyTap! Dive into casual style fun: Smash piggy banks, collect coins, and chase… | [Telegram](https://t.me/PiggyTapNews) [Bot](https://t.me/piggytapofficial_bot) [X](https://x.com/PiggyTap) [Gram News](https://gramnews.org/apps/piggy-tap) | 2024-09-10 |
+| 592 | **PinEye** | Tap-to-earn coin game in Telegram | [Bot](https://t.me/pineye_bot) | 2024-09-03 |
+| 593 | **Pixel Aquarium** |  | [Bot](https://t.me/pixelaquariumbot) | 2026-07-17 |
+| 594 | **Pixel Hunter** | Pixel Hunter is a Telegram Mini App and idle Action RPG built on the TON ecosystem | [Telegram](https://t.me/pixelhuntergames_offical) [Bot](https://t.me/PixelHuntergame_bot) [X](https://x.com/pixelhunterlab) [Site](https://www.pixelhunter.app) | 2026-05 |
+| 595 | **Pixelpond** | Cast, catch, earn. Pixel Pond — the fishing GameFi where your catch becomes real GRAM/USDT | [Telegram](https://t.me/pixelpondofficial) [Bot](https://t.me/pixelpond_bot) | 2026-08-19 |
+| 596 | **PlantTON** | Farming game for earning TON | [Bot](https://t.me/aakq_bot) | 2025-12-03 |
+| 597 | **Play Corn Battles** | Play Corn Battles and earn with Corn Heroes Official channel Official site www.corn.io | [Bot](https://t.me/cornbattlesbot) | 2024-07-13 |
+| 598 | **Pocket Waifu** | $WIFE is the #1 waifu meme coin, bringing you closer to your favorite waifus in ways… | [Bot](https://t.me/pocketwaifu_bot) [X](https://x.com/PocketWaifuGame) [Site](https://pocketwaifu.io/) | 2024-10-02 |
+| 599 | **Pokergang** | Simple tasks, high rewards Mine tokens that can be redeemed for platform earnings, and… | [Telegram](https://t.me/chainpokerofficial) [Bot](https://t.me/Pokergang_bot) [X](https://x.com/ChainPokerio) [Site](https://chaingame.pro) | 2024-10 |
+| 600 | **Pokergram** | Jump into games with a single tap, no app stores or extra sign-ups needed | [Telegram](https://t.me/Pokergramnews) [Bot](https://t.me/PokergramComBot) [X](https://x.com/PokergramCom) Site (down) | 2025-12-09 |
+| 601 | **Polyfarm** | Join us and earn crypto easily with Polyway Farm Bot | [Telegram](https://t.me/polyway_app) [X](https://x.com/polyway_app) [Site](https://polyway.investments) | 2024-06 |
+| 602 | **Probablycoin** | Get ready to tap into a world of endless possibilities with Probably! | [Telegram](https://t.me/pcoin) [Bot](https://t.me/Probablycoinbot) [X](https://x.com/probablycoin) | 2024-06-08 |
+| 603 | **PROJECTFADE** | PROJECTFADE is a peer-to-peer prediction platform inside Telegram | [Telegram](https://t.me/projectfade) [Bot](https://t.me/projectfade_bot) [Site](https://projectfade.ru) | 2026-06-16 |
+| 604 | **Puffs Dragon** | PuffsDragon is a blockchain-based gaming project built on the TON network, offering… | [Telegram](https://t.me/PuffsAnn) [Bot](https://t.me/PuffsAppBot) [X](https://x.com/puffs_ton) Site (down) [GitHub](https://github.com/puffsdragon/PuffsDragon.Com) | 2024-11-06 |
+| 605 | **Pumpad** | Mini app for gigs and a lucky wheel with daily earnings | [Bot](https://t.me/pumpad_bot) | 2024-07-05 |
+| 606 | **PX Tarot** | Next-Gen AI-powered Tarot Reading Experience with Pixel Art & the TON Blockchain! | [Telegram](https://t.me/pxtarot_community) [Bot](https://t.me/pxtarot_bot) [X](https://x.com/px_tarot) Site (down) | 2024-10 |
+| 607 | **Quanta X** | Decentralized mining and staking ecosystem in Telegram | [Bot](https://t.me/quanta_xbot) | 2025-10-07 |
+| 608 | **Quantum Core** | Extract Quantum Jelly (JE) tokens, unlock legendary jellybean skins, upgrade your mining… | [Telegram](https://t.me/quantumcoregame) [Bot](https://t.me/quantum_core_game_bot) [X](https://x.com/ocalirdigital) [Site](https://quantum-core.click/) | 2026-04 |
+| 609 | **Qubbi** | Experience a fast and exciting dice game where every roll matters | [Telegram](https://t.me/QubbiOfficialBot) [Site](https://qubbi.gemstar.io/) | 2026-01 |
+| 610 | **Qubix Arena** | Prepare for action in Qubix, the ultimate multiplayer battle game! | [Telegram](https://t.me/qubixarena) [X](https://x.com/QubixArena) Site (down) | 2024-06 |
+| 611 | **QuestHub** | Bot with quests and activities on TON | [Bot](https://t.me/brocontestsbot) | 2024-03-26 |
+| 612 | **Quiz Wars** | Quiz Wars is a fast-paced quiz arena where micro-learning meets competition | [Telegram](https://t.me/quizwars) [Bot](https://t.me/quizwars_bot) | 2025-06 |
+| 613 | **QuokkaCoin Tap Bot** | An innovative project that combines blockchain technology with the joy and happiness of… | [Bot](https://t.me/quokkacointap_bot) [X](https://x.com/QuokkaCoinNews) [Gram News](https://gramnews.org/apps/quokkacoin-tap-bot) | 2024-06 |
+| 614 | **RAM Miner** | RAM mining simulator | [Bot](https://t.me/raminerbot) | 2026-03-08 |
+| 615 | **Rarecrows** | Rarecrows is a chapter-based collectible game built around discovery, progression, and… | [Telegram](https://t.me/rarecrows_bot) [X](https://x.com/0xSunflowerLand) [Site](https://beta.rarecrows.io) | 2025-12 |
+| 616 | **RateOracleBot** | Make price predictions for crypto, stocks, and national currencies – the rules are yours | [Bot](https://t.me/RateOracleBot) | 2024-09 |
+| 617 | **Rating** | Become a king and earn $RATING! Official channel | [Telegram](https://t.me/rating_community) [Bot](https://t.me/the_best_rating_bot) | 2026-10 |
+| 618 | **Release Kraken** | In Release Kraken, you can play, earn, and enjoy an exciting gameplay experience | [Bot](https://t.me/kraken_tap_to_earn_bot) [X](https://x.com/SRTKraken) [Site](https://releasethekraken.io/) | 2024-10-18 |
+| 619 | **Rich Bums** | Telegram mini app with community group | [Bot](https://t.me/richbumsbot) | 2025-09-13 |
+| 620 | **RICHTON** | BANK of RICH — место добычи монет | [Bot](https://t.me/richton_bank_bot) | 2026-06-03 |
+| 621 | **Rignite** | Rignite is a TON-native Telegram mini app | [Telegram](https://t.me/RigniteOfficial) [Bot](https://t.me/RigniteBot) [X](https://x.com/RigniteOfficial) [Site](https://rignite.app) | 2026-05 |
+| 622 | **Rise of Cinder Duck** | "Rise of Cinder Duck" is an engaging Web3 GameFi Mini App on the TON ecosystem, blending… | [Telegram](https://t.me/RCD_Web3_News) [Bot](https://t.me/RCD_Web3_bot) [X](https://x.com/RCD_Web3) [Site](https://rcdweb3.xyz/) | 2025-12 |
+| 623 | **ROIC BOT** | ROIC BOT is your gateway to earning tokens with ease | [Telegram](https://t.me/ROIC_Community) [Bot](https://t.me/ROIC_Bot) [X](https://x.com/ROIC_Finance) [Site](https://roic.finance/) | 2024-10 |
+| 624 | **Royal Miner** | Mining game bot in Telegram | [Bot](https://t.me/royalminer_bot) | 2026-01-28 |
+| 625 | **RPSG** | Spend time with pleasure and enjoy friendly competition in the classic game of… | [Telegram](https://t.me/rpsgameio) [Bot](https://t.me/rpsgameio_bot) [X](https://x.com/RPSGameio) [Site](https://rpsg.gitbook.io/rpsg) | 2024-10 |
+| 626 | **Rumble Arcade** | Take on daily challenges, build your ultimate squad, and climb the leaderboard in… | [Telegram](https://t.me/RumbleArcadeNews) [Bot](https://t.me/RumbleArcadeBot) [X](https://x.com/RumbleArcade) Site (down) | 2025-04-26 |
+| 627 | **Runiverse Idle** | Runiverse Idle — a free idle-RPG right inside Telegram | [Telegram](https://t.me/runiverseidle) [Bot](https://t.me/runiverseidlebot) [X](https://x.com/runiverseIdle) [Site](https://runiverseidle.com) | 2026-04 |
+| 628 | **SANS** | SANS is a free tap-to-earn game on TON, played right inside Telegram | [Telegram](https://t.me/sanslicekilisduyuru) [Bot](https://t.me/sanslicekilisbot) [X](https://x.com/sansliofficial) [Site](https://www.sanslicekilis.com) | 2026-06-24 |
+| 629 | **Sengoku TON** | Welcome to SengokuTon Build your feudal Japanese empire in this stunning pixel art game! | [Telegram](https://t.me/sengoku_ton_chat) [X](https://x.com/SengokuTon) [Site](https://sengoku-ton.gitbook.io/sengoku-ton/) | 2024-12 |
+| 630 | **sFOMO** | Mini app with pixel art and staking pools powered by fomo_hash | [Bot](https://t.me/sfomo_bot) | 2025-02-19 |
+| 631 | **SheikDoge @AIRDROP** |  | [Bot](https://t.me/sheikdogegameairdropbot) | 2026-09-02 |
+| 632 | **ShipCoinsBattle** | 1v1 Player-Versus-Player Battleship Game Three Exciting Game Modes: 1 | [Site](https://www.shipcoinsbattle.com/) | 2024-10 |
+| 633 | **Shroomsters** | Tap to earn with Shroomsters! | [X](https://x.com/ShroomstersClub) [Site](https://www.shroomsters.club/) | 2024-12 |
+| 634 | **Slime Smith** | Craft legendary weapons, upgrade your forge, and compete in seasonal leaderboards for… | [Telegram](https://t.me/slimeminigames) [Bot](https://t.me/SlimeSmithBot) [X](https://x.com/Slime_Miner) [Site](https://linktr.ee/slimexofficial) | 2025-12 |
+| 635 | **Snackify** |  | [Bot](https://t.me/snackifyton_bot) | 2026-07-15 |
+| 636 | **Spark** | Spark is an app that supports the TON ecosystem through tasks and contributions. Earn… | [Bot](https://t.me/SparkOne_Bot) [Gram News](https://gramnews.org/apps/spark-zjwxnz) | 2024-01-23 |
+| 637 | **Sprize** | Sprize is the ultimate gaming and rewards app that turns your free time into real value | [Telegram](https://t.me/sprize_chat) [Bot](https://t.me/sprizebot) [X](https://x.com/sprizeplay) [Site](https://sprize.gg) | 2025-02-08 |
+| 638 | **Squid 2** | Squid 2 is a TON-based farming game inside Telegram | [Bot](https://t.me/Squid2tg_bot) [X](https://x.com/Squid2tg) [Site](https://squidtg.vip/) | 2026-03 |
+| 639 | **Stack** | Stack – The Exciting Telegram Mini-App! | [Telegram](https://t.me/TuringNexus) [Bot](https://t.me/Web3StackBot) | 2024-12 |
+| 640 | **Star Industry** | Start producing resources, materials, and goods | [Telegram](https://t.me/starindustry_channel) [Bot](https://t.me/starindustry_bot) [X](https://x.com/john_0x25_) [Site](https://starindustry.io) | 2025-03-17 |
+| 641 | **Starfall** | Airdrop mini app with continuous rewards | [Bot](https://t.me/starfallappbot) | 2024-03-30 |
+| 642 | **StarLoot** | Explore deep space | [Bot](https://t.me/StarLootGame_bot) | 2025-12 |
+| 643 | **Strike Airdrop** | Strike coin airdrop bot | [Bot](https://t.me/strikecoinairdropbot) | 2024-10-06 |
+| 644 | **Swipe Quest Pixel** | An entertaining game genre | [Bot](https://t.me/swipe_quest_bot) [X](https://x.com/swipe_quest) [Site](https://s2pixel.fun/) | 2024-10-17 |
+| 645 | **Syndicate Miner** |  | [Telegram](https://t.me/syndicateminer) [Bot](https://t.me/syndicate_miner_bot) | 2026-07-17 |
+| 646 | **Tap Lords** | Idle MMO gacha game in Telegram. PvP battles, PvE raids Partnership | [Bot](https://t.me/taplordsbot) | 2026-06-29 |
+| 647 | **Tap Miner** | Tap mining bot on Telegram | [Bot](https://t.me/tapminerapp_bot) | 2026-02-13 |
+| 648 | **TapTopia** | TapTopia is a casual, tap-based battle game where players grow their character by… | [Telegram](https://t.me/taptopia_io) [Bot](https://t.me/taptopiaio_bot) [X](https://x.com/taptopia_io) [Site](https://www.taptopia.io/) | 2026-01-19 |
+| 649 | **TaskGo** | Регламент на вывод 48 ч | [Telegram](https://t.me/taskgo_channle) [Bot](https://t.me/taskgo_task_bot) | 2026-07-15 |
+| 650 | **Tegen Tap** | Discount crypto seller up to 15% discount | [Telegram](https://t.me/tmail_ton) [Bot](https://t.me/tegentap_bot) [X](https://x.com/TegenTap) [Site](https://tmail.ae/) [Gram News](https://gramnews.org/apps/tegen-tap) | 2024-11-20 |
+| 652 | **Telo Miner** | Mining bot with DAO economy | [Bot](https://t.me/telominerbot) | 2025-01-15 |
+| 653 | **TGR Boost** | TGR Boost is a bot for earning tokens through actions in the Tegro ecosystem | [Telegram](https://t.me/toncorp) [Bot](https://t.me/tegrotonbot) [X](https://x.com/tgrtoken) [Site](https://tegro.money) [GitHub](https://github.com/TegroTON) [Gram News](https://gramnews.org/apps/tgr-boost) | 2021-11-30 |
+| 654 | **The Sparky** |  | [Bot](https://t.me/SparkyGameBot) [X](https://x.com/TheSparkyVerse) [Site](https://www.sparky.zone/) | 2025-12 |
+| 655 | **The Treasury** |  | [Bot](https://t.me/ownershipcoinbot) [X](https://x.com/ownershipcoin) [Site](https://ownershipcoin.com) [Gram News](https://gramnews.org/apps/the-treasury) | 2023-01-30 |
+| 656 | **TIGER DROP** | Mining mini app giving token rewards | [Bot](https://t.me/tiger_drop_bot) | 2024-04-10 |
+| 657 | **Tilda** | Tilda is an all-in-one mining app that makes earning fun and rewarding | [Telegram](https://t.me/TildaApp) [Bot](https://t.me/TildaAppBot) | 2025-07 |
+| 658 | **Tmail: Merge & Dig** | Mine. Compete. Win in the TMail universe | [Bot](https://t.me/tmailgamebot) | 2026-09-18 |
+| 659 | **To the MOO** | To the MOO is where Telegram’s mass adoption meets Bitcoin, letting users farm their… | [Bot](https://t.me/tothemoo_bot) [X](https://x.com/TothemooFarm) [Site](https://landing.tothemoo.farm/) | 2024-12-04 |
+| 660 | **Token Carnival** | Airdrop game bot paying out TON, USDT and NOT | [Bot](https://t.me/tokencarnivalbot) | 2025-03-15 |
+| 661 | **Token Lis** | Открой мини-приложение: кнопка в меню или | [Bot](https://t.me/tokenlisbot) | 2025-10-12 |
+| 662 | **TokenXGames** | Welcome to TokenXGames - Play & Earn Rewards! | [Telegram](https://t.me/tokenxgames) [Bot](https://t.me/TokenXGamesBot) [X](https://x.com/Tokenxgames) [Site](https://tokenxgames.com) | 2026-06-17 |
+| 663 | **TOM** | TOM isn’t just another community or mini app; it’s a movement to unlock opportunities… | [Telegram](https://t.me/TOM_Talent) [Bot](https://t.me/tom_mainnet_bot) [X](https://x.com/TalentOriginM) [Site](https://x.com/TalentOriginM) | 2024-11-26 |
+| 664 | **TON Click Bot** |  | [Gram News](https://gramnews.org/apps/ton-click-bot) | 2018-06-13 |
+| 665 | **TON Click Bot** | frequently asked questions | [Telegram](https://t.me/TONClickFAQ) [Bot](https://t.me/TonClickRobot) [Gram News](https://gramnews.org/apps/ton-click-bot-2) | 2022-02-22 |
+| 666 | **TON Factory** | Mini app for tasks and TON rewards | [Bot](https://t.me/ton_factory_farm_bot) | 2024-09-24 |
+| 667 | **TON Faucet** | We’ve launched a unique bot that lets you earn real money just by watching ads and… | [Bot](https://t.me/TonFaucetCryptoBot) | 2025-01 |
+| 668 | **Ton Ferma** | Farm game in Telegram | [Bot](https://t.me/tonfermagamebot) | 2026-02-16 |
+| 669 | **Ton For Speed** | It’s been a while since you hit the street | [Bot](https://t.me/tonforspeed_bot) | 2024-12 |
+| 670 | **Ton Miner Gold** |  | [Bot](https://t.me/tongoldminerbot) [X](https://x.com/TonMinerGold) Site (down) [Gram News](https://gramnews.org/apps/ton-miner-gold) | 2024-06-26 |
+| 671 | **TON Mining** |  | [Bot](https://t.me/tonminingn1_bot) | 2024-05-08 |
+| 672 | **TON MOLE** | Mole is a play-to-earn ecosystem that combines NFTs with Telegram gaming | [Bot](https://t.me/TonMole_Bot) [X](https://x.com/Ton_mole) Site (down) | 2024-06-11 |
+| 673 | **TON NEWS** |  | [Telegram](https://t.me/tonnewsio) [Bot](https://t.me/beecon_bot) [X](https://x.com/TonAirdropChat) [Gram News](https://gramnews.org/apps/ton-news) | 2021-10-09 |
+| 674 | **TON Teleport** |  | [Bot](https://t.me/tonteleportbot) | 2025-07 |
+| 675 | **Ton Titan** | Unleash your inner hero with the Titan app! | [Bot](https://t.me/TonTitanBot) [X](https://x.com/thetontitan) Site (down) | 2024-05 |
+| 676 | **Ton Ton Coin** | For the purpose of obtaining efficient and practical earnings By accessing the game… | [Bot](https://t.me/TonTonCoinBot) Site (down) | 2024-09-28 |
+| 678 | **TonFi** | Mine-to-earn app on Telegram | [Bot](https://t.me/tonfiapp_bot) | 2024-10-23 |
+| 679 | **Tonium** | Announcements channel of the Tonium Telegram app | [Telegram](https://t.me/tonium_news) [Bot](https://t.me/tonium_app_bot) | 2024-10-25 |
+| 680 | **TONKOFF** | Farming and airdrop bot for the TONKOFF token | [Bot](https://t.me/tonkoff_v1_bot) | 2024-06-26 |
+| 681 | **TONOW** | Task-based earning mini app on TON | [Bot](https://t.me/tofarms_bot) | 2026-01-19 |
+| 682 | **TonRun Miner** | Bot for mining TON with hashrate upgrades | [Bot](https://t.me/tonrunn_bot) | 2026-02-12 |
+| 683 | **TONTurbobot** |  | [X](https://x.com/tonturbo_app) [Gram News](https://gramnews.org/apps/tonturbobot) | 2024-08-15 |
+| 684 | **TONVEX** | Mining system app on TON | [Telegram](https://t.me/tonvex_mining) | 2024-09-21 |
+| 685 | **TONxDAO** | Play-and-earn mini app with DAO tokens | [Bot](https://t.me/tonxdao_bot) | 2024-05-22 |
+| 686 | **Towerly** | Towerly is a skill game | [Bot](https://t.me/TowerlyBot) | 2026-01 |
+| 687 | **TradyFi** | TradyFi is a Web3 SuperApp built on the TON blockchain, merging three powerful utilities… | [Telegram](https://t.me/TradyFiCC) [Bot](https://t.me/tradyfi_token_bot) [X](https://x.com/tradyfi_TDF) [Site](https://www.tradyfi.io) [GitHub](https://github.com/tradyfiTDF) | 2025-09 |
+| 689 | **TWallet App** | Tokens, transactions, and digital collectibles in one clean interface that keeps the… | [Bot](https://t.me/twalletappbot) | 2026-08-28 |
+| 690 | **UNU** | Bot for earning by simple Telegram tasks | [Bot](https://t.me/unu_work_bot) | 2024-04-21 |
+| 691 | **Vault Miner** | Mine $Gram & Earn 10% Daily | [Telegram](https://t.me/vaultminernews) [Bot](https://t.me/vaultminingbot) | 2026-06-27 |
+| 692 | **Versus** | Versus is a gaming ecosystem that unites players and enables on-chain wagering in their… | [Telegram](https://t.me/versus_community) [Bot](https://t.me/versus_app_bot) [X](https://x.com/0xVersus) Site (down) | 2025-05-07 |
+| 693 | **Vetka** | Enough bending your back at the factory for a branch! Drocheslav, the main character of… | [Telegram](https://t.me/vetka_announcement) [Bot](https://t.me/VetkaTON_bot) [X](https://x.com/VetkaTon) [Site](https://x.com/VetkaTon) | 2024-11-01 |
+| 694 | **VibeCoin** | VibeCoin MiniApp is a play-to-earn game where you mine to earn $VBC tokens and unlock… | [X](https://x.com/VibeCrackers) Site (down) | 2024-10 |
+| 695 | **Vice City Frog** | Tap-to-earn crime empire game on Telegram | [Bot](https://t.me/AetherFrogViceCityBot) [X](https://x.com/ViceCityFrog) [Site](https://frogstarsgames.com) | 2025-12 |
+| 696 | **VOW TO EARN** | VOW TO EARN is a Telegram Mini App built around action-to-earn and proof-to-earn mechanics | [Telegram](https://t.me/vow_crypto) [Bot](https://t.me/vow_to_earn_bot) [X](https://x.com/vowtoearn) [Site](https://crypto.vowapp.space) | 2026-04 |
+| 697 | **Warcraft Miner** |  | [Telegram](https://t.me/warcraftofficialchannel) [Bot](https://t.me/warcraft_miner_bot) | 2026-08-11 |
+| 698 | **WatBird** | GAMEE mini app; the $WAT token on TON | [Telegram](https://t.me/watbird) [X](https://x.com/watbird) | 2024-06-04 |
+| 699 | **web3islands** | Web3Islands – a vibe-first, relaxing virtual city where citizens tap and complete quests… | [Telegram](https://t.me/web3islands) [Bot](https://t.me/web3islands_bot) | 2025-12-15 |
+| 700 | **Wordly** | Wordly is an engaging and interactive word-based puzzle game designed to challenge your… | [Bot](https://t.me/wordlythegamebot) [X](https://x.com/wordlythegame) Site (down) | 2024-09-16 |
+| 701 | **WorkMoney** | Task bot for earning | [Bot](https://t.me/work2moneybot) | 2023-10-31 |
+| 702 | **Wovula** | Welcome to Wovula, the ultimate space trading simulation built on the TON Blockchain | [Telegram](https://t.me/wovula_official) [Bot](https://t.me/wovula_bot) [X](https://x.com/wovulaapp) [Site](https://wovula.com/) | 2025-11 |
+| 703 | **Wow** | WOW Bot is the ultimate play-to-earn platform where your skills turn into real rewards! | [Bot](https://t.me/Wowairdropbot) [X](https://x.com/wowCommunityX) Site (down) | 2024-12-06 |
+| 705 | **X-ATOMS** | Discover XATOMS, the guitar-strumming game where you earn daily rewards while shaping… | [Site](https://xatoms.xyz/) | 2024-05 |
+| 706 | **XD2048** | We are thrilled to introduce XD2048, a revolutionary P2E game that transforms how you… | [Bot](https://t.me/XD2048BOT) Site (down) | 2024-07 |
+| 707 | **Yoly** | Mini app for earning money inside Telegram | [Bot](https://t.me/yolygame_bot) | 2024-11-22 |
+| 708 | **YOUR TIME App** | The official mining bot for the Your Time project! | [Telegram](https://t.me/yourtime_tma) [Bot](https://t.me/yourstimebot) | 2026-06-17 |
+| 709 | **YumParty** | In a world of candy and sweetness, collect candies through quests and daily challenges | [Telegram](https://t.me/yumparty_chat) [Bot](https://t.me/yumparty_bot) [X](https://x.com/theyumparty) [Site](https://yumparty.com) | 2024-08-10 |
+| 710 | **Zavod** |  | [Bot](https://t.me/nazavodappbot) | 2026-06-13 |
+| 711 | **ZombieTrain** | ZombieTrain is a casual 3D mobile game available on Telegram | [Telegram](https://t.me/zombie_train_en) [Bot](https://t.me/zombietrainbot) [X](https://x.com/zombietraingame) Site (down) | 2024-12-05 |
+| 712 | **Biz Tycoon** | Introducing Biz Tycoon A casual play-to-earn blockchain game on Telegram powered by TON… | [Telegram](https://t.me/biz_tycoon) [Bot](https://t.me/biztycoon_bot) [X](https://x.com/BizTycoonGame) [Site](https://intriguing-wax-2a9.notion.site/Biz-Tycoon-Roadmap-14cb58a6b2a3803dab6dc08b9a6c56de?pvs=73) | 2024-12-10 |
+| 713 | **KriptoMir** | A game dedicated to the creation of our Crypto World, in which we will be able to farm… | [Telegram](https://t.me/kriptofarmers) [Bot](https://t.me/kriptofarmbot) | 2024-05-31 |
+| 714 | **DexCoyote Legends** | DexCoyote Legends is a new generation crypto game on the TON blockchain-network | [Telegram](https://t.me/dexcoyote) [Site](https://dclgame.com) | 2026-06-09 |
+| 715 | **HOT Drops** | Reward drops for the HOT wallet and protocol | [Telegram](https://t.me/drops_on_hot) | 2024-03-15 |
+| 716 | **Slimak Adventures** | The adventures of a little snail begin right now! | [Telegram](https://t.me/slimak_official) Site (down) | 2025-03-26 |
+| 717 | **Goat Gaming** |  | [Telegram](https://t.me/playgoatgaming) [Bot](https://t.me/goatgaming_bot) [X](https://x.com/playgoatgaming) [Site](https://goatgaming.com/) | 2026-06-14 |
+| 718 | **Other Worlds TON** | Welcome to "Other Worlds", an immersive dark fantasy game that merges blockchain… | [Telegram](https://t.me/otherworlds_club) [Bot](https://t.me/OtherWorldsTONbot) [X](https://x.com/otherworlds_ton) Site (down) | 2022-03-31 |
+| 719 | **Dino Tycoon** | Build, Manage & Earn in Dino Tycoon! | [Telegram](https://t.me/DinoTycoon_Announcement) [Bot](https://t.me/DinoTycoon_Bot) [X](https://x.com/dino_tycoon) [Site](https://Dinotycoon.io) | 2021-11-18 |
+| 720 | **DropHunter Game.** | DropHunter: Play and Earn with Ease! | [Telegram](https://t.me/drophunter_games) [Bot](https://t.me/drophuntergames_bot) [X](https://x.com/drophuntergames) [Site](https://drophunter.games) | 2024-04-21 |
+| 721 | **SweetyVerse** | SweetyVerse Play, Earn, Airdrop in an Adorable Animal City Discover the Ultimate Cute… | [Telegram](https://t.me/sweetyverse_official) [Bot](https://t.me/sweetyverse_bot) [X](https://x.com/sweetyverse) [Site](https://sweetyverse.com/) | 2024-06-23 |
+| 722 | **AI Sketch Art** |  | [Telegram](https://t.me/sketchartai_ann) [X](https://x.com/SketchArtAI) Site (down) [GitHub](https://github.com/sketchartai) [Gram News](https://gramnews.org/apps/ai-sketch-art) | 2024-04-13 |
+| 723 | **ERAX** |  | [Telegram](https://t.me/THE_ERAXCoin) [Bot](https://t.me/the_eraxbot) [X](https://x.com/Real_ERAX) Site (down) | 2024-10-12 |
+| 724 | **AIHash** | AIHash is mining based game | [Telegram](https://t.me/aihashoffcial) [Bot](https://t.me/ai_hash_bot) [X](https://x.com/AIHashOfficial) | 2025-01-23 |
+| 725 | **NokNok** | The game operates on a seasonal model | [Telegram](https://t.me/NokNokOfficial) [Bot](https://t.me/tonnokbot) [X](https://x.com/TonNok_AI) [Site](https://twitter.com/TonNok_AI) | 2024-06-14 |
+| 726 | **TAP TON GAME** | TAP TON is a free play to earn game on TON | [Telegram](https://t.me/TapTonGame) [Bot](https://t.me/Taptongamebot) [X](https://x.com/TonBatGame) [Site](https://taptongame.com) | 2024-06-05 |
+| 727 | **TON Dungeon** | Battle monsters, collect loot and earn $PNY rewards in the ultimate blockchain dungeon… | [Telegram](https://t.me/tondungeon_news) [Bot](https://t.me/tondungeon_app_bot) [X](https://x.com/tondungeonTG) [Site](https://tondungeon.com) | 2026-01-20 |
+| 728 | **PIGCoin** | PIGCoin is the newest swipe-to-earn game | [Telegram](https://t.me/AIPIG_Coin) [Bot](https://t.me/PIGCoinAI_bot) [X](https://x.com/PIGCoinAI) [Site](https://pigcoin.sunrisebeet.top/home/) | 2024-06-05 |
+| 729 | **Token Tails** | Token Tails is a Web3 Play to Save game, where every player can own NFT cat linked with… | [Telegram](https://t.me/tokentails) [Bot](https://t.me/catbassadorsbot) [X](https://x.com/tokentails) [Site](https://tokentails.com) [GitHub](https://github.com/zbagdzevicius/tokentails) | 2024-03-18 |
+| 730 | **fomo_hash** | Phone mining mini app | [Telegram](https://t.me/fomohash) [Bot](https://t.me/fomohash_bot) | 2024-05-26 |
+| 731 | **Crocodillo Rewardillo** | Rewards project community | [Telegram](https://t.me/crocodilreward) | 2025-05-07 |
+| 732 | **Venus World Survival** | Venus World Survival - the first-ever Tap2Earn survival game! | [Telegram](https://t.me/VenusWS) [Bot](https://t.me/VenusWSBot) [X](https://x.com/VenusSurvival) [Site](https://venus.ws) | 2024-11-30 |
+| 733 | **Mucca** | Mucca — a Telegram Mini App on TON where you mine $MUU, claim & customize land, spin the… | [Telegram](https://t.me/muccaofficial) [Bot](https://t.me/MuccaAppBot) [X](https://x.com/MuccaApp) [Site](https://mucca.app) | 2025-05-31 |
+| 734 | **BrainsCoin** | Brainscoin is a web application in Telegram that allows users to spend time in an… | [Telegram](https://t.me/brainscoin) [Bot](https://t.me/brainscoin_bot) [X](https://x.com/brainscoin_off) Site (down) | 2024-05-15 |
+| 735 | **Fananas** | Fananas is the first-ever Play-to-Earn, Compete-to-Earn Big platform featuring intuitive… | [Telegram](https://t.me/fananas_official) [Bot](https://t.me/fananas_game_bot) [X](https://x.com/FananasOfficial) Site (down) | 2024-12-12 |
+| 736 | **Ai Angels** | AI Angels is the hottest viral tap-to-earn game on Telegram, blending AI-powered… | [Telegram](https://t.me/ai_angels_news) [X](https://x.com/AI_Angels_Game) [Site](https://www.aiangels.io/) | 2025-06-21 |
+| 737 | **Goblin Mine Game** | Goblin Mine is an economic game where your mission is to develop mines, hire miners, go… | [Telegram](https://t.me/GoblinMine) [Bot](https://t.me/GoblinMine_bot) [X](https://x.com/goblin_mine) Site (down) | 2024-07-11 |
+| 738 | **Goblin’s Garage** | Introducing a new game in the Goblin ecosystem: Goblin’s Garage Goblin’s Garage is an… | [Telegram](https://t.me/GoblinMine) [X](https://x.com/goblin_mine) Site (down) | 2024-10-02 |
+| 739 | **Bounty Hash** | Mining mini app with BNTY rewards on TON | [Telegram](https://t.me/bountyhash) [Bot](https://t.me/bounty_hash_bot) | 2025-02-01 |
+| 740 | **Singularity Shift** | Singularity Shift is a hardcore cyberpunk clicker where players act as system operators… | [Telegram](https://t.me/Singularity_Shift) [Bot](https://t.me/Crystal_Clicker_bot) [Site](https://singularityshift.ru/) | 2025-12-16 |
+| 741 | **Grand Gangsta City** | The World Of Gangsta! | [Telegram](https://t.me/GrandGangstaCityAnnouncement) [Bot](https://t.me/GGCTON_Bot) [X](https://x.com/grandgangstaci) [Site](https://grandgangstacity.com/) | 2024-01-31 |
+| 742 | **TON Diamonds** |  | [Telegram](https://t.me/tondiamonds) [Bot](https://t.me/tondiamondsbot) [X](https://x.com/TonDiamonds) [Site](https://ton.diamonds) [Gram News](https://gramnews.org/apps/tondiamondsbot) | 2021-11-11 |
+| 743 | **30sec CASUAL** | We are building the world's best advertising media for spreading brands | [Telegram](https://t.me/info30sec) [Bot](https://t.me/casual30sec_bot) [X](https://x.com/30sec_yet) [Site](https://30sec.net/) [Gram News](https://gramnews.org/apps/30sec-casual) | 2023-06-02 |
+| 744 | **GangsterGames Pick3** | "Mobsters Choice-Pick 3" is a custom Telegram App allowing users to Click-2-Earn without… | [Telegram](https://t.me/gangstergamesio) [Bot](https://t.me/gangster_games_pick3_bot) [X](https://x.com/GangsterGamesio) [Site](https://gangstergames.io/) [GitHub](https://github.com/iconworldwide/pick-three-lottery) | 2023-08-29 |
+| 745 | **Space Hunters HUB** | The Space Hunters Ecosystem is a project dedicated to developing interconnected… | [Telegram](https://t.me/spacehuntersnews) [Bot](https://t.me/spacehuntersbot) [X](https://x.com/nftspacehunters) Site (down) | 2024-05-19 |
+| 746 | **Symptomify App** | An innovative platform using CNN-based AI technology to enhance engagement and create a… | [Telegram](https://t.me/symptomify) [Bot](https://t.me/symptomify_bot) [X](https://x.com/symptomify) [Site](https://www.symptomify.io) | 2024-11-21 |
+| 747 | **Tonagotchi** | Your new virtual pet companion is here! | [Telegram](https://t.me/TonagotchiNews) [Bot](https://t.me/TonagotchiBot) | 2024-03-03 |
+| 748 | **Hype Fisher** | Catch fish, earn TON! | [Telegram](https://t.me/HypeFisher) [Bot](https://t.me/hype_fisher_bot) [X](https://x.com/HypeFisherGame) [Site](https://hypefisher.com) | 2024-06-21 |
+| 749 | **VOXEL** | Collect NFT 3D models and sell them to other users Earn $VOXL and exchange it for $TON… | [Telegram](https://t.me/voxelplay) [Bot](https://t.me/voxel_verse_bot) [X](https://x.com/VOXELVerseApp) | 2024-10-20 |
+| 750 | **NetFishion** | NetFishion — Bringing GameFi Fun to Your Fingertips As a TON-based GameFi project,… | [Telegram](https://t.me/NetFishionchannel) [Bot](https://t.me/PreNetfishionbot) [X](https://x.com/NetFishion) [Site](https://netfishion.online/) | 2025-03-19 |
+| 751 | **Drifterz** | Drifterz is a unique racing game in Telegram, where your drifting skills can make you a… | [Telegram](https://t.me/Drifterz_channel) [Bot](https://t.me/drifterz_bot) [X](https://x.com/drifterz_) Site (down) | 2024-09-17 |
+| 752 | **Diamore.co App** | Tap, Earn and Learn! | [Telegram](https://t.me/diamoremarket) [Bot](https://t.me/DiamoreCryptoBot) [X](https://x.com/diamore_market) [Site](https://Diamore.co) | 2024-03-24 |
+| 753 | **1win Token** | 1win Token is not just a clicker, it is part of an entire ecosystem | [Telegram](https://t.me/token1win_bot) [Bot](https://t.me/token1win_bot) [X](https://x.com/1winToken) [Site](https://1wintoken.com/) | 2024-04-04 |
+| 754 | **Mumba Games** | Game hub of mini-games from mumba, which combines 12 games, for top games in which… | [Telegram](https://t.me/mumbatonofficial) [X](https://x.com/mumba_ton) | 2024-02-02 |
+| 755 | **Mumba TaskBot** | Official Channel of the Mumba Token | [Telegram](https://t.me/mumbatonofficial) [X](https://x.com/mumba_ton) [Site](https://teletype.in/@mumba/taskbot) [Gram News](https://gramnews.org/apps/mumba-taskbot) | 2024-02-02 |
+| 756 | **Ton's Monsters** | As soon as you launch the Mini App, you will unlock your first monster and points | [Telegram](https://t.me/TonsMonsters) [Bot](https://t.me/TonsMonstersBot) [X](https://x.com/TonsMonsters) [Site](https://revomon.io/) | 2024-07-17 |
+| 757 | **Voscoin** | Join Voscoin today and experience the excitement of cryptocurrency mining while earning… | [Telegram](https://t.me/voscoins) [Bot](https://t.me/Voscoin_bot) [X](https://x.com/voscoins) | 2024-10-18 |
+| 758 | **Cut & Stack** | CutStack is a simple yet rewarding play-to-earn game where every move matters | [Telegram](https://t.me/StackPlayAnn) [Bot](https://t.me/CutStackBot) [X](https://x.com/CutStackBot) [Site](https://fe-stackgame.onrender.com) | 2025-02-02 |
+| 759 | **Reality Rush** |  | [Telegram](https://t.me/realityrush) [Bot](https://t.me/realityrush_bot) [X](https://x.com/realityrushgame) [Site](https://realitymeta.io/) | 2024-07-12 |
+| 760 | **Nomka** | Nomka is a fast-paced multiplayer arcade about growth, risk, and tactics | [Telegram](https://t.me/nomka_fun) [Bot](https://t.me/NomkaFunbot) [Site](https://nomka.fun/site/) | 2025-07-29 |
+| 761 | **Crypto Fox Lab** | This channel has moved to a new location | [Telegram](https://t.me/CryptoFoxLab) [Bot](https://t.me/cryptofoxlab_bot) [Gram News](https://gramnews.org/apps/crypto-fox-lab) | 2025-09-21 |
+| 762 | **Sphynx** | Sphynx is a Web3 Mini App on Telegram built on TON blockchain that offers free mining,… | [Telegram](https://t.me/sphynxANN) [Bot](https://t.me/sphynxmeme_bot) [X](https://x.com/sphynx_meme) Site (down) | 2024-04-21 |
+| 763 | **SpaceFarm** | Discover many planets and build your farm on them to earn coins! | [Telegram](https://t.me/SpaceCryptoFarm) [Bot](https://t.me/Space_Farm_bot) [X](https://x.com/CrypoSpaceFarm) Site (down) | 2024-04-12 |
+| 764 | **Happy Farming** | Meet Happy Farming Manage your own farm, grow vegetables and fruits, raise animals to… | [Telegram](https://t.me/happy_farming) [Bot](https://t.me/HappyFarming_bot) [Site](https://happyfarm.fun) | 2024-06-20 |
+| 765 | **Mind Guardians** | Watch out - your negative thoughts are attacking your mind as zombies! | [Telegram](https://t.me/mindunix) [Bot](https://t.me/mindguardiansbot) [X](https://x.com/unimindx) [Site](https://minduniversity.info/) | 2024-04-12 |
+| 766 | **Pearls by Gems** | Rewards mini app of Gems ecosystem | [Telegram](https://t.me/pearlsdrop) [Bot](https://t.me/pearls_drop_bot) | 2023-10-09 |
+| 767 | **SoarFun** | Blockchain mining and trading platform in Telegram based on Ton_blockchain | [Telegram](https://t.me/Soar_Fun) [Bot](https://t.me/SoarFunTradingBot) [X](https://x.com/soarfuntoken) | 2024-07-14 |
+| 768 | **HASBi RUN** | HASBi RUN Overview: ”HASBi RUN” by Hasbiland is the classic endless runner game… | [Telegram](https://t.me/hasbiland) [Bot](https://t.me/hasbiland_bot) [X](https://x.com/Hasbiland) [Site](https://hasbiland.io/) | 2024-01-12 |
+| 769 | **Genopets: Pixelton** | Retro PVP BATTLE with Frens on Telegram Genopets: Pixelton Arena is a nostalgic,… | [Telegram](https://t.me/GenopetsAnnouncements) [Bot](https://t.me/genopets_pixelton_bot) [X](https://x.com/genopets) [Site](https://www.genopets.me/articles/ready-to-battle-introducing-genopets-pixelton-arena-clzlqik4y004778t2sra0702l) | 2021-08-05 |
+| 770 | **Chick Coop** | Chick Coop is the first game in the Farming Universe on Ton Blockchain | [Telegram](https://t.me/chickcoop_announcement) [Bot](https://t.me/chickcoopofficial_bot) [X](https://x.com/chickcoop_io) [Site](https://Chickcoop.io) | 2024-02-16 |
+| 771 | **RiverLand** | Farming game news channel | [Telegram](https://t.me/riverlandgamenews) [Bot](https://t.me/riverlandgamebot) | 2024-08-29 |
+| 772 | **The Rocket** | Clicker game with ROCKET token on the Toncoin blockchain | [Telegram](https://t.me/the_rocket_official) [Bot](https://t.me/The_Rocket_bot) [X](https://x.com/the_rocket_x) | 2024-03-29 |
+| 773 | **Predipie** | Predipie is a halal Web3 Football Prediction game where users can "predict to earn" real… | [Telegram](https://t.me/predipie_official_announcements) [Bot](https://t.me/Predipie_bot) [X](https://x.com/predipie) [Site](https://predipie.com) | 2024-05-13 |
+| 774 | **GemsWall** | Rewards bot and announcements for Telegram tasks | [Telegram](https://t.me/gemswall) | 2024-10-02 |
+| 775 | **GeoBattle** | GeoBattle is an online game | [Telegram](https://t.me/GeoBattle) [Bot](https://t.me/GeoBattleBot) | 2024-09-23 |
+| 776 | **X Empire** | Official X Empire tap game channel | [Telegram](https://t.me/x_empire_holders) | 2024-07-14 |
+| 777 | **Мine2Мine (M2M)** | Mine2Mine (M2M) is a Mine-to-Earn platform with its utility token ($GPU) and Telegram… | [Telegram](https://t.me/mine2mine_ru) [Bot](https://t.me/mine2mine_bot) [Site](https://mine2mine.org) | 2024-05-20 |
+| 778 | **Real WhiteDogs** | WhiteDogs is a Telegram-based platform where users can earn rewards through mining,… | [Telegram](https://t.me/real_whitedogs) [Bot](https://t.me/Real_WhiteDogsbot) [X](https://x.com/real_whitedogs) [Site](https://whiteDogs.xyz) | 2024-08-13 |
+| 779 | **Shiba Empire** | With Shiba Empire, you can mine coins by tapping on your Shiba workforce | [Telegram](https://t.me/ShibaEmpireChannel) [Bot](https://t.me/shibaEmpireBot) [X](https://x.com/shiba_empire_) [Site](https://shibaempire.co/) | 2024-09-11 |
+| 780 | **Neon Maidens Online** | Join the journey to the first P2E PVP jRPG on Telegram | [Telegram](https://t.me/nmotongame) [Bot](https://t.me/nmogame_bot) [X](https://x.com/neonmaidens) | 2024-04-05 |
+| 781 | **Noxecoin** | Noxecoin is a play to airdrop project where you earn coins by completing tasks and daily… | [Telegram](https://t.me/noxecoin) [Bot](https://t.me/noxecoin_bot) [X](https://x.com/noxecoin) Site (down) | 2024-08-05 |
+| 782 | **My Corp** | Welcome to My Corp! | [Telegram](https://t.me/mycorp_official) [Bot](https://t.me/mycorpbot) [X](https://x.com/mycorpbot) | 2024-07-11 |
+| 783 | **Raccoon** | Raccoon is a casual puzzle game that combines container organization and matching gameplay | [Telegram](https://t.me/RaccoonGoAnn) [Bot](https://t.me/RaccoonGo_bot) [X](https://x.com/raccoonket) | 2024-12-19 |
+| 784 | **HarcoDeck** | Build your deck, challenge opponents in thrilling PvP battles, and climb the ranks | [Telegram](https://t.me/HarcoDeckAnnouncements) [Bot](https://t.me/HarcoDeck_bot) [X](https://x.com/Harcodeck) [Site](https://harco.gitbook.io/harcodeck) | 2024-09-18 |
+| 785 | **FEFE FIGHT** | The game has three modes: "Random P2P battle, battle against bots, P2P tournaments" | [Telegram](https://t.me/FEFELAND) [Bot](https://t.me/FllopBot) | 2025-04-11 |
+| 786 | **Not Shiba** | Not Shiba is not just a game, it's an opportunity to earn up to $BONES token listing | [Telegram](https://t.me/not_shiba) [X](https://x.com/Not_Shiba_X) Site (down) | 2025-04-11 |
+| 787 | **Farm Stars** | Farm Stars is a pioneering game on Telegram, that merges the simplicity of mobile gaming… | [Telegram](https://t.me/farm_starss) [Bot](https://t.me/Farm_stars_bot) [X](https://x.com/farmstarstg) [Site](https://stars.farm) | 2023-01-24 |
+| 788 | **HODL Button** | HODL Button is a GameFi app where you earn by simply holding a button | [Telegram](https://t.me/Hodl_Button_Game) [Bot](https://t.me/Hodl_Button_Bot) [Site](https://game.p2p.am) | 2025-03-16 |
+| 789 | **Bibizean TCG** | The "Bibizean" project is a collectible card game focused on gathering unique cards with… | [Telegram](https://t.me/bibizeancoin) [Bot](https://t.me/BibizeanTCGbot) [X](https://x.com/bibizean) Site (down) | 2025-04-06 |
+| 790 | **Fortune Boss** | Welcome to Fortune Boss - Your Casino Empire Awaits! | [Telegram](https://t.me/fortune_boss) [Bot](https://t.me/fortune_boss_game_bot) | 2024-09-14 |
+| 791 | **Game Launcher** | Hello, nice to meet you! | [Telegram](https://t.me/game_launcher_news) [Bot](https://t.me/game_launcher_bot) [Site](https://gamelauncher.xyz) | 2024-10-01 |
+| 792 | **MyLeg** | Myleg is just a fictional degen character finding his way around the crypto ecosystem,… | [Telegram](https://t.me/mylegonton) [Bot](https://t.me/Mylegonton_bot) [X](https://x.com/mylegonton) Site (down) | 2024-09-15 |
+| 793 | **T88 mini app** | T88: A New Twist in Meme Coins T88 is an innovative meme coin inspired by Andrew Tate,… | [Telegram](https://t.me/T88_WTF) [Bot](https://t.me/T88_WTF_BOT) [X](https://x.com/T88_WTF) [Site](https://linktr.ee/T88coin) | 2024-09-11 |
+| 794 | **Jungle Gaming** | Jungle Gaming is a Telegram Mini App where players can explore games, complete… | [Telegram](https://t.me/JungleGaming_Chat) [Bot](https://t.me/JungleGamingBot) [X](https://x.com/JungleGamingCom) [Site](https://junglegaming.com/) | 2025-04-03 |
+| 795 | **GobblUp- Feed & Earn** | Welcome to Gobbl—The World’s First Food Blockchain! | [Telegram](https://t.me/gobblnews) [Bot](https://t.me/gobblupbot) [X](https://x.com/gobblchain) [Site](https://gobbl.io) | 2021-11-05 |
+| 796 | **SORATOPIA** | SORATOPIA is a vibrant Telegram game where players explore, complete quests, and earn… | [Telegram](https://t.me/soratopia_announcements) [Bot](https://t.me/soratopia_bot) [X](https://x.com/soratopia_game) | 2024-06-19 |
+| 797 | **Bit Billionaire** | Welcome to Bit Billionaire! | [Telegram](https://t.me/BitBillionaireGameAnn) [Bot](https://t.me/bitbillionairebot) [X](https://x.com/BitBillionaire_) | 2024-10-20 |
+| 798 | **Apiary** | Visit accessible finance in your pocket | [Telegram](https://t.me/apiaryFinance) [Bot](https://t.me/ApiaryFinanceBot) [X](https://x.com/SyrupalOfficial) Site (down) | 2024-09-09 |
+| 799 | **LizArts** | LizArts is a universe where an army of powerful fighting lizards, survivors of… | [Telegram](https://t.me/Lizarts_Nation) [Bot](https://t.me/lizartsworld_bot) Site (down) | 2024-04-21 |
+| 800 | **Piston Hub** | Combining mining games, entertainment communities, and the characteristics of meme coins… | [Telegram](https://t.me/PISTON_Announcements) [Bot](https://t.me/piston_hub_bot) [X](https://x.com/thepistonhub) Site (down) | 2024-07-22 |
+| 801 | **Racing TON** | Racing TON is an exhilarating animal racing game on the Telegram mini-apps | [Telegram](https://t.me/Racing_TON) [X](https://x.com/RacingonTON) [Site](https://racington.tongram.app/) | 2024-10-14 |
+| 802 | **CAP** | Task and rewards app in Telegram | [Telegram](https://t.me/mycap_official) [Bot](https://t.me/mycap_bot) | 2023-08-12 |
+| 803 | **Durov Run** | Durov Run is a dynamic runner game with a storyline and elements of an economic… | [Telegram](https://t.me/durovrungame) [Bot](https://t.me/durovrunbot) [X](https://x.com/DurovRun) | 2024-08-25 |
+| 804 | **Space Birds** | Space Bird is a play-to-earn game where you guide a bird soaring to conquer the cosmos! | [Telegram](https://t.me/space_birds_game) [Bot](https://t.me/Space_birds_bot) [X](https://x.com/SpaceBirds_Game) Site (down) | 2024-06-18 |
+| 805 | **Erzy Channel Collab** | Управление Телеграм каналами: актуальные новости, аналитика, и инновации в одном месте.… | [Telegram](https://t.me/raskrutichannel) [Bot](https://t.me/ErzyNetWebBot) [Site](https://erzy.net/) [Gram News](https://gramnews.org/apps/erzy-channel-collab) | 2023-02-04 |
+| 806 | **Bank Miner WBT** | Bank Miner WBT is a mobile app that allows you to mine $WBT tokens right on your phone! | [Telegram](https://t.me/GirlsClubWBT) [Bot](https://t.me/MinerWBTbot) [X](https://x.com/GirlsClubWBT) Site (down) | 2024-11-09 |
+| 807 | **HangarX** | Welcome to HangarX! | [Telegram](https://t.me/hangarxgam) [Bot](https://t.me/hangarxgaming_bot) [X](https://x.com/Hangarxio) [GitHub](https://github.com/hangarx) | 2024-06-03 |
+| 808 | **Crypto Colonies** | Colonize & Conquer! | [Telegram](https://t.me/crypto_colonies) [Bot](https://t.me/cryptocolonies_bot) [X](https://x.com/CryptoColoniesX) [Site](https://cryptocolonies.io/) | 2025-02-03 |
+| 809 | **MUDUCK.IO** | MuDuck is cross-chain crypto project that bridges the power and scalability of the TON,… | [Telegram](https://t.me/muduck_io) [Bot](https://t.me/muduckio_bot) [X](https://x.com/muduck_io) Site (down) | 2024-07-16 |
+| 810 | **ArteFarm** | ArteFarm is a Telegram-based Tap2Earn Farming Game Tap to seed, water, harvest, and earn… | [Telegram](https://t.me/artefarm_game) [Bot](https://t.me/artefarm_bot) [X](https://x.com/artefarm) | 2024-06-29 |
+| 811 | **Petoshi** | Merge your Telegram usage with blockchain through Petoshi, a Tap to Earn that gamifies… | [Telegram](https://t.me/petoshiclub) [X](https://x.com/Petoshi_Blast) [Site](https://petoshi.io/) | 2024-06-01 |
+| 812 | **BuxHub App** | We are also tired of endless clickers and so we've decided to create something special -… | [Telegram](https://t.me/bux_hub) [Bot](https://t.me/buxhub_bot) [X](https://x.com/buxhub_team) | 2024-08-16 |
+| 813 | **Monsterz** | Monsterz In is a thrilling Web3 gaming experience where players earn tokens, upgrade… | [Telegram](https://t.me/monsterz_in) [Bot](https://t.me/monsterzin_bot) [X](https://x.com/monsterz_in) [Site](https://monsterz.in) | 2024-06-09 |
+| 814 | **notreal** | A Telegram Mini App that combines an automatic point-farming system with a… | [Telegram](https://t.me/notrealcommunity) [Bot](https://t.me/ntrcrypto_bot) [X](https://x.com/notrealapp) | 2024-09-24 |
+| 815 | **Panda Gold Miner** | Panda Gold Miner is a T2E mini-game on Telegram that takes you on an evolution journey:… | [Telegram](https://t.me/pandagoldminer) [Bot](https://t.me/pandagoldminer_bot) [X](https://x.com/pandagoldminer) Site (down) | 2024-11-02 |
+| 816 | **TradeUpDown** | Welcome to TradeUpDown Web3 Game! | [Telegram](https://t.me/tradeupdown_com) [Site](https://tradeupdown.com) | 2024-04-25 |
+| 817 | **Happy Llama** | Earn $HAPPY tokens by grazing your virtual llama | [Telegram](https://t.me/happy_llama_news) [Bot](https://t.me/HappyLlamaBot) [X](https://x.com/HappyLlamaGame) Site (down) | 2024-07-11 |
+| 818 | **Piloton** | About Piloton Start with a free plane on your central runway and build an air force full… | [Telegram](https://t.me/pilotongame) [Bot](https://t.me/pilotongamebot) [X](https://x.com/pilotongame) [Site](https://piloton.io/) | 2024-05-21 |
+| 819 | **Alien Mine ($ALEN)** | Embark on an intergalactic adventure as you assemble your team of cosmic explorers | [Telegram](https://t.me/alienminep2e) [Bot](https://t.me/AlienMineBot) [X](https://x.com/AlienMine_P2E) [Site](https://alienmine.io/) | 2025-01-02 |
+| 820 | **RetoLabs** | Your all-in-one Web3 entertainment hub on Telegram! | [Telegram](https://t.me/RetoLabs) [Bot](https://t.me/RETOLabsBot) [X](https://x.com/retolabs) [Site](https://retolabs.com) | 2025-01-17 |
+| 821 | **Money Craft** | Become the architect of a fairytale kingdom in 3D pixel style! | [Telegram](https://t.me/money_craft_news) [Bot](https://t.me/money_craft_game_bot) | 2024-06-23 |
+| 822 | **VOLTUM** | VOLTUM is a new era of games based on the principles of fair competition and player… | [Telegram](https://t.me/voltum_game) [Bot](https://t.me/Voltum_bot) [X](https://x.com/Volrum_official) Site (down) | 2024-06-21 |
+| 823 | **Cupiee Mini** | Cupiee: Relax, Earn, and Nurture Your AI Pet Cupiee is the first Telegram application… | [Telegram](https://t.me/cupiee_officialANN) [Bot](https://t.me/cupiee_bot) [X](https://x.com/Cupiee_official) [Site](https://cupiee.com/) | 2023-09-14 |
+| 824 | **TapTap** | Backed by iMe, Crypto Messenger App with 1 Million+ Users | [Telegram](https://t.me/taptap_official) [Bot](https://t.me/taptapcore_bot) [X](https://x.com/taptap_bot) Site (down) | 2024-06-05 |
+| 825 | **Rooster Fights** | Rooster Fights is a captivating mobile Web3 game that combines auto-battler gameplay… | [Telegram](https://t.me/rooster_fights_game) [Bot](https://t.me/rooster_fights_bot) [X](https://x.com/rooster_fights) Site (down) | 2023-10-23 |
+| 826 | **FishMeme** | FishMeme is building a next-level blockchain Web3 platform! | [Telegram](https://t.me/FishMemeOfficial) [Bot](https://t.me/fishmeme_bot) | 2024-06-16 |
+| 827 | **Bahne AI** | More than just a tap-tap game | [Telegram](https://t.me/bahneai) [Bot](https://t.me/BahneAIBot) [X](https://x.com/bahne_ai) Site (down) | 2024-10-18 |
+| 828 | **Shiok** | Shiok brings a thrilling tower defense experience to the Telegram ecosystem, immersing… | [Telegram](https://t.me/shiok_ann) [Bot](https://t.me/the_shiok_bot) [X](https://x.com/shiok_fun) Site (down) | 2024-08-01 |
+| 829 | **AAO** | All At Once (AAO) - The First Battle To Earn On Web3 Game AAO Game delivers exhilarating… | [Telegram](https://t.me/AAO_Game) [X](https://x.com/AAO_Game) Site (down) | 2024-05-17 |
+| 830 | **GoldenBillionGame** | GBG is a platform for monetizing your attention | [Telegram](https://t.me/GoldenBillionGame) [Bot](https://t.me/goldenbilliongame_bot) [Site](https://www.goldenbilliongame.com) | 2024-03-18 |
+| 831 | **Bacoin Farm** | Welcome to the world of Bacoin, where you start from scratch to build your own farm empire | [Telegram](https://t.me/bacoin_community) [Bot](https://t.me/bacoin_bot) [X](https://x.com/the_bacoin) | 2024-06-20 |
+| 832 | **HELL RØLL** |  | [Telegram](https://t.me/hellrollgg) [Bot](https://t.me/hell_roll_bot) [X](https://x.com/hellrollgg) | 2024-10-06 |
+| 833 | **MythNum** | How beautiful and perfect your ID is Let MythNum help you find out! | [Telegram](https://t.me/myth_num) [Bot](https://t.me/myth_num_bot) [X](https://x.com/myth_num) [Site](https://mythnum.one/) | 2024-09-20 |
+| 834 | **Cryston** | Cryston is a free-to-play game on Telegram where you take on the role of a talented… | [Telegram](https://t.me/CrystonAnn) [Bot](https://t.me/crystonappbot) [X](https://x.com/cryston_app) Site (down) | 2024-08-12 |
+| 835 | **Dragons House** | Start Mining $DHT by unlocking Dragon's Boxes that are packed with exciting rewards! | [Telegram](https://t.me/dragonshousecrypto) [Bot](https://t.me/dragonshouse_bot) [X](https://x.com/DragonsHouseBot) | 2024-08-26 |
+| 836 | **Smart Mouse** | Smart Mouse is a Tap2Earn puzzle game (similar to Mastermind) where you train your brain… | [Telegram](https://t.me/smartmousenews) [Bot](https://t.me/SmartMouseGameBot) [X](https://x.com/SmartMouseIo) [Site](https://smartmouse.io/) | 2024-09-24 |
+| 837 | **BlueChain** | The BlueChain airdrop is a way for early adopters to earn a share of BlueChain tokens… | [Telegram](https://t.me/bluechainch) [Bot](https://t.me/bluechainbot) [X](https://x.com/bluechaintorg) | 2024-10-19 |
+| 838 | **PRETON DROP** |  | [Telegram](https://t.me/preton) [Bot](https://t.me/preton_drop_bot) [X](https://x.com/preton_official) [Gram News](https://gramnews.org/apps/preton-drop) | 2024-04-27 |
+| 839 | **Crypto Mason Game** | A TON token mining game in Telegram | [Telegram](https://t.me/cryptomasonsru) [Bot](https://t.me/masson_game_bot) [X](https://x.com/CryptoMasonGame) Site (down) [Gram News](https://gramnews.org/apps/crypto-mason-game) | 2024-07-04 |
+| 840 | **TON_Monster** | TON Monster A monster-raising game on the TON blockchain where your monsters bring you… | [Telegram](https://t.me/Ton_MonsterChannel) [X](https://x.com/TON_Monster_OF) | 2024-10-22 |
+| 841 | **Cosmic Invaders** | In Cosmic Invaders, players take control of a spaceship tasked with defending the galaxy… | [Telegram](https://t.me/CosmicInvadersGame) [Bot](https://t.me/CosmicInvadersBot) [X](https://x.com/Cosmic_Invaders) Site (down) | 2024-10-25 |
+| 842 | **SVEN** | SVEN is a unique Play And Earn game where you can earn SVEN tokens, as well as TON, for… | [Telegram](https://t.me/SvenTon) [Bot](https://t.me/SvenTon_bot) | 2024-10-23 |
+| 843 | **Orbiter Vizing** | The First Omni chain Play-to-Earn game powered by Vizing | [Telegram](https://t.me/orbiter_vizing) [Bot](https://t.me/orbiter_vizing_bot) [X](https://x.com/Vizing_L2) [Site](https://www.vizing.com/) [GitHub](https://github.com/Orbiter-Vizing) | 2024-10-09 |
+| 844 | **EPIC BATTLE** | Core Gameplay: - Tap-to-Mine - Passive Mining - Collect & Upgrade NFTs - Friends &… | [Telegram](https://t.me/EpicBattleGame_Announcement) [Bot](https://t.me/EpicBattleGamebot) [X](https://x.com/EpicBattle_co) Site (down) | 2024-09-28 |
+| 845 | **Chicker: Your Chicks** | Our latest game challenges you to tap on chickens to purchase them, and they will start… | [Telegram](https://t.me/yourchicksgame) [Bot](https://t.me/yourchicksbot) [X](https://x.com/yourchicksgame) | 2024-10-03 |
+| 846 | **Cat Blades!** | Choose your hero: unique characters for every taste, each with its own characteristics | [Telegram](https://t.me/Cats_Blades) [Bot](https://t.me/CatsBladesBot) | 2024-06-08 |
+| 847 | **SACKBIRD** | Telegram/Ton Ecosystem Pray-to-Earn Mini Game: Pray-2-Earn, no tasks required for players | [Telegram](https://t.me/SackbirdTeam) [Bot](https://t.me/SackBirdBless_bot) [X](https://x.com/SackBird_O) [Site](https://sackbird.vercel.app/) | 2024-07-10 |
+| 848 | **Dropshit** | Drop Shit is a unique GameFi project on the TON network | [Telegram](https://t.me/dropshit_official) [Bot](https://t.me/drop_shit_game_bot) [X](https://x.com/Drop_shit_game) Site (down) | 2024-05-14 |
+| 849 | **TONBAT Miner** | TONBAT $TBAT is new MEME on TON Trending | [Telegram](https://t.me/TonBatNews) [Bot](https://t.me/TBATMinerBot) [X](https://x.com/TonBatMiner) Site (down) | 2024-07-03 |
+| 850 | **The Five Realms** | The Five Realms is an open-world AI and GameFi adventure where players explore… | [Telegram](https://t.me/TheFiveRealms) [Bot](https://t.me/TheFiveRealmsBot) [X](https://x.com/thefiverealms) Site (down) | 2024-07-24 |
+| 851 | **ClaimMini** | Mining service with airdrop analytics and pre-market bot | [Telegram](https://t.me/claimmini) [Bot](https://t.me/claimminibot) | 2024-05-22 |
+| 852 | **Tap To Punch!** | The first tap-to-punch clicker game where you earn coins by tapping to punch bosses in… | [Telegram](https://t.me/taptopunch) [Bot](https://t.me/taptopunch_bot) [X](https://x.com/taptopunchgame) | 2024-05-28 |
+| 853 | **upbeat** |  | [Telegram](https://t.me/upbeat_community) [Bot](https://t.me/upbeatapp_bot) [Gram News](https://gramnews.org/apps/upbeat) | 2024-07-15 |
+| 854 | **PaniCoin** | How does Time Farm work ? | [Telegram](https://t.me/panic_coin) [X](https://x.com/panic_coin) Site (down) [GitHub](https://github.com/Panic-Coin) | 2024-08-02 |
+| 855 | **Tap Planet** | "Tap Planet" is a space clicker game where players explore planets, gather resources,… | [Telegram](https://t.me/tapplanet) [Bot](https://t.me/Tapplanet_bot) | 2024-04-10 |
+| 856 | **Games Ether Bot** | Games Ether includes various mini-games for you to participate in and earn jetton tokens | [Telegram](https://t.me/gamesether_news) [Bot](https://t.me/gamesether_bot) | 2024-06-16 |
+| 858 | **Rage Battles MMORPG** | Welcome to the world of Rage Battles — a unique turn-based tactical P2E MMORPG set in an… | [Telegram](https://t.me/ragebattles) [Bot](https://t.me/RageBattlesBot) | 2022-01-04 |
+| 859 | **Ton Shiba Inu** | Shiba Inu on Ton Blockchain | [Telegram](https://t.me/ton_shibainu) [X](https://x.com/ton_shiba) [Gram News](https://gramnews.org/apps/ton-shiba-inu) | 2024-03-22 |
+| 860 | **TotalCup** | The Battlefield Of Brains | [Telegram](https://t.me/TotalCup) [Bot](https://t.me/TotalCupBot) | 2023-07-20 |
 
 </details>
 
@@ -784,13 +875,13 @@
 
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
-| 586 | **Telegram Fights** | "TonCoinGame is a play-to-earn (P2E) game with a money withdrawal feature where players… | Site (down) | 2023-06 |
-| 606 | **TON World** | New game on TON blockchain allows claiming countries and getting TON when reclaimed by… | Site (down) | 2024-06 |
-| 610 | **TTCoin** |  | [Gram News](https://gramnews.org/apps/ttcoin) | 2024-09-28 |
-| 624 | **X Bull** | X Bull Meme Coin is launching soon! | Site (down) | 2025-01 |
-| 766 | **CookieBitten** | A new P2E game based on The Open Network | Site (down) | 2024-04-13 |
-| 770 | **Mine POO** |  | [Bot](https://t.me/minepoobot) [X](https://x.com/miningpoo) [Site](https://godex.fi) [GitHub](https://github.com/tonpad) | 2024-03-20 |
-| 771 | **Tap Fantasy** | Play to earn and enjoy purrfect feline fun in Tap Fantasy! chat channel： | [Telegram](https://t.me/tapfantasy_announcement) [Bot](https://t.me/TapFantasyGameBot) [X](https://x.com/tapfantasy2021) [Site](https://ton.tapfantasy.io) [GitHub](https://github.com/tapfantasy) | 2022-01-03 |
-| 772 | **TON DOGE bot** |  | [Telegram](https://t.me/tondogeofficial) [Bot](https://t.me/tondoge_bot) [X](https://x.com/tondogeofficial) [Site](https://tondoge.com) | 2022-05-01 |
+| 651 | **Telegram Fights** | "TonCoinGame is a play-to-earn (P2E) game with a money withdrawal feature where players… | Site (down) | 2023-06 |
+| 677 | **TON World** | New game on TON blockchain allows claiming countries and getting TON when reclaimed by… | Site (down) | 2024-06 |
+| 688 | **TTCoin** |  | [Gram News](https://gramnews.org/apps/ttcoin) | 2024-09-28 |
+| 704 | **X Bull** | X Bull Meme Coin is launching soon! | Site (down) | 2025-01 |
+| 857 | **CookieBitten** | A new P2E game based on The Open Network | Site (down) | 2024-04-13 |
+| 861 | **Mine POO** |  | [Bot](https://t.me/minepoobot) [X](https://x.com/miningpoo) [Site](https://godex.fi) [GitHub](https://github.com/tonpad) | 2024-03-20 |
+| 862 | **Tap Fantasy** | Play to earn and enjoy purrfect feline fun in Tap Fantasy! chat channel： | [Telegram](https://t.me/tapfantasy_announcement) [Bot](https://t.me/TapFantasyGameBot) [X](https://x.com/tapfantasy2021) [Site](https://ton.tapfantasy.io) [GitHub](https://github.com/tapfantasy) | 2022-01-03 |
+| 863 | **TON DOGE bot** |  | [Telegram](https://t.me/tondogeofficial) [Bot](https://t.me/tondoge_bot) [X](https://x.com/tondogeofficial) [Site](https://tondoge.com) | 2022-05-01 |
 
 </details>

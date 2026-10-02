@@ -527,6 +527,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,elephantstorebot,Elephant Store,x,confirm,https://x.com/ownthedoge,https://x.com/ownthedoge,https://t.me/slon_market posts link to x.com/ownthedoge
 2026-10-01,explace,Explace,bot,remove,https://t.me/Explaceio,,@Explaceio is a channel and already in the telegram field (tg-probe)
 2026-10-01,bydfi,BYDFi,telegram,remove,https://t.me/tonpreseller_bot,,"@tonpreseller_bot is the telegram of Preseller (""Preseller"") (tg-probe)"
+2026-10-02,dewallet,DeWallet,telegram,remove,https://t.me/delab,,"@delab is the telegram of DeLab Team (""DeLab Team"") (tg-probe)"
 2026-10-01,sender,Sender,bot,remove,https://t.me/HuntexBot,,"@HuntexBot is the bot of HunteX (""HunteX"") (tg-probe)"
 2026-10-01,tondevwallet,TonDevWallet,bot,remove,https://t.me/kitongame_bot,,"@kitongame_bot is the bot of KITON (""KITON"") (tg-probe)"
 2026-10-01,xjetswapbot,xJetSwapBot,telegram,remove,https://t.me/Basic_reality_bot,,"@Basic_reality_bot is the telegram of Basic Reality (""Basic reality"") (tg-probe)"
@@ -548,6 +549,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,ustars,UStars,telegram,remove,https://t.me/UStars_update,,username does not exist on t.me on 2026-10-01 (tg-probe)
 2026-10-01,ustars,UStars,bot,remove,https://t.me/UStars_bot,,username does not exist on t.me on 2026-10-01 (tg-probe)
 2026-10-01,adpact,Adpact,telegram,remove,https://t.me/AdpactBot,,@AdpactBot is a bot and already in the bot field (tg-probe)
+2026-10-02,decoupons,DeCoupons,telegram,remove,https://t.me/delab,,"@delab is the telegram of DeLab Team (""DeLab Team"") (tg-probe)"
 2026-10-01,decoupons,DeCoupons,bot,remove,https://t.me/delabtonbot,,"@delabtonbot is the bot of DeWallet (""DeWallet"") (tg-probe)"
 2026-10-01,dedonate,DeDonate,bot,remove,https://t.me/delabtonbot,,"@delabtonbot is the bot of DeWallet (""DeWallet"") (tg-probe)"
 2026-10-01,moneton,Moneton,telegram,remove,https://t.me/moneton_bot,,"@moneton_bot is a bot, moved to the bot field (tg-probe)"
@@ -576,6 +578,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,ton-mafia-plays,Ton Mafia Plays,bot,remove,https://t.me/tapup_bot,,"@tapup_bot is the bot of TapUp (""TapUp"") (tg-probe)"
 2026-10-01,tonk-analyser,Tonk Analyser,telegram,remove,https://t.me/tonkanalyser_bot,,"@tonkanalyser_bot is a bot, moved to the bot field (tg-probe)"
 2026-10-01,tonk-analyser,Tonk Analyser,bot,replace,,https://t.me/tonkanalyser_bot,"@tonkanalyser_bot is a bot, moved from the telegram field (tg-probe)"
+2026-10-02,tonometer,Tonometer,telegram,remove,https://t.me/delab,,"@delab is the telegram of DeLab Team (""DeLab Team"") (tg-probe)"
 2026-10-01,tonometer,Tonometer,bot,remove,https://t.me/delabtonbot,,"@delabtonbot is the bot of DeWallet (""DeWallet"") (tg-probe)"
 2026-10-01,tonsonar,TonSonar,telegram,remove,https://t.me/tonsonar_bot,,"@tonsonar_bot is a bot, moved to the bot field (tg-probe)"
 2026-10-01,tonsonar,TonSonar,bot,replace,,https://t.me/tonsonar_bot,"@tonsonar_bot is a bot, moved from the telegram field (tg-probe)"
@@ -632,6 +635,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,investment-kingyru-en,Investment kingyru EN,bot,remove,https://t.me/JettonTonGuard_Bot,,"@JettonTonGuard_Bot is the bot of JettonTonGuard (""JettonTonGuard"") (tg-probe)"
 2026-10-01,preseller,Preseller,telegram,remove,https://t.me/tonpreseller_bot,,"@tonpreseller_bot is a bot, moved to the bot field (tg-probe)"
 2026-10-01,preseller,Preseller,bot,replace,,https://t.me/tonpreseller_bot,"@tonpreseller_bot is a bot, moved from the telegram field (tg-probe)"
+2026-10-02,ton-inu-launchpad,TON INU Launchpad,bot,remove,https://t.me/theontonbot,,"@theontonbot is the bot of ONTON (""ONTON"") (tg-probe)"
 2026-10-01,major-1,@Major,telegram,remove,https://t.me/major,,@major is a bot and already in the bot field (tg-probe)
 2026-10-01,khomyakovo-gov,Khomyakovo GOV,telegram,remove,https://t.me/stonksonton,,"@stonksonton is the telegram of sTONks (""sTONks"") (tg-probe)"
 2026-10-01,nft-access-guardian-bot,NFT Access Guardian Bot,telegram,remove,https://t.me/access_ton_control_bot,,"@access_ton_control_bot is a bot, moved to the bot field (tg-probe)"
@@ -660,6 +664,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,bine,Bine,telegram,remove,https://t.me/gold_bux,,"@gold_bux is the telegram of Gold Bux (""Gold Bux"") (tg-probe)"
 2026-10-01,squidpepe,SquidPEPE,telegram,remove,https://t.me/squid_pepe,,username does not exist on t.me on 2026-10-01 (tg-probe)
 2026-10-01,crona,CRONA,telegram,remove,https://t.me/sociafober,,"@sociafober is the telegram of Sociafober (""sociafober"") (tg-probe)"
+2026-10-01,duckonton-game,DuckOnTon Game,bot,remove,https://t.me/psyduckgamexyzbot,,"@psyduckgamexyzbot (""Ducks 💎"") belongs to PsyDuck Game (shared link)"
 2026-10-01,braveminer,BraveMiner,telegram,remove,https://t.me/BFBSPORTGAME,,"@BFBSPORTGAME is the telegram of BFB Sport (""BFB Sport"") (tg-probe)"
 2026-10-01,braveminer,BraveMiner,bot,remove,https://t.me/BTCFootballBot,,"@BTCFootballBot is the bot of BFB Sport (""BFBSPORT"") (tg-probe)"
 2026-10-01,crybble-wars,Crybble Wars,telegram,remove,https://t.me/crybblegame_bot,,"@crybblegame_bot is a bot, moved to the bot field (tg-probe)"
@@ -677,6 +682,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,paidegree,Paidegree,bot,replace,,https://t.me/paidegree_bot,"@paidegree_bot is a bot, moved from the telegram field (tg-probe)"
 2026-10-01,prism-star,PRISM STAR,telegram,remove,https://t.me/PrismStarGameBot,,"@PrismStarGameBot is a bot, moved to the bot field (tg-probe)"
 2026-10-01,prism-star,PRISM STAR,bot,replace,,https://t.me/PrismStarGameBot,"@PrismStarGameBot is a bot, moved from the telegram field (tg-probe)"
+2026-10-01,scp,SCP,telegram,remove,https://t.me/mainet_io,,"@mainet_io (""mAInet"") belongs to mAInet V2 (shared link)"
 2026-10-01,shoble,Shoble,telegram,remove,https://t.me/ShoblePredictBot,,"@ShoblePredictBot is a bot, moved to the bot field (tg-probe)"
 2026-10-01,shoble,Shoble,bot,replace,,https://t.me/ShoblePredictBot,"@ShoblePredictBot is a bot, moved from the telegram field (tg-probe)"
 2026-10-01,ton-breach,TON Breach,telegram,remove,https://t.me/tonbreachbot,,@tonbreachbot is a bot and already in the bot field (tg-probe)
@@ -769,7 +775,9 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,the-anime,The Anime,x,remove,https://x.com/H1997_x,,"@H1997_x is ""Arts of Generation | AI NFTs"", the account of LOA Hero (x profile)"
 2026-10-01,the-future-is-ton,the future is TON,x,confirm,https://x.com/cointool,https://x.com/cointool,profile links to ct.app (x profile)
 2026-10-01,tonvstake,TONvsTAKE,x,remove,https://x.com/TonTakeGame,,"@TonTakeGame is ""@TonTake"", the account of Zernosklad (x profile)"
+2026-10-02,space-adventure,SPACE ADVENTURE,x,remove,https://x.com/bounty_play,,"@Bounty_Play is ""Bounty Play"", the account of Bounty Play (x profile)"
 2026-10-01,fantasygame-bitplay,FantasyGame,x,remove,https://x.com/catplanetstg,,"@catplanetstg is ""Cat Planets"", the account of Cat Planets (x profile)"
+2026-10-02,the-pixels,The Pixels,x,remove,https://x.com/ton_jobs,,"@ton_jobs is ""TON Jobs"", the account of TON Jobs (x profile)"
 2026-10-02,pepe-miner-bot,PEPE Miner Bot,x,confirm,https://x.com/ArcadiaWeb3_0,https://x.com/ArcadiaWeb3_0,profile links to arcadiaweb3.net (x profile)
 2026-10-01,frutoncrypto,Frutoncrypto,x,remove,https://x.com/Pleasure_PLQT,,"@Pleasure_PLQT is ""Pleasure Quest"", the account of Pleasure Quest (x profile)"
 2026-10-01,wheelofwhalesbot,@WheelOfWhalesBot,x,remove,https://x.com/whalegames_en,,"@WhaleGames_en is ""Whale"", the account of Whale (x profile)"
@@ -831,6 +839,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,neko-box,NEKO Box,website,down,https://neko-ton.com/,https://neko-ton.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,portal-fantasy,Portal Fantasy,website,down,https://portalfantasy.io,https://portalfantasy.io,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,caton,CaTon,website,down,https://www.caton.website/,https://www.caton.website/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-02,tfarm,TFARM,website,down,https://docs.tfarm.io/,https://docs.tfarm.io/,site is gone: domain does not resolve on 2026-10-02 (dns)
 2026-10-01,ai-buddy,AI Buddy,website,down,https://web.vbuddy.xyz,https://web.vbuddy.xyz,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,ton-pirate-kings,TON Pirate Kings,website,down,https://tonpiratekings.com/,https://tonpiratekings.com/,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,cat-vs-alien,Cat vs Alien,website,down,https://catvsalien.ai/,https://catvsalien.ai/,site is gone: domain does not resolve on 2026-10-01 (dns)
@@ -862,6 +871,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,farmaton-land,Farmaton land,website,down,https://farmaton.app/,https://farmaton.app/,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,gram-city,GRAM CITY,website,down,https://gcapp.games/,https://gcapp.games/,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,gshake,GSHAKE,website,down,https://gshake.io,https://gshake.io,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-02,hashcash,HashCash,website,down,https://hashcash.top/,https://hashcash.top/,site is gone: domain does not resolve on 2026-10-02 (dns)
 2026-10-01,ikeeper,IKEEPER,website,down,https://ikeeper.app,https://ikeeper.app,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,king-of-dragons,King of Dragons,website,down,https://www.playkod.com,https://www.playkod.com,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,lucky-spins,Lucky Spins,website,down,https://luckyspinsgame.net,https://luckyspinsgame.net,site is gone: domain does not resolve on 2026-10-01 (dns)
@@ -1086,7 +1096,6 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,official-satoshi-miner,Official Satoshi Miner,telegram,remove,https://t.me/notTriton,,"@nottriton ("""") belongs to Triton (shared link)"
 2026-10-01,sportsbet,Sportsbet,telegram,remove,https://t.me/tonshaker_news,,"@tonshaker_news (""TON Shaker News"") belongs to TON Shaker (shared link)"
 2026-10-01,battleofmemes,BattleOfMemes,telegram,remove,https://t.me/head_coin,,"@head_coin (""Headcoin Community 🦁"") belongs to Headcoin (shared link)"
-2026-10-01,scp,SCP,telegram,remove,https://t.me/mainet_io,,"@mainet_io (""mAInet"") belongs to mAInet V2 (shared link)"
 2026-10-01,ton-domain-info-bot,TON Domain Info bot,bot,remove,https://t.me/coincraddle_change_bot,,"@coincraddle_change_bot (""CoinCraddle Bot"") belongs to CoinCraddle (shared link)"
 2026-10-01,bit,BIT,bot,remove,https://t.me/StormTradeBot,,"@stormtradebot ("""") belongs to Storm Trade (shared link)"
 2026-10-01,market-makers,Market Makers,bot,remove,https://t.me/StormTradeBot,,"@stormtradebot ("""") belongs to Storm Trade (shared link)"
@@ -1125,7 +1134,6 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,dnevnik-razrabotchika-na-ton,Дневник разработчика на TON,bot,remove,https://t.me/pandalotterybot,,"@pandalotterybot (""Panda Lotto Bot"") belongs to Panda loto (shared link)"
 2026-10-01,shahnameh,Shahnameh,bot,remove,https://t.me/catsgang_bot,,"@catsgang_bot (""Cats 🐈‍⬛"") belongs to Cats (shared link)"
 2026-10-01,tonjiggle,TONJiggle,bot,remove,https://t.me/treasure_tapper_bot,,"@treasure_tapper_bot (""GALA TreasureTapper"") belongs to TreasureTapper (shared link)"
-2026-10-01,duckonton-game,DuckOnTon Game,bot,remove,https://t.me/psyduckgamexyzbot,,"@psyduckgamexyzbot (""Ducks 💎"") belongs to PsyDuck Game (shared link)"
 2026-10-01,whale,Whale,bot,remove,https://t.me/auraxcryptobot,,"@auraxcryptobot (""RAUM🎊"") belongs to AURA x CAPITAL (shared link)"
 2026-10-01,crypto-masons,Crypto Masons,bot,remove,https://t.me/masson_game_bot,,"@masson_game_bot (""Crypto Mason Game"") belongs to Crypto Mason Game (shared link)"
 2026-10-01,go-app,Go! App,bot,remove,https://t.me/thegoprojectBot,,"@thegoprojectbot (""Go!"") belongs to Go! (shared link)"
@@ -1745,8 +1753,12 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,thumba,Thumba,telegram,replace,,https://t.me/thumbaannouncement,"linked in the bot description: @thumbaannouncement is a channel ""Thumba Announcement"" with 4064 members (channel search)"
 2026-10-01,tonomy,Tonomy,telegram,replace,,https://t.me/tonomynews,"linked in the bot description: @tonomynews is a channel ""Tonomy News"" with 27030 members (channel search)"
 2026-10-01,wheel-of-fate,Wheel of Fate,telegram,replace,,https://t.me/wheeloffate_official,"username guess; its description links the project bot: @wheeloffate_official is a group ""Wheel of Fate💢"" with 2159 members (channel search)"
+2026-10-02,rug-police,RUG Police,x,replace,,https://x.com/RUGP_TON,listed for the RUGP token (the token catalogue of Gram News) (token metadata)
+2026-10-02,rug-police,RUG Police,website,replace,,https://rugp.io,listed for the RUGP token (the token catalogue of Gram News) (token metadata)
 2026-10-01,indicaton,indicaton,telegram,replace,,https://t.me/indicaton,listed for the ICTN token (the token catalogue of Gram News) (token metadata)
 2026-10-01,indicaton,indicaton,x,replace,,https://x.com/indicaton,listed for the ICTN token (the token catalogue of Gram News) (token metadata)
+2026-10-02,telegram-monk,Telegram Monk,x,replace,,https://x.com/TMonkOfficial,listed for the TMONK token (the token catalogue of Gram News) (token metadata)
+2026-10-02,telegram-monk,Telegram Monk,website,replace,,https://tgmonk.com,listed for the TMONK token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-xrocket,XROCK,website,replace,,https://xrocket.tg,listed for the XROCK token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-hot-cherry,CHERRY,x,replace,,https://x.com/HotCherryTG,listed for the CHERRY token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-hot-cherry,CHERRY,website,replace,,https://hotcherry.online,listed for the CHERRY token (the token catalogue of Gram News) (token metadata)
@@ -1789,11 +1801,17 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,token-jetton-games,JetTon Games (JETTON),website,replace,,https://jetton.pet/cffiylglyk5?click_id=%7Bclick_id%7D,listed for the JETTON token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-povel-durev,Povel Durev (DUREV),x,replace,,https://x.com/poveldurev,listed for the DUREV token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-povel-durev,Povel Durev (DUREV),website,replace,,https://poveldurev.net,listed for the DUREV token (the token catalogue of Gram News) (token metadata)
+2026-10-02,s-o-t-a,S.O.T.A.,website,replace,,https://sotatoken.ru,listed for the SOTA token (the token catalogue of Gram News) (token metadata)
 2026-10-01,hydra,Hydra,website,replace,,https://tonhydra.com,listed for the HYDRA token (the token catalogue of Gram News) (token metadata)
 2026-10-01,arbuz,Arbuz,website,replace,,https://tonarbuz.fun,listed for the ARBUZ token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-ton-fish-memecoin,TON FISH MEMECOIN (FISH),website,replace,,https://www.tonfish.io,listed for the FISH token (the token catalogue of Gram News) (token metadata)
+2026-10-02,pok,POK,x,replace,,https://x.com/proofofkarl,listed for the POK token (the token catalogue of Gram News) (token metadata)
+2026-10-02,pok,POK,website,replace,,https://proofofcapital.org,listed for the POK token (the token catalogue of Gram News) (token metadata)
+2026-10-02,sisu,SISU,x,replace,,https://x.com/SisuTon,listed for the SISU token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-gifts-strategy,Gifts Strategy (GIFTSTR),x,replace,,https://x.com/giftsfomo,listed for the GIFTSTR token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-jvault-token,JVault Token (JVT),x,replace,,https://x.com/JVault_app,listed for the JVT token (the token catalogue of Gram News) (token metadata)
+2026-10-02,telo,TELO,website,replace,,https://telo.meme,listed for the TELO token (the token catalogue of Gram News) (token metadata)
+2026-10-02,wtf,WTF,website,replace,,https://tonwtf.xyz,listed for the WTF token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-long-capital,Long Capital (LNG),x,replace,,https://x.com/longton_capital,listed for the LNG token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-long-capital,Long Capital (LNG),website,replace,,https://longton.capital,listed for the LNG token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-coffee,COFFEE (COFE),website,replace,,https://www.cofe.fun,listed for the COFE token (the token catalogue of Gram News) (token metadata)
@@ -1807,6 +1825,8 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,btc25,@BTC25,website,replace,,https://1rus.com,listed for the @BTC25 token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-bemo-staked-ton,bemo Staked TON (STTON),x,replace,,https://x.com/bemo_finance,listed for the STTON token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-bemo-staked-ton,bemo Staked TON (STTON),website,replace,,https://bemo.fi,listed for the STTON token (the token catalogue of Gram News) (token metadata)
+2026-10-02,bolt,BOLT,x,replace,,https://x.com/boltlabston,listed for the BOLT token (the token catalogue of Gram News) (token metadata)
+2026-10-02,bolt,BOLT,website,replace,,https://huebel.art,listed for the BOLT token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-bridged-usd-coin-ton-bridge,Bridged USD Coin (TON Bridge) (JUSDC),website,replace,,https://bridge.ton.org,listed for the JUSDC token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-dogwifhood,DOGWIFHOOD (WIF),x,replace,,https://x.com/dogwifhoodTON,listed for the WIF token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-dogwifhood,DOGWIFHOOD (WIF),website,replace,,https://wifhood.dog,listed for the WIF token (the token catalogue of Gram News) (token metadata)
@@ -1822,14 +1842,22 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,token-grm,Grm (GRM),x,replace,,https://x.com/gramcoinorg,listed for the GRM token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-grm,Grm (GRM),website,replace,,https://gramcoin.org,listed for the GRM token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-jusdt,jUSDT (jUSDT),website,replace,,https://bridge.ton.org,listed for the jUSDT token (the token catalogue of Gram News) (token metadata)
+2026-10-02,lambo,LAMBO,x,replace,,https://x.com/LAMBOtokenTON,listed for the $LAMBO token (the token catalogue of Gram News) (token metadata)
+2026-10-02,lambo,LAMBO,website,replace,,https://lambo.tg,listed for the $LAMBO token (the token catalogue of Gram News) (token metadata)
+2026-10-02,lambo-2,LAMBO,x,replace,,https://x.com/LAMBOtokenTON,listed for the $LAMBO token (the token catalogue of Gram News) (token metadata)
+2026-10-02,lambo-2,LAMBO,website,replace,,https://lambo.tg,listed for the $LAMBO token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-make-ton-great-again,Make TON Great Again (MTONGA),x,replace,,https://x.com/MTONGA_ON_TON,listed for the MTONGA token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-make-ton-great-again,Make TON Great Again (MTONGA),website,replace,,https://www.mtonga.com/,listed for the MTONGA token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-moew,MOEW (MOEW),x,replace,,https://x.com/MOEW_Agent,listed for the MOEW token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-moew,MOEW (MOEW),website,replace,,https://donotfomoew.org,listed for the MOEW token (the token catalogue of Gram News) (token metadata)
+2026-10-02,new,NEW,x,replace,,https://x.com/newjetton,listed for the NEW token (the token catalogue of Gram News) (token metadata)
+2026-10-02,new,NEW,website,replace,,https://new-jetton.site,listed for the NEW token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-nikolai,NikolAI (NIKO),x,replace,,https://x.com/NikolAIToncoin,listed for the NIKO token (the token catalogue of Gram News) (token metadata)
 2026-10-01,peng,Peng,website,replace,,https://pengonton.com,listed for the PENG token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-pingo,PinGo (PINGO),website,replace,,https://pingo.work,listed for the PINGO token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-piratecash,PirateCash (PIRATE),x,replace,,https://x.com/PirateCash_NET,listed for the PIRATE token (the token catalogue of Gram News) (token metadata)
+2026-10-02,plpp,PLPP,x,replace,,https://x.com/poolpepehold,listed for the PLPP token (the token catalogue of Gram News) (token metadata)
+2026-10-02,pupcuby,PUPCUBY,x,replace,,https://x.com/pupcuby,listed for the PUPCUBY token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-stonks,sTONks (STONKS),x,replace,,https://x.com/stonksbots,listed for the STONKS token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-stonks,sTONks (STONKS),website,replace,,https://stonksbots.com,listed for the STONKS token (the token catalogue of Gram News) (token metadata)
 2026-10-01,toge,TOGE,website,replace,,https://toge.world,listed for the TOGE token (the token catalogue of Gram News) (token metadata)
@@ -1844,6 +1872,8 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,token-woof,WOOF (WOOF),website,replace,,https://x.com/lostdogsco,listed for the WOOF token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-x-empire,X Empire (X),x,replace,,https://x.com/xempiregame,listed for the X token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-x-empire,X Empire (X),website,replace,,https://xempire.io,listed for the X token (the token catalogue of Gram News) (token metadata)
+2026-10-02,unic,UNIC,x,replace,,https://x.com/unicornmainai,listed for the UNIC token (the token catalogue of Gram News) (token metadata)
+2026-10-02,unic,UNIC,website,replace,,https://unic.pro,listed for the UNIC token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-evosimgame,EvoSimGame (ESIM),website,replace,,https://evolife.me,listed for the ESIM token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-dedust,DeDust (DUST),x,replace,,https://x.com/dedust_io,listed for the DUST token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-dedust,DeDust (DUST),website,replace,,https://dedust.io,listed for the DUST token (the token catalogue of Gram News) (token metadata)
@@ -1862,6 +1892,8 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,token-punkcity,PunkCity (PUNK),website,replace,,https://tonpunks.org,listed for the PUNK token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-ownershipcoin,OwnershipCoin (OC),x,replace,,https://x.com/ownershipcoin,listed for the OC token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-ownershipcoin,OwnershipCoin (OC),website,replace,,https://ownershipcoin.com,listed for the OC token (the token catalogue of Gram News) (token metadata)
+2026-10-02,tondev,TONDEV,x,replace,,https://x.com/tondevmeme,listed for the TONDEV token (the token catalogue of Gram News) (token metadata)
+2026-10-02,tondev,TONDEV,website,replace,,https://tondev.foundation,listed for the TONDEV token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-amocucinare,Amocucinare (AMORE),x,replace,,https://x.com/AmoreCoin,listed for the AMORE token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-goats,GOATS (GOATS),website,replace,,https://ton.goatsbot.xyz/,listed for the GOATS token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-hamster-kombat,Hamster Kombat (HMSTR),x,replace,,https://x.com/hamster_kombat,listed for the HMSTR token (the token catalogue of Gram News) (token metadata)
@@ -1869,8 +1901,12 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,token-fpi-bank,FPI Bank (FPIBANK),website,replace,,https://fpibank.com,listed for the FPIBANK token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-artdra-coin,ARTDRA Coin (ARTDRA),x,replace,,https://x.com/combatgamestv,listed for the ARTDRA token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-artdra-coin,ARTDRA Coin (ARTDRA),website,replace,,https://artdra.pro,listed for the ARTDRA token (the token catalogue of Gram News) (token metadata)
+2026-10-02,bolgur,Bolgur,x,replace,,https://x.com/airinabolgur,listed for the BOLGUR token (the token catalogue of Gram News) (token metadata)
+2026-10-02,bolgur,Bolgur,website,replace,,https://bolgur.ai,listed for the BOLGUR token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-ton-cat,Ton Cat (TCAT),x,replace,,https://x.com/TonCatonTon,listed for the TCAT token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-ton-cat,Ton Cat (TCAT),website,replace,,https://www.toncat.net,listed for the TCAT token (the token catalogue of Gram News) (token metadata)
+2026-10-02,bark47,BARK47,x,replace,,https://x.com/bark047,listed for the BARK47 token (the token catalogue of Gram News) (token metadata)
+2026-10-02,bark47,BARK47,website,replace,,https://bark47.com,listed for the BARK47 token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-evaa-protocol,EVAA Protocol (EVAA),x,replace,,https://x.com/evaaprotocol,listed for the EVAA token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-tac,TAC (TAC),x,replace,,https://x.com/TacBuild,listed for the TAC token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-tac,TAC (TAC),website,replace,,https://tac.build,listed for the TAC token (the token catalogue of Gram News) (token metadata)
@@ -1878,9 +1914,15 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,token-build,BUILD (BUILD),website,replace,,https://openbuilders.xyz,listed for the BUILD token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-tapswaptoken,TapSwapToken (TAPS),x,replace,,https://x.com/tapswapai,listed for the TAPS token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-tapswaptoken,TapSwapToken (TAPS),website,replace,,https://www.tapswap.ai,listed for the TAPS token (the token catalogue of Gram News) (token metadata)
+2026-10-02,oton,OTON,x,replace,,https://x.com/RealOranguTON,listed for the OTON token (the token catalogue of Gram News) (token metadata)
+2026-10-02,oton,OTON,website,replace,,https://oranguton.com,listed for the OTON token (the token catalogue of Gram News) (token metadata)
 2026-10-01,redo,Redo,website,replace,,https://redoton.com,listed for the REDO token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-resistance-dog,Resistance Dog (REDO),x,replace,,https://x.com/redotoken,listed for the REDO token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-resistance-dog,Resistance Dog (REDO),website,replace,,https://redoton.com,listed for the REDO token (the token catalogue of Gram News) (token metadata)
+2026-10-02,kakaxa,KAKAXA,x,replace,,https://x.com/kakaxa_ton,listed for the KAKAXA token (the token catalogue of Gram News) (token metadata)
+2026-10-02,kakaxa,KAKAXA,website,replace,,https://kakaxa.com/eng#rec739886644,listed for the KAKAXA token (the token catalogue of Gram News) (token metadata)
+2026-10-02,alenka,Alenka,x,replace,,https://x.com/AlenkaTON,listed for the ALENKA token (the token catalogue of Gram News) (token metadata)
+2026-10-02,alenka,Alenka,website,replace,,https://alenka.tg,listed for the ALENKA token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-resistance-girl,Resistance Girl (REGI),x,replace,,https://x.com/regitoncoin,listed for the REGI token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-resistance-girl,Resistance Girl (REGI),website,replace,,https://regiton.net,listed for the REGI token (the token catalogue of Gram News) (token metadata)
 2026-10-01,token-sad-meow,SAD MEOW (SADMEOW),x,replace,,https://x.com/SadMeowMP3,listed for the SADMEOW token (the token catalogue of Gram News) (token metadata)
@@ -1901,10 +1943,19 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,major-1,@Major,website,replace,,https://major.bot,listed for the MAJOR token (the token catalogue of Gram News) (token metadata)
 2026-10-01,spinnercoin,SpinnerCoin,website,replace,,https://spinnercoin.org,listed for the SPN token (the token catalogue of Gram News) (token metadata)
 2026-10-01,fanton,Fanton,website,replace,,https://fan-ton.com,listed for the FTON token (the token catalogue of Gram News) (token metadata)
+2026-10-02,napiwas,NaPiwas,website,replace,,https://napiwas.com,listed for the NAPIWAS token (the token catalogue of Gram News) (token metadata)
 2026-10-01,prism-star,PRISM STAR,website,replace,,https://playprismstar.com,listed for the PRISM token (the token catalogue of Gram News) (token metadata)
+2026-10-02,ton-ship,TON Ship,x,replace,,https://x.com/TonShipCom,listed for the SHIP token (the token catalogue of Gram News) (token metadata)
+2026-10-02,ton-ship,TON Ship,website,replace,,https://tonship.com,listed for the SHIP token (the token catalogue of Gram News) (token metadata)
+2026-10-02,big-balls-birds,Big Balls Birds,x,replace,,https://x.com/balls_on_ton,listed for the BALLS token (the token catalogue of Gram News) (token metadata)
+2026-10-02,big-balls-birds,Big Balls Birds,website,replace,,https://bigballsbirds.fun,listed for the BALLS token (the token catalogue of Gram News) (token metadata)
 2026-10-01,dropee,Dropee,website,replace,,https://dropee.xyz,listed for the DROPEE token (the token catalogue of Gram News) (token metadata)
 2026-10-01,cats-93sn9i,Cats,website,replace,,https://www.catshouse.live,listed for the CATS token (the token catalogue of Gram News) (token metadata)
 2026-10-01,goats,GOATS,website,replace,,https://ton.goatsbot.xyz/,listed for the GOATS token (the token catalogue of Gram News) (token metadata)
+2026-10-02,mainet,mAInet,x,replace,,https://x.com/MaiNet_io,listed for the CORE token (the token catalogue of Gram News) (token metadata)
+2026-10-02,mainet,mAInet,website,replace,,https://mainet-game.gitbook.io/mainet-whitepaper,listed for the CORE token (the token catalogue of Gram News) (token metadata)
+2026-10-02,redo-invest,Redo Invest,x,replace,,https://x.com/redoinveston,listed for the REDOI token (the token catalogue of Gram News) (token metadata)
+2026-10-02,redo-invest,Redo Invest,website,replace,,https://redoifoundation.org,listed for the REDOI token (the token catalogue of Gram News) (token metadata)
 2026-10-02,tryton-wallet,TryTON Wallet,x,replace,,https://x.com/tryton_on_ton,listed in DexScreener token info (TryTON): shares a link and a name word with the project (metadata)
 2026-10-02,tryton-wallet,TryTON Wallet,website,replace,,https://tryton-on-ton.com,listed in DexScreener token info (TryTON): shares a link and a name word with the project (metadata)
 2026-10-02,nft-plushpepe,Plush Pepe,telegram,replace,,https://t.me/plushpepe_coin,listed in DexScreener token info (Plush Pepe): same name (metadata)
@@ -1926,5 +1977,25 @@ date,slug,name,field,action,old,new,evidence
 2026-10-02,asteroid-shiba,Asteroid Shiba,website,replace,,https://www.asteroidshiba-ton.xyz,listed in DexScreener token info (Asteroid Shiba): same name (metadata)
 2026-10-02,babyton,BABYTON,website,replace,,https://www.babyton.pro,listed in NFT collection metadata on TON (BABYTON): same name (metadata)
 2026-10-02,starnex-app,StarNex,x,replace,,https://x.com/starnexton,listed in NFT collection metadata on TON (StarNex Collection): shares a link and a name word with the project (metadata)
+2026-10-02,token-blum,Blum (BLUM),bot,replace,,https://t.me/blumcryptobot,"its t.me description names @blumcrypto, the project's own account (post corpus)"
+2026-10-02,token-memhash,Memhash (MEMHASH),bot,replace,,https://t.me/memhash_bot,"its t.me description names @memhash, the project's own account (post corpus)"
+2026-10-02,settleton,SettleTON,bot,replace,,https://t.me/settleton_bot,"its t.me description names @settleton, the project's own account (post corpus)"
+2026-10-02,ton-raffles-bot,Ton Raffles Bot,telegram,replace,,https://t.me/tonraffles_ru,"its t.me description names @tonraffle_bot, the project's own account (post corpus)"
+2026-10-02,fiva,Fiva,bot,replace,,https://t.me/fiva_yield_bot,"its t.me description names @fiva_protocol, the project's own account (post corpus)"
+2026-10-02,sleepagotchi,Sleepagotchi,bot,replace,,https://t.me/sleepagotchilite_bot,"its t.me description names @sleepagotchi, the project's own account (post corpus)"
+2026-10-02,cryptohalva,Криптохалва,telegram,replace,,https://t.me/beetonchat,"its t.me description names @beeton_kriptohalva_bot, the project's own account (post corpus)"
+2026-10-02,cybers-cat,Cybers Cat,telegram,replace,,https://t.me/cyberscats,"its t.me description names @cyberscatbot, the project's own account (post corpus)"
+2026-10-02,monkey,Monkey,telegram,replace,,https://t.me/monkey_on_ton,"its t.me description names @monkeycost_bot, the project's own account (post corpus)"
+2026-10-02,sunspace-jump,SunSpace JUMP,telegram,replace,,https://t.me/sunspace_spc,"its t.me description names @sunspacejump_bot, the project's own account (post corpus)"
+2026-10-02,the-pixels,The Pixels,telegram,replace,,https://t.me/thepixelsgame,"its t.me description names @the_pixels_bot, the project's own account (post corpus)"
+2026-10-02,money-mining,Money Mining,telegram,replace,,https://t.me/moneyminingplay,"its t.me description names @money_mining_bot, the project's own account (post corpus)"
+2026-10-02,duckygram,Duckygram,telegram,replace,,https://t.me/duckygram_game,"its t.me description names @duckygram_bot, the project's own account (post corpus)"
+2026-10-02,coincodex,CoinCodex,bot,replace,,https://t.me/toncoin_airdrop_eng_bot,"its t.me description names @toncoin, the project's own account (post corpus)"
+2026-10-02,ton-cats-jetton,TON Cats Jetton,bot,replace,,https://t.me/toncats_cbot,"its t.me description names @toncats_tg, the project's own account (post corpus)"
+2026-10-02,tonlanders,Tonlanders,bot,replace,,https://t.me/tonlanders_airdrop_bot,"its t.me description names @tonlanders, the project's own account (post corpus)"
+2026-10-02,duckygram,Duckygram,telegram,replace,,https://t.me/duckygram_chat,"its t.me description names @duckygram_bot, the project's own account (post corpus)"
+2026-10-02,xblast-app,xBLAST APP,telegram,replace,,https://t.me/xblast_app,"its t.me description names @xblastappbot, the project's own account (post corpus)"
+2026-10-02,the-pixels,The Pixels,telegram,replace,,https://t.me/thepixelsgameru,"its t.me description names @the_pixels_bot, the project's own account (post corpus)"
 2026-10-02,cocoon,Cocoon,website,replace,https://cocoon.doge.tg,https://cocoon.org,cocoon.org is the official site: it links t.me/cocoon and github.com/TelegramMessenger/cocoon; cocoon.doge.tg is a third-party explorer (by hand)
 2026-10-02,cocoon,Cocoon,github,replace,,https://github.com/TelegramMessenger/cocoon,linked from cocoon.org (by hand)
+2026-10-02,coincodex,CoinCodex,telegram,remove,https://t.me/toncoin,,"t.me/toncoin is the TON community channel, not CoinCodex (by hand)"
