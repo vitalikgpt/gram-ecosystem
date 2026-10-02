@@ -54,6 +54,21 @@ Each category has its own page with every project, active ones first.
 | [Funds](categories/funds.md) | 1 | 19 | [TON Ventures](https://t.me/ton_ventures), [TVM Ventures](https://t.me/tvmventures), [TONcoin.Fund](https://toncoin.fund), [Animoca Brands](https://www.animocabrands.com) | [table](data/by-category/funds.csv) |
 | [Accelerators](categories/accelerators.md) | 1 | 13 | [TON Accelerator](https://t.me/accelerator_ton), [Gaming.tg](https://t.me/tggamingaccelerator), Telegram Growth Hub, TON Nest | [table](data/by-category/accelerators.csv) |
 
+```mermaid
+pie showData
+  title What the catalogue is made of
+  "Games" : 1156
+  "Farming" : 912
+  "NFT & Gifts" : 270
+  "Tokens" : 231
+  "Casino" : 219
+  "Tools" : 184
+  "Analytics" : 158
+  "Social" : 135
+  "Wallets" : 119
+  "Other 26 categories" : 1177
+```
+
 ## Largest projects
 
 By reach: post views on the project's own channel from July to September 2026, or its bot's monthly users, whichever is larger.
@@ -314,6 +329,10 @@ By language: Russian 802, English 360, Persian 11, Ukrainian 11, Chinese 7, Arab
 ## Contribute
 
 Found a wrong link or a missing project? Fill in a form, no files to edit: [wrong link](https://github.com/vitalikgpt/gram-ecosystem/issues/new?template=fix-link.yml), [missing project](https://github.com/vitalikgpt/gram-ecosystem/issues/new?template=add-project.yml). Pull requests are welcome too, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Cite
+
+GitHub's *Cite this repository* button gives the reference in APA and BibTeX ([CITATION.cff](CITATION.cff)).
 
 ## License
 

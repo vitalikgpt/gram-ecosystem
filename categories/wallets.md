@@ -4,6 +4,14 @@
 
 **119 projects: 29 active, 88 quiet, 2 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/wallets.csv).
 
+```mermaid
+%%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
+xychart-beta
+  title "Launched per year"
+  x-axis ["2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
+  bar [1, 1, 2, 2, 18, 16, 44, 11, 17]
+```
+
 ## Active
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |

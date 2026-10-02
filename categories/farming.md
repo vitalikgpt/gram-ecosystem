@@ -4,6 +4,14 @@
 
 **912 projects: 245 active, 659 quiet, 8 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/farming.csv).
 
+```mermaid
+%%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
+xychart-beta
+  title "Launched per year"
+  x-axis ["2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
+  bar [1, 0, 2, 14, 25, 42, 487, 139, 183]
+```
+
 ## Active
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |

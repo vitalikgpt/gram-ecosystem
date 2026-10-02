@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Gram Ecosystem: TON and Telegram projects"
+abstract: "Every TON and Telegram project we could verify, with channels, bots, X accounts, sites, GitHub, Telegram ids, launch dates and activity, plus the channels that write about the ecosystem and the pairs Telegram shows as similar. Links are checked weekly and every fix is logged with its evidence."
+authors:
+  - name: "Gram News"
+    website: "https://gramnews.org"
+repository-code: "https://github.com/vitalikgpt/gram-ecosystem"
+url: "https://github.com/vitalikgpt/gram-ecosystem"
+license: CC-BY-4.0
+keywords:
+  - TON
+  - Telegram
+  - mini apps
+  - open data
+  - ecosystem map

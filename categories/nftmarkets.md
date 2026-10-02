@@ -4,6 +4,14 @@
 
 **270 projects: 87 active, 167 quiet, 16 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/nftmarkets.csv).
 
+```mermaid
+%%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
+xychart-beta
+  title "Launched per year"
+  x-axis ["2020", "2021", "2022", "2023", "2024", "2025", "2026"]
+  bar [1, 1, 28, 43, 75, 71, 49]
+```
+
 ## Active
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |

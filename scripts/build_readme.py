@@ -223,6 +223,11 @@ def build():
                 nrel[x["organisation_slug"]] = nrel.get(x["organisation_slug"], 0) + 1
             pick = sorted(items, key=lambda r: (-nrel.get(r["slug"], 0), "gramnews-orgs" not in r["sources"], int(r["rank"])))
         out.append(f"| [{c['label']}](categories/{c['key']}.md) | {len(act)} | {len(items)} | {', '.join(plink(r) for r in pick[:4])} | [table](data/by-category/{c['key']}.csv) |")
+    # what the ecosystem is made of: the nine largest categories and the rest as one slice
+    sizes = sorted(((label[c["key"]], len(by.get(c["key"], []))) for c in cats), key=lambda kv: -kv[1])
+    out += ["", "```mermaid", "pie showData", '  title What the catalogue is made of']
+    out += [f'  "{n}" : {v}' for n, v in sizes[:9]]
+    out += [f'  "Other {len(sizes) - 9} categories" : {sum(v for _, v in sizes[9:])}', "```"]
     top = sorted((r for r in rows if r["status"] == "active" and r["category"] not in ("tokens", "nftcaps")),
                  key=reach_n, reverse=True)[:TOP_REACH]
     out += [
@@ -473,6 +478,10 @@ def build():
         "[missing project](https://github.com/vitalikgpt/gram-ecosystem/issues/new?template=add-project.yml). "
         "Pull requests are welcome too, see [CONTRIBUTING.md](CONTRIBUTING.md).",
         "",
+        "## Cite",
+        "",
+        "GitHub's *Cite this repository* button gives the reference in APA and BibTeX ([CITATION.cff](CITATION.cff)).",
+        "",
         "## License",
         "",
         "Data (`data/`, `reports/`) under [CC BY 4.0](LICENSE-DATA): reuse freely, credit Gram News. "
@@ -506,6 +515,15 @@ def build():
             f"The same list as a [searchable table](../data/by-category/{c['key']}.csv).",
             "",
         ]
+        years = {}
+        for r in items:
+            if r["launched"][:4].isdigit() and r["launched"][:4] >= "2018":
+                years[r["launched"][:4]] = years.get(r["launched"][:4], 0) + 1
+        if len(years) >= 3:   # when the category was born and when it boomed; this year so far
+            ys = [str(y) for y in range(int(min(years)), int(max(years)) + 1)]
+            p += ["```mermaid", '%%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%',
+                  "xychart-beta", '  title "Launched per year"', "  x-axis [" + ", ".join(f'\"{y}\"' for y in ys) + "]",
+                  "  bar [" + ", ".join(str(years.get(y, 0)) for y in ys) + "]", "```", ""]
         if act:
             p += ["## Active", ""] + table(act, "../") + [""]
         for st, title in (("quiet", "Quiet"), ("closed", "Closed")):
