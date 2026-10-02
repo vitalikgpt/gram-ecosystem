@@ -2,7 +2,7 @@
 
 # Casino
 
-**219 projects: 50 active, 163 quiet, 6 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**219 projects: 50 active, 163 quiet, 6 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/gambling.csv).
 
 ## Active
 

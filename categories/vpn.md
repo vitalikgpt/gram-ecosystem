@@ -2,7 +2,7 @@
 
 # Privacy
 
-**42 projects: 11 active, 30 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**42 projects: 11 active, 30 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/vpn.csv).
 
 ## Active
 

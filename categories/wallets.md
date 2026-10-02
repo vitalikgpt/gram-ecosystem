@@ -2,7 +2,7 @@
 
 # Wallets
 
-**119 projects: 29 active, 88 quiet, 2 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**119 projects: 29 active, 88 quiet, 2 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/wallets.csv).
 
 ## Active
 

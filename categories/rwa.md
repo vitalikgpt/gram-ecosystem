@@ -2,7 +2,7 @@
 
 # RWA
 
-**13 projects: 4 active, 9 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**13 projects: 4 active, 9 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/rwa.csv).
 
 ## Active
 

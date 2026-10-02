@@ -2,7 +2,7 @@
 
 # Shopping
 
-**47 projects: 7 active, 37 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**47 projects: 7 active, 37 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/shopping.csv).
 
 ## Active
 

@@ -2,7 +2,7 @@
 
 # Tokens
 
-**231 projects: 57 active, 174 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**231 projects: 57 active, 174 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/tokens.csv).
 
 ## Active
 

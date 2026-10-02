@@ -2,7 +2,7 @@
 
 # Bridges
 
-**24 projects: 11 active, 11 quiet, 2 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**24 projects: 11 active, 11 quiet, 2 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/bridges.csv).
 
 ## Active
 

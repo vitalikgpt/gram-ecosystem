@@ -2,7 +2,7 @@
 
 # Games
 
-**1156 projects: 131 active, 1014 quiet, 11 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**1156 projects: 131 active, 1014 quiet, 11 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/games.csv).
 
 ## Active
 

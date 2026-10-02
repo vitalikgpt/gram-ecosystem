@@ -2,7 +2,7 @@
 
 # DEX
 
-**87 projects: 16 active, 68 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**87 projects: 16 active, 68 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/dex.csv).
 
 ## Active
 

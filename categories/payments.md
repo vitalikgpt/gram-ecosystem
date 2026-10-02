@@ -2,7 +2,7 @@
 
 # Payments
 
-**90 projects: 28 active, 60 quiet, 2 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**90 projects: 28 active, 60 quiet, 2 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/payments.csv).
 
 ## Active
 

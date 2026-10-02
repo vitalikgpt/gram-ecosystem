@@ -2,7 +2,7 @@
 
 # Explorers
 
-**15 projects: 6 active, 9 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**15 projects: 6 active, 9 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/explorers.csv).
 
 ## Active
 

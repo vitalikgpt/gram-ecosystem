@@ -2,7 +2,7 @@
 
 # Developer tools
 
-**112 projects: 19 active, 90 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**112 projects: 19 active, 90 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/devtools.csv).
 
 ## Active
 

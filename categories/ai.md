@@ -2,7 +2,7 @@
 
 # AI
 
-**67 projects: 17 active, 49 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**67 projects: 17 active, 49 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/ai.csv).
 
 ## Active
 

@@ -2,7 +2,7 @@
 
 # Staking
 
-**50 projects: 15 active, 32 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**50 projects: 15 active, 32 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/staking.csv).
 
 ## Active
 

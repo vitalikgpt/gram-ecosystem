@@ -2,7 +2,7 @@
 
 # Funds
 
-**19 projects: 1 active, 18 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**19 projects: 1 active, 18 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/funds.csv).
 
 ## Active
 

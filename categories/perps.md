@@ -2,7 +2,7 @@
 
 # Perp DEX
 
-**13 projects: 7 active, 6 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**13 projects: 7 active, 6 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/perps.csv).
 
 ## Active
 
