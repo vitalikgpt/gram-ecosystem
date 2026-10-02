@@ -49,14 +49,41 @@ def cell(s):
     return (s or "").replace("|", "/").replace("[", "(").replace("]", ")")
 
 
-def short(s, n=90):
-    s = cell(s)
-    return s if len(s) <= n else s[: n - 1].rsplit(" ", 1)[0] + "…"
+def short(s):
+    """The description as written; no cutting to fit (a sentence with its end lopped off says less than none)."""
+    return cell(s)
+
+
+def home(r):
+    """Where a project lives: its channel, else its bot, its site (if it answers) or its X."""
+    return r["telegram"] or r["bot"] or (r["website"] if not r.get("website_down") else "") or r["x"]
+
+
+def plink(r):
+    url = home(r)
+    return f"[{cell(r['name'])}]({url})" if url else cell(r["name"])
+
+
+EMOJI = re.compile("[\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF\uFE0F\u200d]")
+
+
+def tname(s):
+    """A channel title as a name: no emoji, no «Name / slogan / slogan» tail."""
+    s = EMOJI.sub("", s or "")
+    s = re.split(r"\s+(?:/|\||•|—|-)\s+", s)[0]
+    return cell(re.sub(r"\s+", " ", s).strip(" -|•/"))
 
 
 def badge(label, value, color="5aa9ff"):
     q = lambda t: urllib.parse.quote(str(t).replace("-", "--").replace("_", "__"))
     return f"https://img.shields.io/badge/{q(label)}-{q(value)}-{color}?style=flat-square"
+
+
+def verified(r):
+    """«since 2023-10» when the Web Archive dates the badge, «yes» when it is there but undated."""
+    if r.get("verified") != "1":
+        return ""
+    return f"since {r['verified_since'][:7]}" if r.get("verified_since") else "yes"
 
 
 def links(r):
@@ -77,11 +104,11 @@ def links(r):
 
 
 def table(items, prefix=""):
-    out = ["| # | Project | What it is | Links | Launched | Peak MAU | Verified since |",
+    out = ["| # | Project | What it is | Links | Launched | Peak MAU | Verified |",
            "| ---: | --- | --- | --- | --- | ---: | --- |"]
     for r in items:
         peak = fmt(r["peak_mau"]) if r.get("peak_mau") else ""
-        out.append(f"| {r['rank']} | **{cell(r['name'])}** | {short(r['description'])} | {links(r)} | {r.get('launched', '')} | {peak} | {r.get('verified_since', '')[:7]} |")
+        out.append(f"| {r['rank']} | **{cell(r['name'])}** | {short(r['description'])} | {links(r)} | {r.get('launched', '')} | {peak} | {verified(r)} |")
     return out
 
 
@@ -119,7 +146,7 @@ def build():
     pages = {}
     badges = [
         ("projects", f"{len(rows):,}", "5aa9ff"), ("active", f"{count('active'):,}", "4cd08a"),
-        ("categories", len(cats), "5aa9ff"), ("links fixed", f"{fixed:,}", "f2b84b"),
+        ("categories", len(cats), "5aa9ff"), ("channels", f"{len(chans):,}", "5aa9ff"), ("links fixed", f"{fixed:,}", "f2b84b"),
         ("data", "CC BY 4.0", "lightgrey"),
     ]
     out = [
@@ -136,7 +163,8 @@ def build():
         "",
         "Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, build on it.",
         "",
-        "**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Studios and funds](#studios-funds-and-accelerators), [How to read it](#how-to-read-it), "
+        "**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Neighbours on Telegram](#neighbours-on-telegram), "
+        "[Studios and funds](#studios-funds-and-accelerators), [Channels](#channels), [How to read it](#how-to-read-it), "
         "[Data](#data), [Maps and reports](#maps-and-reports), [Contribute](#contribute)",
         "",
         "## Categories",
@@ -149,7 +177,13 @@ def build():
     for c in cats:
         items = by.get(c["key"], [])
         act = [r for r in items if r["status"] == "active"]
-        out.append(f"| [{c['label']}](categories/{c['key']}.md) | {len(act)} | {len(items)} | {', '.join(cell(r['name']) for r in act[:4])} |")
+        pick = act
+        if c["key"] in ("studios", "funds", "accelerators"):   # the portfolio organisations, not whoever posted most
+            nrel = {}
+            for x in (csv.DictReader(open("data/relations.csv", encoding="utf-8")) if os.path.exists("data/relations.csv") else []):
+                nrel[x["organisation_slug"]] = nrel.get(x["organisation_slug"], 0) + 1
+            pick = sorted(items, key=lambda r: (-nrel.get(r["slug"], 0), "gramnews-orgs" not in r["sources"], int(r["rank"])))
+        out.append(f"| [{c['label']}](categories/{c['key']}.md) | {len(act)} | {len(items)} | {', '.join(plink(r) for r in pick[:4])} |")
     top = sorted((r for r in rows if r["status"] == "active" and r["category"] not in ("tokens", "nftcaps")),
                  key=reach_n, reverse=True)[:TOP_REACH]
     out += [
@@ -159,12 +193,44 @@ def build():
         "By reach: post views on the project's own channel from July to September 2026, or its bot's monthly users, "
         "whichever is larger.",
         "",
-        "| Project | Category | What it is | Reach |",
-        "| --- | --- | --- | ---: |",
+        "| Project | Category | Reach | Peak MAU | Launched | Verified |",
+        "| --- | --- | ---: | ---: | --- | --- |",
     ]
     for r in top:
-        url = r["telegram"] or r["bot"] or r["website"] or r["x"]
-        out.append(f"| [{cell(r['name'])}]({url}) | {label[r['category']]} | {short(r['description'], 70)} | {fmt(reach_n(r))} |")
+        out.append(f"| {plink(r)} | [{label[r['category']]}](categories/{r['category']}.md) | {fmt(reach_n(r))} | "
+                   f"{fmt(r['peak_mau']) if r.get('peak_mau') else ''} | {r['launched'][:7]} | {verified(r)} |")
+    # who Telegram shows next to the largest projects: the top of their similar lists, both sides in this dataset
+    sim = list(csv.DictReader(open("data/similar.csv", encoding="utf-8"))) if os.path.exists("data/similar.csv") else []
+    by_url = {}
+    for r in rows:
+        for k in ("telegram", "bot"):
+            if r[k]: by_url.setdefault(r[k], r)
+    for c in chans:
+        by_url.setdefault(c["telegram"], dict(name=c["name"], telegram=c["telegram"], bot="", website="", x=""))
+    nexts = {}
+    for e in sim:
+        nexts.setdefault(e["from"], []).append(e)
+    shown = []
+    for r in sorted((r for r in rows if r["category"] != "tokens"), key=reach_n, reverse=True):   # a token beside its own project would show twice
+        es = sorted(nexts.get(r["telegram"], []) + nexts.get(r["bot"], []), key=lambda e: int(e["rank"]))
+        es = [e for e in es if by_url.get(e["to"]) is not r]
+        if len(es) >= 3:
+            shown.append((r, es[:4]))
+        if len(shown) == 10:
+            break
+    out += [
+        "",
+        "## Neighbours on Telegram",
+        "",
+        "Whom Telegram itself puts in *similar channels* and *similar bots* next to the largest projects, in its order. "
+        "It picks them by overlapping audiences, so this is who shares the crowd, not who sends traffic. "
+        f"All {len(sim):,} pairs are in [data/similar.csv](data/similar.csv) (snapshot of June 2026).",
+        "",
+        "| Project | Shown next to it |",
+        "| --- | --- |",
+    ]
+    for r, es in shown:
+        out.append(f"| {plink(r)} | " + ", ".join(plink(by_url[e['to']]) if e["to"] in by_url else cell(e["to_name"]) for e in es) + " |")
     out += [
         "",
         "## Studios, funds and accelerators",
@@ -172,8 +238,8 @@ def build():
         "Who builds and backs the projects. Each link between a project and an organisation is in "
         "[data/relations.csv](data/relations.csv) with the page that states it.",
         "",
-        "| Organisation | Type | Projects |",
-        "| --- | --- | --- |",
+        "| Organisation | Type | Projects | Sources |",
+        "| --- | --- | --- | --- |",
     ]
     rels = list(csv.DictReader(open("data/relations.csv", encoding="utf-8"))) if os.path.exists("data/relations.csv") else []
     kind = {"studios": "studio", "funds": "fund", "accelerators": "accelerator"}
@@ -184,8 +250,15 @@ def build():
         mine = [x for x in rels if x["organisation_slug"] == r["slug"]]
         if not mine:
             continue
-        out.append(f"| [{cell(r['name'])}](categories/{r['category']}.md) | {kind[r['category']]} | "
-                   + ", ".join(f"[{cell(x['project'])}]({x['source']}) ({verb.get(x['relation'], x['relation'])})" for x in mine) + " |")
+        by_slug = {p["slug"]: p for p in rows}
+        groups = {}
+        for x in mine:
+            groups.setdefault(verb.get(x["relation"], x["relation"]), []).append(x)
+        srcs = list(dict.fromkeys(x["source"] for x in mine))
+        cellp = "; ".join(f"{v}: " + ", ".join(plink(by_slug[x["project_slug"]]) if x["project_slug"] in by_slug else cell(x["project"]) for x in xs)
+                          for v, xs in groups.items())
+        out.append(f"| {plink(r)} | {kind[r['category']]} | {cellp} | "
+                   + " ".join(f"[{i}]({u})" for i, u in enumerate(srcs, 1)) + " |")
     out += [
         "",
         "## How to read it",
@@ -229,7 +302,8 @@ def build():
         f"| [data/projects.csv](data/projects.csv) | {len(rows):,} projects, one per row |",
         f"| [data/channels.csv](data/channels.csv) | {len(chans):,} channels about TON that are not a project's own, with language, theme, creation date, posts and views |",
         "| [data/categories.json](data/categories.json) | categories in display order |",
-        f"| [data/link-fixes.csv](data/link-fixes.csv) | {len(fixes):,} link decisions (replaced, removed, confirmed) with evidence |",
+        f"| [data/link-fixes.csv](data/link-fixes.csv) | {len(fixes):,} link decisions (replaced, removed, confirmed, marked down) with evidence |",
+        f"| [data/merged.csv](data/merged.csv) | {sum(1 for _ in open('data/merged.csv')) - 1 if os.path.exists('data/merged.csv') else 0} rows folded into the row that shares their Telegram account (the numeric id), with the key |",
         f"| [data/unresolved.csv](data/unresolved.csv) | {len(unresolved)} names from old maps not tied to a project yet |",
         "| [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |",
         f"| [data/similar.csv](data/similar.csv) | {sum(1 for _ in open('data/similar.csv')) - 1:,} pairs: whom Telegram shows in similar channels or similar bots next to an entity here, with the position (June 2026); audiences overlap, it is not traffic |",
@@ -239,7 +313,7 @@ def build():
         "",
         "`category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `website_down` (the date a check found the site gone), "
         "`telegram_id` and `bot_id` (Telegram's numeric ids, which survive a rename), `verified` and `verified_since` "
-        "(the badge on t.me, and the earliest date it was seen: in a Web Archive copy of the page, a June 2026 snapshot or the latest check), "
+        "(the badge on t.me, and the first Web Archive copy of its page that shows it; empty when the archive does not date it), "
         "`peak_mau` and `peak_mau_date` (the highest monthly users on the FindMini chart, which starts in July 2024; "
         "a peak on the chart's first day may have been higher before it), "
         "`github`, `gramnews` (the project's card on gramnews.org), `last_post`, `last_commit`, `launched`, `launched_source`, `subscribers`, "
@@ -254,7 +328,7 @@ def build():
         "The earliest of these signals wins, and `launched_source` names it:",
         "",
         "- its own channel was created (post number one on t.me), or its bot was first mentioned in another channel, "
-        "from an archive of 530 million Telegram posts since 2015;",
+        "from the Gram News archive of 531.7 million Telegram posts since 2015;",
         "- the jetton was minted, the GitHub repository was created, the protocol was listed on DefiLlama;",
         "- an existing company came to TON: the first post on its own channel that names TON, when that is half a year or more after launch;",
         "- a catalogue listing: the Gram News library, or the month estimated from a project's number in the ton.app or DYOR catalogue "
@@ -290,7 +364,7 @@ def build():
         big = sorted(cs, key=lambda c: -int(c["views_q3"] or 0))[:3]
         out.append(f"| {t} | {len(cs)} | {fmt(sum(int(c['subscribers'] or 0) for c in cs))} | "
                    f"{sum(int(c['posts_q3'] or 0) for c in cs):,} | {fmt(sum(int(c['views_q3'] or 0) for c in cs))} | "
-                   + ", ".join(f"[{cell(c['name'])}]({c['telegram']})" for c in big) + " |")
+                   + ", ".join(f"[{tname(c["name"]) or c['telegram'].rsplit('/', 1)[-1]}]({c['telegram']})" for c in big) + " |")
     langs = {}
     for c in chans:
         langs[c.get("language") or "other"] = langs.get(c.get("language") or "other", 0) + 1

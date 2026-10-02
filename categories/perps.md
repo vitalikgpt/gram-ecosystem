@@ -6,19 +6,19 @@
 
 ## Active
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 1 | **Storm Trade** | Storm Trade — leveraged DEX in Telegram for trading on TON | [Telegram](https://t.me/storm_trade_news) [Bot](https://t.me/StormTradeBot) [X](https://x.com/storm_trade_ton) [Site](https://storm.tg/) [Gram News](https://gramnews.org/apps/storm-trade) | 2023-07-05 |  | 2024-05 |
+| 1 | **Storm Trade** | Storm Trade — leveraged DEX in Telegram for trading on TON | [Telegram](https://t.me/storm_trade_news) [Bot](https://t.me/StormTradeBot) [X](https://x.com/storm_trade_ton) [Site](https://storm.tg/) [Gram News](https://gramnews.org/apps/storm-trade) | 2023-07-05 |  | since 2024-05 |
 | 2 | **Tradoor** | Tradoor is a decentralized exchange for trading options and perpetual futures on TON | [Telegram](https://t.me/tradoor_io) [Bot](https://t.me/tradoor_io_bot) [X](https://x.com/tradoor_io) [Site](https://tradoor.io) [GitHub](https://github.com/TonTradoor) [Gram News](https://gramnews.org/apps/tradoor) | 2024-01-03 | 524K |  |
-| 3 | **WenLong** | Trade Hyperliquid perps right inside Telegram. Deposit from your TON wallet — no KYC, no… | [Telegram](https://t.me/wenlongnews) [Bot](https://t.me/whenlongbot) | 2024-09-20 |  |  |
+| 3 | **WenLong** | Trade Hyperliquid perps right inside Telegram. Deposit from your TON wallet — no KYC, no bridges, no bullshit. Up to 40x leverage, self-custody | [Telegram](https://t.me/wenlongnews) [Bot](https://t.me/whenlongbot) | 2024-09-20 |  |  |
 | 4 | **Hyperliquid** |  | [Site](https://hyperliquid.xyz) | 2022-10-15 |  |  |
-| 5 | **Vooi App** | Join VOOI - Trade, Arbitrage, Earn Rewards / Unlock trading | [Telegram](https://t.me/vooi_app) [Bot](https://t.me/vooiappbot) [Gram News](https://gramnews.org/apps/vooi-app) | 2024-04-16 | 1.3M | 2024-10 |
+| 5 | **Vooi App** | Join VOOI - Trade, Arbitrage, Earn Rewards / Unlock trading | [Telegram](https://t.me/vooi_app) [Bot](https://t.me/vooiappbot) [Gram News](https://gramnews.org/apps/vooi-app) | 2024-04-16 | 1.3M | since 2024-10 |
 | 6 | **Aster** |  | [Telegram](https://t.me/asterdex) [Site](https://www.asterdex.com) | 2025-03-14 |  |  |
 | 7 | **Lighter** |  | [Site](https://lighter.xyz) | 2025-10 |  |  |
 
 <details><summary><b>Quiet: 6</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 8 | **EVEDEX** | EVEDEX official Telegram channel Get +10% cashback | [Telegram](https://t.me/officialevedex) | 2024-11-19 |  |  |
 | 9 | **Hopium** | Social perp trading on Telegram | [Bot](https://t.me/hopium_official_bot) | 2024-08-20 | 278K |  |

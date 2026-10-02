@@ -6,13 +6,13 @@
 
 ## Active
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 1 | **Redo Invest** | Onchain investment project in TON | [Telegram](https://t.me/redoinveston) [X](https://x.com/redoinveston) [Site](https://redoifoundation.org) | 2024-08-19 |  |  |
 
 <details><summary><b>Quiet: 18</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 2 | **Animoca Brands** |  | [X](https://x.com/animocabrands) [Site](https://www.animocabrands.com) | 2023-11-28 |  |  |
 | 3 | **CoinFund** |  | [X](https://x.com/coinfund) [Site](https://coinfund.io) | 2025-03-20 |  |  |

@@ -6,7 +6,7 @@
 
 ## Active
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 1 | **Symbiosis** | The latest news on the development of the symbiotic blockchain metaverse | [Telegram](https://t.me/symbiosis_announcements) [X](https://x.com/symbiosis_fi) [Site](https://app.symbiosis.finance/) [GitHub](https://github.com/symbiosis-finance) [Gram News](https://gramnews.org/apps/symbiosis) | 2026-03-16 |  |  |
 | 2 | **LayerZero** |  | [Site](https://layerzero.network) | 2021-05-01 |  |  |
@@ -17,14 +17,14 @@
 | 7 | **TonTake Bridge** | Благотворительно-развлекательная криптоорганизация | [Telegram](https://t.me/TonTake) [X](https://x.com/tontakegame) [Site](https://tontake.com) [Gram News](https://gramnews.org/apps/tontake-bridge) | 2022-05-10 |  |  |
 | 8 | **Orbit Bridge** | Orbit Chain Announcement Channel | [Telegram](https://t.me/OrbitChainChannel) [X](https://x.com/Orbit_Chain) [Site](https://bridge.orbitchain.io/) [GitHub](https://github.com/orbit-chain) [Gram News](https://gramnews.org/apps/orbit-bridge) | 2025-12-24 |  |  |
 | 9 | **SoDEX Bridge** | SoDEX is a high-performance order book decentralized exchange (DEX) built on ValueChain | [X](https://x.com/sodex_official) [Site](https://ssi.sosovalue.com) | 2026-01-08 |  |  |
-| 10 | **TAC Cross Chain Layer** | TAC Cross Chain Layer is a messaging and custody layer connecting TON and TAC EVM,… | [X](https://x.com/tacbuild) [Site](https://tac.build) | 2025-08-28 |  |  |
-| 11 | **TON BSC** |  | [Telegram](https://t.me/contest) [Bot](https://t.me/cryptouser_bot) [Site](https://bridge.ton.org) [GitHub](https://github.com/ton-blockchain) [Gram News](https://gramnews.org/apps/ton-bsc) | 2016-03-22 |  | 2020-04 |
+| 10 | **TAC Cross Chain Layer** | TAC Cross Chain Layer is a messaging and custody layer connecting TON and TAC EVM, locking native TON assets and minting wrapped tokens for use in TAC miniapps | [X](https://x.com/tacbuild) [Site](https://tac.build) | 2025-08-28 |  |  |
+| 11 | **TON BSC** |  | [Telegram](https://t.me/contest) [Bot](https://t.me/cryptouser_bot) [Site](https://bridge.ton.org) [GitHub](https://github.com/ton-blockchain) [Gram News](https://gramnews.org/apps/ton-bsc) | 2016-03-22 |  | since 2020-04 |
 
 <details><summary><b>Quiet: 11</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 12 | **AnyTap** | AnyTap helps Telegram users transition into the TON ecosystem through onchain tasks and… | [Bot](https://t.me/anytap_bot) [X](https://x.com/anytap_dapps) [Gram News](https://gramnews.org/apps/anytap) | 2024-08-27 | 48K |  |
+| 12 | **AnyTap** | AnyTap helps Telegram users transition into the TON ecosystem through onchain tasks and NFT rewards | [Bot](https://t.me/anytap_bot) [X](https://x.com/anytap_dapps) [Gram News](https://gramnews.org/apps/anytap) | 2024-08-27 | 48K |  |
 | 13 | **TON Bridge** | Bridge for transferring USDT and USDC from other chains to TON | [Bot](https://t.me/TONBridge_robot) [Site](https://bridge.tonbankcard.com) [GitHub](https://github.com/xlabtg) [Gram News](https://gramnews.org/apps/ton-bridge) | 2022-10-08 | 267 |  |
 | 14 | **Axai on Waves** |  | [Bot](https://t.me/wavesaxaibot) [X](https://x.com/wxnetwork) [Gram News](https://gramnews.org/apps/axai-on-waves) | 2020-01-29 |  |  |
 | 15 | **island3** |  | [Site](https://bridge.rangersprotocol.com/) [GitHub](https://github.com/rangersprotocolcode) [Gram News](https://gramnews.org/apps/island3) | 2022-01-28 |  |  |
@@ -40,9 +40,9 @@
 
 <details><summary><b>Closed: 2</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 23 | **Layerswap** |  | [Telegram](https://t.me/layerswap_io) [Bot](https://t.me/lowkeybrokeybot) [X](https://x.com/layerswap) [Site](https://layerswap.io) [GitHub](https://github.com/layerswap) | 2021-09-12 | 84 |  |
-| 24 | **XP.NETWORK** | A powerful NFT bridge connecting 30+ EVM and non-EVM blockchains. Go multichain… | [Telegram](https://t.me/XP_NETWORK_Ann) [Bot](https://t.me/siptg_bot) [X](https://x.com/xpnetwork_) [Site](https://bridge.xp.network/) [GitHub](https://github.com/XP-NETWORK) | 2021-09-30 | 2K |  |
+| 24 | **XP.NETWORK** | A powerful NFT bridge connecting 30+ EVM and non-EVM blockchains. Go multichain effortlessly: attract fresh liquidity and audiences across ecosystems | [Telegram](https://t.me/XP_NETWORK_Ann) [Bot](https://t.me/siptg_bot) [X](https://x.com/xpnetwork_) [Site](https://bridge.xp.network/) [GitHub](https://github.com/XP-NETWORK) | 2021-09-30 | 2K |  |
 
 </details>

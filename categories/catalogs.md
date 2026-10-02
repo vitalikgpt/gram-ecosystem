@@ -6,10 +6,10 @@
 
 ## Active
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 1 | **Gram News** | Агрегатор ключевых новостей экосистемы TON | [Telegram](https://t.me/gramnews) [Site](https://gramnews.org) | 2025-03-26 |  |  |
-| 2 | **TON App** |  | [Telegram](https://t.me/tonapp) [Site](https://ton-game.com) [GitHub](https://github.com/toncenter/ton-wallet) [Gram News](https://gramnews.org/apps/ton) | 2020-01-21 |  | 2024-05 |
+| 2 | **TON App** |  | [Telegram](https://t.me/tonapp) [Site](https://ton-game.com) [GitHub](https://github.com/toncenter/ton-wallet) [Gram News](https://gramnews.org/apps/ton) | 2020-01-21 |  | since 2024-05 |
 | 3 | **DYOR.io** |  | [Telegram](https://t.me/dyorninja) [Site](https://dyor.io) | 2023 |  |  |
 | 4 | **ton.website** |  | [Telegram](https://t.me/mtproxyfreedom) [Site](https://ton.website) | 2022-10-15 |  |  |
 | 5 | **FindMini.app** | Discover curated selection of the best Telegram Mini Apps | [Telegram](https://t.me/findminiapp) [Site](https://www.findmini.app/) | 2024-06-23 |  |  |
@@ -18,16 +18,16 @@
 
 <details><summary><b>Quiet: 10</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 8 | **Gapps Center** | Your Favourite App Center on Telegram gapps.site | [Bot](https://t.me/gappscenter_bot) | 2026-04-16 |  |  |
 | 9 | **Mini Apps Center** | Directory of Telegram mini apps | [Bot](https://t.me/miniappscenterbot) | 2024-09-22 | 195K |  |
 | 10 | **TappRank** | Bot ranking and promoting Telegram bots | [Bot](https://t.me/tapprankbot) | 2025-03-10 | 78K |  |
 | 11 | **TON App Center** |  | [Telegram](https://t.me/tonappcenterbot) | 2024-07-14 |  |  |
 | 12 | **TONHunt App** |  | [Bot](https://t.me/tonhuntexbot) | 2025-03-08 | 10K |  |
-| 13 | **TONPlayCenter** | TON Play Center is a one-stop hub that gathers the most popular and transparent TON… | [Bot](https://t.me/lionsapp_bot) | 2025-01-05 |  |  |
+| 13 | **TONPlayCenter** | TON Play Center is a one-stop hub that gathers the most popular and transparent TON mini-apps channel： | [Bot](https://t.me/lionsapp_bot) | 2025-01-05 |  |  |
 | 14 | **Yaya Mini Apps** | Yaya community: Dev | [Telegram](https://t.me/yaya_gram) [Bot](https://t.me/yayaminiapps_bot) [X](https://x.com/Yaya_gram) | 2026-06-16 |  |  |
-| 15 | **Trending Apps** | Trending Apps is a community-powered hub spotlighting the most exciting Telegram apps… | [Telegram](https://t.me/trendingapps) | 2023-07-31 |  | 2024-03 |
+| 15 | **Trending Apps** | Trending Apps is a community-powered hub spotlighting the most exciting Telegram apps from indie developers | [Telegram](https://t.me/trendingapps) | 2023-07-31 |  | since 2024-03 |
 | 16 | **Futurum** | Marketplace for digital assets, NFTs and investment projects | [Telegram](https://t.me/futurumx100) [Bot](https://t.me/futurumx100_bot) [X](https://x.com/FuturumX100) | 2024-09-18 |  |  |
 | 17 | **Tonski** | Ecosystem and catalogue for TON Sites | [Telegram](https://t.me/searchington) | 2022-10-04 |  |  |
 

@@ -6,32 +6,32 @@
 
 ## Active
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 1 | **Indigo Gift** | Bot for buying Telegram stars and premium | [Telegram](https://t.me/indigogif) | 2025-08-11 |  |  |
 | 2 | **Bikini Stars** | Service for buying and selling Telegram Stars | [Telegram](https://t.me/bikininft) | 2025-09-09 |  |  |
 | 3 | **iCryptoCheck** | Your guide to the world of crypto | [Telegram](https://t.me/iCryptoCheck) [Bot](https://t.me/iCryptoCheckBot) [X](https://x.com/iCryptoCheck) [GitHub](https://github.com/unlimadev/Orniton) [Gram News](https://gramnews.org/apps/icryptocheck) | 2022-05-03 | 52K |  |
-| 4 | **Uquid Shop** |  | [Telegram](https://t.me/uquidshop) [Bot](https://t.me/uquidbot) [X](https://x.com/uquidcard) [Site](https://uquid.com) [Gram News](https://gramnews.org/apps/uquid-shop) | 2024-05-16 |  | 2026-02 |
+| 4 | **Uquid Shop** |  | [Telegram](https://t.me/uquidshop) [Bot](https://t.me/uquidbot) [X](https://x.com/uquidcard) [Site](https://uquid.com) [Gram News](https://gramnews.org/apps/uquid-shop) | 2024-05-16 |  | since 2026-02 |
 | 5 | **uShopWebBot** | Web bot shop builder for Telegram | [Telegram](https://t.me/uShopWeb) [Bot](https://t.me/uShopWebBot) [Site](https://www.ucoz.ru/bot/) [Gram News](https://gramnews.org/apps/ushopwebbot) | 2022-12-05 |  |  |
 | 6 | **IrenSystem** | IrenSystem - инструмент для предпринимателей и фрилансеров | [Telegram](https://t.me/irensyst) [Bot](https://t.me/demoirensystembot) [Site](https://irensystem.ru) [Gram News](https://gramnews.org/apps/irensystem) | 2023-03-22 |  |  |
 | 7 | **$GOVNO Paper Store** |  | [Telegram](https://t.me/govnopaperstore) [Bot](https://t.me/GOVNOPaperBot) [X](https://x.com/govno_on_ton) [Site](https://govnoton.com/) [Gram News](https://gramnews.org/apps/govno-paper-store) | 2025-02-13 |  |  |
 
 <details><summary><b>Quiet: 37</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 8 | **USDt Gift Shop** | USDt Gift Shop — a bot for buying gifts and services with TON stablecoins | [Telegram](https://t.me/fizen_io) [Bot](https://t.me/fizengiftshop_bot) [X](https://x.com/fizenapp) [Site](https://fizen.io/) [Gram News](https://gramnews.org/apps/usdt-gift-shop) | 2024-05-10 | 24K |  |
-| 9 | **FileMarket AI** | Welcome to the world of FileMarket AI Data! Monetize your data and help major AI… | [Telegram](https://t.me/filemarketai) [Bot](https://t.me/filemarketaiplaybot) [X](https://x.com/FileMarketAI) [Site](https://filemarket.xyz) [Gram News](https://gramnews.org/apps/filemarket-ai) | 2024-09-12 | 100K |  |
+| 9 | **FileMarket AI** | Welcome to the world of FileMarket AI Data! Monetize your data and help major AI companies to train their models | [Telegram](https://t.me/filemarketai) [Bot](https://t.me/filemarketaiplaybot) [X](https://x.com/FileMarketAI) [Site](https://filemarket.xyz) [Gram News](https://gramnews.org/apps/filemarket-ai) | 2024-09-12 | 100K |  |
 | 10 | **TADA mini** | Ride the new wave, TADA mini for Web3 | [Telegram](https://t.me/mvlchain_news_en) [Bot](https://t.me/TADA_Ride_Bot) [X](https://x.com/mvlchain) [Site](https://mvlchain.io/) [Gram News](https://gramnews.org/apps/tada-mini) | 2018-05-14 | 3.6M |  |
 | 11 | **Hybrid Savings** | ХС: сотни выгодных предложений в одном месте | [Telegram](https://t.me/hybridsavings) [Bot](https://t.me/hybridsavingsbot) [X](https://x.com/Hybrid_savings) [Gram News](https://gramnews.org/apps/hybrid-savings) | 2024-08-24 |  |  |
 | 12 | **Sellz Digital** | Create your Telegram digital store, accept orders, manage products, and engage customers | [Telegram](https://t.me/sellzdigital) [Bot](https://t.me/sellzdigitalbot) [Gram News](https://gramnews.org/apps/sellz-digital) | 2024-07-03 | 4K |  |
-| 13 | **Richards Baklazhan** | Leading AgroFi tap-to-grow global supply chain for distributing eggplants to every… | [Telegram](https://t.me/growbaklazhan) [Bot](https://t.me/growbaklazhanbot) [Gram News](https://gramnews.org/apps/richards-baklazhan) | 2024-08-16 |  |  |
+| 13 | **Richards Baklazhan** | Leading AgroFi tap-to-grow global supply chain for distributing eggplants to every smartphone | [Telegram](https://t.me/growbaklazhan) [Bot](https://t.me/growbaklazhanbot) [Gram News](https://gramnews.org/apps/richards-baklazhan) | 2024-08-16 |  |  |
 | 14 | **Shop Builder** | A Telegram shop with automated product filling and AI support | [Telegram](https://t.me/TGShopNews) [Bot](https://t.me/TGShopsBuilderBot) [X](https://x.com/Twitgram_HQ) [Site](https://tg-shops.com/) [Gram News](https://gramnews.org/apps/shop-builder-2) | 2023-12-07 | 3K |  |
 | 15 | **Shop Builder** | A Telegram shop with crypto payments and AI assistants | [Telegram](https://t.me/ShopsBuilder) [Bot](https://t.me/ShopsBuilderBot) [X](https://x.com/shopsbuilder) [Site](https://shopsbuilder.notion.site/helpcenter) [Gram News](https://gramnews.org/apps/shop-builder) | 2024-04-22 |  |  |
 | 16 | **Tickyton** |  | [Bot](https://t.me/tickytonbot) [Gram News](https://gramnews.org/apps/tickyton) | 2024-02-27 | 137 |  |
 | 17 | **AOKI Seller** | Start business and open your shop with /start | [Telegram](https://t.me/DigtonFaucet) [Bot](https://t.me/aoki_seller_bot) [X](https://x.com/DigTonApp) [Site](https://aokimarket.com) [Gram News](https://gramnews.org/apps/aoki-seller) | 2025-04-02 |  |  |
 | 18 | **behind** |  | [Bot](https://t.me/bhndbot) [Gram News](https://gramnews.org/apps/behind) | 2023-08 |  |  |
-| 19 | **bionapp** | Scan to Pay, access credit up to $300, buy gift cards and earn rewards—all in the Bion… | [Telegram](https://t.me/bionapp_bot) [X](https://x.com/bion_app) [Site](https://www.bionapp.com/) [Gram News](https://gramnews.org/apps/bionapp) | 2023-05-01 | 62K |  |
+| 19 | **bionapp** | Scan to Pay, access credit up to $300, buy gift cards and earn rewards—all in the Bion Mini App | [Telegram](https://t.me/bionapp_bot) [X](https://x.com/bion_app) [Site](https://www.bionapp.com/) [Gram News](https://gramnews.org/apps/bionapp) | 2023-05-01 | 62K |  |
 | 20 | **Buy Telegram Stars** | Bot for buying Telegram Stars without verification | [Bot](https://t.me/buy_stars_sell_bot) | 2024-12-14 |  |  |
 | 21 | **Cashbacker** |  | [Telegram](https://t.me/cashbacktoncommunity) [Bot](https://t.me/cashbackton_bot) [Site](https://pizzaton.me) [GitHub](https://github.com/pizzaton) [Gram News](https://gramnews.org/apps/cashbacker) | 2023-11-04 | 553 |  |
 | 22 | **Catallaxy** | Catallaxy — a marketplace for digital goods and services on TON | [Telegram](https://t.me/catallaxy_ton) [Bot](https://t.me/catallaxy_bot) [X](https://x.com/catallaxy_ton) [Site](https://ctlx.cc) [GitHub](https://github.com/dearjohndoe/ton-agents-marketplace) [Gram News](https://gramnews.org/apps/catallaxy) | 2026-03-15 |  |  |
@@ -62,7 +62,7 @@
 
 <details><summary><b>Closed: 3</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 45 | **Bounty Bay** |  | [X](https://x.com/0xBountyBay) [Site](https://www.bountybay.app/) | 2024-04 |  |  |
 | 46 | **Elephant Store** | Don't miss a single sticker — collect them all! | [Telegram](https://t.me/slon_market) [Bot](https://t.me/elephantstorebot) [X](https://x.com/ownthedoge) | 2025-07-09 |  |  |

@@ -2,13 +2,13 @@
 
 <img src="assets/cover.jpg" alt="Gram Ecosystem: TON and Telegram projects" width="100%">
 
-<img src="https://img.shields.io/badge/projects-4%2C561-5aa9ff?style=flat-square" alt="projects: 4,561"> <img src="https://img.shields.io/badge/active-1%2C024-4cd08a?style=flat-square" alt="active: 1,024"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/links%20fixed-2%2C145-f2b84b?style=flat-square" alt="links fixed: 2,145"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
+<img src="https://img.shields.io/badge/projects-4%2C561-5aa9ff?style=flat-square" alt="projects: 4,561"> <img src="https://img.shields.io/badge/active-1%2C024-4cd08a?style=flat-square" alt="active: 1,024"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/channels-1%2C210-5aa9ff?style=flat-square" alt="channels: 1,210"> <img src="https://img.shields.io/badge/links%20fixed-2%2C145-f2b84b?style=flat-square" alt="links fixed: 2,145"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
 
 **Every TON and Telegram project we could verify: 4,561 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 9,440 links are checked every week; 2,145 wrong ones have been fixed so far, each with its evidence.
 
 Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, build on it.
 
-**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Studios and funds](#studios-funds-and-accelerators), [How to read it](#how-to-read-it), [Data](#data), [Maps and reports](#maps-and-reports), [Contribute](#contribute)
+**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Neighbours on Telegram](#neighbours-on-telegram), [Studios and funds](#studios-funds-and-accelerators), [Channels](#channels), [How to read it](#how-to-read-it), [Data](#data), [Maps and reports](#maps-and-reports), [Contribute](#contribute)
 
 ## Categories
 
@@ -16,79 +16,96 @@ Each category has its own page with every project, active ones first.
 
 | Category | Active | All | Notable projects |
 | --- | ---: | ---: | --- |
-| [CEX](categories/exchanges.md) | 50 | 86 | Binance, Bybit, OKX, Bitget |
-| [Custodial](categories/custodial.md) | 5 | 5 | @Walt, @Send, @XRocket, Spell Wallet |
-| [Wallets](categories/wallets.md) | 29 | 119 | Gram Wallet, Keeper, My Wallet, Tonhub |
-| [DEX](categories/dex.md) | 16 | 87 | STON.fi, DeDust, swap.coffee, TONCO |
-| [Payments](categories/payments.md) | 28 | 90 | Wallet Pay, @Tribute, Cryptomus, NOWPayments |
-| [On-ramp](categories/onramp.md) | 9 | 31 | MoonPay, Changelly, ChangeNOW, Alchemy Pay |
-| [Infra](categories/infra.md) | 26 | 61 | Telegram, Fragment, TON Core, Acton |
-| [Developer tools](categories/devtools.md) | 19 | 112 | Telegram Bot API News, Durev Bot, Telegram Crawler, Tonutils |
-| [Analytics](categories/analytics.md) | 35 | 158 | Lagus research, Dune, CoinGecko, CoinMarketCap |
-| [Explorers](categories/explorers.md) | 6 | 15 | Tonscan.org, Tonviewer, Tonscan.com, Actonscan |
-| [Security](categories/audit.md) | 11 | 38 | Hacken, CertiK, SlowMist, Trail of Bits |
-| [Bridges](categories/bridges.md) | 11 | 24 | Symbiosis, LayerZero, Stargate, Rubic |
-| [Staking](categories/staking.md) | 15 | 50 | Hipo, Tonstakers, Stakee, KTON |
-| [Lending](categories/lending.md) | 10 | 20 | EVAA Protocol, TONLender, DAOLama, GTC (Gift To Credit) |
-| [Perp DEX](categories/perps.md) | 7 | 13 | Storm Trade, Tradoor, WenLong, Hyperliquid |
-| [RWA](categories/rwa.md) | 4 | 13 | XAUt, Stable Metal, USDT, Ethena USDe |
-| [NASDAQ](categories/nasdaq.md) | 2 | 2 | TON Strategy, Alpha Compute |
-| [Catalogues](categories/catalogs.md) | 7 | 17 | Gram News, TON App, DYOR.io, ton.website |
-| [Privacy](categories/vpn.md) | 11 | 42 | TonMobile eSIM, SnapSIM, Durev VPN, Resistance Tools |
-| [NFT collections](categories/nftcaps.md) | 16 | 88 | Anonymous Numbers, Plush Pepe, Telegram Usernames, Scared Cat |
-| [Tokens](categories/tokens.md) | 57 | 231 | GROYP, UTYA, CHERRY, BabyDoge |
-| [NFT & Gifts](categories/nftmarkets.md) | 87 | 270 | Getgems, Tonnel, @MRKT, Marketapp |
-| [Memepads](categories/launchpads.md) | 21 | 104 | TopBlast, Meridian, @Blum, BigPump |
-| [Trading bots](categories/trading.md) | 22 | 74 | @Trade, PocketFi, Maestro, Upscale |
-| [Social](categories/social.md) | 23 | 135 | @Mira, TON Dating, @Major, @IPredict |
-| [AI](categories/ai.md) | 17 | 67 | AI Lab, MOONBERG AI BOT, Spru, AgentBook |
-| [Tools](categories/tools.md) | 35 | 184 | Randomize Bot, RandomGodBot, XDAO, Random Beast |
-| [Shopping](categories/shopping.md) | 7 | 47 | Indigo Gift, Bikini Stars, iCryptoCheck, Uquid Shop |
-| [Education](categories/education.md) | 5 | 36 | TonNewbie, Be Unstoppable, iQuizMaster, BehLand |
-| [Games](categories/games.md) | 131 | 1156 | Dogs, CITY Holder, Catizen, Gatto |
-| [Farming](categories/farming.md) | 245 | 912 | Boinkers, Time Farm, Agent 301, Hrum |
-| [Casino](categories/gambling.md) | 50 | 219 | VIRUS GAME, Epic Gift, Easy Gift, Gorilla Case |
-| [Studios](categories/studios.md) | 5 | 23 | GAMEE, PlayDeck, Ice Creators, TonTon Games |
-| [Funds](categories/funds.md) | 1 | 19 | Redo Invest |
-| [Accelerators](categories/accelerators.md) | 1 | 13 | TON Piter Hub |
+| [CEX](categories/exchanges.md) | 50 | 86 | [Binance](https://t.me/binance_announcements), [Bybit](https://t.me/bybit_announcements), [OKX](https://t.me/okxannouncements), [Bitget](https://t.me/bitget_announcements) |
+| [Custodial](categories/custodial.md) | 5 | 5 | [@Walt](https://t.me/walt_news), [@Send](https://t.me/cryptobotru), [@XRocket](https://t.me/xrocketnews), [Spell Wallet](https://t.me/spell_wallet) |
+| [Wallets](categories/wallets.md) | 29 | 119 | [Gram Wallet](https://gramwallet.io), [Keeper](https://t.me/keeper_en), [My Wallet](https://t.me/mywalleteng), [Tonhub](https://t.me/tonhub) |
+| [DEX](categories/dex.md) | 16 | 87 | [STON.fi](https://t.me/stonfidex), [DeDust](https://t.me/dedust_en), [swap.coffee](https://t.me/swap_coffee), [TONCO](https://t.me/tonco_io) |
+| [Payments](categories/payments.md) | 28 | 90 | [Wallet Pay](https://t.me/walletpayofficial), [@Tribute](https://t.me/tributenewsen), [Cryptomus](https://t.me/cryptomus), [NOWPayments](https://nowpayments.io/) |
+| [On-ramp](categories/onramp.md) | 9 | 31 | [MoonPay](https://www.moonpay.com), [Changelly](https://t.me/changelly), [ChangeNOW](https://t.me/changenow_chat), [Alchemy Pay](https://alchemypay.org) |
+| [Infra](categories/infra.md) | 26 | 61 | [Telegram](https://t.me/telegram), [Fragment](https://fragment.com), [TON Core](https://t.me/toncore), [Acton](https://t.me/theopentooling) |
+| [Developer tools](categories/devtools.md) | 19 | 112 | [Telegram Bot API News](https://t.me/botnews), [Durev Bot](https://t.me/poveldurev), [Telegram Crawler](https://t.me/tgcrawl), [Tonutils](https://t.me/tonutilsnews) |
+| [Analytics](categories/analytics.md) | 35 | 158 | [Lagus research](https://t.me/lagus_research), [Dune](https://dune.com), [CoinGecko](https://www.coingecko.com), [CoinMarketCap](https://t.me/coinmarketcapannouncements) |
+| [Explorers](categories/explorers.md) | 6 | 15 | [Tonscan.org](https://t.me/catchain), [Tonviewer](https://tonviewer.com), [Tonscan.com](https://tonscan.com), [Actonscan](https://actonscan.com) |
+| [Security](categories/audit.md) | 11 | 38 | [Hacken](https://t.me/hackenai), [CertiK](https://t.me/certikcommunity), [SlowMist](https://www.slowmist.com), [Trail of Bits](https://www.trailofbits.com) |
+| [Bridges](categories/bridges.md) | 11 | 24 | [Symbiosis](https://t.me/symbiosis_announcements), [LayerZero](https://layerzero.network), [Stargate](https://stargate.finance), [Rubic](https://t.me/cryptorubic) |
+| [Staking](categories/staking.md) | 15 | 50 | [Hipo](https://t.me/hipofinance), [Tonstakers](https://t.me/thetonstakers), [Stakee](https://t.me/stakeeru), [KTON](https://t.me/kton_channel) |
+| [Lending](categories/lending.md) | 10 | 20 | [EVAA Protocol](https://t.me/evaaprotocol), [TONLender](https://t.me/tonlender_ru), [DAOLama](https://t.me/daolama), [GTC (Gift To Credit)](https://t.me/gifttocredit_new_age) |
+| [Perp DEX](categories/perps.md) | 7 | 13 | [Storm Trade](https://t.me/storm_trade_news), [Tradoor](https://t.me/tradoor_io), [WenLong](https://t.me/wenlongnews), [Hyperliquid](https://hyperliquid.xyz) |
+| [RWA](categories/rwa.md) | 4 | 13 | [XAUt](https://t.me/tether), [Stable Metal](https://t.me/stablemetal), [USDT](https://tether.to), [Ethena USDe](https://t.me/ethena_labs) |
+| [NASDAQ](categories/nasdaq.md) | 2 | 2 | [TON Strategy](https://tonstrat.com), [Alpha Compute](https://alphacompute.com) |
+| [Catalogues](categories/catalogs.md) | 7 | 17 | [Gram News](https://t.me/gramnews), [TON App](https://t.me/tonapp), [DYOR.io](https://t.me/dyorninja), [ton.website](https://t.me/mtproxyfreedom) |
+| [Privacy](categories/vpn.md) | 11 | 42 | [TonMobile eSIM](https://t.me/tonmobile_en), [SnapSIM](https://t.me/snapsimbot), [Durev VPN](https://t.me/durevvpn), [Resistance Tools](https://t.me/resistancetools) |
+| [NFT collections](categories/nftcaps.md) | 16 | 88 | [Anonymous Numbers](https://fragment.com/gifts), [Plush Pepe](https://t.me/plushpepe_coin), [Telegram Usernames](https://fragment.com/gifts), [Scared Cat](https://fragment.com/gifts) |
+| [Tokens](categories/tokens.md) | 57 | 231 | [GROYP](https://t.me/groyp), [UTYA](https://t.me/MagicVipClub), [CHERRY](https://t.me/HotCherryTG), [BabyDoge](https://t.me/babydogecoin) |
+| [NFT & Gifts](categories/nftmarkets.md) | 87 | 270 | [Getgems](https://t.me/getgems), [Tonnel](https://t.me/tonnel_en), [@MRKT](https://t.me/mrkt), [Marketapp](https://t.me/nfttonificatorbot) |
+| [Memepads](categories/launchpads.md) | 21 | 104 | [TopBlast](https://t.me/topblastdotlol), [Meridian](https://t.me/meridian_wtf), [@Blum](https://t.me/blumcrypto_memepad), [BigPump](https://t.me/bigpumphub) |
+| [Trading bots](categories/trading.md) | 22 | 74 | [@Trade](https://t.me/gifttradeservise), [PocketFi](https://t.me/pocketfi), [Maestro](https://t.me/maestrosniperupdates), [Upscale](https://t.me/upscale_news_en) |
+| [Social](categories/social.md) | 23 | 135 | [@Mira](https://t.me/miramedia_en), [TON Dating](https://t.me/tondatingchannel), [@Major](https://t.me/major), [@IPredict](https://t.me/ipredict) |
+| [AI](categories/ai.md) | 17 | 67 | [AI Lab](https://t.me/ailab_robot), [MOONBERG AI BOT](https://t.me/moonbergai), [Spru](https://t.me/spru_agent_bot), [AgentBook](https://t.me/agentbookbot) |
+| [Tools](categories/tools.md) | 35 | 184 | [Randomize Bot](https://t.me/randomized), [RandomGodBot](https://t.me/randomgod), [XDAO](https://t.me/xdaoapp), [Random Beast](https://t.me/randombeastnews) |
+| [Shopping](categories/shopping.md) | 7 | 47 | [Indigo Gift](https://t.me/indigogif), [Bikini Stars](https://t.me/bikininft), [iCryptoCheck](https://t.me/iCryptoCheck), [Uquid Shop](https://t.me/uquidshop) |
+| [Education](categories/education.md) | 5 | 36 | [TonNewbie](https://t.me/tonnewbie), [Be Unstoppable](https://t.me/unstoppable_announcements), [iQuizMaster](https://t.me/iquizmaster_bot), [BehLand](https://t.me/BehLand_Official) |
+| [Games](categories/games.md) | 131 | 1156 | [Dogs](https://t.me/dogs), [CITY Holder](https://t.me/city_holder), [Catizen](https://t.me/catizenann), [Gatto](https://t.me/gatto_game) |
+| [Farming](categories/farming.md) | 245 | 912 | [Boinkers](https://t.me/boinkersnews), [Time Farm](https://t.me/timefarmchannel), [Agent 301](https://t.me/app301), [Hrum](https://t.me/hrumfam) |
+| [Casino](categories/gambling.md) | 50 | 219 | [VIRUS GAME](https://t.me/omicron), [Epic Gift](https://t.me/epic_gift_official), [Easy Gift](https://t.me/easygiftnews), [Gorilla Case](https://t.me/gorilla_news) |
+| [Studios](categories/studios.md) | 5 | 23 | [Open Builders](https://t.me/builders), [The Open Platform](https://t.me/topco), [GAMEE](https://t.me/gameechannel), [PlayDeck](https://t.me/playdeck_en) |
+| [Funds](categories/funds.md) | 1 | 19 | [TON Ventures](https://t.me/ton_ventures), [TVM Ventures](https://t.me/tvmventures), [TONcoin.Fund](https://toncoin.fund), [Animoca Brands](https://www.animocabrands.com) |
+| [Accelerators](categories/accelerators.md) | 1 | 13 | [TON Accelerator](https://t.me/accelerator_ton), [Gaming.tg](https://t.me/tggamingaccelerator), Telegram Growth Hub, TON Nest |
 
 ## Largest projects
 
 By reach: post views on the project's own channel from July to September 2026, or its bot's monthly users, whichever is larger.
 
-| Project | Category | What it is | Reach |
-| --- | --- | --- | ---: |
-| [Binance](https://t.me/binance_announcements) | CEX | Binance Official English Group | 15.8M |
-| [Boinkers](https://t.me/boinkersnews) | Farming | Boinkers game: upgrade your Boinkers, earn Moons, and travel to new… | 15.5M |
-| [Telegram](https://t.me/telegram) | Infra | The official Telegram on Telegram. Much recursion. Very Telegram. Wow | 14.7M |
-| [VIRUS GAME](https://t.me/omicron) | Casino |  | 11M |
-| [Epic Gift](https://t.me/epic_gift_official) | Casino | Epic Gift is a mini-app for earning and invitations | 10M |
-| [Bitget](https://t.me/bitget_announcements) | CEX | Official Bitget English Announcements Channel | 8.6M |
-| [@Walt](https://t.me/walt_news) | Custodial | Crypto wallet for sending and buying USDT, gold, bitcoin, and other… | 8M |
-| [Time Farm](https://t.me/timefarmchannel) | Farming | A gamified Telegram app for completing tasks and earning SECOND tokens | 7.7M |
-| [BotFather](https://t.me/botfather) | Infra | BotFather is the one bot to rule them all. Use it to create new bot… | 7.6M |
-| [Easy Gift](https://t.me/easygiftnews) | Casino | Easy Gift is a game where users earn stars and receive gifts | 4.5M |
-| [Gorilla Case](https://t.me/gorilla_news) | Casino | Выиграй NFT-подарки мечты! | 4.4M |
-| [New Listings Feed](https://t.me/newlistingsfeed) | Analytics | Snappiest digital asset listings clearinghouse. WebSocket: Feed in… | 4M |
+| Project | Category | Reach | Peak MAU | Launched | Verified |
+| --- | --- | ---: | ---: | --- | --- |
+| [Binance](https://t.me/binance_announcements) | [CEX](categories/exchanges.md) | 15.8M |  | 2024-06 | since 2020-06 |
+| [Boinkers](https://t.me/boinkersnews) | [Farming](categories/farming.md) | 15.5M |  | 2024-07 | since 2024-09 |
+| [Telegram](https://t.me/telegram) | [Infra](categories/infra.md) | 14.7M |  | 2020-01 | yes |
+| [VIRUS GAME](https://t.me/omicron) | [Casino](categories/gambling.md) | 11M | 1.3M | 2025-01 |  |
+| [Epic Gift](https://t.me/epic_gift_official) | [Casino](categories/gambling.md) | 10M | 368K | 2025-03 |  |
+| [Bitget](https://t.me/bitget_announcements) | [CEX](categories/exchanges.md) | 8.6M |  | 2021-07 | since 2021-12 |
+| [@Walt](https://t.me/walt_news) | [Custodial](categories/custodial.md) | 8M |  | 2020-05 | yes |
+| [Time Farm](https://t.me/timefarmchannel) | [Farming](categories/farming.md) | 7.7M | 15.6M | 2024-04 |  |
+| [BotFather](https://t.me/botfather) | [Infra](categories/infra.md) | 7.6M | 10.2M | 2016-01 | since 2020-06 |
+| [Easy Gift](https://t.me/easygiftnews) | [Casino](categories/gambling.md) | 4.5M |  | 2025-03 |  |
+| [Gorilla Case](https://t.me/gorilla_news) | [Casino](categories/gambling.md) | 4.4M | 681K | 2025-05 |  |
+| [New Listings Feed](https://t.me/newlistingsfeed) | [Analytics](categories/analytics.md) | 4M |  | 2024-03 |  |
+
+## Neighbours on Telegram
+
+Whom Telegram itself puts in *similar channels* and *similar bots* next to the largest projects, in its order. It picks them by overlapping audiences, so this is who shares the crowd, not who sends traffic. All 17,956 pairs are in [data/similar.csv](data/similar.csv) (snapshot of June 2026).
+
+| Project | Shown next to it |
+| --- | --- |
+| [MemeFi Coin](https://t.me/memeficlub) | [RoketoCoin Lunar Program](https://t.me/roketo_lunar_bot), [PixelTap by Pixelverse](https://t.me/pixelverse_xyz), [@Major](https://t.me/major), [DreamCoin](https://t.me/dreamcoinofficial_bot) |
+| [Binance](https://t.me/binance_announcements) | [NOT](https://t.me/notcoin), [Hamster Kombat (HMSTR)](https://t.me/hamster_kombat), [Catizen (CATI)](https://t.me/CatizenAnn), [Tomarket App](https://t.me/tomarket_ai) |
+| [Boinkers](https://t.me/boinkersnews) | [$BOOM](https://t.me/boomloudcoin), [Trump's Empire](https://t.me/trumpsempirebot), [Yescoin](https://t.me/theyescoin), [Save Question](https://t.me/savequestion_bot) |
+| [Time Farm](https://t.me/timefarmchannel) | [Dogs](https://t.me/dogs), [BrainGames](https://t.me/caspertma), [W3BFLIX](https://t.me/w3bflixbot), [Yescoin](https://t.me/theyescoin) |
+| [Dogs](https://t.me/dogs) | [Cats](https://t.me/cats_housewtf), [Notcoin](https://t.me/notcoin), [fomo_hash](https://t.me/fomohash), [Sticker Pack](https://t.me/sticker_community) |
+| [Tonnel](https://t.me/tonnel_en) | [Sticker Pack](https://t.me/sticker_community), [@XRocket](https://t.me/xrocketnews), [Megamine](https://t.me/megaminetg_bot), [TokenTable](https://t.me/tokentable) |
+| [Agent 301](https://t.me/app301) | [Dogs](https://t.me/dogs), [GOATS (GOATS)](https://t.me/realgoats_channel), [Major Community](https://t.me/majors), [Hamster Kombat (HMSTR)](https://t.me/hamster_kombat) |
+| [CEXIO Power Tap](https://t.me/cexio_announcements) | [Major Community](https://t.me/majors), [Simple Coin](https://t.me/smpl_app), [Catapult Extreme](https://t.me/catapult_extreme), [Dotcoin](https://t.me/dotcoin_help_support) |
+| [Catizen](https://t.me/catizenann) | [Cattea](https://t.me/CatteaNews), [Vanilla Finance](https://t.me/vanilla_finance_bot), [@Major](https://t.me/major), [RiverLand](https://t.me/riverlandgamenews) |
+| [HOT Wallet](https://t.me/hotonnear) | [Wave Wallet](https://t.me/wave_announcements), [SEED](https://t.me/seedupdates), [PitchTalk](https://t.me/pitchtalk_bot), [Yescoin](https://t.me/theyescoin) |
 
 ## Studios, funds and accelerators
 
 Who builds and backs the projects. Each link between a project and an organisation is in [data/relations.csv](data/relations.csv) with the page that states it.
 
-| Organisation | Type | Projects |
-| --- | --- | --- |
-| [Open Builders](categories/studios.md) | studio | [Notcoin](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built), [Tonstarter](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built), [Community](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built), [Access](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built), [Contests](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built), [Giveaway](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built), [Early](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) (built) |
-| [The Open Platform](categories/studios.md) | studio | [@Walt](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (built), [Wallet Pay](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (built), [PlayDeck](https://www.playdeck.io/) (owns), [STON.fi](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (ecosystem), [Getgems](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (ecosystem), [Keeper](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) (ecosystem), [Telegram Growth Hub](https://www.streetinsider.com/Globe+Newswire/OKX+Ventures,+The+Open+Platform+and+Folius+Ventures+Launch+$10+Million+Telegram+Growth+Hub/23896789.html) (co-launched) |
-| [GAMEE](categories/studios.md) | studio | [WatBird](https://www.animocabrands.com/gamee-receives-investment-from-ton-ventures) (built), [Moon Cards](https://playtoearn.com/news/gamee-launches-moon-cards-a-memecoin-powered-tcg-on-telegram) (built) |
-| [PlayDeck](categories/studios.md) | studio | [State.io](https://www.playdeck.io/) (published), [Idle Legion](https://www.playdeck.io/) (published) |
-| [TON Ventures](categories/funds.md) | fund | [GAMEE](https://www.animocabrands.com/gamee-receives-investment-from-ton-ventures) (invested), [Delabs Games](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) (invested), [Goat Gaming](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) (invested), [Memetics](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) (invested), [TAC](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) (invested), [STON.fi](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) (invested), [EVAA Protocol](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) (invested), [TONCash](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) (invested), [bionapp](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) (invested) |
-| [TVM Ventures](categories/funds.md) | fund | [Affluent](https://www.theblock.co/post/338477/ton-foundation-steve-yun-tvm-ventures) (invested), [Torch Finance](https://www.theblock.co/post/338477/ton-foundation-steve-yun-tvm-ventures) (invested), [Fiva](https://www.theblock.co/post/338477/ton-foundation-steve-yun-tvm-ventures) (invested), [Memes Lab](https://www.theblock.co/post/338477/ton-foundation-steve-yun-tvm-ventures) (invested), [TON Strategy](https://cryptorank.io/funds/tvm-ventures) (invested) |
-| [TONcoin.Fund](categories/funds.md) | fund | [Prophecy Pulse](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) (invested), [Storm Trade](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) (invested), [DeDust](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) (invested) |
-| [Animoca Brands](categories/funds.md) | fund | [GAMEE](https://www.animocabrands.com/gamee-receives-investment-from-ton-ventures) (parent company) |
-| [Folius Ventures](categories/funds.md) | fund | [Telegram Growth Hub](https://www.streetinsider.com/Globe+Newswire/OKX+Ventures,+The+Open+Platform+and+Folius+Ventures+Launch+$10+Million+Telegram+Growth+Hub/23896789.html) (co-launched) |
-| [OKX Ventures](categories/funds.md) | fund | [Telegram Growth Hub](https://www.streetinsider.com/Globe+Newswire/OKX+Ventures,+The+Open+Platform+and+Folius+Ventures+Launch+$10+Million+Telegram+Growth+Hub/23896789.html) (co-launched) |
-| [Pantera Capital](categories/funds.md) | fund | [GAMEE](https://www.animocabrands.com/gamee-receives-investment-from-pantera-capital) (invested) |
-| [TON Accelerator](categories/accelerators.md) | accelerator | [Prophecy Pulse](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) (first cohort), [Storm Trade](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) (first cohort), [EVAA Protocol](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) (first cohort), [DeDust](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) (first cohort), [TON.SKI Access](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) (first cohort), [Pluto Studios](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) (first cohort) |
+| Organisation | Type | Projects | Sources |
+| --- | --- | --- | --- |
+| [Open Builders](https://t.me/builders) | studio | built: [Notcoin](https://t.me/notcoin), [Tonstarter](https://t.me/ton_starter_bot), [Community](https://t.me/community_bot), [Access](https://t.me/access_app_bot), [Contests](https://t.me/contests_app_bot), [Giveaway](https://t.me/giveaway_app_bot), [Early](https://t.me/earn_early) | [1](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) |
+| [The Open Platform](https://t.me/topco) | studio | built: [@Walt](https://t.me/walt_news), [Wallet Pay](https://t.me/walletpayofficial); owns: [PlayDeck](https://t.me/playdeck_en); ecosystem: [STON.fi](https://t.me/stonfidex), [Getgems](https://t.me/getgems), [Keeper](https://t.me/keeper_en); co-launched: Telegram Growth Hub | [1](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) [2](https://www.playdeck.io/) [3](https://www.streetinsider.com/Globe+Newswire/OKX+Ventures,+The+Open+Platform+and+Folius+Ventures+Launch+$10+Million+Telegram+Growth+Hub/23896789.html) |
+| [GAMEE](https://t.me/gameechannel) | studio | built: [WatBird](https://t.me/watbird), [Moon Cards](https://t.me/mooncards) | [1](https://www.animocabrands.com/gamee-receives-investment-from-ton-ventures) [2](https://playtoearn.com/news/gamee-launches-moon-cards-a-memecoin-powered-tcg-on-telegram) |
+| [PlayDeck](https://t.me/playdeck_en) | studio | published: [State.io](https://t.me/stateio_bot), [Idle Legion](https://t.me/idlelegion_bot) | [1](https://www.playdeck.io/) |
+| [TON Ventures](https://t.me/ton_ventures) | fund | invested: [GAMEE](https://t.me/gameechannel), [Delabs Games](https://t.me/delabsgameschat), [Goat Gaming](https://t.me/playgoatgaming), [Memetics](https://t.me/memetics_news), [TAC](https://t.me/tacbuild), [STON.fi](https://t.me/stonfidex), [EVAA Protocol](https://t.me/evaaprotocol), [TONCash](https://t.me/toncashnetwork), [bionapp](https://t.me/bionapp_bot) | [1](https://www.animocabrands.com/gamee-receives-investment-from-ton-ventures) [2](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) |
+| [TVM Ventures](https://t.me/tvmventures) | fund | invested: [Affluent](https://t.me/Affluent), [Torch Finance](https://t.me/torch_ton), [Fiva](https://t.me/fiva_protocol), [Memes Lab](https://t.me/lab_trade), [TON Strategy](https://tonstrat.com) | [1](https://www.theblock.co/post/338477/ton-foundation-steve-yun-tvm-ventures) [2](https://cryptorank.io/funds/tvm-ventures) |
+| [TONcoin.Fund](https://toncoin.fund) | fund | invested: [Prophecy Pulse](https://t.me/prophecypulse_bot), [Storm Trade](https://t.me/storm_trade_news), [DeDust](https://t.me/dedust_en) | [1](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) |
+| [Animoca Brands](https://www.animocabrands.com) | fund | parent company: [GAMEE](https://t.me/gameechannel) | [1](https://www.animocabrands.com/gamee-receives-investment-from-ton-ventures) |
+| [Folius Ventures](https://www.folius.ventures) | fund | co-launched: Telegram Growth Hub | [1](https://www.streetinsider.com/Globe+Newswire/OKX+Ventures,+The+Open+Platform+and+Folius+Ventures+Launch+$10+Million+Telegram+Growth+Hub/23896789.html) |
+| [OKX Ventures](https://t.me/okxventures) | fund | co-launched: Telegram Growth Hub | [1](https://www.streetinsider.com/Globe+Newswire/OKX+Ventures,+The+Open+Platform+and+Folius+Ventures+Launch+$10+Million+Telegram+Growth+Hub/23896789.html) |
+| [Pantera Capital](https://panteracapital.com) | fund | invested: [GAMEE](https://t.me/gameechannel) | [1](https://www.animocabrands.com/gamee-receives-investment-from-pantera-capital) |
+| [TON Accelerator](https://t.me/accelerator_ton) | accelerator | first cohort: [Prophecy Pulse](https://t.me/prophecypulse_bot), [Storm Trade](https://t.me/storm_trade_news), [EVAA Protocol](https://t.me/evaaprotocol), [DeDust](https://t.me/dedust_en), [TON.SKI Access](https://t.me/tonski_eng), [Pluto Studios](https://www.pluto.vision) | [1](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) |
 
 ## How to read it
 
@@ -140,7 +157,8 @@ The `sources` column lists every place a project was found:
 | [data/projects.csv](data/projects.csv) | 4,561 projects, one per row |
 | [data/channels.csv](data/channels.csv) | 1,210 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
 | [data/categories.json](data/categories.json) | categories in display order |
-| [data/link-fixes.csv](data/link-fixes.csv) | 2,235 link decisions (replaced, removed, confirmed) with evidence |
+| [data/link-fixes.csv](data/link-fixes.csv) | 2,235 link decisions (replaced, removed, confirmed, marked down) with evidence |
+| [data/merged.csv](data/merged.csv) | 33 rows folded into the row that shares their Telegram account (the numeric id), with the key |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
 | [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |
 | [data/similar.csv](data/similar.csv) | 17,956 pairs: whom Telegram shows in similar channels or similar bots next to an entity here, with the position (June 2026); audiences overlap, it is not traffic |
@@ -148,7 +166,7 @@ The `sources` column lists every place a project was found:
 
 <details><summary><b>Columns of projects.csv</b></summary>
 
-`category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `website_down` (the date a check found the site gone), `telegram_id` and `bot_id` (Telegram's numeric ids, which survive a rename), `verified` and `verified_since` (the badge on t.me, and the earliest date it was seen: in a Web Archive copy of the page, a June 2026 snapshot or the latest check), `peak_mau` and `peak_mau_date` (the highest monthly users on the FindMini chart, which starts in July 2024; a peak on the chart's first day may have been higher before it), `github`, `gramnews` (the project's card on gramnews.org), `last_post`, `last_commit`, `launched`, `launched_source`, `subscribers`, `reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.
+`category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `website_down` (the date a check found the site gone), `telegram_id` and `bot_id` (Telegram's numeric ids, which survive a rename), `verified` and `verified_since` (the badge on t.me, and the first Web Archive copy of its page that shows it; empty when the archive does not date it), `peak_mau` and `peak_mau_date` (the highest monthly users on the FindMini chart, which starts in July 2024; a peak on the chart's first day may have been higher before it), `github`, `gramnews` (the project's card on gramnews.org), `last_post`, `last_commit`, `launched`, `launched_source`, `subscribers`, `reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.
 
 </details>
 
@@ -156,7 +174,7 @@ The `sources` column lists every place a project was found:
 
 Every project has a `launched` date: when it started, or when an existing company came to TON. Precision is `YYYY-MM-DD`, `YYYY-MM` for estimates, or `YYYY` when only the year is known. The earliest of these signals wins, and `launched_source` names it:
 
-- its own channel was created (post number one on t.me), or its bot was first mentioned in another channel, from an archive of 530 million Telegram posts since 2015;
+- its own channel was created (post number one on t.me), or its bot was first mentioned in another channel, from the Gram News archive of 531.7 million Telegram posts since 2015;
 - the jetton was minted, the GitHub repository was created, the protocol was listed on DefiLlama;
 - an existing company came to TON: the first post on its own channel that names TON, when that is half a year or more after launch;
 - a catalogue listing: the Gram News library, or the month estimated from a project's number in the ton.app or DYOR catalogue (median error 46 days);
@@ -181,7 +199,7 @@ For games, farming, NFT, casinos and memepads, dates before January 2018 are ign
 | Gifts and NFT | 342 | 21.5M | 36,207 | 72.3M | [bape](https://t.me/bape), [BOROV_TUT](https://t.me/borov_club), [I’m Pepe](https://t.me/pepe_vlog) |
 | Airdrops and farming | 122 | 25.1M | 14,596 | 27.8M | [TON AirDrop (RU)](https://t.me/tonairdrop_ru), [SAGE AIRDROPS ( Crypto )](https://t.me/sageairdrops), [Free Earnings](https://t.me/aird555) |
 | News and media | 170 | 26.8M | 16,010 | 26.9M | [Coingraph](https://t.me/coingraphnews), [Крипта Скруджа](https://t.me/crypta), [CryptoDays 2.0](https://t.me/cryptodays) |
-| Trading and signals | 85 | 6.9M | 5,961 | 22.3M | [TONka→GRAM.smska](https://t.me/smska), [YO vs Smash](https://t.me/yovssmash), [MrKiaTeam / Candoo Trade / آموزش ترید از زیر صفر](https://t.me/candootrade) |
+| Trading and signals | 85 | 6.9M | 5,961 | 22.3M | [TONka→GRAM.smska](https://t.me/smska), [YO vs Smash](https://t.me/yovssmash), [MrKiaTeam](https://t.me/candootrade) |
 | Investing and analytics | 55 | 6.6M | 4,269 | 14.9M | [Типичный Инвестор](https://t.me/eduardinvest), [Дайте TON!](https://t.me/givemetonru), [ПУШИСТЫЙ ИНВЕСТОР](https://t.me/fluffy_investor) |
 
 By language: Russian 802, English 360, Persian 11, Ukrainian 11, Chinese 7, Arabic 6, Indonesian 4.

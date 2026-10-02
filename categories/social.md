@@ -6,12 +6,12 @@
 
 ## Active
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 1 | **@Mira** | Personal AI agent that turns conversations into actions | [Telegram](https://t.me/miramedia_en) [Bot](https://t.me/mira) [Site](https://mira.tg) | 2025-03-19 |  | 2026-03 |
-| 2 | **TON Dating** | TON Dating is a selective dating community with verified profiles | [Telegram](https://t.me/tondatingchannel) [Bot](https://t.me/TonDating_bot) [Site](https://ton.dating) [Gram News](https://gramnews.org/apps/ton-dating) | 2023-10-17 |  | 2024-05 |
-| 3 | **@Major** | Major is a Telegram app with its own token, NFT market, games, and staking | [Bot](https://t.me/major) [X](https://x.com/majoroftelegram) [Site](https://major.bot) [Gram News](https://gramnews.org/apps/major-1) | 2021-11-06 |  | 2024-08 |
-| 4 | **@IPredict** | Predict match outcomes and trade football markets inside Telegram. Powered by USDT on… | [Bot](https://t.me/ipredict) | 2026-06-05 |  |  |
+| 1 | **@Mira** | Personal AI agent that turns conversations into actions | [Telegram](https://t.me/miramedia_en) [Bot](https://t.me/mira) [Site](https://mira.tg) | 2025-03-19 |  | since 2026-03 |
+| 2 | **TON Dating** | TON Dating is a selective dating community with verified profiles | [Telegram](https://t.me/tondatingchannel) [Bot](https://t.me/TonDating_bot) [Site](https://ton.dating) [Gram News](https://gramnews.org/apps/ton-dating) | 2023-10-17 |  | since 2024-05 |
+| 3 | **@Major** | Major is a Telegram app with its own token, NFT market, games, and staking | [Bot](https://t.me/major) [X](https://x.com/majoroftelegram) [Site](https://major.bot) [Gram News](https://gramnews.org/apps/major-1) | 2021-11-06 |  | since 2024-08 |
+| 4 | **@IPredict** | Predict match outcomes and trade football markets inside Telegram. Powered by USDT on TON with instant cashout | [Bot](https://t.me/ipredict) | 2026-06-05 |  |  |
 | 5 | **cult of not** |  | [Telegram](https://t.me/cultofnot) | 2024-05-22 |  |  |
 | 6 | **iMe app** | iMe Wallet: a wallet for the LIME token and cryptocurrency management | [Telegram](https://t.me/ime_en) [Bot](https://t.me/iMe_lime_bot) [X](https://x.com/iMePlatform) [Site](https://www.imem.app/) [GitHub](https://github.com/imemessenger) [Gram News](https://gramnews.org/apps/ime-app) | 2020-04-26 |  |  |
 | 7 | **Tmail** | Tmail — a secure Web3‑Web2 email service on TON | [Telegram](https://t.me/tmailofficial) [Bot](https://t.me/tmail_ton_bot) [X](https://x.com/tmail_ton) [Site](https://tmail.ae/) [Gram News](https://gramnews.org/apps/tmail) | 2024-11-20 |  |  |
@@ -34,17 +34,17 @@
 
 <details><summary><b>Quiet: 109</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 24 | **RichBlock** |  | [Telegram](https://t.me/richblock_channel) [Bot](https://t.me/richblock_bot) [Gram News](https://gramnews.org/apps/richblock) | 2024-07-10 | 92K |  |
-| 25 | **vSelf** | Official channel for early adopters of vSelf: a platform that helps brands host and… | [Telegram](https://t.me/vselfmeta) [Bot](https://t.me/vself_bot) [X](https://x.com/vself_meta) [Site](https://vself.app/) [Gram News](https://gramnews.org/apps/vself) | 2021-11-20 | 21K |  |
+| 25 | **vSelf** | Official channel for early adopters of vSelf: a platform that helps brands host and tokenize their communities on Telegram and socials. Build mini-games, quests, and activations for your community | [Telegram](https://t.me/vselfmeta) [Bot](https://t.me/vself_bot) [X](https://x.com/vself_meta) [Site](https://vself.app/) [Gram News](https://gramnews.org/apps/vself) | 2021-11-20 | 21K |  |
 | 26 | **BeeVerse By NCTR** | Are you ready for adventures in BeeVerse? | [Bot](https://t.me/bee_verse_bot) [Gram News](https://gramnews.org/apps/beeverse-by-nctr) | 2024-06-15 | 372K |  |
 | 27 | **Zipsy** | Watch & Earn - Short Videos on Telegram | [Telegram](https://t.me/zipsy_community) [Bot](https://t.me/zipsy_bot) [X](https://x.com/zipsycommunity) [Gram News](https://gramnews.org/apps/zipsy) | 2024-06-02 |  |  |
 | 28 | **INVITE** |  | [Bot](https://t.me/uxinvite_bot) [Gram News](https://gramnews.org/apps/invite) | 2024-08-01 | 324K |  |
 | 29 | **Khomyakovo GOV** |  | [Bot](https://t.me/khomyakovo_gov_bot) [Gram News](https://gramnews.org/apps/khomyakovo-gov) | 2024-05-22 | 35K |  |
 | 30 | **Memepolis** | Farming memecoins is fun! | [Telegram](https://t.me/MemepolisBOSS) [Bot](https://t.me/memepolisbot) [X](https://x.com/memepolisTON) [Gram News](https://gramnews.org/apps/memepolis) | 2024-05-22 | 62K |  |
 | 31 | **ChatGalaTon** | Социальная игровая метавселенная нового поколения внутри Telegram! | [Telegram](https://t.me/ChatGalaTon) [Bot](https://t.me/chatgalatone_bot) [X](https://x.com/ChatGalaTon) [Gram News](https://gramnews.org/apps/chatgalaton) | 2025-12-10 | 21K |  |
-| 32 | **Pumpkin Bot** | Pumpkin: The World's First Decentralized Live Streaming Trading Platform / Trade Like a… | [Telegram](https://t.me/pumpkin_global) [Bot](https://t.me/pumpkin_xyz_bot) [X](https://x.com/pumpkin_global) [Site](https://pumpkin.xyz) [Gram News](https://gramnews.org/apps/pumpkin-bot) | 2023-05-25 | 27K |  |
+| 32 | **Pumpkin Bot** | Pumpkin: The World's First Decentralized Live Streaming Trading Platform / Trade Like a Show, Earn Like a Pro! | [Telegram](https://t.me/pumpkin_global) [Bot](https://t.me/pumpkin_xyz_bot) [X](https://x.com/pumpkin_global) [Site](https://pumpkin.xyz) [Gram News](https://gramnews.org/apps/pumpkin-bot) | 2023-05-25 | 27K |  |
 | 33 | **MomoAI** | MomoAI — a bot for claiming $MTOS airdrops and joining the Sprint event | [Telegram](https://t.me/metaoasis_official) [Bot](https://t.me/MomoAI_bot) [X](https://x.com/Metaoasis_) [Site](https://www.momoai.io/) [Gram News](https://gramnews.org/apps/momoai-abdmcn) | 2024-02-29 |  |  |
 | 34 | **Friends** |  | [Bot](https://t.me/friendstonbot) [Gram News](https://gramnews.org/apps/friends) | 2024-07-24 | 228K |  |
 | 35 | **LinkFork** | LinkFork is your ultimate social network hub on Telegram | [Telegram](https://t.me/linkfork_en) [Bot](https://t.me/linkforkbot) [Site](https://linkfork.io) [Gram News](https://gramnews.org/apps/linkfork) | 2023-11-26 | 21K |  |
@@ -62,10 +62,10 @@
 | 47 | **Real Cows House** | The most telegram-native memecoin | [Telegram](https://t.me/cowspartners) [Bot](https://t.me/realcowshouse_bot) [X](https://x.com/realcowshouse) [Gram News](https://gramnews.org/apps/real-cows-house) | 2024-08-28 | 3.1M |  |
 | 48 | **DINO** |  | [Telegram](https://t.me/dinocards) [Bot](https://t.me/dinocards_bot) [Gram News](https://gramnews.org/apps/dino) | 2024-08-08 | 26K |  |
 | 49 | **OGCommunity Bot** | We are building the most influential community in gaming! | [Bot](https://t.me/ogcommunitybot) [Gram News](https://gramnews.org/apps/ogcommunity-bot) | 2024-01-06 | 1.6M |  |
-| 50 | **TRUST APP BOT** | Introducing TRUST: A Telegram Meme Token Set to Become the Largest Project by Both… | [Telegram](https://t.me/trust_empire) [Bot](https://t.me/trust_empire_bot) [Gram News](https://gramnews.org/apps/trust-app-bot) | 2024-07-14 |  |  |
+| 50 | **TRUST APP BOT** | Introducing TRUST: A Telegram Meme Token Set to Become the Largest Project by Both Participant Count and Token Value | [Telegram](https://t.me/trust_empire) [Bot](https://t.me/trust_empire_bot) [Gram News](https://gramnews.org/apps/trust-app-bot) | 2024-07-14 |  |  |
 | 51 | **Leagushqa Bot** |  | [Telegram](https://t.me/leagushqa) [Bot](https://t.me/leagushqabot) [Gram News](https://gramnews.org/apps/leagushqa-bot) | 2020-03-23 | 16K |  |
 | 52 | **Frogy LIVE** | Welcome to the official FROGY Channel! | [Telegram](https://t.me/FrogyNews) [Bot](https://t.me/FrogyLiveBot) [X](https://x.com/Frogy_LIVE) [Site](https://docs.frogy.live) [Gram News](https://gramnews.org/apps/frogy-live) | 2024-07-07 | 316K |  |
-| 53 | **SideFans (By SideKick)** | Share, Engage, and Trade Live Effortlessly | [Telegram](https://t.me/sidekick_official) [Bot](https://t.me/sidekick_fans_bot) [X](https://x.com/sidekick_labs) [Gram News](https://gramnews.org/apps/sidefans-by-sidekick) | 2024-04-16 | 9M | 2025-08 |
+| 53 | **SideFans (By SideKick)** | Share, Engage, and Trade Live Effortlessly | [Telegram](https://t.me/sidekick_official) [Bot](https://t.me/sidekick_fans_bot) [X](https://x.com/sidekick_labs) [Gram News](https://gramnews.org/apps/sidefans-by-sidekick) | 2024-04-16 | 9M | since 2025-08 |
 | 54 | **KKX love** |  | [Bot](https://t.me/kkxlove_bot) [Gram News](https://gramnews.org/apps/kkx-love) | 2024-05-15 | 30K |  |
 | 55 | **Hug** | The most kind Telegram native token | [Telegram](https://t.me/hugcommunity) [Bot](https://t.me/hugcommunity_bot) [X](https://x.com/communityhug) [GitHub](https://github.com/PurrFund/SC-Purr) [Gram News](https://gramnews.org/apps/hug) | 2024-04-09 | 275K |  |
 | 56 | **VIP Club** |  | [Telegram](https://t.me/VIPClub_news) [Bot](https://t.me/vipclubapp_bot) [X](https://x.com/BCBlueSkyVC) [Gram News](https://gramnews.org/apps/vip-club) | 2024-08-14 | 876K |  |
@@ -84,11 +84,11 @@
 | 69 | **Twitton** |  | [Bot](https://t.me/twitton_bot) [X](https://x.com/web3Twitton) [Gram News](https://gramnews.org/apps/twitton) | 2024-08-14 | 130K |  |
 | 70 | **@Placce** |  | [Telegram](https://t.me/placce) [Bot](https://t.me/placcerobot) | 2025-05-29 |  |  |
 | 71 | **ART VNUKICH** |  | [Bot](https://t.me/art_vnukich_bot) | 2026-05-04 |  |  |
-| 72 | **Asiqpai** | ASIQPAI is a music-focused Telegram Mini App built on TON and powered by the ASIQ… | [Telegram](https://t.me/asiqpaihub) [Bot](https://t.me/asiqpai_bot) [X](https://x.com/asiqpai) [Site](https://asiqpai.site) [GitHub](https://github.com/qaztrap/asiqpai) | 2026-07-13 |  |  |
-| 73 | **Atomic Star** | Платформа для коммуникации с Web3 продуктами проекта StalinFoundation на базе блокчейна… | [Bot](https://t.me/AtomicStarBot) [GitHub](https://github.com/StalinFoundation) [Gram News](https://gramnews.org/apps/atomic-star) | 2023-08-09 |  |  |
+| 72 | **Asiqpai** | ASIQPAI is a music-focused Telegram Mini App built on TON and powered by the ASIQ utility token | [Telegram](https://t.me/asiqpaihub) [Bot](https://t.me/asiqpai_bot) [X](https://x.com/asiqpai) [Site](https://asiqpai.site) [GitHub](https://github.com/qaztrap/asiqpai) | 2026-07-13 |  |  |
+| 73 | **Atomic Star** | Платформа для коммуникации с Web3 продуктами проекта StalinFoundation на базе блокчейна The Open Network | [Bot](https://t.me/AtomicStarBot) [GitHub](https://github.com/StalinFoundation) [Gram News](https://gramnews.org/apps/atomic-star) | 2023-08-09 |  |  |
 | 74 | **Ausum** | The ultimate challenge platform on Telegram. ausum.social | [Bot](https://t.me/ausum_bot) | 2026-04-22 |  |  |
 | 75 | **B.appka** | Messenger-style community app in Telegram | [Telegram](https://t.me/b_appka_hub) | 2024-12-16 |  |  |
-| 76 | **Community** | Telegram-native toolset for communities | [Bot](https://t.me/community_bot) | 2023-08-17 | 15.7M | 2024-09 |
+| 76 | **Community** | Telegram-native toolset for communities | [Bot](https://t.me/community_bot) | 2023-08-17 | 15.7M | since 2024-09 |
 | 77 | **Episodes** | Short vertical episodes mini app | [Bot](https://t.me/watchepisodesbot) | 2024-11-28 | 534K |  |
 | 78 | **Fibarium** |  | [Telegram](https://t.me/fibarium) [Bot](https://t.me/fibariumbot) [X](https://x.com/fibarium) | 2024-12-21 |  |  |
 | 79 | **FireTon Drop** |  | [Telegram](https://t.me/moklgamefi) [Bot](https://t.me/mokl_io_bot) [Gram News](https://gramnews.org/apps/fireton-drop) | 2024-05-03 |  |  |
@@ -106,7 +106,7 @@
 | 91 | **NFT Access Guardian Bot** | NFT Access Guardian Bot: Verifies NFT ownership for exclusive chat access | [Bot](https://t.me/access_ton_control_bot) | 2023-08-26 |  |  |
 | 92 | **NFTune** |  | [Bot](https://t.me/nftunebot) | 2025 |  |  |
 | 93 | **Peace Da Love** |  | [Site](https://peacedalove.com) [Gram News](https://gramnews.org/apps/peace-da-love) | 2023-06 |  |  |
-| 94 | **Photon** | Photon - a social app to express yourself, discover your friends, and bring your dreams… | [Telegram](https://t.me/The_Photon_app) [Bot](https://t.me/ThePhoton_Bot) [X](https://x.com/photon_friends) [Gram News](https://gramnews.org/apps/photon) | 2024-07-31 | 83K |  |
+| 94 | **Photon** | Photon - a social app to express yourself, discover your friends, and bring your dreams to life | [Telegram](https://t.me/The_Photon_app) [Bot](https://t.me/ThePhoton_Bot) [X](https://x.com/photon_friends) [Gram News](https://gramnews.org/apps/photon) | 2024-07-31 | 83K |  |
 | 95 | **Spiritual Hub** | Spiritual hub - mindfulness app aggregator | [Bot](https://t.me/spiritualhubbot) | 2025 |  |  |
 | 96 | **Starzy** | Telegram rating checker and level-based clubs | [Bot](https://t.me/starzy_rating_bot) | 2025-08-01 |  |  |
 | 97 | **Stena DAO** | Задняя стена твоего любимого блокчейна | [Telegram](https://t.me/stenadao) | 2024-08-24 |  |  |
@@ -121,7 +121,7 @@
 | 106 | **TON Circle** | Bot for TON content creators and the TON Society | [Bot](https://t.me/toncirclebot) | 2025-08-27 |  |  |
 | 107 | **TON Community Chat** | Official TON community chat with regional hubs | [Telegram](https://t.me/tonchathq) | 2025-12-12 |  |  |
 | 108 | **TON Gentlemens** | TON insights and aid community | [Telegram](https://t.me/tongentlemens) | 2025-03-27 |  |  |
-| 109 | **TON ID** | Build your reputation with every app you use and every contribution you make | [Bot](https://t.me/ton_society_bot) | 2024-04-10 | 1.7M | 2025-02 |
+| 109 | **TON ID** | Build your reputation with every app you use and every contribution you make | [Bot](https://t.me/ton_society_bot) | 2024-04-10 | 1.7M | since 2025-02 |
 | 110 | **TON Vibe** | Post content and earn TON and Stars | [Bot](https://t.me/tonvibe_bot) | 2026-04-22 |  |  |
 | 111 | **TON Vote** |  | [Telegram](https://t.me/tonvotesupportgroup) [GitHub](https://github.com/orbs-network/dao-vote) | 2023-01-26 |  |  |
 | 112 | **ton.place** |  | [Site](https://ton.place) [Gram News](https://gramnews.org/apps/ton-place) | 2023-05 |  |  |
@@ -137,7 +137,7 @@
 | 122 | **Криптохалва** |  | [Telegram](https://t.me/beetonchat) [Bot](https://t.me/beeton_kriptohalva_bot) [Gram News](https://gramnews.org/apps/cryptohalva) | 2024-01-04 | 19K |  |
 | 123 | **Gram Community** | Enthusiast community channel about Gram | [Telegram](https://t.me/gramcommunity) [X](https://x.com/gramcommunity) | 2024-01-31 |  |  |
 | 124 | **Btok** | Web3 messaging app | [Telegram](https://t.me/btokofficialchannel) [X](https://x.com/Btok_official) [Site](https://btok360.com) | 2024-07-16 |  |  |
-| 125 | **Coub** | Short video platform available in Telegram | [Telegram](https://t.me/coubnews) [X](https://x.com/coub) [Site](https://coub.com) | 2024-08-04 |  | 2026-09 |
+| 125 | **Coub** | Short video platform available in Telegram | [Telegram](https://t.me/coubnews) [X](https://x.com/coub) [Site](https://coub.com) | 2024-08-04 |  | yes |
 | 126 | **Hubz Chat** | Hubz Chat — a chat bot for verifying members by wallets and NFTs | [Telegram](https://t.me/Hubz_News) [Bot](https://t.me/hubz_app_bot) [X](https://x.com/hubz_chat) [Site](https://hubz.io/) [Gram News](https://gramnews.org/apps/hubz-chat) | 2024-04-26 |  |  |
 | 127 | **Memegram** | Memegram anonymous numbers community | [Telegram](https://t.me/memex) | 2024-11-10 |  |  |
 | 128 | **QuestHub** | Quest platform to collaborate with TON projects | [Telegram](https://t.me/brobot) | 2024-01-09 |  |  |
@@ -150,7 +150,7 @@
 
 <details><summary><b>Closed: 3</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 133 | **Lost Dogs** | A detective game in the 'signals' genre in Telegram | [Telegram](https://t.me/lostdogscoeng) [Bot](https://t.me/lost_dogs_bot) [X](https://x.com/lostdogsco) [Site](https://app.vpn.diamonds/) | 2023-02-16 | 13.4M |  |
 | 134 | **Uniton** |  | [Bot](https://t.me/UnitonAIBot) [X](https://x.com/UnitonAI) [Site](https://www.uniton.ai) | 2024-03-09 | 94K |  |

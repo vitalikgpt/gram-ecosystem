@@ -6,15 +6,15 @@
 
 ## Active
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 1 | **AI Lab** |  | [Bot](https://t.me/ailab_robot) | 2026-09-08 |  |  |
 | 2 | **MOONBERG AI BOT** | MOONBERG AI BOT — AI-powered crypto trading tool | [Telegram](https://t.me/moonbergai) [Bot](https://t.me/moonbergai_bot) [X](https://x.com/moonberg) [Site](https://moonberg.com) [GitHub](https://github.com/Emmet-Finance) [Gram News](https://gramnews.org/apps/moonberg-ai-bot) | 2024-06-27 | 1.3M |  |
 | 3 | **Spru** | ИИ, который делает за тебя | [Bot](https://t.me/spru_agent_bot) | 2026-03-30 |  |  |
 | 4 | **AgentBook** |  | [Bot](https://t.me/agentbookbot) | 2026-09-03 |  |  |
-| 5 | **Reverie** | A mini app for chatting with virtual characters who have their own memory and… | [Bot](https://t.me/reverie_ai_bot) [Gram News](https://gramnews.org/apps/reverie) | 2026-08-26 |  |  |
+| 5 | **Reverie** | A mini app for chatting with virtual characters who have their own memory and personalities | [Bot](https://t.me/reverie_ai_bot) [Gram News](https://gramnews.org/apps/reverie) | 2026-08-26 |  |  |
 | 6 | **ForU AI** | Proof-based reputation layer for humans and AI agents | [Telegram](https://t.me/foruai_channel) [Site](https://foruai.io) | 2024-09-12 |  |  |
-| 7 | **AE _Digital Tech** | AE (AI Energy) powers always-on execution and stability,helping strategies run smarter,… | [Bot](https://t.me/ae_dx_bot) | 2026-05-04 |  |  |
+| 7 | **AE _Digital Tech** | AE (AI Energy) powers always-on execution and stability,helping strategies run smarter, safer, and consistently | [Bot](https://t.me/ae_dx_bot) | 2026-05-04 |  |  |
 | 8 | **Quant IA** |  | [Bot](https://t.me/thequantaibot) | 2026-06-30 |  |  |
 | 9 | **Guardian** | An intelligent group management bot with portal, buy bot and AI features | [Telegram](https://t.me/guardiantrending) [Bot](https://t.me/mevfreeportalbot) | 2022-08-13 | 158K |  |
 | 10 | **Bter9 AI 2.5%** | USDT balance to level up your agent and boost your daily income! | [Bot](https://t.me/bter9bot) | 2026-09-05 |  |  |
@@ -28,7 +28,7 @@
 
 <details><summary><b>Quiet: 49</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 18 | **Cocktail App** | Your endless fantasy | [Bot](https://t.me/cocktailappbot) [Gram News](https://gramnews.org/apps/cocktail-app) | 2024-05 | 63K |  |
 | 19 | **HabbitHero** |  | [Bot](https://t.me/habbithero_bot) [Gram News](https://gramnews.org/apps/habbithero) | 2024-05-01 | 19K |  |
@@ -45,16 +45,16 @@
 | 30 | **AiTon** | Next Gen Ai Research project AiTon | [Bot](https://t.me/iaiton_bot) | 2026-05-22 |  |  |
 | 31 | **Aiya** | Personal AI assistant project | [Bot](https://t.me/aiyaproject_bot) | 2024-03-05 |  |  |
 | 32 | **AIYA** | Personal AI assistant with community channel | [Telegram](https://t.me/aiya_community) | 2024-02-05 |  |  |
-| 33 | **Alice AI** | Yandex neural network assistant as Telegram bot | [Bot](https://t.me/alisa) | 2026-02-09 |  | 2026-03 |
-| 34 | **Alpha Track ~~ bot** | AI-powered crypto intelligence. Your channels filtered, categorized, delivered. Alpha,… | [Telegram](https://t.me/alphatrack_ann) [Bot](https://t.me/alphatrack_ai_bot) | 2026-07-15 |  |  |
+| 33 | **Alice AI** | Yandex neural network assistant as Telegram bot | [Bot](https://t.me/alisa) | 2026-02-09 |  | since 2026-03 |
+| 34 | **Alpha Track ~~ bot** | AI-powered crypto intelligence. Your channels filtered, categorized, delivered. Alpha, not noise TG | [Telegram](https://t.me/alphatrack_ann) [Bot](https://t.me/alphatrack_ai_bot) | 2026-07-15 |  |  |
 | 35 | **ChainGPT CIS** | CIS channel of the ChainGPT AI model | [Telegram](https://t.me/chaingpt_cis) | 2023-04-04 |  |  |
 | 36 | **CoinCoin.ai** | AI tools and news channel for coding with Codex, ChatGPT and Claude | [Telegram](https://t.me/coincoinai) | 2025-07-08 |  |  |
 | 37 | **DecentralGPT** | Decentralized LLM inference network | [Telegram](https://t.me/decentralgpt) | 2024-06-14 |  |  |
 | 38 | **Duck Ai App** | Deploy & Manage Ai Agents easily | [Telegram](https://t.me/myduckai) [Bot](https://t.me/teleduckaibot) | 2026-06-03 |  |  |
-| 39 | **Fabrika AI** | Platform for building AI agents in Telegram | [Bot](https://t.me/game_nobot) | 2024-09-25 | 1.8M | 2024-12 |
+| 39 | **Fabrika AI** | Platform for building AI agents in Telegram | [Bot](https://t.me/game_nobot) | 2024-09-25 | 1.8M | since 2024-12 |
 | 41 | **Fragment Neuro Bot** |  | [Telegram](https://t.me/TeletonApp) [Bot](https://t.me/TeletonOfficialAppBot) [X](https://x.com/teletonapp) [Gram News](https://gramnews.org/apps/fragment-neuro-bot) | 2024-07-29 |  |  |
 | 42 | **GMAI** | GMAI — developer tool for Solana dApps with AI integration | [Telegram](https://t.me/gmAI_Ann) [Bot](https://t.me/gmdotaibot) [X](https://x.com/gm_dot_ai) [Site](https://docs.gm.ai/how-we-work/gmai-framework) [Gram News](https://gramnews.org/apps/gmai) | 2024-07-30 | 2.5M |  |
-| 43 | **Grok** | xAI language model available as a Telegram bot | [Bot](https://t.me/grokai) | 2024-12-29 | 791K | 2025-05 |
+| 43 | **Grok** | xAI language model available as a Telegram bot | [Bot](https://t.me/grokai) | 2024-12-29 | 791K | since 2025-05 |
 | 44 | **Husky AI** | All-in-one AI app in Telegram | [Bot](https://t.me/huskysearchbot) | 2024-11-05 | 2K |  |
 | 45 | **Kamana AI** | Start your $KAMANA journey and reap the rewards in $TON • TG • Play | [Telegram](https://t.me/kamanaann) [Bot](https://t.me/kamanaai_bot) | 2026-10 | 685 |  |
 | 46 | **NEONEXA AI** | Neonexa Network: Web: tonmason.com | [Telegram](https://t.me/tonmasons) [Bot](https://t.me/tonmasonaibot) | 2026-09-04 |  |  |
@@ -84,7 +84,7 @@
 
 <details><summary><b>Closed: 1</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 40 | **Fragment Checker Bot** |  | [Gram News](https://gramnews.org/apps/fragment-checker-bot) | 2024-09-05 |  |  |
 

@@ -6,7 +6,7 @@
 
 ## Active
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 1 | **Anonymous Numbers** |  | [Site](https://fragment.com/gifts) | 2022-12-06 |  |  |
 | 2 | **Plush Pepe** |  | [Telegram](https://t.me/plushpepe_coin) [Site](https://fragment.com/gifts) | 2025-01-23 |  |  |
@@ -27,7 +27,7 @@
 
 <details><summary><b>Quiet: 72</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 17 | **Allo Sticker Verify** | Bot to verify BAYC sticker pack ownership | [Bot](https://t.me/allosticker_bot) | 2026-05-14 |  |  |
 | 18 | **Bolgur NFT** | Official NFT bot of Airina Bolgur | [Bot](https://t.me/bolgurnftbot) | 2024-11-20 |  |  |
@@ -51,7 +51,7 @@
 | 36 | **Blockchain NFT** | Info channel of the Blockchain NFT collection | [Telegram](https://t.me/chat_blockchain_nft) | 2023-02-05 |  |  |
 | 37 | **Nutcrackers Club** | Holder club for the Nutcrackers NFT collection on TON | [Telegram](https://t.me/nutcracker_en) [X](https://x.com/NutcrackersNFT) | 2024-02-01 |  |  |
 | 38 | **TON Fans** | TON Fans NFT collection and community fund | [Telegram](https://t.me/tonfans_nft) | 2022-08-21 |  |  |
-| 39 | **Smeshariki on TON** | NFT collections and mini app based on Smeshariki | [Telegram](https://t.me/smeshtonnews) | 2024-04-30 |  | 2024-09 |
+| 39 | **Smeshariki on TON** | NFT collections and mini app based on Smeshariki | [Telegram](https://t.me/smeshtonnews) | 2024-04-30 |  | since 2024-09 |
 | 40 | **Punks market** | Offers for Punks NFTs from GetGems and Disintar | [Telegram](https://t.me/punksv2) [Bot](https://t.me/punks_bot) | 2022-05-15 |  |  |
 | 41 | **Eggs Wisdom** | Eggs Wisdom NFT collection on Getgems | [Telegram](https://t.me/eggswisdom) [X](https://x.com/EggsWisdom) | 2023-10-03 |  |  |
 | 42 | **BARASH** | Sheep NFT collection on TON | [Telegram](https://t.me/barash_ton) | 2024-01-18 |  |  |

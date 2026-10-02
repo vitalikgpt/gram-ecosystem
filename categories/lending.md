@@ -6,9 +6,9 @@
 
 ## Active
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 1 | **EVAA Protocol** | The first decentralized lending protocol on TON | [Telegram](https://t.me/evaaprotocol) [Bot](https://t.me/EvaaAppBot) [X](https://x.com/evaaprotocol) [Site](https://evaa.finance) [GitHub](https://github.com/evaafi) [Gram News](https://gramnews.org/apps/evaa-protocol) | 2022-12-10 | 90K | 2024-09 |
+| 1 | **EVAA Protocol** | The first decentralized lending protocol on TON | [Telegram](https://t.me/evaaprotocol) [Bot](https://t.me/EvaaAppBot) [X](https://x.com/evaaprotocol) [Site](https://evaa.finance) [GitHub](https://github.com/evaafi) [Gram News](https://gramnews.org/apps/evaa-protocol) | 2022-12-10 | 90K | since 2024-09 |
 | 2 | **TONLender** | Borrow GRAM against NFT collateral on TON | [Telegram](https://t.me/tonlender_ru) [Bot](https://t.me/tonlenderbot) [X](https://x.com/tonlender) [Site](https://tonlender.com) [Gram News](https://gramnews.org/apps/tonlender) | 2026-04-22 |  |  |
 | 3 | **DAOLama** | DAOLama is a lending service for NFT collateral that is closing soon | [Telegram](https://t.me/daolama) [Bot](https://t.me/daolama_bot) [X](https://x.com/daolama_ton) [Site](https://daolama.co?utm_source=tonapp&utm_medium=marketplace&utm_campaign=NFT_service) [Gram News](https://gramnews.org/apps/daolama) | 2022-08-30 | 56K |  |
 | 4 | **GTC (Gift To Credit)** | GTC is onchain / offchain lending against Telegram gifts & NFTs | [Telegram](https://t.me/gifttocredit_new_age) [Site](https://giftcredit.app/borrow) | 2026-07-01 |  |  |
@@ -17,11 +17,11 @@
 | 7 | **Aqua Protocol (CDP)** |  | [Telegram](https://t.me/aquaprotocolxyzchannel) [Bot](https://t.me/AquaProtocolxyz_Bot) [X](https://x.com/aquaprotocolxyz) [Site](https://aquaprotocol.xyz/?utm_source=tonapp&utm_medium=ecosystem&utm_campaign=aqua) [Gram News](https://gramnews.org/apps/aqua-protocol-cdp) | 2022-11-10 |  |  |
 | 8 | **Delea Finance** |  | [Telegram](https://t.me/delea_finance) [Bot](https://t.me/delea_app_bot) [X](https://x.com/DeleaFinance) [Site](https://delea.finance/) [Gram News](https://gramnews.org/apps/delea-finance) | 2024-11-19 |  |  |
 | 9 | **Affluent** | Affluent is a Telegram mini app for staking | [Telegram](https://t.me/Affluent) [Bot](https://t.me/affluentappbot) [X](https://x.com/affluentorg) [Site](https://affluent.org) [Gram News](https://gramnews.org/apps/affluent) | 2024-10-22 |  |  |
-| 10 | **Telegram USD** | Telegram USD is a blue-chip-backed stablecoin on the TON blockchain, designed for… | [Site](https://torch.finance) | 2025-05-05 |  |  |
+| 10 | **Telegram USD** | Telegram USD is a blue-chip-backed stablecoin on the TON blockchain, designed for cross-chain yield and seamless payments. It’s easy to mint, secure, and optimized for DeFi on Telegram | [Site](https://torch.finance) | 2025-05-05 |  |  |
 
 <details><summary><b>Quiet: 10</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 11 | **AXUS Protocol** |  | [Telegram](https://t.me/axusprotocol) [Bot](https://t.me/AXUSProtocol_bot) [X](https://x.com/axusprotocol) [Site](https://axus-protocol.web.app) [GitHub](https://github.com/axusprotocol/axusprotocol) [Gram News](https://gramnews.org/apps/axus-protocol) | 2025-05-21 |  |  |
 | 12 | **BeaverLand** | Lending protocol on TON | [Bot](https://t.me/beaverland_bot) | 2024-09-13 |  |  |
