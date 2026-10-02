@@ -2,28 +2,29 @@
 
 # RWA
 
-**12 projects: 4 active, 8 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**13 projects: 4 active, 9 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
-| # | Project | What it is | Links | Launched |
-| ---: | --- | --- | --- | --- |
-| 1 | **XAUt** |  | [Telegram](https://t.me/tether) [Site](https://gold.tether.to) | 2024-04-19 |
-| 2 | **Stable Metal** | Stable Metal - your opportunity to invest in the precious metals market | [Telegram](https://t.me/stablemetal) [Bot](https://t.me/Stable_metal_bot) [X](https://x.com/stable_metal) [Site](https://stablemetal.com) [GitHub](https://github.com/Stable-Metal/SLAG-Collection) [Gram News](https://gramnews.org/apps/stable-metal) | 2023-05-14 |
-| 3 | **USDT** |  | [Site](https://tether.to) | 2024-04-19 |
-| 4 | **Ethena USDe** |  | [Telegram](https://t.me/ethena_labs) [Site](https://ethena.fi) | 2023-05-23 |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 1 | **XAUt** |  | [Telegram](https://t.me/tether) [Site](https://gold.tether.to) | 2024-04-19 |  | 2026-09 |
+| 2 | **Stable Metal** | Stable Metal - your opportunity to invest in the precious metals market | [Telegram](https://t.me/stablemetal) [Bot](https://t.me/Stable_metal_bot) [X](https://x.com/stable_metal) [Site](https://stablemetal.com) [GitHub](https://github.com/Stable-Metal/SLAG-Collection) [Gram News](https://gramnews.org/apps/stable-metal) | 2023-05-14 |  |  |
+| 3 | **USDT** |  | [Site](https://tether.to) | 2024-04-19 |  |  |
+| 4 | **Ethena USDe** |  | [Telegram](https://t.me/ethena_labs) [Site](https://ethena.fi) | 2023-05-23 |  |  |
 
-<details><summary><b>Quiet: 8</b></summary>
+<details><summary><b>Quiet: 9</b></summary>
 
-| # | Project | What it is | Links | Launched |
-| ---: | --- | --- | --- | --- |
-| 5 | **Diamore** |  | [Telegram](https://t.me/diamoremarket) [Bot](https://t.me/diamorecryptobot) [X](https://x.com/diamore_market) [Site](https://diamore.co) [Gram News](https://gramnews.org/apps/diamore) | 2024-03-24 |
-| 6 | **SOLARIAN TECH** |  | [Bot](https://t.me/solariantechbot) [Gram News](https://gramnews.org/apps/solarian-tech) | 2024-07-02 |
-| 7 | **TokenizeTrade** |  | [Telegram](https://t.me/tokenizetrade) [Bot](https://t.me/tokenizetradebot) [X](https://x.com/tokenizetrade) [Site](https://www.tokenize.trade) [Gram News](https://gramnews.org/apps/tokenizetrade) | 2024-02-05 |
-| 8 | **Aqua Protocol** |  | [Telegram](https://t.me/aquaprotocolxyz) [X](https://x.com/aquaprotocolxyz) | 2024-09-18 |
-| 9 | **CurioDAO** | Real-world asset tokenization ecosystem | [Telegram](https://t.me/curiocarqa) | 2024-08-22 |
-| 10 | **Nexton** | NEXTON is a staking and arbitrage platform designed to maximize rewards in the TON… | [X](https://x.com/NextonNode) [Site](https://www.nexton.solutions) | 2024-11-29 |
-| 11 | **TVERLOFT** | Real estate-backed RWA token TLOFT | [Telegram](https://t.me/tverloft_chat) | 2025-06-30 |
-| 12 | **Plume** | Real-world asset blockchain network | [Telegram](https://t.me/plumenetwork) [X](https://x.com/plumenetwork) [Site](https://plume.org) | 2025-01-06 |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 5 | **Diamore** |  | [Telegram](https://t.me/diamoremarket) [Bot](https://t.me/diamorecryptobot) [X](https://x.com/diamore_market) [Site](https://diamore.co) [Gram News](https://gramnews.org/apps/diamore) | 2024-03-24 |  |  |
+| 6 | **SOLARIAN TECH** |  | [Bot](https://t.me/solariantechbot) [Gram News](https://gramnews.org/apps/solarian-tech) | 2024-07-02 | 120K |  |
+| 7 | **TokenizeTrade** |  | [Telegram](https://t.me/tokenizetrade) [Bot](https://t.me/tokenizetradebot) [X](https://x.com/tokenizetrade) [Site](https://www.tokenize.trade) [Gram News](https://gramnews.org/apps/tokenizetrade) | 2024-02-05 | 88K |  |
+| 8 | **Aqua Protocol** |  | [Telegram](https://t.me/aquaprotocolxyz) [X](https://x.com/aquaprotocolxyz) | 2024-09-18 |  |  |
+| 9 | **CurioDAO** | Real-world asset tokenization ecosystem | [Telegram](https://t.me/curiocarqa) | 2024-08-22 |  |  |
+| 10 | **dEquity App** | dEquity!Your go-to app for trading real-world assets right from your pocket! | [Bot](https://t.me/dequityminiapp_bot) | 2024-08-10 |  |  |
+| 11 | **Nexton** | NEXTON is a staking and arbitrage platform designed to maximize rewards in the TON… | [X](https://x.com/NextonNode) [Site](https://www.nexton.solutions) | 2024-11-29 |  |  |
+| 12 | **TVERLOFT** | Real estate-backed RWA token TLOFT | [Telegram](https://t.me/tverloft_chat) | 2025-06-30 |  |  |
+| 13 | **Plume** | Real-world asset blockchain network | [Telegram](https://t.me/plumenetwork) [X](https://x.com/plumenetwork) [Site](https://plume.org) | 2025-01-06 |  |  |
 
 </details>

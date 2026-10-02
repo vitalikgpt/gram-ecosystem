@@ -33,6 +33,16 @@ for i, r in enumerate(csv.DictReader(open("data/projects.csv", encoding="utf-8")
             errors.append(f"{where}: {k} must be YYYY-MM-DD")
     if r.get("launched") and not re.fullmatch(r"\d{4}(-\d{2}(-\d{2})?)?", r["launched"]):
         errors.append(f"{where}: launched must be YYYY, YYYY-MM or YYYY-MM-DD")
+    for k in ("peak_mau", "telegram_id", "bot_id"):
+        if r.get(k) and not re.fullmatch(r"\d+", r[k]):
+            errors.append(f"{where}: {k} must be a whole number")
+    for k in ("peak_mau_date", "verified_since"):
+        if r.get(k) and not DATE.fullmatch(r[k]):
+            errors.append(f"{where}: {k} must be YYYY-MM-DD")
+    if r.get("verified", "") not in ("0", "1", ""):
+        errors.append(f"{where}: verified must be 0, 1 or empty")
+    if r.get("verified_since") and r.get("verified") != "1":
+        errors.append(f"{where}: verified_since needs verified = 1")
     if r.get("website_down") and (not DATE.fullmatch(r["website_down"]) or not r["website"]):
         errors.append(f"{where}: website_down must be YYYY-MM-DD and needs a website")
     if r.get("launched") and not r.get("launched_source"):
@@ -74,6 +84,10 @@ for i, r in enumerate(csv.DictReader(open("data/channels.csv", encoding="utf-8")
 for i, r in enumerate(csv.DictReader(open("data/channels.csv", encoding="utf-8")), start=2):
     if not re.fullmatch(r"https://t\.me/[A-Za-z0-9_]{4,}", r["telegram"]):
         errors.append(f"data/channels.csv:{i}: telegram must look like https://t.me/username")
+    if r.get("telegram_id") and not re.fullmatch(r"\d+", r["telegram_id"]):
+        errors.append(f"data/channels.csv:{i}: telegram_id must be a whole number")
+    if r.get("verified_since") and (r.get("verified") != "1" or not DATE.fullmatch(r["verified_since"])):
+        errors.append(f"data/channels.csv:{i}: verified_since must be YYYY-MM-DD with verified = 1")
 import os
 if os.path.exists("data/relations.csv"):
     for i, x in enumerate(csv.DictReader(open("data/relations.csv", encoding="utf-8")), start=2):

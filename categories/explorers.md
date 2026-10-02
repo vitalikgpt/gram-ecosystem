@@ -6,27 +6,27 @@
 
 ## Active
 
-| # | Project | What it is | Links | Launched |
-| ---: | --- | --- | --- | --- |
-| 1 | **Tonscan.org** |  | [Telegram](https://t.me/catchain) [Site](https://tonscan.org) [Gram News](https://gramnews.org/apps/tonscan) | 2019-01-28 |
-| 2 | **Tonviewer** |  | [X](https://x.com/bestramp_io) [Site](https://tonviewer.com) [Gram News](https://gramnews.org/apps/tonviewer) | 2023-05-20 |
-| 3 | **Tonscan.com** |  | [Site](https://tonscan.com) [Gram News](https://gramnews.org/apps/tonscan-com) | 2023-05-02 |
-| 4 | **Actonscan** | An open-source TON explorer by TON Core — accounts, transactions, blocks, tokens and… | [Site](https://actonscan.com) [Gram News](https://gramnews.org/apps/actonscan) | 2026-06-06 |
-| 5 | **TON NFT Explorer** |  | [Telegram](https://t.me/this_is_ton) [Site](https://explorer.tonnft.tools) [Gram News](https://gramnews.org/apps/ton-nft-explorer) | 2022-01-07 |
-| 6 | **TonScan.info** |  | [Site](https://tonscan.info) | 2022-03-14 |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 1 | **Tonscan.org** |  | [Telegram](https://t.me/catchain) [Site](https://tonscan.org) [Gram News](https://gramnews.org/apps/tonscan) | 2019-01-28 |  |  |
+| 2 | **Tonviewer** |  | [X](https://x.com/bestramp_io) [Site](https://tonviewer.com) [Gram News](https://gramnews.org/apps/tonviewer) | 2023-05-20 |  |  |
+| 3 | **Tonscan.com** |  | [Site](https://tonscan.com) [Gram News](https://gramnews.org/apps/tonscan-com) | 2023-05-02 |  |  |
+| 4 | **Actonscan** | An open-source TON explorer by TON Core — accounts, transactions, blocks, tokens and… | [Site](https://actonscan.com) [Gram News](https://gramnews.org/apps/actonscan) | 2026-06-06 |  |  |
+| 5 | **TON NFT Explorer** |  | [Telegram](https://t.me/this_is_ton) [Site](https://explorer.tonnft.tools) [Gram News](https://gramnews.org/apps/ton-nft-explorer) | 2022-01-07 |  |  |
+| 6 | **TonScan.info** |  | [Site](https://tonscan.info) | 2022-03-14 |  |  |
 
 <details><summary><b>Quiet: 9</b></summary>
 
-| # | Project | What it is | Links | Launched |
-| ---: | --- | --- | --- | --- |
-| 7 | **3xpl** |  | [X](https://x.com/3xplcom) [Site](https://3xpl.com/ton) [GitHub](https://github.com/3xplcom) [Gram News](https://gramnews.org/apps/3xpl) | 2026-04-28 |
-| 8 | **Dton** |  | [Site](https://dton.io) [GitHub](https://github.com/StalinFoundation) [Gram News](https://gramnews.org/apps/dton) | 2023-08-09 |
-| 9 | **G-LABS Explorer** | NFT explorer bot by G-LABS | [Bot](https://t.me/glabs_explorer_bot) | 2022-05-05 |
-| 10 | **M3TA** | Just Web3 data made simple, enabled by AI | [Telegram](https://t.me/m3ta_analytics) [X](https://x.com/M3TA_Analytics) | 2021-11-09 |
-| 11 | **OKX Explorer** |  | [Telegram](https://t.me/OKXOfficial_English) [X](https://x.com/okxexplorer) [Site](https://www.okx.com/web3/explorer) [Gram News](https://gramnews.org/apps/okx-explorer) | 2024-07-15 |
-| 12 | **TON Atlas** |  | [Bot](https://t.me/tonatlasbot) [Site](https://8xr.io) [Gram News](https://gramnews.org/apps/tonatlasbot) | 2024-07-12 |
-| 13 | **TON Moon Explorer** | Explorer and NFT bot on TON | [Bot](https://t.me/tonmoonbot) | 2022-01-23 |
-| 14 | **Whales Explorer** |  | [Site](https://tonwhales.com/explorer) [GitHub](https://github.com/tonwhales) [Gram News](https://gramnews.org/apps/whales-explorer) | 2024-10-22 |
-| 15 | **Tenere Explorer** | Audiatur et altera pars. Universal token The Open Network. Max Supply 210,000,000 | [Telegram](https://t.me/teneretoken) [X](https://x.com/Tenerecash) | 2022-12-30 |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 7 | **3xpl** |  | [X](https://x.com/3xplcom) [Site](https://3xpl.com/ton) [GitHub](https://github.com/3xplcom) [Gram News](https://gramnews.org/apps/3xpl) | 2026-04-28 |  |  |
+| 8 | **Dton** |  | [Site](https://dton.io) [GitHub](https://github.com/StalinFoundation) [Gram News](https://gramnews.org/apps/dton) | 2023-08-09 |  |  |
+| 9 | **G-LABS Explorer** | NFT explorer bot by G-LABS | [Bot](https://t.me/glabs_explorer_bot) | 2022-05-05 |  |  |
+| 10 | **M3TA** | Just Web3 data made simple, enabled by AI | [Telegram](https://t.me/m3ta_analytics) [X](https://x.com/M3TA_Analytics) | 2021-11-09 |  |  |
+| 11 | **OKX Explorer** |  | [Telegram](https://t.me/OKXOfficial_English) [X](https://x.com/okxexplorer) [Site](https://www.okx.com/web3/explorer) [Gram News](https://gramnews.org/apps/okx-explorer) | 2024-07-15 |  | 2026-10 |
+| 12 | **TON Atlas** |  | [Bot](https://t.me/tonatlasbot) [Site](https://8xr.io) [Gram News](https://gramnews.org/apps/tonatlasbot) | 2024-07-12 |  |  |
+| 13 | **TON Moon Explorer** | Explorer and NFT bot on TON | [Bot](https://t.me/tonmoonbot) | 2022-01-23 |  |  |
+| 14 | **Whales Explorer** |  | [Site](https://tonwhales.com/explorer) [GitHub](https://github.com/tonwhales) [Gram News](https://gramnews.org/apps/whales-explorer) | 2024-10-22 |  |  |
+| 15 | **Tenere Explorer** | Audiatur et altera pars. Universal token The Open Network. Max Supply 210,000,000 | [Telegram](https://t.me/teneretoken) [X](https://x.com/Tenerecash) | 2022-12-30 |  |  |
 
 </details>

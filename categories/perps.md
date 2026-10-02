@@ -6,23 +6,23 @@
 
 ## Active
 
-| # | Project | What it is | Links | Launched |
-| ---: | --- | --- | --- | --- |
-| 1 | **Storm Trade** | Storm Trade — leveraged DEX in Telegram for trading on TON | [Telegram](https://t.me/storm_trade_news) [Bot](https://t.me/StormTradeBot) [X](https://x.com/storm_trade_ton) [Site](https://storm.tg/) [Gram News](https://gramnews.org/apps/storm-trade) | 2023-07-05 |
-| 2 | **Tradoor** | Tradoor is a decentralized exchange for trading options and perpetual futures on TON | [Telegram](https://t.me/tradoor_io) [Bot](https://t.me/tradoor_io_bot) [X](https://x.com/tradoor_io) [Site](https://tradoor.io) [GitHub](https://github.com/TonTradoor) [Gram News](https://gramnews.org/apps/tradoor) | 2024-01-03 |
-| 3 | **WenLong** | Trade Hyperliquid perps right inside Telegram. Deposit from your TON wallet — no KYC, no… | [Telegram](https://t.me/wenlongnews) [Bot](https://t.me/whenlongbot) | 2024-09-20 |
-| 4 | **Hyperliquid** |  | [Site](https://hyperliquid.xyz) | 2022-10-15 |
-| 5 | **Vooi App** | Join VOOI - Trade, Arbitrage, Earn Rewards / Unlock trading | [Telegram](https://t.me/vooi_app) [Bot](https://t.me/vooiappbot) [Gram News](https://gramnews.org/apps/vooi-app) | 2024-04-16 |
-| 6 | **Aster** |  | [Telegram](https://t.me/asterdex) [Site](https://www.asterdex.com) | 2025-03-14 |
-| 7 | **Lighter** |  | [Site](https://lighter.xyz) | 2025-10 |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 1 | **Storm Trade** | Storm Trade — leveraged DEX in Telegram for trading on TON | [Telegram](https://t.me/storm_trade_news) [Bot](https://t.me/StormTradeBot) [X](https://x.com/storm_trade_ton) [Site](https://storm.tg/) [Gram News](https://gramnews.org/apps/storm-trade) | 2023-07-05 |  | 2026-06 |
+| 2 | **Tradoor** | Tradoor is a decentralized exchange for trading options and perpetual futures on TON | [Telegram](https://t.me/tradoor_io) [Bot](https://t.me/tradoor_io_bot) [X](https://x.com/tradoor_io) [Site](https://tradoor.io) [GitHub](https://github.com/TonTradoor) [Gram News](https://gramnews.org/apps/tradoor) | 2024-01-03 | 524K |  |
+| 3 | **WenLong** | Trade Hyperliquid perps right inside Telegram. Deposit from your TON wallet — no KYC, no… | [Telegram](https://t.me/wenlongnews) [Bot](https://t.me/whenlongbot) | 2024-09-20 |  |  |
+| 4 | **Hyperliquid** |  | [Site](https://hyperliquid.xyz) | 2022-10-15 |  |  |
+| 5 | **Vooi App** | Join VOOI - Trade, Arbitrage, Earn Rewards / Unlock trading | [Telegram](https://t.me/vooi_app) [Bot](https://t.me/vooiappbot) [Gram News](https://gramnews.org/apps/vooi-app) | 2024-04-16 | 1.3M | 2026-10 |
+| 6 | **Aster** |  | [Telegram](https://t.me/asterdex) [Site](https://www.asterdex.com) | 2025-03-14 |  |  |
+| 7 | **Lighter** |  | [Site](https://lighter.xyz) | 2025-10 |  |  |
 
 <details><summary><b>Quiet: 4</b></summary>
 
-| # | Project | What it is | Links | Launched |
-| ---: | --- | --- | --- | --- |
-| 8 | **Hopium** | Social perp trading on Telegram | [Bot](https://t.me/hopium_official_bot) | 2024-08-20 |
-| 9 | **HyperFun** | Leveraged Bitcoin trading in Telegram | [Bot](https://t.me/hyperfn_bot) | 2026-04-23 |
-| 10 | **KiloEx** | Peer-to-pool perpetual DEX with an official community chat | [Telegram](https://t.me/kiloex) | 2024-07-24 |
-| 11 | **Scalr** | Perpetual DEX powered by TON | [Telegram](https://t.me/scalr_dex) [X](https://x.com/scalr_dex) | 2024-06-14 |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 8 | **Hopium** | Social perp trading on Telegram | [Bot](https://t.me/hopium_official_bot) | 2024-08-20 | 278K |  |
+| 9 | **HyperFun** | Leveraged Bitcoin trading in Telegram | [Bot](https://t.me/hyperfn_bot) | 2026-04-23 |  |  |
+| 10 | **KiloEx** | Peer-to-pool perpetual DEX with an official community chat | [Telegram](https://t.me/kiloex) | 2024-07-24 |  |  |
+| 11 | **Scalr** | Perpetual DEX powered by TON | [Telegram](https://t.me/scalr_dex) [X](https://x.com/scalr_dex) | 2024-06-14 |  |  |
 
 </details>

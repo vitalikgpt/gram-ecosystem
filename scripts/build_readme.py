@@ -27,6 +27,8 @@ SOURCES = {
     "gramnews-corpus": "the Gram News post corpus: 531.7 million Telegram posts since 2015, names mentioned "
     "by at least three TON channels, then checked by hand",
     "gramnews-orgs": "studio, fund and accelerator portfolios, each link with its source",
+    "telegram-similar": "Telegram's own similar channels and similar bots next to TON projects (June 2026), "
+    "recommended next to at least three of them, then checked by hand",
     "gramnews-q3-2026": "the [Gram News quarterly map](reports/2026-q3)",
     "ton-society-ecosystem-map": "[ton-society/ecosystem-map](https://github.com/ton-society/ecosystem-map)",
     "awesome-ton": "[ton-community/awesome-ton](https://github.com/ton-community/awesome-ton)",
@@ -75,10 +77,11 @@ def links(r):
 
 
 def table(items, prefix=""):
-    out = ["| # | Project | What it is | Links | Launched |",
-           "| ---: | --- | --- | --- | --- |"]
+    out = ["| # | Project | What it is | Links | Launched | Peak MAU | Verified since |",
+           "| ---: | --- | --- | --- | --- | ---: | --- |"]
     for r in items:
-        out.append(f"| {r['rank']} | **{cell(r['name'])}** | {short(r['description'])} | {links(r)} | {r.get('launched', '')} |")
+        peak = fmt(r["peak_mau"]) if r.get("peak_mau") else ""
+        out.append(f"| {r['rank']} | **{cell(r['name'])}** | {short(r['description'])} | {links(r)} | {r.get('launched', '')} | {peak} | {r.get('verified_since', '')[:7]} |")
     return out
 
 
@@ -229,11 +232,16 @@ def build():
         f"| [data/link-fixes.csv](data/link-fixes.csv) | {len(fixes):,} link decisions (replaced, removed, confirmed) with evidence |",
         f"| [data/unresolved.csv](data/unresolved.csv) | {len(unresolved)} names from old maps not tied to a project yet |",
         "| [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |",
+        f"| [data/similar.csv](data/similar.csv) | {sum(1 for _ in open('data/similar.csv')) - 1:,} pairs: whom Telegram shows in similar channels or similar bots next to an entity here, with the position (June 2026); audiences overlap, it is not traffic |",
         f"| [{PROBLEMS}]({PROBLEMS}) | {problems:,} links that failed the last check |",
         "",
         "<details><summary><b>Columns of projects.csv</b></summary>",
         "",
         "`category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `website_down` (the date a check found the site gone), "
+        "`telegram_id` and `bot_id` (Telegram's numeric ids, which survive a rename), `verified` and `verified_since` "
+        "(the badge on t.me, and the earliest date it was seen: in a Web Archive copy of the page, a June 2026 snapshot or the latest check), "
+        "`peak_mau` and `peak_mau_date` (the highest monthly users on the FindMini chart, which starts in July 2024; "
+        "a peak on the chart's first day may have been higher before it), "
         "`github`, `gramnews` (the project's card on gramnews.org), `last_post`, `last_commit`, `launched`, `launched_source`, `subscribers`, "
         "`reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.",
         "",

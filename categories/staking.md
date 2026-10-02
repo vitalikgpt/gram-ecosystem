@@ -2,72 +2,73 @@
 
 # Staking
 
-**49 projects: 15 active, 31 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
+**50 projects: 15 active, 32 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it).
 
 ## Active
 
-| # | Project | What it is | Links | Launched |
-| ---: | --- | --- | --- | --- |
-| 1 | **Hipo** | Hipo Staking — GRAM staking on TON with hGRAM rewards | [Telegram](https://t.me/hipofinance) [Bot](https://t.me/HipoFinanceBot) [X](https://x.com/hipofinance) [Site](https://app.hipo.finance/) [GitHub](https://github.com/HipoFinance) [Gram News](https://gramnews.org/apps/hipo-staking) | 2023-02-23 |
-| 2 | **Tonstakers** | Tonstakers – liquid staking app for GRAM | [Telegram](https://t.me/thetonstakers) [Bot](https://t.me/tonstakers_support_bot) [X](https://x.com/tonstakers) [Site](https://app.tonstakers.com/) [Gram News](https://gramnews.org/apps/tonstakers-staking) | 2023-05-04 |
-| 3 | **Stakee** | TON staking with up to 25% APY and instant withdrawals | [Telegram](https://t.me/stakeeru) [Bot](https://t.me/StakeeRu) [Site](https://stakee.org) [GitHub](https://github.com/ton-blockchain) [Gram News](https://gramnews.org/apps/stakee) | 2022-11-11 |
-| 4 | **KTON** | KTON LST — staking TON with a liquid KTON token | [Telegram](https://t.me/kton_channel) [Bot](https://t.me/ktonio_bot) [X](https://x.com/kton_io) [Site](https://kton.io/) [GitHub](https://github.com/KTON-IO/liquid-staking-contract) [Gram News](https://gramnews.org/apps/kton-lst) | 2025-01-21 |
-| 5 | **TON Validators** |  | [Bot](https://t.me/tonvalidators_app_bot) [Gram News](https://gramnews.org/apps/ton-validators) | 2024-09-25 |
-| 6 | **UTONIC** |  | [Site](https://utonic.org) | 2024-11-11 |
-| 7 | **bemo** |  | [Site](https://bemo.finance) | 2023-03-20 |
-| 8 | **Butterflys** | Welcome To Butterfly's $BTYS | [Bot](https://t.me/realbutterflys_bot) [X](https://x.com/Butterflyonton) [Site](https://app.hipo.finance/#/referrer=UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW/) [GitHub](https://github.com/HipoFinance) [Gram News](https://gramnews.org/apps/butterflys) | 2023-02-23 |
-| 9 | **Social DeFi on TON** | Social yield aggregator for TON DeFi | [Telegram](https://t.me/socdefi) | 2025-02-10 |
-| 10 | **bemo V1** | The liquid staking protocol on the TON blockchain | [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) | 2023-07-11 |
-| 11 | **bemo V2** | The liquid staking protocol on the TON blockchain | [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) | 2025-04-21 |
-| 12 | **Ethena tsUSDe** | tsUSDe is a special version of sUSDe deployed on TON | [X](https://x.com/ethena) [Site](https://www.app.ethena.fi) | 2025-07-22 |
-| 13 | **SettleTON** | SettleTON is the First TON Liquidity Pool Index Fund that maximises yields by helping… | [Telegram](https://t.me/settleton) [Bot](https://t.me/settleton_bot) [X](https://x.com/TonSettle) [Site](https://x.com/TonSettle) | 2024-08-31 |
-| 14 | **TonPools** | TonPools is a dapp built on the TON Blockchain that offers prize-linked savings… | [Telegram](https://t.me/tonpools_com) [X](https://x.com/TonPools_Com) | 2024-09-09 |
-| 15 | **Tonstakers LSD** | The Open Network Liquid Staking protocol empowering TON DeFi ecosystem | [X](https://x.com/tonstakers) [Site](https://tonstakers.com) | 2023-09-21 |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 1 | **Hipo** | Hipo Staking — GRAM staking on TON with hGRAM rewards | [Telegram](https://t.me/hipofinance) [Bot](https://t.me/HipoFinanceBot) [X](https://x.com/hipofinance) [Site](https://app.hipo.finance/) [GitHub](https://github.com/HipoFinance) [Gram News](https://gramnews.org/apps/hipo-staking) | 2023-02-23 | 263K | 2026-06 |
+| 2 | **Tonstakers** | Tonstakers – liquid staking app for GRAM | [Telegram](https://t.me/thetonstakers) [Bot](https://t.me/tonstakers_support_bot) [X](https://x.com/tonstakers) [Site](https://app.tonstakers.com/) [Gram News](https://gramnews.org/apps/tonstakers-staking) | 2023-05-04 |  | 2026-06 |
+| 3 | **Stakee** | TON staking with up to 25% APY and instant withdrawals | [Telegram](https://t.me/stakeeru) [Bot](https://t.me/StakeeRu) [Site](https://stakee.org) [GitHub](https://github.com/ton-blockchain) [Gram News](https://gramnews.org/apps/stakee) | 2022-11-11 |  |  |
+| 4 | **KTON** | KTON LST — staking TON with a liquid KTON token | [Telegram](https://t.me/kton_channel) [Bot](https://t.me/ktonio_bot) [X](https://x.com/kton_io) [Site](https://kton.io/) [GitHub](https://github.com/KTON-IO/liquid-staking-contract) [Gram News](https://gramnews.org/apps/kton-lst) | 2025-01-21 |  |  |
+| 5 | **TON Validators** |  | [Bot](https://t.me/tonvalidators_app_bot) [Gram News](https://gramnews.org/apps/ton-validators) | 2024-09-25 |  |  |
+| 6 | **UTONIC** |  | [Site](https://utonic.org) | 2024-11-11 |  |  |
+| 7 | **bemo** |  | [Site](https://bemo.finance) | 2023-03-20 |  |  |
+| 8 | **Butterflys** | Welcome To Butterfly's $BTYS | [Bot](https://t.me/realbutterflys_bot) [X](https://x.com/Butterflyonton) [Site](https://app.hipo.finance/#/referrer=UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW/) [GitHub](https://github.com/HipoFinance) [Gram News](https://gramnews.org/apps/butterflys) | 2023-02-23 | 28K |  |
+| 9 | **Social DeFi on TON** | Social yield aggregator for TON DeFi | [Telegram](https://t.me/socdefi) | 2025-02-10 |  |  |
+| 10 | **bemo V1** | The liquid staking protocol on the TON blockchain | [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) | 2023-07-11 |  |  |
+| 11 | **bemo V2** | The liquid staking protocol on the TON blockchain | [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) | 2025-04-21 |  |  |
+| 12 | **Ethena tsUSDe** | tsUSDe is a special version of sUSDe deployed on TON | [X](https://x.com/ethena) [Site](https://www.app.ethena.fi) | 2025-07-22 |  |  |
+| 13 | **SettleTON** | SettleTON is the First TON Liquidity Pool Index Fund that maximises yields by helping… | [Telegram](https://t.me/settleton) [Bot](https://t.me/settleton_bot) [X](https://x.com/TonSettle) [Site](https://x.com/TonSettle) | 2024-08-31 | 161K |  |
+| 14 | **TonPools** | TonPools is a dapp built on the TON Blockchain that offers prize-linked savings… | [Telegram](https://t.me/tonpools_com) [X](https://x.com/TonPools_Com) | 2024-09-09 |  |  |
+| 15 | **Tonstakers LSD** | The Open Network Liquid Staking protocol empowering TON DeFi ecosystem | [X](https://x.com/tonstakers) [Site](https://tonstakers.com) | 2023-09-21 |  |  |
 
-<details><summary><b>Quiet: 31</b></summary>
+<details><summary><b>Quiet: 32</b></summary>
 
-| # | Project | What it is | Links | Launched |
-| ---: | --- | --- | --- | --- |
-| 16 | **PAKETKA** |  | [Bot](https://t.me/paketka2_bot) [Site](https://swap.coffee/dex?referral=user_UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW) [Gram News](https://gramnews.org/apps/paketka) | 2023-05-01 |
-| 17 | **Shieldeum Node Rewards** |  | [Bot](https://t.me/shieldeumbot) [X](https://x.com/Shieldeum) [Site](https://shieldeum.net) [Gram News](https://gramnews.org/apps/shieldeum-node-rewards) | 2024-08-24 |
-| 18 | **tbook** | The first embedded RWA liquidity layer that brings institutional-grade tokenized yield… | [Bot](https://t.me/tbook_incentive_bot) [Gram News](https://gramnews.org/apps/tbook) | 2023-08-31 |
-| 19 | **Bemo liquid staking** | Bemo — a liquid staking platform on the TON blockchain | [Telegram](https://t.me/bemofinance) [Bot](https://t.me/bemo_finance_bot) [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) [Gram News](https://gramnews.org/apps/bemo-liquid-staking) | 2023-06-01 |
-| 20 | **TonFarm** |  | [Telegram](https://t.me/TonGame_app) [Bot](https://t.me/tongame_farms_bot) [X](https://x.com/tongameapp) [Site](https://farm.tongame.app/) [Gram News](https://gramnews.org/apps/tonfarm) | 2024-05-06 |
-| 21 | **SynQuest** | SynQuest is a Telegram mini app offering a stake-play-earn! | [Bot](https://t.me/synquestbot) [Gram News](https://gramnews.org/apps/synquest) | 2024-10-04 |
-| 22 | **BounceTon Restaking** | No lock, no staking. Move to Faucet Wallet — earn 4.08% yearly paid daily, enjoy free… | [Bot](https://t.me/bounceton_bot) [X](https://x.com/BouncTon) [Gram News](https://gramnews.org/apps/bounceton-restaking) | 2024-05-17 |
-| 23 | **Buzz** | Welcome to Buzz! We're the busy bees of Web3, here to sweeten your day with fortunes.… | [Telegram](https://t.me/buzz_official_news) [Bot](https://t.me/buzz_mine_bot) [X](https://x.com/BuzzWeb3_) [Gram News](https://gramnews.org/apps/buzz) | 2024-07-12 |
-| 24 | **G9 Token** |  | [Bot](https://t.me/g9tokenbot) [Gram News](https://gramnews.org/apps/g9-token) | 2024-12-13 |
-| 25 | **YouHold** | YouHold is SuperFI app — wallet for earnings, investments and more | [Telegram](https://t.me/youhold) [Bot](https://t.me/youhold_bot) [X](https://x.com/youhold_ton) [Gram News](https://gramnews.org/apps/youhold) | 2024-07-13 |
-| 26 | **NotStakers** |  | [Bot](https://t.me/notstacker_bot) [Gram News](https://gramnews.org/apps/notstakers) | 2023-11-13 |
-| 27 | **Bimcoin** |  | [Telegram](https://t.me/Bimlight_Group) [Bot](https://t.me/BimlightBot) [X](https://x.com/Bim_Light) [Site](https://bimlight.org) [Gram News](https://gramnews.org/apps/bimcoin-ton-defi-protocol) | 2026-01-02 |
-| 28 | **Fanzee** |  | [Site](https://app.fanz.ee/staking) [GitHub](https://github.com/viz-cx/viz-gateway) [Gram News](https://gramnews.org/apps/fanzee) | 2020-07-09 |
-| 29 | **Farmix** | Leverage yield farming based on TON blockchain | [Telegram](https://t.me/farmix_news) [X](https://x.com/TonFarmix) | 2024-11-18 |
-| 30 | **JAMTON** | Layer 2 for TON with TON/DOT liquid staking | [Bot](https://t.me/jamtonappbot) | 2024-12-20 |
-| 31 | **JSI Staking** | Staking bot for reward coins | [Bot](https://t.me/jsistakingbot) | 2025-12-01 |
-| 33 | **Palette Finance** | Earn it without thinking | [Bot](https://t.me/palettefinancebot) | 2025-03-21 |
-| 34 | **Stake Stars** | Staking service for Telegram Stars | [Bot](https://t.me/stakestars_bot) | 2026-04-26 |
-| 35 | **Staking by CAT** | Alternative TON staking from validator ton.cat | [Bot](https://t.me/stakingcatbot) | 2022-02-08 |
-| 36 | **TON Staked** | Toncoin staking bot by TonCorp | [Bot](https://t.me/stakingtoncoinbot) | 2024-05-15 |
-| 37 | **TON Whales** |  | [Telegram](https://t.me/whalessupportbot) [X](https://x.com/whalescorp) [GitHub](https://github.com/tonwhales) | 2025-05-26 |
-| 38 | **TONbit** | Staked TON app with up to 5% APY | [Bot](https://t.me/tonbitstakedbot) | 2025-01-24 |
-| 39 | **TonStake.com** |  | [Telegram](https://t.me/tonstake_com_en) [X](https://x.com/tonstakecom) [Site](https://tonstake.com/) [GitHub](https://github.com/awesome-doge) [Gram News](https://gramnews.org/apps/tonstake-com) | 2022-01-21 |
-| 40 | **Tonyielding** |  | [X](https://x.com/Tonyielding) Site (down) [GitHub](https://github.com/marakitio) [Gram News](https://gramnews.org/apps/tonyielding) | 2024-11-28 |
-| 41 | **UTN Staking** |  | [Telegram](https://t.me/uniton_token) [Site](https://app.unitontoken.com) [Gram News](https://gramnews.org/apps/utn-staking) | 2024-03-17 |
-| 42 | **Whales Staking** | Ton Whales Staking pool chat for communicating in any language | [Telegram](https://t.me/stakeonwhales) [X](https://x.com/whalescorp) [Site](https://tonwhales.com/staking) [GitHub](https://github.com/tonwhales) [Gram News](https://gramnews.org/apps/whales-staking) | 2022-03-24 |
-| 43 | **YieldFort Protocol** |  | [Bot](https://t.me/ton_yieldfortbot) [X](https://x.com/yieldfort) [Gram News](https://gramnews.org/apps/yieldfort-protocol) | 2025-03-22 |
-| 44 | **Kiln** | Staking infrastructure provider news and updates | [Telegram](https://t.me/kiln_finance) | 2024-12-13 |
-| 45 | **TON HUNT** | Game with passive yield | [Telegram](https://t.me/tonhunt_channel) [Bot](https://t.me/tonhunt_robot) | 2026-03-04 |
-| 46 | **XBANKING** |  | [Telegram](https://t.me/xbanking) [X](https://x.com/xbankingapp) [Site](https://xbanking.org) [GitHub](https://github.com/SecondLive) [Gram News](https://gramnews.org/apps/xbanking) | 2025-07-17 |
-| 47 | **Tonverse** |  | [Telegram](https://t.me/GoTonverse) [Bot](https://t.me/gohotbanana_bot) [X](https://x.com/verse_ton) [Gram News](https://gramnews.org/apps/tonverse) | 2024-07-29 |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 16 | **PAKETKA** |  | [Bot](https://t.me/paketka2_bot) [Site](https://swap.coffee/dex?referral=user_UQDo7L_NkX2FBF5WDKBvIA-lFXUvRMpou6Yc1076Q1j8FkcW) [Gram News](https://gramnews.org/apps/paketka) | 2023-05-01 | 133K |  |
+| 17 | **Shieldeum Node Rewards** |  | [Bot](https://t.me/shieldeumbot) [X](https://x.com/Shieldeum) [Site](https://shieldeum.net) [Gram News](https://gramnews.org/apps/shieldeum-node-rewards) | 2024-08-24 | 1.9M |  |
+| 18 | **tbook** | The first embedded RWA liquidity layer that brings institutional-grade tokenized yield… | [Bot](https://t.me/tbook_incentive_bot) [Gram News](https://gramnews.org/apps/tbook) | 2023-08-31 | 423K |  |
+| 19 | **Bemo liquid staking** | Bemo — a liquid staking platform on the TON blockchain | [Telegram](https://t.me/bemofinance) [Bot](https://t.me/bemo_finance_bot) [X](https://x.com/bemo_fi) [Site](https://bemo.fi/) [Gram News](https://gramnews.org/apps/bemo-liquid-staking) | 2023-06-01 | 45K |  |
+| 20 | **TonFarm** |  | [Telegram](https://t.me/TonGame_app) [Bot](https://t.me/tongame_farms_bot) [X](https://x.com/tongameapp) [Site](https://farm.tongame.app/) [Gram News](https://gramnews.org/apps/tonfarm) | 2024-05-06 | 67K |  |
+| 21 | **SynQuest** | SynQuest is a Telegram mini app offering a stake-play-earn! | [Bot](https://t.me/synquestbot) [Gram News](https://gramnews.org/apps/synquest) | 2024-10-04 | 691K |  |
+| 22 | **BounceTon Restaking** | No lock, no staking. Move to Faucet Wallet — earn 4.08% yearly paid daily, enjoy free… | [Bot](https://t.me/bounceton_bot) [X](https://x.com/BouncTon) [Gram News](https://gramnews.org/apps/bounceton-restaking) | 2024-05-17 | 333K |  |
+| 23 | **Buzz** | Welcome to Buzz! We're the busy bees of Web3, here to sweeten your day with fortunes.… | [Telegram](https://t.me/buzz_official_news) [Bot](https://t.me/buzz_mine_bot) [X](https://x.com/BuzzWeb3_) [Gram News](https://gramnews.org/apps/buzz) | 2024-07-12 | 823K |  |
+| 24 | **G9 Token** |  | [Bot](https://t.me/g9tokenbot) [Gram News](https://gramnews.org/apps/g9-token) | 2024-12-13 | 165K |  |
+| 25 | **YouHold** | YouHold is SuperFI app — wallet for earnings, investments and more | [Telegram](https://t.me/youhold) [Bot](https://t.me/youhold_bot) [X](https://x.com/youhold_ton) [Gram News](https://gramnews.org/apps/youhold) | 2024-07-13 |  |  |
+| 26 | **NotStakers** |  | [Bot](https://t.me/notstacker_bot) [Gram News](https://gramnews.org/apps/notstakers) | 2023-11-13 | 25 |  |
+| 27 | **Bimcoin** |  | [Telegram](https://t.me/Bimlight_Group) [Bot](https://t.me/BimlightBot) [X](https://x.com/Bim_Light) [Site](https://bimlight.org) [Gram News](https://gramnews.org/apps/bimcoin-ton-defi-protocol) | 2026-01-02 |  |  |
+| 28 | **Fanzee** |  | [Site](https://app.fanz.ee/staking) [GitHub](https://github.com/viz-cx/viz-gateway) [Gram News](https://gramnews.org/apps/fanzee) | 2020-07-09 |  |  |
+| 29 | **Farmix** | Leverage yield farming based on TON blockchain | [Telegram](https://t.me/farmix_news) [X](https://x.com/TonFarmix) | 2024-11-18 |  |  |
+| 30 | **JAMTON** | Layer 2 for TON with TON/DOT liquid staking | [Bot](https://t.me/jamtonappbot) | 2024-12-20 |  |  |
+| 31 | **JSI Staking** | Staking bot for reward coins | [Bot](https://t.me/jsistakingbot) | 2025-12-01 |  |  |
+| 33 | **Palette Finance** | Earn it without thinking | [Bot](https://t.me/palettefinancebot) | 2025-03-21 |  |  |
+| 34 | **Stake Stars** | Staking service for Telegram Stars | [Bot](https://t.me/stakestars_bot) | 2026-04-26 |  |  |
+| 35 | **Staking by CAT** | Alternative TON staking from validator ton.cat | [Bot](https://t.me/stakingcatbot) | 2022-02-08 |  |  |
+| 36 | **TON Staked** | Toncoin staking bot by TonCorp | [Bot](https://t.me/stakingtoncoinbot) | 2024-05-15 |  |  |
+| 37 | **TON Whales** |  | [Telegram](https://t.me/whalessupportbot) [X](https://x.com/whalescorp) [GitHub](https://github.com/tonwhales) | 2025-05-26 |  |  |
+| 38 | **TONbit** | Staked TON app with up to 5% APY | [Bot](https://t.me/tonbitstakedbot) | 2025-01-24 |  |  |
+| 39 | **TonStake.com** |  | [Telegram](https://t.me/tonstake_com_en) [X](https://x.com/tonstakecom) [Site](https://tonstake.com/) [GitHub](https://github.com/awesome-doge) [Gram News](https://gramnews.org/apps/tonstake-com) | 2022-01-21 |  |  |
+| 40 | **Tonyielding** |  | [X](https://x.com/Tonyielding) Site (down) [GitHub](https://github.com/marakitio) [Gram News](https://gramnews.org/apps/tonyielding) | 2024-11-28 |  |  |
+| 41 | **Upton Finance** | Upton Finance is Telegram’s first AI-driven MemeCoin Yield Layer | [Bot](https://t.me/uptonfi_bot) | 2024-08-29 |  |  |
+| 42 | **UTN Staking** |  | [Telegram](https://t.me/uniton_token) [Site](https://app.unitontoken.com) [Gram News](https://gramnews.org/apps/utn-staking) | 2024-03-17 |  |  |
+| 43 | **Whales Staking** | Ton Whales Staking pool chat for communicating in any language | [Telegram](https://t.me/stakeonwhales) [X](https://x.com/whalescorp) [Site](https://tonwhales.com/staking) [GitHub](https://github.com/tonwhales) [Gram News](https://gramnews.org/apps/whales-staking) | 2022-03-24 |  |  |
+| 44 | **YieldFort Protocol** |  | [Bot](https://t.me/ton_yieldfortbot) [X](https://x.com/yieldfort) [Gram News](https://gramnews.org/apps/yieldfort-protocol) | 2025-03-22 |  |  |
+| 45 | **Kiln** | Staking infrastructure provider news and updates | [Telegram](https://t.me/kiln_finance) | 2024-12-13 |  |  |
+| 46 | **TON HUNT** | Game with passive yield | [Telegram](https://t.me/tonhunt_channel) [Bot](https://t.me/tonhunt_robot) | 2026-03-04 |  |  |
+| 47 | **XBANKING** |  | [Telegram](https://t.me/xbanking) [X](https://x.com/xbankingapp) [Site](https://xbanking.org) [GitHub](https://github.com/SecondLive) [Gram News](https://gramnews.org/apps/xbanking) | 2025-07-17 |  |  |
+| 48 | **Tonverse** |  | [Telegram](https://t.me/GoTonverse) [Bot](https://t.me/gohotbanana_bot) [X](https://x.com/verse_ton) [Gram News](https://gramnews.org/apps/tonverse) | 2024-07-29 |  |  |
 
 </details>
 
 <details><summary><b>Closed: 3</b></summary>
 
-| # | Project | What it is | Links | Launched |
-| ---: | --- | --- | --- | --- |
-| 32 | **MINTODINOS Staking** |  | [Gram News](https://gramnews.org/apps/mintodinos-staking) | 2023-07-30 |
-| 48 | **Parraton** | Yield Optimizer on TON | [Telegram](https://t.me/parraton_en) [Bot](https://t.me/parraton_bot) [X](https://x.com/parraton_com) | 2024-07-22 |
-| 49 | **Beetroot Finance** | Automated Yield Farming Aggregator on TON blockchain | [Telegram](https://t.me/BeetrootFinance) [Bot](https://t.me/BeetrootFiBot) [X](https://x.com/beetroot_fi) [Site](https://beetroot.finance) [GitHub](https://github.com/Beetroot-fi) | 2024-10-13 |
+| # | Project | What it is | Links | Launched | Peak MAU | Verified since |
+| ---: | --- | --- | --- | --- | ---: | --- |
+| 32 | **MINTODINOS Staking** |  | [Gram News](https://gramnews.org/apps/mintodinos-staking) | 2023-07-30 |  |  |
+| 49 | **Parraton** | Yield Optimizer on TON | [Telegram](https://t.me/parraton_en) [Bot](https://t.me/parraton_bot) [X](https://x.com/parraton_com) | 2024-07-22 | 190K |  |
+| 50 | **Beetroot Finance** | Automated Yield Farming Aggregator on TON blockchain | [Telegram](https://t.me/BeetrootFinance) [Bot](https://t.me/BeetrootFiBot) [X](https://x.com/beetroot_fi) [Site](https://beetroot.finance) [GitHub](https://github.com/Beetroot-fi) | 2024-10-13 | 30K |  |
 
 </details>

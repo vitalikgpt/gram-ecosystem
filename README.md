@@ -2,9 +2,9 @@
 
 <img src="assets/cover.jpg" alt="Gram Ecosystem: TON and Telegram projects" width="100%">
 
-<img src="https://img.shields.io/badge/projects-4%2C245-5aa9ff?style=flat-square" alt="projects: 4,245"> <img src="https://img.shields.io/badge/active-1%2C037-4cd08a?style=flat-square" alt="active: 1,037"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/links%20fixed-2%2C125-f2b84b?style=flat-square" alt="links fixed: 2,125"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
+<img src="https://img.shields.io/badge/projects-4%2C486-5aa9ff?style=flat-square" alt="projects: 4,486"> <img src="https://img.shields.io/badge/active-1%2C037-4cd08a?style=flat-square" alt="active: 1,037"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/links%20fixed-2%2C126-f2b84b?style=flat-square" alt="links fixed: 2,126"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
 
-**Every TON and Telegram project we could verify: 4,245 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 9,155 links are checked every week; 2,125 wrong ones have been fixed so far, each with its evidence.
+**Every TON and Telegram project we could verify: 4,486 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 9,396 links are checked every week; 2,126 wrong ones have been fixed so far, each with its evidence.
 
 Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, build on it.
 
@@ -16,38 +16,38 @@ Each category has its own page with every project, active ones first.
 
 | Category | Active | All | Notable projects |
 | --- | ---: | ---: | --- |
-| [CEX](categories/exchanges.md) | 50 | 85 | Binance, Bybit, OKX, Bitget |
+| [CEX](categories/exchanges.md) | 50 | 86 | Binance, Bybit, OKX, Bitget |
 | [Custodial](categories/custodial.md) | 5 | 5 | @Walt, @Send, @XRocket, Spell Wallet |
-| [Wallets](categories/wallets.md) | 29 | 104 | Gram Wallet, Keeper, My Wallet, Tonhub |
-| [DEX](categories/dex.md) | 17 | 81 | STON.fi, STON.fi Bot, DeDust, swap.coffee |
-| [Payments](categories/payments.md) | 28 | 84 | Wallet Pay, @Tribute, Cryptomus, NOWPayments |
+| [Wallets](categories/wallets.md) | 29 | 114 | Gram Wallet, Keeper, My Wallet, Tonhub |
+| [DEX](categories/dex.md) | 17 | 86 | STON.fi, STON.fi Bot, DeDust, swap.coffee |
+| [Payments](categories/payments.md) | 28 | 88 | Wallet Pay, @Tribute, Cryptomus, NOWPayments |
 | [On-ramp](categories/onramp.md) | 9 | 28 | MoonPay, Changelly, ChangeNOW, Alchemy Pay |
-| [Infra](categories/infra.md) | 26 | 45 | Telegram, Fragment, TON Core, Acton |
+| [Infra](categories/infra.md) | 26 | 53 | Telegram, Fragment, TON Core, Acton |
 | [Developer tools](categories/devtools.md) | 19 | 110 | Telegram Bot API News, Durev Bot, Telegram Crawler, Tonutils |
-| [Analytics](categories/analytics.md) | 35 | 147 | Lagus research, Dune, CoinGecko, CoinMarketCap |
+| [Analytics](categories/analytics.md) | 35 | 149 | Lagus research, Dune, CoinGecko, CoinMarketCap |
 | [Explorers](categories/explorers.md) | 6 | 15 | Tonscan.org, Tonviewer, Tonscan.com, Actonscan |
 | [Security](categories/audit.md) | 11 | 37 | Hacken, CertiK, SlowMist, Trail of Bits |
-| [Bridges](categories/bridges.md) | 11 | 23 | Symbiosis, LayerZero, Stargate, Rubic |
-| [Staking](categories/staking.md) | 15 | 49 | Hipo, Tonstakers, Stakee, KTON |
+| [Bridges](categories/bridges.md) | 11 | 24 | Symbiosis, LayerZero, Stargate, Rubic |
+| [Staking](categories/staking.md) | 15 | 50 | Hipo, Tonstakers, Stakee, KTON |
 | [Lending](categories/lending.md) | 10 | 21 | EVAA Protocol, TONLender, DAOLama, GTC (Gift To Credit) |
 | [Perp DEX](categories/perps.md) | 7 | 11 | Storm Trade, Tradoor, WenLong, Hyperliquid |
-| [RWA](categories/rwa.md) | 4 | 12 | XAUt, Stable Metal, USDT, Ethena USDe |
+| [RWA](categories/rwa.md) | 4 | 13 | XAUt, Stable Metal, USDT, Ethena USDe |
 | [NASDAQ](categories/nasdaq.md) | 2 | 2 | TON Strategy, Alpha Compute |
-| [Catalogues](categories/catalogs.md) | 7 | 15 | Gram News, TON App, DYOR.io, ton.website |
-| [Privacy](categories/vpn.md) | 11 | 41 | TonMobile eSIM, SnapSIM, Durev VPN, Resistance Tools |
-| [NFT collections](categories/nftcaps.md) | 17 | 84 | Anonymous Numbers, Plush Pepe, Telegram Usernames, Scared Cat |
-| [Tokens](categories/tokens.md) | 59 | 211 | GROYP, UTYA, XROCK, CHERRY |
-| [NFT & Gifts](categories/nftmarkets.md) | 89 | 271 | Getgems, Tonnel, @MRKT, Marketapp |
-| [Memepads](categories/launchpads.md) | 21 | 97 | TopBlast, Meridian, @Blum, BigPump |
-| [Trading bots](categories/trading.md) | 22 | 63 | @Trade, PocketFi, Maestro, Upscale |
-| [Social](categories/social.md) | 23 | 133 | @Mira, TON Dating, @Major, @IPredict |
-| [AI](categories/ai.md) | 17 | 56 | AI Lab, MOONBERG AI BOT, Spru, AgentBook |
-| [Tools](categories/tools.md) | 35 | 166 | Randomize Bot, RandomGodBot, XDAO, Random Beast |
+| [Catalogues](categories/catalogs.md) | 7 | 16 | Gram News, TON App, DYOR.io, ton.website |
+| [Privacy](categories/vpn.md) | 11 | 42 | TonMobile eSIM, SnapSIM, Durev VPN, Resistance Tools |
+| [NFT collections](categories/nftcaps.md) | 17 | 85 | Anonymous Numbers, Plush Pepe, Telegram Usernames, Scared Cat |
+| [Tokens](categories/tokens.md) | 59 | 219 | GROYP, UTYA, XROCK, CHERRY |
+| [NFT & Gifts](categories/nftmarkets.md) | 89 | 272 | Getgems, Tonnel, @MRKT, Marketapp |
+| [Memepads](categories/launchpads.md) | 21 | 101 | TopBlast, Meridian, @Blum, BigPump |
+| [Trading bots](categories/trading.md) | 22 | 70 | @Trade, PocketFi, Maestro, Upscale |
+| [Social](categories/social.md) | 23 | 135 | @Mira, TON Dating, @Major, @IPredict |
+| [AI](categories/ai.md) | 17 | 63 | AI Lab, MOONBERG AI BOT, Spru, AgentBook |
+| [Tools](categories/tools.md) | 35 | 180 | Randomize Bot, RandomGodBot, XDAO, Random Beast |
 | [Shopping](categories/shopping.md) | 7 | 45 | Indigo Gift, Bikini Stars, iCryptoCheck, Uquid Shop |
 | [Education](categories/education.md) | 5 | 35 | TonNewbie, Be Unstoppable, iQuizMaster, BehLand |
-| [Games](categories/games.md) | 134 | 1036 | Dogs, CITY Holder, Catizen, Gatto |
-| [Farming](categories/farming.md) | 249 | 863 | Boinkers, Time Farm, Agent 301, Hrum |
-| [Casino](categories/gambling.md) | 50 | 215 | VIRUS GAME, Epic Gift, Easy Gift, Gorilla Case |
+| [Games](categories/games.md) | 134 | 1136 | Dogs, CITY Holder, Catizen, Gatto |
+| [Farming](categories/farming.md) | 249 | 921 | Boinkers, Time Farm, Agent 301, Hrum |
+| [Casino](categories/gambling.md) | 50 | 219 | VIRUS GAME, Epic Gift, Easy Gift, Gorilla Case |
 | [Studios](categories/studios.md) | 5 | 23 | GAMEE, PlayDeck, Ice Creators, TonTon Games |
 | [Funds](categories/funds.md) | 1 | 19 | Redo Invest |
 | [Accelerators](categories/accelerators.md) | 1 | 13 | TON Piter Hub |
@@ -125,6 +125,7 @@ The `sources` column lists every place a project was found:
 - `gramnews-feed`: a post on [@gramnews](https://t.me/gramnews);
 - `gramnews-corpus`: the Gram News post corpus: 531.7 million Telegram posts since 2015, names mentioned by at least three TON channels, then checked by hand;
 - `gramnews-orgs`: studio, fund and accelerator portfolios, each link with its source;
+- `telegram-similar`: Telegram's own similar channels and similar bots next to TON projects (June 2026), recommended next to at least three of them, then checked by hand;
 - `gramnews-q3-2026`: the [Gram News quarterly map](reports/2026-q3);
 - `ton-society-ecosystem-map`: [ton-society/ecosystem-map](https://github.com/ton-society/ecosystem-map);
 - `awesome-ton`: [ton-community/awesome-ton](https://github.com/ton-community/awesome-ton);
@@ -136,17 +137,18 @@ The `sources` column lists every place a project was found:
 
 | File | What is in it |
 | --- | --- |
-| [data/projects.csv](data/projects.csv) | 4,245 projects, one per row |
-| [data/channels.csv](data/channels.csv) | 1,176 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
+| [data/projects.csv](data/projects.csv) | 4,486 projects, one per row |
+| [data/channels.csv](data/channels.csv) | 1,210 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
 | [data/categories.json](data/categories.json) | categories in display order |
-| [data/link-fixes.csv](data/link-fixes.csv) | 2,215 link decisions (replaced, removed, confirmed) with evidence |
+| [data/link-fixes.csv](data/link-fixes.csv) | 2,216 link decisions (replaced, removed, confirmed) with evidence |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
 | [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |
+| [data/similar.csv](data/similar.csv) | 17,144 pairs: whom Telegram shows in similar channels or similar bots next to an entity here, with the position (June 2026); audiences overlap, it is not traffic |
 | [reports/link-check.md](reports/link-check.md) | 770 links that failed the last check |
 
 <details><summary><b>Columns of projects.csv</b></summary>
 
-`category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `website_down` (the date a check found the site gone), `github`, `gramnews` (the project's card on gramnews.org), `last_post`, `last_commit`, `launched`, `launched_source`, `subscribers`, `reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.
+`category`, `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `website_down` (the date a check found the site gone), `telegram_id` and `bot_id` (Telegram's numeric ids, which survive a rename), `verified` and `verified_since` (the badge on t.me, and the earliest date it was seen: in a Web Archive copy of the page, a June 2026 snapshot or the latest check), `peak_mau` and `peak_mau_date` (the highest monthly users on the FindMini chart, which starts in July 2024; a peak on the chart's first day may have been higher before it), `github`, `gramnews` (the project's card on gramnews.org), `last_post`, `last_commit`, `launched`, `launched_source`, `subscribers`, `reach_q3`, `views_q3`, `posts_q3`, `mau`, `metric`, `sources`, `description`.
 
 </details>
 
@@ -171,18 +173,18 @@ For games, farming, NFT, casinos and memepads, dates before January 2018 are ign
 
 ## Channels
 
-1,176 channels write about TON without being a project's own. Together they have 124.4M subscribers and published 110,855 posts with 332.5M views from July to September 2026. The full list with each channel's numbers is in [data/channels.csv](data/channels.csv).
+1,210 channels write about TON without being a project's own. Together they have 129.1M subscribers and published 110,855 posts with 332.5M views from July to September 2026. The full list with each channel's numbers is in [data/channels.csv](data/channels.csv).
 
 | Theme | Channels | Subscribers | Posts | Views | Largest |
 | --- | ---: | ---: | ---: | ---: | --- |
-| Authors and blogs | 425 | 41.9M | 33,812 | 168.3M | [Pavel Durov](https://t.me/durov), [crypto_okop](https://t.me/crypto_okop), [BALENCIAGA](https://t.me/groza) |
-| Gifts and NFT | 341 | 21.5M | 36,207 | 72.3M | [bape](https://t.me/bape), [BOROV_TUT](https://t.me/borov_club), [I’m Pepe](https://t.me/pepe_vlog) |
-| Airdrops and farming | 110 | 21.4M | 14,596 | 27.8M | [TON AirDrop (RU)](https://t.me/tonairdrop_ru), [SAGE AIRDROPS ( Crypto )](https://t.me/sageairdrops), [Free Earnings](https://t.me/aird555) |
-| News and media | 161 | 26.1M | 16,010 | 26.9M | [Coingraph](https://t.me/coingraphnews), [Крипта Скруджа](https://t.me/crypta), [CryptoDays 2.0](https://t.me/cryptodays) |
+| Authors and blogs | 436 | 42.2M | 33,812 | 168.3M | [Pavel Durov](https://t.me/durov), [crypto_okop](https://t.me/crypto_okop), [BALENCIAGA](https://t.me/groza) |
+| Gifts and NFT | 342 | 21.5M | 36,207 | 72.3M | [bape](https://t.me/bape), [BOROV_TUT](https://t.me/borov_club), [I’m Pepe](https://t.me/pepe_vlog) |
+| Airdrops and farming | 122 | 25.1M | 14,596 | 27.8M | [TON AirDrop (RU)](https://t.me/tonairdrop_ru), [SAGE AIRDROPS ( Crypto )](https://t.me/sageairdrops), [Free Earnings](https://t.me/aird555) |
+| News and media | 170 | 26.8M | 16,010 | 26.9M | [Coingraph](https://t.me/coingraphnews), [Крипта Скруджа](https://t.me/crypta), [CryptoDays 2.0](https://t.me/cryptodays) |
 | Trading and signals | 85 | 6.9M | 5,961 | 22.3M | [TONka→GRAM.smska](https://t.me/smska), [YO vs Smash](https://t.me/yovssmash), [MrKiaTeam / Candoo Trade / آموزش ترید از زیر صفر](https://t.me/candootrade) |
-| Investing and analytics | 54 | 6.6M | 4,269 | 14.9M | [Типичный Инвестор](https://t.me/eduardinvest), [Дайте TON!](https://t.me/givemetonru), [ПУШИСТЫЙ ИНВЕСТОР](https://t.me/fluffy_investor) |
+| Investing and analytics | 55 | 6.6M | 4,269 | 14.9M | [Типичный Инвестор](https://t.me/eduardinvest), [Дайте TON!](https://t.me/givemetonru), [ПУШИСТЫЙ ИНВЕСТОР](https://t.me/fluffy_investor) |
 
-By language: Russian 778, English 351, Persian 11, Ukrainian 11, Chinese 7, Arabic 6, Indonesian 4.
+By language: Russian 802, English 360, Persian 11, Ukrainian 11, Chinese 7, Arabic 6, Indonesian 4.
 
 ## Contribute
 
