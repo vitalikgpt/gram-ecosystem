@@ -277,6 +277,7 @@ def build():
         f"The busiest quarter was {peak[4:]} {peak[:4]} with {qs[peak]:,}.",
         "",
         "```mermaid",
+        '%%{init: {"xyChart": {"width": 1000, "height": 300}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%',
         "xychart-beta",
         "  x-axis [" + ", ".join(f'\"{k[2:4]}{k[4:]}\"' for k in keys) + "]",
         '  y-axis "Projects launched"',
@@ -360,9 +361,12 @@ def build():
             continue
         o = node(x["organisation_slug"], x["organisation"], True)
         q = node(x["project_slug"], x["project"], x["project_slug"] in nrel_g)
-        edges.append(f"  {o} -->|{verb.get(x['relation'], x['relation'])}| {q}")
+        v = verb.get(x["relation"], x["relation"])
+        arrow = "==>" if v in ("built", "published", "owns") else "-.->" if v == "invested" else "-->"   # the line says the relation
+        edges.append(f"  {o} {arrow} {q}")
     if edges:
-        out += ["", "The same links as a web: organisations in blue, a project backed by several of them drawn once.", "", "```mermaid", "flowchart LR"]
+        out += ["", "The same links as a web. Organisations are blue; a thick line means built or published, a dotted one invested, "
+                "a thin one any other tie; a project tied to several organisations is drawn once.", "", "```mermaid", "flowchart LR"]
         out += [f'  {i}(["{n}"])' if org else f'  {i}["{n}"]' for i, n, org in ids.values()]
         out += edges
         out += ["  classDef org fill:#1f6feb,color:#fff,stroke:#1f6feb",

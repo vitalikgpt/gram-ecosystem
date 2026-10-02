@@ -78,6 +78,7 @@ By reach: post views on the project's own channel from July to September 2026, o
 When the 4,351 projects with a known launch month started or came to TON. The busiest quarter was Q2 2024 with 731.
 
 ```mermaid
+%%{init: {"xyChart": {"width": 1000, "height": 300}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
 xychart-beta
   x-axis ["21Q1", "21Q2", "21Q3", "21Q4", "22Q1", "22Q2", "22Q3", "22Q4", "23Q1", "23Q2", "23Q3", "23Q4", "24Q1", "24Q2", "24Q3", "24Q4", "25Q1", "25Q2", "25Q3", "25Q4", "26Q1", "26Q2", "26Q3"]
   y-axis "Projects launched"
@@ -120,7 +121,7 @@ Who builds and backs the projects. Each link between a project and an organisati
 | [Pantera Capital](https://panteracapital.com) | fund | invested: [GAMEE](https://t.me/gameechannel) | [1](https://www.animocabrands.com/gamee-receives-investment-from-pantera-capital) |
 | [TON Accelerator](https://t.me/accelerator_ton) | accelerator | first cohort: [Prophecy Pulse](https://t.me/prophecypulse_bot), [Storm Trade](https://t.me/storm_trade_news), [EVAA Protocol](https://t.me/evaaprotocol), [DeDust](https://t.me/dedust_en), [TON.SKI Access](https://t.me/tonski_eng), [Pluto Studios](https://www.pluto.vision) | [1](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) |
 
-The same links as a web: organisations in blue, a project backed by several of them drawn once.
+The same links as a web. Organisations are blue; a thick line means built or published, a dotted one invested, a thin one any other tie; a project tied to several organisations is drawn once.
 
 ```mermaid
 flowchart LR
@@ -166,47 +167,47 @@ flowchart LR
   p39["Pluto Studios"]
   o40(["TONcoin.Fund"])
   p41["Telegram Growth Hub"]
-  o0 -->|built| p1
-  o0 -->|built| p2
-  o0 -->|owns| o3
-  o0 -->|ecosystem| p4
-  o0 -->|ecosystem| p5
-  o0 -->|ecosystem| p6
-  o3 -->|published| p7
-  o3 -->|published| p8
-  o9 -->|built| p10
-  o9 -->|built| p11
-  o12 -->|invested| o9
-  o13 -->|built| p14
-  o13 -->|built| p15
-  o13 -->|built| p16
-  o13 -->|built| p17
-  o13 -->|built| p18
-  o13 -->|built| p19
-  o13 -->|built| p20
-  o21 -->|invested| p22
-  o21 -->|invested| p23
-  o21 -->|invested| p24
-  o21 -->|invested| p25
-  o21 -->|invested| p26
-  o12 -->|invested| p27
-  o12 -->|invested| p28
-  o12 -->|invested| p29
-  o12 -->|invested| p30
-  o12 -->|invested| p4
-  o12 -->|invested| p31
-  o12 -->|invested| p32
-  o12 -->|invested| p33
-  o34 -->|first cohort| p35
-  o34 -->|first cohort| p36
-  o34 -->|first cohort| p31
-  o34 -->|first cohort| p37
-  o34 -->|first cohort| p38
-  o34 -->|first cohort| p39
-  o40 -->|invested| p35
-  o40 -->|invested| p36
-  o40 -->|invested| p37
-  o0 -->|co-launched| p41
+  o0 ==> p1
+  o0 ==> p2
+  o0 ==> o3
+  o0 --> p4
+  o0 --> p5
+  o0 --> p6
+  o3 ==> p7
+  o3 ==> p8
+  o9 ==> p10
+  o9 ==> p11
+  o12 -.-> o9
+  o13 ==> p14
+  o13 ==> p15
+  o13 ==> p16
+  o13 ==> p17
+  o13 ==> p18
+  o13 ==> p19
+  o13 ==> p20
+  o21 -.-> p22
+  o21 -.-> p23
+  o21 -.-> p24
+  o21 -.-> p25
+  o21 -.-> p26
+  o12 -.-> p27
+  o12 -.-> p28
+  o12 -.-> p29
+  o12 -.-> p30
+  o12 -.-> p4
+  o12 -.-> p31
+  o12 -.-> p32
+  o12 -.-> p33
+  o34 --> p35
+  o34 --> p36
+  o34 --> p31
+  o34 --> p37
+  o34 --> p38
+  o34 --> p39
+  o40 -.-> p35
+  o40 -.-> p36
+  o40 -.-> p37
+  o0 --> p41
   classDef org fill:#1f6feb,color:#fff,stroke:#1f6feb
   class o0,o3,o9,o12,o13,o21,o34,o40 org
 ```
