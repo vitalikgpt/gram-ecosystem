@@ -8,10 +8,10 @@
 
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
-| 1 | **Telegram** | The official Telegram on Telegram. Much recursion. Very Telegram. Wow | [Telegram](https://t.me/telegram) [X](https://x.com/teleongram) [Site](https://telegram.org) | 2020-01-06 |
+| 1 | **Telegram** | The official Telegram on Telegram. Much recursion. Very Telegram. Wow | [Telegram](https://t.me/telegram) [Site](https://telegram.org) | 2020-01-06 |
 | 2 | **Fragment** |  | [Site](https://fragment.com) [Gram News](https://gramnews.org/apps/fragment-7kzxik) | 2022-10-27 |
 | 3 | **TON Core** |  | [Telegram](https://t.me/toncore) [Site](https://ton.org) | 2024-11-06 |
-| 4 | **Acton** | A unified command-line toolchain for TON smart contracts in Tolk — project setup, tests,… | [Telegram](https://t.me/theopentooling) [X](https://x.com/acton_ton) [Site](https://ton-blockchain.github.io/acton/) [GitHub](https://github.com/ton-blockchain/acton) [Gram News](https://gramnews.org/apps/acton) | 2025-07-17 |
+| 4 | **Acton** | A unified command-line toolchain for TON smart contracts in Tolk — project setup, tests,… | [Telegram](https://t.me/theopentooling) [Site](https://ton-blockchain.github.io/acton/) [GitHub](https://github.com/ton-blockchain/acton) [Gram News](https://gramnews.org/apps/acton) | 2025-07-17 |
 | 5 | **Tolk** | Channel devoted to TOLK — "next-generation FunC" — a language for writing smart… | [Telegram](https://t.me/tolk_lang) [Site](https://docs.ton.org/v3/documentation/smart-contracts/tolk/overview) | 2024-08-05 |
 | 6 | **Pyth** |  | [Site](https://www.pyth.network) | 2020-12-01 |
 | 7 | **RedStone** | A modular oracle delivering data for DeFi to EVM and non-EVM chains, TON included | [Telegram](https://t.me/redstonefinance) [Site](https://www.redstone.finance) [GitHub](https://github.com/redstone-finance) [Gram News](https://gramnews.org/apps/redstone) | 2021-04-30 |
@@ -28,8 +28,8 @@
 | 18 | **TON Storage** |  | [Site](https://docs.ton.org/v3/guidelines/web3/ton-storage/storage-daemon) | 2023-01-04 |
 | 19 | **MyTonCtrl** |  | [Site](https://github.com/ton-blockchain/mytonctrl) | 2020-01-31 |
 | 20 | **TON Verifier** |  | [X](https://x.com/LevelQFinance) [Site](https://verifier.ton.org) [GitHub](https://github.com/ton-blockchain/verifier) [Gram News](https://gramnews.org/apps/ton-verifier) | 2022-10-24 |
-| 21 | **Cocoon** | A decentralized network for confidential AI inference — GPU owners are paid in TON for… | [Telegram](https://t.me/cocoon) [X](https://x.com/COCOONONTON) [Site](https://cocoon.doge.tg) [Gram News](https://gramnews.org/apps/cocoon) | 2025-10-29 |
-| 22 | **BotFather** | BotFather is the one bot to rule them all. Use it to create new bot accounts and manage… | [Bot](https://t.me/botfather) [X](https://x.com/BotfatherTG) [Site](https://botfather.online) | 2016-01-14 |
+| 21 | **Cocoon** | A decentralized network for confidential AI inference — GPU owners are paid in TON for… | [Telegram](https://t.me/cocoon) [Site](https://cocoon.org) [GitHub](https://github.com/TelegramMessenger/cocoon) [Gram News](https://gramnews.org/apps/cocoon) | 2025-10-29 |
+| 22 | **BotFather** | BotFather is the one bot to rule them all. Use it to create new bot accounts and manage… | [Bot](https://t.me/botfather) | 2016-01-14 |
 | 23 | **DTON GraphQL** |  | [Telegram](https://t.me/tvorogme) [GitHub](https://github.com/disintar) | 2023-10-04 |
 | 24 | **NOWNodes** | RPC & node infrastructure for 120+ blockchains, with human support | [Telegram](https://t.me/nownodes) [X](https://x.com/NowNodes) [GitHub](https://github.com/NOWNodes) | 2019-05-15 |
 | 25 | **TON Access** |  | [Telegram](https://t.me/orbsnetwork) [GitHub](https://github.com/orbs-network) | 2022-08-29 |

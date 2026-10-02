@@ -8,7 +8,7 @@
 
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
-| 1 | **@Mira** | Personal AI agent that turns conversations into actions | [Telegram](https://t.me/miramedia_en) [Bot](https://t.me/mira) [X](https://x.com/MiraTelegramAi) [Site](https://miracoin.netlify.app/) | 2025-03-19 |
+| 1 | **@Mira** | Personal AI agent that turns conversations into actions | [Telegram](https://t.me/miramedia_en) [Bot](https://t.me/mira) | 2025-03-19 |
 | 2 | **TON Dating** | TON Dating is a selective dating community with verified profiles | [Telegram](https://t.me/tondatingchannel) [Bot](https://t.me/TonDating_bot) [Site](https://ton.dating) [Gram News](https://gramnews.org/apps/ton-dating) | 2023-10-17 |
 | 3 | **@Major** | Major is a Telegram app with its own token, NFT market, games, and staking | [Bot](https://t.me/major) [X](https://x.com/majoroftelegram) [Site](https://major.bot) [Gram News](https://gramnews.org/apps/major-1) | 2021-11-06 |
 | 4 | **@IPredict** | Predict match outcomes and trade football markets inside Telegram. Powered by USDT on… | [Bot](https://t.me/ipredict) | 2026-06-05 |
@@ -96,7 +96,7 @@
 | 81 | **NFT Access Guardian Bot** | NFT Access Guardian Bot: Verifies NFT ownership for exclusive chat access | [Bot](https://t.me/access_ton_control_bot) | 2023-08-26 |
 | 82 | **NFTune** |  | [Bot](https://t.me/nftunebot) | 2025 |
 | 83 | **Peace Da Love** |  | [Site](https://peacedalove.com) [Gram News](https://gramnews.org/apps/peace-da-love) | 2023-06 |
-| 84 | **Photon** | Photon - a social app to express yourself, discover your friends, and bring your dreams… | [Telegram](https://t.me/The_Photon_app) [Bot](https://t.me/ThePhoton_Bot) [X](https://x.com/photon_friends) [Site](https://photonbot.tech) [Gram News](https://gramnews.org/apps/photon) | 2024-07-31 |
+| 84 | **Photon** | Photon - a social app to express yourself, discover your friends, and bring your dreams… | [Telegram](https://t.me/The_Photon_app) [Bot](https://t.me/ThePhoton_Bot) [X](https://x.com/photon_friends) [Gram News](https://gramnews.org/apps/photon) | 2024-07-31 |
 | 85 | **Spiritual Hub** | Spiritual hub - mindfulness app aggregator | [Bot](https://t.me/spiritualhubbot) | 2025 |
 | 86 | **StickerFace** | Press /start to create your personal Sticker Pack | [Bot](https://t.me/stickerfacebot) [Site](https://stickerface.io/) | 2018-06-06 |
 | 87 | **Telegram one Top** |  | [Gram News](https://gramnews.org/apps/telegram-one-top) | 2024-05 |

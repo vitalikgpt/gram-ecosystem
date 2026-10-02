@@ -9,7 +9,7 @@
 | # | Project | What it is | Links | Launched |
 | ---: | --- | --- | --- | --- |
 | 1 | **Anonymous Numbers** |  | [Site](https://fragment.com/gifts) | 2022-12-06 |
-| 2 | **Plush Pepe** |  | [Telegram](https://t.me/plushpepe_coin) [X](https://x.com/PlushPepe_coin) [Site](https://fragment.com/gifts) | 2025-01-23 |
+| 2 | **Plush Pepe** |  | [Telegram](https://t.me/plushpepe_coin) [Site](https://fragment.com/gifts) | 2025-01-23 |
 | 3 | **Telegram Usernames** |  | [Site](https://fragment.com/gifts) | 2022-10-27 |
 | 4 | **Scared Cat** |  | [Site](https://fragment.com/gifts) | 2025-01-23 |
-| 5 | **Heart Locket** |  | [X](https://x.com/Ton_Heartlocket) [Site](https://fragment.com/gifts) | 2025-06-06 |
+| 5 | **Heart Locket** |  | [Site](https://fragment.com/gifts) | 2025-06-06 |

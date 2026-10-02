@@ -152,7 +152,7 @@
 | 142 | **WINGRAM TONPLAY LUCKYBEAR БОНУС ФРИБЕТ CASINO 1WIN X MELLSTROY** | #CATBET #BETON #JETTON #BETKING #PARIK24 #BCGAME #STAKE #DUELBET #BONUS #FREEBET #КАЗИК… | [Bot](https://t.me/ton_events_robot) | 2026-07-28 |
 | 143 | **Wins** |  | [Telegram](https://t.me/wins) | 2024-03-25 |
 | 144 | **ЗалупиNews** | VIP casino & sportsbook - Shuffle.com Единственное независимое СМИ Предложить новость /… | [Telegram](https://t.me/zalupinews) [Bot](https://t.me/zalupinewsbot) | 2025-05-16 |
-| 145 | **Ton Fomo** | TON Fomo is simple and a little ruthless | [Telegram](https://t.me/TonFomoGame) [Bot](https://t.me/TonFomoGameBot) [X](https://x.com/ton_fomo) [Site](https://tonfomo.fun/) | 2025-12-04 |
+| 145 | **Ton Fomo** | TON Fomo is simple and a little ruthless | [Telegram](https://t.me/TonFomoGame) [Bot](https://t.me/TonFomoGameBot) [Site](https://tonfomo.fun/) | 2025-12-04 |
 | 146 | **JackDaw Flip** |  | [Telegram](https://t.me/JackdawFlip) [Bot](https://t.me/JackdawFlipbot) [X](https://x.com/JackdawFlipGame) Site (down) | 2024-09-22 |
 | 147 | **KATON** | katon game is a lightweight gambling platform focusing on entertainment and casual… | [Telegram](https://t.me/katon_game) [X](https://x.com/katon_games) [Site](https://www.katon.ai) | 2024-10-18 |
 | 148 | **Lucky Matrix Game** | Official Channel of "Lucky Matrix" Game. For support please contact | [Telegram](https://t.me/Lucky_matrix_official) [Bot](https://t.me/Lucky_Matrix_bot) [X](https://x.com/LuckyMatrixGame) [Gram News](https://gramnews.org/apps/lucky-matrix-game) | 2024-11-10 |

@@ -27,7 +27,7 @@
 | 12 | **AWX Crypto SHOP** | Покупка и продажа крипто за фиат в офисах по всему Миру! | [Bot](https://t.me/awexcryptobot) | 2026-10 |
 | 13 | **Bitpapa** |  | [Telegram](https://t.me/bitpapa_io) [X](https://x.com/bitpapa_io) [Site](https://bitpapa.com) [Gram News](https://gramnews.org/apps/bitpapa) | 2024-03-09 |
 | 14 | **DW: Toncoin Buy&Sell** | Buy & Sale TON Coin with great rate in few clicks. The part of the ecosystem | [Telegram](https://t.me/TokenInfinity) [Bot](https://t.me/DW_tonbot) [Gram News](https://gramnews.org/apps/dw-toncoin-buy-sell) | 2022-09-12 |
-| 15 | **GRAM в Рубли** | Автоматический обмен GRAM в рубли с выводом на банковскую карту. Без верификации / NO KYC | [Telegram](https://t.me/gram) [Bot](https://t.me/gramtorub_bot) [X](https://x.com/ton_blockchain) [Site](https://gram.org) | 2026-06-01 |
+| 15 | **GRAM в Рубли** | Автоматический обмен GRAM в рубли с выводом на банковскую карту. Без верификации / NO KYC | [Bot](https://t.me/gramtorub_bot) | 2026-06-01 |
 | 16 | **HoudiniSwap** | HoudiniSwap bot will enable you to create exchanges directly within Telegram | [Bot](https://t.me/houdiniswap_bot) | 2026-05 |
 | 17 | **ONLY** |  | [Telegram](https://t.me/p2pru) [Bot](https://t.me/only_pays_bot) | 2025-12-16 |
 | 18 | **Onmeta** |  | [Telegram](https://t.me/onmetatg) [X](https://x.com/onmetahq) [Site](https://onmeta.in/) [GitHub](https://github.com/onmetahq) [Gram News](https://gramnews.org/apps/onmeta) | 2022-01-18 |

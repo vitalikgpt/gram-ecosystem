@@ -11,7 +11,7 @@
 | 1 | **XAUt** |  | [Telegram](https://t.me/tether) [Site](https://gold.tether.to) | 2024-04-19 |
 | 2 | **Stable Metal** | Stable Metal - your opportunity to invest in the precious metals market | [Telegram](https://t.me/stablemetal) [Bot](https://t.me/Stable_metal_bot) [X](https://x.com/stable_metal) [Site](https://stablemetal.com) [GitHub](https://github.com/Stable-Metal/SLAG-Collection) [Gram News](https://gramnews.org/apps/stable-metal) | 2023-05-14 |
 | 3 | **USDT** |  | [Site](https://tether.to) | 2024-04-19 |
-| 4 | **Ethena USDe** |  | [Telegram](https://t.me/ethena_labs) [X](https://x.com/ethena_labs) [Site](https://ethena.fi) | 2023-05-23 |
+| 4 | **Ethena USDe** |  | [Telegram](https://t.me/ethena_labs) [Site](https://ethena.fi) | 2023-05-23 |
 
 <details><summary><b>Quiet: 5</b></summary>
 

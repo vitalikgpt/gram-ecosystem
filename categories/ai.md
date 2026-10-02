@@ -19,7 +19,7 @@
 | 9 | **Bter9 AI 2.5%** | USDT balance to level up your agent and boost your daily income! | [Bot](https://t.me/bter9bot) | 2026-09-05 |
 | 10 | **AmberMarket** | Магазин цифровых товаров в Telegram | [Telegram](https://t.me/ambermarket_official) [Bot](https://t.me/ambermarket_official_bot) | 2026-05-11 |
 | 11 | **Creator. AI Video** | Создавай ии видео и фото в боте или на сайте www.gensta.ai | [Telegram](https://t.me/creator_prompts) [Bot](https://t.me/creator_ai_tech_bot) [Site](https://Gensta.ai) [Gram News](https://gramnews.org/apps/creator_ai_tech_bot) | 2025-03-17 |
-| 12 | **TeleClaw** | Your personal AI agent | [Telegram](https://t.me/teleclawbull) [Bot](https://t.me/claw) [X](https://x.com/Teleclawonton) [Site](https://teleclaw.meme/) | 2026-05-26 |
+| 12 | **TeleClaw** | Your personal AI agent | [Telegram](https://t.me/teleclawbull) [Bot](https://t.me/claw) | 2026-05-26 |
 | 13 | **Sentism** | Sentism — AI-powered tool for automating DeFi operations | [Telegram](https://t.me/sentismcommunity) [Bot](https://t.me/SentismAIBot) [X](https://x.com/Sentism_ai) [Site](https://sentism.ai) [Gram News](https://gramnews.org/apps/sentism) | 2025-02-17 |
 | 14 | **Gem** | Best AI-bot in Telegram – | [Telegram](https://t.me/GemHQ) [Bot](https://t.me/gembot) [X](https://x.com/GEMofTON) [Site](https://gem.bot) [Gram News](https://gramnews.org/apps/gem) | 2024-05-05 |
 | 15 | **Meme Me** | Ready to turn your photos into epic memes? Upload your picture and watch the magic happen | [Bot](https://t.me/mememebot_bot) [Gram News](https://gramnews.org/apps/meme-me) | 2024-09-25 |
@@ -39,7 +39,7 @@
 | 24 | **Yoda AI** | Talk with Yoda anytime you want | [Bot](https://t.me/yodabot) [Gram News](https://gramnews.org/apps/yoda-ai) | 2024-06 |
 | 25 | **NeronAI** |  | [Telegram](https://t.me/neron_news) [Bot](https://t.me/neronai_bot) [Site](https://neron.ai) [Gram News](https://gramnews.org/apps/neronai) | 2024-01-02 |
 | 26 | **NexaBit AI** | L3 AI blockchain powered by Arkham Intelligence and OpenAI | [Telegram](https://t.me/nexabitHQ) [Bot](https://t.me/NexaBit_Tap_bot) [X](https://x.com/nexabitHQ) [Site](https://nexabit.web.app) [Gram News](https://gramnews.org/apps/nexabit-ai) | 2024-05-15 |
-| 27 | **AiTon** | Next Gen Ai Research project AiTon | [Bot](https://t.me/iaiton_bot) [X](https://x.com/btc25onton) [Site](https://aitonbtc25.com) | 2026-05-22 |
+| 27 | **AiTon** | Next Gen Ai Research project AiTon | [Bot](https://t.me/iaiton_bot) | 2026-05-22 |
 | 28 | **Alpha Track ~~ bot** | AI-powered crypto intelligence. Your channels filtered, categorized, delivered. Alpha,… | [Telegram](https://t.me/alphatrack_ann) [Bot](https://t.me/alphatrack_ai_bot) | 2026-07-15 |
 | 29 | **Duck Ai App** | Deploy & Manage Ai Agents easily | [Telegram](https://t.me/myduckai) [Bot](https://t.me/teleduckaibot) | 2026-06-03 |
 | 31 | **Fragment Neuro Bot** |  | [Telegram](https://t.me/TeletonApp) [Bot](https://t.me/TeletonOfficialAppBot) [X](https://x.com/teletonapp) [Gram News](https://gramnews.org/apps/fragment-neuro-bot) | 2024-07-29 |
