@@ -2,15 +2,15 @@
 
 <img src="assets/cover.jpg" alt="Gram Ecosystem: TON and Telegram projects" width="100%">
 
-<img src="https://img.shields.io/badge/projects-4%2C561-5aa9ff?style=flat-square" alt="projects: 4,561"> <img src="https://img.shields.io/badge/active-1%2C024-4cd08a?style=flat-square" alt="active: 1,024"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/channels-1%2C210-5aa9ff?style=flat-square" alt="channels: 1,210"> <img src="https://img.shields.io/badge/links%20fixed-2%2C145-f2b84b?style=flat-square" alt="links fixed: 2,145"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
+<img src="https://img.shields.io/badge/projects-4%2C559-5aa9ff?style=flat-square" alt="projects: 4,559"> <img src="https://img.shields.io/badge/active-1%2C022-4cd08a?style=flat-square" alt="active: 1,022"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/channels-1%2C210-5aa9ff?style=flat-square" alt="channels: 1,210"> <img src="https://img.shields.io/badge/links%20fixed-2%2C145-f2b84b?style=flat-square" alt="links fixed: 2,145"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
 
-**Every TON and Telegram project we could verify: 4,561 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 9,440 links are checked every week; 2,145 wrong ones have been fixed so far, each with its evidence.
+**Every TON and Telegram project we could verify: 4,559 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 9,436 links are checked every week; 2,145 wrong ones have been fixed so far, each with its evidence.
 
 Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, build on it.
 
 **Browse it right here**: every category opens as a searchable table, its *table* link below; so do [channels](data/channels.csv) and [studios and funds](data/relations.csv).
 
-**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Neighbours on Telegram](#neighbours-on-telegram), [Studios and funds](#studios-funds-and-accelerators), [Channels](#channels), [How to read it](#how-to-read-it), [Data](#data), [Maps and reports](#maps-and-reports), [Contribute](#contribute)
+**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Neighbours on Telegram](#neighbours-on-telegram), [Verified](#verified-on-telegram), [Studios and funds](#studios-funds-and-accelerators), [Channels](#channels), [How to read it](#how-to-read-it), [Data](#data), [Maps and reports](#maps-and-reports), [Contribute](#contribute)
 
 ## Categories
 
@@ -41,14 +41,14 @@ Each category has its own page with every project, active ones first.
 | [Tokens](categories/tokens.md) | 57 | 231 | [GROYP](https://t.me/groyp), [UTYA](https://t.me/MagicVipClub), [CHERRY](https://t.me/HotCherryTG), [BabyDoge](https://t.me/babydogecoin) | [table](data/by-category/tokens.csv) |
 | [NFT & Gifts](categories/nftmarkets.md) | 87 | 270 | [Getgems](https://t.me/getgems), [Tonnel](https://t.me/tonnel_en), [@MRKT](https://t.me/mrkt), [Marketapp](https://t.me/nfttonificatorbot) | [table](data/by-category/nftmarkets.csv) |
 | [Memepads](categories/launchpads.md) | 21 | 104 | [TopBlast](https://t.me/topblastdotlol), [Meridian](https://t.me/meridian_wtf), [@Blum](https://t.me/blumcrypto_memepad), [BigPump](https://t.me/bigpumphub) | [table](data/by-category/launchpads.csv) |
-| [Trading bots](categories/trading.md) | 22 | 74 | [@Trade](https://t.me/gifttradeservise), [PocketFi](https://t.me/pocketfi), [Maestro](https://t.me/maestrosniperupdates), [Upscale](https://t.me/upscale_news_en) | [table](data/by-category/trading.csv) |
+| [Trading bots](categories/trading.md) | 21 | 73 | [@Trade](https://t.me/gifttradeservise), [PocketFi](https://t.me/pocketfi), [Maestro](https://t.me/maestrosniperupdates), [Upscale](https://t.me/upscale_news_en) | [table](data/by-category/trading.csv) |
 | [Social](categories/social.md) | 23 | 135 | [@Mira](https://t.me/miramedia_en), [TON Dating](https://t.me/tondatingchannel), [@Major](https://t.me/major), [@IPredict](https://t.me/ipredict) | [table](data/by-category/social.csv) |
 | [AI](categories/ai.md) | 17 | 67 | [AI Lab](https://t.me/ailab_robot), [MOONBERG AI BOT](https://t.me/moonbergai), [Spru](https://t.me/spru_agent_bot), [AgentBook](https://t.me/agentbookbot) | [table](data/by-category/ai.csv) |
 | [Tools](categories/tools.md) | 35 | 184 | [Randomize Bot](https://t.me/randomized), [RandomGodBot](https://t.me/randomgod), [XDAO](https://t.me/xdaoapp), [Random Beast](https://t.me/randombeastnews) | [table](data/by-category/tools.csv) |
 | [Shopping](categories/shopping.md) | 7 | 47 | [Indigo Gift](https://t.me/indigogif), [Bikini Stars](https://t.me/bikininft), [iCryptoCheck](https://t.me/iCryptoCheck), [Uquid Shop](https://t.me/uquidshop) | [table](data/by-category/shopping.csv) |
 | [Education](categories/education.md) | 5 | 36 | [TonNewbie](https://t.me/tonnewbie), [Be Unstoppable](https://t.me/unstoppable_announcements), [iQuizMaster](https://t.me/iquizmaster_bot), [BehLand](https://t.me/BehLand_Official) | [table](data/by-category/education.csv) |
 | [Games](categories/games.md) | 131 | 1156 | [Dogs](https://t.me/dogs), [CITY Holder](https://t.me/city_holder), [Catizen](https://t.me/catizenann), [Gatto](https://t.me/gatto_game) | [table](data/by-category/games.csv) |
-| [Farming](categories/farming.md) | 245 | 912 | [Boinkers](https://t.me/boinkersnews), [Time Farm](https://t.me/timefarmchannel), [Agent 301](https://t.me/app301), [Hrum](https://t.me/hrumfam) | [table](data/by-category/farming.csv) |
+| [Farming](categories/farming.md) | 244 | 911 | [Boinkers](https://t.me/boinkersnews), [Time Farm](https://t.me/timefarmchannel), [Agent 301](https://t.me/app301), [Hrum](https://t.me/hrumfam) | [table](data/by-category/farming.csv) |
 | [Casino](categories/gambling.md) | 50 | 219 | [VIRUS GAME](https://t.me/omicron), [Epic Gift](https://t.me/epic_gift_official), [Easy Gift](https://t.me/easygiftnews), [Gorilla Case](https://t.me/gorilla_news) | [table](data/by-category/gambling.csv) |
 | [Studios](categories/studios.md) | 5 | 23 | [Open Builders](https://t.me/builders), [The Open Platform](https://t.me/topco), [GAMEE](https://t.me/gameechannel), [PlayDeck](https://t.me/playdeck_en) | [table](data/by-category/studios.csv) |
 | [Funds](categories/funds.md) | 1 | 19 | [TON Ventures](https://t.me/ton_ventures), [TVM Ventures](https://t.me/tvmventures), [TONcoin.Fund](https://toncoin.fund), [Animoca Brands](https://www.animocabrands.com) | [table](data/by-category/funds.csv) |
@@ -58,7 +58,7 @@ Each category has its own page with every project, active ones first.
 pie showData
   title What the catalogue is made of
   "Games" : 1156
-  "Farming" : 912
+  "Farming" : 911
   "NFT & Gifts" : 270
   "Tokens" : 231
   "Casino" : 219
@@ -66,7 +66,7 @@ pie showData
   "Analytics" : 158
   "Social" : 135
   "Wallets" : 119
-  "Other 26 categories" : 1177
+  "Other 26 categories" : 1176
 ```
 
 ## Largest projects
@@ -90,14 +90,29 @@ By reach: post views on the project's own channel from July to September 2026, o
 
 ## Launches by quarter
 
-When the 4,351 projects with a known launch month started or came to TON. The busiest quarter was Q2 2024 with 731.
+When the 4,349 projects with a known launch month started or came to TON. The busiest quarter was Q2 2024 with 731.
 
 ```mermaid
 %%{init: {"xyChart": {"width": 1000, "height": 300}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
 xychart-beta
   x-axis ["21Q1", "21Q2", "21Q3", "21Q4", "22Q1", "22Q2", "22Q3", "22Q4", "23Q1", "23Q2", "23Q3", "23Q4", "24Q1", "24Q2", "24Q3", "24Q4", "25Q1", "25Q2", "25Q3", "25Q4", "26Q1", "26Q2", "26Q3"]
   y-axis "Projects launched"
-  bar [8, 8, 17, 48, 75, 94, 73, 98, 75, 116, 116, 97, 298, 731, 670, 434, 256, 188, 156, 168, 156, 218, 251]
+  bar [8, 8, 17, 48, 75, 94, 73, 96, 75, 116, 116, 97, 298, 731, 670, 434, 256, 188, 156, 168, 156, 218, 251]
+```
+
+## Verified on Telegram
+
+186 projects carry Telegram's badge. For 166 of them the Web Archive shows when it appeared; the largest of each year:
+
+```mermaid
+timeline
+  2020 : Binance : BotFather : GAMEE : Stickers Bot
+  2021 : Bitget : BabyDoge PAWS : Donate
+  2022 : Trust Wallet : Getgems : Getgems NFT RU : 1inch
+  2023 : Bybit : Notcoin : STON.fi : Tangem
+  2024 : MemeFi Coin : Boinkers : Keeper : Dogs
+  2025 : Tonnel : @Portals : XDAO : Caps
+  2026 : My Duck : @Mira : Mr. Freeman : TonMobile eSIM
 ```
 
 ## Neighbours on Telegram
@@ -275,7 +290,7 @@ The `sources` column lists every place a project was found:
 
 | File | What is in it |
 | --- | --- |
-| [data/projects.csv](data/projects.csv) | 4,561 projects, one per row |
+| [data/projects.csv](data/projects.csv) | 4,559 projects, one per row |
 | [data/channels.csv](data/channels.csv) | 1,210 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
 | [data/categories.json](data/categories.json) | categories in display order |
 | [data/link-fixes.csv](data/link-fixes.csv) | 2,235 link decisions (replaced, removed, confirmed, marked down) with evidence |

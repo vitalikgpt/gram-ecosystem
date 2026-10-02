@@ -202,7 +202,7 @@ def build():
         "**Browse it right here**: every category opens as a searchable table, its *table* link below; "
         "so do [channels](data/channels.csv) and [studios and funds](data/relations.csv).",
         "",
-        "**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Neighbours on Telegram](#neighbours-on-telegram), "
+        "**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Neighbours on Telegram](#neighbours-on-telegram), [Verified](#verified-on-telegram), "
         "[Studios and funds](#studios-funds-and-accelerators), [Channels](#channels), [How to read it](#how-to-read-it), "
         "[Data](#data), [Maps and reports](#maps-and-reports), [Contribute](#contribute)",
         "",
@@ -270,6 +270,23 @@ def build():
         "  bar [" + ", ".join(str(qs[k]) for k in keys) + "]",
         "```",
     ]
+    # when Telegram gave the badge: the largest dated accounts per year, from the Web Archive
+    ver = {}
+    for r in sorted((r for r in rows if r.get("verified_since") and r["category"] != "tokens"), key=reach_n, reverse=True):
+        ver.setdefault(r["verified_since"][:4], []).append(r["name"].replace(":", " ").replace("#", ""))
+    if len(ver) >= 3:
+        out += [
+            "",
+            "## Verified on Telegram",
+            "",
+            f"{sum(1 for r in rows if r.get('verified') == '1'):,} projects carry Telegram's badge. For "
+            f"{sum(1 for r in rows if r.get('verified_since')):,} of them the Web Archive shows when it appeared; the largest of each year:",
+            "",
+            "```mermaid",
+            "timeline",
+        ]
+        out += [f"  {y} : " + " : ".join(ver[y][:4]) for y in sorted(ver)]
+        out += ["```"]
     # who Telegram shows next to the largest projects: the top of their similar lists, both sides in this dataset
     sim = list(csv.DictReader(open("data/similar.csv", encoding="utf-8"))) if os.path.exists("data/similar.csv") else []
     by_url = {}
