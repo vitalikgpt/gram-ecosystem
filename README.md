@@ -137,7 +137,7 @@ The `sources` column lists every place a project was found:
 | File | What is in it |
 | --- | --- |
 | [data/projects.csv](data/projects.csv) | 4,245 projects, one per row |
-| [data/channels.csv](data/channels.csv) | 1,174 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
+| [data/channels.csv](data/channels.csv) | 1,176 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
 | [data/categories.json](data/categories.json) | categories in display order |
 | [data/link-fixes.csv](data/link-fixes.csv) | 2,215 link decisions (replaced, removed, confirmed) with evidence |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
@@ -171,18 +171,18 @@ For games, farming, NFT, casinos and memepads, dates before January 2018 are ign
 
 ## Channels
 
-1,174 channels write about TON without being a project's own. Together they have 124.4M subscribers and published 110,840 posts with 332.5M views from July to September 2026. The full list with each channel's numbers is in [data/channels.csv](data/channels.csv).
+1,176 channels write about TON without being a project's own. Together they have 124.4M subscribers and published 110,855 posts with 332.5M views from July to September 2026. The full list with each channel's numbers is in [data/channels.csv](data/channels.csv).
 
 | Theme | Channels | Subscribers | Posts | Views | Largest |
 | --- | ---: | ---: | ---: | ---: | --- |
-| Authors and blogs | 423 | 41.9M | 33,797 | 168.3M | [Pavel Durov](https://t.me/durov), [crypto_okop](https://t.me/crypto_okop), [BALENCIAGA](https://t.me/groza) |
+| Authors and blogs | 425 | 41.9M | 33,812 | 168.3M | [Pavel Durov](https://t.me/durov), [crypto_okop](https://t.me/crypto_okop), [BALENCIAGA](https://t.me/groza) |
 | Gifts and NFT | 341 | 21.5M | 36,207 | 72.3M | [bape](https://t.me/bape), [BOROV_TUT](https://t.me/borov_club), [I’m Pepe](https://t.me/pepe_vlog) |
 | Airdrops and farming | 110 | 21.4M | 14,596 | 27.8M | [TON AirDrop (RU)](https://t.me/tonairdrop_ru), [SAGE AIRDROPS ( Crypto )](https://t.me/sageairdrops), [Free Earnings](https://t.me/aird555) |
 | News and media | 161 | 26.1M | 16,010 | 26.9M | [Coingraph](https://t.me/coingraphnews), [Крипта Скруджа](https://t.me/crypta), [CryptoDays 2.0](https://t.me/cryptodays) |
 | Trading and signals | 85 | 6.9M | 5,961 | 22.3M | [TONka→GRAM.smska](https://t.me/smska), [YO vs Smash](https://t.me/yovssmash), [MrKiaTeam / Candoo Trade / آموزش ترید از زیر صفر](https://t.me/candootrade) |
 | Investing and analytics | 54 | 6.6M | 4,269 | 14.9M | [Типичный Инвестор](https://t.me/eduardinvest), [Дайте TON!](https://t.me/givemetonru), [ПУШИСТЫЙ ИНВЕСТОР](https://t.me/fluffy_investor) |
 
-By language: Russian 776, English 351, Persian 11, Ukrainian 11, Chinese 7, Arabic 6, Indonesian 4.
+By language: Russian 778, English 351, Persian 11, Ukrainian 11, Chinese 7, Arabic 6, Indonesian 4.
 
 ## Contribute
 
