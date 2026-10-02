@@ -427,6 +427,43 @@
    }
   },
   {
+   "name": "category-fixes",
+   "path": "data/category-fixes.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "every category change with the reason, and rows removed as not projects",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "string",
+      "description": "YYYY-MM-DD"
+     },
+     {
+      "name": "slug",
+      "type": "string"
+     },
+     {
+      "name": "name",
+      "type": "string"
+     },
+     {
+      "name": "from",
+      "type": "string"
+     },
+     {
+      "name": "to",
+      "type": "string"
+     },
+     {
+      "name": "why",
+      "type": "string"
+     }
+    ]
+   }
+  },
+  {
    "name": "unresolved",
    "path": "data/unresolved.csv",
    "format": "csv",

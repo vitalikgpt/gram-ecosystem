@@ -2,14 +2,14 @@
 
 # Perp DEX
 
-**13 projects: 7 active, 6 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/perps.csv).
+**20 projects: 9 active, 11 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/perps.csv).
 
 ```mermaid
 %%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
 xychart-beta
   title "Launched per year"
-  x-axis ["2022", "2023", "2024", "2025", "2026"]
-  bar [1, 1, 7, 3, 1]
+  x-axis ["2021", "2022", "2023", "2024", "2025", "2026"]
+  bar [1, 2, 2, 11, 3, 1]
 ```
 
 ## Active
@@ -23,16 +23,23 @@ xychart-beta
 | 5 | **Vooi App** | Join VOOI - Trade, Arbitrage, Earn Rewards / Unlock trading | [Telegram](https://t.me/vooi_app) [Bot](https://t.me/vooiappbot) [Gram News](https://gramnews.org/apps/vooi-app) | 2024-04-16 | 1.3M | since 2024-10 |
 | 6 | **Aster** |  | [Telegram](https://t.me/asterdex) [Site](https://www.asterdex.com) | 2025-03-14 |  |  |
 | 7 | **Lighter** |  | [Site](https://lighter.xyz) | 2025-10 |  |  |
+| 8 | **Storm Trade (STORM)** | Official news & announcement channel of | [Telegram](https://t.me/storm_trade_news) [X](https://x.com/storm_trade_ton) [Site](https://storm.tg) | 2024-10-12 |  |  |
+| 9 | **TON Hedge** | New generation trading platform on TON blockchain | [Telegram](https://t.me/ton_hedge) [Bot](https://t.me/ton_hedge_bot) [X](https://x.com/tonhedge) [Site](https://tonhedge.com) [Gram News](https://gramnews.org/apps/ton-hedge) | 2024-05-20 |  |  |
 
-<details><summary><b>Quiet: 6</b></summary>
+<details><summary><b>Quiet: 11</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 8 | **EVEDEX** | EVEDEX official Telegram channel Get +10% cashback | [Telegram](https://t.me/officialevedex) | 2024-11-19 |  |  |
-| 9 | **Hopium** | Social perp trading on Telegram | [Bot](https://t.me/hopium_official_bot) | 2024-08-20 | 278K |  |
-| 10 | **HyperFun** | Leveraged Bitcoin trading in Telegram | [Bot](https://t.me/hyperfn_bot) | 2026-04-23 |  |  |
-| 11 | **KiloEx** | Peer-to-pool perpetual DEX with an official community chat | [Telegram](https://t.me/kiloex) [Bot](https://t.me/kiloextradebot) | 2024-07-24 | 537K |  |
-| 12 | **TonTrader** | Crypto derivatives trading mini app on Telegram | [Bot](https://t.me/tontradercryptobot) | 2025-02-27 |  |  |
-| 13 | **Scalr** | Perpetual DEX powered by TON | [Telegram](https://t.me/scalr_dex) [Bot](https://t.me/scalrbot) [X](https://x.com/scalr_dex) | 2024-06-14 | 356K |  |
+| 10 | **Nundu** |  | [Telegram](https://t.me/nunducrypto) [Bot](https://t.me/nunducryptobot) [Gram News](https://gramnews.org/apps/nundu) | 2024-12-12 | 43K |  |
+| 11 | **ONUS Tap Tap Tap** | Perpetual DEX - up to 150× leverage. Effortless trading experience! | [Bot](https://t.me/onus_tap_tap_tap_bot) [X](https://x.com/ONUSFinance) [Gram News](https://gramnews.org/apps/onus-tap-tap-tap) | 2021-09-01 | 6M | since 2025-01 |
+| 12 | **Vanilla Finance** |  | [Bot](https://t.me/vanilla_finance_bot) [Gram News](https://gramnews.org/apps/vanilla-finance) | 2024-06-17 | 3.7M |  |
+| 13 | **dYdX** |  | [Telegram](https://t.me/dydxofficial) [X](https://x.com/dydx) [Site](https://dYdX.trade) [Gram News](https://gramnews.org/apps/dydx) | 2022-03-09 |  |  |
+| 14 | **EVEDEX** | EVEDEX official Telegram channel Get +10% cashback | [Telegram](https://t.me/officialevedex) | 2024-11-19 |  |  |
+| 15 | **Hopium** | Social perp trading on Telegram | [Bot](https://t.me/hopium_official_bot) | 2024-08-20 | 278K |  |
+| 16 | **HyperFun** | Leveraged Bitcoin trading in Telegram | [Bot](https://t.me/hyperfn_bot) | 2026-04-23 |  |  |
+| 17 | **KiloEx** | Peer-to-pool perpetual DEX with an official community chat | [Telegram](https://t.me/kiloex) [Bot](https://t.me/kiloextradebot) | 2024-07-24 | 537K |  |
+| 18 | **Prebit.io** | Prebit.io — a decentralized exchange for trading Bitcoin with leverage up to 1001× | [Bot](https://t.me/PrebitAuthBot) [X](https://x.com/prebit_io) [Site](https://www.prebit.io) [Gram News](https://gramnews.org/apps/prebit-io) | 2023-08-25 |  |  |
+| 19 | **TonTrader** | Crypto derivatives trading mini app on Telegram | [Bot](https://t.me/tontradercryptobot) | 2025-02-27 |  |  |
+| 20 | **Scalr** | Perpetual DEX powered by TON | [Telegram](https://t.me/scalr_dex) [Bot](https://t.me/scalrbot) [X](https://x.com/scalr_dex) | 2024-06-14 | 356K |  |
 
 </details>

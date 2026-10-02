@@ -2,14 +2,14 @@
 
 # Wallets
 
-**119 projects: 29 active, 88 quiet, 2 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/wallets.csv).
+**111 projects: 30 active, 80 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/wallets.csv).
 
 ```mermaid
 %%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
 xychart-beta
   title "Launched per year"
   x-axis ["2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
-  bar [1, 1, 2, 2, 18, 16, 44, 11, 17]
+  bar [1, 1, 4, 2, 16, 14, 41, 9, 18]
 ```
 
 ## Active
@@ -33,26 +33,26 @@ xychart-beta
 | 15 | **Wallet Agent** |  | [Telegram](https://t.me/wallet_agent) [Site](https://walletagent.dog) | 2026-05-29 |  |  |
 | 16 | **TeQoin Wallet** | Welcome to TeQoin Blockchain! Telegram | [Telegram](https://t.me/teqoin) [Bot](https://t.me/teqoin_wallet_bot) [X](https://x.com/teqoin) [Site](https://teqoin.io) [GitHub](https://github.com/TeQoin-Blockchain) | 2026-03-29 |  | yes |
 | 17 | **Architect.ton** | Architec.Ton — a wallet with an app catalog on the TON blockchain | [Telegram](https://t.me/architecton_tech) [Bot](https://t.me/architec_ton_bot) [X](https://x.com/architec_ton) [Site](https://architecton.tech) [Gram News](https://gramnews.org/apps/architect-ton) | 2024-04-24 | 53K |  |
-| 18 | **GEME Wallet** | Cross-chain non-custodial wallet in Telegram | [Telegram](https://t.me/gemewallet) [Bot](https://t.me/gemewallet_bot) [X](https://x.com/GemeWallet) [Site](https://gemewallet.com) | 2026-03-10 |  |  |
-| 19 | **лавэшка** | Крипто-фиатный кошелёк. Храни, отправляй, обменивай — быстро и удобно | [Telegram](https://t.me/laveshka_news) [Bot](https://t.me/laveshka) | 2026-08-18 |  |  |
-| 20 | **Karta** | www.karta.io Top up with crypto, spend anywhere. Your gateway to digital finance | [Bot](https://t.me/kartawalletbot) | 2025-08-21 | 36K |  |
-| 21 | **pgon** | Кошелек с возможностью оплаты в магазинах по qr сбп - канал - поддержка | [Telegram](https://t.me/pgon_wallet) [Bot](https://t.me/pgon) | 2026-01-02 |  |  |
-| 22 | **UXUY Wallet** | UXUY Wallet is a multi-chain wallet with trading and earning features | [Bot](https://t.me/uxuybot) [X](https://x.com/uxuycom) [Site](https://uxuy.com/join/QvJWU08ydoo) [GitHub](https://github.com/uxuycom) [Gram News](https://gramnews.org/apps/uxuy-wallet) | 2023-08-17 |  |  |
-| 23 | **KuCoin Web3 Wallet** | Decentralized non-custodial wallet announcements | [Telegram](https://t.me/kucoin_web3wallet) [X](https://x.com/KuCoin_Web3) | 2025-11-03 |  |  |
-| 24 | **Gem Wallet** | Building an open source crypto wallet | [Telegram](https://t.me/gemwallet) [X](https://x.com/GemWalletApp) [Site](https://gemwallet.com) [GitHub](https://github.com/gemwalletcom) [Gram News](https://gramnews.org/apps/gem-wallet) | 2022-07-28 |  |  |
-| 25 | **SociaWallet** | SociaWallet - This is the wallet you want to use. Made by made in TON. Open Wallet | [Telegram](https://t.me/sociawallet) [Bot](https://t.me/sociawalletbot) | 2026-06-01 |  |  |
-| 26 | **PAY.SPACE** | Виртуальные карты для зарубежных оплат QR-платежи в РФ из USDT Сайт | [Telegram](https://t.me/pay_space_channel) [Bot](https://t.me/pay_space_wallet_bot) [Site](https://pay.space) | 2025-09-26 |  |  |
-| 27 | **Walletium** | A crypto and stablecoin wallet in Telegram | [Telegram](https://t.me/walletium) [Bot](https://t.me/walletiumbot) [X](https://x.com/walletium_web3) [Site](https://walletium.net) [Gram News](https://gramnews.org/apps/walletium) | 2024-12-18 |  |  |
-| 28 | **Orniton** | Orniton — TON wallet with NFT auto-buy and sell features | [Telegram](https://t.me/ornitonwallet) [Bot](https://t.me/Ornitonbot) [X](https://x.com/ornitonwallet) [Site](https://orniton.org) [GitHub](https://github.com/unlimadev/Orniton) [Gram News](https://gramnews.org/apps/orniton) | 2024-05-26 |  |  |
-| 29 | **Crypto Wallet** | Храни, меняй и выводи крипту. Стейкинг USDT. 300+ монет. 30+ валют. Карты для Apple Pay. Делай чеки, следи за потоками. Плати подписки | [Telegram](https://t.me/wallet_crypto_io) [Bot](https://t.me/cryptouser_bot) [Site](https://w-crypto.io) [Gram News](https://gramnews.org/apps/crypto-wallet) | 2022-04-25 |  |  |
+| 18 | **Be Unstoppable** | Be Unstoppable — a cryptocurrency wallet supporting Bitcoin, Ethereum, and Zcash | [Telegram](https://t.me/unstoppable_announcements) [Bot](https://t.me/BeUnstoppable_bot) [X](https://x.com/unstoppablebyhs) [Site](https://unstoppable.money/) [GitHub](https://github.com/horizontalsystems) [Gram News](https://gramnews.org/apps/be-unstoppable) | 2020-11-13 | 82K |  |
+| 19 | **GEME Wallet** | Cross-chain non-custodial wallet in Telegram | [Telegram](https://t.me/gemewallet) [Bot](https://t.me/gemewallet_bot) [X](https://x.com/GemeWallet) [Site](https://gemewallet.com) | 2026-03-10 |  |  |
+| 20 | **лавэшка** | Крипто-фиатный кошелёк. Храни, отправляй, обменивай — быстро и удобно | [Telegram](https://t.me/laveshka_news) [Bot](https://t.me/laveshka) | 2026-08-18 |  |  |
+| 21 | **Karta** | www.karta.io Top up with crypto, spend anywhere. Your gateway to digital finance | [Bot](https://t.me/kartawalletbot) | 2025-08-21 | 36K |  |
+| 22 | **pgon** | Кошелек с возможностью оплаты в магазинах по qr сбп - канал - поддержка | [Telegram](https://t.me/pgon_wallet) [Bot](https://t.me/pgon) | 2026-01-02 |  |  |
+| 23 | **UXUY Wallet** | UXUY Wallet is a multi-chain wallet with trading and earning features | [Bot](https://t.me/uxuybot) [X](https://x.com/uxuycom) [Site](https://uxuy.com/join/QvJWU08ydoo) [GitHub](https://github.com/uxuycom) [Gram News](https://gramnews.org/apps/uxuy-wallet) | 2023-08-17 |  |  |
+| 24 | **KuCoin Web3 Wallet** | Decentralized non-custodial wallet announcements | [Telegram](https://t.me/kucoin_web3wallet) [X](https://x.com/KuCoin_Web3) | 2025-11-03 |  |  |
+| 25 | **Gem Wallet** | Building an open source crypto wallet | [Telegram](https://t.me/gemwallet) [X](https://x.com/GemWalletApp) [Site](https://gemwallet.com) [GitHub](https://github.com/gemwalletcom) [Gram News](https://gramnews.org/apps/gem-wallet) | 2022-07-28 |  |  |
+| 26 | **SociaWallet** | SociaWallet - This is the wallet you want to use. Made by made in TON. Open Wallet | [Telegram](https://t.me/sociawallet) [Bot](https://t.me/sociawalletbot) | 2026-06-01 |  |  |
+| 27 | **PAY.SPACE** | Виртуальные карты для зарубежных оплат QR-платежи в РФ из USDT Сайт | [Telegram](https://t.me/pay_space_channel) [Bot](https://t.me/pay_space_wallet_bot) [Site](https://pay.space) | 2025-09-26 |  |  |
+| 28 | **Walletium** | A crypto and stablecoin wallet in Telegram | [Telegram](https://t.me/walletium) [Bot](https://t.me/walletiumbot) [X](https://x.com/walletium_web3) [Site](https://walletium.net) [Gram News](https://gramnews.org/apps/walletium) | 2024-12-18 |  |  |
+| 29 | **Orniton** | Orniton — TON wallet with NFT auto-buy and sell features | [Telegram](https://t.me/ornitonwallet) [Bot](https://t.me/Ornitonbot) [X](https://x.com/ornitonwallet) [Site](https://orniton.org) [GitHub](https://github.com/unlimadev/Orniton) [Gram News](https://gramnews.org/apps/orniton) | 2024-05-26 |  |  |
+| 30 | **Crypto Wallet** | Храни, меняй и выводи крипту. Стейкинг USDT. 300+ монет. 30+ валют. Карты для Apple Pay. Делай чеки, следи за потоками. Плати подписки | [Telegram](https://t.me/wallet_crypto_io) [Bot](https://t.me/cryptouser_bot) [Site](https://w-crypto.io) [Gram News](https://gramnews.org/apps/crypto-wallet) | 2022-04-25 |  |  |
 
-<details><summary><b>Quiet: 88</b></summary>
+<details><summary><b>Quiet: 80</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 30 | **Tomo Wallet** | Tomo Wallet — a wallet for TON tokens | [Bot](https://t.me/tomowalletbot) [X](https://x.com/tomo_wallet) [Gram News](https://gramnews.org/apps/tomo-wallet) | 2023-07-25 | 1.6M |  |
-| 31 | **Spintria Wallet** | Spintria Wallet is a wallet for managing your assets | [Bot](https://t.me/spintria_wallet_bot) [Gram News](https://gramnews.org/apps/spintria-wallet) | 2024-03-05 | 69K |  |
-| 32 | **Xeno Network** |  | [Telegram](https://t.me/xenonetworkio) [Bot](https://t.me/xenonetwork_bot) [Gram News](https://gramnews.org/apps/xeno-network) | 2024-06-24 | 22K |  |
+| 31 | **Tomo Wallet** | Tomo Wallet — a wallet for TON tokens | [Bot](https://t.me/tomowalletbot) [X](https://x.com/tomo_wallet) [Gram News](https://gramnews.org/apps/tomo-wallet) | 2023-07-25 | 1.6M |  |
+| 32 | **Spintria Wallet** | Spintria Wallet is a wallet for managing your assets | [Bot](https://t.me/spintria_wallet_bot) [Gram News](https://gramnews.org/apps/spintria-wallet) | 2024-03-05 | 69K |  |
 | 33 | **Tonflix Wallet** |  | [Bot](https://t.me/tonflixwallet_bot) [Gram News](https://gramnews.org/apps/tonflix-wallet) | 2024-09-03 | 160K |  |
 | 34 | **water bot** |  | [Telegram](https://t.me/water_ton) [Bot](https://t.me/water_ton_bot) [Gram News](https://gramnews.org/apps/water-bot) | 2024-04-04 | 15K |  |
 | 35 | **TryTON Wallet** |  | [Bot](https://t.me/trytonwalletbot) [X](https://x.com/tryton_on_ton) [Site](https://tryton-on-ton.com) [Gram News](https://gramnews.org/apps/tryton-wallet) | 2024-03-24 | 449K |  |
@@ -64,11 +64,11 @@ xychart-beta
 | 41 | **CodexField Wallet** |  | [Bot](https://t.me/codexfieldbot) [Gram News](https://gramnews.org/apps/codexfield-wallet) | 2024-07-19 | 1.4M |  |
 | 42 | **xJetSwap** | Best telegram wallet for your money! | [Telegram](https://t.me/xjetnews) [Bot](https://t.me/xjetswapbot) [Gram News](https://gramnews.org/apps/xjetswap) | 2022-08-11 | 7K |  |
 | 43 | **Telenova** |  | [Bot](https://t.me/telenova_app_bot) [Gram News](https://gramnews.org/apps/telenova) | 2024-03-24 | 3K |  |
-| 44 | **MoneyTab** | Keep tabs on subscriptions and shared expenses | [Bot](https://t.me/moneytabbot) [Gram News](https://gramnews.org/apps/moneytab) | 2024-05-30 | 3K |  |
-| 45 | **Ammer Wallet** |  | [Bot](https://t.me/ammer_wallet_bot) [Gram News](https://gramnews.org/apps/ammer-wallet-2) | 2024-05 | 702 |  |
-| 46 | **Bpay** |  | [Telegram](https://t.me/bpay_official_channel) [Bot](https://t.me/bpay_coin_bot) [Gram News](https://gramnews.org/apps/bpay) | 2024-07-07 |  |  |
-| 47 | **DPXWallet** | Feature-Rich demonstration of a dummy Wallet app / Dev | [Bot](https://t.me/dpxwalletbot) [Gram News](https://gramnews.org/apps/dpxwallet) | 2023-10-31 | 142 |  |
-| 48 | **Ammer Wallet** |  | [Telegram](https://t.me/ammerwallet) [Site](https://ammer.app) [Gram News](https://gramnews.org/apps/ammer-wallet) | 2022-05-01 |  |  |
+| 44 | **Ammer Wallet** |  | [Bot](https://t.me/ammer_wallet_bot) [Gram News](https://gramnews.org/apps/ammer-wallet-2) | 2024-05 | 702 |  |
+| 45 | **Bpay** |  | [Telegram](https://t.me/bpay_official_channel) [Bot](https://t.me/bpay_coin_bot) [Gram News](https://gramnews.org/apps/bpay) | 2024-07-07 |  |  |
+| 46 | **DPXWallet** | Feature-Rich demonstration of a dummy Wallet app / Dev | [Bot](https://t.me/dpxwalletbot) [Gram News](https://gramnews.org/apps/dpxwallet) | 2023-10-31 | 142 |  |
+| 47 | **Ammer Wallet** |  | [Telegram](https://t.me/ammerwallet) [Site](https://ammer.app) [Gram News](https://gramnews.org/apps/ammer-wallet) | 2022-05-01 |  |  |
+| 48 | **Axai on Waves** |  | [Bot](https://t.me/wavesaxaibot) [X](https://x.com/wxnetwork) [Gram News](https://gramnews.org/apps/axai-on-waves) | 2020-01-29 |  |  |
 | 49 | **Bivreost Wallet** | Telegram crypto wallet for active social interaction | [Telegram](https://t.me/bivreost) [Bot](https://t.me/bivreost_bot) [Gram News](https://gramnews.org/apps/bivreost-wallet) | 2024-05 |  |  |
 | 50 | **Coin Wallet** |  | [Telegram](https://t.me/coinwalletapp) [Bot](https://t.me/attackdetectorbot) [X](https://x.com/CoinAppWallet) [Site](https://coin.space/) [GitHub](https://github.com/CoinSpace/CoinSpace) [Gram News](https://gramnews.org/apps/coin-wallet) | 2015-03-30 | 66 |  |
 | 51 | **CoLabs** | EVM is a future app with EVM-TG wallet & TON<>EVM Bridge Play BD X.com/conftapp Built by coNFT.app | [Telegram](https://t.me/co_nft) | 2024-06-27 |  |  |
@@ -86,66 +86,58 @@ xychart-beta
 | 63 | **Holdzilla** | Multifunctional crypto wallet bot of FollowDragons | [Bot](https://t.me/holdzillabot) | 2024-04-15 | 2K |  |
 | 64 | **HOT Protocol** | HERE wallet and HOT protocol support bot | [Bot](https://t.me/hotprotocol_bot) | 2025-02-02 |  |  |
 | 65 | **Infinito** | Multi-chain crypto wallet | [Telegram](https://t.me/infinitowallet) | 2019-04-19 |  |  |
-| 66 | **KaiOS Wallet** |  | [Telegram](https://t.me/vinayakkalra) [GitHub](https://github.com/kaifoundry/ton-kaios-wallet) | 2023-07-20 |  |  |
-| 67 | **Matrix Wallet** | Self-custodial, multi-chain wallet on Telegram | [Bot](https://t.me/MatrixWalletBot) [Site](https://) [GitHub](https://github.com/rangersprotocolcode) [Gram News](https://gramnews.org/apps/matrix-wallet) | 2024-03 |  |  |
-| 68 | **Mixin** | Bot to store and transfer TON, BTC and other cryptocurrencies | [Bot](https://t.me/mixinbot) | 2023-01-04 |  |  |
-| 69 | **Mixin Messenger** |  | [Site](https://mixin.one/messenger) [Gram News](https://gramnews.org/apps/mixin-messenger) | 2020-02-29 |  |  |
-| 70 | **MixinBot** |  | [Telegram](https://t.me/gemztrade) [Bot](https://t.me/GemzTradeBot) [X](https://x.com/GemzTrade) [Gram News](https://gramnews.org/apps/mixinbot) | 2024-02-07 |  |  |
-| 71 | **notonbot** |  | [Bot](https://t.me/notonoffice_bot) [Gram News](https://gramnews.org/apps/notonbot) | 2024-07-22 | 261K |  |
-| 72 | **ONTO Wallet** | Manage your own digital identities, data and assets | [Telegram](https://t.me/ONTOWallet) [X](https://x.com/ONTOWallet) [Site](https://onto.app/) [GitHub](https://github.com/ontio/ontology) [Gram News](https://gramnews.org/apps/onto-wallet) | 2018-04-13 |  |  |
-| 73 | **OpenMask** |  | [Site](https://chrome.google.com/webstore/detail/openmask/penjlddjkjgpnkllboccdgccekpkcbin?utm_source=openmask) [Gram News](https://gramnews.org/apps/openmask) | 2024-01 |  |  |
-| 74 | **OpenShield** | Conveniently interact with digital assets | [Bot](https://t.me/OpenShieldBot) [Gram News](https://gramnews.org/apps/openshield) | 2024-05-20 |  |  |
-| 75 | **PAW Wallet** | Crypto wallet on Telegram | [Bot](https://t.me/pawwalletbot) | 2024-10-13 | 76K |  |
-| 76 | **Paybis Wallet** | Paybis Wallet — cryptocurrency wallet | [Bot](https://t.me/paybis_crypto_exchange_bot) [X](https://x.com/paybis) [Site](https://paybis.com/?utm_source=TonApp&utm_medium=Wallets_lisitng&utm_campaign=website) [Gram News](https://gramnews.org/apps/paybis-wallet) | 2015-06-11 |  |  |
-| 77 | **Payscrow Wallet** | Payscrow Wallet - криптокошелек с виртуальными картами Visa для ежедневных платежей | [Telegram](https://t.me/payscrowwallet) [Bot](https://t.me/payscrowwalletbot) | 2026-04-28 |  |  |
-| 78 | **platho** | Encrypted messenger and TON wallet. No servers, only contracts | [Bot](https://t.me/plathobot) | 2026-08-19 |  |  |
-| 79 | **PPay** | Play & Pay娱乐 • 支付 • 畅行无界 ONE WALLET A BIGGER WORLD 选必安 心必安｜使用PPay 更简单 | [Bot](https://t.me/publicpaybot) | 2026-10 |  |  |
-| 80 | **PsWallet** | Store, exchange, send, and pay with cryptocurrency anytime, anywhere | [Bot](https://t.me/pswallet_bot) | 2025-11-18 | 264K |  |
-| 81 | **READY WALLET** | A Telegram minigame that's easy, fun, and rewards you with $RDT - game on! | [Bot](https://t.me/readywallet_bot) |  |  |  |
-| 82 | **Rustex** | Rustex Community - Rustex Technology | [Telegram](https://t.me/tondnsweb3) [Bot](https://t.me/rustexappbot) [Gram News](https://gramnews.org/apps/rustex) | 2023-06-10 |  |  |
-| 83 | **Saiyan Wallet Beta** | Crypto wallet on Telegram | [Bot](https://t.me/saiyan_wallet_bot) |  |  |  |
-| 84 | **Scaleton** |  | [Site](https://explorer.scaleton.io/connect) [Gram News](https://gramnews.org/apps/scaleton) | 2023-08 |  |  |
-| 85 | **Sender** |  | [Site](https://chrome.google.com/webstore/detail/sender-wallet/epapihdplajcdnnkdeiahlgigofloibg?utm_source=chrome-ntp-icon) [Gram News](https://gramnews.org/apps/sender) | 2024-03-06 |  |  |
-| 86 | **Sonic Wallet** | Crypto wallet on Telegram | [Bot](https://t.me/sonic_wallet_bot) | 2025-03-15 | 16K |  |
-| 87 | **SunSpace Wallet** | Wallet and swap bot of the $SPC ecosystem on TON | [Bot](https://t.me/sunspace_robot) | 2024-12-08 |  |  |
-| 88 | **Talken Wallet** | Talken Wallet for Telegram is a secure Web3 wallet that uses MPC technology. Talken | [Telegram](https://t.me/talken_updates) [Bot](https://t.me/talkenwallet_bot) | 2026-10 | 15K |  |
-| 89 | **TH钱包** | 频道: 欢迎体验我们的 Telegram 机器人，轻松进行加密货币交易、理财、资产安全存储、手机充值等功能。在这里，您将感受到便捷、安全与创新的一体化服务。立即加入我们，享受触手可及的智能数字交易体验 | [Bot](https://t.me/thqbbot) | 2026-10 |  |  |
-| 90 | **TON Space** | Russian news channel of the TON Wallet | [Telegram](https://t.me/tonspace_news_cis) | 2024-12-03 |  |  |
-| 91 | **TON Space** | News channel for the TON Wallet | [Telegram](https://t.me/tonspace_news_en) | 2024-12-03 |  |  |
-| 92 | **TonDevWallet** |  | [Site](https://github.com/TonDevWallet/TonDevWallet) [GitHub](https://github.com/TonDevWallet/TonDevWallet) [Gram News](https://gramnews.org/apps/tondevwallet) | 2023-01-27 |  |  |
-| 93 | **Tonkey** |  | [X](https://x.com/TonkeyApp) [GitHub](https://github.com/tonkey-app) | 2023-05-08 |  |  |
-| 94 | **Tonspack** | The first telegram multi-chain MPC wallet | [Bot](https://t.me/tonspack_bot) [X](https://x.com/tonspack) Site (down) [GitHub](https://github.com/tonspay) [Gram News](https://gramnews.org/apps/tonspack) | 2024-02-29 |  |  |
-| 95 | **TronKeeper** | TronKeeper is your secure Tron wallet on Telegram | [Bot](https://t.me/tronkeeperbot) | 2024-10-22 |  |  |
-| 96 | **TronKeeper Claim** | TronKeeper is your secure Tron wallet on Telegram | [Bot](https://t.me/tronkeeperclaimbot) |  |  |  |
-| 97 | **Units Wallet** | Foundational layer connecting all ecosystem chains in a fully interoperable and trustless manner | [Bot](https://t.me/unitswallet_bot) | 2024-10-24 | 2M |  |
-| 98 | **vaniton** |  | [Telegram](https://t.me/beast_crypto_news) [Bot](https://t.me/BeastWalletBot) [Site](https://github.com/AntonMeep/vaniton) [GitHub](https://github.com/fluidicon.png) [Gram News](https://gramnews.org/apps/vaniton) | 2024-08-30 |  |  |
-| 99 | **Wallet Explorer** |  | [Bot](https://t.me/toftechbot) [Gram News](https://gramnews.org/apps/wallet-explorer) | 2024-01 | 867K |  |
-| 100 | **Wallet.Hub** |  | [Bot](https://t.me/walletdothub_bot) | 2026-08-01 |  |  |
-| 101 | **WalletStars** |  | [Telegram](https://t.me/walletstarsofficial) [Bot](https://t.me/walletstarsnewbot) | 2025-02-20 | 16K |  |
-| 102 | **Wind Wallet** | New Generation of Telegram Wallet on Vexanium Blockchain | [Bot](https://t.me/windwalletbot) | 2024-09-03 |  |  |
-| 103 | **X Wallet** | Non-custodial TON wallet with staking | [Bot](https://t.me/xwalletbot) | 2025-04-06 | 236K |  |
-| 104 | **xJetSwapBot** |  | [Gram News](https://gramnews.org/apps/xjetswapbot) | 2024-04-26 |  |  |
-| 105 | **XTON crypto wallet** |  | [Telegram](https://t.me/tonoracle_app) [Bot](https://t.me/tonoracle_bot) [Site](https://xtonwallet.com/) [Gram News](https://gramnews.org/apps/xton-crypto-wallet) | 2024-04-24 |  |  |
-| 106 | **XTON Wallet** |  | [Telegram](https://t.me/xtonwallet) [Bot](https://t.me/XTON_ROBOT) [X](https://x.com/XTON_ROBOT) [GitHub](https://github.com/xtonwallet/web-extension) | 2022-11-30 |  |  |
-| 107 | **Zen Wallet** | A calm TON wallet for everyday crypto | [Bot](https://t.me/sendzenbot) | 2026-05-20 |  |  |
-| 108 | **Кошелёк NiceWallet** |  | [Bot](https://t.me/nicewalletio_bot) | 2026-10 |  |  |
-| 109 | **MathWallet** |  | [Telegram](https://t.me/mathwalletnews) [X](https://x.com/MathWallet) [Site](https://mathwallet.org/) [GitHub](https://github.com/mathwallet) [Gram News](https://gramnews.org/apps/mathwallet) | 2017-09-13 |  |  |
-| 110 | **TON Punks Bot** | TON Punks Bot is a bot for managing $PUNK and $TON tokens on the TON blockchain | [Telegram](https://t.me/punkton) [Bot](https://t.me/tonpunksbot) [Site](https://tonpunks.org) [Gram News](https://gramnews.org/apps/tonpunksbot) | 2022-01-12 |  | since 2024-08 |
-| 111 | **Cropty Wallet** | Cropty Wallet — multi-chain wallet with free transfers between users | [Telegram](https://t.me/croptywallet) [Bot](https://t.me/CroptyBot) [X](https://x.com/cropty_app) [Site](https://www.cropty.io) [Gram News](https://gramnews.org/apps/cropty-wallet) | 2023-07-18 |  |  |
-| 112 | **Wallet** | News channel of Wallet in Telegram | [Telegram](https://t.me/wallet_news_en) [X](https://x.com/wallet_tg) | 2022-03-31 |  |  |
-| 113 | **MyTonWallet** | MyTonWallet developer contests channel | [Telegram](https://t.me/mycontests) [X](https://x.com/mytonwallet_io) [GitHub](https://github.com/mytonwallet-org) | 2024-05-15 |  |  |
-| 114 | **Tonflow Wallet** | TONFLOW: A secure, self-custodial wallet for the TON blockchain | [Telegram](https://t.me/tonflow_community) [X](https://x.com/itonflow) Site (down) [GitHub](https://github.com/tonflow) [Gram News](https://gramnews.org/apps/tonflow-wallet) | 2024-10-22 |  |  |
-| 115 | **Top Wallets** |  | [Telegram](https://t.me/top_wallets) [GitHub](https://github.com/AlexGor-dev/Top-Wallets) | 2023-05-20 |  |  |
-| 116 | **Defexa** | World first memecoin bank | [Telegram](https://t.me/defexa) [X](https://x.com/DefexaCrypto) [Site](https://defexa.io) [Gram News](https://gramnews.org/apps/defexa) | 2022-11-04 |  |  |
-| 117 | **OpenMask** |  | [Telegram](https://t.me/openproduct) [X](https://x.com/openmask_wallet) [Site](https://github.com/openproduct/openmask-extension) [GitHub](https://github.com/fluidicon.png) [Gram News](https://gramnews.org/apps/openmask-2) | 2022-09-06 |  |  |
+| 66 | **Matrix Wallet** | Self-custodial, multi-chain wallet on Telegram | [Bot](https://t.me/MatrixWalletBot) [Site](https://) [GitHub](https://github.com/rangersprotocolcode) [Gram News](https://gramnews.org/apps/matrix-wallet) | 2024-03 |  |  |
+| 67 | **Mixin** | Bot to store and transfer TON, BTC and other cryptocurrencies | [Bot](https://t.me/mixinbot) | 2023-01-04 |  |  |
+| 68 | **Mixin Messenger** |  | [Site](https://mixin.one/messenger) [Gram News](https://gramnews.org/apps/mixin-messenger) | 2020-02-29 |  |  |
+| 69 | **MixinBot** |  | [Telegram](https://t.me/gemztrade) [Bot](https://t.me/GemzTradeBot) [X](https://x.com/GemzTrade) [Gram News](https://gramnews.org/apps/mixinbot) | 2024-02-07 |  |  |
+| 70 | **notonbot** |  | [Bot](https://t.me/notonoffice_bot) [Gram News](https://gramnews.org/apps/notonbot) | 2024-07-22 | 261K |  |
+| 71 | **ONTO Wallet** | Manage your own digital identities, data and assets | [Telegram](https://t.me/ONTOWallet) [X](https://x.com/ONTOWallet) [Site](https://onto.app/) [GitHub](https://github.com/ontio/ontology) [Gram News](https://gramnews.org/apps/onto-wallet) | 2018-04-13 |  |  |
+| 72 | **OpenMask** |  | [Site](https://chrome.google.com/webstore/detail/openmask/penjlddjkjgpnkllboccdgccekpkcbin?utm_source=openmask) [Gram News](https://gramnews.org/apps/openmask) | 2024-01 |  |  |
+| 73 | **OpenShield** | Conveniently interact with digital assets | [Bot](https://t.me/OpenShieldBot) [Gram News](https://gramnews.org/apps/openshield) | 2024-05-20 |  |  |
+| 74 | **PAW Wallet** | Crypto wallet on Telegram | [Bot](https://t.me/pawwalletbot) | 2024-10-13 | 76K |  |
+| 75 | **Payscrow Wallet** | Payscrow Wallet - криптокошелек с виртуальными картами Visa для ежедневных платежей | [Telegram](https://t.me/payscrowwallet) [Bot](https://t.me/payscrowwalletbot) | 2026-04-28 |  |  |
+| 76 | **platho** | Encrypted messenger and TON wallet. No servers, only contracts | [Bot](https://t.me/plathobot) | 2026-08-19 |  |  |
+| 77 | **PPay** | Play & Pay娱乐 • 支付 • 畅行无界 ONE WALLET A BIGGER WORLD 选必安 心必安｜使用PPay 更简单 | [Bot](https://t.me/publicpaybot) | 2026-10 |  |  |
+| 78 | **PsWallet** | Store, exchange, send, and pay with cryptocurrency anytime, anywhere | [Bot](https://t.me/pswallet_bot) | 2025-11-18 | 264K |  |
+| 79 | **Rustex** | Rustex Community - Rustex Technology | [Telegram](https://t.me/tondnsweb3) [Bot](https://t.me/rustexappbot) [Gram News](https://gramnews.org/apps/rustex) | 2023-06-10 |  |  |
+| 80 | **Saiyan Wallet Beta** | Crypto wallet on Telegram | [Bot](https://t.me/saiyan_wallet_bot) |  |  |  |
+| 81 | **Sender** |  | [Site](https://chrome.google.com/webstore/detail/sender-wallet/epapihdplajcdnnkdeiahlgigofloibg?utm_source=chrome-ntp-icon) [Gram News](https://gramnews.org/apps/sender) | 2024-03-06 |  |  |
+| 82 | **Sonic Wallet** | Crypto wallet on Telegram | [Bot](https://t.me/sonic_wallet_bot) | 2025-03-15 | 16K |  |
+| 83 | **SunSpace Wallet** | Wallet and swap bot of the $SPC ecosystem on TON | [Bot](https://t.me/sunspace_robot) | 2024-12-08 |  |  |
+| 84 | **Talken Wallet** | Talken Wallet for Telegram is a secure Web3 wallet that uses MPC technology. Talken | [Telegram](https://t.me/talken_updates) [Bot](https://t.me/talkenwallet_bot) | 2026-10 | 15K |  |
+| 85 | **TH钱包** | 频道: 欢迎体验我们的 Telegram 机器人，轻松进行加密货币交易、理财、资产安全存储、手机充值等功能。在这里，您将感受到便捷、安全与创新的一体化服务。立即加入我们，享受触手可及的智能数字交易体验 | [Bot](https://t.me/thqbbot) | 2026-10 |  |  |
+| 86 | **TON Space** | Russian news channel of the TON Wallet | [Telegram](https://t.me/tonspace_news_cis) | 2024-12-03 |  |  |
+| 87 | **TON Space** | News channel for the TON Wallet | [Telegram](https://t.me/tonspace_news_en) | 2024-12-03 |  |  |
+| 88 | **TonDevWallet** |  | [Site](https://github.com/TonDevWallet/TonDevWallet) [GitHub](https://github.com/TonDevWallet/TonDevWallet) [Gram News](https://gramnews.org/apps/tondevwallet) | 2023-01-27 |  |  |
+| 89 | **Tonkey** |  | [X](https://x.com/TonkeyApp) [GitHub](https://github.com/tonkey-app) | 2023-05-08 |  |  |
+| 90 | **Tonspack** | The first telegram multi-chain MPC wallet | [Bot](https://t.me/tonspack_bot) [X](https://x.com/tonspack) Site (down) [GitHub](https://github.com/tonspay) [Gram News](https://gramnews.org/apps/tonspack) | 2024-02-29 |  |  |
+| 91 | **TronKeeper** | TronKeeper is your secure Tron wallet on Telegram | [Bot](https://t.me/tronkeeperbot) | 2024-10-22 |  |  |
+| 92 | **TronKeeper Claim** | TronKeeper is your secure Tron wallet on Telegram | [Bot](https://t.me/tronkeeperclaimbot) |  |  |  |
+| 93 | **TWallet App** | Tokens, transactions, and digital collectibles in one clean interface that keeps the focus on what matters | [Bot](https://t.me/twalletappbot) | 2026-08-28 |  |  |
+| 94 | **Units Wallet** | Foundational layer connecting all ecosystem chains in a fully interoperable and trustless manner | [Bot](https://t.me/unitswallet_bot) | 2024-10-24 | 2M |  |
+| 95 | **vaniton** |  | [Telegram](https://t.me/beast_crypto_news) [Bot](https://t.me/BeastWalletBot) [Site](https://github.com/AntonMeep/vaniton) [GitHub](https://github.com/fluidicon.png) [Gram News](https://gramnews.org/apps/vaniton) | 2024-08-30 |  |  |
+| 96 | **Wallet Explorer** |  | [Bot](https://t.me/toftechbot) [Gram News](https://gramnews.org/apps/wallet-explorer) | 2024-01 | 867K |  |
+| 97 | **Wallet.Hub** |  | [Bot](https://t.me/walletdothub_bot) | 2026-08-01 |  |  |
+| 98 | **Wind Wallet** | New Generation of Telegram Wallet on Vexanium Blockchain | [Bot](https://t.me/windwalletbot) | 2024-09-03 |  |  |
+| 99 | **X Wallet** | Non-custodial TON wallet with staking | [Bot](https://t.me/xwalletbot) | 2025-04-06 | 236K |  |
+| 100 | **xJetSwapBot** |  | [Gram News](https://gramnews.org/apps/xjetswapbot) | 2024-04-26 |  |  |
+| 101 | **XTON crypto wallet** |  | [Telegram](https://t.me/tonoracle_app) [Bot](https://t.me/tonoracle_bot) [Site](https://xtonwallet.com/) [Gram News](https://gramnews.org/apps/xton-crypto-wallet) | 2024-04-24 |  |  |
+| 102 | **XTON Wallet** |  | [Telegram](https://t.me/xtonwallet) [Bot](https://t.me/XTON_ROBOT) [X](https://x.com/XTON_ROBOT) [GitHub](https://github.com/xtonwallet/web-extension) | 2022-11-30 |  |  |
+| 103 | **Zen Wallet** | A calm TON wallet for everyday crypto | [Bot](https://t.me/sendzenbot) | 2026-05-20 |  |  |
+| 104 | **Кошелёк NiceWallet** |  | [Bot](https://t.me/nicewalletio_bot) | 2026-10 |  |  |
+| 105 | **MathWallet** |  | [Telegram](https://t.me/mathwalletnews) [X](https://x.com/MathWallet) [Site](https://mathwallet.org/) [GitHub](https://github.com/mathwallet) [Gram News](https://gramnews.org/apps/mathwallet) | 2017-09-13 |  |  |
+| 106 | **Cropty Wallet** | Cropty Wallet — multi-chain wallet with free transfers between users | [Telegram](https://t.me/croptywallet) [Bot](https://t.me/CroptyBot) [X](https://x.com/cropty_app) [Site](https://www.cropty.io) [Gram News](https://gramnews.org/apps/cropty-wallet) | 2023-07-18 |  |  |
+| 107 | **Tonflow Wallet** | TONFLOW: A secure, self-custodial wallet for the TON blockchain | [Telegram](https://t.me/tonflow_community) [X](https://x.com/itonflow) Site (down) [GitHub](https://github.com/tonflow) [Gram News](https://gramnews.org/apps/tonflow-wallet) | 2024-10-22 |  |  |
+| 108 | **Top Wallets** |  | [Telegram](https://t.me/top_wallets) [GitHub](https://github.com/AlexGor-dev/Top-Wallets) | 2023-05-20 |  |  |
+| 109 | **Defexa** | World first memecoin bank | [Telegram](https://t.me/defexa) [X](https://x.com/DefexaCrypto) [Site](https://defexa.io) [Gram News](https://gramnews.org/apps/defexa) | 2022-11-04 |  |  |
+| 110 | **OpenMask** |  | [Telegram](https://t.me/openproduct) [X](https://x.com/openmask_wallet) [Site](https://github.com/openproduct/openmask-extension) [GitHub](https://github.com/fluidicon.png) [Gram News](https://gramnews.org/apps/openmask-2) | 2022-09-06 |  |  |
 
 </details>
 
-<details><summary><b>Closed: 2</b></summary>
+<details><summary><b>Closed: 1</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 118 | **GetTON** | Service that lets you create custom wallet addresses ending with any 3–5 characters you choose | [Bot](https://t.me/gettonapp_bot) [Site](https://getton.app) | 2025-06 |  |  |
-| 119 | **Fintopio** |  | [Telegram](https://t.me/fintopionews) [X](https://x.com/fintopio) [Site](https://fintopio.com/) | 2021-11-27 |  | since 2024-05 |
+| 111 | **Fintopio** |  | [Telegram](https://t.me/fintopionews) [X](https://x.com/fintopio) [Site](https://fintopio.com/) | 2021-11-27 |  | since 2024-05 |
 
 </details>

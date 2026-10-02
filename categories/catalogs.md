@@ -2,14 +2,14 @@
 
 # Catalogues
 
-**17 projects: 7 active, 10 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/catalogs.csv).
+**24 projects: 9 active, 15 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/catalogs.csv).
 
 ```mermaid
 %%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
 xychart-beta
   title "Launched per year"
   x-axis ["2020", "2021", "2022", "2023", "2024", "2025", "2026"]
-  bar [1, 0, 2, 3, 4, 4, 3]
+  bar [2, 0, 2, 5, 7, 4, 4]
 ```
 
 ## Active
@@ -22,21 +22,28 @@ xychart-beta
 | 4 | **ton.website** |  | [Telegram](https://t.me/mtproxyfreedom) [Site](https://ton.website) | 2022-10-15 |  |  |
 | 5 | **FindMini.app** | Discover curated selection of the best Telegram Mini Apps | [Telegram](https://t.me/findminiapp) [Site](https://www.findmini.app/) | 2024-06-23 |  |  |
 | 6 | **SUPER PLATFORM** | Discover quality platforms worth your attention | [Bot](https://t.me/yaojingappbot) | 2026-09-08 |  |  |
-| 7 | **Sousou** | Chinese-language index of Telegram groups, channels and bots | [Telegram](https://t.me/cn123) | 2023-04-20 |  |  |
+| 7 | **Telegram Apps Center** | Catalog of TON and Telegram apps from third-party developers | [Telegram](https://t.me/tapps_official) [Bot](https://t.me/tapps_bot) [Gram News](https://gramnews.org/apps/telegram-apps-center) | 2020-05-06 | 7.8M | since 2024-09 |
+| 8 | **TONDb** |  | [Telegram](https://t.me/tondbapp) [Bot](https://t.me/tondbbot) [X](https://x.com/tondbapp) Site (down) [Gram News](https://gramnews.org/apps/tondb) | 2024-05-03 |  |  |
+| 9 | **Sousou** | Chinese-language index of Telegram groups, channels and bots | [Telegram](https://t.me/cn123) | 2023-04-20 |  |  |
 
-<details><summary><b>Quiet: 10</b></summary>
+<details><summary><b>Quiet: 15</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 8 | **Gapps Center** | Your Favourite App Center on Telegram gapps.site | [Bot](https://t.me/gappscenter_bot) | 2026-04-16 |  |  |
-| 9 | **Mini Apps Center** | Directory of Telegram mini apps | [Bot](https://t.me/miniappscenterbot) | 2024-09-22 | 195K |  |
-| 10 | **TappRank** | Bot ranking and promoting Telegram bots | [Bot](https://t.me/tapprankbot) | 2025-03-10 | 78K |  |
-| 11 | **TON App Center** |  | [Telegram](https://t.me/tonappcenterbot) | 2024-07-14 |  |  |
-| 12 | **TONHunt App** |  | [Bot](https://t.me/tonhuntexbot) | 2025-03-08 | 10K |  |
-| 13 | **TONPlayCenter** | TON Play Center is a one-stop hub that gathers the most popular and transparent TON mini-apps channel： | [Bot](https://t.me/lionsapp_bot) | 2025-01-05 |  |  |
-| 14 | **Yaya Mini Apps** | Yaya community: Dev | [Telegram](https://t.me/yaya_gram) [Bot](https://t.me/yayaminiapps_bot) [X](https://x.com/Yaya_gram) | 2026-06-16 |  |  |
-| 15 | **Trending Apps** | Trending Apps is a community-powered hub spotlighting the most exciting Telegram apps from indie developers | [Telegram](https://t.me/trendingapps) | 2023-07-31 |  | since 2024-03 |
-| 16 | **Futurum** | Marketplace for digital assets, NFTs and investment projects | [Telegram](https://t.me/futurumx100) [Bot](https://t.me/futurumx100_bot) [X](https://x.com/FuturumX100) | 2024-09-18 |  |  |
-| 17 | **Tonski** | Ecosystem and catalogue for TON Sites | [Telegram](https://t.me/searchington) | 2022-10-04 |  |  |
+| 10 | **TonScout** | TONScout curates top new TON and Telegram apps. Users earn by supporting their favorite projects | [Bot](https://t.me/tonscout_bot) [Gram News](https://gramnews.org/apps/tonscout-1) | 2024-07-10 | 11K |  |
+| 11 | **Greedy Goblin** | Discover our innovative app store platform that bridges Web2 and Web3, offering a fun and engaging experience | [Bot](https://t.me/greedygoblinmaster_bot) [Gram News](https://gramnews.org/apps/greedy-goblin) | 2024-08-19 | 793K |  |
+| 12 | **Radar** |  | [Bot](https://t.me/radar_tg_bot) [Gram News](https://gramnews.org/apps/radar) | 2024-08-06 | 3K |  |
+| 13 | **@appss** | is your go-to global catalog for discovering Telegram Mini Apps, Bots, and Channels | [Telegram](https://t.me/appss_channel) [Bot](https://t.me/appsshubbot) | 2026-10 |  |  |
+| 14 | **Games Catalog** | We hand-pick web2/web3 Telegram games for you so you can enjoy playing them solo or with your friends | [Site](https://8xr.io) | 2023-06 |  |  |
+| 15 | **Gapps Center** | Your Favourite App Center on Telegram gapps.site | [Bot](https://t.me/gappscenter_bot) | 2026-04-16 |  |  |
+| 16 | **Mini Apps Center** | Directory of Telegram mini apps | [Bot](https://t.me/miniappscenterbot) | 2024-09-22 | 195K |  |
+| 17 | **TappRank** | Bot ranking and promoting Telegram bots | [Bot](https://t.me/tapprankbot) | 2025-03-10 | 78K |  |
+| 18 | **TON App Center** |  | [Telegram](https://t.me/tonappcenterbot) | 2024-07-14 |  |  |
+| 19 | **TONcasinos** | TONcasinos.com is your one-stop guide for finding the best TON betting sites | [Bot](https://t.me/mytoncasinos_bot) [Site](https://toncasinos.com) | 2023-03 |  |  |
+| 20 | **TONHunt App** |  | [Bot](https://t.me/tonhuntexbot) | 2025-03-08 | 10K |  |
+| 21 | **TONPlayCenter** | TON Play Center is a one-stop hub that gathers the most popular and transparent TON mini-apps channel： | [Bot](https://t.me/lionsapp_bot) | 2025-01-05 |  |  |
+| 22 | **Yaya Mini Apps** | Yaya community: Dev | [Telegram](https://t.me/yaya_gram) [Bot](https://t.me/yayaminiapps_bot) [X](https://x.com/Yaya_gram) | 2026-06-16 |  |  |
+| 23 | **Trending Apps** | Trending Apps is a community-powered hub spotlighting the most exciting Telegram apps from indie developers | [Telegram](https://t.me/trendingapps) | 2023-07-31 |  | since 2024-03 |
+| 24 | **Tonski** | Ecosystem and catalogue for TON Sites | [Telegram](https://t.me/searchington) | 2022-10-04 |  |  |
 
 </details>

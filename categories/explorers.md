@@ -2,14 +2,14 @@
 
 # Explorers
 
-**15 projects: 6 active, 9 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/explorers.csv).
+**13 projects: 6 active, 7 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/explorers.csv).
 
 ```mermaid
 %%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
 xychart-beta
   title "Launched per year"
   x-axis ["2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
-  bar [1, 0, 1, 5, 3, 3, 0, 2]
+  bar [1, 0, 0, 4, 4, 2, 0, 2]
 ```
 
 ## Active
@@ -23,18 +23,16 @@ xychart-beta
 | 5 | **TON NFT Explorer** |  | [Telegram](https://t.me/this_is_ton) [Site](https://explorer.tonnft.tools) [Gram News](https://gramnews.org/apps/ton-nft-explorer) | 2022-01-07 |  |  |
 | 6 | **TonScan.info** |  | [Site](https://tonscan.info) | 2022-03-14 |  |  |
 
-<details><summary><b>Quiet: 9</b></summary>
+<details><summary><b>Quiet: 7</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 7 | **3xpl** |  | [X](https://x.com/3xplcom) [Site](https://3xpl.com/ton) [GitHub](https://github.com/3xplcom) [Gram News](https://gramnews.org/apps/3xpl) | 2026-04-28 |  |  |
 | 8 | **Dton** |  | [Site](https://dton.io) [GitHub](https://github.com/StalinFoundation) [Gram News](https://gramnews.org/apps/dton) | 2023-08-09 |  |  |
 | 9 | **G-LABS Explorer** | NFT explorer bot by G-LABS | [Bot](https://t.me/glabs_explorer_bot) | 2022-05-05 |  |  |
-| 10 | **M3TA** | Just Web3 data made simple, enabled by AI | [Telegram](https://t.me/m3ta_analytics) [X](https://x.com/M3TA_Analytics) | 2021-11-09 |  |  |
-| 11 | **OKX Explorer** |  | [Telegram](https://t.me/OKXOfficial_English) [X](https://x.com/okxexplorer) [Site](https://www.okx.com/web3/explorer) [Gram News](https://gramnews.org/apps/okx-explorer) | 2024-07-15 |  | since 2022-01 |
-| 12 | **TON Atlas** |  | [Bot](https://t.me/tonatlasbot) [Site](https://8xr.io) [Gram News](https://gramnews.org/apps/tonatlasbot) | 2024-07-12 |  |  |
-| 13 | **TON Moon Explorer** | Explorer and NFT bot on TON | [Bot](https://t.me/tonmoonbot) | 2022-01-23 |  |  |
-| 14 | **Whales Explorer** |  | [Site](https://tonwhales.com/explorer) [GitHub](https://github.com/tonwhales) [Gram News](https://gramnews.org/apps/whales-explorer) | 2024-10-22 |  |  |
-| 15 | **Tenere Explorer** | Audiatur et altera pars. Universal token The Open Network. Max Supply 210,000,000 | [Telegram](https://t.me/teneretoken) [X](https://x.com/Tenerecash) | 2022-12-30 |  |  |
+| 10 | **Scaleton** |  | [Site](https://explorer.scaleton.io/connect) [Gram News](https://gramnews.org/apps/scaleton) | 2023-08 |  |  |
+| 11 | **TON Atlas** |  | [Bot](https://t.me/tonatlasbot) [Site](https://8xr.io) [Gram News](https://gramnews.org/apps/tonatlasbot) | 2024-07-12 |  |  |
+| 12 | **TON Moon Explorer** | Explorer and NFT bot on TON | [Bot](https://t.me/tonmoonbot) | 2022-01-23 |  |  |
+| 13 | **Whales Explorer** |  | [Site](https://tonwhales.com/explorer) [GitHub](https://github.com/tonwhales) [Gram News](https://gramnews.org/apps/whales-explorer) | 2024-10-22 |  |  |
 
 </details>

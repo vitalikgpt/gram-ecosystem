@@ -131,6 +131,7 @@ ABOUT = {
     "link-fixes": "every link decision with its evidence",
     "merged": "rows folded into the row that shares their Telegram account",
     "usernames": "other usernames of the same Telegram accounts, matched by numeric id",
+    "category-fixes": "every category change with the reason, and rows removed as not projects",
     "unresolved": "names from old ecosystem maps not tied to a project yet",
 }
 
@@ -454,6 +455,7 @@ def build():
         "| [data/categories.json](data/categories.json) | categories in display order |",
         f"| [data/link-fixes.csv](data/link-fixes.csv) | {len(fixes):,} link decisions (replaced, removed, confirmed, marked down) with evidence |",
         "| [datapackage.json](datapackage.json) | the [Frictionless](https://frictionlessdata.io) descriptor: every file and column, for tools that load typed tables |",
+        f"| [data/category-fixes.csv](data/category-fixes.csv) | {sum(1 for _ in open('data/category-fixes.csv')) - 1 if os.path.exists('data/category-fixes.csv') else 0} category decisions with the reason: moves, and rows removed as not projects |",
         f"| [data/usernames.csv](data/usernames.csv) | {sum(1 for _ in open('data/usernames.csv')) - 1 if os.path.exists('data/usernames.csv') else 0} other usernames of the same accounts, by numeric id: second names, renames, names now held by someone else |",
         f"| [data/merged.csv](data/merged.csv) | {sum(1 for _ in open('data/merged.csv')) - 1 if os.path.exists('data/merged.csv') else 0} rows folded into the row that shares their Telegram account (the numeric id), with the key |",
         f"| [data/unresolved.csv](data/unresolved.csv) | {len(unresolved)} names from old maps not tied to a project yet |",

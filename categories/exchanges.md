@@ -2,14 +2,14 @@
 
 # CEX
 
-**86 projects: 50 active, 34 quiet, 2 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/exchanges.csv).
+**87 projects: 50 active, 35 quiet, 2 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/exchanges.csv).
 
 ```mermaid
 %%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
 xychart-beta
   title "Launched per year"
   x-axis ["2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
-  bar [4, 1, 3, 7, 14, 8, 26, 9, 12]
+  bar [4, 1, 3, 7, 14, 8, 27, 9, 12]
 ```
 
 ## Active
@@ -67,7 +67,7 @@ xychart-beta
 | 49 | **SwissBorg** | Making crypto wealth management accessible to everyone | [Telegram](https://t.me/swissborg) [X](https://x.com/swissborg) [Site](https://swissborg.com) | 2022-11-18 |  | yes |
 | 50 | **WEEX** | WEEX is a global cryptocurrency trading platform founded in 2018, serving users in 150+ countries. It offers spot and futures trading across thousands of pairs, including futures markets with leverage | [Telegram](https://t.me/weexglobal) [X](https://x.com/WEEX_Official) [Site](https://www.weex.com/) | 2026-01-02 |  |  |
 
-<details><summary><b>Quiet: 34</b></summary>
+<details><summary><b>Quiet: 35</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
@@ -95,8 +95,9 @@ xychart-beta
 | 72 | **Kraken** | Official community chat of the Kraken crypto exchange | [Telegram](https://t.me/kraken_exchange_official) | 2025-12-18 |  |  |
 | 73 | **KuCoin GemSpace** | KuCoin hub for new listings and promotions | [Telegram](https://t.me/kucoingemspace) | 2024-09-07 |  |  |
 | 74 | **KuCoin TON** | Official KuCoin group for TON events | [Telegram](https://t.me/kucointongroup) | 2022-12-21 |  |  |
-| 76 | **Matrixport** |  | [Site](https://www.matrixport.com/) [Gram News](https://gramnews.org/apps/matrixport) | 2019-05-22 |  |  |
-| 77 | **NovaDax** |  | [Telegram](https://t.me/livehub_to) [X](https://x.com/livehub_to) [Site](https://www.novadax.com.br/product/orderbook?pair=TON_BRL) [Gram News](https://gramnews.org/apps/novadax) | 2024-12-28 |  |  |
+| 75 | **Matrixport** |  | [Site](https://www.matrixport.com/) [Gram News](https://gramnews.org/apps/matrixport) | 2019-05-22 |  |  |
+| 76 | **NovaDax** |  | [Telegram](https://t.me/livehub_to) [X](https://x.com/livehub_to) [Site](https://www.novadax.com.br/product/orderbook?pair=TON_BRL) [Gram News](https://gramnews.org/apps/novadax) | 2024-12-28 |  |  |
+| 77 | **OKX Explorer** |  | [Telegram](https://t.me/OKXOfficial_English) [X](https://x.com/okxexplorer) [Site](https://www.okx.com/web3/explorer) [Gram News](https://gramnews.org/apps/okx-explorer) | 2024-07-15 |  | since 2022-01 |
 | 78 | **OSL Exchange** | OSL Digital Securities is Hong Kong’s first and most established SFC-licensed and insured digital asset exchange. Operating since 2018, the platform provides institutional-grade digital asset services | [X](https://x.com/OSL_HK) [Site](https://www.osl.com/en) | 2026-01-13 |  |  |
 | 79 | **Phemex** | Official chat of the Phemex crypto exchange | [Telegram](https://t.me/phemex_en) | 2022-10-25 |  | yes |
 | 80 | **Swapzone** | Cryptocurrency exchange deal aggregator | [Telegram](https://t.me/swapzoneio) | 2021-05-19 |  |  |
@@ -112,7 +113,7 @@ xychart-beta
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 75 | **LBank Exchange** |  | Site (down) [Gram News](https://gramnews.org/apps/lbank-exchange) | 2024-05-15 |  |  |
-| 86 | **Neocrypto** |  | [Site](https://neocrypto.net) | 2023-07 |  |  |
+| 86 | **LBank Exchange** |  | Site (down) [Gram News](https://gramnews.org/apps/lbank-exchange) | 2024-05-15 |  |  |
+| 87 | **Neocrypto** |  | [Site](https://neocrypto.net) | 2023-07 |  |  |
 
 </details>

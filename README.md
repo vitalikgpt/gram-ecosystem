@@ -2,9 +2,9 @@
 
 <img src="assets/cover.jpg" alt="Gram Ecosystem: TON and Telegram projects" width="100%">
 
-<img src="https://img.shields.io/badge/projects-4%2C558-5aa9ff?style=flat-square" alt="projects: 4,558"> <img src="https://img.shields.io/badge/active-1%2C021-4cd08a?style=flat-square" alt="active: 1,021"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/channels-1%2C210-5aa9ff?style=flat-square" alt="channels: 1,210"> <img src="https://img.shields.io/badge/links%20fixed-2%2C145-f2b84b?style=flat-square" alt="links fixed: 2,145"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
+<img src="https://img.shields.io/badge/projects-4%2C548-5aa9ff?style=flat-square" alt="projects: 4,548"> <img src="https://img.shields.io/badge/active-1%2C019-4cd08a?style=flat-square" alt="active: 1,019"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/channels-1%2C210-5aa9ff?style=flat-square" alt="channels: 1,210"> <img src="https://img.shields.io/badge/links%20fixed-2%2C145-f2b84b?style=flat-square" alt="links fixed: 2,145"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
 
-**Every TON and Telegram project we could verify: 4,558 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 9,435 links are checked every week; 2,145 wrong ones have been fixed so far, each with its evidence.
+**Every TON and Telegram project we could verify: 4,548 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 9,412 links are checked every week; 2,145 wrong ones have been fixed so far, each with its evidence.
 
 Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, build on it.
 
@@ -20,38 +20,38 @@ Each category has its own page with every project, active ones first.
 
 | Category | Active | All | Notable projects | Table |
 | --- | ---: | ---: | --- | --- |
-| [CEX](categories/exchanges.md) | 50 | 86 | [Binance](https://t.me/binance_announcements), [Bybit](https://t.me/bybit_announcements), [OKX](https://t.me/okxannouncements), [Bitget](https://t.me/bitget_announcements) | [table](data/by-category/exchanges.csv) |
-| [Custodial](categories/custodial.md) | 5 | 5 | [@Walt](https://t.me/walt_news), [@Send](https://t.me/cryptobotru), [@XRocket](https://t.me/xrocketnews), [Spell Wallet](https://t.me/spell_wallet) | [table](data/by-category/custodial.csv) |
-| [Wallets](categories/wallets.md) | 29 | 119 | [Gram Wallet](https://gramwallet.io), [Keeper](https://t.me/keeper_en), [My Wallet](https://t.me/mywalleteng), [Tonhub](https://t.me/tonhub) | [table](data/by-category/wallets.csv) |
-| [DEX](categories/dex.md) | 16 | 87 | [STON.fi](https://t.me/stonfidex), [DeDust](https://t.me/dedust_en), [swap.coffee](https://t.me/swap_coffee), [TONCO](https://t.me/tonco_io) | [table](data/by-category/dex.csv) |
-| [Payments](categories/payments.md) | 28 | 90 | [Wallet Pay](https://t.me/walletpayofficial), [@Tribute](https://t.me/tributenewsen), [Cryptomus](https://t.me/cryptomus), [NOWPayments](https://nowpayments.io/) | [table](data/by-category/payments.csv) |
-| [On-ramp](categories/onramp.md) | 9 | 31 | [MoonPay](https://www.moonpay.com), [Changelly](https://t.me/changelly), [ChangeNOW](https://t.me/changenow_chat), [Alchemy Pay](https://alchemypay.org) | [table](data/by-category/onramp.csv) |
-| [Infra](categories/infra.md) | 26 | 61 | [Telegram](https://t.me/telegram), [Fragment](https://fragment.com), [TON Core](https://t.me/toncore), [Acton](https://t.me/theopentooling) | [table](data/by-category/infra.csv) |
-| [Developer tools](categories/devtools.md) | 19 | 112 | [Telegram Bot API News](https://t.me/botnews), [Durev Bot](https://t.me/poveldurev), [Telegram Crawler](https://t.me/tgcrawl), [Tonutils](https://t.me/tonutilsnews) | [table](data/by-category/devtools.csv) |
-| [Analytics](categories/analytics.md) | 35 | 158 | [Lagus research](https://t.me/lagus_research), [Dune](https://dune.com), [CoinGecko](https://www.coingecko.com), [CoinMarketCap](https://t.me/coinmarketcapannouncements) | [table](data/by-category/analytics.csv) |
-| [Explorers](categories/explorers.md) | 6 | 15 | [Tonscan.org](https://t.me/catchain), [Tonviewer](https://tonviewer.com), [Tonscan.com](https://tonscan.com), [Actonscan](https://actonscan.com) | [table](data/by-category/explorers.csv) |
-| [Security](categories/audit.md) | 11 | 38 | [Hacken](https://t.me/hackenai), [CertiK](https://t.me/certikcommunity), [SlowMist](https://www.slowmist.com), [Trail of Bits](https://www.trailofbits.com) | [table](data/by-category/audit.csv) |
-| [Bridges](categories/bridges.md) | 11 | 24 | [Symbiosis](https://t.me/symbiosis_announcements), [LayerZero](https://layerzero.network), [Stargate](https://stargate.finance), [Rubic](https://t.me/cryptorubic) | [table](data/by-category/bridges.csv) |
-| [Staking](categories/staking.md) | 15 | 50 | [Hipo](https://t.me/hipofinance), [Tonstakers](https://t.me/thetonstakers), [Stakee](https://t.me/stakeeru), [KTON](https://t.me/kton_channel) | [table](data/by-category/staking.csv) |
-| [Lending](categories/lending.md) | 10 | 20 | [EVAA Protocol](https://t.me/evaaprotocol), [TONLender](https://t.me/tonlender_ru), [DAOLama](https://t.me/daolama), [GTC (Gift To Credit)](https://t.me/gifttocredit_new_age) | [table](data/by-category/lending.csv) |
-| [Perp DEX](categories/perps.md) | 7 | 13 | [Storm Trade](https://t.me/storm_trade_news), [Tradoor](https://t.me/tradoor_io), [WenLong](https://t.me/wenlongnews), [Hyperliquid](https://hyperliquid.xyz) | [table](data/by-category/perps.csv) |
-| [RWA](categories/rwa.md) | 4 | 13 | [XAUt](https://t.me/tether), [Stable Metal](https://t.me/stablemetal), [USDT](https://tether.to), [Ethena USDe](https://t.me/ethena_labs) | [table](data/by-category/rwa.csv) |
+| [CEX](categories/exchanges.md) | 50 | 87 | [Binance](https://t.me/binance_announcements), [Bybit](https://t.me/bybit_announcements), [OKX](https://t.me/okxannouncements), [Bitget](https://t.me/bitget_announcements) | [table](data/by-category/exchanges.csv) |
+| [Custodial](categories/custodial.md) | 5 | 6 | [@Walt](https://t.me/walt_news), [@Send](https://t.me/cryptobotru), [@XRocket](https://t.me/xrocketnews), [Spell Wallet](https://t.me/spell_wallet) | [table](data/by-category/custodial.csv) |
+| [Wallets](categories/wallets.md) | 30 | 111 | [Gram Wallet](https://gramwallet.io), [Keeper](https://t.me/keeper_en), [My Wallet](https://t.me/mywalleteng), [Tonhub](https://t.me/tonhub) | [table](data/by-category/wallets.csv) |
+| [DEX](categories/dex.md) | 17 | 73 | [STON.fi](https://t.me/stonfidex), [DeDust](https://t.me/dedust_en), [swap.coffee](https://t.me/swap_coffee), [TONCO](https://t.me/tonco_io) | [table](data/by-category/dex.csv) |
+| [Payments](categories/payments.md) | 18 | 68 | [Wallet Pay](https://t.me/walletpayofficial), [@Tribute](https://t.me/tributenewsen), [Cryptomus](https://t.me/cryptomus), [NOWPayments](https://nowpayments.io/) | [table](data/by-category/payments.csv) |
+| [On-ramp](categories/onramp.md) | 12 | 46 | [MoonPay](https://www.moonpay.com), [Changelly](https://t.me/changelly), [ChangeNOW](https://t.me/changenow_chat), [Alchemy Pay](https://alchemypay.org) | [table](data/by-category/onramp.csv) |
+| [Infra](categories/infra.md) | 29 | 72 | [Telegram](https://t.me/telegram), [Fragment](https://fragment.com), [TON Core](https://t.me/toncore), [Acton](https://t.me/theopentooling) | [table](data/by-category/infra.csv) |
+| [Developer tools](categories/devtools.md) | 17 | 100 | [Telegram Bot API News](https://t.me/botnews), [Telegram Crawler](https://t.me/tgcrawl), [Tonutils](https://t.me/tonutilsnews), [Chainbase Network](https://t.me/chainbasenetwork) | [table](data/by-category/devtools.csv) |
+| [Analytics](categories/analytics.md) | 35 | 160 | [Lagus research](https://t.me/lagus_research), [Dune](https://dune.com), [CoinGecko](https://www.coingecko.com), [CoinMarketCap](https://t.me/coinmarketcapannouncements) | [table](data/by-category/analytics.csv) |
+| [Explorers](categories/explorers.md) | 6 | 13 | [Tonscan.org](https://t.me/catchain), [Tonviewer](https://tonviewer.com), [Tonscan.com](https://tonscan.com), [Actonscan](https://actonscan.com) | [table](data/by-category/explorers.csv) |
+| [Security](categories/audit.md) | 11 | 40 | [Hacken](https://t.me/hackenai), [CertiK](https://t.me/certikcommunity), [SlowMist](https://www.slowmist.com), [Trail of Bits](https://www.trailofbits.com) | [table](data/by-category/audit.csv) |
+| [Bridges](categories/bridges.md) | 10 | 21 | [Symbiosis](https://t.me/symbiosis_announcements), [LayerZero](https://layerzero.network), [Stargate](https://stargate.finance), [Rubic](https://t.me/cryptorubic) | [table](data/by-category/bridges.csv) |
+| [Staking](categories/staking.md) | 14 | 41 | [Hipo](https://t.me/hipofinance), [Tonstakers](https://t.me/thetonstakers), [Stakee](https://t.me/stakeeru), [KTON](https://t.me/kton_channel) | [table](data/by-category/staking.csv) |
+| [Lending](categories/lending.md) | 9 | 19 | [EVAA Protocol](https://t.me/evaaprotocol), [TONLender](https://t.me/tonlender_ru), [DAOLama](https://t.me/daolama), [GTC (Gift To Credit)](https://t.me/gifttocredit_new_age) | [table](data/by-category/lending.csv) |
+| [Perp DEX](categories/perps.md) | 9 | 20 | [Storm Trade](https://t.me/storm_trade_news), [Tradoor](https://t.me/tradoor_io), [WenLong](https://t.me/wenlongnews), [Hyperliquid](https://hyperliquid.xyz) | [table](data/by-category/perps.csv) |
+| [RWA](categories/rwa.md) | 8 | 23 | [XAUt](https://t.me/tether), [Stable Metal](https://t.me/stablemetal), [USDT](https://tether.to), [Ethena USDe](https://t.me/ethena_labs) | [table](data/by-category/rwa.csv) |
 | [NASDAQ](categories/nasdaq.md) | 2 | 2 | [TON Strategy](https://tonstrat.com), [Alpha Compute](https://alphacompute.com) | [table](data/by-category/nasdaq.csv) |
-| [Catalogues](categories/catalogs.md) | 7 | 17 | [Gram News](https://t.me/gramnews), [TON App](https://t.me/tonapp), [DYOR.io](https://t.me/dyorninja), [ton.website](https://t.me/mtproxyfreedom) | [table](data/by-category/catalogs.csv) |
+| [Catalogues](categories/catalogs.md) | 9 | 24 | [Gram News](https://t.me/gramnews), [TON App](https://t.me/tonapp), [DYOR.io](https://t.me/dyorninja), [ton.website](https://t.me/mtproxyfreedom) | [table](data/by-category/catalogs.csv) |
 | [Privacy](categories/vpn.md) | 11 | 42 | [TonMobile eSIM](https://t.me/tonmobile_en), [SnapSIM](https://t.me/snapsimbot), [Durev VPN](https://t.me/durevvpn), [Resistance Tools](https://t.me/resistancetools) | [table](data/by-category/vpn.csv) |
-| [NFT collections](categories/nftcaps.md) | 16 | 88 | [Anonymous Numbers](https://fragment.com/gifts), [Plush Pepe](https://t.me/plushpepe_coin), [Telegram Usernames](https://fragment.com/gifts), [Scared Cat](https://fragment.com/gifts) | [table](data/by-category/nftcaps.csv) |
-| [Tokens](categories/tokens.md) | 57 | 231 | [GROYP](https://t.me/groyp), [UTYA](https://t.me/MagicVipClub), [CHERRY](https://t.me/HotCherryTG), [BabyDoge](https://t.me/babydogecoin) | [table](data/by-category/tokens.csv) |
-| [NFT & Gifts](categories/nftmarkets.md) | 87 | 270 | [Getgems](https://t.me/getgems), [Tonnel](https://t.me/tonnel_en), [@MRKT](https://t.me/mrkt), [Marketapp](https://t.me/nfttonificatorbot) | [table](data/by-category/nftmarkets.csv) |
-| [Memepads](categories/launchpads.md) | 21 | 104 | [TopBlast](https://t.me/topblastdotlol), [Meridian](https://t.me/meridian_wtf), [@Blum](https://t.me/blumcrypto_memepad), [BigPump](https://t.me/bigpumphub) | [table](data/by-category/launchpads.csv) |
-| [Trading bots](categories/trading.md) | 21 | 73 | [@Trade](https://t.me/gifttradeservise), [PocketFi](https://t.me/pocketfi), [Maestro](https://t.me/maestrosniperupdates), [Upscale](https://t.me/upscale_news_en) | [table](data/by-category/trading.csv) |
-| [Social](categories/social.md) | 23 | 135 | [@Mira](https://t.me/miramedia_en), [TON Dating](https://t.me/tondatingchannel), [@Major](https://t.me/major), [@IPredict](https://t.me/ipredict) | [table](data/by-category/social.csv) |
-| [AI](categories/ai.md) | 17 | 67 | [AI Lab](https://t.me/ailab_robot), [MOONBERG AI BOT](https://t.me/moonbergai), [Spru](https://t.me/spru_agent_bot), [AgentBook](https://t.me/agentbookbot) | [table](data/by-category/ai.csv) |
-| [Tools](categories/tools.md) | 35 | 184 | [Randomize Bot](https://t.me/randomized), [RandomGodBot](https://t.me/randomgod), [XDAO](https://t.me/xdaoapp), [Random Beast](https://t.me/randombeastnews) | [table](data/by-category/tools.csv) |
-| [Shopping](categories/shopping.md) | 7 | 47 | [Indigo Gift](https://t.me/indigogif), [Bikini Stars](https://t.me/bikininft), [iCryptoCheck](https://t.me/iCryptoCheck), [Uquid Shop](https://t.me/uquidshop) | [table](data/by-category/shopping.csv) |
-| [Education](categories/education.md) | 5 | 36 | [TonNewbie](https://t.me/tonnewbie), [Be Unstoppable](https://t.me/unstoppable_announcements), [iQuizMaster](https://t.me/iquizmaster_bot), [BehLand](https://t.me/BehLand_Official) | [table](data/by-category/education.csv) |
-| [Games](categories/games.md) | 131 | 1156 | [Dogs](https://t.me/dogs), [CITY Holder](https://t.me/city_holder), [Catizen](https://t.me/catizenann), [Gatto](https://t.me/gatto_game) | [table](data/by-category/games.csv) |
-| [Farming](categories/farming.md) | 243 | 910 | [Boinkers](https://t.me/boinkersnews), [Time Farm](https://t.me/timefarmchannel), [Agent 301](https://t.me/app301), [Hrum](https://t.me/hrumfam) | [table](data/by-category/farming.csv) |
-| [Casino](categories/gambling.md) | 50 | 219 | [VIRUS GAME](https://t.me/omicron), [Epic Gift](https://t.me/epic_gift_official), [Easy Gift](https://t.me/easygiftnews), [Gorilla Case](https://t.me/gorilla_news) | [table](data/by-category/gambling.csv) |
+| [NFT collections](categories/nftcaps.md) | 23 | 146 | [Anonymous Numbers](https://fragment.com/gifts), [Plush Pepe](https://t.me/plushpepe_coin), [Telegram Usernames](https://fragment.com/gifts), [Scared Cat](https://fragment.com/gifts) | [table](data/by-category/nftcaps.csv) |
+| [Tokens](categories/tokens.md) | 56 | 259 | [GROYP](https://t.me/groyp), [UTYA](https://t.me/MagicVipClub), [CHERRY](https://t.me/HotCherryTG), [BabyDoge](https://t.me/babydogecoin) | [table](data/by-category/tokens.csv) |
+| [NFT & Gifts](categories/nftmarkets.md) | 50 | 153 | [Getgems](https://t.me/getgems), [Tonnel](https://t.me/tonnel_en), [@MRKT](https://t.me/mrkt), [Marketapp](https://t.me/nfttonificatorbot) | [table](data/by-category/nftmarkets.csv) |
+| [Memepads](categories/launchpads.md) | 18 | 83 | [TopBlast](https://t.me/topblastdotlol), [Meridian](https://t.me/meridian_wtf), [@Blum](https://t.me/blumcrypto_memepad), [BigPump](https://t.me/bigpumphub) | [table](data/by-category/launchpads.csv) |
+| [Trading bots](categories/trading.md) | 22 | 87 | [@Trade](https://t.me/gifttradeservise), [PocketFi](https://t.me/pocketfi), [Maestro](https://t.me/maestrosniperupdates), [Upscale](https://t.me/upscale_news_en) | [table](data/by-category/trading.csv) |
+| [Social](categories/social.md) | 19 | 126 | [@Mira](https://t.me/miramedia_en), [TON Dating](https://t.me/tondatingchannel), [@Major](https://t.me/major), [@IPredict](https://t.me/ipredict) | [table](data/by-category/social.csv) |
+| [AI](categories/ai.md) | 15 | 71 | [AI Lab](https://t.me/ailab_robot), [MOONBERG AI BOT](https://t.me/moonbergai), [Spru](https://t.me/spru_agent_bot), [AgentBook](https://t.me/agentbookbot) | [table](data/by-category/ai.csv) |
+| [Tools](categories/tools.md) | 39 | 183 | [Randomize Bot](https://t.me/randomized), [RandomGodBot](https://t.me/randomgod), [XDAO](https://t.me/xdaoapp), [Random Beast](https://t.me/randombeastnews) | [table](data/by-category/tools.csv) |
+| [Shopping](categories/shopping.md) | 23 | 82 | [StarsovBot](https://t.me/starsovnews), [Indigo Gift](https://t.me/indigogif), [Mops Stars](https://t.me/mopsstarsbot), [Boogie](https://t.me/boo_gifts) | [table](data/by-category/shopping.csv) |
+| [Education](categories/education.md) | 3 | 22 | [TonNewbie](https://t.me/tonnewbie), [BehLand](https://t.me/BehLand_Official), [Rocketta](https://t.me/calm_me_bot) | [table](data/by-category/education.csv) |
+| [Games](categories/games.md) | 132 | 1133 | [Dogs](https://t.me/dogs), [CITY Holder](https://t.me/city_holder), [Catizen](https://t.me/catizenann), [Gatto](https://t.me/gatto_game) | [table](data/by-category/games.csv) |
+| [Farming](categories/farming.md) | 247 | 933 | [Boinkers](https://t.me/boinkersnews), [Time Farm](https://t.me/timefarmchannel), [Agent 301](https://t.me/app301), [Hrum](https://t.me/hrumfam) | [table](data/by-category/farming.csv) |
+| [Casino](categories/gambling.md) | 63 | 247 | [VIRUS GAME](https://t.me/omicron), [Epic Gift](https://t.me/epic_gift_official), [Easy Gift](https://t.me/easygiftnews), [Gorilla Case](https://t.me/gorilla_news) | [table](data/by-category/gambling.csv) |
 | [Studios](categories/studios.md) | 5 | 23 | [Open Builders](https://t.me/builders), [The Open Platform](https://t.me/topco), [GAMEE](https://t.me/gameechannel), [PlayDeck](https://t.me/playdeck_en) | [table](data/by-category/studios.csv) |
 | [Funds](categories/funds.md) | 1 | 19 | [TON Ventures](https://t.me/ton_ventures), [TVM Ventures](https://t.me/tvmventures), [TONcoin.Fund](https://toncoin.fund), [Animoca Brands](https://www.animocabrands.com) | [table](data/by-category/funds.csv) |
 | [Accelerators](categories/accelerators.md) | 1 | 13 | [TON Accelerator](https://t.me/accelerator_ton), [Gaming.tg](https://t.me/tggamingaccelerator), Telegram Growth Hub, TON Nest | [table](data/by-category/accelerators.csv) |
@@ -59,16 +59,16 @@ Each category has its own page with every project, active ones first.
 ```mermaid
 pie showData
   title What the catalogue is made of
-  "Games" : 1156
-  "Farming" : 910
-  "NFT & Gifts" : 270
-  "Tokens" : 231
-  "Casino" : 219
-  "Tools" : 184
-  "Analytics" : 158
-  "Social" : 135
-  "Wallets" : 119
-  "Other 26 categories" : 1176
+  "Games" : 1133
+  "Farming" : 933
+  "Tokens" : 259
+  "Casino" : 247
+  "Tools" : 183
+  "Analytics" : 160
+  "NFT & Gifts" : 153
+  "NFT collections" : 146
+  "Social" : 126
+  "Other 26 categories" : 1208
 ```
 
 ## Largest projects
@@ -92,19 +92,19 @@ By reach: post views on the project's own channel from July to September 2026, o
 
 ## Launches by quarter
 
-When the 4,348 projects with a known launch month started or came to TON. The busiest quarter was Q2 2024 with 731.
+When the 4,339 projects with a known launch month started or came to TON. The busiest quarter was Q2 2024 with 730.
 
 ```mermaid
 %%{init: {"xyChart": {"width": 1000, "height": 300}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
 xychart-beta
   x-axis ["21Q1", "21Q2", "21Q3", "21Q4", "22Q1", "22Q2", "22Q3", "22Q4", "23Q1", "23Q2", "23Q3", "23Q4", "24Q1", "24Q2", "24Q3", "24Q4", "25Q1", "25Q2", "25Q3", "25Q4", "26Q1", "26Q2", "26Q3"]
   y-axis "Projects launched"
-  bar [8, 8, 17, 48, 75, 94, 73, 96, 75, 116, 116, 97, 298, 731, 670, 433, 256, 188, 156, 168, 156, 218, 251]
+  bar [8, 8, 17, 47, 75, 94, 73, 96, 75, 116, 115, 97, 296, 730, 668, 433, 255, 187, 156, 168, 156, 218, 251]
 ```
 
 ## Verified on Telegram
 
-186 projects carry Telegram's badge. For 166 of them the Web Archive shows when it appeared; the largest of each year:
+185 projects carry Telegram's badge. For 166 of them the Web Archive shows when it appeared; the largest of each year:
 
 ```mermaid
 timeline
@@ -119,19 +119,19 @@ timeline
 
 ## Neighbours on Telegram
 
-Whom Telegram itself puts in *similar channels* and *similar bots* next to the largest projects, in its order. It picks them by overlapping audiences, so this is who shares the crowd, not who sends traffic. All 17,957 pairs are in [data/similar.csv](data/similar.csv) (snapshot of June 2026).
+Whom Telegram itself puts in *similar channels* and *similar bots* next to the largest projects, in its order. It picks them by overlapping audiences, so this is who shares the crowd, not who sends traffic. All 17,966 pairs are in [data/similar.csv](data/similar.csv) (snapshot of June 2026).
 
 | Project | Shown next to it |
 | --- | --- |
 | [MemeFi Coin](https://t.me/memeficlub) | [RoketoCoin Lunar Program](https://t.me/roketo_lunar_bot), [PixelTap by Pixelverse](https://t.me/pixelverse_xyz), [@Major](https://t.me/major), [DreamCoin](https://t.me/dreamcoinofficial_bot) |
-| [Binance](https://t.me/binance_announcements) | [NOT](https://t.me/notcoin), [Hamster Kombat (HMSTR)](https://t.me/hamster_kombat), [Catizen (CATI)](https://t.me/CatizenAnn), [Tomarket App](https://t.me/tomarket_ai) |
+| [Binance](https://t.me/binance_announcements) | [NOT](https://t.me/notcoin), [Hamster Kombat (HMSTR)](https://t.me/hamster_kombat), [Catizen](https://t.me/catizenann), [Tomarket App](https://t.me/tomarket_ai) |
 | [Boinkers](https://t.me/boinkersnews) | [$BOOM](https://t.me/boomloudcoin), [Trump's Empire](https://t.me/trumpsempirebot), [Yescoin](https://t.me/theyescoin), [Save Question](https://t.me/savequestion_bot) |
 | [Time Farm](https://t.me/timefarmchannel) | [Dogs](https://t.me/dogs), [BrainGames](https://t.me/caspertma), [W3BFLIX](https://t.me/w3bflixbot), [Yescoin](https://t.me/theyescoin) |
 | [Dogs](https://t.me/dogs) | [Cats](https://t.me/cats_housewtf), [Notcoin](https://t.me/notcoin), [fomo_hash](https://t.me/fomohash), [Sticker Pack](https://t.me/sticker_community) |
-| [Tonnel](https://t.me/tonnel_en) | [Sticker Pack](https://t.me/sticker_community), [@XRocket](https://t.me/xrocketnews), [Megamine](https://t.me/megaminetg_bot), [TokenTable](https://t.me/tokentable) |
+| [Tonnel](https://t.me/tonnel_en) | [Sticker Pack](https://t.me/sticker_community), [@XRocket](https://t.me/xrocketnews), [Megamine](https://t.me/megaminetg_bot), [Marketapp](https://t.me/nfttonificatorbot) |
 | [Agent 301](https://t.me/app301) | [Dogs](https://t.me/dogs), [GOATS (GOATS)](https://t.me/realgoats_channel), [Major Community](https://t.me/majors), [Hamster Kombat (HMSTR)](https://t.me/hamster_kombat) |
 | [CEXIO Power Tap](https://t.me/cexio_announcements) | [Major Community](https://t.me/majors), [Simple Coin](https://t.me/smpl_app), [Catapult Extreme](https://t.me/catapult_extreme), [Dotcoin](https://t.me/dotcoin_help_support) |
-| [Catizen](https://t.me/catizenann) | [Cattea](https://t.me/CatteaNews), [Vanilla Finance](https://t.me/vanilla_finance_bot), [@Major](https://t.me/major), [RiverLand](https://t.me/riverlandgamenews) |
+| [Catizen](https://t.me/catizenann) | [Yescoin](https://t.me/theyescoin), [Cattea](https://t.me/CatteaNews), [Tomarket App](https://t.me/tomarket_ai), [Vanilla Finance](https://t.me/vanilla_finance_bot) |
 | [HOT Wallet](https://t.me/hotonnear) | [Wave Wallet](https://t.me/wave_announcements), [SEED](https://t.me/seedupdates), [PitchTalk](https://t.me/pitchtalk_bot), [Yescoin](https://t.me/theyescoin) |
 
 ## Other usernames
@@ -322,16 +322,17 @@ The `sources` column lists every place a project was found:
 
 | File | What is in it |
 | --- | --- |
-| [data/projects.csv](data/projects.csv) | 4,558 projects, one per row |
+| [data/projects.csv](data/projects.csv) | 4,548 projects, one per row |
 | [data/channels.csv](data/channels.csv) | 1,210 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
 | [data/categories.json](data/categories.json) | categories in display order |
 | [data/link-fixes.csv](data/link-fixes.csv) | 2,235 link decisions (replaced, removed, confirmed, marked down) with evidence |
 | [datapackage.json](datapackage.json) | the [Frictionless](https://frictionlessdata.io) descriptor: every file and column, for tools that load typed tables |
+| [data/category-fixes.csv](data/category-fixes.csv) | 544 category decisions with the reason: moves, and rows removed as not projects |
 | [data/usernames.csv](data/usernames.csv) | 641 other usernames of the same accounts, by numeric id: second names, renames, names now held by someone else |
-| [data/merged.csv](data/merged.csv) | 34 rows folded into the row that shares their Telegram account (the numeric id), with the key |
+| [data/merged.csv](data/merged.csv) | 35 rows folded into the row that shares their Telegram account (the numeric id), with the key |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
 | [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |
-| [data/similar.csv](data/similar.csv) | 17,957 pairs: whom Telegram shows in similar channels or similar bots next to an entity here, with the position (June 2026); audiences overlap, it is not traffic |
+| [data/similar.csv](data/similar.csv) | 17,966 pairs: whom Telegram shows in similar channels or similar bots next to an entity here, with the position (June 2026); audiences overlap, it is not traffic |
 | [reports/link-check.md](reports/link-check.md) | 770 links that failed the last check |
 
 <details><summary><b>Columns of projects.csv</b></summary>

@@ -2,14 +2,14 @@
 
 # Analytics
 
-**158 projects: 35 active, 118 quiet, 5 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/analytics.csv).
+**160 projects: 35 active, 119 quiet, 6 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/analytics.csv).
 
 ```mermaid
 %%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
 xychart-beta
   title "Launched per year"
   x-axis ["2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
-  bar [1, 4, 2, 5, 11, 24, 61, 30, 13]
+  bar [1, 5, 2, 5, 11, 24, 60, 29, 17]
 ```
 
 ## Active
@@ -27,164 +27,166 @@ xychart-beta
 | 9 | **see.tg** |  | [Site](https://see.tg) | 2025-11-26 |  |  |
 | 10 | **TGStat** |  | [Telegram](https://t.me/tgstat) [Site](https://tgstat.com) | 2017-07-08 |  |  |
 | 11 | **New Listings Feed** | Snappiest digital asset listings clearinghouse. WebSocket: Feed in your group: X: x.com/NewListingsFeed Also: Deli | [Telegram](https://t.me/newlistingsfeed) [Bot](https://t.me/newlistingsfeed_bot) [X](https://x.com/NewListingsFeed) [Site](https://newlistings.pro) | 2024-03-16 |  |  |
-| 12 | **CryptoWhale** | The official channel for crypto and bitcoin price action, social media analytics, news, and more! | [Telegram](https://t.me/whalebotalerts) [Bot](https://t.me/cryptowhalebot) [X](https://x.com/icebergy) [Gram News](https://gramnews.org/apps/cryptowhale) | 2019-05-27 | 49K |  |
-| 13 | **SCANNER MESSAGE** | The best tools for blockchain analysis and cryptocurrency arbitrage! | [Telegram](https://t.me/arbitragescanner_eng) [Bot](https://t.me/m8tel_bot) [X](https://x.com/arbitragescan) [Site](https://arbitragescanner.io) [Gram News](https://gramnews.org/apps/scanner-message) | 2024-02-28 | 13K |  |
-| 14 | **Octies** | Octies is a Telegram game for earning OCTIES tokens and participating in competitions | [Bot](https://t.me/octies_bot) [X](https://x.com/Octies_GameFI) [Gram News](https://gramnews.org/apps/octies) | 2024-05-29 | 158K |  |
-| 15 | **BeWhale** | Copy real whales, run strategy cards, build your own portfolio with Wavy, the AI analyst Stocks · tokenized stocks · crypto | [Telegram](https://t.me/bewhaleapp) [Bot](https://t.me/be_whale_bot) [X](https://x.com/BeWhaleApp) [Site](https://bewhale.app) [Gram News](https://gramnews.org/apps/bewhale) | 2024-08-29 | 59K |  |
-| 16 | **Username Price** | Every @ username has a price. Instant appraisal — rarity, demand, real Fragment sales. News & updates | [Telegram](https://t.me/userrate_news) [Bot](https://t.me/userrate_bot) | 2025-06-19 |  |  |
-| 17 | **Ave.ai** | Telegram trading bot for tokens | [Telegram](https://t.me/aveai_english) [Bot](https://t.me/AveSniperBot) [X](https://x.com/aveai_info) [Site](https://ave.ai/) [Gram News](https://gramnews.org/apps/ave-ai) | 2024-03-29 |  |  |
+| 12 | **Gift Alerts** | Alerts about adding new gifts in Telegram - check gifts and profile prices. Also get notifications about gifts on sale or auctions. связь | [Telegram](https://t.me/gift_alerts) [Bot](https://t.me/pricenftbot) | 2024-10-02 | 202K |  |
+| 13 | **CryptoWhale** | The official channel for crypto and bitcoin price action, social media analytics, news, and more! | [Telegram](https://t.me/whalebotalerts) [Bot](https://t.me/cryptowhalebot) [X](https://x.com/icebergy) [Gram News](https://gramnews.org/apps/cryptowhale) | 2019-05-27 | 49K |  |
+| 14 | **Gift Charts News** | Mini app: Web version: giftcharts.com | [Telegram](https://t.me/gift_charts) [Bot](https://t.me/gift_charts_bot) [Site](https://giftcharts.com) | 2024-05-21 | 36K |  |
+| 15 | **SCANNER MESSAGE** | The best tools for blockchain analysis and cryptocurrency arbitrage! | [Telegram](https://t.me/arbitragescanner_eng) [Bot](https://t.me/m8tel_bot) [X](https://x.com/arbitragescan) [Site](https://arbitragescanner.io) [Gram News](https://gramnews.org/apps/scanner-message) | 2024-02-28 | 13K |  |
+| 16 | **BeWhale** | Copy real whales, run strategy cards, build your own portfolio with Wavy, the AI analyst Stocks · tokenized stocks · crypto | [Telegram](https://t.me/bewhaleapp) [Bot](https://t.me/be_whale_bot) [X](https://x.com/BeWhaleApp) [Site](https://bewhale.app) [Gram News](https://gramnews.org/apps/bewhale) | 2024-08-29 | 59K |  |
+| 17 | **Username Price** | Every @ username has a price. Instant appraisal — rarity, demand, real Fragment sales. News & updates | [Telegram](https://t.me/userrate_news) [Bot](https://t.me/userrate_bot) | 2025-06-19 |  |  |
 | 18 | **PIRBView** | PIRBView – The Ultimate Token Scanner! Supports sol,ton,base,eth,bsc and many others. Dev | [Bot](https://t.me/pirbviewbot) | 2023-10-26 |  |  |
 | 19 | **Callers Radar** | Disclaimer We are not responsible for any callers added here. Always do your own research before engaging with anyone. Full DYOR. NFA. Interesting ADS? -> By | [Telegram](https://t.me/callsradarton) [Bot](https://t.me/callsradarton_bot) | 2026-05-26 |  |  |
 | 20 | **IrisApp** | IrisApp — AI-powered crypto market analytics app | [Telegram](https://t.me/iris_ecosystem) [Bot](https://t.me/iristoken_bot) [X](https://x.com/Iris_token) [Site](https://iristoken.io/) [Gram News](https://gramnews.org/apps/irisapp) | 2021-12-24 |  |  |
-| 21 | **SpyDefi Bot** | The Bot powering the dynamic feed of - home of DeFi analytics | [Telegram](https://t.me/spydefi) [Bot](https://t.me/spydefi_bot) | 2023-09-15 |  |  |
-| 22 | **xGift** | xGift — your #1 data aggregator for TG gifts | [Telegram](https://t.me/xgift) [Bot](https://t.me/xgift_official_bot) | 2026-07-04 | 35K |  |
-| 23 | **CoinStats** | Your go-to platform to track and manage your crypto, DeFi and NFTs | [Telegram](https://t.me/coinstats_news) [X](https://x.com/coinstats) [Site](https://coinstats.app/) [Gram News](https://gramnews.org/apps/coinstats) | 2021-11-25 |  |  |
-| 24 | **Gift Inspector** | Telegram gift price lookup and wiki links | [Telegram](https://t.me/giftinspector) | 2025-04-14 |  |  |
-| 25 | **GiftAsset** | Telegram gifts data center with a public API | [Telegram](https://t.me/giftassetapi) [GitHub](https://github.com/GIFT-ASSET) | 2025-07-31 |  |  |
-| 26 | **Ton Inu BuyBot Tracker** | Tracker of whale buys for the TINU token | [Telegram](https://t.me/toninubuybottracker) | 2024-11-30 |  |  |
-| 27 | **FinTax** | FinTax offers crypto accounting suite, tax calculator and professional taxconsulting services | [Telegram](https://t.me/FinTax2023) [Bot](https://t.me/fintax_bot) [X](https://x.com/FinTax_Official) [Site](https://fintax.tech) [Gram News](https://gramnews.org/apps/fintax) | 2024-12-18 |  |  |
-| 28 | **Cryptovka** | Most up-to-date coverage of crypto news | [Telegram](https://t.me/cryptovka_feed) [Bot](https://t.me/cryptovkadatabot) [X](https://x.com/Cryptovka) [Site](https://cryptovka.ru) [Gram News](https://gramnews.org/apps/cryptovka) | 2024-10-23 | 357 |  |
-| 29 | **Changerella** | Changerella — cryptocurrency swap monitor with live rates and user reviews | [Telegram](https://t.me/changerella) [Bot](https://t.me/changerella_bot) [X](https://x.com/Changerella_com) [Site](https://changerella.com/) [Gram News](https://gramnews.org/apps/changerella) | 2024-05-05 | 239 |  |
-| 30 | **Numbers 888** | Telegram Anonymous Numbers Price Chart and Historical Data | [Telegram](https://t.me/nums888) [Bot](https://t.me/nums888bot) [Site](https://nums888.io) [Gram News](https://gramnews.org/apps/numbers-888) | 2023-05-21 |  |  |
-| 31 | **TONDb** |  | [Telegram](https://t.me/tondbapp) [Bot](https://t.me/tondbbot) [X](https://x.com/tondbapp) Site (down) [Gram News](https://gramnews.org/apps/tondb) | 2024-05-03 |  |  |
-| 32 | **RuGramCoin Bot** |  | [Telegram](https://t.me/rugramcoin) [Bot](https://t.me/rugramcoin_bot) [Gram News](https://gramnews.org/apps/rugramcoin-bot) | 2025-04-09 |  |  |
+| 21 | **see.tg** | Analytics, tracking and search for NFT gifts and their owners. Web(pc) version: see.tg | [Telegram](https://t.me/seetg) [Bot](https://t.me/seetgbot) | 2025-12-18 |  |  |
+| 22 | **SpyDefi Bot** | The Bot powering the dynamic feed of - home of DeFi analytics | [Telegram](https://t.me/spydefi) [Bot](https://t.me/spydefi_bot) | 2023-09-15 |  |  |
+| 23 | **xGift** | xGift — your #1 data aggregator for TG gifts | [Telegram](https://t.me/xgift) [Bot](https://t.me/xgift_official_bot) | 2026-07-04 | 35K |  |
+| 24 | **CoinStats** | Your go-to platform to track and manage your crypto, DeFi and NFTs | [Telegram](https://t.me/coinstats_news) [X](https://x.com/coinstats) [Site](https://coinstats.app/) [Gram News](https://gramnews.org/apps/coinstats) | 2021-11-25 |  |  |
+| 25 | **Gift Inspector** | Telegram gift price lookup and wiki links | [Telegram](https://t.me/giftinspector) | 2025-04-14 |  |  |
+| 26 | **GiftAsset** | Telegram gifts data center with a public API | [Telegram](https://t.me/giftassetapi) [GitHub](https://github.com/GIFT-ASSET) | 2025-07-31 |  |  |
+| 27 | **Ton Inu BuyBot Tracker** | Tracker of whale buys for the TINU token | [Telegram](https://t.me/toninubuybottracker) | 2024-11-30 |  |  |
+| 28 | **FinTax** | FinTax offers crypto accounting suite, tax calculator and professional taxconsulting services | [Telegram](https://t.me/FinTax2023) [Bot](https://t.me/fintax_bot) [X](https://x.com/FinTax_Official) [Site](https://fintax.tech) [Gram News](https://gramnews.org/apps/fintax) | 2024-12-18 |  |  |
+| 29 | **NoName Trending** | Big buys among the tokens tracked by the by | [Telegram](https://t.me/nonametrending) [Bot](https://t.me/buynnbot) | 2026-03-28 |  |  |
+| 30 | **Cryptovka** | Most up-to-date coverage of crypto news | [Telegram](https://t.me/cryptovka_feed) [Bot](https://t.me/cryptovkadatabot) [X](https://x.com/Cryptovka) [Site](https://cryptovka.ru) [Gram News](https://gramnews.org/apps/cryptovka) | 2024-10-23 | 357 |  |
+| 31 | **Changerella** | Changerella — cryptocurrency swap monitor with live rates and user reviews | [Telegram](https://t.me/changerella) [Bot](https://t.me/changerella_bot) [X](https://x.com/Changerella_com) [Site](https://changerella.com/) [Gram News](https://gramnews.org/apps/changerella) | 2024-05-05 | 239 |  |
+| 32 | **Numbers 888** | Telegram Anonymous Numbers Price Chart and Historical Data | [Telegram](https://t.me/nums888) [Bot](https://t.me/nums888bot) [Site](https://nums888.io) [Gram News](https://gramnews.org/apps/numbers-888) | 2023-05-21 |  |  |
 | 33 | **TON TRENDING BOT** |  | [Telegram](https://t.me/tontrending_LIVE_TON) [Bot](https://t.me/InsectTonBuyBot) Site (down) [Gram News](https://gramnews.org/apps/ton-trending-bot) | 2025-04-06 |  |  |
 | 34 | **CoinCodex** |  | [Bot](https://t.me/toncoin_airdrop_eng_bot) [Site](https://coincodex.com/crypto/toncoin/) [GitHub](https://github.com/newton-blockchain) [Gram News](https://gramnews.org/apps/coincodex) | 2018-05-04 |  |  |
 | 35 | **RUG Police** | Blockchain analytics tools and data provider | [Telegram](https://t.me/rugpolicenews) [X](https://x.com/RUGP_TON) [Site](https://rugp.io) | 2024-06-23 |  |  |
 
-<details><summary><b>Quiet: 118</b></summary>
+<details><summary><b>Quiet: 119</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 36 | **TON Price** | Must-have channel for everybody in the TON community! Current TON price is always on top of your chat list. Price gets updated once every 5 minutes. Easily forward price to your friends and clients! | [Telegram](https://t.me/tonprices) [Bot](https://t.me/tonpricesbot) | 2021-12-15 |  |  |
-| 37 | **Fear or Greed App** | App for influencing the Fear or Greed index and earning $FOG | [Bot](https://t.me/fearorgreed_bot) [Gram News](https://gramnews.org/apps/fear-or-greed-app) | 2024-06-26 | 38K |  |
-| 38 | **TypoCurator** |  | [Telegram](https://t.me/TypoCurator) [Bot](https://t.me/typocurator_bot) [X](https://x.com/TypoX_AI) [Gram News](https://gramnews.org/apps/typocurator) | 2024-06-14 | 48K |  |
-| 39 | **Portfel** | The most powerful TON portfolio tracker | [Telegram](https://t.me/ton_portfel) [Bot](https://t.me/ton_portfel_bot) [X](https://x.com/Nikicompany) [Site](https://portfel.me) [GitHub](https://github.com/portfel-ton) [Gram News](https://gramnews.org/apps/portfel) | 2024-05-30 | 21K |  |
-| 40 | **TON Tools Bot** | TON Tools Bot — price change monitoring for TON | [Bot](https://t.me/sbabet_tools_bot) [X](https://x.com/SnoopyBabe_meme) Site (down) [Gram News](https://gramnews.org/apps/ton-tools-bot) | 2024-03-31 | 16K |  |
-| 41 | **Tanpin** | Маркетплейс токенизированных игровых предметов и достижений. Зарабатывай на своем игровом опыте | [Telegram](https://t.me/tanpin_ru) [Bot](https://t.me/tanpinplaybot) [X](https://x.com/tanpin_en) [Gram News](https://gramnews.org/apps/tanpin) | 2023-07-06 | 158K |  |
-| 42 | **Crypton research** | Crypton research: tools and calendar of crypto events | [Telegram](https://t.me/crypton_support) [Bot](https://t.me/crypton_research_bot) [X](https://x.com/CryptonCalendar) [Site](https://crypton.xyz/ru/) [Gram News](https://gramnews.org/apps/crypton-research) | 2022-02-12 | 55K |  |
-| 43 | **RectCoinBot** |  | [Bot](https://t.me/rectcoinbot) [Gram News](https://gramnews.org/apps/rectcoinbot) | 2024-06-26 | 711K |  |
-| 44 | **Time Price** |  | [Bot](https://t.me/timeprice_stat_bot) [Gram News](https://gramnews.org/apps/time-price) | 2024-08-20 | 85K |  |
-| 45 | **TractionEye** | TractionEye — social trading on TON with trader pools | [Telegram](https://t.me/TractionEye) [Bot](https://t.me/TractionEyebot) [X](https://x.com/TractionEye) [Site](https://tractioneye.xyz) [GitHub](https://github.com/TractionEye) [Gram News](https://gramnews.org/apps/tractioneye) | 2024-01-08 | 18K |  |
-| 46 | **SunKong Bot** |  | [Bot](https://t.me/sunkongmyth_bot) [Site](https://zjor.github.io/cv/) [GitHub](https://github.com/zjor/hello-tact) [Gram News](https://gramnews.org/apps/sunkong-bot) | 2023-09-21 | 994K |  |
-| 47 | **Hare** |  | [Bot](https://t.me/hare_ton_bot) [Gram News](https://gramnews.org/apps/hare) | 2024-06-06 | 1.1M |  |
-| 48 | **TonScout** | TONScout curates top new TON and Telegram apps. Users earn by supporting their favorite projects | [Bot](https://t.me/tonscout_bot) [Gram News](https://gramnews.org/apps/tonscout-1) | 2024-07-10 | 11K |  |
-| 49 | **MyPaal** | PAAL is a powerful AI ecosystem built using Custom Data Feed and LLMs. Personalize your AI & share across all social platforms | [Telegram](https://t.me/paal_ai) [Bot](https://t.me/mypaalbot) [Gram News](https://gramnews.org/apps/mypaal) | 2023-05-02 | 78K |  |
-| 50 | **altooshkabot** | A bot for caring for a virtual girl and earning the memecoin $ALT | [Telegram](https://t.me/altooshka_ton) [Bot](https://t.me/altooshka_bot) [X](https://x.com/altooshka_ton) [Site](https://dedust.io/swap/TON/EQDs4_MWmRySmPbsW6MyZ8Dy-k-Bi0vZNNSVt6LE2LC_ddUP) [Gram News](https://gramnews.org/apps/altooshkabot) | 2024-04-21 | 81K |  |
-| 51 | **T-Plane** |  | [Bot](https://t.me/tplane_bot) [Gram News](https://gramnews.org/apps/t-plane) | 2024-07-04 | 474K |  |
-| 52 | **Walbi** | Get an explanation of the cryptocurrency market | [Bot](https://t.me/walbi_ala_bot) [Gram News](https://gramnews.org/apps/walbi) | 2022-11-24 | 227K |  |
-| 53 | **Vana Data Hero** |  | [Bot](https://t.me/vanadataherobot) [Gram News](https://gramnews.org/apps/vana-data-hero) | 2024-04-16 | 932K |  |
-| 54 | **iCryptoAI** | iCrypto / Sentiment & On-chain Analysis | [Telegram](https://t.me/icryptoai) [Bot](https://t.me/icryptoaibot) [Gram News](https://gramnews.org/apps/icryptoai) | 2023-08-14 | 10K |  |
-| 55 | **Blockchain Whispers Bot** | Crypto signals. Portfolio. Price Alerts. Your crypto Swiss-army Knife, powered by Blockchain Whispers | [Bot](https://t.me/blockchainwhispers_bot) [Gram News](https://gramnews.org/apps/blockchain-whispers-bot) | 2024-05-18 | 13K |  |
-| 56 | **Radar** |  | [Bot](https://t.me/radar_tg_bot) [Gram News](https://gramnews.org/apps/radar) | 2024-08-06 | 3K |  |
-| 57 | **TON Wallet Tracker** | Track any wallet activity, such as just moving TONs, moving tokens, or NFTs to any address | [Bot](https://t.me/tontracker_bot) [Gram News](https://gramnews.org/apps/ton-wallet-tracker) | 2023-01-14 | 7K |  |
-| 58 | **Mizar Trading Bot** | Blazing-fast on-chain bot on Solana, Ethereum, Base & BSC. Free analytics. Powerful automation | [Bot](https://t.me/mizartradingbot) [X](https://x.com/Mizar_com) [Site](https://mizar.com) [Gram News](https://gramnews.org/apps/mizar-trading-bot) | 2021-03-19 | 2K |  |
-| 59 | **TbearBot** | What can this bot to to ? | [Bot](https://t.me/tbeargame_bot) [Gram News](https://gramnews.org/apps/tbearbot) | 2024-05-17 | 2K |  |
-| 60 | **Nimbus** |  | [X](https://x.com/get_nimbus) [Site](https://getnimbus.io) [Gram News](https://gramnews.org/apps/nimbus) | 2024-03-03 |  |  |
-| 61 | **TON Notify Bot** | Instant notifications about transfer coins of the TON address | [Bot](https://t.me/tonnotifybot) [Gram News](https://gramnews.org/apps/ton-notify-bot-2) | 2019-08-15 | 1K |  |
-| 62 | **Whale Detect** |  | [Telegram](https://t.me/TopTgDima) [Bot](https://t.me/whaledetectbot) [Gram News](https://gramnews.org/apps/whale-detect) | 2022-05-03 | 676 |  |
-| 63 | **NewsBullet** | The most customizable crypto news feed on Telegram | [Bot](https://t.me/newsbulletbot) [Gram News](https://gramnews.org/apps/newsbullet) | 2024-02-03 | 700 |  |
-| 64 | **WhaleBrain Bot** |  | [Bot](https://t.me/whalebrain_bot) [Gram News](https://gramnews.org/apps/whalebrain-bot) | 2024-05-08 | 538 |  |
-| 65 | **The TON Top** | Show your status. The more TON — the higher you stay in the Top | [Bot](https://t.me/thetontopbot) [Gram News](https://gramnews.org/apps/the-ton-top) | 2024-06 | 155 |  |
-| 66 | **Alert Price TON** |  | [Telegram](https://t.me/TokenInfinity) [Bot](https://t.me/AlertPriceTonBot) [Gram News](https://gramnews.org/apps/alert-price-ton) | 2023-07-30 |  |  |
-| 67 | **AnalytEx** | Bot for analytics services in Telegram | [Bot](https://t.me/analytex_bot) | 2022-08-05 |  |  |
-| 68 | **AppChain** | Bot to explore the TON ecosystem and receive price alerts | [Bot](https://t.me/appchainbot) | 2022-09-08 |  |  |
-| 69 | **ArzDigital** | Set Market Alerts & Explore in Crypto Join Arzdigital | [Bot](https://t.me/arzdigitalcom_bot) | 2024-09-22 |  |  |
-| 70 | **Assets Portfolio** | Tracks all TON wallet and app assets in one place | [Bot](https://t.me/dassets_bot) | 2025-01-23 | 14K |  |
-| 71 | **Block Watch** | Block Watch — transaction analysis tool for wallets | [Telegram](https://t.me/BLWDev_bot) [X](https://x.com/blockwatchdev) [Site](https://blockwatch.tech) [Gram News](https://gramnews.org/apps/block-watch) | 2026-05-29 |  |  |
-| 72 | **Bubblemaps** | Blockchain analysis visualization tool | [Telegram](https://t.me/bubblemaps) | 2022-07-11 |  |  |
-| 73 | **Chaser** | Tracks TON jettons, NFTs and pools of a wallet | [Bot](https://t.me/ton_chaser_bot) | 2024-06-08 |  |  |
-| 74 | **Cielo Free Bot 1** | Track wallets on Solana, EVM, Tron, Sui + BTC | [Bot](https://t.me/evmtrackerbot) [Gram News](https://gramnews.org/apps/cielo-free-bot-1) | 2023-10-12 | 36K |  |
-| 75 | **Club10k Tracker** | Tracks changes in four-digit TON DNS domains | [Bot](https://t.me/fourlstatsbot) | 2026-02-27 |  |  |
-| 76 | **CoinCrackerBot** |  | [Gram News](https://gramnews.org/apps/coincrackerbot) | 2023-04 |  |  |
-| 77 | **CoinMapAi** | Crypto market data and alerts app | [Bot](https://t.me/coinmapai_bot) | 2024-11-09 | 26K |  |
-| 78 | **CoinRobot** |  | [GitHub](https://github.com/sora-xor/polkaswap-exchange-web) [Gram News](https://gramnews.org/apps/coinrobot) | 2020-09-17 |  |  |
-| 79 | **CryptoRiskyGameCalls** |  | [Bot](https://t.me/vukly_bot) [Gram News](https://gramnews.org/apps/cryptoriskygamecalls) | 2024-06 |  |  |
-| 80 | **DashPool** | Your easiest gateway to the complex AI market, right in Telegram! | [Bot](https://t.me/dashpoolbot) [X](https://x.com/dashpoolapp) Site (down) [Gram News](https://gramnews.org/apps/dashpool) | 2024-12-11 |  |  |
-| 81 | **DexCheck** | AI-powered analytics and on-chain data tools | [Telegram](https://t.me/dexcheck) | 2023-04-22 |  |  |
-| 82 | **dTON Forum** | Analytical system based on TON on-chain data | [Telegram](https://t.me/dtonforum) Site (down) | 2023-12-19 |  |  |
-| 83 | **DYOR.io API** | Developer chat for DYOR.io API | [Telegram](https://t.me/dyorapi) | 2025-01-13 |  |  |
-| 84 | **Eye of TON** | Bot of the Eye of TON channel | [Bot](https://t.me/istoneyebot) | 2025-03-27 |  |  |
-| 85 | **Fragment Analyzer** | Rainbet.com #1 non-kyc crypto casino & sportsbook | [Telegram](https://t.me/fragmentanalytics) [Bot](https://t.me/fragmentanalyzer_bot) [Gram News](https://gramnews.org/apps/fragment-analyzer) | 2024-07-25 |  |  |
-| 86 | **Fragment Floor** | Bot showing floor rate from Fragment | [Bot](https://t.me/fragmentcom_floor_bot) | 2023-05-22 |  |  |
-| 87 | **Full Metal Jetton** |  | [Gram News](https://gramnews.org/apps/full-metal-jetton) | 2023-09-05 |  |  |
-| 88 | **Gift Explore** | Price history and search for Telegram gifts | [Bot](https://t.me/giftexplorebot) | 2025-04-27 | 1K |  |
-| 89 | **Gift Explorer** | Bot for Telegram gift price history and search | [Bot](https://t.me/tgiftcheckbot) | 2025-04-24 |  |  |
-| 90 | **Giftindex** |  | [Bot](https://t.me/giftindexbot) | 2025-06-17 |  |  |
-| 91 | **Gifts Floor Calculator** | Bot that values a profile gift list by floor price | [Bot](https://t.me/giftsfloorbot) | 2025-01-26 |  |  |
-| 92 | **Giftstat.com** |  | [Bot](https://t.me/giftstatcom_bot) | 2025-07 |  |  |
-| 93 | **indicaton** |  | [Telegram](https://t.me/indicaton) [X](https://x.com/indicaton) [Site](https://indicaton.io/?utm_source=ton_app) [Gram News](https://gramnews.org/apps/indicaton) | 2024-01 |  |  |
-| 94 | **JETPie** | Bot with data on TON jettons | [Bot](https://t.me/jetpiebot) | 2024-05-31 |  |  |
-| 95 | **Jetton Whale Swaps** |  | [Telegram](https://t.me/MoonWeb3) [Bot](https://t.me/NFTRobot) [Gram News](https://gramnews.org/apps/jetton-whale-swaps) | 2023-07-05 |  |  |
-| 96 | **Jettons Price Alerts** |  | [Gram News](https://gramnews.org/apps/jettons-price-alerts) | 2025-11-28 |  |  |
-| 97 | **Journalinvest** |  | [Gram News](https://gramnews.org/apps/journalinvest) | 2025-10-01 |  |  |
-| 98 | **Kattana** | Trade crypto on multiple DEX and CEX with a complete range of trading tools. Technical analysis, portfolio management, and even trading strategy automation — all available in one place | [Telegram](https://t.me/kattana_trade) [X](https://x.com/kattanatrade) [GitHub](https://github.com/kattana-io) | 2011-07-05 |  |  |
-| 99 | **Lambdo Tracking** |  | [Telegram](https://t.me/lambdo_tnt) [Bot](https://t.me/lambdotracking_bot) | 2026-07-21 |  |  |
-| 100 | **Live Price TonCoin** |  | [Site](https://fan-ton.com/) [Gram News](https://gramnews.org/apps/live-price-toncoin) | 2024-06-03 |  |  |
-| 101 | **MAZITON** | Buy tracking bot for TON tokens | [Bot](https://t.me/mazitonbot) | 2025-04-18 |  |  |
-| 102 | **MemeGuard** | Bot with real-time token performance and risk insights | [Bot](https://t.me/meme_guard_bot) | 2024-12-20 |  |  |
-| 104 | **NoName Tracker** | Fast, flexible, user-friendly TON tracker by | [Telegram](https://t.me/nonamedev) [Bot](https://t.me/trackernnbot) | 2026-04-04 |  |  |
-| 105 | **Pixel Stat** | Statistics bot for Pixel World game | [Bot](https://t.me/pixelstat_bot) | 2026-02-14 |  |  |
-| 107 | **Quop** | Telegram gifts analytics service | [Bot](https://t.me/quoptgbot) | 2026-02-28 |  |  |
-| 108 | **Spybox** | Twitter follow and buy alerts for Telegram groups | [Telegram](https://t.me/spyboxofficial) | 2024-11-02 |  |  |
-| 109 | **Spybox for Groups** | Follow and buy alerts for Telegram groups | [Bot](https://t.me/spyboxgroupsbot) | 2024-11-02 |  |  |
-| 110 | **SpyDefi BuyBot** | Buy alert bot for token projects | [Bot](https://t.me/chat_boost) | 2024-01-06 |  |  |
-| 111 | **Sticker Scan** | Sticker and NFT scanning app for Telegram | [Bot](https://t.me/sticker_scan_bot) | 2025-06-28 |  |  |
-| 112 | **Stickers Tools** | Telegram app and web tools for stickers | [Telegram](https://t.me/stickers_tools) [Bot](https://t.me/stickers_tools_bot) | 2025-07-22 |  |  |
-| 113 | **TBC** | TONBANKCARD - Ecosystem for cryptocurrencies | [Bot](https://t.me/marketcaprobot) [Site](https://marketcap.tonbankcard.com) [Gram News](https://gramnews.org/apps/tbc-client) | 2022-10-08 |  |  |
-| 114 | **TBC TVL TON** | TBC TVL TON — analytics tool for tracking total value locked in DeFi on the TON network | [Bot](https://t.me/tonbankcard_bot) [Site](https://tonbankcard.com/tvlton.htm) [Gram News](https://gramnews.org/apps/tbc-tvl-ton) | 2022-10-08 |  |  |
-| 115 | **TOKEN INSIDE** |  | [Gram News](https://gramnews.org/apps/token-inside) | 2026-04-21 |  |  |
-| 117 | **TON Data Hub** | TON Foundation data and Dune dashboards hub | [Telegram](https://t.me/tondatahub) | 2025-02-26 |  |  |
-| 118 | **TON Data Hub** | Chat of the TON Data Hub data project | [Telegram](https://t.me/tondatachat) | 2025-03-12 |  |  |
-| 119 | **TON INU Tracker** | TON INU Tracker — analytics for the TINU token on the TON network | [Bot](https://t.me/toninu_trackerbot) [X](https://x.com/toninutools) [Site](https://toninu.tech/) [Gram News](https://gramnews.org/apps/ton-inu-tracker) | 2024-04-10 |  |  |
-| 120 | **TON Jetton Analytics** | Alerts bot for TON jettons | [Bot](https://t.me/dyorninjabot) | 2024-02-12 |  |  |
-| 121 | **Ton Mafia Plays** |  | [X](https://x.com/TonMafiaPlays) [Gram News](https://gramnews.org/apps/ton-mafia-plays) | 2024-05 |  |  |
-| 122 | **TON Notify Bot** |  | [GitHub](https://github.com/CoinSpace/CoinSpace) [Gram News](https://gramnews.org/apps/ton-notify-bot) | 2015-03-30 |  |  |
-| 123 | **TON Price Converter** |  | [Site](https://coinrecast.com/) [Gram News](https://gramnews.org/apps/ton-price-converter) | 2023-04 |  |  |
-| 124 | **Ton Research** |  | [Bot](https://t.me/tondatabot) Site (down) [GitHub](https://github.com/flutter-bees) [Gram News](https://gramnews.org/apps/ton-research) | 2024-10-07 | 537 |  |
-| 125 | **TON Researcher** | Bot for researching wallet activity on TON | [Bot](https://t.me/ton_researcher_bot) | 2024-05-26 |  |  |
-| 126 | **TON Status Notifications** | Automatic alerts about penalties for underperforming TON validators | [Telegram](https://t.me/tonstatus_notifications) | 2024-09-10 |  |  |
-| 127 | **TON Tracker** | Bot for tracking wallet activity on TON | [Bot](https://t.me/ton_activity_bot) | 2024-05-26 |  |  |
-| 128 | **Toncoin Converter** |  | [Gram News](https://gramnews.org/apps/toncoin-converter) | 2015-06-11 |  |  |
-| 130 | **Tonk Analyser** | Tonk analyser is powered by $TONK INU | [Bot](https://t.me/tonkanalyser_bot) [X](https://x.com/tonkinubot) [GitHub](https://github.com/TonkInu) | 2026-07-01 | 2K |  |
-| 131 | **Tonmarketcap** | Stay on top of the TON ecosystem with live prices, market caps, charts, and rankings — all inside Telegram | [Telegram](https://t.me/tonmarketcap_channel) [Bot](https://t.me/ton_market_cap_bot) [Site](https://tonmarketcap.ru) [Gram News](https://gramnews.org/apps/tonmarketcap) | 2024-12-12 |  |  |
-| 132 | **Tonometer** |  | [Gram News](https://gramnews.org/apps/tonometer) | 2022-10-27 |  |  |
-| 133 | **TonScore** | Bot proving an account is not a sybil | [Bot](https://t.me/tonscoretrack_bot) | 2024-12-20 |  |  |
-| 134 | **TonSonar** | TonSonar Telegram bot: smart-money alerts and new TON jetton listings | [Bot](https://t.me/tonsonar_bot) [Site](https://ozamotailov.github.io/alphaping/) [GitHub](https://github.com/ozamotailov/alphaping) [Gram News](https://gramnews.org/apps/tonsonar) | 2026-06-10 |  |  |
-| 135 | **TOTKIT** | News, signals, statistics, analysis and reviews of NFT collections on The Open Network | [Bot](https://t.me/totkitbot) Site (down) [GitHub](https://github.com/BradDev01) [Gram News](https://gramnews.org/apps/totkit) | 2022-12-08 |  |  |
-| 136 | **Tracker TON** |  | [Telegram](https://t.me/TokenInfinity) [Bot](https://t.me/TrackerTonBot) [Gram News](https://gramnews.org/apps/tracker-ton) | 2023-07-30 |  |  |
-| 137 | **Wallet Analysis** | Arbitrage bot and analytics for cryptocurrencies | [X](https://x.com/ArbitrageScan) [Site](https://arbitragescanner.io/) [Gram News](https://gramnews.org/apps/wallet-analysis) | 2019-12-18 |  |  |
-| 138 | **Wallets Live** | Cryptocurrency arbitrage opportunity analytics | [Bot](https://t.me/wallets_live_bot) [X](https://x.com/ArbitrageScan) [Site](https://arbitragescanner.io/) [Gram News](https://gramnews.org/apps/wallets-live) | 2019-12-18 |  |  |
-| 139 | **x1000** |  | [Telegram](https://t.me/x1000) [Bot](https://t.me/x1000_en) [X](https://x.com/x1000_finance) [Site](https://x1000.finance) [Gram News](https://gramnews.org/apps/x1000) | 2025-08-08 |  |  |
-| 140 | **Yieldo** | Compare staking rates, withdrawal fees, and P2P prices across top crypto exchanges in one place. Dev | [Bot](https://t.me/YieldoBot) [Site](https://yieldo.me/) [Gram News](https://gramnews.org/apps/yieldo) | 2026-01-17 |  |  |
-| 141 | **Реклама NFT в Telegram** | У нас можно купить рекламу в канал «Парадная NFT» . Быстро, удобно, безопасно | [Telegram](https://t.me/frontnft) [Bot](https://t.me/frontnftbot) [X](https://x.com/smmpanelru) [Gram News](https://gramnews.org/apps/reklama-nft-v-telegram) | 2026-06-03 |  |  |
-| 142 | **Тонус** |  | [Bot](https://t.me/brainscoin_bot) [Gram News](https://gramnews.org/apps/tonus) | 2025-04-11 | 166K |  |
-| 143 | **Maziton Trending** | Trending token board for TON | [Telegram](https://t.me/mazitontrending) | 2024-05-19 |  |  |
-| 144 | **Eye of TON** | TON news, bot and API tools | [Telegram](https://t.me/eye_of_ton) | 2024-11-18 |  |  |
-| 145 | **Gift Peek** | Telegram gift tracking tool from the MRKT ecosystem | [Telegram](https://t.me/peektg) [Bot](https://t.me/peektgbot) [Site](https://peek.tg) | 2025-10-31 |  |  |
-| 146 | **RaggaMorffa** | Todas las noticias actualizadas del género #RaggaMorffa en un solo canal de Telegram | [Telegram](https://t.me/raggamorffanews) [X](https://x.com/raggamorffa) [Site](https://raggamorffa.net/) [Gram News](https://gramnews.org/apps/raggamorffa) | 2025-02-14 |  |  |
-| 147 | **Tonkol** | Know what KOLs are buying on TON | [Telegram](https://t.me/tonkolpro) [X](https://x.com/Toncoinkol) [Site](https://tonkol.pro/) [Gram News](https://gramnews.org/apps/tonkol) | 2025-11-06 |  |  |
-| 148 | **Giftable** | Analytics and price table for Telegram gifts | [Telegram](https://t.me/giftable_community) | 2025-06-05 |  |  |
-| 149 | **Gift Monitor** | Real-time tracking of Telegram gift floor prices | [Telegram](https://t.me/giftmonitor) | 2025-02-16 |  |  |
-| 150 | **apiTON** | channel: / ws: apiton.org | [Telegram](https://t.me/apiton) [Bot](https://t.me/apitonBot) [Site](https://apiton.org/) [GitHub](https://github.com/apiton-org) [Gram News](https://gramnews.org/apps/apiton) | 2024-03-29 |  |  |
-| 151 | **ShillGuard** |  | [Telegram](https://t.me/ShillGuardOfficialAnnouncements) [Bot](https://t.me/ShillGuardAppBot) [X](https://x.com/ShillGuard) [Site](https://shillguard.com/) [Gram News](https://gramnews.org/apps/shillguard) | 2025-04-09 |  |  |
-| 152 | **Tonalytics** | Analytics app and bot for TON | [Telegram](https://t.me/tonalyticsapp) [Bot](https://t.me/tonalytics_bot) | 2024-06-03 | 156K |  |
-| 153 | **Watcher** | Watcher: Fast and accurate full tracking of TON wallets. News channel | [Telegram](https://t.me/watcher_news) [Bot](https://t.me/watcher_robot) [Gram News](https://gramnews.org/apps/watcher) | 2024-03-04 |  |  |
-| 154 | **Jetton Price Alerts** | Price alerts for TON jettons | [Telegram](https://t.me/jettoncap) | 2023-03-09 |  |  |
-| 155 | **FaktON** | Находи новые игры/проекты | [Telegram](https://t.me/Fak_ton) [Bot](https://t.me/fakton_bot) [Gram News](https://gramnews.org/apps/fakton) | 2024-06-23 |  |  |
-| 156 | **re:doubt Jetton Alerts** | Jetton prices, volumes and alerts feed | [Telegram](https://t.me/jettonalertsbot) | 2023-03-02 |  |  |
-| 157 | **Jetton Rates** | Latest rates of TON jettons from the chain | [Telegram](https://t.me/tonnull) | 2023-01-19 |  |  |
+| 37 | **TypoCurator** |  | [Telegram](https://t.me/TypoCurator) [Bot](https://t.me/typocurator_bot) [X](https://x.com/TypoX_AI) [Gram News](https://gramnews.org/apps/typocurator) | 2024-06-14 | 48K |  |
+| 38 | **Portfel** | The most powerful TON portfolio tracker | [Telegram](https://t.me/ton_portfel) [Bot](https://t.me/ton_portfel_bot) [X](https://x.com/Nikicompany) [Site](https://portfel.me) [GitHub](https://github.com/portfel-ton) [Gram News](https://gramnews.org/apps/portfel) | 2024-05-30 | 21K |  |
+| 39 | **TON Tools Bot** | TON Tools Bot — price change monitoring for TON | [Bot](https://t.me/sbabet_tools_bot) [X](https://x.com/SnoopyBabe_meme) Site (down) [Gram News](https://gramnews.org/apps/ton-tools-bot) | 2024-03-31 | 16K |  |
+| 40 | **Crypton research** | Crypton research: tools and calendar of crypto events | [Telegram](https://t.me/crypton_support) [Bot](https://t.me/crypton_research_bot) [X](https://x.com/CryptonCalendar) [Site](https://crypton.xyz/ru/) [Gram News](https://gramnews.org/apps/crypton-research) | 2022-02-12 | 55K |  |
+| 41 | **RectCoinBot** |  | [Bot](https://t.me/rectcoinbot) [Gram News](https://gramnews.org/apps/rectcoinbot) | 2024-06-26 | 711K |  |
+| 42 | **Time Price** |  | [Bot](https://t.me/timeprice_stat_bot) [Gram News](https://gramnews.org/apps/time-price) | 2024-08-20 | 85K |  |
+| 43 | **SunKong Bot** |  | [Bot](https://t.me/sunkongmyth_bot) [Site](https://zjor.github.io/cv/) [GitHub](https://github.com/zjor/hello-tact) [Gram News](https://gramnews.org/apps/sunkong-bot) | 2023-09-21 | 994K |  |
+| 44 | **Hare** |  | [Bot](https://t.me/hare_ton_bot) [Gram News](https://gramnews.org/apps/hare) | 2024-06-06 | 1.1M |  |
+| 45 | **T-Plane** |  | [Bot](https://t.me/tplane_bot) [Gram News](https://gramnews.org/apps/t-plane) | 2024-07-04 | 474K |  |
+| 46 | **Walbi** | Get an explanation of the cryptocurrency market | [Bot](https://t.me/walbi_ala_bot) [Gram News](https://gramnews.org/apps/walbi) | 2022-11-24 | 227K |  |
+| 47 | **Vana Data Hero** |  | [Bot](https://t.me/vanadataherobot) [Gram News](https://gramnews.org/apps/vana-data-hero) | 2024-04-16 | 932K |  |
+| 48 | **iCryptoAI** | iCrypto / Sentiment & On-chain Analysis | [Telegram](https://t.me/icryptoai) [Bot](https://t.me/icryptoaibot) [Gram News](https://gramnews.org/apps/icryptoai) | 2023-08-14 | 10K |  |
+| 49 | **Blockchain Whispers Bot** | Crypto signals. Portfolio. Price Alerts. Your crypto Swiss-army Knife, powered by Blockchain Whispers | [Bot](https://t.me/blockchainwhispers_bot) [Gram News](https://gramnews.org/apps/blockchain-whispers-bot) | 2024-05-18 | 13K |  |
+| 50 | **TON Wallet Tracker** | Track any wallet activity, such as just moving TONs, moving tokens, or NFTs to any address | [Bot](https://t.me/tontracker_bot) [Gram News](https://gramnews.org/apps/ton-wallet-tracker) | 2023-01-14 | 7K |  |
+| 51 | **TbearBot** | What can this bot to to ? | [Bot](https://t.me/tbeargame_bot) [Gram News](https://gramnews.org/apps/tbearbot) | 2024-05-17 | 2K |  |
+| 52 | **Nimbus** |  | [X](https://x.com/get_nimbus) [Site](https://getnimbus.io) [Gram News](https://gramnews.org/apps/nimbus) | 2024-03-03 |  |  |
+| 53 | **TON Notify Bot** | Instant notifications about transfer coins of the TON address | [Bot](https://t.me/tonnotifybot) [Gram News](https://gramnews.org/apps/ton-notify-bot-2) | 2019-08-15 | 1K |  |
+| 54 | **Whale Detect** |  | [Telegram](https://t.me/TopTgDima) [Bot](https://t.me/whaledetectbot) [Gram News](https://gramnews.org/apps/whale-detect) | 2022-05-03 | 676 |  |
+| 55 | **NewsBullet** | The most customizable crypto news feed on Telegram | [Bot](https://t.me/newsbulletbot) [Gram News](https://gramnews.org/apps/newsbullet) | 2024-02-03 | 700 |  |
+| 56 | **WhaleBrain Bot** |  | [Bot](https://t.me/whalebrain_bot) [Gram News](https://gramnews.org/apps/whalebrain-bot) | 2024-05-08 | 538 |  |
+| 57 | **The TON Top** | Show your status. The more TON — the higher you stay in the Top | [Bot](https://t.me/thetontopbot) [Gram News](https://gramnews.org/apps/the-ton-top) | 2024-06 | 155 |  |
+| 58 | **AdBuy** |  | [Telegram](https://t.me/Crypton_Deploys) [Gram News](https://gramnews.org/apps/adbuy) | 2024-01-08 |  |  |
+| 59 | **Alert Price TON** |  | [Telegram](https://t.me/TokenInfinity) [Bot](https://t.me/AlertPriceTonBot) [Gram News](https://gramnews.org/apps/alert-price-ton) | 2023-07-30 |  |  |
+| 60 | **AnalytEx** | Bot for analytics services in Telegram | [Bot](https://t.me/analytex_bot) | 2022-08-05 |  |  |
+| 61 | **Anonymous Numbers Market Analytics** | Fragment market statistics | [GitHub](https://github.com/qpwedev/anonymous-numbers-market-analytics) | 2023-06-12 |  |  |
+| 62 | **AppChain** | Bot to explore the TON ecosystem and receive price alerts | [Bot](https://t.me/appchainbot) | 2022-09-08 |  |  |
+| 63 | **ArzDigital** | Set Market Alerts & Explore in Crypto Join Arzdigital | [Bot](https://t.me/arzdigitalcom_bot) | 2024-09-22 |  |  |
+| 64 | **Assets Portfolio** | Tracks all TON wallet and app assets in one place | [Bot](https://t.me/dassets_bot) | 2025-01-23 | 14K |  |
+| 65 | **Block Watch** | Block Watch — transaction analysis tool for wallets | [Telegram](https://t.me/BLWDev_bot) [X](https://x.com/blockwatchdev) [Site](https://blockwatch.tech) [Gram News](https://gramnews.org/apps/block-watch) | 2026-05-29 |  |  |
+| 66 | **Bubblemaps** | Blockchain analysis visualization tool | [Telegram](https://t.me/bubblemaps) | 2022-07-11 |  |  |
+| 67 | **CAIHawk Signals** | Precision LONG signals SMC • Elliott Wave • TA 14-Day Free Trial Live Proofs | [Bot](https://t.me/caihawk_signals_bot) [Site](https://signals.caihawk.com) | 2026-04-09 |  |  |
+| 68 | **Chaser** | Tracks TON jettons, NFTs and pools of a wallet | [Bot](https://t.me/ton_chaser_bot) | 2024-06-08 |  |  |
+| 69 | **Check My Gifts** | Bot to analyze and track Telegram gift portfolios | [Bot](https://t.me/checkmygifts_bot) | 2023-05-07 |  |  |
+| 70 | **Cielo Free Bot 1** | Track wallets on Solana, EVM, Tron, Sui + BTC | [Bot](https://t.me/evmtrackerbot) [Gram News](https://gramnews.org/apps/cielo-free-bot-1) | 2023-10-12 | 36K |  |
+| 71 | **Club10k Tracker** | Tracks changes in four-digit TON DNS domains | [Bot](https://t.me/fourlstatsbot) | 2026-02-27 |  |  |
+| 72 | **CoinCrackerBot** |  | [Gram News](https://gramnews.org/apps/coincrackerbot) | 2023-04 |  |  |
+| 73 | **CoinMapAi** | Crypto market data and alerts app | [Bot](https://t.me/coinmapai_bot) | 2024-11-09 | 26K |  |
+| 74 | **CoinRobot** |  | [GitHub](https://github.com/sora-xor/polkaswap-exchange-web) [Gram News](https://gramnews.org/apps/coinrobot) | 2020-09-17 |  |  |
+| 75 | **CryptoRiskyGameCalls** |  | [Bot](https://t.me/vukly_bot) [Gram News](https://gramnews.org/apps/cryptoriskygamecalls) | 2024-06 |  |  |
+| 76 | **DashPool** | Your easiest gateway to the complex AI market, right in Telegram! | [Bot](https://t.me/dashpoolbot) [X](https://x.com/dashpoolapp) Site (down) [Gram News](https://gramnews.org/apps/dashpool) | 2024-12-11 |  |  |
+| 77 | **DexCheck** | AI-powered analytics and on-chain data tools | [Telegram](https://t.me/dexcheck) | 2023-04-22 |  |  |
+| 78 | **dTON Forum** | Analytical system based on TON on-chain data | [Telegram](https://t.me/dtonforum) Site (down) | 2023-12-19 |  |  |
+| 79 | **Eye of TON** | Bot of the Eye of TON channel | [Bot](https://t.me/istoneyebot) | 2025-03-27 |  |  |
+| 80 | **Fragment Analyzer** | Rainbet.com #1 non-kyc crypto casino & sportsbook | [Telegram](https://t.me/fragmentanalytics) [Bot](https://t.me/fragmentanalyzer_bot) [Gram News](https://gramnews.org/apps/fragment-analyzer) | 2024-07-25 |  |  |
+| 81 | **Fragment Floor** | Bot showing floor rate from Fragment | [Bot](https://t.me/fragmentcom_floor_bot) | 2023-05-22 |  |  |
+| 82 | **Full Metal Jetton** |  | [Gram News](https://gramnews.org/apps/full-metal-jetton) | 2023-09-05 |  |  |
+| 83 | **Gift Explore** | Price history and search for Telegram gifts | [Bot](https://t.me/giftexplorebot) | 2025-04-27 | 1K |  |
+| 84 | **Gift Explorer** | Bot for Telegram gift price history and search | [Bot](https://t.me/tgiftcheckbot) | 2025-04-24 |  |  |
+| 85 | **Gift Metric** | Discover the total value of Telegram Gifts owned by your audience | [Bot](https://t.me/giftmetricbot) | 2026-08-15 |  |  |
+| 86 | **Gift Wiki Bot** | Более 1500 коллекций и идей с примеркой в гардеробе, поиск и аналитика подарков, каталог монохромов, создание GIF/JPG | [Telegram](https://t.me/giftwiki) [Bot](https://t.me/giftwiki_bot) | 2025-03-11 |  |  |
+| 87 | **Giftindex** |  | [Bot](https://t.me/giftindexbot) | 2025-06-17 |  |  |
+| 88 | **Gifts Floor Calculator** | Bot that values a profile gift list by floor price | [Bot](https://t.me/giftsfloorbot) | 2025-01-26 |  |  |
+| 89 | **Giftstat.com** |  | [Bot](https://t.me/giftstatcom_bot) | 2025-07 |  |  |
+| 90 | **indicaton** |  | [Telegram](https://t.me/indicaton) [X](https://x.com/indicaton) [Site](https://indicaton.io/?utm_source=ton_app) [Gram News](https://gramnews.org/apps/indicaton) | 2024-01 |  |  |
+| 91 | **JETPie** | Bot with data on TON jettons | [Bot](https://t.me/jetpiebot) | 2024-05-31 |  |  |
+| 92 | **Jetton Whale Swaps** |  | [Telegram](https://t.me/MoonWeb3) [Bot](https://t.me/NFTRobot) [Gram News](https://gramnews.org/apps/jetton-whale-swaps) | 2023-07-05 |  |  |
+| 93 | **Jettons Price Alerts** |  | [Gram News](https://gramnews.org/apps/jettons-price-alerts) | 2025-11-28 |  |  |
+| 94 | **Journalinvest** |  | [Gram News](https://gramnews.org/apps/journalinvest) | 2025-10-01 |  |  |
+| 95 | **Lambdo Tracking** |  | [Telegram](https://t.me/lambdo_tnt) [Bot](https://t.me/lambdotracking_bot) | 2026-07-21 |  |  |
+| 96 | **Live Price TonCoin** |  | [Site](https://fan-ton.com/) [Gram News](https://gramnews.org/apps/live-price-toncoin) | 2024-06-03 |  |  |
+| 97 | **M3TA** | Just Web3 data made simple, enabled by AI | [Telegram](https://t.me/m3ta_analytics) [X](https://x.com/M3TA_Analytics) | 2021-11-09 |  |  |
+| 98 | **MAZITON** | Buy tracking bot for TON tokens | [Bot](https://t.me/mazitonbot) | 2025-04-18 |  |  |
+| 99 | **MemeGuard** | Bot with real-time token performance and risk insights | [Bot](https://t.me/meme_guard_bot) | 2024-12-20 |  |  |
+| 100 | **NoName Scanner** | Scan TON tokens and stickers by | [Bot](https://t.me/scannernnbot) | 2026-08-16 |  |  |
+| 101 | **NoName Tracker** | Fast, flexible, user-friendly TON tracker by | [Telegram](https://t.me/nonamedev) [Bot](https://t.me/trackernnbot) | 2026-04-04 |  |  |
+| 102 | **Pixel Stat** | Statistics bot for Pixel World game | [Bot](https://t.me/pixelstat_bot) | 2026-02-14 |  |  |
+| 103 | **Quop** | Telegram gifts analytics service | [Bot](https://t.me/quoptgbot) | 2026-02-28 |  |  |
+| 104 | **Spy** | Explore NFT data easily — track wallets, floor prices & ownership. Stay updated on . Powered by | [Bot](https://t.me/spyggbot) | 2025-03-22 |  |  |
+| 105 | **Spybox** | Twitter follow and buy alerts for Telegram groups | [Telegram](https://t.me/spyboxofficial) | 2024-11-02 |  |  |
+| 106 | **Spybox for Groups** | Follow and buy alerts for Telegram groups | [Bot](https://t.me/spyboxgroupsbot) | 2024-11-02 |  |  |
+| 107 | **SpyDefi BuyBot** | Buy alert bot for token projects | [Bot](https://t.me/chat_boost) | 2024-01-06 |  |  |
+| 108 | **Sticker Scan** | Sticker and NFT scanning app for Telegram | [Bot](https://t.me/sticker_scan_bot) | 2025-06-28 |  |  |
+| 109 | **Stickers Tools** | Telegram app and web tools for stickers | [Telegram](https://t.me/stickers_tools) [Bot](https://t.me/stickers_tools_bot) | 2025-07-22 |  |  |
+| 110 | **TBC** | TONBANKCARD - Ecosystem for cryptocurrencies | [Bot](https://t.me/marketcaprobot) [Site](https://marketcap.tonbankcard.com) [Gram News](https://gramnews.org/apps/tbc-client) | 2022-10-08 |  |  |
+| 111 | **TBC TVL TON** | TBC TVL TON — analytics tool for tracking total value locked in DeFi on the TON network | [Bot](https://t.me/tonbankcard_bot) [Site](https://tonbankcard.com/tvlton.htm) [Gram News](https://gramnews.org/apps/tbc-tvl-ton) | 2022-10-08 |  |  |
+| 112 | **TOKEN INSIDE** |  | [Gram News](https://gramnews.org/apps/token-inside) | 2026-04-21 |  |  |
+| 113 | **TON Data Hub** | TON Foundation data and Dune dashboards hub | [Telegram](https://t.me/tondatahub) | 2025-02-26 |  |  |
+| 114 | **TON Data Hub** | Chat of the TON Data Hub data project | [Telegram](https://t.me/tondatachat) | 2025-03-12 |  |  |
+| 115 | **TON Grafana** | Blockchain metrics visualization | [Site](https://tonmon.xyz/) | 2019-12-25 |  |  |
+| 116 | **Ton Inu Scanner** | TON blockchain scanner for token analysis | [Bot](https://t.me/TonChainScannerBot) [X](https://x.com/toninutools) [Site](https://toninu.tech/) [Gram News](https://gramnews.org/apps/ton-inu-scanner) | 2024-03-24 |  |  |
+| 117 | **TON INU Tracker** | TON INU Tracker — analytics for the TINU token on the TON network | [Bot](https://t.me/toninu_trackerbot) [X](https://x.com/toninutools) [Site](https://toninu.tech/) [Gram News](https://gramnews.org/apps/ton-inu-tracker) | 2024-04-10 |  |  |
+| 118 | **TON Jetton Analytics** | Alerts bot for TON jettons | [Bot](https://t.me/dyorninjabot) | 2024-02-12 |  |  |
+| 119 | **Ton Mafia Plays** |  | [X](https://x.com/TonMafiaPlays) [Gram News](https://gramnews.org/apps/ton-mafia-plays) | 2024-05 |  |  |
+| 120 | **TON Notify Bot** |  | [GitHub](https://github.com/CoinSpace/CoinSpace) [Gram News](https://gramnews.org/apps/ton-notify-bot) | 2015-03-30 |  |  |
+| 121 | **TON Price Converter** |  | [Site](https://coinrecast.com/) [Gram News](https://gramnews.org/apps/ton-price-converter) | 2023-04 |  |  |
+| 122 | **Ton Research** |  | [Bot](https://t.me/tondatabot) Site (down) [GitHub](https://github.com/flutter-bees) [Gram News](https://gramnews.org/apps/ton-research) | 2024-10-07 | 537 |  |
+| 123 | **TON Researcher** | Bot for researching wallet activity on TON | [Bot](https://t.me/ton_researcher_bot) | 2024-05-26 |  |  |
+| 124 | **TON Status Notifications** | Automatic alerts about penalties for underperforming TON validators | [Telegram](https://t.me/tonstatus_notifications) | 2024-09-10 |  |  |
+| 125 | **TON Tracker** | Bot for tracking wallet activity on TON | [Bot](https://t.me/ton_activity_bot) | 2024-05-26 |  |  |
+| 126 | **Toncoin Converter** |  | [Gram News](https://gramnews.org/apps/toncoin-converter) | 2015-06-11 |  |  |
+| 127 | **Tonk Analyser** | Tonk analyser is powered by $TONK INU | [Bot](https://t.me/tonkanalyser_bot) [X](https://x.com/tonkinubot) [GitHub](https://github.com/TonkInu) | 2026-07-01 | 2K |  |
+| 128 | **Tonmarketcap** | Stay on top of the TON ecosystem with live prices, market caps, charts, and rankings — all inside Telegram | [Telegram](https://t.me/tonmarketcap_channel) [Bot](https://t.me/ton_market_cap_bot) [Site](https://tonmarketcap.ru) [Gram News](https://gramnews.org/apps/tonmarketcap) | 2024-12-12 |  |  |
+| 129 | **Tonometer** |  | [Gram News](https://gramnews.org/apps/tonometer) | 2022-10-27 |  |  |
+| 130 | **TonScore** | Bot proving an account is not a sybil | [Bot](https://t.me/tonscoretrack_bot) | 2024-12-20 |  |  |
+| 131 | **TonSonar** | TonSonar Telegram bot: smart-money alerts and new TON jetton listings | [Bot](https://t.me/tonsonar_bot) [Site](https://ozamotailov.github.io/alphaping/) [GitHub](https://github.com/ozamotailov/alphaping) [Gram News](https://gramnews.org/apps/tonsonar) | 2026-06-10 |  |  |
+| 132 | **TOTKIT** | News, signals, statistics, analysis and reviews of NFT collections on The Open Network | [Bot](https://t.me/totkitbot) Site (down) [GitHub](https://github.com/BradDev01) [Gram News](https://gramnews.org/apps/totkit) | 2022-12-08 |  |  |
+| 133 | **Tracker TON** |  | [Telegram](https://t.me/TokenInfinity) [Bot](https://t.me/TrackerTonBot) [Gram News](https://gramnews.org/apps/tracker-ton) | 2023-07-30 |  |  |
+| 134 | **UserCoin App** | UserCoin can evaluate the value of your username based on data from the Fragment | [Bot](https://t.me/crypto_iq_bot) [Gram News](https://gramnews.org/apps/usercoin-app) | 2024-08-21 | 77K |  |
+| 135 | **Wallet Analysis** | Arbitrage bot and analytics for cryptocurrencies | [X](https://x.com/ArbitrageScan) [Site](https://arbitragescanner.io/) [Gram News](https://gramnews.org/apps/wallet-analysis) | 2019-12-18 |  |  |
+| 136 | **Wallets Live** | Cryptocurrency arbitrage opportunity analytics | [Bot](https://t.me/wallets_live_bot) [X](https://x.com/ArbitrageScan) [Site](https://arbitragescanner.io/) [Gram News](https://gramnews.org/apps/wallets-live) | 2019-12-18 |  |  |
+| 137 | **Xtontracker** | This group for discussing and resolving issues for xtontracker.com service | [Telegram](https://t.me/xtontracker) | 2024-03-12 |  |  |
+| 138 | **Yieldo** | Compare staking rates, withdrawal fees, and P2P prices across top crypto exchanges in one place. Dev | [Bot](https://t.me/YieldoBot) [Site](https://yieldo.me/) [Gram News](https://gramnews.org/apps/yieldo) | 2026-01-17 |  |  |
+| 139 | **Реклама NFT в Telegram** | У нас можно купить рекламу в канал «Парадная NFT» . Быстро, удобно, безопасно | [Telegram](https://t.me/frontnft) [Bot](https://t.me/frontnftbot) [X](https://x.com/smmpanelru) [Gram News](https://gramnews.org/apps/reklama-nft-v-telegram) | 2026-06-03 |  |  |
+| 140 | **Тонус** |  | [Bot](https://t.me/brainscoin_bot) [Gram News](https://gramnews.org/apps/tonus) | 2025-04-11 | 166K |  |
+| 141 | **Maziton Trending** | Trending token board for TON | [Telegram](https://t.me/mazitontrending) | 2024-05-19 |  |  |
+| 142 | **Eye of TON** | TON news, bot and API tools | [Telegram](https://t.me/eye_of_ton) | 2024-11-18 |  |  |
+| 143 | **Gift Peek** | Telegram gift tracking tool from the MRKT ecosystem | [Telegram](https://t.me/peektg) [Bot](https://t.me/peektgbot) [Site](https://peek.tg) | 2025-10-31 |  |  |
+| 144 | **Tonkol** | Know what KOLs are buying on TON | [Telegram](https://t.me/tonkolpro) [X](https://x.com/Toncoinkol) [Site](https://tonkol.pro/) [Gram News](https://gramnews.org/apps/tonkol) | 2025-11-06 |  |  |
+| 145 | **Giftable** | Analytics and price table for Telegram gifts | [Telegram](https://t.me/giftable_community) | 2025-06-05 |  |  |
+| 146 | **Gift Monitor** | Real-time tracking of Telegram gift floor prices | [Telegram](https://t.me/giftmonitor) | 2025-02-16 |  |  |
+| 147 | **apiTON** | channel: / ws: apiton.org | [Telegram](https://t.me/apiton) [Bot](https://t.me/apitonBot) [Site](https://apiton.org/) [GitHub](https://github.com/apiton-org) [Gram News](https://gramnews.org/apps/apiton) | 2024-03-29 |  |  |
+| 148 | **ShillGuard** |  | [Telegram](https://t.me/ShillGuardOfficialAnnouncements) [Bot](https://t.me/ShillGuardAppBot) [X](https://x.com/ShillGuard) [Site](https://shillguard.com/) [Gram News](https://gramnews.org/apps/shillguard) | 2025-04-09 |  |  |
+| 149 | **Tonalytics** | Analytics app and bot for TON | [Telegram](https://t.me/tonalyticsapp) [Bot](https://t.me/tonalytics_bot) | 2024-06-03 | 156K |  |
+| 150 | **Watcher** | Watcher: Fast and accurate full tracking of TON wallets. News channel | [Telegram](https://t.me/watcher_news) [Bot](https://t.me/watcher_robot) [Gram News](https://gramnews.org/apps/watcher) | 2024-03-04 |  |  |
+| 151 | **Jetton Price Alerts** | Price alerts for TON jettons | [Telegram](https://t.me/jettoncap) | 2023-03-09 |  |  |
+| 152 | **FaktON** | Находи новые игры/проекты | [Telegram](https://t.me/Fak_ton) [Bot](https://t.me/fakton_bot) [Gram News](https://gramnews.org/apps/fakton) | 2024-06-23 |  |  |
+| 153 | **re:doubt Jetton Alerts** | Jetton prices, volumes and alerts feed | [Telegram](https://t.me/jettonalertsbot) | 2023-03-02 |  |  |
+| 154 | **Jetton Rates** | Latest rates of TON jettons from the chain | [Telegram](https://t.me/tonnull) | 2023-01-19 |  |  |
 
 </details>
 
-<details><summary><b>Closed: 5</b></summary>
+<details><summary><b>Closed: 6</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 103 | **Mooli** |  | Site (down) [Gram News](https://gramnews.org/apps/mooli) | 2016-06-11 |  |  |
-| 106 | **POLYTEND DIGEST** |  | [Gram News](https://gramnews.org/apps/polytend-digest) | 2024-05 |  |  |
-| 116 | **TON burnt** |  | [Gram News](https://gramnews.org/apps/ton-burnt) | 2023-04 |  |  |
-| 129 | **TonDomenBot** |  | [Gram News](https://gramnews.org/apps/tondomenbot) | 2024-01 |  |  |
-| 158 | **TonRadar** |  | [Telegram](https://t.me/TonRadarAdmin) [Bot](https://t.me/tonradarappbot) [X](https://x.com/tonradarapp) [Site](https://tonradar.app) [GitHub](https://github.com/tonradar) | 2023-04-25 | 5K |  |
+| 155 | **TonRadar** |  | [Telegram](https://t.me/TonRadarAdmin) [Bot](https://t.me/tonradarappbot) [X](https://x.com/tonradarapp) [Site](https://tonradar.app) [GitHub](https://github.com/tonradar) | 2023-04-25 | 5K |  |
+| 156 | **Uniton** |  | [Bot](https://t.me/UnitonAIBot) [X](https://x.com/UnitonAI) [Site](https://www.uniton.ai) | 2024-03-09 | 94K |  |
+| 157 | **Mooli** |  | Site (down) [Gram News](https://gramnews.org/apps/mooli) | 2016-06-11 |  |  |
+| 158 | **POLYTEND DIGEST** |  | [Gram News](https://gramnews.org/apps/polytend-digest) | 2024-05 |  |  |
+| 159 | **TON burnt** |  | [Gram News](https://gramnews.org/apps/ton-burnt) | 2023-04 |  |  |
+| 160 | **TonDomenBot** |  | [Gram News](https://gramnews.org/apps/tondomenbot) | 2024-01 |  |  |
 
 </details>

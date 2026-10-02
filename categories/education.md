@@ -2,14 +2,14 @@
 
 # Education
 
-**36 projects: 5 active, 31 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/education.csv).
+**22 projects: 3 active, 19 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/education.csv).
 
 ```mermaid
 %%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
 xychart-beta
   title "Launched per year"
-  x-axis ["2020", "2021", "2022", "2023", "2024", "2025"]
-  bar [1, 0, 2, 5, 21, 7]
+  x-axis ["2022", "2023", "2024", "2025"]
+  bar [2, 2, 12, 6]
 ```
 
 ## Active
@@ -17,45 +17,31 @@ xychart-beta
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 1 | **TonNewbie** | Канал посвящён новостям и полезной информации для Вашего развития в крипто мире | [Telegram](https://t.me/tonnewbie) [X](https://x.com/ru) Site (down) [Gram News](https://gramnews.org/apps/tonnewbie-nr1hca) | 2022-01-09 |  |  |
-| 2 | **Be Unstoppable** | Be Unstoppable — a cryptocurrency wallet supporting Bitcoin, Ethereum, and Zcash | [Telegram](https://t.me/unstoppable_announcements) [Bot](https://t.me/BeUnstoppable_bot) [X](https://x.com/unstoppablebyhs) [Site](https://unstoppable.money/) [GitHub](https://github.com/horizontalsystems) [Gram News](https://gramnews.org/apps/be-unstoppable) | 2020-11-13 | 82K |  |
-| 3 | **iQuizMaster** | Seize the chance to grab a million pounds, showcase your strength, and win huge prizes | [Bot](https://t.me/iquizmaster_bot) [X](https://x.com/snapsterbot) [Gram News](https://gramnews.org/apps/iquizmaster) | 2024-03-27 | 979K |  |
-| 4 | **BehLand** | BehLand — an educational platform with Web3 elements | [Telegram](https://t.me/BehLand_Official) [X](https://x.com/BehLandOfficial) [Site](https://beh.land) [GitHub](https://github.com/beh-land) [Gram News](https://gramnews.org/apps/behland-web3-l2e) | 2025-08-01 |  |  |
-| 5 | **Rocketta** | Digital currency education and earning bot | [Telegram](https://t.me/calm_me_bot) | 2024-07-31 | 1.5M |  |
+| 2 | **BehLand** | BehLand — an educational platform with Web3 elements | [Telegram](https://t.me/BehLand_Official) [X](https://x.com/BehLandOfficial) [Site](https://beh.land) [GitHub](https://github.com/beh-land) [Gram News](https://gramnews.org/apps/behland-web3-l2e) | 2025-08-01 |  |  |
+| 3 | **Rocketta** | Digital currency education and earning bot | [Telegram](https://t.me/calm_me_bot) | 2024-07-31 | 1.5M |  |
 
-<details><summary><b>Quiet: 31</b></summary>
+<details><summary><b>Quiet: 19</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 6 | **XPLUS** | XPLUS Game is a game within Telegram | [Bot](https://t.me/xplusio_bot) [X](https://x.com/xplusio) [Gram News](https://gramnews.org/apps/xplus) | 2024-04-16 | 156K |  |
-| 7 | **BrainGames** |  | [Telegram](https://t.me/caspertma) [Bot](https://t.me/braingamesappbot) [Gram News](https://gramnews.org/apps/braingames) | 2024-09-29 | 2.4M |  |
-| 8 | **Join Studihub** |  | [Telegram](https://t.me/PieTrade) [Bot](https://t.me/joinstudihub_bot) [Site](https://pie.trading) [Gram News](https://gramnews.org/apps/join-studihub) | 2024-07-16 | 12K |  |
-| 9 | **WordBooX** |  | [Telegram](https://t.me/wordboox) [Bot](https://t.me/wordboox_bot) [X](https://x.com/watchlist_id) [Gram News](https://gramnews.org/apps/wordboox) | 2024-04-26 | 233K |  |
-| 10 | **Leap** | Have fun, earn Leaps and learn crypto - for free and with friends | [Telegram](https://t.me/leap_app) [Bot](https://t.me/leapapp_bot) [X](https://x.com/hey_leap) [Gram News](https://gramnews.org/apps/leap) | 2024-07-10 | 102K |  |
-| 11 | **Botanica** |  | [Bot](https://t.me/botanica_school_bot) [Gram News](https://gramnews.org/apps/botanica) | 2024-06-28 | 90K |  |
-| 12 | **Vottun Dojo** | Hello! Welcome to Shuriken, the place to master your Web3 skills | [Bot](https://t.me/vottundojobot) Site (down) [GitHub](https://github.com/BradDev01) [Gram News](https://gramnews.org/apps/vottun-dojo) | 2024-09-06 | 131K |  |
-| 13 | **Salala Training AI** | Hyra AI provides pre-trained AI models to predict or make decisions based on new information | [Bot](https://t.me/salala_ai_training_bot) [Gram News](https://gramnews.org/apps/salala-training-ai) | 2024-12-16 | 330K |  |
-| 14 | **Tonal** | Tonal — a bot with a personal AI mentor for self-discovery and creativity | [Telegram](https://t.me/tonalwin) [Bot](https://t.me/tonalwinbot) [X](https://x.com/tonalwin) [Gram News](https://gramnews.org/apps/tonal) | 2024-05-12 | 117K |  |
-| 15 | **LingoTon** | Tired of just learning languages or aimlessly maintaining streaks in other apps? No more! | [Telegram](https://t.me/lingoton_official) [Bot](https://t.me/lingoton_bot) [X](https://x.com/lingoton_app) [Gram News](https://gramnews.org/apps/lingoton) | 2024-06-20 | 1K |  |
-| 16 | **TonTon by Intract** |  | [Telegram](https://t.me/tontonminiapp) [Bot](https://t.me/tonton_intract_bot) [X](https://x.com/TonTon_Intract) [Site](https://ton.bulksender.app) [Gram News](https://gramnews.org/apps/tonton-by-intract) | 2024-07-19 | 677K |  |
-| 17 | **Catia Eduverse** | Learn something fun today and earn amazing rewards! | [Bot](https://t.me/catia_gamebot) [X](https://x.com/WeAreCatia) [Site](https://catia.co/) [Gram News](https://gramnews.org/apps/catia-eduverse) | 2024-03-24 |  |  |
-| 18 | **Trading Simulator** | Trading Simulator - Learn trading easily and enjoyably! Real charts, intuitive interface, virtual accounts | [Bot](https://t.me/trading_simulation_bot) [Gram News](https://gramnews.org/apps/trading-simulator) | 2024-06 | 270 |  |
-| 19 | **Roblet** | Learn and Earn with Roblet! | [Bot](https://t.me/roblet_io_bot) [Gram News](https://gramnews.org/apps/roblet) | 2024-05 |  |  |
-| 20 | **Crazy Llama English** | Изучай английский язык с помощью удобных тренировок и заданий. Тренировка слов. Подходит для любого уровня! | [Bot](https://t.me/CrazyLlamaEnglish_bot) Site (down) [Gram News](https://gramnews.org/apps/crazy-llama-english) | 2023-05-07 |  |  |
-| 21 | **FunC Lessons** |  | [Telegram](https://t.me/ton_learn) [GitHub](https://github.com/romanovichim/TonFunClessons_Eng) | 2022-07-05 |  |  |
-| 22 | **Tact Language** | Group for discussing Tact programming language in English | [Telegram](https://t.me/tactlang) [X](https://x.com/tact_language) [GitHub](https://github.com/tact-lang) | 2023-01-10 |  |  |
-| 23 | **Tinlake** | Tinlake is an educational mini-app on Telegram | [Bot](https://t.me/tinlake_bot) [X](https://x.com/AppTinlake) [Gram News](https://gramnews.org/apps/tinlake) | 2025-05-04 | 262K |  |
-| 24 | **TON Academy** | Education bot for the TON ecosystem | [Bot](https://t.me/tonacad_bot) | 2025-09-08 | 41K |  |
-| 25 | **TON Africa Hub** | TON community hub for Africa | [Telegram](https://t.me/tonnigeria) | 2024-01-17 |  |  |
-| 26 | **TON Breakfast** | Community chat for organizing TON meetups | [Telegram](https://t.me/tonbreakfast) | 2023-06-11 |  |  |
-| 27 | **TON Ecosystem Course** | Educational course bot about the TON ecosystem | [Bot](https://t.me/magnetto_edu_tonecosystem_bot) | 2025-10-23 |  |  |
-| 28 | **TON France** | French community chat of TON France | [Telegram](https://t.me/ton_france_chat) | 2024-04-13 |  |  |
-| 29 | **TON Smart Challenge** | Bot for TON smart contract contests | [Bot](https://t.me/smartchallengebot) | 2023-08-29 |  |  |
-| 30 | **TON Society Lisbon** | Local TON community hub in Lisbon | [Telegram](https://t.me/tonlisbonhub) | 2023-01-22 |  |  |
-| 31 | **Дневник разработчика на TON** |  | [Gram News](https://gramnews.org/apps/dnevnik-razrabotchika-na-ton) | 2024-06-08 |  |  |
-| 32 | **Дневник стартапера** |  | [Bot](https://t.me/chaingptai_bot) [Site](https://www.chaingpt.org/) [Gram News](https://gramnews.org/apps/dnevnik-startupera) | 2024-06 | 4K |  |
-| 33 | **Мнимый в крипте** |  | [Telegram](https://t.me/pixilandofficial) [Bot](https://t.me/pixiland_bot) [Site](https://pixiland.app) [Gram News](https://gramnews.org/apps/mnimyi-v-kripte) | 2024-05-15 |  |  |
-| 34 | **TON Builders** | Hub for developers, creators and founders on TON | [Telegram](https://t.me/tonbuild) | 2025-06-04 |  |  |
-| 35 | **WORD** | Telegram app for learning languages with a WORD token | [Telegram](https://t.me/words) | 2025-09-18 |  |  |
-| 36 | **Lazy Reader** |  | [Telegram](https://t.me/lazyreader_channel) [Bot](https://t.me/lazyreader_bot) [Site](https://lazy-reader.com/) [Gram News](https://gramnews.org/apps/lazy-reader) | 2025-02-20 |  |  |
+| 4 | **Join Studihub** |  | [Telegram](https://t.me/PieTrade) [Bot](https://t.me/joinstudihub_bot) [Site](https://pie.trading) [Gram News](https://gramnews.org/apps/join-studihub) | 2024-07-16 | 12K |  |
+| 5 | **WordBooX** |  | [Telegram](https://t.me/wordboox) [Bot](https://t.me/wordboox_bot) [X](https://x.com/watchlist_id) [Gram News](https://gramnews.org/apps/wordboox) | 2024-04-26 | 233K |  |
+| 6 | **Leap** | Have fun, earn Leaps and learn crypto - for free and with friends | [Telegram](https://t.me/leap_app) [Bot](https://t.me/leapapp_bot) [X](https://x.com/hey_leap) [Gram News](https://gramnews.org/apps/leap) | 2024-07-10 | 102K |  |
+| 7 | **Botanica** |  | [Bot](https://t.me/botanica_school_bot) [Gram News](https://gramnews.org/apps/botanica) | 2024-06-28 | 90K |  |
+| 8 | **Vottun Dojo** | Hello! Welcome to Shuriken, the place to master your Web3 skills | [Bot](https://t.me/vottundojobot) Site (down) [GitHub](https://github.com/BradDev01) [Gram News](https://gramnews.org/apps/vottun-dojo) | 2024-09-06 | 131K |  |
+| 9 | **LingoTon** | Tired of just learning languages or aimlessly maintaining streaks in other apps? No more! | [Telegram](https://t.me/lingoton_official) [Bot](https://t.me/lingoton_bot) [X](https://x.com/lingoton_app) [Gram News](https://gramnews.org/apps/lingoton) | 2024-06-20 | 1K |  |
+| 10 | **Catia Eduverse** | Learn something fun today and earn amazing rewards! | [Bot](https://t.me/catia_gamebot) [X](https://x.com/WeAreCatia) [Site](https://catia.co/) [Gram News](https://gramnews.org/apps/catia-eduverse) | 2024-03-24 |  |  |
+| 11 | **Trading Simulator** | Trading Simulator - Learn trading easily and enjoyably! Real charts, intuitive interface, virtual accounts | [Bot](https://t.me/trading_simulation_bot) [Gram News](https://gramnews.org/apps/trading-simulator) | 2024-06 | 270 |  |
+| 12 | **Roblet** | Learn and Earn with Roblet! | [Bot](https://t.me/roblet_io_bot) [Gram News](https://gramnews.org/apps/roblet) | 2024-05 |  |  |
+| 13 | **Crazy Llama English** | Изучай английский язык с помощью удобных тренировок и заданий. Тренировка слов. Подходит для любого уровня! | [Bot](https://t.me/CrazyLlamaEnglish_bot) Site (down) [Gram News](https://gramnews.org/apps/crazy-llama-english) | 2023-05-07 |  |  |
+| 14 | **FunC Lessons** |  | [Telegram](https://t.me/ton_learn) [GitHub](https://github.com/romanovichim/TonFunClessons_Eng) | 2022-07-05 |  |  |
+| 15 | **Tinlake** | Tinlake is an educational mini-app on Telegram | [Bot](https://t.me/tinlake_bot) [X](https://x.com/AppTinlake) [Gram News](https://gramnews.org/apps/tinlake) | 2025-05-04 | 262K |  |
+| 16 | **TON Academy** | Education bot for the TON ecosystem | [Bot](https://t.me/tonacad_bot) | 2025-09-08 | 41K |  |
+| 17 | **TON Ecosystem Course** | Educational course bot about the TON ecosystem | [Bot](https://t.me/magnetto_edu_tonecosystem_bot) | 2025-10-23 |  |  |
+| 18 | **TON Smart Challenge** | Bot for TON smart contract contests | [Bot](https://t.me/smartchallengebot) | 2023-08-29 |  |  |
+| 19 | **Дневник разработчика на TON** |  | [Gram News](https://gramnews.org/apps/dnevnik-razrabotchika-na-ton) | 2024-06-08 |  |  |
+| 20 | **Дневник стартапера** |  | [Bot](https://t.me/chaingptai_bot) [Site](https://www.chaingpt.org/) [Gram News](https://gramnews.org/apps/dnevnik-startupera) | 2024-06 | 4K |  |
+| 21 | **WORD** | Telegram app for learning languages with a WORD token | [Telegram](https://t.me/words) | 2025-09-18 |  |  |
+| 22 | **Lazy Reader** |  | [Telegram](https://t.me/lazyreader_channel) [Bot](https://t.me/lazyreader_bot) [Site](https://lazy-reader.com/) [Gram News](https://gramnews.org/apps/lazy-reader) | 2025-02-20 |  |  |
 
 </details>

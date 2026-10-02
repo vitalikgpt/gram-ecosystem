@@ -71,6 +71,8 @@ for i, r in enumerate(csv.DictReader(open("data/projects.csv", encoding="utf-8")
 slugs = seen
 if os.path.exists("data/merged.csv"):  # a merged row's fixes stay in the log under its old slug
     slugs = seen | {m["removed_slug"] for m in csv.DictReader(open("data/merged.csv", encoding="utf-8"))}
+if os.path.exists("data/category-fixes.csv"):  # a row removed as not a project keeps its link history too
+    slugs = slugs | {f["slug"] for f in csv.DictReader(open("data/category-fixes.csv", encoding="utf-8")) if f["to"].startswith("removed")}
 for i, f in enumerate(csv.DictReader(open("data/link-fixes.csv", encoding="utf-8")), start=2):
     if f["slug"] not in slugs:
         errors.append(f"data/link-fixes.csv:{i}: unknown slug '{f['slug']}'")

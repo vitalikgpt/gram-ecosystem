@@ -1,0 +1,545 @@
+date,slug,name,from,to,why
+2026-10-02,moneytab,MoneyTab,wallets,tools,subscriptions and shared expenses tracker
+2026-10-02,ready-wallet,READY WALLET,wallets,farming,minigame rewarding $RDT
+2026-10-02,scaleton,Scaleton,wallets,explorers,explorer.scaleton.io site
+2026-10-02,xeno-network,Xeno Network,wallets,farming,mining XENO coin app
+2026-10-02,walletstars,WalletStars,wallets,onramp,buy and sell Stars for TON
+2026-10-02,tonpunksbot,TON Punks Bot,wallets,tokens,PUNK token community bot
+2026-10-02,wallet-2,Wallet,wallets,custodial,news channel of Telegram Wallet
+2026-10-02,mytonwallet-2,MyTonWallet,wallets,devtools,developer contests channel
+2026-10-02,getton,GetTON,wallets,tools,vanity address generator utility
+2026-10-02,paybis-wallet,Paybis Wallet,wallets,onramp,bot of paybis fiat-crypto exchange
+2026-10-02,ton-hedge,TON Hedge,dex,perps,options trading platform
+2026-10-02,unibot-v2,Unibot V2,dex,trading,trading bot
+2026-10-02,snapx,SnapX,dex,trading,trading bot for gems
+2026-10-02,graph,Graph,dex,trading,trading terminal
+2026-10-02,alpha-dex,Alpha Dex,dex,trading,trading terminal
+2026-10-02,vanilla-finance,Vanilla Finance,dex,perps,perp DEX up to 10000x
+2026-10-02,exchangel,Exchangel,dex,tools,crypto value calculator
+2026-10-02,crypton-buy-bot,Crypton Buy Bot,dex,trading,buy bot for traders
+2026-10-02,crypton-super-bot,Crypton Super Bot,dex,trading,sniper bot
+2026-10-02,dydx,dYdX,dex,perps,dYdX perpetuals trading platform
+2026-10-02,mars-dex,MARS DEX,dex,games,TON Planets game resource market
+2026-10-02,prebit-io,Prebit.io,dex,perps,leveraged BTC trading up to 1001x
+2026-10-02,trade-token,Trade TOKEN,dex,tokens,Gumcoin token channel
+2026-10-02,trading-bot,Trading Bot,dex,trading,MyTonSwap trading bot
+2026-10-02,upfin-trading-bot,UpFin Trading Bot,dex,trading,trading bot
+2026-10-02,papa-carlo-bot,PAPA CARLO BOT,dex,tokens,Papa Carlo meme token project
+2026-10-02,memeboost,Memeboost,dex,launchpads,memecoin launchpad
+2026-10-02,tob-bot,TOB Bot,dex,trading,fastest trading bot
+2026-10-02,tontradingbot,TonTradingBot,dex,trading,trading bot on TON
+2026-10-02,bestchange-bot,BestChange Bot,payments,onramp,exchanger monitor/directory
+2026-10-02,play-wallet,Play Wallet,payments,shopping,top up games with crypto
+2026-10-02,swipelux,Swipelux,payments,onramp,fiat-to-crypto onramp provider
+2026-10-02,seconds-market,Seconds Market,payments,onramp,buy and sell Stars
+2026-10-02,starstore,StarStore,payments,onramp,buy and sell Stars
+2026-10-02,starz-market,Starz Market,payments,onramp,buy and sell Stars
+2026-10-02,shiba-bank,Shiba Bank,payments,onramp,buy and sell Stars/Premium
+2026-10-02,buynstars-com,BuynStars.com,payments,onramp,"buy Stars, sell gifts"
+2026-10-02,starsshopapp,StarsShopApp,payments,onramp,buy/sell Stars
+2026-10-02,starswap,StarSwap,payments,onramp,swap Stars to crypto
+2026-10-02,swap2stars,Swap2stars,payments,onramp,swaps tokens and TON into Stars
+2026-10-02,mops-stars,Mops Stars,payments,shopping,Stars/Premium resale shop
+2026-10-02,vortex-crypto,Vortex Crypto,payments,shopping,Stars/Premium resale shop
+2026-10-02,berkut-community,BERKUT COMMUNITY,payments,shopping,Stars/Premium resale shop
+2026-10-02,knt007b,KNTxMRKT,payments,shopping,Stars/Premium resale shop
+2026-10-02,buddy,Звёзды,payments,shopping,Stars/Premium resale shop
+2026-10-02,foxy-stars-stars-premium,Foxy Stars,payments,shopping,Stars/Premium resale shop
+2026-10-02,bitflick-stars,BitFlick Stars,payments,shopping,Stars/Premium resale shop
+2026-10-02,helperstars-robot,HelperStars & Premium,payments,shopping,Stars/Premium resale shop
+2026-10-02,lamestars,ЛЭЙМ,payments,shopping,Stars/Premium resale shop
+2026-10-02,beliton,Beliton,payments,shopping,Stars/Premium resale shop
+2026-10-02,lafton-bot,LaFTon Bot,payments,shopping,Stars/Premium resale shop
+2026-10-02,luxury-stars-premium,Luxury Stars,payments,shopping,Stars/Premium resale shop
+2026-10-02,moneton,Moneton,payments,shopping,Stars/Premium resale shop
+2026-10-02,mystars-tg,MyStars.tg,payments,shopping,Stars/Premium resale shop
+2026-10-02,spend-app,Spend App,payments,shopping,Stars/Premium resale shop
+2026-10-02,stargram,Stargram,payments,shopping,Stars/Premium resale shop
+2026-10-02,starship,StarShip,payments,shopping,Stars/Premium resale shop
+2026-10-02,vozik-shop,Vozik Shop,payments,shopping,Stars/Premium resale shop
+2026-10-02,westars,WeStars,payments,shopping,Stars/Premium resale shop
+2026-10-02,psina-stars,PSINA Stars,onramp,shopping,Stars/Premium resale shop
+2026-10-02,ray-stars,Ray Stars,onramp,shopping,Stars/Premium resale shop
+2026-10-02,stars-buy,Stars Buy,onramp,shopping,Stars/Premium resale shop
+2026-10-02,the-open-money,The Open Money,onramp,shopping,Stars/Premium resale shop
+2026-10-02,kaios-wallet,KaiOS Wallet,wallets,removed: not a project,"private person channel, no wallet product"
+2026-10-02,durev-bot,Durev Bot,devtools,tokens,Povel Durev memecoin's own bot
+2026-10-02,foliotrade,FolioTrade,devtools,trading,automated spot trading bot
+2026-10-02,tonchemy,TONChemy,devtools,games,alchemy game
+2026-10-02,tapup,TapUp,devtools,farming,tap game with airdrop
+2026-10-02,tonbubble,TonBubble,devtools,farming,"bubble smasher, earn while idle"
+2026-10-02,the-wall-street,The Wall Street,devtools,games,business empire game
+2026-10-02,to-the-moon,To The Moon,devtools,farming,mine coins for token airdrop
+2026-10-02,anonymous-numbers-market-analytics,Anonymous Numbers Market Analytics,devtools,analytics,Fragment market statistics
+2026-10-02,multisender,Multisender,devtools,tools,consumer bulk token sender
+2026-10-02,ton-bulksender,TON Bulksender,devtools,tools,consumer bulk token sender
+2026-10-02,stonks-buy-bot,sTONks,devtools,trading,multichain trading bot
+2026-10-02,ton-inu-scanner,Ton Inu Scanner,devtools,analytics,token scanner bot
+2026-10-02,ton-meme-bot,Ton Meme Bot,devtools,trading,memecoin trading bot
+2026-10-02,ton-tracker-2,Ton Tracker,devtools,trading,wallet sniper bot
+2026-10-02,xtontracker,Xtontracker,devtools,analytics,tracker service
+2026-10-02,fragmem,FragMem,devtools,shopping,auto-buy Stars and gifts bot
+2026-10-02,gam8s,8XR,devtools,games,web gaming studio
+2026-10-02,oneclicksender,Oneclicksender,devtools,tools,consumer sender utility
+2026-10-02,octies,Octies,analytics,farming,game earning tokens
+2026-10-02,ave-ai,Ave.ai,analytics,trading,sniper trading bot terminal
+2026-10-02,rugramcoin-bot,RuGramCoin Bot,analytics,tokens,memecoin community bot
+2026-10-02,fear-or-greed-app,Fear or Greed App,analytics,farming,earn $FOG rewards app
+2026-10-02,tanpin,Tanpin,analytics,nftmarkets,marketplace of tokenized game items
+2026-10-02,tondb,TONDb,analytics,catalogs,IMDb-style project directory
+2026-10-02,tractioneye,TractionEye,analytics,trading,social trading with trader pools
+2026-10-02,altooshkabot,altooshkabot,analytics,farming,care game earning $ALT memecoin
+2026-10-02,tonscout-1,TonScout,analytics,catalogs,curates top TON apps
+2026-10-02,radar,Radar,analytics,catalogs,tApp intelligence directory of TMAs
+2026-10-02,mypaal,MyPaal,analytics,ai,AI assistant
+2026-10-02,mizar-trading-bot,Mizar Trading Bot,analytics,trading,on-chain trading bot
+2026-10-02,kattana,Kattana,analytics,trading,trading terminal
+2026-10-02,dyor-io-api,DYOR.io API,analytics,devtools,developer chat for API
+2026-10-02,x1000,x1000,analytics,trading,token trading terminal
+2026-10-02,raggamorffa,RaggaMorffa,analytics,removed: not a project,Spanish music genre news channel
+2026-10-02,m3ta,M3TA,explorers,analytics,Web3 data analytics
+2026-10-02,okx-explorer,OKX Explorer,explorers,exchanges,OKX exchange channel
+2026-10-02,tenere-explorer,Tenere Explorer,explorers,tokens,Tenere token project
+2026-10-02,sodex-bridge,SoDEX Bridge,bridges,dex,order book DEX
+2026-10-02,transit-swap,Transit Swap,bridges,dex,swap aggregator
+2026-10-02,axai-on-waves,Axai on Waves,bridges,wallets,Axai wallet bot
+2026-10-02,butterflys,Butterflys,staking,tokens,$BTYS token community
+2026-10-02,ethena-tsusde,Ethena tsUSDe,staking,rwa,stablecoin variant on TON
+2026-10-02,paketka,PAKETKA,staking,tokens,$PAKETKA token bot
+2026-10-02,tbook,tbook,staking,rwa,tokenized RWA yield layer
+2026-10-02,tonfarm,TonFarm,staking,farming,TonGame farm app
+2026-10-02,synquest,SynQuest,staking,farming,stake-play-earn mini app
+2026-10-02,buzz,Buzz,staking,farming,spin and farm mini app
+2026-10-02,g9-token,G9 Token,staking,tokens,token bot
+2026-10-02,bimcoin-ton-defi-protocol,Bimcoin,staking,tokens,BIM token community
+2026-10-02,jamton,JAMTON,staking,infra,Layer 2 for TON
+2026-10-02,utn-staking,UTN Staking,staking,tokens,UNITON memecoin
+2026-10-02,ton-hunt,TON HUNT,staking,farming,passive-yield game
+2026-10-02,telegram-usd,Telegram USD,lending,rwa,stablecoin
+2026-10-02,telegram-usd-tgusd,Telegram USD (tgusd),lending,rwa,yield-generating stablecoin
+2026-10-02,tonstable,TonStable,lending,rwa,stablecoin protocol
+2026-10-02,diamore,Diamore,rwa,farming,"Tap, earn and learn app"
+2026-10-02,nexton,Nexton,rwa,staking,Staking and arbitrage platform
+2026-10-02,futurum,Futurum,catalogs,nftmarkets,Marketplace of NFTs and digital assets
+2026-10-02,mgs-backstage,mgs backstage,vpn,shopping,"Hub for buying digital goods, Premium, stars"
+2026-10-02,token-storm-trade,Storm Trade (STORM),tokens,perps,Storm Trade perpetual futures DEX
+2026-10-02,token-hipo-staked-gram,Hipo Staked GRAM (HGRAM),tokens,staking,Hipo liquid staking
+2026-10-02,token-bemo-staked-ton,bemo Staked TON (STTON),tokens,staking,Liquid staked TON
+2026-10-02,token-tether-gold,Tether Gold (XAUt0),tokens,rwa,Tokenized gold
+2026-10-02,token-dedust,DeDust (DUST),tokens,dex,DeDust DEX
+2026-10-02,token-evaa-protocol,EVAA Protocol (EVAA),tokens,lending,EVAA lending protocol
+2026-10-02,token-jusdt,jUSDT (jUSDT),tokens,rwa,Bridged stablecoin
+2026-10-02,token-bridged-usd-coin-ton-bridge,Bridged USD Coin (TON Bridge) (JUSDC),tokens,rwa,Bridged stablecoin
+2026-10-02,token-ethena-usde,Ethena USDe (USDe),tokens,rwa,Stablecoin
+2026-10-02,token-ethena-tsusde,Ethena tsUSDe (tsUSDe),tokens,rwa,Yield-bearing stablecoin
+2026-10-02,tgusd,tgUSD,tokens,rwa,Yield-bearing stablecoin
+2026-10-02,token-hamster-kombat,Hamster Kombat (HMSTR),tokens,farming,Tap-to-earn game
+2026-10-02,token-tapswaptoken,TapSwapToken (TAPS),tokens,farming,Tap-to-earn app
+2026-10-02,token-catizen,Catizen (CATI),tokens,farming,"Catizen cat mini app game, tap-to-earn"
+2026-10-02,token-dropee,$DROPEE (DROPEE),tokens,farming,Dropee earn app
+2026-10-02,token-vertus,Vertus (VERT),tokens,farming,Vertus farming mini app
+2026-10-02,token-memhash,Memhash (MEMHASH),tokens,farming,Mining game app
+2026-10-02,token-x-empire,X Empire (X),tokens,farming,X Empire tap-to-earn game
+2026-10-02,token-stonks,sTONks (STONKS),tokens,trading,Trading sniper bot
+2026-10-02,token-soex,SOEX (SOEX),tokens,games,Skill-based gaming ecosystem
+2026-10-02,toncoin,Toncoin,tokens,infra,Official TON blockchain channel
+2026-10-02,toncoin-2,Toncoin,tokens,infra,Official TON blockchain channel
+2026-10-02,toncoin-2-2,Toncoin,tokens,infra,Official TON blockchain channel
+2026-10-02,gram-of-ton,Gram of TON,tokens,infra,Native TON chain token channel
+2026-10-02,token-duckchain-token,DuckChain Token (DUCK),tokens,infra,Telegram AI chain
+2026-10-02,gift-alerts,Gift Alerts,nftmarkets,analytics,Gift price alerts and calculator
+2026-10-02,starsovbot,StarsovBot,nftmarkets,shopping,Buying Stars and gifts
+2026-10-02,frog-case,Frog Case,nftmarkets,gambling,Gift case opening
+2026-10-02,btc25,@BTC25,tokens,removed: not a project,"Open-admin group, spam"
+2026-10-02,alfabit,AlfaBit,nftmarkets,onramp,product type fits onramp per guide
+2026-10-02,cs2-cases-skins-shot,CS2 Cases & Skins: SHOT,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,random-gift,Random Gift,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,tontrader-ai,TonTrader AI,nftmarkets,trading,product type fits trading per guide
+2026-10-02,tiger-case,Tiger Case,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,gift-charts-news,Gift Charts News,nftmarkets,analytics,product type fits analytics per guide
+2026-10-02,moola,Moola,nftmarkets,farming,product type fits farming per guide
+2026-10-02,stonksgift,StonksGift,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,win-land,Win Land,nftmarkets,tools,product type fits tools per guide
+2026-10-02,greats-gift,Greats Gift,nftmarkets,tools,product type fits tools per guide
+2026-10-02,boogie-gifts,Boogie,nftmarkets,shopping,product type fits shopping per guide
+2026-10-02,1gift,1GIFT,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,apes-club,Apes Club,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,royal-stars,Royal Stars,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,chimp,Chimp,nftmarkets,farming,product type fits farming per guide
+2026-10-02,easy-spin-gift,Easy Spin Gift,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,under-roulette,Under Roulette,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,gifts-giveaway,Gifts Giveaway,nftmarkets,tools,product type fits tools per guide
+2026-10-02,gifting,Gifting,nftmarkets,shopping,product type fits shopping per guide
+2026-10-02,beegifts,BeeGifts,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,case,Case,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,pyyplrubot,Пипл,nftmarkets,shopping,product type fits shopping per guide
+2026-10-02,hell-games,Hell Games,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,gift-box,Gift Box,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,not-punks,NOT Punks,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,see-tg-telegram-gifts-analytics,see.tg,nftmarkets,analytics,product type fits analytics per guide
+2026-10-02,giftsdouble,GIFTSDouble,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,balls,Balls,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,ton-fish-box,Ton Fish Box,nftmarkets,tokens,product type fits tokens per guide
+2026-10-02,chess-pieces,Chess Pieces,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,stalin-party-card,Stalin Party Card,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,ton-street-boys,Ton Street Boys,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,ostneironia,ПOSTNEIRONIA,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,ton-hedgehog,Ton Hedgehog,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,market-makers,Market Makers,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,dmt-holder-assistant,DMT Holder Assistant,nftmarkets,tokens,product type fits tokens per guide
+2026-10-02,aid-hub,AID Hub,nftmarkets,farming,product type fits farming per guide
+2026-10-02,animals-cyberpunk,Animals Cyberpunk,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,annihilation,Annihilation,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,apex-loot,Apex Loot,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,astropunk,ASTROPUNK,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,basilisk,Basilisk,nftmarkets,games,product type fits games per guide
+2026-10-02,cat-mafia-nft,Cat Mafia NFT,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,cats-in-a-parallel,Cats in a parallel,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,cosmifi-tg-stars-and-financial-tools,Cosmifi,nftmarkets,onramp,product type fits onramp per guide
+2026-10-02,crazy-llama-farm-nft,Crazy Llama Farm NFT,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,cyberpunk-world-nft,Cyberpunk World NFT,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,cyborg-rock,Cyborg Rock,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,dangerous-chickens,Dangerous Chickens,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,dc-ton,DC TON,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,enot-coin-nft,eNOT COIN NFT,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,g-bots,G-Bots,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,gcvpn-vpn-proxy-telegram,GCvpn,nftmarkets,vpn,product type fits vpn per guide
+2026-10-02,ghettonft,GhettoNFT,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,gift-metric,Gift Metric,nftmarkets,analytics,product type fits analytics per guide
+2026-10-02,gift-wiki-bot,Gift Wiki Bot,nftmarkets,analytics,product type fits analytics per guide
+2026-10-02,gifts-drop,Gifts Drop,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,gifttop,GiftTop,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,gogift,GoGift,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,humans,Humans,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,kingyton-nft,kingyTON NFT,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,knuckles-ton,Knuckles TON,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,llamasinpixelharmony,LlamasInPixelHarmony,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,memeland,Memeland,nftmarkets,farming,product type fits farming per guide
+2026-10-02,mintodinos,MINTODINOS,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,monaki,MONAKI,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,montessori-school,Montessori School,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,nft-collection-planner,NFT Collection Planner,nftmarkets,tools,product type fits tools per guide
+2026-10-02,noname-scanner,NoName Scanner,nftmarkets,analytics,product type fits analytics per guide
+2026-10-02,not-doge,Not Doge,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,octopus-boyz,OCTOPUS BOYZ,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,onrank-launchpad,ONRANK LAUNCHPAD,nftmarkets,launchpads,product type fits launchpads per guide
+2026-10-02,pacton,PacTon,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,pups-ton,PUPS TON,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,rabbits-ton,Rabbits TON,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,ralph-games,RALPH GAMES,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,resistance-dog,Resistance Dog,nftmarkets,tokens,product type fits tokens per guide
+2026-10-02,rich-cats,Rich Cats,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,royal-case,Royal Case,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,shuttles,Shuttles,nftmarkets,games,product type fits games per guide
+2026-10-02,simplenft,SimpleNFT,nftmarkets,devtools,product type fits devtools per guide
+2026-10-02,smart-tigers,SMART TIGERS,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,spacediscosheep,SPACEDISCOSHEEP,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,spinmi,SpinMi,nftmarkets,tools,product type fits tools per guide
+2026-10-02,spy,Spy,nftmarkets,analytics,product type fits analytics per guide
+2026-10-02,starsprime,StarsPrime,nftmarkets,shopping,product type fits shopping per guide
+2026-10-02,summer-dancing,Summer Dancing,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,teiko,TEIKO,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,tenere-slopy,Tenere Slopy,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,tenere-wanderlust,Tenere Wanderlust,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,tmarket,Tmarket,nftmarkets,shopping,product type fits shopping per guide
+2026-10-02,ton-avatars,TON AVATARS,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,ton-diamonds-nft,TON Diamonds NFT,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,ton-doge-coin-nft,TON DOGE COIN & NFT,nftmarkets,tokens,product type fits tokens per guide
+2026-10-02,ton-domains,TON Domains,nftmarkets,infra,product type fits infra per guide
+2026-10-02,ton-fingerprints,TON Fingerprints,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,ton-goblins,TON Goblins,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,ton-inu-tinu-nft,Ton INU $TINU NFT,nftmarkets,tokens,product type fits tokens per guide
+2026-10-02,toncoinco,Toncoinco,nftmarkets,games,product type fits games per guide
+2026-10-02,tondons,TONDONS,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,utya-stars,Utya Stars,nftmarkets,shopping,product type fits shopping per guide
+2026-10-02,villaton,VillaTon,nftmarkets,shopping,product type fits shopping per guide
+2026-10-02,vortex,VORTEX,nftmarkets,gambling,product type fits gambling per guide
+2026-10-02,web3ton-nft,Web3TON NFT,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,welcome-to-whale,Welcome to @Whale,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,whales-club,Whales Club,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,white-rabbit-ton,White Rabbit TON,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,wilds-giveaway,Wilds GiveAway,nftmarkets,tools,product type fits tools per guide
+2026-10-02,wizzard-cats,Wizzard Cats,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,stars-scrooge-bot,МАРКЕТ СКРУДЖА,nftmarkets,shopping,product type fits shopping per guide
+2026-10-02,helmets,Helmets,nftmarkets,farming,product type fits farming per guide
+2026-10-02,meta-panthers,Meta Panthers,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,tonium-world,Tonium World,nftmarkets,games,product type fits games per guide
+2026-10-02,the-anime,The Anime,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,succulents-dreams,Succulents Dreams,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,angga-code,Angga Code,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,ghosts,Ghosts,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,cookie-nft,Cookie NFT,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,cossacks-nft,Cossacks NFT,nftmarkets,nftcaps,product type fits nftcaps per guide
+2026-10-02,duckchain,DuckChain,launchpads,infra,product type fits infra per guide
+2026-10-02,plays-hub,PLAYS Hub,launchpads,farming,product type fits farming per guide
+2026-10-02,nitrochain,NitroChain,launchpads,infra,product type fits infra per guide
+2026-10-02,planeton,Planeton,launchpads,games,product type fits games per guide
+2026-10-02,funton-ai,FUNTON.AI,launchpads,games,product type fits games per guide
+2026-10-02,quest-labs,Quest Labs,launchpads,farming,product type fits farming per guide
+2026-10-02,2040world,2040World,launchpads,games,product type fits games per guide
+2026-10-02,roolz,RoOLZ,launchpads,games,product type fits games per guide
+2026-10-02,snap-fly-bot,Snap Fly Bot,launchpads,farming,product type fits farming per guide
+2026-10-02,lumo,LUMO,launchpads,farming,product type fits farming per guide
+2026-10-02,rats,RATS,launchpads,farming,product type fits farming per guide
+2026-10-02,firecoin,Firecoin,launchpads,tokens,product type fits tokens per guide
+2026-10-02,bitbot,Bitbot,launchpads,trading,product type fits trading per guide
+2026-10-02,horizon-launch,Horizon Launch,launchpads,dex,product type fits dex per guide
+2026-10-02,roketocoin-lunar-program,RoketoCoin Lunar Program,launchpads,farming,product type fits farming per guide
+2026-10-02,notbabycoinfam,NotBabyCoinFAM,launchpads,farming,product type fits farming per guide
+2026-10-02,finch-coin,Finch Coin,launchpads,tokens,product type fits tokens per guide
+2026-10-02,flare-x,Flare X,launchpads,games,product type fits games per guide
+2026-10-02,seeds-of-ton,Seeds of TON,launchpads,games,product type fits games per guide
+2026-10-02,rikcoin,Rikcoin,launchpads,tokens,product type fits tokens per guide
+2026-10-02,buck,Buck,launchpads,tokens,product type fits tokens per guide
+2026-10-02,el-ton,EL TON,launchpads,tokens,product type fits tokens per guide
+2026-10-02,memetics,Memetics,launchpads,farming,product type fits farming per guide
+2026-10-02,ton-inu-launchpad,TON INU Launchpad,launchpads,tokens,product type fits tokens per guide
+2026-10-02,capitalist,Capitalist,launchpads,farming,product type fits farming per guide
+2026-10-02,caihawk-signals,CAIHawk Signals,trading,analytics,product type fits analytics per guide
+2026-10-02,pump-tg,Pump.tg,trading,dex,product type fits dex per guide
+2026-10-02,noname-trending,NoName Trending,trading,analytics,product type fits analytics per guide
+2026-10-02,f8,F8,trading,gambling,product type fits gambling per guide
+2026-10-02,felix-farm-stars,Felix,trading,farming,product type fits farming per guide
+2026-10-02,lucky-pickaxe,Lucky Pickaxe,trading,farming,product type fits farming per guide
+2026-10-02,hypecoin,Hypecoin,launchpads,removed: not a project,"Russian Bitcoin news channel, not a product"
+2026-10-02,cryptoattack24,КриптоАтака 24,trading,removed: not a project,general crypto news aggregator channel
+2026-10-02,polyboost,Polyboost,trading,social,Prediction market app
+2026-10-02,predict,Predict,trading,social,Prediction market app
+2026-10-02,starsmarket,StarsMarket,trading,social,Prediction market
+2026-10-02,predictme,PredictMe,trading,social,Prediction game
+2026-10-02,predicta,Predicta,tools,social,Prediction market
+2026-10-02,like,LikeBot,social,tools,Utility bot for emoji like buttons
+2026-10-02,papa-cult-bot,$PAPA CULT BOT,social,tokens,Meme token community bot
+2026-10-02,loofta,loofta,social,payments,Payment transfer service
+2026-10-02,digiverse-pzj157,digiverse,social,shopping,On-chain shopping marketplace
+2026-10-02,momoai-abdmcn,MomoAI,social,farming,Airdrop claim bot
+2026-10-02,notai,NOTAI,social,tokens,$NOTAI token
+2026-10-02,clout,Clout,social,tokens,$CLOUT memecoin
+2026-10-02,green-coin-meme,GREEN COIN MEME,social,tokens,Memecoin community
+2026-10-02,mugglelink,MuggleLink,social,payments,Pay with crypto for takeouts
+2026-10-02,real-cows-house,Real Cows House,social,tokens,Memecoin
+2026-10-02,trust-app-bot,TRUST APP BOT,social,tokens,Meme token project
+2026-10-02,vip-club,VIP Club,social,farming,Tap and mine coins
+2026-10-02,memecatsbot,MemeCatsBot,social,tokens,CATS meme coin
+2026-10-02,hamsterbabybot,Hamsterbabybot,social,tokens,Meme community token
+2026-10-02,nft-access-guardian-bot,NFT Access Guardian Bot,social,tools,Chat access verification utility
+2026-10-02,stickerface,StickerFace,social,tools,Sticker pack creator utility
+2026-10-02,tnc,Tnc,social,tokens,Tnc token community
+2026-10-02,cryptohalva,Криптохалва,social,farming,Daily honey claim bot
+2026-10-02,gram-community,Gram Community,social,tokens,GRAM token community
+2026-10-02,make-frens,Make Frens,social,farming,Task earning app
+2026-10-02,lost-dogs,Lost Dogs,social,games,Detective game
+2026-10-02,uniton,Uniton,social,analytics,Trend scanner
+2026-10-02,dogwifhood,DOGWIFHOOD,social,tokens,Memecoin community
+2026-10-02,fireton-drop,FireTon Drop,social,farming,Tap-to-earn game
+2026-10-02,guardian,Guardian,ai,tools,Group management bot
+2026-10-02,ambermarket-gpt-claude-steam-ps-store,AmberMarket,ai,shopping,Digital goods shop
+2026-10-02,gmai,GMAI,ai,devtools,Developer tool for Solana dApps
+2026-10-02,kamana-ai,Kamana AI,ai,tokens,Frog meme coin
+2026-10-02,ta-da-fuel-ai-earn-crypto,Ta-da,ai,farming,Task earning for token
+2026-10-02,pixlands,Pixlands,tools,games,Game
+2026-10-02,telegram-apps-center,Telegram Apps Center,tools,catalogs,Catalog of apps
+2026-10-02,pandafit,PandaFiT,tools,games,Collectible mini app game
+2026-10-02,portal-network,Portal Network,tools,rwa,EV charging asset ownership
+2026-10-02,gmcoin,GMCoin,tools,farming,Token tap bot
+2026-10-02,nundu,Nundu,tools,perps,Perpetual futures
+2026-10-02,brn-tap,BRN Tap,tools,farming,Tap and tasks for token
+2026-10-02,farty-bot,Farty Bot,tools,games,Casual game launcher
+2026-10-02,mole,Mole,tools,farming,Pickaxe upgrade clicker
+2026-10-02,goldversebot,GoldVerseBot,tools,launchpads,Memecoin launchpad
+2026-10-02,pell-gem,Pell Gem,tools,farming,Tap and quest earn
+2026-10-02,ghost-drive-app,Ghost Drive App,tools,farming,Airdrop mining app
+2026-10-02,adbuy,AdBuy,tools,analytics,New token deploy notifications
+2026-10-02,check-my-gifts,Check My Gifts,tools,analytics,Gift portfolio tracker
+2026-10-02,exact-receipt,Exact Receipt,tools,payments,Payment request and receipts
+2026-10-02,rent-a-name,Rent-a-Name,tools,nftmarkets,Username rental marketplace
+2026-10-02,ruton-checker,RUTON Checker,tools,audit,Honeypot token scanner
+2026-10-02,scam-check,Scam Check,tools,audit,Scammer account checker
+2026-10-02,split,SPLIT,tools,onramp,Stars and TON purchase exchanger
+2026-10-02,tepe,TEPE,tools,onramp,Instant crypto exchanger
+2026-10-02,ton-grafana,TON Grafana,tools,analytics,Blockchain metrics visualization
+2026-10-02,ton-multisender,TON Multisender,tools,payments,Batch transfer tool
+2026-10-02,webappz,webappz,tools,shopping,Auto-shop builder
+2026-10-02,daogem,DAOGEM,social,removed: not a project,General crypto news channel
+2026-10-02,tongo,TonGo,tools,infra,.ton domain management is DNS
+2026-10-02,ton-names,TON Names,tools,infra,TON DNS domain registration
+2026-10-02,usercoin-app,UserCoin App,tools,analytics,username valuation data tool
+2026-10-02,qton,QTON,tools,farming,quest-reward earn mini app
+2026-10-02,richards-baklazhan,Richards Baklazhan,shopping,farming,tap-to-grow clicker
+2026-10-02,bionapp,bionapp,shopping,payments,scan-to-pay and credit app
+2026-10-02,starx,StarX,shopping,onramp,Stars and gifts exchanged for rubles
+2026-10-02,elephantstorebot,Elephant Store,shopping,nftmarkets,sticker marketplace
+2026-10-02,be-unstoppable,Be Unstoppable,education,wallets,self-custody crypto wallet
+2026-10-02,iquizmaster,iQuizMaster,education,games,prize quiz game
+2026-10-02,xplus,XPLUS,education,games,a game in Telegram
+2026-10-02,braingames,BrainGames,education,games,games bot
+2026-10-02,salala-training-ai,Salala Training AI,education,ai,Hyra AI models
+2026-10-02,tonal,Tonal,education,ai,AI mentor bot
+2026-10-02,tonton-by-intract,TonTon by Intract,education,farming,tap to earn airdrops
+2026-10-02,tact-language,Tact Language,education,devtools,Tact programming language group
+2026-10-02,ton-africa-hub,TON Africa Hub,education,social,regional community hub
+2026-10-02,ton-breakfast,TON Breakfast,education,social,community meetup chat
+2026-10-02,ton-france,TON France,education,social,regional community chat
+2026-10-02,ton-society-lisbon,TON Society Lisbon,education,social,local community hub
+2026-10-02,ton-builders,TON Builders,education,social,community hub
+2026-10-02,mnimyi-v-kripte,Мнимый в крипте,education,games,Pixiland game
+2026-10-02,notcoin-30j8gm,Notcoin,games,farming,tap-to-earn token game
+2026-10-02,onai-galaxy-blaster,onai_galaxy_blaster,games,trading,AI trading app
+2026-10-02,monkeyrush,MonkeyRush,games,farming,tap and farm coins
+2026-10-02,thedonecoin,TheDoneCoin,games,farming,tap game
+2026-10-02,coinpups,CoinPups,games,farming,click-your-PUPS clicker
+2026-10-02,wuffitap,WuffiTap,games,farming,tap social mining
+2026-10-02,cyber-islands-game,Cyber Islands Game,games,launchpads,TGE/ICO token platform
+2026-10-02,jetbi,Jetbi,games,gambling,up/down betting rounds
+2026-10-02,kaboom,KaBoom,games,trading,memecoin trading app
+2026-10-02,windytap,WindyTap,games,farming,tap for tokens
+2026-10-02,wall-future,WALL Future,games,social,social platform
+2026-10-02,siriustap,SiriusTap,games,farming,tap to earn
+2026-10-02,push-coin,PUSH Coin,games,farming,skate-to-airdrop
+2026-10-02,ably,ABLY,games,farming,points for airdrop multiplying
+2026-10-02,whispervale,Whispervale,games,farming,tap-to-airdrop
+2026-10-02,clickarbuz,ClickARBUZ,games,farming,clicker game
+2026-10-02,neko-box,NEKO Box,games,tokens,meme token bot
+2026-10-02,pepe-kombat,Pepe Kombat,games,farming,mine tokens for airdrop
+2026-10-02,mappasaurus-app,Mappasaurus APP,games,farming,tap to earn coins
+2026-10-02,greedy-ball,Greedy Ball,games,farming,claim token airdrops
+2026-10-02,ai-buddy,AI Buddy,games,ai,chat with AI characters
+2026-10-02,bixtapclick,BIXTAPCLICK,games,farming,Notcoin-style clicker
+2026-10-02,clickmiobot,Clickmiobot,games,gambling,real-money match bets
+2026-10-02,zesh-to-the-moon,ZESH: To The Moon,games,farming,airdrop and quest farming bot
+2026-10-02,droppy-on-sui,Droppy on Sui,games,farming,tap for points
+2026-10-02,tapmemes,TapMemes,games,farming,tap game
+2026-10-02,beeton,BeeTon,games,farming,farming app earning BEE
+2026-10-02,baatapbot,BaaTapBot,games,farming,tap airdrop
+2026-10-02,pocket-waifu-18,Pocket Waifu 18,games,farming,tap to earn
+2026-10-02,crypto-bunny-bot,Crypto Bunny Bot,games,farming,clicker game
+2026-10-02,swarm,Swarm,games,social,prediction markets
+2026-10-02,moon-crackers,Moon Crackers,games,farming,multiplayer clicker where airdrop is the point
+2026-10-02,mboys,MBoys,games,farming,Tap2Earn rewards app
+2026-10-02,bine,Bine,games,farming,"tasks, chests, airdrop farming"
+2026-10-02,snakelite,SnakeLite,games,farming,tap-to-earn
+2026-10-02,capybara-taptap,Capybara TapTap,games,farming,tap for airdrops
+2026-10-02,not-bored-puppies-bot,Not Bored Puppies Bot,games,farming,"tap, mine coins, airdrops"
+2026-10-02,hashcats,HashCats,games,farming,tap to earn $HASH
+2026-10-02,critters-kombat,Critters Kombat,games,farming,tap to earn
+2026-10-02,cats-kombats,Cats Kombats,games,farming,tap game with airdrop focus
+2026-10-02,cano-kombat,CANO Kombat,games,farming,tap mining with token distribution
+2026-10-02,tapmonsters,Tapmonsters,games,farming,tap2earn mining of $MONSTER
+2026-10-02,jokecoin,Jokecoin,games,gambling,lucky slots channel and bot
+2026-10-02,coco-rush,Coco Rush,games,gambling,slot games with wheel spins
+2026-10-02,dark-roulette,DARK-ROULETTE,games,gambling,NFT roulette
+2026-10-02,monkey,Monkey,games,tokens,MONKEY token bot
+2026-10-02,greedy-goblin,Greedy Goblin,games,catalogs,app store platform
+2026-10-02,zencoin,ZenCoin,games,ai,AI agent swarm framework
+2026-10-02,dogepee,DogePee,games,tokens,memecoin bot
+2026-10-02,dmitry-s-friend-game,Dmitry's Friend Game,games,tokens,official bot of $DF token
+2026-10-02,gd-coin,GD Coin,games,farming,mining GDC exchangeable for USDT
+2026-10-02,cosmoclick,CosmoClick,games,farming,clicker with staking
+2026-10-02,cashclick,CashClick,games,farming,click to earn rewards
+2026-10-02,coinegg-bot,Coinegg Bot,games,farming,miner bot earning money
+2026-10-02,xblast-app,xBLAST APP,games,farming,mine free XBL
+2026-10-02,notmeme-app,NOTMEME app,games,farming,mine NOTMEME for airdrop
+2026-10-02,caplly,Caplly,games,farming,"capture coins, boosts, TGE airdrop"
+2026-10-02,agent-tarot,Agent Tarot,games,ai,AI tarot agent
+2026-10-02,fronex,Fronex,games,social,social prediction markets
+2026-10-02,ikeeper,IKEEPER,games,payments,Decentralized escrow for transactions
+2026-10-02,tonly-trade,Tonly Trade,games,trading,Perpetuals trading terminal in Telegram
+2026-10-02,ton,TON за рубли,games,onramp,Buying TON for rubles
+2026-10-02,stars-gold,Stars Gold,games,onramp,Stars/TON exchange for rubles
+2026-10-02,pandai,Pandai,games,ai,AI financial assistant bot
+2026-10-02,kitty,Kitty,games,tokens,Meme coin community
+2026-10-02,scrats,SCRATS,games,tokens,Meme coin community
+2026-10-02,ton-frogs,TON Frogs,games,nftcaps,"Limited NFT collection of 5,555 frogs"
+2026-10-02,thunderpick,Thunderpick,games,gambling,Crypto esports betting and casino bot
+2026-10-02,lootsy,Lootsy,games,gambling,Lootbox/case-opening bot
+2026-10-02,russian-roullete,Russian Roullete,games,gambling,Online Russian roulette betting
+2026-10-02,yaytsogram-flip,YAYTSOGRAM FLIP,games,gambling,Bet and guess coin flip for TON
+2026-10-02,marble,Marble,games,devtools,Framework to integrate Unity/WebGL games
+2026-10-02,stepogram-bot,Stepogram bot,games,tools,Step and nutrition tracking utility
+2026-10-02,grand-galore-tarot,Grand Galore Tarot,games,ai,AI tarot agent
+2026-10-02,games-catalog,Games Catalog,games,catalogs,Hand-picked directory of Telegram games
+2026-10-02,openpad,OpenPad,games,launchpads,decentralized token pools fundraising platform
+2026-10-02,b-userbot,B UserBot,games,tokens,"community coin, token is the product"
+2026-10-02,tonion,Tonion,games,tokens,meme token community
+2026-10-02,lucky-ton,Lucky TON,games,tokens,token with no app beyond it
+2026-10-02,zggy,ZGGY,games,tokens,Zggycoin token channel and bot
+2026-10-02,lotsy,LOTSY,games,gambling,blockchain lottery syndicate
+2026-10-02,jokr-labs,JOKR Labs,farming,gambling,crypto casino and sportsbook
+2026-10-02,inside-ads,Inside Ads,farming,tools,"channel monetisation tool, not farming"
+2026-10-02,ads-galaxy,Ads Galaxy,farming,tools,"ad exchange for channels, not farming"
+2026-10-02,mrgem,MrGem,farming,shopping,marketplace for in-game items and gift cards
+2026-10-02,cephei-bot,Cephei Bot,farming,lending,CDP lending protocol
+2026-10-02,onus-tap-tap-tap,ONUS Tap Tap Tap,farming,perps,perpetual DEX with leverage
+2026-10-02,gvws,GVWS,farming,tools,giveaways app
+2026-10-02,avangifts,AvanGifts,farming,tools,contest/giveaway bot
+2026-10-02,capybaracoins,CapybaraCoins,farming,tokens,Telegram-native meme coin
+2026-10-02,mineevo,MineEVO,farming,games,game bot explicitly not earning
+2026-10-02,the-caps,The Caps,farming,social,Tolymarket prediction market
+2026-10-02,vending-coin-vndg,Vending Coin ($VNDG),farming,tokens,"token community bot, no app"
+2026-10-02,tonzcoin,TonzCoin,farming,tokens,memecoin community bot
+2026-10-02,appss-explore-x-play-x-earn,@appss,farming,catalogs,"catalog of mini apps, bots, channels"
+2026-10-02,push,@push,farming,payments,crypto transfers on Telegram
+2026-10-02,wheelofwhalesbot,@WheelOfWhalesBot,farming,gambling,whale.io casino
+2026-10-02,lll-lossless-lottery,LLL Lossless Lottery,farming,gambling,lottery on TON
+2026-10-02,flopturn,FlopTurn,farming,gambling,poker platform
+2026-10-02,qubbi,Qubbi,farming,gambling,dice game with TON/Stars wins
+2026-10-02,rateoraclebot,RateOracleBot,farming,social,price prediction market mini app
+2026-10-02,projectfade,PROJECTFADE,farming,social,peer-to-peer prediction platform
+2026-10-02,jacktoken,JackToken,farming,tokens,"token with whitepaper, no app"
+2026-10-02,mylegton,mylegton,farming,tokens,degen token
+2026-10-02,sons-of-ton,Sons of TON,farming,tokens,Telegram-native meme coin
+2026-10-02,the-bad-coin,The BAD Coin,farming,tokens,meme coin community
+2026-10-02,moonpacket,moonpacket,farming,payments,sending crypto red packets
+2026-10-02,twallet-app,TWallet App,farming,wallets,wallet app for tokens and collectibles
+2026-10-02,minegram,Minegram,farming,games,Minecraft-inspired 2D game
+2026-10-02,ton-for-speed,Ton For Speed,farming,games,racing game
+2026-10-02,shipcoinsbattle,ShipCoinsBattle,farming,games,1v1 battleship game
+2026-10-02,towerly,Towerly,farming,games,skill game
+2026-10-02,durak-on-ton,Durak on TON,farming,games,card game
+2026-10-02,goalchain,GoalChain,farming,games,football manager game
+2026-10-02,ton-world,TON World,farming,games,territory claiming game
+2026-10-02,mech3,Mech3,farming,games,match-3 puzzle game
+2026-10-02,astrex,ASTREX,farming,games,space arcade game
+2026-10-02,chaos-war,Chaos War,farming,games,arcade battle game
+2026-10-02,sengoku-ton,Sengoku TON,farming,games,pixel art empire game
+2026-10-02,qubix-arena,Qubix Arena,farming,games,PvP shooter game
+2026-10-02,2048-ton,2048 TON,farming,games,2048 puzzle game
+2026-10-02,enchant-ton,Enchant TON,farming,games,puzzle game
+2026-10-02,runiverse-idle,Runiverse Idle,farming,games,idle RPG
+2026-10-02,pixel-hunter,Pixel Hunter,farming,games,idle action RPG
+2026-10-02,dog-mutant,Dog Mutant,farming,games,idle PvP game
+2026-10-02,almost-a-hero,Almost A Hero,farming,games,RPG clicker game
+2026-10-02,neo-tokyo-2099,NEO-TOKYO: 2099,farming,games,pixel-art farm game
+2026-10-02,pokergram,Pokergram,farming,games,free-to-play poker
+2026-10-02,tcult-plush-bot,$TCULT Plush Bot,farming,games,hub of free games
+2026-10-02,wordly,Wordly,farming,games,word puzzle game
+2026-10-02,wovula,Wovula,farming,games,space trading simulation game
+2026-10-02,x-bull,X Bull,farming,tokens,meme coin launch only
+2026-10-02,zombietrain,ZombieTrain,farming,games,casual 3D game
+2026-10-02,tondiamondsbot,TON Diamonds,farming,nftmarkets,NFT marketplace bot
+2026-10-02,ai-sketch-art,AI Sketch Art,farming,ai,AI art generator
+2026-10-02,erzy-channel-collab,Erzy Channel Collab,farming,tools,channel cross-promotion service
+2026-10-02,gangstergames-pick3,GangsterGames Pick3,farming,gambling,mobster lottery casino
+2026-10-02,tonagotchi,Tonagotchi,farming,games,virtual pet game
+2026-10-02,ton-shiba-inu,Ton Shiba Inu,farming,tokens,Shiba memecoin community
+2026-10-02,fortune-boss,Fortune Boss,farming,gambling,casino empire game
+2026-10-02,ton-doge-bot,TON DOGE bot,farming,tokens,TON DOGE coin community
+2026-10-02,durov-run,Durov Run,farming,games,endless runner game
+2026-10-02,hasbi-run,HASBi RUN,farming,games,endless runner game
+2026-10-02,nomka,Nomka,farming,games,multiplayer arcade game
+2026-10-02,geobattle,GeoBattle,farming,games,geography guessing game
+2026-10-02,raccoon,Raccoon,farming,games,match-3 puzzle game
+2026-10-02,harcodeck,HarcoDeck,farming,games,card battle game
+2026-10-02,ton-dungeon,TON Dungeon,farming,games,dungeon crawler RPG
+2026-10-02,telegram-info,Telegram Info,gambling,removed: not a project,general Telegram news channel
+2026-10-02,fast-giveaways,Fast Giveaways,gambling,tools,giveaway bot
+2026-10-02,the-daily-bot,Raffles by The Daily TON,gambling,tools,raffle bot
+2026-10-02,ton-raffles-bot,Ton Raffles Bot,gambling,tools,raffles bot
+2026-10-02,teleport,Teleport,gambling,tools,raffle service for gifts
+2026-10-02,magic-pot,Magic Pot,gambling,tools,stash distribution tool
+2026-10-02,toncasinos,TONcasinos,gambling,catalogs,directory of betting sites
+2026-10-02,news,ЗалупиNews,gambling,removed: not a project,news channel with casino ad
+2026-10-02,wins,Wins,gambling,removed: not a project,"nostalgia channel, not a product"
+2026-10-02,the-old-castle-defense,The Old Castle Defense,gambling,games,P2E NFT staking game
+2026-10-02,ropsto,Ropsto,gambling,games,rock-paper-scissors skill game
+2026-10-02,arena-ton-rps,Arena: TON RPS,gambling,games,rock-paper-scissors game
