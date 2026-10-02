@@ -127,6 +127,17 @@ SUBS = {
 }
 
 
+def closed_table(items, prefix=""):
+    """Closed rows show when and the proof: the team's own announcement, a Cemetery post, an archived repository."""
+    out = ["| # | Project | What it is | Closed | Proof |", "| ---: | --- | --- | --- | --- |"]
+    for r in items:
+        ev = r.get("closed_evidence", "")
+        url = ev.split(" ")[0]
+        what = "archived repository" if "archived on GitHub" in ev else "The Open Cemetery" if "TheOpenCemetery" in url else "announcement"
+        out.append(f"| {r['rank']} | {icon(r, prefix)}**{cell(r['name'])}** | {short(r['description'])} | {r.get('closed_date', '')} | [{what}]({url}) |")
+    return out
+
+
 def table(items, prefix=""):
     out = ["| # | Project | What it is | Links | Launched | Peak MAU | Verified |",
            "| ---: | --- | --- | --- | --- | ---: | --- |"]
@@ -524,6 +535,7 @@ def build():
         "<details><summary><b>Columns of projects.csv</b></summary>",
         "",
         "`category`, `subcategory` (for games, farming, casino, NFT & gifts and tools), `rank`, `name`, `slug`, `status`, `on_map`, `native`, `evidence`, `telegram`, `bot`, `x`, `website`, `website_down` (the date a check found the site gone), "
+        "`closed_date` and `closed_evidence` (a row is closed only with proof: the team's own announcement, a post on [The Open Cemetery](https://t.me/TheOpenCemetery) that links one or a dead site our check confirms, or an archived repository when nothing else of the project is alive), "
         "`telegram_id` and `bot_id` (Telegram's numeric ids, which survive a rename), `verified` and `verified_since` "
         "(the badge on t.me, and the first Web Archive copy of its page that shows it; empty when the archive does not date it), "
         "`peak_mau` and `peak_mau_date` (the highest monthly users on the FindMini chart, which starts in July 2024; "
@@ -649,7 +661,7 @@ def build():
         for st, title in (("quiet", "Quiet"), ("closed", "Closed")):
             part = [r for r in items if r["status"] == st]
             if part:
-                p += [f"<details><summary><b>{title}: {len(part)}</b></summary>", ""] + table(part, "../") + ["", "</details>", ""]
+                p += [f"<details><summary><b>{title}: {len(part)}</b></summary>", ""] + (closed_table if st == "closed" else table)(part, "../") + ["", "</details>", ""]
         pages[f"categories/{c['key']}.md"] = "\n".join(p)
     return pages, len(rows), len(cats)
 

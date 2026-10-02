@@ -25,7 +25,7 @@ xychart-beta
 | 7 | <img src="../assets/icons/pumpmeme.webp" width="20" height="20" alt=""> **PumpMeme** | Meme token launchpad on TON with a Telegram mini app. | [Telegram](https://t.me/pumpmemenews) [Bot](https://t.me/pumpmeme_bot) [X](https://x.com/PumpMemeClub) [Site](https://pumpmeme.club) [Gram News](https://gramnews.org/apps/pumpmeme) | 2024-09-24 | 145K |  |
 | 8 | <img src="../assets/icons/pumplyx-competition.webp" width="20" height="20" alt=""> **Pumplyx Competition** | Telegram bot for a competition on the Pumplyx platform. | [Bot](https://t.me/pumplyxcompetitionbot) | 2026-08-25 |  |  |
 | 9 | <img src="../assets/icons/w3bflix.webp" width="20" height="20" alt=""> **W3BFLIX** | Experience the future of entertainment with W3BFLIX | [Bot](https://t.me/w3bflixbot) | 2024-05-15 | 632K |  |
-| 10 | <img src="../assets/icons/gaspump-1.webp" width="20" height="20" alt=""> **GasPump** | GasPump fun channel. DYOR | [Telegram](https://t.me/gaspump_tv) [Bot](https://t.me/gasPump_bot) [X](https://x.com/gaspump_tv) Site (down) [Gram News](https://gramnews.org/apps/gaspump-1) | 2024-05-29 | 389K |  |
+| 10 | <img src="../assets/icons/pumpers-tg.webp" width="20" height="20" alt=""> **Pumpers.tg** | Launch and Trade Memecoins on TON | [Telegram](https://t.me/pumpers) [X](https://x.com/pumperstg) | 2024-05-21 |  |  |
 | 11 | <img src="../assets/icons/clarnium-games.webp" width="20" height="20" alt=""> **Clarnium Games** | Clarnium Games — a platform for launching tokens and earning meme coins through quests and competitions | [Telegram](https://t.me/clarnium) [Bot](https://t.me/ClarniumGame_bot) [X](https://x.com/clarnium_io) [Site](https://clarnium.io/) [Gram News](https://gramnews.org/apps/clarnium-games) | 2022-09-13 |  |  |
 | 12 | <img src="../assets/icons/just-pump-it.webp" width="20" height="20" alt=""> **Just Pump It** | Test token for a USDA launchpad on TON | [Telegram](https://t.me/justpumpthis) [X](https://x.com/JustPumpItTON) [Site](https://pumpit.best) | 2026-08-18 |  |  |
 | 13 | <img src="../assets/icons/grambo.webp" width="20" height="20" alt=""> **Grambo** | Social token launchpad on TON | [Telegram](https://t.me/grambofun) [X](https://x.com/grambofun) [Site](https://grambo.fun) | 2026-06-19 |  |  |
@@ -41,12 +41,12 @@ xychart-beta
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 19 | <img src="../assets/icons/cyber-islands-game.webp" width="20" height="20" alt=""> **Cyber Islands Game** | Platform for token generation events run in a game format. | [Bot](https://t.me/cyberislandsbot) [Gram News](https://gramnews.org/apps/cyber-islands-game) | 2024-08-31 | 43K |  |
 | 20 | <img src="../assets/icons/ton-of-memes.webp" width="20" height="20" alt=""> **TON of Memes** | Create and trade memecoins | [Bot](https://t.me/TonOfMemesBot) [X](https://x.com/useTONMemes) [Gram News](https://gramnews.org/apps/ton-of-memes) | 2024-09-04 | 24K |  |
-| 21 | <img src="../assets/icons/polyton-app.webp" width="20" height="20" alt=""> **Polyton App** | Easy and secure token launches! | [Telegram](https://t.me/soda_fun) [Bot](https://t.me/polytonappbot) [Gram News](https://gramnews.org/apps/polyton-app) | 2024-06-18 | 59K |  |
+| 21 | <img src="../assets/icons/polyton-app.webp" width="20" height="20" alt=""> **Polyton App** | Easy and secure token launches! | [Bot](https://t.me/polytonappbot) [Gram News](https://gramnews.org/apps/polyton-app) | 2024-06-18 | 59K |  |
 | 22 | <img src="../assets/icons/crypto-magnet.webp" width="20" height="20" alt=""> **Crypto Magnet** |  | [Bot](https://t.me/magnet_crypto_bot) [Gram News](https://gramnews.org/apps/crypto-magnet) | 2024-09-08 | 112K |  |
 | 23 | <img src="../assets/icons/apepadcom.webp" width="20" height="20" alt=""> **ApePadcom** |  | [Bot](https://t.me/apepad_bot) [Gram News](https://gramnews.org/apps/apepadcom) | 2024-06-22 | 86K |  |
 | 24 | <img src="../assets/icons/secrettonproject-qqq.webp" width="20" height="20" alt=""> **SecretTonProject QQQ** | Launchpad bot with news and support channels for new meme token launches. | [Telegram](https://t.me/secrettonprojectqqq) [Bot](https://t.me/secretpadbot) [Gram News](https://gramnews.org/apps/secrettonproject-qqq) | 2024-08-02 | 1.6M |  |
 | 25 | <img src="../assets/icons/opentap-by-openpad.webp" width="20" height="20" alt=""> **OpenTap by Openpad** |  | [Bot](https://t.me/openpadbot) [X](https://x.com/Openpad_io) [Gram News](https://gramnews.org/apps/opentap-by-openpad) | 2023-02-10 | 241K |  |
-| 26 | <img src="../assets/icons/bankcoin.webp" width="20" height="20" alt=""> **Bankcoin** | Master Banking, Earn Bitcoin | [Bot](https://t.me/bankcoins_bot) [X](https://x.com/realDogsHouse) [Gram News](https://gramnews.org/apps/bankcoin) | 2024-07-03 | 206K |  |
+| 26 | <img src="../assets/icons/bankcoin.webp" width="20" height="20" alt=""> **Bankcoin** | Master Banking, Earn Bitcoin | [Bot](https://t.me/bankcoins_bot) [Gram News](https://gramnews.org/apps/bankcoin) | 2024-07-03 | 206K |  |
 | 27 | <img src="../assets/icons/pingo.webp" width="20" height="20" alt=""> **PinGo** | PinGo Punny Bot - Wrapped your telegram | [Bot](https://t.me/pingo_minibot) [X](https://x.com/PinGoAI) [Site](https://pingo.work) [Gram News](https://gramnews.org/apps/pingo) | 2024-08-06 | 560K |  |
 | 28 | <img src="../assets/icons/boostchain.webp" width="20" height="20" alt=""> **BoostChain** | web 3.0 ecosystem for making money | [Bot](https://t.me/boostchainbot) [Gram News](https://gramnews.org/apps/boostchain) | 2024-07-13 | 29K |  |
 | 29 | <img src="../assets/icons/tokentable.webp" width="20" height="20" alt=""> **TokenTable** | Token distribution platform with a Telegram bot, built by Sign. | [Telegram](https://t.me/tokentable) [Bot](https://t.me/tokentable_bot) [Gram News](https://gramnews.org/apps/tokentable) | 2024-08-26 | 2M |  |
@@ -108,8 +108,8 @@ xychart-beta
 
 <details><summary><b>Closed: 1</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified |
-| ---: | --- | --- | --- | --- | ---: | --- |
-| 83 | <img src="../assets/icons/pumpers-tg.webp" width="20" height="20" alt=""> **Pumpers.tg** | Launch and Trade Memecoins on TON | [Telegram](https://t.me/pumpers) [X](https://x.com/pumperstg) | 2024-05-21 |  |  |
+| # | Project | What it is | Closed | Proof |
+| ---: | --- | --- | --- | --- |
+| 83 | <img src="../assets/icons/gaspump-1.webp" width="20" height="20" alt=""> **GasPump** | GasPump fun channel. DYOR | 2026-09-06 | [The Open Cemetery](https://t.me/TheOpenCemetery/145) |
 
 </details>

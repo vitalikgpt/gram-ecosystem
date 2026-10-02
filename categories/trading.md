@@ -2,7 +2,7 @@
 
 # Trading bots
 
-**97 projects: 20 active, 75 quiet, 2 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/trading.csv).
+**97 projects: 20 active, 77 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/trading.csv).
 
 ```mermaid
 %%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
@@ -37,7 +37,7 @@ xychart-beta
 | 19 | <img src="../assets/icons/algofin.webp" width="20" height="20" alt=""> **Algofin** | Algorithmic trading ecosystem on TON | [Telegram](https://t.me/algofinancex) [X](https://x.com/algofinx) | 2026-04-18 |  |  |
 | 20 | <img src="../assets/icons/foliotrade.webp" width="20" height="20" alt=""> **FolioTrade** | Automated crypto trading bot | [Telegram](https://t.me/foliostack) [Bot](https://t.me/FolioTradeBot) [Site](https://trade.foliostack.net) [Gram News](https://gramnews.org/apps/foliotrade) | 2025-11-17 |  |  |
 
-<details><summary><b>Quiet: 75</b></summary>
+<details><summary><b>Quiet: 77</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
@@ -51,7 +51,7 @@ xychart-beta
 | 28 | <img src="../assets/icons/graph.webp" width="20" height="20" alt=""> **Graph** | Graph — a trading terminal for digital assets on Solana | [Bot](https://t.me/graph_dex_bot) [Site](https://terminal.graphdex.io/sol/pulse) [Gram News](https://gramnews.org/apps/graph) | 2024-05-01 | 2.2M |  |
 | 29 | <img src="../assets/icons/tractioneye.webp" width="20" height="20" alt=""> **TractionEye** | TractionEye — social trading on TON with trader pools | [Telegram](https://t.me/TractionEye) [Bot](https://t.me/TractionEyebot) [X](https://x.com/TractionEye) [Site](https://tractioneye.xyz) [GitHub](https://github.com/TractionEye) [Gram News](https://gramnews.org/apps/tractioneye) | 2024-01-08 | 18K |  |
 | 30 | <img src="../assets/icons/bitbot.webp" width="20" height="20" alt=""> **Bitbot** | Secure, manage, and protect your wallets with ease | [Telegram](https://t.me/bitbotofficial) [Bot](https://t.me/hello_bitbot) [Gram News](https://gramnews.org/apps/bitbot) | 2024-08-30 | 87K |  |
-| 31 | <img src="../assets/icons/alpha-dex.webp" width="20" height="20" alt=""> **Alpha Dex** | One terminal, limitless tools, infinite gains | [Bot](https://t.me/alpha_web3_bot) [X](https://x.com/hotdao_) [Gram News](https://gramnews.org/apps/alpha-dex) | 2024-01-29 | 79K |  |
+| 31 | <img src="../assets/icons/alpha-dex.webp" width="20" height="20" alt=""> **Alpha Dex** | One terminal, limitless tools, infinite gains | [Bot](https://t.me/alpha_web3_bot) [Gram News](https://gramnews.org/apps/alpha-dex) | 2024-01-29 | 79K |  |
 | 32 | <img src="../assets/icons/mizar-trading-bot.webp" width="20" height="20" alt=""> **Mizar Trading Bot** | Blazing-fast on-chain bot on Solana, Ethereum, Base & BSC. Free analytics. Powerful automation | [Bot](https://t.me/mizartradingbot) [X](https://x.com/Mizar_com) [Site](https://mizar.com) [Gram News](https://gramnews.org/apps/mizar-trading-bot) | 2021-03-19 | 2K |  |
 | 33 | <img src="../assets/icons/ai-market.webp" width="20" height="20" alt=""> **AI Market** | AI-Market is a platform for automated cryptocurrency trading | [Telegram](https://t.me/aimarkettrade) [Bot](https://t.me/aimarkettradebot) | 2026-07-08 |  |  |
 | 34 | <img src="../assets/icons/arbitap.webp" width="20" height="20" alt=""> **ArbiTap** | Tap-to-Trade: arbitrage trading at your fingertips | [Bot](https://t.me/arbitap_bot) | 2024-11-21 | 399K |  |
@@ -94,36 +94,29 @@ xychart-beta
 | 71 | <img src="../assets/icons/terminalx.webp" width="20" height="20" alt=""> **TerminalX** | DeFi trading tool for TON on top of DeDust | [Bot](https://t.me/terminalxtrade_bot) | 2024-12-20 |  |  |
 | 72 | <img src="../assets/icons/th.webp" width="20" height="20" alt=""> **TH钱包** | Chinese-language wallet bot for crypto trading, savings and asset management. | [Bot](https://t.me/thqbbot) | 2026-10 |  |  |
 | 73 | <img src="../assets/icons/tinu-sniper-bot.webp" width="20" height="20" alt=""> **Tinu Sniper Bot** | TINU Trading Bot on TON is a powerful tool Part of | [Bot](https://t.me/tinusniperbot) | 2026-05-28 |  |  |
-| 74 | <img src="../assets/icons/tokehunt.webp" width="20" height="20" alt=""> **TokeHunt** |  | [Bot](https://t.me/tokehuntbot) | 2026-08-23 |  |  |
-| 75 | <img src="../assets/icons/ton-meme-bot.webp" width="20" height="20" alt=""> **Ton Meme Bot** | A bot for trading memecoins on TON | [Bot](https://t.me/memefun_tradingbot) [X](https://x.com/ton_meme_trader) [Site](https://linktr.ee/ton_meme) [Gram News](https://gramnews.org/apps/ton-meme-bot) | 2024-03-09 |  |  |
-| 76 | <img src="../assets/icons/ton-tracker-2.webp" width="20" height="20" alt=""> **Ton Tracker** | The fastest TON wallet sniper bot with smart filter | [Bot](https://t.me/tonscanerbot) [Gram News](https://gramnews.org/apps/ton-tracker-2) | 2024-08-27 |  |  |
-| 77 | <img src="../assets/icons/ton-trading.webp" width="20" height="20" alt=""> **TON Trading** | OTC and spot deals via smart contracts on TON | [Telegram](https://t.me/tontradingchannel) | 2024-07-19 |  |  |
-| 78 | <img src="../assets/icons/tonk.webp" width="20" height="20" alt=""> **Tonk** | $TONK An entire ecosystem for traders on $TON and the first multichain influencer marketplace based on onchain data in history | [Telegram](https://t.me/tonkinu_official) [X](https://x.com/tonkinubot) [Site](https://tonk.bot) | 2024-01-20 |  |  |
-| 79 | <img src="../assets/icons/tonly-trade.webp" width="20" height="20" alt=""> **Tonly Trade** | A high-performance trading interface and routing terminal for perpetual contracts on TON | [Telegram](https://t.me/tonly_app) [Bot](https://t.me/Tonly_app_bot) [X](https://x.com/Tonly_app) [Site](https://tonly.app) | 2026-05 |  |  |
-| 80 | <img src="../assets/icons/tontra.webp" width="20" height="20" alt=""> **TONTRA** | Trading bot and sniper for TON tokens | [Bot](https://t.me/tontra_bot) | 2024-05-31 |  |  |
-| 81 | <img src="../assets/icons/trading-bot.webp" width="20" height="20" alt=""> **Trading Bot** | Telegram trading bot from the MyTonSwap decentralized exchange team. | [Bot](https://t.me/MyTonSwap_Trading_bot) Site (down) [Gram News](https://gramnews.org/apps/trading-bot) | 2024-03-15 |  |  |
-| 82 | <img src="../assets/icons/tradowix-rewards.webp" width="20" height="20" alt=""> **Tradowix Rewards** | Official TradoWix rewards bot. Join , send your Trader ID, get your bonus. One reward per trader | [Telegram](https://t.me/tradowix_official) [Bot](https://t.me/tradowix_promo_bot) | 2026-08-15 |  |  |
-| 83 | <img src="../assets/icons/tradyfi.webp" width="20" height="20" alt=""> **TradyFi** | TradyFi is a Web3 SuperApp built on the TON blockchain, merging three powerful utilities — Prop Trading, Skill-based Gaming, and Tokenized Real Estate — inside | [Telegram](https://t.me/TradyFiCC) [Bot](https://t.me/tradyfi_token_bot) [X](https://x.com/tradyfi_TDF) [Site](https://www.tradyfi.io) [GitHub](https://github.com/tradyfiTDF) | 2025-09 | 93K |  |
-| 84 | **UpFin Trading Bot** |  | [Telegram](https://t.me/upfin_bot) [X](https://x.com/UpFinTrade) [Site](https://bit.ly/4lKLauS) [Gram News](https://gramnews.org/apps/upfin-trading-bot) | 2025-09-01 |  |  |
-| 85 | <img src="../assets/icons/venkate-optionx.webp" width="20" height="20" alt=""> **Venkate OptionX** | Crypto trading bot on Telegram | [Bot](https://t.me/venkateoptionxbot) | 2025-05-21 | 355K |  |
-| 86 | <img src="../assets/icons/vodkatrade.webp" width="20" height="20" alt=""> **VodkaTrade** | Telegram trading bot with its own news channel and community chat. | [Bot](https://t.me/vodkatradebot) | 2025-08-27 |  |  |
-| 87 | <img src="../assets/icons/wisdomise-ai-trader.webp" width="20" height="20" alt=""> **Wisdomise AI Trader** | Telegram bot that uses AI to find and trade memecoins with risk controls. | [Bot](https://t.me/wisdomiseton_bot) | 2024-08-06 |  |  |
-| 88 | <img src="../assets/icons/x1000.webp" width="20" height="20" alt=""> **x1000** | Telegram trading terminal bot that also publishes up-to-date information about tokens on TON. | [Telegram](https://t.me/x1000) [Bot](https://t.me/x1000_en) [X](https://x.com/x1000_finance) [Site](https://x1000.finance) [Gram News](https://gramnews.org/apps/x1000) | 2025-08-08 |  |  |
-| 89 | <img src="../assets/icons/zshot.webp" width="20" height="20" alt=""> **ZShot** | Trade-to-Mine: Earn as you trade | [Bot](https://t.me/thezshot_bot) | 2024-11-15 | 954K |  |
-| 90 | <img src="../assets/icons/wisdomise.webp" width="20" height="20" alt=""> **Wisdomise** | AI-automated index funds for digital assets | [Telegram](https://t.me/wisdomise_announcement) [X](https://x.com/wisdomise) [Site](https://wisdomise.com) | 2024-05-09 |  | since 2024-05 |
-| 91 | <img src="../assets/icons/dxs-trade-the-world.webp" width="20" height="20" alt=""> **DXS: Trade The World** | Crypto trading app with a Telegram bot, plus a channel with project news and trading information. | [Telegram](https://t.me/dxsapp) [X](https://x.com/DXSapp) [Site](https://dxs.app) [Gram News](https://gramnews.org/apps/dxs-trade-the-world) | 2025-07-24 |  |  |
-| 92 | <img src="../assets/icons/agent-x.webp" width="20" height="20" alt=""> **Agent X** | Mini app offering a smart trading agent, with a news channel, group and support contact. | [Telegram](https://t.me/agentxnews) | 2025-04-07 |  |  |
-| 93 | <img src="../assets/icons/tox.webp" width="20" height="20" alt=""> **TOX** | Crypto trading hub and bot on TON | [Telegram](https://t.me/toxonton) | 2024-06-17 |  |  |
-| 94 | <img src="../assets/icons/optsnap-trading.webp" width="20" height="20" alt=""> **Optsnap Trading** | Binary options trading platform running on the TON blockchain. | [Telegram](https://t.me/opt_snap) [Site](https://optsnap.com/) [Gram News](https://gramnews.org/apps/optsnap-trading) | 2024-09-05 |  |  |
-| 95 | <img src="../assets/icons/tg20.webp" width="20" height="20" alt=""> **TG20** | Multi-chain asset management and social trading in Telegram | [Telegram](https://t.me/tg20_official) | 2023-12-22 |  |  |
-
-</details>
-
-<details><summary><b>Closed: 2</b></summary>
-
-| # | Project | What it is | Links | Launched | Peak MAU | Verified |
-| ---: | --- | --- | --- | --- | ---: | --- |
-| 96 | <img src="../assets/icons/tob-bot.webp" width="20" height="20" alt=""> **TOB Bot** | TOB - The Fastest Trading Bot on TON | [Bot](https://t.me/tob_ton_trading_bot) [X](https://x.com/TobbotTon) [Site](https://tobbot.io/) | 2024-05-21 |  |  |
-| 97 | <img src="../assets/icons/tontradingbot.webp" width="20" height="20" alt=""> **TonTradingBot** | Trading bot on TON, run through the DinoTon bot with its own channel and group. | [Bot](https://t.me/tontrade) [X](https://x.com/TonTradingBot) [Site](https://tontradingbot.com/) | 2025-08-08 | 107K |  |
+| 74 | <img src="../assets/icons/tob-bot.webp" width="20" height="20" alt=""> **TOB Bot** | TOB - The Fastest Trading Bot on TON | [Bot](https://t.me/tob_ton_trading_bot) [X](https://x.com/TobbotTon) [Site](https://tobbot.io/) | 2024-05-21 |  |  |
+| 75 | <img src="../assets/icons/tokehunt.webp" width="20" height="20" alt=""> **TokeHunt** |  | [Bot](https://t.me/tokehuntbot) | 2026-08-23 |  |  |
+| 76 | <img src="../assets/icons/ton-meme-bot.webp" width="20" height="20" alt=""> **Ton Meme Bot** | A bot for trading memecoins on TON | [Bot](https://t.me/memefun_tradingbot) [X](https://x.com/ton_meme_trader) [Site](https://linktr.ee/ton_meme) [Gram News](https://gramnews.org/apps/ton-meme-bot) | 2024-03-09 |  |  |
+| 77 | <img src="../assets/icons/ton-tracker-2.webp" width="20" height="20" alt=""> **Ton Tracker** | The fastest TON wallet sniper bot with smart filter | [Bot](https://t.me/tonscanerbot) [Gram News](https://gramnews.org/apps/ton-tracker-2) | 2024-08-27 |  |  |
+| 78 | <img src="../assets/icons/ton-trading.webp" width="20" height="20" alt=""> **TON Trading** | OTC and spot deals via smart contracts on TON | [Telegram](https://t.me/tontradingchannel) | 2024-07-19 |  |  |
+| 79 | <img src="../assets/icons/tonk.webp" width="20" height="20" alt=""> **Tonk** | $TONK An entire ecosystem for traders on $TON and the first multichain influencer marketplace based on onchain data in history | [Telegram](https://t.me/tonkinu_official) [X](https://x.com/tonkinubot) [Site](https://tonk.bot) | 2024-01-20 |  |  |
+| 80 | <img src="../assets/icons/tonly-trade.webp" width="20" height="20" alt=""> **Tonly Trade** | A high-performance trading interface and routing terminal for perpetual contracts on TON | [Telegram](https://t.me/tonly_app) [Bot](https://t.me/Tonly_app_bot) [X](https://x.com/Tonly_app) [Site](https://tonly.app) | 2026-05 |  |  |
+| 81 | <img src="../assets/icons/tontra.webp" width="20" height="20" alt=""> **TONTRA** | Trading bot and sniper for TON tokens | [Bot](https://t.me/tontra_bot) | 2024-05-31 |  |  |
+| 82 | <img src="../assets/icons/tontradingbot.webp" width="20" height="20" alt=""> **TonTradingBot** | Trading bot on TON, run through the DinoTon bot with its own channel and group. | [Bot](https://t.me/tontrade) [X](https://x.com/TonTradingBot) [Site](https://tontradingbot.com/) | 2025-08-08 | 107K |  |
+| 83 | <img src="../assets/icons/trading-bot.webp" width="20" height="20" alt=""> **Trading Bot** | Telegram trading bot from the MyTonSwap decentralized exchange team. | [Bot](https://t.me/MyTonSwap_Trading_bot) Site (down) [Gram News](https://gramnews.org/apps/trading-bot) | 2024-03-15 |  |  |
+| 84 | <img src="../assets/icons/tradowix-rewards.webp" width="20" height="20" alt=""> **Tradowix Rewards** | Official TradoWix rewards bot. Join , send your Trader ID, get your bonus. One reward per trader | [Telegram](https://t.me/tradowix_official) [Bot](https://t.me/tradowix_promo_bot) | 2026-08-15 |  |  |
+| 85 | <img src="../assets/icons/tradyfi.webp" width="20" height="20" alt=""> **TradyFi** | TradyFi is a Web3 SuperApp built on the TON blockchain, merging three powerful utilities — Prop Trading, Skill-based Gaming, and Tokenized Real Estate — inside | [Telegram](https://t.me/TradyFiCC) [Bot](https://t.me/tradyfi_token_bot) [X](https://x.com/tradyfi_TDF) [Site](https://www.tradyfi.io) [GitHub](https://github.com/tradyfiTDF) | 2025-09 | 93K |  |
+| 86 | **UpFin Trading Bot** |  | [Telegram](https://t.me/upfin_bot) [X](https://x.com/UpFinTrade) [Site](https://bit.ly/4lKLauS) [Gram News](https://gramnews.org/apps/upfin-trading-bot) | 2025-09-01 |  |  |
+| 87 | <img src="../assets/icons/venkate-optionx.webp" width="20" height="20" alt=""> **Venkate OptionX** | Crypto trading bot on Telegram | [Bot](https://t.me/venkateoptionxbot) | 2025-05-21 | 355K |  |
+| 88 | <img src="../assets/icons/vodkatrade.webp" width="20" height="20" alt=""> **VodkaTrade** | Telegram trading bot with its own news channel and community chat. | [Bot](https://t.me/vodkatradebot) | 2025-08-27 |  |  |
+| 89 | <img src="../assets/icons/wisdomise-ai-trader.webp" width="20" height="20" alt=""> **Wisdomise AI Trader** | Telegram bot that uses AI to find and trade memecoins with risk controls. | [Bot](https://t.me/wisdomiseton_bot) | 2024-08-06 |  |  |
+| 90 | <img src="../assets/icons/x1000.webp" width="20" height="20" alt=""> **x1000** | Telegram trading terminal bot that also publishes up-to-date information about tokens on TON. | [Telegram](https://t.me/x1000) [Bot](https://t.me/x1000_en) [X](https://x.com/x1000_finance) [Site](https://x1000.finance) [Gram News](https://gramnews.org/apps/x1000) | 2025-08-08 |  |  |
+| 91 | <img src="../assets/icons/zshot.webp" width="20" height="20" alt=""> **ZShot** | Trade-to-Mine: Earn as you trade | [Bot](https://t.me/thezshot_bot) | 2024-11-15 | 954K |  |
+| 92 | <img src="../assets/icons/wisdomise.webp" width="20" height="20" alt=""> **Wisdomise** | AI-automated index funds for digital assets | [Telegram](https://t.me/wisdomise_announcement) [X](https://x.com/wisdomise) [Site](https://wisdomise.com) | 2024-05-09 |  | since 2024-05 |
+| 93 | <img src="../assets/icons/dxs-trade-the-world.webp" width="20" height="20" alt=""> **DXS: Trade The World** | Crypto trading app with a Telegram bot, plus a channel with project news and trading information. | [Telegram](https://t.me/dxsapp) [X](https://x.com/DXSapp) [Site](https://dxs.app) [Gram News](https://gramnews.org/apps/dxs-trade-the-world) | 2025-07-24 |  |  |
+| 94 | <img src="../assets/icons/agent-x.webp" width="20" height="20" alt=""> **Agent X** | Mini app offering a smart trading agent, with a news channel, group and support contact. | [Telegram](https://t.me/agentxnews) | 2025-04-07 |  |  |
+| 95 | <img src="../assets/icons/tox.webp" width="20" height="20" alt=""> **TOX** | Crypto trading hub and bot on TON | [Telegram](https://t.me/toxonton) | 2024-06-17 |  |  |
+| 96 | <img src="../assets/icons/optsnap-trading.webp" width="20" height="20" alt=""> **Optsnap Trading** | Binary options trading platform running on the TON blockchain. | [Telegram](https://t.me/opt_snap) [Site](https://optsnap.com/) [Gram News](https://gramnews.org/apps/optsnap-trading) | 2024-09-05 |  |  |
+| 97 | <img src="../assets/icons/tg20.webp" width="20" height="20" alt=""> **TG20** | Multi-chain asset management and social trading in Telegram | [Telegram](https://t.me/tg20_official) | 2023-12-22 |  |  |
 
 </details>

@@ -29,7 +29,7 @@ xychart-beta
 | 11 | <img src="../assets/icons/tangem.webp" width="20" height="20" alt=""> **Tangem** | Tap into crypto freedom. Security. Utility. Mobility. 6M+ wallets and counting | [Telegram](https://t.me/tangem) [X](https://x.com/Tangem) [Site](https://tangem.com) [GitHub](https://github.com/tangem) | 2023-04-13 |  | since 2023-07 |
 | 12 | **Ledger** |  | [Site](https://www.ledger.com) | 2023-12-13 |  |  |
 | 13 | <img src="../assets/icons/tokenpocket.webp" width="20" height="20" alt=""> **TokenPocket** | Multi-chain crypto wallet with downloads and email support. | [Telegram](https://t.me/tokenpocket_channel) [X](https://x.com/TokenPocket_TP) [Site](https://www.tokenpocket.pro/) [GitHub](https://github.com/TP-Lab) [Gram News](https://gramnews.org/apps/tokenpocket) | 2024-06-03 |  |  |
-| 14 | <img src="../assets/icons/coin98-super-wallet.webp" width="20" height="20" alt=""> **Coin98** | DeFi & AI Wallet. Everyone's Gateway to The Open Internet | [Telegram](https://t.me/coin98wallet) [Bot](https://t.me/Coin98_bot) [X](https://x.com/coin98_wallet) [Site](https://coin98.com/) [GitHub](https://github.com/TP-Lab) [Gram News](https://gramnews.org/apps/coin98-super-wallet) | 2022-06-03 | 1.1M |  |
+| 14 | <img src="../assets/icons/coin98-super-wallet.webp" width="20" height="20" alt=""> **Coin98** | DeFi & AI Wallet. Everyone's Gateway to The Open Internet | [Telegram](https://t.me/coin98wallet) [Bot](https://t.me/Coin98_bot) [X](https://x.com/coin98_wallet) [Site](https://coin98.com/) [Gram News](https://gramnews.org/apps/coin98-super-wallet) | 2022-06-03 | 1.1M |  |
 | 15 | <img src="../assets/icons/wallet-agent.webp" width="20" height="20" alt=""> **Wallet Agent** | AI agent bot for GRAM and TON with a news channel and website. | [Telegram](https://t.me/wallet_agent) [Site](https://walletagent.dog) | 2026-05-29 |  |  |
 | 16 | <img src="../assets/icons/ultra-wallet.webp" width="20" height="20" alt=""> **Ultra Wallet** | Wallet and trading app in Telegram with a community channel. | [Telegram](https://t.me/ultrawalletofficial) [Bot](https://t.me/ultrawallettrade_bot) | 2026-09-06 |  |  |
 | 17 | <img src="../assets/icons/architect-ton.webp" width="20" height="20" alt=""> **Architect.ton** | Architec.Ton — a wallet with an app catalog on the TON blockchain | [Telegram](https://t.me/architecton_tech) [Bot](https://t.me/architec_ton_bot) [X](https://x.com/architec_ton) [Site](https://architecton.tech) [Gram News](https://gramnews.org/apps/architect-ton) | 2024-04-24 | 53K |  |
@@ -80,7 +80,7 @@ xychart-beta
 | 57 | <img src="../assets/icons/holdzilla.webp" width="20" height="20" alt=""> **Holdzilla** | Multifunctional crypto wallet bot of FollowDragons | [Bot](https://t.me/holdzillabot) | 2024-04-15 | 2K |  |
 | 58 | <img src="../assets/icons/hot-protocol.webp" width="20" height="20" alt=""> **HOT Protocol** | HERE wallet and HOT protocol support bot | [Bot](https://t.me/hotprotocol_bot) | 2025-02-02 |  |  |
 | 59 | <img src="../assets/icons/infinito.webp" width="20" height="20" alt=""> **Infinito** | Multi-chain crypto wallet | [Telegram](https://t.me/infinitowallet) | 2019-04-19 |  |  |
-| 60 | <img src="../assets/icons/matrix-wallet.webp" width="20" height="20" alt=""> **Matrix Wallet** | Self-custodial, multi-chain wallet on Telegram | [Bot](https://t.me/MatrixWalletBot) [Site](https://) [GitHub](https://github.com/rangersprotocolcode) [Gram News](https://gramnews.org/apps/matrix-wallet) | 2024-03 |  |  |
+| 60 | <img src="../assets/icons/matrix-wallet.webp" width="20" height="20" alt=""> **Matrix Wallet** | Self-custodial, multi-chain wallet on Telegram | [Bot](https://t.me/MatrixWalletBot) [Site](https://) [Gram News](https://gramnews.org/apps/matrix-wallet) | 2024-03 |  |  |
 | 61 | <img src="../assets/icons/mixin.webp" width="20" height="20" alt=""> **Mixin** | Bot to store and transfer TON, BTC and other cryptocurrencies | [Bot](https://t.me/mixinbot) | 2023-01-04 |  |  |
 | 62 | **Mixin Messenger** |  | [Site](https://mixin.one/messenger) [Gram News](https://gramnews.org/apps/mixin-messenger) | 2020-02-29 |  |  |
 | 63 | <img src="../assets/icons/notonbot.webp" width="20" height="20" alt=""> **notonbot** |  | [Bot](https://t.me/notonoffice_bot) [Gram News](https://gramnews.org/apps/notonbot) | 2024-07-22 | 261K |  |
@@ -106,7 +106,7 @@ xychart-beta
 | 83 | <img src="../assets/icons/twallet-app.webp" width="20" height="20" alt=""> **TWallet App** | Tokens, transactions, and digital collectibles in one clean interface that keeps the focus on what matters | [Bot](https://t.me/twalletappbot) | 2026-08-28 |  |  |
 | 84 | <img src="../assets/icons/units-wallet.webp" width="20" height="20" alt=""> **Units Wallet** | Foundational layer connecting all ecosystem chains in a fully interoperable and trustless manner | [Bot](https://t.me/unitswallet_bot) | 2024-10-24 | 2M |  |
 | 85 | <img src="../assets/icons/uxuy-agent2.webp" width="20" height="20" alt=""> **UXUY Agent2** | UXUY Dec bot’s trading and market features have moved to UXUY Wallet | [Bot](https://t.me/uxuydexbot) | 2025-01-06 | 895K |  |
-| 86 | <img src="../assets/icons/vaniton.webp" width="20" height="20" alt=""> **vaniton** | Wallet bot for managing USDT and other crypto, with news and support channels. | [Telegram](https://t.me/beast_crypto_news) [Bot](https://t.me/BeastWalletBot) [Site](https://github.com/AntonMeep/vaniton) [GitHub](https://github.com/fluidicon.png) [Gram News](https://gramnews.org/apps/vaniton) | 2024-08-30 |  |  |
+| 86 | <img src="../assets/icons/vaniton.webp" width="20" height="20" alt=""> **vaniton** | Wallet bot for managing USDT and other crypto, with news and support channels. | [Telegram](https://t.me/beast_crypto_news) [Bot](https://t.me/BeastWalletBot) [Site](https://github.com/AntonMeep/vaniton) [Gram News](https://gramnews.org/apps/vaniton) | 2024-08-30 |  |  |
 | 87 | <img src="../assets/icons/wallet-explorer.webp" width="20" height="20" alt=""> **Wallet Explorer** |  | [Bot](https://t.me/toftechbot) [Gram News](https://gramnews.org/apps/wallet-explorer) | 2024-01 | 867K |  |
 | 88 | <img src="../assets/icons/wallet-hub.webp" width="20" height="20" alt=""> **Wallet.Hub** |  | [Bot](https://t.me/walletdothub_bot) | 2026-08-01 |  |  |
 | 89 | <img src="../assets/icons/wind-wallet.webp" width="20" height="20" alt=""> **Wind Wallet** | New Generation of Telegram Wallet on Vexanium Blockchain | [Bot](https://t.me/windwalletbot) | 2024-09-03 |  |  |
@@ -121,14 +121,14 @@ xychart-beta
 | 98 | <img src="../assets/icons/tonflow-wallet.webp" width="20" height="20" alt=""> **Tonflow Wallet** | TONFLOW: A secure, self-custodial wallet for the TON blockchain | [Telegram](https://t.me/tonflow_community) [X](https://x.com/itonflow) Site (down) [GitHub](https://github.com/tonflow) [Gram News](https://gramnews.org/apps/tonflow-wallet) | 2024-10-22 |  |  |
 | 99 | **Top Wallets** |  | [Telegram](https://t.me/top_wallets) [GitHub](https://github.com/AlexGor-dev/Top-Wallets) | 2023-05-20 |  |  |
 | 100 | <img src="../assets/icons/defexa.webp" width="20" height="20" alt=""> **Defexa** | World first memecoin bank | [Telegram](https://t.me/defexa) [X](https://x.com/DefexaCrypto) [Site](https://defexa.io) [Gram News](https://gramnews.org/apps/defexa) | 2022-11-04 |  |  |
-| 101 | <img src="../assets/icons/openmask-2.webp" width="20" height="20" alt=""> **OpenMask** | Release notes and announcements for the OpenMask wallet. | [Telegram](https://t.me/openproduct) [X](https://x.com/openmask_wallet) [Site](https://github.com/openproduct/openmask-extension) [GitHub](https://github.com/fluidicon.png) [Gram News](https://gramnews.org/apps/openmask-2) | 2022-09-06 |  |  |
+| 101 | <img src="../assets/icons/openmask-2.webp" width="20" height="20" alt=""> **OpenMask** | Release notes and announcements for the OpenMask wallet. | [Telegram](https://t.me/openproduct) [X](https://x.com/openmask_wallet) [Site](https://github.com/openproduct/openmask-extension) [Gram News](https://gramnews.org/apps/openmask-2) | 2022-09-06 |  |  |
 
 </details>
 
 <details><summary><b>Closed: 1</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified |
-| ---: | --- | --- | --- | --- | ---: | --- |
-| 102 | <img src="../assets/icons/fintopio.webp" width="20" height="20" alt=""> **Fintopio** | Finance app offering a bot, website and news channel. | [Telegram](https://t.me/fintopionews) [X](https://x.com/fintopio) [Site](https://fintopio.com/) | 2021-11-27 |  | since 2024-05 |
+| # | Project | What it is | Closed | Proof |
+| ---: | --- | --- | --- | --- |
+| 102 | <img src="../assets/icons/fintopio.webp" width="20" height="20" alt=""> **Fintopio** | Finance app offering a bot, website and news channel. | 2025-10-14 | [announcement](https://t.me/fintopionews/396) |
 
 </details>

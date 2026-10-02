@@ -2,7 +2,7 @@
 
 # CEX
 
-**84 projects: 50 active, 32 quiet, 2 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/exchanges.csv).
+**84 projects: 50 active, 34 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/exchanges.csv).
 
 ```mermaid
 %%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
@@ -22,8 +22,8 @@ xychart-beta
 | 4 | <img src="../assets/icons/bitget.webp" width="20" height="20" alt=""> **Bitget** | Official Bitget English Announcements Channel | [Telegram](https://t.me/bitget_announcements) [X](https://x.com/bitget) [Site](https://www.bitget.com) [Gram News](https://gramnews.org/apps/bitget) | 2021-07-03 |  | since 2021-12 |
 | 5 | **Coinbase** |  | [Site](https://www.coinbase.com) | 2025-11-18 |  |  |
 | 6 | **Revolut** |  | [Site](https://www.revolut.com) | 2024-09-13 |  |  |
-| 7 | <img src="../assets/icons/huobi.webp" width="20" height="20" alt=""> **HTX** | HTX Official English Group | [Telegram](https://t.me/htx_announcements) [X](https://x.com/TobbotTon) [Site](https://www.htx.com) [Gram News](https://gramnews.org/apps/huobi) | 2017-05-13 |  |  |
-| 8 | **KuCoin** | Leading global crypto platform built on trust / 40M+ users worldwide | [Telegram](https://t.me/kucoin_news) [X](https://x.com/KuCoinCom) [Site](https://www.kucoin.com) [GitHub](https://github.com/qutoncash) [Gram News](https://gramnews.org/apps/kucoin) | 2022-12-20 |  |  |
+| 7 | <img src="../assets/icons/huobi.webp" width="20" height="20" alt=""> **HTX** | HTX Official English Group | [Telegram](https://t.me/htx_announcements) [Site](https://www.htx.com) [Gram News](https://gramnews.org/apps/huobi) | 2017-05-13 |  |  |
+| 8 | **KuCoin** | Leading global crypto platform built on trust / 40M+ users worldwide | [Telegram](https://t.me/kucoin_news) [X](https://x.com/KuCoinCom) [Site](https://www.kucoin.com) [Gram News](https://gramnews.org/apps/kucoin) | 2022-12-20 |  |  |
 | 9 | **MEXC** | Crypto exchange with a website, a downloadable app and community channels for events and chat. | [Telegram](https://t.me/mexcofficialnews) [X](https://x.com/mexc) [Site](https://www.mexc.com) [Gram News](https://gramnews.org/apps/mexc-cex) | 2026-01-02 |  |  |
 | 10 | **bitFlyer** |  | [Site](https://bitflyer.com) | 2026-09-29 |  |  |
 | 11 | <img src="../assets/icons/wallex.webp" width="20" height="20" alt=""> **wallex** | Iranian crypto exchange that publishes news and API updates through Telegram channels. | [Telegram](https://t.me/wallexchange) [X](https://x.com/Wallex_ir) [Site](https://wallex.ir) [Gram News](https://gramnews.org/apps/wallex) | 2018-11-27 |  |  |
@@ -49,7 +49,7 @@ xychart-beta
 | 31 | <img src="../assets/icons/xgram.webp" width="20" height="20" alt=""> **Xgram** | Xgram is a service for fast and secure cryptocurrency exchange | [Telegram](https://t.me/xgram_io) [Bot](https://t.me/xgram_io_bot) [X](https://x.com/xgram_io) [Site](https://xgram.io/) [Gram News](https://gramnews.org/apps/xgram) | 2026-01-10 | 23K |  |
 | 32 | <img src="../assets/icons/alwaysmoney-exchange.webp" width="20" height="20" alt=""> **AlwaysMoney Exchange** | Блог про крипту, финансы, саморазвитие | [Telegram](https://t.me/alwaysmoneyorg) [X](https://x.com/AlwaysMoneyOrg) [Site](https://alwaysmoney.org/) [Gram News](https://gramnews.org/apps/alwaysmoney-exchange) | 2025-06-13 |  |  |
 | 33 | <img src="../assets/icons/coincraddle.webp" width="20" height="20" alt=""> **CoinCraddle** | CoinCraddle — crypto exchange without registration | [Telegram](https://t.me/coincraddle_en) [Bot](https://t.me/coincraddle_change_bot) [X](https://x.com/coincraddle) [Site](https://coincraddle.com/) [Gram News](https://gramnews.org/apps/coincraddle) | 2024-05-14 |  |  |
-| 34 | <img src="../assets/icons/tonbankcard-exchange.webp" width="20" height="20" alt=""> **TONBANKCARD Exchange** | TONBANKCARD – crypto exchange in Telegram | [Telegram](https://t.me/tonbankcard) [X](https://x.com/tonbankcard) [Site](https://exchange.tonbankcard.com) [GitHub](https://github.com/xlabtg) [Gram News](https://gramnews.org/apps/tonbankcard-exchange) | 2024-11-19 |  |  |
+| 34 | <img src="../assets/icons/tonbankcard-exchange.webp" width="20" height="20" alt=""> **TONBANKCARD Exchange** | TONBANKCARD – crypto exchange in Telegram | [Telegram](https://t.me/tonbankcard) [X](https://x.com/tonbankcard) [Site](https://exchange.tonbankcard.com) [Gram News](https://gramnews.org/apps/tonbankcard-exchange) | 2024-11-19 |  |  |
 | 35 | <img src="../assets/icons/explace.webp" width="20" height="20" alt=""> **Explace** | Cryptocurrency exchange listing over 2000 coins with live support and quick swaps. | [Telegram](https://t.me/explaceio) [X](https://x.com/Explaceio) [Site](https://explace.io/) [Gram News](https://gramnews.org/apps/explace) | 2024-09-26 |  |  |
 | 36 | **Bitstorage** |  | [Telegram](https://t.me/bitstoragefinancechannel) [X](https://x.com/BitstorageFin) [Site](https://bitstorage.finance/) [Gram News](https://gramnews.org/apps/bitstorage) | 2026-08-08 |  |  |
 | 37 | **Gate** |  | [Site](https://www.gate.io) [Gram News](https://gramnews.org/apps/gate-io) | 2021-10-25 |  |  |
@@ -67,7 +67,7 @@ xychart-beta
 | 49 | <img src="../assets/icons/swissborg.webp" width="20" height="20" alt=""> **SwissBorg** | Making crypto wealth management accessible to everyone | [Telegram](https://t.me/swissborg) [X](https://x.com/swissborg) [Site](https://swissborg.com) | 2022-11-18 |  | yes |
 | 50 | <img src="../assets/icons/weex.webp" width="20" height="20" alt=""> **WEEX** | WEEX is a global cryptocurrency trading platform founded in 2018, serving users in 150+ countries. It offers spot and futures trading across thousands of pairs, including futures markets with leverage | [Telegram](https://t.me/weexglobal) [X](https://x.com/WEEX_Official) [Site](https://www.weex.com/) | 2026-01-02 |  |  |
 
-<details><summary><b>Quiet: 32</b></summary>
+<details><summary><b>Quiet: 34</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
@@ -94,23 +94,16 @@ xychart-beta
 | 71 | <img src="../assets/icons/kraken.webp" width="20" height="20" alt=""> **Kraken** | Official community chat of the Kraken crypto exchange | [Telegram](https://t.me/kraken_exchange_official) | 2025-12-18 |  |  |
 | 72 | <img src="../assets/icons/kucoin-gemspace.webp" width="20" height="20" alt=""> **KuCoin GemSpace** | KuCoin hub for new listings and promotions | [Telegram](https://t.me/kucoingemspace) | 2024-09-07 |  |  |
 | 73 | <img src="../assets/icons/kucoin-ton.webp" width="20" height="20" alt=""> **KuCoin TON** | Official KuCoin group for TON events | [Telegram](https://t.me/kucointongroup) | 2022-12-21 |  |  |
-| 74 | **Matrixport** |  | [Site](https://www.matrixport.com/) [Gram News](https://gramnews.org/apps/matrixport) | 2019-05-22 |  |  |
-| 75 | <img src="../assets/icons/novadax.webp" width="20" height="20" alt=""> **NovaDax** |  | [Telegram](https://t.me/livehub_to) [X](https://x.com/livehub_to) [Site](https://www.novadax.com.br/product/orderbook?pair=TON_BRL) [Gram News](https://gramnews.org/apps/novadax) | 2024-12-28 |  |  |
-| 76 | <img src="../assets/icons/okx-explorer.webp" width="20" height="20" alt=""> **OKX Explorer** |  | [Telegram](https://t.me/OKXOfficial_English) [X](https://x.com/okxexplorer) [Site](https://www.okx.com/web3/explorer) [Gram News](https://gramnews.org/apps/okx-explorer) | 2024-07-15 |  | since 2022-01 |
-| 77 | **OSL Exchange** | OSL Digital Securities is Hong Kong’s first and most established SFC-licensed and insured digital asset exchange. Operating since 2018, the platform provides institutional-grade digital asset services | [X](https://x.com/OSL_HK) [Site](https://www.osl.com/en) | 2026-01-13 |  |  |
-| 78 | <img src="../assets/icons/phemex.webp" width="20" height="20" alt=""> **Phemex** | Official chat of the Phemex crypto exchange | [Telegram](https://t.me/phemex_en) | 2022-10-25 |  | yes |
-| 79 | **Websea** | Websea provides a comprehensive suite of trading and financial products, including Spot Trading, Futures Trading, Standard Copy Trading | [X](https://x.com/webseaofficial) [Site](https://www.websea.com/) | 2022-04-24 |  |  |
-| 80 | <img src="../assets/icons/excoino.webp" width="20" height="20" alt=""> **Excoino** | Persian-language crypto exchange operated by a knowledge-based Iranian company. | [Telegram](https://t.me/excoino) [Bot](https://t.me/tonbuytechbot) [X](https://x.com/excoino) [Site](https://excoino.com) [Gram News](https://gramnews.org/apps/excoino) | 2022-06-29 |  |  |
-| 81 | <img src="../assets/icons/onus.webp" width="20" height="20" alt=""> **ONUS** | Announcements of ONUS finance app | [Telegram](https://t.me/onus_globalchannel) | 2021-11-22 |  | since 2024-01 |
-| 82 | <img src="../assets/icons/bitdealer.webp" width="20" height="20" alt=""> **Bitdealer** | Official Bitdealer news channel | [Telegram](https://t.me/bitdealernews) | 2025-08-31 |  |  |
-
-</details>
-
-<details><summary><b>Closed: 2</b></summary>
-
-| # | Project | What it is | Links | Launched | Peak MAU | Verified |
-| ---: | --- | --- | --- | --- | ---: | --- |
-| 83 | **LBank Exchange** |  | Site (down) [Gram News](https://gramnews.org/apps/lbank-exchange) | 2024-05-15 |  |  |
-| 84 | **Neocrypto** |  | [Site](https://neocrypto.net) | 2023-07 |  |  |
+| 74 | **LBank Exchange** |  | Site (down) [Gram News](https://gramnews.org/apps/lbank-exchange) | 2024-05-15 |  |  |
+| 75 | **Matrixport** |  | [Site](https://www.matrixport.com/) [Gram News](https://gramnews.org/apps/matrixport) | 2019-05-22 |  |  |
+| 76 | **Neocrypto** |  | [Site](https://neocrypto.net) | 2023-07 |  |  |
+| 77 | <img src="../assets/icons/novadax.webp" width="20" height="20" alt=""> **NovaDax** |  | [Telegram](https://t.me/livehub_to) [X](https://x.com/livehub_to) [Site](https://www.novadax.com.br/product/orderbook?pair=TON_BRL) [Gram News](https://gramnews.org/apps/novadax) | 2024-12-28 |  |  |
+| 78 | <img src="../assets/icons/okx-explorer.webp" width="20" height="20" alt=""> **OKX Explorer** |  | [Telegram](https://t.me/OKXOfficial_English) [X](https://x.com/okxexplorer) [Site](https://www.okx.com/web3/explorer) [Gram News](https://gramnews.org/apps/okx-explorer) | 2024-07-15 |  | since 2022-01 |
+| 79 | **OSL Exchange** | OSL Digital Securities is Hong Kong’s first and most established SFC-licensed and insured digital asset exchange. Operating since 2018, the platform provides institutional-grade digital asset services | [X](https://x.com/OSL_HK) [Site](https://www.osl.com/en) | 2026-01-13 |  |  |
+| 80 | <img src="../assets/icons/phemex.webp" width="20" height="20" alt=""> **Phemex** | Official chat of the Phemex crypto exchange | [Telegram](https://t.me/phemex_en) | 2022-10-25 |  | yes |
+| 81 | **Websea** | Websea provides a comprehensive suite of trading and financial products, including Spot Trading, Futures Trading, Standard Copy Trading | [X](https://x.com/webseaofficial) [Site](https://www.websea.com/) | 2022-04-24 |  |  |
+| 82 | <img src="../assets/icons/excoino.webp" width="20" height="20" alt=""> **Excoino** | Persian-language crypto exchange operated by a knowledge-based Iranian company. | [Telegram](https://t.me/excoino) [Bot](https://t.me/tonbuytechbot) [X](https://x.com/excoino) [Site](https://excoino.com) [Gram News](https://gramnews.org/apps/excoino) | 2022-06-29 |  |  |
+| 83 | <img src="../assets/icons/onus.webp" width="20" height="20" alt=""> **ONUS** | Announcements of ONUS finance app | [Telegram](https://t.me/onus_globalchannel) | 2021-11-22 |  | since 2024-01 |
+| 84 | <img src="../assets/icons/bitdealer.webp" width="20" height="20" alt=""> **Bitdealer** | Official Bitdealer news channel | [Telegram](https://t.me/bitdealernews) | 2025-08-31 |  |  |
 
 </details>

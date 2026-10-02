@@ -2,7 +2,7 @@
 
 # Lending
 
-**18 projects: 9 active, 9 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/lending.csv).
+**18 projects: 6 active, 8 quiet, 4 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/lending.csv).
 
 ```mermaid
 %%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
@@ -18,15 +18,12 @@ xychart-beta
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 1 | <img src="../assets/icons/evaa-protocol.webp" width="20" height="20" alt=""> **EVAA Protocol** | The first decentralized lending protocol on TON | [Telegram](https://t.me/evaaprotocol) [Bot](https://t.me/EvaaAppBot) [X](https://x.com/evaaprotocol) [Site](https://evaa.finance) [GitHub](https://github.com/evaafi) [Gram News](https://gramnews.org/apps/evaa-protocol) | 2022-12-10 | 90K | since 2024-09 |
 | 2 | <img src="../assets/icons/tonlender.webp" width="20" height="20" alt=""> **TONLender** | Borrow GRAM against NFT collateral on TON | [Telegram](https://t.me/tonlender_ru) [Bot](https://t.me/tonlenderbot) [X](https://x.com/tonlender) [Site](https://tonlender.com) [Gram News](https://gramnews.org/apps/tonlender) | 2026-04-22 |  |  |
-| 3 | <img src="../assets/icons/daolama.webp" width="20" height="20" alt=""> **DAOLama** | DAOLama is a lending service for NFT collateral that is closing soon | [Telegram](https://t.me/daolama) [Bot](https://t.me/daolama_bot) [X](https://x.com/daolama_ton) [Site](https://daolama.co?utm_source=tonapp&utm_medium=marketplace&utm_campaign=NFT_service) [Gram News](https://gramnews.org/apps/daolama) | 2022-08-30 | 56K |  |
 | 4 | <img src="../assets/icons/gtc.webp" width="20" height="20" alt=""> **GTC (Gift To Credit)** | GTC is onchain / offchain lending against Telegram gifts & NFTs | [Telegram](https://t.me/gifttocredit_new_age) [Site](https://giftcredit.app/borrow) | 2026-07-01 |  |  |
-| 5 | <img src="../assets/icons/fiva.webp" width="20" height="20" alt=""> **Fiva** | FIVA - Your financial app in Telegram | [Telegram](https://t.me/fiva_protocol) [Bot](https://t.me/fiva_yield_bot) [X](https://x.com/FivaProtocol) [Site](https://thefiva.com) [Gram News](https://gramnews.org/apps/fiva) | 2024-07-23 | 24K |  |
 | 6 | <img src="../assets/icons/octalend.webp" width="20" height="20" alt=""> **Octalend** | Octalend — NFT and gift-backed lending on TON | [Telegram](https://t.me/octalend) [Bot](https://t.me/octalend_bot) [X](https://x.com/octalend) [Site](https://octalend.xyz) [Gram News](https://gramnews.org/apps/octalend) | 2026-03-09 |  |  |
-| 7 | <img src="../assets/icons/aqua-protocol-cdp.webp" width="20" height="20" alt=""> **Aqua Protocol (CDP)** | Telegram bot for farming Aqua Points tied to the Aqua Protocol crypto products. | [Telegram](https://t.me/aquaprotocolxyzchannel) [Bot](https://t.me/AquaProtocolxyz_Bot) [X](https://x.com/aquaprotocolxyz) [Site](https://aquaprotocol.xyz/?utm_source=tonapp&utm_medium=ecosystem&utm_campaign=aqua) [Gram News](https://gramnews.org/apps/aqua-protocol-cdp) | 2022-11-10 |  |  |
 | 8 | <img src="../assets/icons/delea-finance.webp" width="20" height="20" alt=""> **Delea Finance** |  | [Telegram](https://t.me/delea_finance) [Bot](https://t.me/delea_app_bot) [X](https://x.com/DeleaFinance) [Site](https://delea.finance/) [Gram News](https://gramnews.org/apps/delea-finance) | 2024-11-19 |  |  |
 | 9 | <img src="../assets/icons/affluent-tvl.webp" width="20" height="20" alt=""> **Affluent** | Affluent is a Telegram mini app for staking | [Telegram](https://t.me/Affluent) [Bot](https://t.me/affluentappbot) [X](https://x.com/affluentorg) [Site](https://affluent.org) [Gram News](https://gramnews.org/apps/affluent) | 2024-10-22 |  |  |
 
-<details><summary><b>Quiet: 9</b></summary>
+<details><summary><b>Quiet: 8</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
@@ -36,8 +33,18 @@ xychart-beta
 | 13 | <img src="../assets/icons/euler.webp" width="20" height="20" alt=""> **Euler** | Lending super app in Telegram | [Bot](https://t.me/eulerfinancebot) | 2025-07-17 |  |  |
 | 14 | <img src="../assets/icons/morpho.webp" width="20" height="20" alt=""> **Morpho** | Telegram bot for earning yield on crypto deposits through a lending protocol. | [Bot](https://t.me/morphoorgbot) | 2025-07-19 |  |  |
 | 15 | **Tonpound** |  | [Bot](https://t.me/tonpoundbot) | 2024-06 |  |  |
-| 16 | <img src="../assets/icons/kirkafi.webp" width="20" height="20" alt=""> **KirkaFi** | Modular DeFi infrastructure on TON built around undercollateralized credit | [Telegram](https://t.me/farmixton) | 2024-09-18 |  |  |
-| 17 | <img src="../assets/icons/token-evaa-protocol.webp" width="20" height="20" alt=""> **EVAA Protocol (EVAA)** | The first decentralized lending protocol on TON | [Telegram](https://t.me/evaaprotocol) [X](https://x.com/evaaprotocol) [Site](https://evaa.finance) | 2025-09-29 |  |  |
-| 18 | <img src="../assets/icons/ton-lombard.webp" width="20" height="20" alt=""> **TON Lombard** | Credit in TON via Telegram bot | [Telegram](https://t.me/ton_lombard) [Bot](https://t.me/tonlombardbot) | 2022-06-18 | 1K |  |
+| 16 | <img src="../assets/icons/token-evaa-protocol.webp" width="20" height="20" alt=""> **EVAA Protocol (EVAA)** | The first decentralized lending protocol on TON | [Telegram](https://t.me/evaaprotocol) [X](https://x.com/evaaprotocol) [Site](https://evaa.finance) | 2025-09-29 |  |  |
+| 17 | <img src="../assets/icons/ton-lombard.webp" width="20" height="20" alt=""> **TON Lombard** | Credit in TON via Telegram bot | [Telegram](https://t.me/ton_lombard) [Bot](https://t.me/tonlombardbot) | 2022-06-18 | 1K |  |
+
+</details>
+
+<details><summary><b>Closed: 4</b></summary>
+
+| # | Project | What it is | Closed | Proof |
+| ---: | --- | --- | --- | --- |
+| 3 | <img src="../assets/icons/daolama.webp" width="20" height="20" alt=""> **DAOLama** | DAOLama is a lending service for NFT collateral that is closing soon | 2026-07-07 | [announcement](https://t.me/daolama/298) |
+| 5 | <img src="../assets/icons/fiva.webp" width="20" height="20" alt=""> **Fiva** | FIVA - Your financial app in Telegram | 2026-07-21 | [announcement](https://t.me/fiva_protocol/186) |
+| 7 | <img src="../assets/icons/aqua-protocol-cdp.webp" width="20" height="20" alt=""> **Aqua Protocol (CDP)** | Telegram bot for farming Aqua Points tied to the Aqua Protocol crypto products. | 2025-06-06 | [announcement](https://t.me/aquaprotocolxyzchannel/647) |
+| 18 | <img src="../assets/icons/kirkafi.webp" width="20" height="20" alt=""> **KirkaFi** | Modular DeFi infrastructure on TON built around undercollateralized credit | 2025-12-12 | [announcement](https://t.me/farmixton/168) |
 
 </details>

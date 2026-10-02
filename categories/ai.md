@@ -2,7 +2,7 @@
 
 # AI
 
-**72 projects: 14 active, 57 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/ai.csv).
+**72 projects: 14 active, 58 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/ai.csv).
 
 ```mermaid
 %%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
@@ -17,7 +17,7 @@ xychart-beta
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 1 | <img src="../assets/icons/ai-lab.webp" width="20" height="20" alt=""> **AI Lab** |  | [Bot](https://t.me/ailab_robot) | 2026-09-08 |  |  |
-| 2 | <img src="../assets/icons/moonberg-ai-bot.webp" width="20" height="20" alt=""> **MOONBERG AI BOT** | MOONBERG AI BOT — AI-powered crypto trading tool | [Telegram](https://t.me/moonbergai) [Bot](https://t.me/moonbergai_bot) [X](https://x.com/moonberg) [Site](https://moonberg.com) [GitHub](https://github.com/Emmet-Finance) [Gram News](https://gramnews.org/apps/moonberg-ai-bot) | 2024-06-27 | 1.3M |  |
+| 2 | <img src="../assets/icons/moonberg-ai-bot.webp" width="20" height="20" alt=""> **MOONBERG AI BOT** | MOONBERG AI BOT — AI-powered crypto trading tool | [Telegram](https://t.me/moonbergai) [Bot](https://t.me/moonbergai_bot) [X](https://x.com/moonberg) [Site](https://moonberg.com) [Gram News](https://gramnews.org/apps/moonberg-ai-bot) | 2024-06-27 | 1.3M |  |
 | 3 | <img src="../assets/icons/spru.webp" width="20" height="20" alt=""> **Spru** | AI assistant bot in Telegram that performs tasks for the user, with a support bot. | [Bot](https://t.me/spru_agent_bot) | 2026-03-30 |  |  |
 | 4 | <img src="../assets/icons/agentbook.webp" width="20" height="20" alt=""> **AgentBook** |  | [Bot](https://t.me/agentbookbot) | 2026-09-03 |  |  |
 | 5 | <img src="../assets/icons/reverie.webp" width="20" height="20" alt=""> **Reverie** | A mini app for chatting with virtual characters who have their own memory and personalities | [Bot](https://t.me/reverie_ai_bot) [Gram News](https://gramnews.org/apps/reverie) | 2026-08-26 |  |  |
@@ -31,7 +31,7 @@ xychart-beta
 | 13 | <img src="../assets/icons/meme-me.webp" width="20" height="20" alt=""> **Meme Me** | Ready to turn your photos into epic memes? Upload your picture and watch the magic happen | [Bot](https://t.me/mememebot_bot) [Gram News](https://gramnews.org/apps/meme-me) | 2024-09-25 | 6.7M |  |
 | 14 | <img src="../assets/icons/ton-chat-ai.webp" width="20" height="20" alt=""> **TON Chat AI** | AI agent site and Telegram bot | [Telegram](https://t.me/bloggersnft) [Site](https://tonchat.ai) | 2024-04-29 |  |  |
 
-<details><summary><b>Quiet: 57</b></summary>
+<details><summary><b>Quiet: 58</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
@@ -64,41 +64,34 @@ xychart-beta
 | 41 | <img src="../assets/icons/decentralgpt.webp" width="20" height="20" alt=""> **DecentralGPT** | Decentralized LLM inference network | [Telegram](https://t.me/decentralgpt) | 2024-06-14 |  |  |
 | 42 | <img src="../assets/icons/duck-ai-app.webp" width="20" height="20" alt=""> **Duck Ai App** | Deploy & Manage Ai Agents easily | [Telegram](https://t.me/myduckai) [Bot](https://t.me/teleduckaibot) | 2026-06-03 |  |  |
 | 43 | <img src="../assets/icons/fabrika-ai.webp" width="20" height="20" alt=""> **Fabrika AI** | Platform for building AI agents in Telegram | [Bot](https://t.me/game_nobot) | 2024-09-25 | 1.8M | since 2024-12 |
-| 44 | <img src="../assets/icons/fragment-neuro-bot.webp" width="20" height="20" alt=""> **Fragment Neuro Bot** | Decentralized streaming app where users stream and watch, with a channel and support. | [Telegram](https://t.me/TeletonApp) [Bot](https://t.me/TeletonOfficialAppBot) [X](https://x.com/teletonapp) [Gram News](https://gramnews.org/apps/fragment-neuro-bot) | 2024-07-29 |  |  |
-| 45 | <img src="../assets/icons/grand-galore-tarot.webp" width="20" height="20" alt=""> **Grand Galore Tarot** | AI tarot agent from Renesansse, with English and Russian communities and a support bot. | [Telegram](https://t.me/thotheye) [Bot](https://t.me/GrandGaloreTarotBot) [Site](https://www.grandgalore.xyz/app) | 2024-10 |  |  |
-| 46 | <img src="../assets/icons/grok.webp" width="20" height="20" alt=""> **Grok** | xAI language model available as a Telegram bot | [Bot](https://t.me/grokai) | 2024-12-29 | 791K | since 2025-05 |
-| 47 | <img src="../assets/icons/husky-ai.webp" width="20" height="20" alt=""> **Husky AI** | All-in-one AI app in Telegram | [Bot](https://t.me/huskysearchbot) | 2024-11-05 | 2K |  |
-| 48 | <img src="../assets/icons/lfg-ai-market.webp" width="20" height="20" alt=""> **LFG AI Market** | Marketplace for AI solutions built on TON. | [Telegram](https://t.me/lfg_ai_bot) [Bot](https://t.me/ruhunt) [Site](https://lfg-ton-marketplace.vercel.app) [Gram News](https://gramnews.org/apps/lfg-ai-market) | 2022-11-05 |  |  |
-| 49 | <img src="../assets/icons/neonexa-ai.webp" width="20" height="20" alt=""> **NEONEXA AI** | Neonexa Network: Web: tonmason.com | [Telegram](https://t.me/tonmasons) [Bot](https://t.me/tonmasonaibot) | 2026-09-04 |  |  |
-| 50 | <img src="../assets/icons/neonexa-network.webp" width="20" height="20" alt=""> **NEONEXA Network** | NEONEXA AI: Web: tonmason.com | [Telegram](https://t.me/tonmasons_ru) [Bot](https://t.me/masongamebot) | 2025-02-11 | 251K |  |
-| 51 | <img src="../assets/icons/neural-networks.webp" width="20" height="20" alt=""> **Neural Networks** | Bot offering access to several AI chat models such as ChatGPT, DeepSeek and Claude. | [Bot](https://t.me/chatgpt_tgm_bot) Site (down) [GitHub](https://github.com/Stenix777/Neural-network-telegram) [Gram News](https://gramnews.org/apps/neural-networks) | 2023-02-01 |  |  |
-| 52 | <img src="../assets/icons/neux.webp" width="20" height="20" alt=""> **Neux** | AI agent mini app for general tasks | [Bot](https://t.me/neuxapp_bot) | 2026-02-18 |  |  |
-| 53 | <img src="../assets/icons/oloid-x-ai.webp" width="20" height="20" alt=""> **OLOID X AI** | Bot run by the company LLC OLOID X, offering AI features. | [Bot](https://t.me/oloidxauth_bot) | 2026-08-09 |  |  |
-| 54 | <img src="../assets/icons/omniracle-ai-search.webp" width="20" height="20" alt=""> **Omniracle AI Search** | Omniracle AI Search — tool for analyzing fast-moving topics on the internet | [Telegram](https://t.me/omniracle) [Bot](https://t.me/omniracle_bot) [X](https://x.com/omniracle) [Site](https://omniracle.com) [Gram News](https://gramnews.org/apps/omniracle-ai-search) | 2024-06 |  |  |
-| 55 | **Pandai** | AI-powered, Financial assistant bot | [Telegram](https://t.me/PandaiToken) [Bot](https://t.me/PandaiAirdropBot) [X](https://x.com/PandaTradeClub) [Site](https://pandaitoken.com/) | 2025-01 |  |  |
-| 56 | <img src="../assets/icons/plate-ai.webp" width="20" height="20" alt=""> **Plate AI** | Snap. Know. Eat. Your free AI calorie tracker | [Bot](https://t.me/plateaibot) | 2025 |  |  |
-| 57 | <img src="../assets/icons/px-tarot.webp" width="20" height="20" alt=""> **PX Tarot** | Next-Gen AI-powered Tarot Reading Experience with Pixel Art & the TON Blockchain! | [Telegram](https://t.me/pxtarot_community) [Bot](https://t.me/pxtarot_bot) [X](https://x.com/px_tarot) Site (down) | 2024-10 | 18K |  |
-| 58 | <img src="../assets/icons/santa-ai-agent.webp" width="20" height="20" alt=""> **Santa AI Agent** | AI web3 agent living inside HOT wallet that gifts users | [Bot](https://t.me/santa_agent_bot) | 2024-12-22 |  |  |
-| 59 | <img src="../assets/icons/sentient-ai.webp" width="20" height="20" alt=""> **Sentient AI** | Hello mate Ready to connect with the world in a whole new way? | [Bot](https://t.me/sentient_ai_bot) | 2025-03-15 | 50K |  |
-| 60 | <img src="../assets/icons/skaldaibot.webp" width="20" height="20" alt=""> **SkaldAIbot** | Skald AI is the first GameFi-related AI Agent | [Bot](https://t.me/skaldaiagentbot) |  |  |  |
-| 61 | <img src="../assets/icons/storychain.webp" width="20" height="20" alt=""> **StoryChain** | Engaging with StoryChain’s AI-based stories, voting on content, and completing tasks | [Bot](https://t.me/storychainbot) | 2024-10-07 | 252K |  |
-| 62 | <img src="../assets/icons/teleton-agents.webp" width="20" height="20" alt=""> **Teleton Agents** | Community group for Teleton autonomous AI agents | [Telegram](https://t.me/teletonagenthq) | 2026-02-08 |  |  |
-| 63 | <img src="../assets/icons/teleton-agents-2.webp" width="20" height="20" alt=""> **Teleton Agents** | Autonomous AI agents on Telegram with TON integration | [Telegram](https://t.me/teletonagents) | 2025-11-08 |  |  |
-| 64 | <img src="../assets/icons/theopenlayer.webp" width="20" height="20" alt=""> **TheOpenLayer** | Bot for making AI agents easy and secure to use | [Bot](https://t.me/theopenlayer_bot) | 2024-12-20 |  |  |
-| 65 | <img src="../assets/icons/tobi-copilot.webp" width="20" height="20" alt=""> **Tobi Copilot** | AI-powered web3 assistant bot | [Bot](https://t.me/tobicopilotbot) | 2024-12-18 |  |  |
-| 66 | <img src="../assets/icons/tonsoai.webp" width="20" height="20" alt=""> **TonsoAI** | AI powered super app and InfoFi hub on Telegram | [Bot](https://t.me/tonsoaibot) | 2025-12-24 |  |  |
-| 67 | <img src="../assets/icons/xpump-ai.webp" width="20" height="20" alt=""> **XPump.AI** | AI-powered Telegram app. | [Bot](https://t.me/xpumpai_bot) | 2024-11-08 | 106K |  |
-| 68 | <img src="../assets/icons/ai-sketch-art.webp" width="20" height="20" alt=""> **AI Sketch Art** | AI art generator available through a Telegram bot and website, with an announcement channel. | [Telegram](https://t.me/sketchartai_ann) [X](https://x.com/SketchArtAI) Site (down) [GitHub](https://github.com/sketchartai) [Gram News](https://gramnews.org/apps/ai-sketch-art) | 2024-04-13 |  |  |
-| 69 | <img src="../assets/icons/olivia-ai-network.webp" width="20" height="20" alt=""> **Olivia AI Network** | Announcements of the Olivia AI network | [Telegram](https://t.me/olivia_ai_network) [X](https://x.com/Olivia_Network) [Site](https://olivianetwork.com) | 2025-03-18 |  |  |
-| 70 | <img src="../assets/icons/aiya-2.webp" width="20" height="20" alt=""> **Aiya** | Russian channel of the Aiya AI assistant | [Telegram](https://t.me/aiyaprojectru) | 2024-02-05 |  |  |
-| 71 | <img src="../assets/icons/imaginary-ones-bubioai.webp" width="20" height="20" alt=""> **Imaginary Ones BubioAI** | Create and chat with AI characters | [Telegram](https://t.me/imaginaryoneshq) | 2025-06-22 |  |  |
-
-</details>
-
-<details><summary><b>Closed: 1</b></summary>
-
-| # | Project | What it is | Links | Launched | Peak MAU | Verified |
-| ---: | --- | --- | --- | --- | ---: | --- |
-| 72 | **Fragment Checker Bot** |  | [Gram News](https://gramnews.org/apps/fragment-checker-bot) | 2024-09-05 |  |  |
+| 44 | **Fragment Checker Bot** |  | [Gram News](https://gramnews.org/apps/fragment-checker-bot) | 2024-09-05 |  |  |
+| 45 | <img src="../assets/icons/fragment-neuro-bot.webp" width="20" height="20" alt=""> **Fragment Neuro Bot** | Decentralized streaming app where users stream and watch, with a channel and support. | [Telegram](https://t.me/TeletonApp) [Bot](https://t.me/TeletonOfficialAppBot) [X](https://x.com/teletonapp) [Gram News](https://gramnews.org/apps/fragment-neuro-bot) | 2024-07-29 |  |  |
+| 46 | <img src="../assets/icons/grand-galore-tarot.webp" width="20" height="20" alt=""> **Grand Galore Tarot** | AI tarot agent from Renesansse, with English and Russian communities and a support bot. | [Telegram](https://t.me/thotheye) [Bot](https://t.me/GrandGaloreTarotBot) [Site](https://www.grandgalore.xyz/app) | 2024-10 |  |  |
+| 47 | <img src="../assets/icons/grok.webp" width="20" height="20" alt=""> **Grok** | xAI language model available as a Telegram bot | [Bot](https://t.me/grokai) | 2024-12-29 | 791K | since 2025-05 |
+| 48 | <img src="../assets/icons/husky-ai.webp" width="20" height="20" alt=""> **Husky AI** | All-in-one AI app in Telegram | [Bot](https://t.me/huskysearchbot) | 2024-11-05 | 2K |  |
+| 49 | <img src="../assets/icons/lfg-ai-market.webp" width="20" height="20" alt=""> **LFG AI Market** | Marketplace for AI solutions built on TON. | [Telegram](https://t.me/lfg_ai_bot) [Bot](https://t.me/ruhunt) [Site](https://lfg-ton-marketplace.vercel.app) [Gram News](https://gramnews.org/apps/lfg-ai-market) | 2022-11-05 |  |  |
+| 50 | <img src="../assets/icons/neonexa-ai.webp" width="20" height="20" alt=""> **NEONEXA AI** | Neonexa Network: Web: tonmason.com | [Telegram](https://t.me/tonmasons) [Bot](https://t.me/tonmasonaibot) | 2026-09-04 |  |  |
+| 51 | <img src="../assets/icons/neonexa-network.webp" width="20" height="20" alt=""> **NEONEXA Network** | NEONEXA AI: Web: tonmason.com | [Telegram](https://t.me/tonmasons_ru) [Bot](https://t.me/masongamebot) | 2025-02-11 | 251K |  |
+| 52 | <img src="../assets/icons/neural-networks.webp" width="20" height="20" alt=""> **Neural Networks** | Bot offering access to several AI chat models such as ChatGPT, DeepSeek and Claude. | [Bot](https://t.me/chatgpt_tgm_bot) Site (down) [GitHub](https://github.com/Stenix777/Neural-network-telegram) [Gram News](https://gramnews.org/apps/neural-networks) | 2023-02-01 |  |  |
+| 53 | <img src="../assets/icons/neux.webp" width="20" height="20" alt=""> **Neux** | AI agent mini app for general tasks | [Bot](https://t.me/neuxapp_bot) | 2026-02-18 |  |  |
+| 54 | <img src="../assets/icons/oloid-x-ai.webp" width="20" height="20" alt=""> **OLOID X AI** | Bot run by the company LLC OLOID X, offering AI features. | [Bot](https://t.me/oloidxauth_bot) | 2026-08-09 |  |  |
+| 55 | <img src="../assets/icons/omniracle-ai-search.webp" width="20" height="20" alt=""> **Omniracle AI Search** | Omniracle AI Search — tool for analyzing fast-moving topics on the internet | [Telegram](https://t.me/omniracle) [Bot](https://t.me/omniracle_bot) [X](https://x.com/omniracle) [Site](https://omniracle.com) [Gram News](https://gramnews.org/apps/omniracle-ai-search) | 2024-06 |  |  |
+| 56 | **Pandai** | AI-powered, Financial assistant bot | [Telegram](https://t.me/PandaiToken) [Bot](https://t.me/PandaiAirdropBot) [X](https://x.com/PandaTradeClub) [Site](https://pandaitoken.com/) | 2025-01 |  |  |
+| 57 | <img src="../assets/icons/plate-ai.webp" width="20" height="20" alt=""> **Plate AI** | Snap. Know. Eat. Your free AI calorie tracker | [Bot](https://t.me/plateaibot) | 2025 |  |  |
+| 58 | <img src="../assets/icons/px-tarot.webp" width="20" height="20" alt=""> **PX Tarot** | Next-Gen AI-powered Tarot Reading Experience with Pixel Art & the TON Blockchain! | [Telegram](https://t.me/pxtarot_community) [Bot](https://t.me/pxtarot_bot) [X](https://x.com/px_tarot) Site (down) | 2024-10 | 18K |  |
+| 59 | <img src="../assets/icons/santa-ai-agent.webp" width="20" height="20" alt=""> **Santa AI Agent** | AI web3 agent living inside HOT wallet that gifts users | [Bot](https://t.me/santa_agent_bot) | 2024-12-22 |  |  |
+| 60 | <img src="../assets/icons/sentient-ai.webp" width="20" height="20" alt=""> **Sentient AI** | Hello mate Ready to connect with the world in a whole new way? | [Bot](https://t.me/sentient_ai_bot) | 2025-03-15 | 50K |  |
+| 61 | <img src="../assets/icons/skaldaibot.webp" width="20" height="20" alt=""> **SkaldAIbot** | Skald AI is the first GameFi-related AI Agent | [Bot](https://t.me/skaldaiagentbot) |  |  |  |
+| 62 | <img src="../assets/icons/storychain.webp" width="20" height="20" alt=""> **StoryChain** | Engaging with StoryChain’s AI-based stories, voting on content, and completing tasks | [Bot](https://t.me/storychainbot) | 2024-10-07 | 252K |  |
+| 63 | <img src="../assets/icons/teleton-agents.webp" width="20" height="20" alt=""> **Teleton Agents** | Community group for Teleton autonomous AI agents | [Telegram](https://t.me/teletonagenthq) | 2026-02-08 |  |  |
+| 64 | <img src="../assets/icons/teleton-agents-2.webp" width="20" height="20" alt=""> **Teleton Agents** | Autonomous AI agents on Telegram with TON integration | [Telegram](https://t.me/teletonagents) | 2025-11-08 |  |  |
+| 65 | <img src="../assets/icons/theopenlayer.webp" width="20" height="20" alt=""> **TheOpenLayer** | Bot for making AI agents easy and secure to use | [Bot](https://t.me/theopenlayer_bot) | 2024-12-20 |  |  |
+| 66 | <img src="../assets/icons/tobi-copilot.webp" width="20" height="20" alt=""> **Tobi Copilot** | AI-powered web3 assistant bot | [Bot](https://t.me/tobicopilotbot) | 2024-12-18 |  |  |
+| 67 | <img src="../assets/icons/tonsoai.webp" width="20" height="20" alt=""> **TonsoAI** | AI powered super app and InfoFi hub on Telegram | [Bot](https://t.me/tonsoaibot) | 2025-12-24 |  |  |
+| 68 | <img src="../assets/icons/xpump-ai.webp" width="20" height="20" alt=""> **XPump.AI** | AI-powered Telegram app. | [Bot](https://t.me/xpumpai_bot) | 2024-11-08 | 106K |  |
+| 69 | <img src="../assets/icons/ai-sketch-art.webp" width="20" height="20" alt=""> **AI Sketch Art** | AI art generator available through a Telegram bot and website, with an announcement channel. | [Telegram](https://t.me/sketchartai_ann) [X](https://x.com/SketchArtAI) Site (down) [GitHub](https://github.com/sketchartai) [Gram News](https://gramnews.org/apps/ai-sketch-art) | 2024-04-13 |  |  |
+| 70 | <img src="../assets/icons/olivia-ai-network.webp" width="20" height="20" alt=""> **Olivia AI Network** | Announcements of the Olivia AI network | [Telegram](https://t.me/olivia_ai_network) [X](https://x.com/Olivia_Network) [Site](https://olivianetwork.com) | 2025-03-18 |  |  |
+| 71 | <img src="../assets/icons/aiya-2.webp" width="20" height="20" alt=""> **Aiya** | Russian channel of the Aiya AI assistant | [Telegram](https://t.me/aiyaprojectru) | 2024-02-05 |  |  |
+| 72 | <img src="../assets/icons/imaginary-ones-bubioai.webp" width="20" height="20" alt=""> **Imaginary Ones BubioAI** | Create and chat with AI characters | [Telegram](https://t.me/imaginaryoneshq) | 2025-06-22 |  |  |
 
 </details>

@@ -947,6 +947,7 @@ date,slug,name,field,action,old,new,evidence
 2026-10-01,miner-rush,Miner Rush,website,down,https://minerrush.fun/,https://minerrush.fun/,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,monkey-play,Monkey Play,website,down,https://www.monkeyplay.xyz/,https://www.monkeyplay.xyz/,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,mushroom-warrior,Mushroom Warrior,website,down,https://mushcoin.xyz/,https://mushcoin.xyz/,site is gone: domain does not resolve on 2026-10-01 (dns)
+2026-10-02,nexus-coin,Nexus Coin,website,down,https://cyber-nexus.replit.app,https://cyber-nexus.replit.app,site is gone: domain does not resolve on 2026-10-02 (dns)
 2026-10-01,oxygen-hunters,Oxygen Hunters,website,down,https://oxc.world/,https://oxc.world/,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,pehe-kingdom,PEHE Kingdom,website,down,https://pehe.pro/,https://pehe.pro/,site is gone: domain does not resolve on 2026-10-01 (dns)
 2026-10-01,pokergram,Pokergram,website,down,https://www.pokergram.com,https://www.pokergram.com,site is gone: domain does not resolve on 2026-10-01 (dns)
@@ -2235,3 +2236,90 @@ date,slug,name,field,action,old,new,evidence
 2026-10-02,cocoon,Cocoon,github,replace,,https://github.com/TelegramMessenger/cocoon,linked from cocoon.org (by hand)
 2026-10-02,ton-console,TonAPI,x,remove,https://x.com/Grokton,,"@Grokton came with a Grok token bot (@Grokholders_bot, removed earlier) and no longer exists on X (by hand)"
 2026-10-02,coincodex,CoinCodex,telegram,remove,https://t.me/toncoin,,"t.me/toncoin is the TON community channel, not CoinCodex (by hand)"
+2026-10-02,ton-testnet-faucet,TON Testnet Faucet,telegram,remove,https://t.me/dictatorcryptodct,,"@dictatorcryptodct (""Dictator Crypto"") is a third-party channel linked from ton.run, not the faucet (by hand)"
+2026-10-02,ton-website,ton.website,telegram,remove,https://t.me/mtproxyfreedom,,"@mtproxyfreedom is an MTProxy channel linked from the site, not ton.website (by hand)"
+2026-10-02,ton-diamonds-nft,TON Diamonds NFT,telegram,remove,https://t.me/sheidlinart,,"@sheidlinart is an artist channel linked from the site, not TON Diamonds (by hand)"
+2026-10-02,polyton-app,Polyton App,telegram,remove,https://t.me/soda_fun,,"@soda_fun is the SODA channel named in the bot description, another project (by hand)"
+2026-10-02,direct-games-bot,Direct Games Bot,telegram,remove,https://t.me/botsberry,,"@botsberry is the bot maker named in the bot description, not the game (by hand)"
+2026-10-02,amazing-marshmallows,Amazing Marshmallows,telegram,remove,https://t.me/dc_ton,,"@dc_ton is the DC TON token channel linked from the site, another project (by hand)"
+2026-10-02,eyeton,EyeTon,telegram,remove,https://t.me/goldnutsnews,,"@goldnutsnews is the Gold Nuts channel named in the bot description, another project (by hand)"
+2026-10-02,honeyinc-new-guaranteed-usdt-airdrop,HoneyInc New Guaranteed USDT Airdrop,telegram,remove,https://t.me/thehivegoop,,"@thehivegoop is TheHive, linked from the site, another project (by hand)"
+2026-10-02,novas,Novas,telegram,remove,https://t.me/boxty_news,,"@boxty_news is the Boxty channel named in the bot description, another project (by hand)"
+2026-10-02,tgr-boost,TGR Boost,telegram,remove,https://t.me/toncorp,,"@toncorp is a general TON DeFi channel named in the bot description, not TGR Boost (by hand)"
+2026-10-02,kucoin,KuCoin,github,remove,https://github.com/qutoncash,,GitHub account qutoncash (QuTON Cash (QTC)) names neither the project nor its site (by hand)
+2026-10-02,tonbankcard-exchange,TONBANKCARD Exchange,github,remove,https://github.com/xlabtg,,GitHub account xlabtg names neither the project nor its site (by hand)
+2026-10-02,coin98-super-wallet,Coin98,github,remove,https://github.com/TP-Lab,,GitHub account TP-Lab (TokenPocket is a world-wide decentralized web3 cry) names neither the project nor its site (by hand)
+2026-10-02,matrix-wallet,Matrix Wallet,github,remove,https://github.com/rangersprotocolcode,,GitHub account rangersprotocolcode (Rangers Protocol is the backbone of a Web3 engine) names neither the project nor its site (by hand)
+2026-10-02,vaniton,vaniton,github,remove,https://github.com/fluidicon.png,,not a GitHub account (a page asset caught as a link by the catalogue) (by hand)
+2026-10-02,openmask-2,OpenMask,github,remove,https://github.com/fluidicon.png,,not a GitHub account (a page asset caught as a link by the catalogue) (by hand)
+2026-10-02,payhook,Payhook,github,remove,https://github.com/beh-land,,GitHub account beh-land (BehLand – Learn & Earn Platform educational & fin) names neither the project nor its site (by hand)
+2026-10-02,ton-testnet-faucet,TON Testnet Faucet,github,remove,https://github.com/awesome-doge,,GitHub account awesome-doge (Bitcoin Dev 2013) names neither the project nor its site (by hand)
+2026-10-02,development-wallet,Development Wallet,github,remove,https://github.com/TractionEye,,GitHub account TractionEye (SocialFi platform for tracking users' investment p) names neither the project nor its site (by hand)
+2026-10-02,tonana,Tonana,github,remove,https://github.com/fluidicon.png,,not a GitHub account (a page asset caught as a link by the catalogue) (by hand)
+2026-10-02,trustatonapp-bot,TrustaTONApp_bot,github,remove,https://github.com/mir-one/fingerprints,,GitHub account mir-one (Blockchain solutions for the convergence of social) names neither the project nor its site (by hand)
+2026-10-02,coincodex,CoinCodex,github,remove,https://github.com/newton-blockchain,,GitHub account newton-blockchain (Former The Open Network home. Please use https://g) names neither the project nor its site (by hand)
+2026-10-02,coinrobot,CoinRobot,github,remove,https://github.com/sora-xor/polkaswap-exchange-web,,GitHub account sora-xor (A new economic system aimed at creating a supranat) names neither the project nor its site (by hand)
+2026-10-02,ton-notify-bot,TON Notify Bot,github,remove,https://github.com/CoinSpace/CoinSpace,,"GitHub account CoinSpace (Coin Wallet: BTC, ETH, LTC, BCH, EOS, XLM, XRP, DO) names neither the project nor its site (by hand)"
+2026-10-02,totkit,TOTKIT,github,remove,https://github.com/BradDev01,,GitHub account BradDev01 (BRAD community) names neither the project nor its site (by hand)
+2026-10-02,dton,Dton,github,remove,https://github.com/StalinFoundation,,GitHub account StalinFoundation names neither the project nor its site (by hand)
+2026-10-02,ton-bridge,TON Bridge,github,remove,https://github.com/xlabtg,,GitHub account xlabtg names neither the project nor its site (by hand)
+2026-10-02,stakee,Stakee,github,remove,https://github.com/ton-blockchain,,"GitHub account ton-blockchain (An ultrafast, scalable blockchain integrated with) names neither the project nor its site (by hand)"
+2026-10-02,fanzee,Fanzee,github,remove,https://github.com/viz-cx/viz-gateway,,GitHub account viz-cx (Yet another entrypoint to VIZ blockchain) names neither the project nor its site (by hand)
+2026-10-02,tonstake-com,TonStake.com,github,remove,https://github.com/awesome-doge,,GitHub account awesome-doge (Bitcoin Dev 2013) names neither the project nor its site (by hand)
+2026-10-02,tonyielding,Tonyielding,github,remove,https://github.com/marakitio,,GitHub account marakitio names neither the project nor its site (by hand)
+2026-10-02,xbanking,XBANKING,github,remove,https://github.com/SecondLive,,GitHub account SecondLive (SecondLive) names neither the project nor its site (by hand)
+2026-10-02,ton-app-site,TON App,github,remove,https://github.com/toncenter/ton-wallet,,GitHub account toncenter (TON Solutions) names neither the project nor its site (by hand)
+2026-10-02,hug,Hug,github,remove,https://github.com/PurrFund/SC-Purr,,GitHub account PurrFund names neither the project nor its site (by hand)
+2026-10-02,polytend-dom,POLYTEND (DOM),github,remove,https://github.com/MagicVipPeople,,GitHub account MagicVipPeople (We will soon finish developing a feature-rich Mini) names neither the project nor its site (by hand)
+2026-10-02,atomic-star,Atomic Star,github,remove,https://github.com/StalinFoundation,,GitHub account StalinFoundation names neither the project nor its site (by hand)
+2026-10-02,moonberg-ai-bot,MOONBERG AI BOT,github,remove,https://github.com/Emmet-Finance,,GitHub account Emmet-Finance (Emmet Finance - a decentralized DeFi platform that) names neither the project nor its site (by hand)
+2026-10-02,ton-box,TON Box,github,remove,https://github.com/tonwhales,,GitHub account tonwhales (Tonwhales) names neither the project nor its site (by hand)
+2026-10-02,magic-pot,Magic Pot,github,remove,https://github.com/hangarx,,GitHub account hangarx (HangarX: Your all-in-one Web3 gaming platform! Cho) names neither the project nor its site (by hand)
+2026-10-02,icryptocheck,iCryptoCheck,github,remove,https://github.com/unlimadev/Orniton,,"GitHub account unlimadev (At Unlima, we're dedicated to helping businesses) names neither the project nor its site (by hand)"
+2026-10-02,arena-games,Arena Games,github,remove,https://github.com/Stenix777/Neural-network-telegram,,GitHub account Stenix777 names neither the project nor its site (by hand)
+2026-10-02,vws-utilities,VWS Utilities,github,remove,https://github.com/MagicVipPeople,,GitHub account MagicVipPeople (We will soon finish developing a feature-rich Mini) names neither the project nor its site (by hand)
+2026-10-02,dogizen,Dogizen,github,remove,https://github.com/horizontalsystems,,GitHub account horizontalsystems (Building financial instruments for sovereign minde) names neither the project nor its site (by hand)
+2026-10-02,mr-bitgenie,Mr BitGenie,github,remove,https://github.com/CoinSpace/CoinSpace,,"GitHub account CoinSpace (Coin Wallet: BTC, ETH, LTC, BCH, EOS, XLM, XRP, DO) names neither the project nor its site (by hand)"
+2026-10-02,elfbird,Elfbird,github,remove,https://github.com/pornofnd,,GitHub account pornofnd (Porno Foundation) names neither the project nor its site (by hand)
+2026-10-02,mafiadao,MafiaDAO,github,remove,https://github.com/mathwallet,,GitHub account mathwallet (Universal Crypto Wallet) names neither the project nor its site (by hand)
+2026-10-02,panda-kombat,Panda Kombat,github,remove,https://github.com/evaafi,,GitHub account evaafi names neither the project nor its site (by hand)
+2026-10-02,chessio,Chessio,github,remove,https://github.com/Atomicwallet,,"GitHub account Atomicwallet (Cryptocurrency Wallet - Manage your Bitcoin, Ether) names neither the project nor its site (by hand)"
+2026-10-02,ecohero,EcoHero,github,remove,https://github.com/layerswap/layerswapapp,,GitHub account layerswap (Bridge & Swap across 71 chains) names neither the project nor its site (by hand)
+2026-10-02,pollo,Pollo,github,remove,https://github.com/ton-blockchain,,"GitHub account ton-blockchain (An ultrafast, scalable blockchain integrated with) names neither the project nor its site (by hand)"
+2026-10-02,goats,GOATS,github,remove,https://github.com/coincraze-Labs,,GitHub account coincraze-Labs names neither the project nor its site (by hand)
+2026-10-02,ton-heroes,Ton Heroes,github,remove,https://github.com/OGenLab/Thero1,,GitHub account OGenLab names neither the project nor its site (by hand)
+2026-10-02,tonshi,Tonshi,github,remove,https://github.com/TonShipCom,,GitHub account TonShipCom (TonShip) names neither the project nor its site (by hand)
+2026-10-02,bayc-miner,BAYC Miner,github,remove,https://github.com/orgs/Fonates,,GitHub account Fonates names neither the project nor its site (by hand)
+2026-10-02,oxygen-miner,Oxygen Miner,github,remove,https://github.com/xp-network,,GitHub account xp-network (XP.NETWORK) names neither the project nor its site (by hand)
+2026-10-02,notbabycoinfam,NotBabyCoinFAM,github,remove,https://github.com/marakitio,,GitHub account marakitio names neither the project nor its site (by hand)
+2026-10-02,dynabit-app,Dynabit App,github,remove,https://github.com/XP-NETWORK,,GitHub account XP-NETWORK (XP.NETWORK) names neither the project nor its site (by hand)
+2026-10-02,feline-dynasty,Feline Dynasty,github,remove,https://github.com/deficapital81/tma-game-template,,GitHub account deficapital81 names neither the project nor its site (by hand)
+2026-10-02,mine-poo,Mine POO,github,remove,https://github.com/tonpad,,GitHub account tonpad (TONpad) names neither the project nor its site (by hand)
+2026-10-02,portfel,Portfel,x,remove,https://x.com/Nikicompany,,"@Nikicompany is NIKICOIN💎 ($NIKI SOL: Fn4UBpDU6pSx6yF5caGjCw3dRkhPG56s7rdq54fzkZdE TG - http://t.), not Portfel (by hand)"
+2026-10-02,alpha-dex,Alpha Dex,x,remove,https://x.com/hotdao_,,"@hotdao_ is HOT Protocol 🔥 (Chain Signature protocol facing the users. Seamless web3 access, seaml), not Alpha Dex (by hand)"
+2026-10-02,bottle-up,Bottle Up,x,remove,https://x.com/Athene_Network,,"@Athene_Network is Atheus Network (Atheus Network - Leading The Future Of AI And Blockchain), not Bottle Up (by hand)"
+2026-10-02,ton-byte,TON Byte,x,remove,https://x.com/atomhq,,"@atomhq is Atom.com (AI-native premium domain marketplace for startups & businesses ready t), not TON Byte (by hand)"
+2026-10-02,shop-builder-2,Shop Builder,x,remove,https://x.com/Twitgram_HQ,,"@Twitgram_HQ is Twitgram ⚡ (X-Tracker) (Monitor X accounts and get instant alerts for new tweets, follows & pr), not Shop Builder (by hand)"
+2026-10-02,wordboox,WordBooX,x,remove,https://x.com/watchlist_id,,"@watchlist_id is Watchlist Merch (Trendy Tees, Pocket Friendly Price), not WordBooX (by hand)"
+2026-10-02,iquizmaster,iQuizMaster,x,remove,https://x.com/snapsterbot,,"@snapsterbot is snapster trading app 🫰 (trade the hottest tokens with ease), not iQuizMaster (by hand)"
+2026-10-02,poketon,PokeTON,x,remove,https://x.com/Byin_Fun,,"@Byin_Fun is BYIN (💎 BYIN, the Ultimate One-Click Meme Launchpad & IDO Launchpad on TON,), not PokeTON (by hand)"
+2026-10-02,tonmons,Tonmons,x,remove,https://x.com/ceosanya,,"@ceosanya is Alex (http://t.me/SagdullayevUmar), not Tonmons (by hand)"
+2026-10-02,crabstap-by-crabs,CrabsTap by $CRABS,x,remove,https://x.com/Cattontw,,"@Cattontw is Catton AI Protocol (Catton AI airdrop is LIVE! Claim your $CATTON tokens now), not CrabsTap by $CRABS (by hand)"
+2026-10-02,rarecrows,Rarecrows,x,remove,https://x.com/0xSunflowerLand,,"@0xSunflowerLand is Sunflower Land (Join 850K+ players building their Web3 farming empire. Play Now: http:), not Rarecrows (by hand)"
+2026-10-02,catirace,Catirace,x,remove,https://x.com/netMinePi,,"@netMinePi is Mine Pi (), not Catirace (by hand)"
+2026-10-02,memeworld,MEMEWORLD,x,remove,https://x.com/toughgoldbull,,"@toughgoldbull is Blauqtrading (We are a corporation that has no limits when it comes to innovations a), not MEMEWORLD (by hand)"
+2026-10-02,vip-club,VIP Club,x,remove,https://x.com/BCBlueSkyVC,,"@BCBlueSkyVC is BC Blue Sky Ventures⚡️ (BC Blue Sky Ventures is a vcs channel that introduces NFT game project), not VIP Club (by hand)"
+2026-10-02,ton-vegas,Ton Vegas,x,remove,https://x.com/TonStars_,,"@TonStars_ is Stars on Ton (TON STARS is to provide exclusive opportunities for individuals who ca), not Ton Vegas (by hand)"
+2026-10-02,huobi,HTX,x,remove,https://x.com/TobbotTon,,not an HTX account (by hand)
+2026-10-02,ton-verifier,TON Verifier,x,remove,https://x.com/LevelQFinance,,LevelQFinance is another project (by hand)
+2026-10-02,tonviewer,Tonviewer,x,remove,https://x.com/bestramp_io,,bestramp_io is another project (by hand)
+2026-10-02,elephantstorebot,Elephant Store,x,remove,https://x.com/ownthedoge,,ownthedoge is the Own The Doge account (by hand)
+2026-10-02,bankcoin,Bankcoin,x,remove,https://x.com/realDogsHouse,,realDogsHouse is the DOGS account (by hand)
+2026-10-02,aylab-game,Aylab Game,x,remove,https://x.com/suinetwork,,suinetwork is the Sui network account (by hand)
+2026-10-02,raccoon-universe,Raccoon Universe,x,remove,https://x.com/spinariumcasino,,spinariumcasino is another project (by hand)
+2026-10-02,qappi-miner,Qappi Miner,x,remove,https://x.com/weatherxm,,weatherxm is the WeatherXM account (by hand)
+2026-10-02,catgram,CatGram,x,remove,https://x.com/catdotio,,catdotio is another project (by hand)
+2026-10-02,coco-rush,Coco Rush,x,remove,https://x.com/BONS_social,,BONS_social is another project (by hand)
+2026-10-02,airdrop-express,Airdrop Express,x,remove,https://x.com/BRC20Chat,,BRC20Chat is another project (by hand)
+2026-10-02,tonnewbie-nr1hca,TonNewbie,x,remove,https://x.com/ru,,"x.com/ru is a path, not an account (by hand)"
+2026-10-02,edchess,EdChess,x,remove,https://x.com/join,,"x.com/join is a path, not an account (by hand)"

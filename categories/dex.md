@@ -2,7 +2,7 @@
 
 # DEX
 
-**70 projects: 14 active, 55 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/dex.csv).
+**70 projects: 14 active, 54 quiet, 2 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/dex.csv).
 
 ```mermaid
 %%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
@@ -31,7 +31,7 @@ xychart-beta
 | 13 | **Tegro Finance** | TegroFinance - A next evolution DeFi exchange on The Open Network (TON) | [X](https://x.com/TegroDEX) | 2023-01-04 |  |  |
 | 14 | <img src="../assets/icons/bidask.webp" width="20" height="20" alt=""> **Bidask** | Bidask – a decentralized exchange on TON for token trading and liquidity provision | [Telegram](https://t.me/bidask) [Bot](https://t.me/bidask_protocol_bot) [X](https://x.com/BidaskProtocol) [Site](https://bidask.finance/) [Gram News](https://gramnews.org/apps/bidask) | 2024-05-16 |  |  |
 
-<details><summary><b>Quiet: 55</b></summary>
+<details><summary><b>Quiet: 54</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
@@ -60,43 +60,43 @@ xychart-beta
 | 37 | **Dodo** |  | [Telegram](https://t.me/dodo) [Site](https://app.dodoex.io/?from=ton&to=USDC) [GitHub](https://github.com/DODOEX) [Gram News](https://gramnews.org/apps/dodo) | 2023-07 |  |  |
 | 38 | <img src="../assets/icons/exton.webp" width="20" height="20" alt=""> **EXTON** | State of the Art BEETON: BOOST: EXTON | [Telegram](https://t.me/exton_orders) [Bot](https://t.me/EXTON_SWAP_BOT) [Gram News](https://gramnews.org/apps/exton) | 2022-12-20 |  |  |
 | 39 | <img src="../assets/icons/graphdex.webp" width="20" height="20" alt=""> **GraphDex** | GraphDex — The Infrastructure for Digital Asset Trading Website: graphdex.io | [Telegram](https://t.me/graphdex) |  |  |  |
-| 40 | <img src="../assets/icons/lost-dogs-rex.webp" width="20" height="20" alt=""> **Lost Dogs REX** | Random exchange for WOOF token swaps | [Bot](https://t.me/lodo_rex_bot) | 2024-11-12 |  |  |
-| 41 | <img src="../assets/icons/moki.webp" width="20" height="20" alt=""> **Moki** | Token swap bot with tasks on TON | [Bot](https://t.me/mokiswapbot) | 2024-10-09 | 47K |  |
-| 42 | <img src="../assets/icons/neptune-airdrop.webp" width="20" height="20" alt=""> **Neptune Airdrop** | Exchange project with a website, Telegram group and X account. | [Bot](https://t.me/neptuneexchange_bot) |  |  |  |
-| 43 | **Nomiswap** |  | [Site](https://nomiswap.io/swap?outputCurrency=0x76A797A59Ba2C17726896976B7B3747BfD1d220f) [GitHub](https://github.com/nominex) [Gram News](https://gramnews.org/apps/nomiswap) | 2024-01-19 |  |  |
-| 44 | <img src="../assets/icons/open-swap.webp" width="20" height="20" alt=""> **Open Swap** |  | [Bot](https://t.me/openswapbot) | 2026-04-30 |  |  |
-| 45 | <img src="../assets/icons/orbiton.webp" width="20" height="20" alt=""> **Orbiton** |  | [Bot](https://t.me/orbiton_swap_bot) | 2024-12-20 |  |  |
-| 46 | <img src="../assets/icons/pancakeswap.webp" width="20" height="20" alt=""> **PancakeSwap** | Decentralized exchange with a channel of announcements and scam warnings. | [Telegram](https://t.me/pancakeswap) [Site](https://pancakeswap.finance/swap?outputcurrency=0x76a797a59ba2c17726896976b7b3747bfd1d220f) [GitHub](https://github.com/pancakeswap) [Gram News](https://gramnews.org/apps/pancakeswap) | 2023-05 |  |  |
-| 47 | <img src="../assets/icons/polkaswap-dex.webp" width="20" height="20" alt=""> **Polkaswap DEX** | Polkaswap DEX: Built for an interoperable future | [Telegram](https://t.me/polkaswap) [Bot](https://t.me/polkaswap_io_bot) [X](https://x.com/polkaswap) [Site](https://polkaswap.io) [GitHub](https://github.com/sora-xor/polkaswap-exchange-web) [Gram News](https://gramnews.org/apps/polkaswap-dex) | 2020-08-07 |  |  |
-| 48 | <img src="../assets/icons/rovex-swap-bot.webp" width="20" height="20" alt=""> **Rovex Swap Bot** | Welcome to the Rovex platform, a platform specializing in EFT (Edge Form Trading) for the pre-Market token | [Bot](https://t.me/rovexswapbot) | 2024-05-16 | 55K |  |
-| 49 | **SwapSwop** |  | [Site](https://swapswop.io/) [Gram News](https://gramnews.org/apps/swapswop) | 2023-08 |  |  |
-| 50 | <img src="../assets/icons/swapzone.webp" width="20" height="20" alt=""> **Swapzone** | Cryptocurrency exchange deal aggregator | [Telegram](https://t.me/swapzoneio) | 2021-05-19 |  |  |
-| 51 | <img src="../assets/icons/swapzone-2.webp" width="20" height="20" alt=""> **Swapzone** | Exchange aggregator comparing rates across exchanges | [Bot](https://t.me/swapzoneio_bot) | 2025-05-26 |  |  |
-| 52 | <img src="../assets/icons/the-open-league.webp" width="20" height="20" alt=""> **The Open League** | Liquidity pool rewards program with a multi-million prize pool | [Bot](https://t.me/open_league_bot) | 2024-03-18 | 1M |  |
-| 53 | <img src="../assets/icons/theone.webp" width="20" height="20" alt=""> **TheOne** | Telegram bot for swapping tokens with deep liquidity | [Bot](https://t.me/theonetgbot) | 2025-04-08 | 34K |  |
-| 54 | <img src="../assets/icons/titan-aggregator.webp" width="20" height="20" alt=""> **Titan Aggregator** | Swap aggregator on TON | [Telegram](https://t.me/titanaggregator) | 2024-11-08 |  |  |
-| 55 | <img src="../assets/icons/tonswap.webp" width="20" height="20" alt=""> **TonSwap** | On-chain AMM decentralized exchange on TON | [Bot](https://t.me/tonswapofficialbot) | 2022-08-09 |  |  |
+| 40 | **LoneToken CABOT** |  | [Gram News](https://gramnews.org/apps/lonetoken-cabot) | 2023-09-02 |  |  |
+| 41 | <img src="../assets/icons/lost-dogs-rex.webp" width="20" height="20" alt=""> **Lost Dogs REX** | Random exchange for WOOF token swaps | [Bot](https://t.me/lodo_rex_bot) | 2024-11-12 |  |  |
+| 42 | <img src="../assets/icons/moki.webp" width="20" height="20" alt=""> **Moki** | Token swap bot with tasks on TON | [Bot](https://t.me/mokiswapbot) | 2024-10-09 | 47K |  |
+| 43 | <img src="../assets/icons/neptune-airdrop.webp" width="20" height="20" alt=""> **Neptune Airdrop** | Exchange project with a website, Telegram group and X account. | [Bot](https://t.me/neptuneexchange_bot) |  |  |  |
+| 44 | **Nomiswap** |  | [Site](https://nomiswap.io/swap?outputCurrency=0x76A797A59Ba2C17726896976B7B3747BfD1d220f) [GitHub](https://github.com/nominex) [Gram News](https://gramnews.org/apps/nomiswap) | 2024-01-19 |  |  |
+| 45 | <img src="../assets/icons/open-swap.webp" width="20" height="20" alt=""> **Open Swap** |  | [Bot](https://t.me/openswapbot) | 2026-04-30 |  |  |
+| 46 | <img src="../assets/icons/orbiton.webp" width="20" height="20" alt=""> **Orbiton** |  | [Bot](https://t.me/orbiton_swap_bot) | 2024-12-20 |  |  |
+| 47 | <img src="../assets/icons/pancakeswap.webp" width="20" height="20" alt=""> **PancakeSwap** | Decentralized exchange with a channel of announcements and scam warnings. | [Telegram](https://t.me/pancakeswap) [Site](https://pancakeswap.finance/swap?outputcurrency=0x76a797a59ba2c17726896976b7b3747bfd1d220f) [GitHub](https://github.com/pancakeswap) [Gram News](https://gramnews.org/apps/pancakeswap) | 2023-05 |  |  |
+| 48 | <img src="../assets/icons/polkaswap-dex.webp" width="20" height="20" alt=""> **Polkaswap DEX** | Polkaswap DEX: Built for an interoperable future | [Telegram](https://t.me/polkaswap) [Bot](https://t.me/polkaswap_io_bot) [X](https://x.com/polkaswap) [Site](https://polkaswap.io) [GitHub](https://github.com/sora-xor/polkaswap-exchange-web) [Gram News](https://gramnews.org/apps/polkaswap-dex) | 2020-08-07 |  |  |
+| 49 | <img src="../assets/icons/rovex-swap-bot.webp" width="20" height="20" alt=""> **Rovex Swap Bot** | Welcome to the Rovex platform, a platform specializing in EFT (Edge Form Trading) for the pre-Market token | [Bot](https://t.me/rovexswapbot) | 2024-05-16 | 55K |  |
+| 50 | **SwapSwop** |  | [Site](https://swapswop.io/) [Gram News](https://gramnews.org/apps/swapswop) | 2023-08 |  |  |
+| 51 | <img src="../assets/icons/swapzone.webp" width="20" height="20" alt=""> **Swapzone** | Cryptocurrency exchange deal aggregator | [Telegram](https://t.me/swapzoneio) | 2021-05-19 |  |  |
+| 52 | <img src="../assets/icons/swapzone-2.webp" width="20" height="20" alt=""> **Swapzone** | Exchange aggregator comparing rates across exchanges | [Bot](https://t.me/swapzoneio_bot) | 2025-05-26 |  |  |
+| 53 | <img src="../assets/icons/the-open-league.webp" width="20" height="20" alt=""> **The Open League** | Liquidity pool rewards program with a multi-million prize pool | [Bot](https://t.me/open_league_bot) | 2024-03-18 | 1M |  |
+| 54 | <img src="../assets/icons/theone.webp" width="20" height="20" alt=""> **TheOne** | Telegram bot for swapping tokens with deep liquidity | [Bot](https://t.me/theonetgbot) | 2025-04-08 | 34K |  |
+| 55 | <img src="../assets/icons/titan-aggregator.webp" width="20" height="20" alt=""> **Titan Aggregator** | Swap aggregator on TON | [Telegram](https://t.me/titanaggregator) | 2024-11-08 |  |  |
 | 56 | **Transit Swap** |  | [X](https://x.com/TransitFinance) [Site](https://swap.transit.finance/) [Gram News](https://gramnews.org/apps/transit-swap) | 2021-07-04 |  |  |
 | 57 | **Uniswap** |  | [Site](https://app.uniswap.org/#/swap?outputcurrency=0x582d872a1b094fc48f5de31d3b73f2d9be47def1) [Gram News](https://gramnews.org/apps/uniswap) | 2020-04-26 |  |  |
 | 58 | <img src="../assets/icons/utyabswap.webp" width="20" height="20" alt=""> **UTYABSWAP** | Token swap service available as a Telegram mini app. | [Bot](https://t.me/utyabswapbot) | 2024-08-13 | 20K |  |
 | 59 | <img src="../assets/icons/what-swap.webp" width="20" height="20" alt=""> **What Swap** |  | [Bot](https://t.me/what_swap_bot) [X](https://x.com/bigbangdear) [Site](https://what-swap.vercel.app/) [GitHub](https://github.com/bigbanghere/what-swap) [Gram News](https://gramnews.org/apps/what-swap) | 2025-09-13 |  |  |
 | 60 | <img src="../assets/icons/xbot.webp" width="20" height="20" alt=""> **XBOT** | Crypto tools and DEX trading right in your Telegram | [Bot](https://t.me/chainspyrobot) [X](https://x.com/twinbyxbot) [Gram News](https://gramnews.org/apps/xbot) | 2024-03-18 | 155K |  |
-| 61 | <img src="../assets/icons/xdelta.webp" width="20" height="20" alt=""> **xDelta** | DEX liquidity aggregator on TON offering instant swaps with low fees. | [Telegram](https://t.me/xdelta_bot) [Bot](https://t.me/xdelta_finance) [X](https://x.com/xdelta_finance) [Site](https://xdelta.fi/?utm_source=tonapp) [Gram News](https://gramnews.org/apps/xdelta) | 2025-01-20 |  |  |
-| 62 | <img src="../assets/icons/rpine.webp" width="20" height="20" alt=""> **RPine** | DEX aggregator unifying liquidity from multiple exchanges | [Telegram](https://t.me/rpine_xyz_news) [X](https://x.com/RPineXyz) [Site](https://rpine.xyz) | 2024-05-15 |  |  |
-| 63 | <img src="../assets/icons/token-dedust.webp" width="20" height="20" alt=""> **DeDust (DUST)** | Decentralized exchange on TON with a bot, chat and Russian-language channel. | [Telegram](https://t.me/dedust_en) [X](https://x.com/dedust_io) [Site](https://dedust.io) | 2024-06-04 |  | since 2023-12 |
-| 64 | <img src="../assets/icons/syde-protocol.webp" width="20" height="20" alt=""> **Syde Protocol** | Synthetic DeFi layer on TON | [Telegram](https://t.me/sydefi) [Bot](https://t.me/sydefi_bot) [Site](https://syde.fi) | 2024-12-20 |  |  |
-| 65 | <img src="../assets/icons/nest.webp" width="20" height="20" alt=""> **Nest** | DEX aggregator on the TON blockchain | [Telegram](https://t.me/nest_dex) | 2024-09-03 |  |  |
-| 66 | <img src="../assets/icons/moon-cx.webp" width="20" height="20" alt=""> **Moon.cx** | Swap service with a Russian-language support channel. | [Telegram](https://t.me/mooncx_ru) [Site](https://moon.cx/) [Gram News](https://gramnews.org/apps/moon-cx) | 2024-10-26 |  |  |
-| 67 | <img src="../assets/icons/swap-app.webp" width="20" height="20" alt=""> **Swap App** | Swap app with a news channel and an airdrop bot. | [Telegram](https://t.me/swapapp_news) [Bot](https://t.me/swapairbot) [X](https://x.com/SwapAppTon) [Gram News](https://gramnews.org/apps/swap-app) | 2024-07-20 | 18K |  |
-| 68 | <img src="../assets/icons/pixelswap.webp" width="20" height="20" alt=""> **PixelSwap** | Modular upgradeable DEX on TON | [Telegram](https://t.me/pixelswap_io) [X](https://x.com/PixelSwap_io) | 2024-03-31 |  |  |
-| 69 | <img src="../assets/icons/the-gate.webp" width="20" height="20" alt=""> **The Gate** |  | [Telegram](https://t.me/TheGateR) [X](https://x.com/TheGate562007) [Site](https://thegate.fun) [Gram News](https://gramnews.org/apps/the-gate) | 2024-04-03 |  |  |
+| 61 | <img src="../assets/icons/rpine.webp" width="20" height="20" alt=""> **RPine** | DEX aggregator unifying liquidity from multiple exchanges | [Telegram](https://t.me/rpine_xyz_news) [X](https://x.com/RPineXyz) [Site](https://rpine.xyz) | 2024-05-15 |  |  |
+| 62 | <img src="../assets/icons/token-dedust.webp" width="20" height="20" alt=""> **DeDust (DUST)** | Decentralized exchange on TON with a bot, chat and Russian-language channel. | [Telegram](https://t.me/dedust_en) [X](https://x.com/dedust_io) [Site](https://dedust.io) | 2024-06-04 |  | since 2023-12 |
+| 63 | <img src="../assets/icons/syde-protocol.webp" width="20" height="20" alt=""> **Syde Protocol** | Synthetic DeFi layer on TON | [Telegram](https://t.me/sydefi) [Bot](https://t.me/sydefi_bot) [Site](https://syde.fi) | 2024-12-20 |  |  |
+| 64 | <img src="../assets/icons/nest.webp" width="20" height="20" alt=""> **Nest** | DEX aggregator on the TON blockchain | [Telegram](https://t.me/nest_dex) | 2024-09-03 |  |  |
+| 65 | <img src="../assets/icons/moon-cx.webp" width="20" height="20" alt=""> **Moon.cx** | Swap service with a Russian-language support channel. | [Telegram](https://t.me/mooncx_ru) [Site](https://moon.cx/) [Gram News](https://gramnews.org/apps/moon-cx) | 2024-10-26 |  |  |
+| 66 | <img src="../assets/icons/swap-app.webp" width="20" height="20" alt=""> **Swap App** | Swap app with a news channel and an airdrop bot. | [Telegram](https://t.me/swapapp_news) [Bot](https://t.me/swapairbot) [X](https://x.com/SwapAppTon) [Gram News](https://gramnews.org/apps/swap-app) | 2024-07-20 | 18K |  |
+| 67 | <img src="../assets/icons/pixelswap.webp" width="20" height="20" alt=""> **PixelSwap** | Modular upgradeable DEX on TON | [Telegram](https://t.me/pixelswap_io) [X](https://x.com/PixelSwap_io) | 2024-03-31 |  |  |
+| 68 | <img src="../assets/icons/the-gate.webp" width="20" height="20" alt=""> **The Gate** |  | [Telegram](https://t.me/TheGateR) [X](https://x.com/TheGate562007) [Site](https://thegate.fun) [Gram News](https://gramnews.org/apps/the-gate) | 2024-04-03 |  |  |
 
 </details>
 
-<details><summary><b>Closed: 1</b></summary>
+<details><summary><b>Closed: 2</b></summary>
 
-| # | Project | What it is | Links | Launched | Peak MAU | Verified |
-| ---: | --- | --- | --- | --- | ---: | --- |
-| 70 | **LoneToken CABOT** |  | [Gram News](https://gramnews.org/apps/lonetoken-cabot) | 2023-09-02 |  |  |
+| # | Project | What it is | Closed | Proof |
+| ---: | --- | --- | --- | --- |
+| 69 | <img src="../assets/icons/tonswap.webp" width="20" height="20" alt=""> **TonSwap** | On-chain AMM decentralized exchange on TON | 2023-03-21 | [announcement](https://t.me/mint_xyz/100) |
+| 70 | <img src="../assets/icons/xdelta.webp" width="20" height="20" alt=""> **xDelta** | DEX liquidity aggregator on TON offering instant swaps with low fees. | 2026-04-12 | [announcement](https://t.me/xdelta_finance/33) |
 
 </details>

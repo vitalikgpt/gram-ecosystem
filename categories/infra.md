@@ -2,7 +2,7 @@
 
 # Infra
 
-**75 projects: 33 active, 42 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/infra.csv).
+**75 projects: 33 active, 41 quiet, 1 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/infra.csv).
 
 ```mermaid
 %%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
@@ -35,7 +35,7 @@ xychart-beta
 | 17 | **TON DNS** |  | [Site](https://dns.ton.org) [GitHub](https://github.com/ton-blockchain) | 2022-06-30 |  |  |
 | 18 | **TON Storage** |  | [Site](https://docs.ton.org/v3/guidelines/web3/ton-storage/storage-daemon) | 2023-01-04 |  |  |
 | 19 | **MyTonCtrl** |  | [Site](https://github.com/ton-blockchain/mytonctrl) | 2020-01-31 |  |  |
-| 20 | **TON Verifier** |  | [X](https://x.com/LevelQFinance) [Site](https://verifier.ton.org) [GitHub](https://github.com/ton-blockchain/verifier) [Gram News](https://gramnews.org/apps/ton-verifier) | 2022-10-24 |  |  |
+| 20 | **TON Verifier** |  | [Site](https://verifier.ton.org) [GitHub](https://github.com/ton-blockchain/verifier) [Gram News](https://gramnews.org/apps/ton-verifier) | 2022-10-24 |  |  |
 | 21 | <img src="../assets/icons/cocoon.webp" width="20" height="20" alt=""> **Cocoon** | A decentralized network for confidential AI inference — GPU owners are paid in TON for processing requests, and Telegram is named as its first major customer | [Telegram](https://t.me/cocoon) [Site](https://cocoon.org) [GitHub](https://github.com/TelegramMessenger/cocoon) [Gram News](https://gramnews.org/apps/cocoon) | 2025-10-29 |  | since 2025-10 |
 | 22 | <img src="../assets/icons/botfather.webp" width="20" height="20" alt=""> **BotFather** | BotFather is the one bot to rule them all. Use it to create new bot accounts and manage your existing bots | [Bot](https://t.me/botfather) | 2016-01-14 | 10.2M | since 2020-06 |
 | 23 | <img src="../assets/icons/teqoin-wallet.webp" width="20" height="20" alt=""> **TeQoin Wallet** | Welcome to TeQoin Blockchain! Telegram | [Telegram](https://t.me/teqoin) [Bot](https://t.me/teqoin_wallet_bot) [X](https://x.com/teqoin) [Site](https://teqoin.io) [GitHub](https://github.com/TeQoin-Blockchain) | 2026-03-29 |  | yes |
@@ -50,7 +50,7 @@ xychart-beta
 | 32 | <img src="../assets/icons/nownodes.webp" width="20" height="20" alt=""> **NOWNodes** | RPC & node infrastructure for 120+ blockchains, with human support | [Telegram](https://t.me/nownodes) [X](https://x.com/NowNodes) [GitHub](https://github.com/NOWNodes) | 2019-05-15 |  | since 2023-10 |
 | 33 | <img src="../assets/icons/ton-access.webp" width="20" height="20" alt=""> **TON Access** | Decentralized RPC access to TON provided by the Orbs network. | [Telegram](https://t.me/orbsnetwork) [GitHub](https://github.com/orbs-network) | 2022-08-29 |  | since 2023-08 |
 
-<details><summary><b>Quiet: 42</b></summary>
+<details><summary><b>Quiet: 41</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
@@ -78,23 +78,30 @@ xychart-beta
 | 55 | <img src="../assets/icons/shard-zone.webp" width="20" height="20" alt=""> **Shard.Zone** | Lightweight inscription protocol based on TON and inspired by the Ordinals NFT on Bitcoin | [Telegram](https://t.me/tonshardzone) [X](https://x.com/ShardMarket) | 2023-12-20 |  |  |
 | 56 | <img src="../assets/icons/the-open-network.webp" width="20" height="20" alt=""> **The Open Network** | Archived official channel of the TON blockchain | [Telegram](https://t.me/tonblockchain) | 2021-01-11 |  |  |
 | 57 | <img src="../assets/icons/titon-network.webp" width="20" height="20" alt=""> **titon.network** | Shared security stack for TON | [Telegram](https://t.me/titonnet) [X](https://x.com/titonnet) [Site](https://titon.network) [Gram News](https://gramnews.org/apps/titon-network) | 2026-04-28 |  |  |
-| 58 | **TON Console (TonAPI)** |  | [GitHub](https://github.com/tonkeeper/tonapi) | 2022-06-28 |  |  |
-| 59 | **TON Domains** | Naming service that maps a readable domain to a crypto wallet address. | [Site](https://dns.ton.org/) | 2022-07-30 |  |  |
-| 60 | <img src="../assets/icons/ton-factory.webp" width="20" height="20" alt=""> **TON Factory** | Scalability accelerator for the TVM ecosystem | [Telegram](https://t.me/tonfactory_news) | 2025-04-30 |  |  |
-| 61 | <img src="../assets/icons/ton-help.webp" width="20" height="20" alt=""> **TON Help** | Technical support for TON bridge, vesting and multisig | [Bot](https://t.me/ton_help_bot) | 2022-07-30 |  | since 2023-03 |
-| 62 | <img src="../assets/icons/ton-search-engine.webp" width="20" height="20" alt=""> **TON Search Engine** | Search engine for the TON network with its own channel. | [Telegram](https://t.me/runner_ton) | 2023-08-21 |  |  |
-| 63 | <img src="../assets/icons/ton-status.webp" width="20" height="20" alt=""> **TON Status** | Technical notifications for TON validators and developers | [Telegram](https://t.me/tonstatus) | 2020-05-06 |  |  |
-| 64 | **TON Torrents** | Torrent service from the Tonutils tools channel for the TON network. | [Telegram](https://t.me/tonrh) [GitHub](https://github.com/xssnick/TON-Torrent) | 2023-06-12 |  |  |
-| 65 | **TonGo** | TonGo — a .ton domains and subdomains management service | [Site](https://tongo.run) [GitHub](https://github.com/tongochi/DEX) [Gram News](https://gramnews.org/apps/tongo) | 2023-06-28 |  |  |
-| 66 | **Tonutils Proxy** | User-friendly TON Proxy implementation | [GitHub](https://github.com/xssnick/Tonutils-Proxy) | 2022-11-18 |  |  |
-| 67 | <img src="../assets/icons/warden-protocol.webp" width="20" height="20" alt=""> **Warden Protocol** | Protocol bringing AI to web3 applications and smart contracts | [Telegram](https://t.me/wardenprotocol) | 2025-09-19 |  |  |
-| 68 | <img src="../assets/icons/ton-tech.webp" width="20" height="20" alt=""> **TON Tech** | Core tech organization abstracting blockchain complexity on TON | [Telegram](https://t.me/tontech) [X](https://x.com/TONTechHQ) [GitHub](https://github.com/the-ton-tech) | 2022-05-16 |  |  |
-| 69 | <img src="../assets/icons/ton-tech-2.webp" width="20" height="20" alt=""> **TON Tech** | Core tech organization abstracting blockchain complexity on TON | [Telegram](https://t.me/tontechru) [X](https://x.com/TONTechHQ) | 2026-04-14 |  |  |
-| 70 | <img src="../assets/icons/terahash.webp" width="20" height="20" alt=""> **TeraHash** | Bitcoin-native yield layer bridging hashrate and DeFi | [Telegram](https://t.me/terahash) [X](https://x.com/TeraHash_xyz) | 2025-06-04 |  |  |
-| 71 | <img src="../assets/icons/token-tac.webp" width="20" height="20" alt=""> **TAC (TAC)** | Token of the TAC project with a Telegram portal channel. | [Telegram](https://t.me/TACbuild) [X](https://x.com/TacBuild) [Site](https://tac.build) | 2024-02-01 |  |  |
-| 72 | <img src="../assets/icons/runecoin-network.webp" width="20" height="20" alt=""> **Runecoin Network** | Runecoin Network provides a more comprehensive blockchain ecosystem that combines fun interactions with the power of the TON Blockchain | [Telegram](https://t.me/Runecoin_Network) [Bot](https://t.me/runecoinapp_bot) [X](https://x.com/RuneCoinNetwork) [Site](https://runecoin.network/) | 2024-10-10 | 21K |  |
-| 73 | <img src="../assets/icons/rebalancer.webp" width="20" height="20" alt=""> **Rebalancer** | TON project with English channel and site | [Telegram](https://t.me/rebalancer_en) | 2024-06-25 |  |  |
-| 74 | **TON Foundation** | Channel of the foundation supporting the TON blockchain ecosystem. | [Telegram](https://t.me/tonfoundation) | 2023-11-02 |  |  |
-| 75 | <img src="../assets/icons/ton-names.webp" width="20" height="20" alt=""> **TON Names** | Registers short TON NFT domains that point straight to a wallet, and manages them at tonnames.org | [Telegram](https://t.me/tonnames) [Site](https://tonnames.org) [Gram News](https://gramnews.org/apps/ton-names) | 2022-01-01 |  |  |
+| 58 | **TON Domains** | Naming service that maps a readable domain to a crypto wallet address. | [Site](https://dns.ton.org/) | 2022-07-30 |  |  |
+| 59 | <img src="../assets/icons/ton-factory.webp" width="20" height="20" alt=""> **TON Factory** | Scalability accelerator for the TVM ecosystem | [Telegram](https://t.me/tonfactory_news) | 2025-04-30 |  |  |
+| 60 | <img src="../assets/icons/ton-help.webp" width="20" height="20" alt=""> **TON Help** | Technical support for TON bridge, vesting and multisig | [Bot](https://t.me/ton_help_bot) | 2022-07-30 |  | since 2023-03 |
+| 61 | <img src="../assets/icons/ton-search-engine.webp" width="20" height="20" alt=""> **TON Search Engine** | Search engine for the TON network with its own channel. | [Telegram](https://t.me/runner_ton) | 2023-08-21 |  |  |
+| 62 | <img src="../assets/icons/ton-status.webp" width="20" height="20" alt=""> **TON Status** | Technical notifications for TON validators and developers | [Telegram](https://t.me/tonstatus) | 2020-05-06 |  |  |
+| 63 | **TON Torrents** | Torrent service from the Tonutils tools channel for the TON network. | [Telegram](https://t.me/tonrh) [GitHub](https://github.com/xssnick/TON-Torrent) | 2023-06-12 |  |  |
+| 64 | **TonGo** | TonGo — a .ton domains and subdomains management service | [Site](https://tongo.run) [GitHub](https://github.com/tongochi/DEX) [Gram News](https://gramnews.org/apps/tongo) | 2023-06-28 |  |  |
+| 65 | **Tonutils Proxy** | User-friendly TON Proxy implementation | [GitHub](https://github.com/xssnick/Tonutils-Proxy) | 2022-11-18 |  |  |
+| 66 | <img src="../assets/icons/warden-protocol.webp" width="20" height="20" alt=""> **Warden Protocol** | Protocol bringing AI to web3 applications and smart contracts | [Telegram](https://t.me/wardenprotocol) | 2025-09-19 |  |  |
+| 67 | <img src="../assets/icons/ton-tech.webp" width="20" height="20" alt=""> **TON Tech** | Core tech organization abstracting blockchain complexity on TON | [Telegram](https://t.me/tontech) [X](https://x.com/TONTechHQ) [GitHub](https://github.com/the-ton-tech) | 2022-05-16 |  |  |
+| 68 | <img src="../assets/icons/ton-tech-2.webp" width="20" height="20" alt=""> **TON Tech** | Core tech organization abstracting blockchain complexity on TON | [Telegram](https://t.me/tontechru) [X](https://x.com/TONTechHQ) | 2026-04-14 |  |  |
+| 69 | <img src="../assets/icons/terahash.webp" width="20" height="20" alt=""> **TeraHash** | Bitcoin-native yield layer bridging hashrate and DeFi | [Telegram](https://t.me/terahash) [X](https://x.com/TeraHash_xyz) | 2025-06-04 |  |  |
+| 70 | <img src="../assets/icons/token-tac.webp" width="20" height="20" alt=""> **TAC (TAC)** | Token of the TAC project with a Telegram portal channel. | [Telegram](https://t.me/TACbuild) [X](https://x.com/TacBuild) [Site](https://tac.build) | 2024-02-01 |  |  |
+| 71 | <img src="../assets/icons/runecoin-network.webp" width="20" height="20" alt=""> **Runecoin Network** | Runecoin Network provides a more comprehensive blockchain ecosystem that combines fun interactions with the power of the TON Blockchain | [Telegram](https://t.me/Runecoin_Network) [Bot](https://t.me/runecoinapp_bot) [X](https://x.com/RuneCoinNetwork) [Site](https://runecoin.network/) | 2024-10-10 | 21K |  |
+| 72 | <img src="../assets/icons/rebalancer.webp" width="20" height="20" alt=""> **Rebalancer** | TON project with English channel and site | [Telegram](https://t.me/rebalancer_en) | 2024-06-25 |  |  |
+| 73 | **TON Foundation** | Channel of the foundation supporting the TON blockchain ecosystem. | [Telegram](https://t.me/tonfoundation) | 2023-11-02 |  |  |
+| 74 | <img src="../assets/icons/ton-names.webp" width="20" height="20" alt=""> **TON Names** | Registers short TON NFT domains that point straight to a wallet, and manages them at tonnames.org | [Telegram](https://t.me/tonnames) [Site](https://tonnames.org) [Gram News](https://gramnews.org/apps/ton-names) | 2022-01-01 |  |  |
+
+</details>
+
+<details><summary><b>Closed: 1</b></summary>
+
+| # | Project | What it is | Closed | Proof |
+| ---: | --- | --- | --- | --- |
+| 75 | **TON Console (TonAPI)** |  | 2023-06-01 | [archived repository](https://github.com/tonkeeper/tonapi) |
 
 </details>

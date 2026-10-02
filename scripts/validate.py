@@ -46,6 +46,8 @@ for i, r in enumerate(csv.DictReader(open("data/projects.csv", encoding="utf-8")
         errors.append(f"{where}: verified_since needs verified = 1")
     if r.get("website_down") and (not DATE.fullmatch(r["website_down"]) or not r["website"]):
         errors.append(f"{where}: website_down must be YYYY-MM-DD and needs a website")
+    if (r["status"] == "closed") != bool(r.get("closed_evidence")) or (r.get("closed_date") and not DATE.fullmatch(r["closed_date"])):
+        errors.append(f"{where}: closed needs closed_evidence and a YYYY-MM-DD closed_date, and only closed rows carry them")
     if r.get("launched") and not r.get("launched_source"):
         errors.append(f"{where}: launched needs launched_source")
     for k in ("subscribers", "mau", "reach_q3", "views_q3", "posts_q3"):

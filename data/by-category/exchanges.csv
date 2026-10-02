@@ -5,7 +5,7 @@ rank,name,subcategory,status,description,telegram,bot,x,website,launched,peak_ma
 4,Bitget,,active,Official Bitget English Announcements Channel,https://t.me/bitget_announcements,,https://x.com/bitget,https://www.bitget.com,2021-07-03,,2021-12-07
 5,Coinbase,,active,,,,,https://www.coinbase.com,2025-11-18,,
 6,Revolut,,active,,,,,https://www.revolut.com,2024-09-13,,
-7,HTX,,active,HTX Official English Group,https://t.me/htx_announcements,,https://x.com/TobbotTon,https://www.htx.com,2017-05-13,,
+7,HTX,,active,HTX Official English Group,https://t.me/htx_announcements,,,https://www.htx.com,2017-05-13,,
 8,KuCoin,,active,Leading global crypto platform built on trust / 40M+ users worldwide,https://t.me/kucoin_news,,https://x.com/KuCoinCom,https://www.kucoin.com,2022-12-20,,
 9,MEXC,,active,"Crypto exchange with a website, a downloadable app and community channels for events and chat.",https://t.me/mexcofficialnews,,https://x.com/mexc,https://www.mexc.com,2026-01-02,,
 10,bitFlyer,,active,,,,,https://bitflyer.com,2026-09-29,,
@@ -72,14 +72,14 @@ rank,name,subcategory,status,description,telegram,bot,x,website,launched,peak_ma
 71,Kraken,,quiet,Official community chat of the Kraken crypto exchange,https://t.me/kraken_exchange_official,,,,2025-12-18,,
 72,KuCoin GemSpace,,quiet,KuCoin hub for new listings and promotions,https://t.me/kucoingemspace,,,,2024-09-07,,
 73,KuCoin TON,,quiet,Official KuCoin group for TON events,https://t.me/kucointongroup,,,,2022-12-21,,
-74,Matrixport,,quiet,,,,,https://www.matrixport.com/,2019-05-22,,
-75,NovaDax,,quiet,,https://t.me/livehub_to,,https://x.com/livehub_to,https://www.novadax.com.br/product/orderbook?pair=TON_BRL,2024-12-28,,
-76,OKX Explorer,,quiet,,https://t.me/OKXOfficial_English,,https://x.com/okxexplorer,https://www.okx.com/web3/explorer,2024-07-15,,2022-01-19
-77,OSL Exchange,,quiet,"OSL Digital Securities is Hong Kong’s first and most established SFC-licensed and insured digital asset exchange. Operating since 2018, the platform provides institutional-grade digital asset services",,,https://x.com/OSL_HK,https://www.osl.com/en,2026-01-13,,
-78,Phemex,,quiet,Official chat of the Phemex crypto exchange,https://t.me/phemex_en,,,,2022-10-25,,
-79,Websea,,quiet,"Websea provides a comprehensive suite of trading and financial products, including Spot Trading, Futures Trading, Standard Copy Trading",,,https://x.com/webseaofficial,https://www.websea.com/,2022-04-24,,
-80,Excoino,,quiet,Persian-language crypto exchange operated by a knowledge-based Iranian company.,https://t.me/excoino,https://t.me/tonbuytechbot,https://x.com/excoino,https://excoino.com,2022-06-29,,
-81,ONUS,,quiet,Announcements of ONUS finance app,https://t.me/onus_globalchannel,,,,2021-11-22,,2024-01-29
-82,Bitdealer,,quiet,Official Bitdealer news channel,https://t.me/bitdealernews,,,,2025-08-31,,
-83,LBank Exchange,,closed,,,,,https://www.lbank.com/trade/ton_usdt/,2024-05-15,,
-84,Neocrypto,,closed,,,,,https://neocrypto.net,2023-07,,
+74,LBank Exchange,,quiet,,,,,https://www.lbank.com/trade/ton_usdt/,2024-05-15,,
+75,Matrixport,,quiet,,,,,https://www.matrixport.com/,2019-05-22,,
+76,Neocrypto,,quiet,,,,,https://neocrypto.net,2023-07,,
+77,NovaDax,,quiet,,https://t.me/livehub_to,,https://x.com/livehub_to,https://www.novadax.com.br/product/orderbook?pair=TON_BRL,2024-12-28,,
+78,OKX Explorer,,quiet,,https://t.me/OKXOfficial_English,,https://x.com/okxexplorer,https://www.okx.com/web3/explorer,2024-07-15,,2022-01-19
+79,OSL Exchange,,quiet,"OSL Digital Securities is Hong Kong’s first and most established SFC-licensed and insured digital asset exchange. Operating since 2018, the platform provides institutional-grade digital asset services",,,https://x.com/OSL_HK,https://www.osl.com/en,2026-01-13,,
+80,Phemex,,quiet,Official chat of the Phemex crypto exchange,https://t.me/phemex_en,,,,2022-10-25,,
+81,Websea,,quiet,"Websea provides a comprehensive suite of trading and financial products, including Spot Trading, Futures Trading, Standard Copy Trading",,,https://x.com/webseaofficial,https://www.websea.com/,2022-04-24,,
+82,Excoino,,quiet,Persian-language crypto exchange operated by a knowledge-based Iranian company.,https://t.me/excoino,https://t.me/tonbuytechbot,https://x.com/excoino,https://excoino.com,2022-06-29,,
+83,ONUS,,quiet,Announcements of ONUS finance app,https://t.me/onus_globalchannel,,,,2021-11-22,,2024-01-29
+84,Bitdealer,,quiet,Official Bitdealer news channel,https://t.me/bitdealernews,,,,2025-08-31,,

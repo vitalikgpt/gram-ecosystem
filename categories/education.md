@@ -16,7 +16,7 @@ xychart-beta
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 1 | <img src="../assets/icons/tonnewbie-nr1hca.webp" width="20" height="20" alt=""> **TonNewbie** | Channel with news and educational material about crypto and blockchain on TON for beginners. | [Telegram](https://t.me/tonnewbie) [X](https://x.com/ru) Site (down) [Gram News](https://gramnews.org/apps/tonnewbie-nr1hca) | 2022-01-09 |  |  |
+| 1 | <img src="../assets/icons/tonnewbie-nr1hca.webp" width="20" height="20" alt=""> **TonNewbie** | Channel with news and educational material about crypto and blockchain on TON for beginners. | [Telegram](https://t.me/tonnewbie) Site (down) [Gram News](https://gramnews.org/apps/tonnewbie-nr1hca) | 2022-01-09 |  |  |
 | 2 | <img src="../assets/icons/behland-web3-l2e.webp" width="20" height="20" alt=""> **BehLand** | BehLand — an educational platform with Web3 elements | [Telegram](https://t.me/BehLand_Official) [X](https://x.com/BehLandOfficial) [Site](https://beh.land) [GitHub](https://github.com/beh-land) [Gram News](https://gramnews.org/apps/behland-web3-l2e) | 2025-08-01 |  |  |
 | 3 | <img src="../assets/icons/rocketta.webp" width="20" height="20" alt=""> **Rocketta** | Digital currency education and earning bot | [Telegram](https://t.me/calm_me_bot) | 2024-07-31 | 1.5M |  |
 
@@ -24,7 +24,7 @@ xychart-beta
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 4 | <img src="../assets/icons/wordboox.webp" width="20" height="20" alt=""> **WordBooX** | Learn-to-earn language game with a chat, guide and support channels. | [Telegram](https://t.me/wordboox) [Bot](https://t.me/wordboox_bot) [X](https://x.com/watchlist_id) [Gram News](https://gramnews.org/apps/wordboox) | 2024-04-26 | 233K |  |
+| 4 | <img src="../assets/icons/wordboox.webp" width="20" height="20" alt=""> **WordBooX** | Learn-to-earn language game with a chat, guide and support channels. | [Telegram](https://t.me/wordboox) [Bot](https://t.me/wordboox_bot) [Gram News](https://gramnews.org/apps/wordboox) | 2024-04-26 | 233K |  |
 | 5 | <img src="../assets/icons/leap.webp" width="20" height="20" alt=""> **Leap** | Have fun, earn Leaps and learn crypto - for free and with friends | [Telegram](https://t.me/leap_app) [Bot](https://t.me/leapapp_bot) [X](https://x.com/hey_leap) [Gram News](https://gramnews.org/apps/leap) | 2024-07-10 | 102K |  |
 | 6 | <img src="../assets/icons/botanica.webp" width="20" height="20" alt=""> **Botanica** |  | [Bot](https://t.me/botanica_school_bot) [Gram News](https://gramnews.org/apps/botanica) | 2024-06-28 | 90K |  |
 | 7 | <img src="../assets/icons/vottun-dojo.webp" width="20" height="20" alt=""> **Vottun Dojo** | Hello! Welcome to Shuriken, the place to master your Web3 skills | [Bot](https://t.me/vottundojobot) Site (down) [GitHub](https://github.com/BradDev01) [Gram News](https://gramnews.org/apps/vottun-dojo) | 2024-09-06 | 131K |  |
