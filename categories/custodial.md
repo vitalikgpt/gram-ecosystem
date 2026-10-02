@@ -2,7 +2,7 @@
 
 # Custodial
 
-**6 projects: 5 active, 1 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/custodial.csv).
+**7 projects: 5 active, 2 quiet, 0 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/custodial.csv).
 
 ```mermaid
 %%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
@@ -22,10 +22,11 @@ xychart-beta
 | 4 | **Spell Wallet** | Crypto Airdrop Wallet - making airdrop claim easy and accessible for everyone | [Telegram](https://t.me/spell_wallet) [Bot](https://t.me/spell_wallet_bot) [X](https://x.com/spell_club) [Site](https://spellwallet.io/) | 2024-04-09 |  | since 2025-08 |
 | 5 | **Cwallet** | Cwallet is a crypto wallet for managing and swapping over 800 assets | [Telegram](https://t.me/cctipnews) [X](https://x.com/Cwalletofficial) [Site](https://cwallet.com/) [Gram News](https://gramnews.org/apps/cwallet) | 2022-08-09 |  |  |
 
-<details><summary><b>Quiet: 1</b></summary>
+<details><summary><b>Quiet: 2</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 6 | **Wallet** | News channel of Wallet in Telegram | [Telegram](https://t.me/wallet_news_en) [X](https://x.com/wallet_tg) | 2022-03-31 |  |  |
+| 6 | **TradeTON Cheque** | CEX - Wallet & Trading Bot - Your Telegram Wallet for Trading and Holding Cryptocurrencies - News - Community @ | [Telegram](https://t.me/tradetoncheques) |  |  |  |
+| 7 | **Wallet** | News channel of Wallet in Telegram | [Telegram](https://t.me/wallet_news_en) [X](https://x.com/wallet_tg) | 2022-03-31 |  |  |
 
 </details>

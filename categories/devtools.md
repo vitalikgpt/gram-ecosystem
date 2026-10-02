@@ -2,14 +2,14 @@
 
 # Developer tools
 
-**100 projects: 17 active, 80 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/devtools.csv).
+**87 projects: 15 active, 69 quiet, 3 closed.** Back to [all categories](../README.md#categories); statuses are explained [here](../README.md#how-to-read-it). The same list as a [searchable table](../data/by-category/devtools.csv).
 
 ```mermaid
 %%{init: {"xyChart": {"width": 900, "height": 220}, "themeVariables": {"xyChart": {"plotColorPalette": "#2f81f7"}}}}%%
 xychart-beta
   title "Launched per year"
   x-axis ["2020", "2021", "2022", "2023", "2024", "2025", "2026"]
-  bar [1, 3, 33, 22, 21, 9, 5]
+  bar [1, 3, 28, 22, 20, 5, 3]
 ```
 
 ## Active
@@ -19,105 +19,92 @@ xychart-beta
 | 1 | **Telegram Bot API News** | Official news about the Telegram Bot API | [Telegram](https://t.me/botnews) | 2016-01-17 |  | yes |
 | 2 | **Telegram Crawler** | Tracks changes in official Telegram sites and clients | [Telegram](https://t.me/tgcrawl) | 2022-10-23 |  |  |
 | 3 | **Tonutils** | News of Tonutils TON development tools | [Telegram](https://t.me/tonutilsnews) | 2024-07-25 |  |  |
-| 4 | **Chainbase Network** |  | [Telegram](https://t.me/chainbasenetwork) [X](https://x.com/ChainbaseHQ) [Site](https://chainbase.com) [GitHub](https://github.com/chainbase-labs) [Gram News](https://gramnews.org/apps/chainbase-network) | 2025-07-10 |  |  |
-| 5 | **IntelliJ Idea plugin** |  | [Telegram](https://t.me/actiqapp) [X](https://x.com/actiqapp) [Site](https://plugins.jetbrains.com/plugin/23382-ton) [GitHub](https://github.com/actiquest-dev) [Gram News](https://gramnews.org/apps/intellij-idea-plugin) | 2022-06-01 |  |  |
-| 6 | **Minter** |  | [Site](https://minter.ton.org) [Gram News](https://gramnews.org/apps/minter) | 2025-10-28 |  |  |
-| 7 | **nessshon/tonutils** | High-level SDK and toolkit | [GitHub](https://github.com/nessshon/tonutils) | 2024-07-28 |  |  |
-| 8 | **Orbs** |  | [Telegram](https://t.me/orbs_news) [X](https://x.com/orbs_network) [Site](https://www.orbs.com) [GitHub](https://github.com/orbs-network) [Gram News](https://gramnews.org/apps/orbs) | 2017-08-28 |  |  |
-| 9 | **Softstack** |  | [Telegram](https://t.me/softstack) [X](https://x.com/softstackHQ) [Site](https://softstack.io) [GitHub](https://github.com/softstack) [Gram News](https://gramnews.org/apps/softstack) | 2015-04-25 |  |  |
-| 10 | **tact.vim** |  | [GitHub](https://github.com/tact-lang/tact.vim) | 2023-09-29 |  |  |
-| 11 | **TON Testnet Faucet** |  | [Telegram](https://t.me/dictatorcryptodct) [Site](https://ton.run/#/faucet) [GitHub](https://github.com/awesome-doge) [Gram News](https://gramnews.org/apps/ton-testnet-faucet) | 2022-12 |  |  |
-| 12 | **TONify** | TONify is a free, browser-based converter for TON addresses | [Site](https://alexmubarakshin.github.io/tonify/) [GitHub](https://github.com/AlexMubarakshin/tonify) | 2024-12-16 |  |  |
-| 13 | **tonlib-rs** |  | [GitHub](https://github.com/ston-fi/tonlib-rs) | 2023-04-10 |  |  |
-| 14 | **TONNode** | TONNode gives you direct access to TON without running a node | [Telegram](https://t.me/tonnode) [Site](https://tonnode.io) [GitHub](https://github.com/tonnode) | 2026-07-16 |  |  |
-| 15 | **tonutils/tonconnect** | Python SDK for TON Connect | [GitHub](https://github.com/nessshon/tonutils) | 2024-07-28 |  |  |
-| 16 | **xssnick/tonutils-go** | Comprehensive Go SDK | [GitHub](https://github.com/xssnick/tonutils-go) | 2022-04-26 |  |  |
-| 17 | **yungwine/pytoniq** | SDK with LiteClient and TLB | [GitHub](https://github.com/yungwine/pytoniq) | 2023-05-25 |  |  |
+| 4 | **IntelliJ Idea plugin** |  | [Telegram](https://t.me/actiqapp) [X](https://x.com/actiqapp) [Site](https://plugins.jetbrains.com/plugin/23382-ton) [GitHub](https://github.com/actiquest-dev) [Gram News](https://gramnews.org/apps/intellij-idea-plugin) | 2022-06-01 |  |  |
+| 5 | **Minter** |  | [Site](https://minter.ton.org) [Gram News](https://gramnews.org/apps/minter) | 2025-10-28 |  |  |
+| 6 | **nessshon/tonutils** | High-level SDK and toolkit | [GitHub](https://github.com/nessshon/tonutils) | 2024-07-28 |  |  |
+| 7 | **Orbs** | Blockchain infrastructure network publishing news and updates. | [Telegram](https://t.me/orbs_news) [X](https://x.com/orbs_network) [Site](https://www.orbs.com) [GitHub](https://github.com/orbs-network) [Gram News](https://gramnews.org/apps/orbs) | 2017-08-28 |  |  |
+| 8 | **Softstack** |  | [Telegram](https://t.me/softstack) [X](https://x.com/softstackHQ) [Site](https://softstack.io) [GitHub](https://github.com/softstack) [Gram News](https://gramnews.org/apps/softstack) | 2015-04-25 |  |  |
+| 9 | **tact.vim** |  | [GitHub](https://github.com/tact-lang/tact.vim) | 2023-09-29 |  |  |
+| 10 | **TON Testnet Faucet** |  | [Telegram](https://t.me/dictatorcryptodct) [Site](https://ton.run/#/faucet) [GitHub](https://github.com/awesome-doge) [Gram News](https://gramnews.org/apps/ton-testnet-faucet) | 2022-12 |  |  |
+| 11 | **tonlib-rs** |  | [GitHub](https://github.com/ston-fi/tonlib-rs) | 2023-04-10 |  |  |
+| 12 | **TONNode** | TONNode gives you direct access to TON without running a node | [Telegram](https://t.me/tonnode) [Site](https://tonnode.io) [GitHub](https://github.com/tonnode) | 2026-07-16 |  |  |
+| 13 | **tonutils/tonconnect** | Python SDK for TON Connect | [GitHub](https://github.com/nessshon/tonutils) | 2024-07-28 |  |  |
+| 14 | **xssnick/tonutils-go** | Comprehensive Go SDK for the TON blockchain. | [GitHub](https://github.com/xssnick/tonutils-go) | 2022-04-26 |  |  |
+| 15 | **yungwine/pytoniq** | SDK with LiteClient and TLB | [GitHub](https://github.com/yungwine/pytoniq) | 2023-05-25 |  |  |
 
-<details><summary><b>Quiet: 80</b></summary>
+<details><summary><b>Quiet: 69</b></summary>
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 18 | **Grid TON** |  | [Bot](https://t.me/gridton_bot) [Gram News](https://gramnews.org/apps/grid-ton) | 2024-06-03 | 189K |  |
-| 19 | **DECODE UR SEED** |  | [Bot](https://t.me/decodeseedbot) [Gram News](https://gramnews.org/apps/decode-ur-seed) | 2024-07-16 | 255K |  |
-| 20 | **Shuttle** | We are here for great things | [Telegram](https://t.me/Shuttle_ads) [Bot](https://t.me/shuttle_ton_bot) [Gram News](https://gramnews.org/apps/shuttle) | 2024-04-21 | 1.3M |  |
-| 21 | **Tonano** |  | [Telegram](https://t.me/tonanoOfficial) [Bot](https://t.me/tonanobot) [X](https://x.com/Ton_scription) [Site](https://tonano.io/) [Gram News](https://gramnews.org/apps/tonano) | 2023-12-26 | 1K |  |
-| 22 | **@tonconnect/sdk** | JavaScript SDK for TON Connect 2.0 | [Site](https://www.npmjs.com/package/@tonconnect/sdk) | 2022-09-26 |  |  |
-| 23 | **Adradar** |  | [X](https://x.com/adradar_xyz) [Site](https://adradar.xyz) [Gram News](https://gramnews.org/apps/adradar) | 2025-06-19 |  |  |
-| 24 | **Apps Father** | Apps Father — AI tool to build Telegram Mini Apps without code | [Telegram](https://t.me/apps_father) [Bot](https://t.me/apps_father_bot) [X](https://x.com/AppsFather) [Site](https://apps-father.com/) [Gram News](https://gramnews.org/apps/apps-father) | 2026-04-07 |  |  |
-| 25 | **Blockchain Network Visualizer** | Network visualization tool | [GitHub](https://github.com/qpwedev/blockchain-network-visualizer) | 2022-12-31 |  |  |
-| 26 | **C#/tonconnect** | C# SDK for TON Connect | [GitHub](https://github.com/continuation-team/TonSdk.NET) | 2023-03-08 |  |  |
-| 27 | **Chainstack** | Managed RPC nodes with geo balancing | [Telegram](https://t.me/chainstack) [Site](https://chainstack.com/build-better-with-ton/) | 2014-11-26 |  | yes |
-| 28 | **Chainstack TON Faucet** | Daily TON testnet refills | [Site](https://faucet.chainstack.com/ton-testnet-faucet) | 2014-11-26 |  |  |
-| 29 | **Crypto Pay Developers** | Developer chat for the Crypto Pay payment system | [Telegram](https://t.me/cryptopaydevru) | 2023-04-29 |  |  |
-| 30 | **custon** | Custom wallet address generator in JavaScript | [GitHub](https://github.com/TON-NFT/custon) | 2022-06-08 |  |  |
-| 31 | **darttonconnect** | Dart SDK for mobile apps | [GitHub](https://github.com/romanovichim/dartTonconnect) | 2023-05-03 |  |  |
-| 32 | **DeLab** |  | [Bot](https://t.me/delabbot) [X](https://x.com/delabteam) Site (down) [GitHub](https://github.com/delab-team) [Gram News](https://gramnews.org/apps/delab) | 2024-04-03 |  |  |
-| 33 | **delab-team/connect** | Multi-protocol SDK with unified interface | [GitHub](https://github.com/delab-team/connect) | 2022-11-02 |  |  |
-| 34 | **Development Wallet** |  | [Site](https://test.tonhub.com/dl) [GitHub](https://github.com/TractionEye) [Gram News](https://gramnews.org/apps/development-wallet) | 2024-01-08 |  |  |
-| 35 | **Directual no-code** | Your smart Telegram assistant for Directual — get key updates and manage your account anytime, anywhere | [Bot](https://t.me/Directual_bot) [X](https://x.com/directual) [Site](https://readme.directual.com/plugins/using-plugins/blockchain-web3/ton-the-open-network) [Gram News](https://gramnews.org/apps/directual-no-code) | 2020-08-13 |  |  |
-| 36 | **DYOR.io API** | Developer chat for DYOR.io API | [Telegram](https://t.me/dyorapi) | 2025-01-13 |  |  |
-| 37 | **foton** | Comprehensive toolkit for TON dApps | [GitHub](https://github.com/VanishMax/foton) | 2024-04-01 |  |  |
-| 38 | **GMAI** | GMAI — developer tool for Solana dApps with AI integration | [Telegram](https://t.me/gmAI_Ann) [Bot](https://t.me/gmdotaibot) [X](https://x.com/gm_dot_ai) [Site](https://docs.gm.ai/how-we-work/gmai-framework) [Gram News](https://gramnews.org/apps/gmai) | 2024-07-30 | 2.5M |  |
-| 39 | **go/tonconnect** | GO SDK for TON Connect | [GitHub](https://github.com/cameo-engineering/tonconnect) | 2023-12-12 |  |  |
-| 40 | **IntelliJ IDEs Plugin** | TON development for JetBrains IDEs | [Site](https://plugins.jetbrains.com/plugin/23382-ton) | 2022-02-01 |  |  |
-| 41 | **Jetton Arbitrage** |  | [Gram News](https://gramnews.org/apps/jetton-arbitrage) | 2023-12-07 |  |  |
-| 42 | **Language Server (LSP Server)** | Supports Sublime Text, (Neo)Vim, Helix, and other editors with LSP support | [GitHub](https://github.com/tact-lang/tact-language-server) | 2024-12-28 |  |  |
-| 43 | **LFG AI Market** | Первый и единственный маркет ИИ-решений на TON | [Telegram](https://t.me/lfg_ai_bot) [Bot](https://t.me/ruhunt) [Site](https://lfg-ton-marketplace.vercel.app) [Gram News](https://gramnews.org/apps/lfg-ai-market) | 2022-11-05 |  |  |
-| 44 | **Marble** | Marble has completed a framework that allows you to easily integrate Unity, HTML5, and WebGL-based games into Telegram | [Bot](https://t.me/Marblegame_bot) [X](https://x.com/marbletoken) [Site](https://marbletoken.io) | 2024-10 |  |  |
-| 45 | **Misti Static Analyzer** |  | [Telegram](https://t.me/tonsec_chat) [GitHub](https://github.com/nowarp/misti) | 2024-04-14 |  |  |
-| 46 | **Nimbus API** |  | [Site](https://getnimbus.io) [Gram News](https://gramnews.org/apps/nimbus-api) | 2024-06 |  |  |
-| 47 | **orbs-network/ton-access** | Decentralized RPC access | [GitHub](https://github.com/orbs-network/ton-access) | 2022-08-29 |  |  |
-| 48 | **Port3** |  | [Site](https://twitter.com/Port3Network) [Gram News](https://gramnews.org/apps/port3) | 2023-04 |  |  |
-| 49 | **pytonconnect** | Alternative Python SDK | [Site](https://pypi.org/project/pytonconnect/) | 2023-04-04 |  |  |
-| 50 | **Rift** |  | [Site](https://rift.skyring.io) [GitHub](https://github.com/sky-ring) [Gram News](https://gramnews.org/apps/rift) | 2022-10-08 |  |  |
-| 51 | **SimpleNFT** | Simplifying web3 monetization for developers. For creators by creators | [Telegram](https://t.me/simplenft4all) [Bot](https://t.me/simplenftbot) | 2025-04-04 | 49K |  |
-| 52 | **SpyTON BuyBot** |  | [Bot](https://t.me/Tonspybuybot) [X](https://x.com/hubspyton) [Gram News](https://gramnews.org/apps/spyton-buybot) | 2026-03-30 |  |  |
-| 53 | **Sublime Text Plugin** | FunC support for Sublime | [GitHub](https://github.com/savva425/func_plugin_sublimetext3) | 2021-10-29 |  |  |
-| 54 | **Tact Language** | Group for discussing Tact programming language in English | [Telegram](https://t.me/tactlang) [X](https://x.com/tact_language) [GitHub](https://github.com/tact-lang) | 2023-01-10 |  |  |
-| 55 | **Testgiver TON** | TON testnet faucet bot | [Bot](https://t.me/testgiver_ton_bot) | 2022-07-26 | 32K |  |
-| 56 | **Testnet Faucet** |  | [Gram News](https://gramnews.org/apps/testnet-faucet) | 2015-06-11 |  |  |
-| 57 | **titon.network** | Shared security stack for TON | [Telegram](https://t.me/titonnet) [X](https://x.com/titonnet) [Site](https://titon.network) [Gram News](https://gramnews.org/apps/titon-network) | 2026-04-28 |  |  |
-| 58 | **TMA Dev** |  | [Telegram](https://t.me/twa_dev) [GitHub](https://github.com/twa-dev) | 2023-09-29 |  |  |
-| 59 | **TON & TG Dev Tools** |  | [Site](https://mehrdadjeyrani.ir) [GitHub](https://github.com/MGamerica) [Gram News](https://gramnews.org/apps/ton-tg-dev-tools) | 2025-03 |  |  |
-| 60 | **TON Dev Chat** | English-speaking TON developers chat | [Telegram](https://t.me/tondev_eng) | 2022-04-21 |  |  |
-| 61 | **TON Domain Info bot** |  | [Gram News](https://gramnews.org/apps/ton-domain-info-bot) | 2022-12-27 |  |  |
-| 62 | **TON INU BuyBot** | TON INU BuyBot — a bot for buying the TINU token on the TON network | [Telegram](https://t.me/toninu_trending) [Bot](https://t.me/TonBuyTechBot) [X](https://x.com/toninutools) [Site](https://toninu.tech/) [Gram News](https://gramnews.org/apps/ton-inu-buybot) | 2025-01-16 |  |  |
-| 63 | **TON INU Locker** |  | [Telegram](https://t.me/toninutools) [X](https://x.com/toninutools) [Site](https://app.toninu.tech/locker) [Gram News](https://gramnews.org/apps/ton-inu-locker) | 2024-01-12 |  |  |
-| 64 | **TON NoCode SDK** |  | [Telegram](https://t.me/safemoonTon) [X](https://x.com/SafetonPad) [Site](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) [Gram News](https://gramnews.org/apps/ton-nocode-sdk) | 2024-01-06 |  |  |
-| 65 | **TON Play** | Toolkit for developers of Telegram games on TON | [Telegram](https://t.me/tonplayinsiderrus) | 2022-08-02 |  |  |
-| 66 | **Ton Site Builder** | Ton Web3 Site Builder.Based on Ton Storage | [Bot](https://t.me/ton_site_builder_bot) | 2026-07-04 |  |  |
-| 67 | **TON Web IDE** | Boost your web3 coding journey with us | [Telegram](https://t.me/ton_web_ide) Site (down) [GitHub](https://github.com/tact-lang/web-ide) | 2023-02-21 |  |  |
-| 68 | **ton-blockchain/tonlib-go** | Official Golang TonLib wrapper | [GitHub](https://github.com/ton-blockchain/tonlib-go) | 2021-07-02 |  |  |
-| 69 | **ton-community/twa-template** | TWA template with TON integration | [GitHub](https://github.com/ton-community/twa-template) | 2022-09-21 |  |  |
-| 70 | **ton-core/ton** | Cross-platform client by ton-core | [GitHub](https://github.com/ton-core/ton) | 2023-01-26 |  |  |
-| 71 | **ton-k8s** | Self-hosted TON network with Kubernetes and Docker | [GitHub](https://github.com/disintar/ton-k8s) | 2022-01-15 |  |  |
-| 72 | **ton-kotlin** | Kotlin SDK for JVM applications | [GitHub](https://github.com/andreypfau/ton-kotlin) | 2022-01-17 |  |  |
-| 73 | **Tonana** |  | [X](https://x.com/tonanadao) [Site](https://github.com/tonanadao) [GitHub](https://github.com/fluidicon.png) [Gram News](https://gramnews.org/apps/tonana) | 2023-05-21 |  |  |
-| 74 | **toncenter.com bot** | Bot for managing toncenter.com API keys | [Bot](https://t.me/tonapibot) | 2022-02-21 |  |  |
-| 75 | **tonfactory/tonsdk** | Cells and contract wrappers | [GitHub](https://github.com/tonfactory/tonsdk) | 2022-08-04 |  |  |
-| 76 | **TonSdk.NET** |  | [GitHub](https://github.com/continuation-team/TonSdk.NET) | 2023-03-08 |  |  |
-| 77 | **TonStatic** | Bot for creating simple .ton sites | [Bot](https://t.me/tonstaticbot) | 2023-12-04 |  |  |
-| 78 | **Tonutils Proxy** | User-friendly TON Proxy implementation | [GitHub](https://github.com/xssnick/Tonutils-Proxy) | 2022-11-18 |  |  |
-| 79 | **tonutils-dart** | Dart/Flutter SDK for mobile apps | [GitHub](https://github.com/novusnota/tonutils-dart) | 2023-05-12 |  |  |
-| 80 | **TONX Testnet Faucet** | Web-based faucet service | [Site](https://faucet.tonxapi.com/) | 2024-07-24 |  |  |
-| 81 | **TONX.JS** | JavaScript SDK for TONX API | [GitHub](https://github.com/frigatebird-studio/TONX.js) | 2024-10-22 |  |  |
-| 82 | **twa-dev/boilerplate** | Starter boilerplate for TWAs | [GitHub](https://github.com/twa-dev/Boilerplate) | 2022-09-11 |  |  |
-| 83 | **twa-dev/Mark42** | UI library optimized for TWAs | [GitHub](https://github.com/twa-dev/Mark42) | 2022-08-18 |  |  |
-| 84 | **twa-dev/sdk** | SDK package for TWA development | [GitHub](https://github.com/twa-dev/sdk) | 2022-08-16 |  |  |
-| 85 | **TxTracer** | Tool to emulate and trace any transaction from TON blockchain | [Site](https://txtracer.ton.org) | 2025-05-14 |  |  |
-| 86 | **unity/tonconnect** | Unity SDK for TON Connect | [GitHub](https://github.com/continuation-team/unity-ton-connect) | 2023-09-05 |  |  |
-| 87 | **Vanity TON** |  | [Site](https://vanity.earnigram.com) [Gram News](https://gramnews.org/apps/vanity-ton) | 2025-02-18 |  |  |
-| 88 | **VS Code Plugin** | FunC syntax highlighting and tools | [Site](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode) | 2022-03-28 |  |  |
-| 89 | **Xircus** |  | [Bot](https://t.me/xircus_bot) | 2024-06 |  |  |
-| 90 | **yungwine/TonTools** | High-level library for HTTP/ADNL | [GitHub](https://github.com/yungwine/TonTools) | 2022-11-23 |  |  |
-| 91 | **DeLab Team** | Development team building on TVM, including a TON SIM bot | [Telegram](https://t.me/delabteam) | 2022-11-04 |  |  |
-| 92 | **TON Contests** | Announcements of TON developer contests | [Telegram](https://t.me/toncontests) | 2021-11-09 |  |  |
-| 93 | **TONX** | TONX is the SuperApp platform layer that enables builders to create the new Web3 economy | [Telegram](https://t.me/tonxstudio) [X](https://x.com/TONX_Studio) [Site](https://tonx.ai/) | 2022-09-29 |  |  |
-| 94 | **MyTonWallet** | MyTonWallet developer contests channel | [Telegram](https://t.me/mycontests) [X](https://x.com/mytonwallet_io) [GitHub](https://github.com/mytonwallet-org) | 2024-05-15 |  |  |
-| 95 | **TONX API** | Support the development of TON by offering an array of robust tools for a seamless developer journey | [Telegram](https://t.me/tonxapi) [X](https://x.com/TONXAPI) [Site](https://tonxapi.com/) [GitHub](https://github.com/tonxapi/sample) [Gram News](https://gramnews.org/apps/tonx-api) | 2023-10-31 |  |  |
-| 96 | **TON.SKI Access** | An ecosystem for TON Sites | [Telegram](https://t.me/tonski_eng) [Site](https://ton.ski/access/) [Gram News](https://gramnews.org/apps/ton-ski-access) | 2022-12-22 |  |  |
-| 97 | **Tact Software Foundation** | Official channel for TON development news and the Tact language | [Telegram](https://t.me/tondevnews) | 2022-12-23 |  |  |
+| 16 | **Grid TON** |  | [Bot](https://t.me/gridton_bot) [Gram News](https://gramnews.org/apps/grid-ton) | 2024-06-03 | 189K |  |
+| 17 | **DECODE UR SEED** |  | [Bot](https://t.me/decodeseedbot) [Gram News](https://gramnews.org/apps/decode-ur-seed) | 2024-07-16 | 255K |  |
+| 18 | **Shuttle** | We are here for great things | [Telegram](https://t.me/Shuttle_ads) [Bot](https://t.me/shuttle_ton_bot) [Gram News](https://gramnews.org/apps/shuttle) | 2024-04-21 | 1.3M |  |
+| 19 | **DPXWallet** | Feature-Rich demonstration of a dummy Wallet app / Dev | [Bot](https://t.me/dpxwalletbot) [Gram News](https://gramnews.org/apps/dpxwallet) | 2023-10-31 | 142 |  |
+| 20 | **@tonconnect/sdk** | JavaScript SDK for TON Connect 2.0 | [Site](https://www.npmjs.com/package/@tonconnect/sdk) | 2022-09-26 |  |  |
+| 21 | **Adradar** |  | [X](https://x.com/adradar_xyz) [Site](https://adradar.xyz) [Gram News](https://gramnews.org/apps/adradar) | 2025-06-19 |  |  |
+| 22 | **Apps Father** | Apps Father — AI tool to build Telegram Mini Apps without code | [Telegram](https://t.me/apps_father) [Bot](https://t.me/apps_father_bot) [X](https://x.com/AppsFather) [Site](https://apps-father.com/) [Gram News](https://gramnews.org/apps/apps-father) | 2026-04-07 |  |  |
+| 23 | **C#/tonconnect** | C# SDK for TON Connect. | [GitHub](https://github.com/continuation-team/TonSdk.NET) | 2023-03-08 |  |  |
+| 24 | **Chainstack TON Faucet** | Daily TON testnet refills | [Site](https://faucet.chainstack.com/ton-testnet-faucet) | 2014-11-26 |  |  |
+| 25 | **Crypto Pay Developers** | Developer chat for the Crypto Pay payment system | [Telegram](https://t.me/cryptopaydevru) | 2023-04-29 |  |  |
+| 26 | **custon** | Custom wallet address generator in JavaScript | [GitHub](https://github.com/TON-NFT/custon) | 2022-06-08 |  |  |
+| 27 | **darttonconnect** | Dart SDK for TON Connect aimed at mobile apps. | [GitHub](https://github.com/romanovichim/dartTonconnect) | 2023-05-03 |  |  |
+| 28 | **DeLab** |  | [Bot](https://t.me/delabbot) [X](https://x.com/delabteam) Site (down) [GitHub](https://github.com/delab-team) [Gram News](https://gramnews.org/apps/delab) | 2024-04-03 |  |  |
+| 29 | **delab-team/connect** | Multi-protocol SDK with unified interface | [GitHub](https://github.com/delab-team/connect) | 2022-11-02 |  |  |
+| 30 | **Development Wallet** |  | [Site](https://test.tonhub.com/dl) [GitHub](https://github.com/TractionEye) [Gram News](https://gramnews.org/apps/development-wallet) | 2024-01-08 |  |  |
+| 31 | **Directual no-code** | Your smart Telegram assistant for Directual — get key updates and manage your account anytime, anywhere | [Bot](https://t.me/Directual_bot) [X](https://x.com/directual) [Site](https://readme.directual.com/plugins/using-plugins/blockchain-web3/ton-the-open-network) [Gram News](https://gramnews.org/apps/directual-no-code) | 2020-08-13 |  |  |
+| 32 | **DYOR.io API** | Developer chat for DYOR.io API | [Telegram](https://t.me/dyorapi) | 2025-01-13 |  |  |
+| 33 | **Escape from Zeya** |  | [Telegram](https://t.me/tonplayinsider) [X](https://x.com/insider_ton) [Site](https://tonplay.io/games/DZmrVk1mJ5) [GitHub](https://github.com/ton-play) | 2024-05 |  |  |
+| 34 | **foton** | Comprehensive toolkit for TON dApps | [GitHub](https://github.com/VanishMax/foton) | 2024-04-01 |  |  |
+| 35 | **GMAI** | GMAI — developer tool for Solana dApps with AI integration | [Telegram](https://t.me/gmAI_Ann) [Bot](https://t.me/gmdotaibot) [X](https://x.com/gm_dot_ai) [Site](https://docs.gm.ai/how-we-work/gmai-framework) [Gram News](https://gramnews.org/apps/gmai) | 2024-07-30 | 2.5M |  |
+| 36 | **go/tonconnect** | Go SDK for TON Connect. | [GitHub](https://github.com/cameo-engineering/tonconnect) | 2023-12-12 |  |  |
+| 37 | **IntelliJ IDEs Plugin** | TON development for JetBrains IDEs | [Site](https://plugins.jetbrains.com/plugin/23382-ton) | 2022-02-01 |  |  |
+| 38 | **Language Server (LSP Server)** | Supports Sublime Text, (Neo)Vim, Helix, and other editors with LSP support | [GitHub](https://github.com/tact-lang/tact-language-server) | 2024-12-28 |  |  |
+| 39 | **Marble** | Marble has completed a framework that allows you to easily integrate Unity, HTML5, and WebGL-based games into Telegram | [Bot](https://t.me/Marblegame_bot) [X](https://x.com/marbletoken) [Site](https://marbletoken.io) | 2024-10 |  |  |
+| 40 | **Misti Static Analyzer** | Static analyzer for smart contracts on the TON blockchain. | [Telegram](https://t.me/tonsec_chat) [GitHub](https://github.com/nowarp/misti) | 2024-04-14 |  |  |
+| 41 | **Nimbus API** |  | [Site](https://getnimbus.io) [Gram News](https://gramnews.org/apps/nimbus-api) | 2024-06 |  |  |
+| 42 | **Port3** |  | [Site](https://twitter.com/Port3Network) [Gram News](https://gramnews.org/apps/port3) | 2023-04 |  |  |
+| 43 | **pytonconnect** | Alternative Python SDK for TON Connect. | [Site](https://pypi.org/project/pytonconnect/) | 2023-04-04 |  |  |
+| 44 | **Rift** |  | [Site](https://rift.skyring.io) [GitHub](https://github.com/sky-ring) [Gram News](https://gramnews.org/apps/rift) | 2022-10-08 |  |  |
+| 45 | **SimpleNFT** | Simplifying web3 monetization for developers. For creators by creators | [Telegram](https://t.me/simplenft4all) [Bot](https://t.me/simplenftbot) | 2025-04-04 | 49K |  |
+| 46 | **Sublime Text Plugin** | Plugin adding FunC language support to Sublime Text. | [GitHub](https://github.com/savva425/func_plugin_sublimetext3) | 2021-10-29 |  |  |
+| 47 | **Tact Language** | Group for discussing Tact programming language in English | [Telegram](https://t.me/tactlang) [X](https://x.com/tact_language) [GitHub](https://github.com/tact-lang) | 2023-01-10 |  |  |
+| 48 | **Testgiver TON** | Bot that hands out TON testnet coins as a faucet. | [Bot](https://t.me/testgiver_ton_bot) | 2022-07-26 | 32K |  |
+| 49 | **Testnet Faucet** |  | [Gram News](https://gramnews.org/apps/testnet-faucet) | 2015-06-11 |  |  |
+| 50 | **TMA Dev** | Community of Telegram developers discussing mini apps in English. | [Telegram](https://t.me/twa_dev) [GitHub](https://github.com/twa-dev) | 2023-09-29 |  |  |
+| 51 | **TON & TG Dev Tools** |  | [Site](https://mehrdadjeyrani.ir) [GitHub](https://github.com/MGamerica) [Gram News](https://gramnews.org/apps/ton-tg-dev-tools) | 2025-03 |  |  |
+| 52 | **TON Dev Chat** | English-speaking TON developers chat | [Telegram](https://t.me/tondev_eng) | 2022-04-21 |  |  |
+| 53 | **TON NoCode SDK** |  | [Telegram](https://t.me/safemoonTon) [X](https://x.com/SafetonPad) [Site](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) [Gram News](https://gramnews.org/apps/ton-nocode-sdk) | 2024-01-06 |  |  |
+| 54 | **TON Play** | Toolkit for developers of Telegram games on TON | [Telegram](https://t.me/tonplayinsiderrus) | 2022-08-02 |  |  |
+| 55 | **Ton Site Builder** | Ton Web3 Site Builder.Based on Ton Storage | [Bot](https://t.me/ton_site_builder_bot) | 2026-07-04 |  |  |
+| 56 | **TON Web IDE** | Boost your web3 coding journey with us | [Telegram](https://t.me/ton_web_ide) Site (down) [GitHub](https://github.com/tact-lang/web-ide) | 2023-02-21 |  |  |
+| 57 | **ton-blockchain/tonlib-go** | Official Golang TonLib wrapper | [GitHub](https://github.com/ton-blockchain/tonlib-go) | 2021-07-02 |  |  |
+| 58 | **ton-community/twa-template** | TWA template with TON integration | [GitHub](https://github.com/ton-community/twa-template) | 2022-09-21 |  |  |
+| 59 | **ton-core/ton** | Cross-platform client by ton-core | [GitHub](https://github.com/ton-core/ton) | 2023-01-26 |  |  |
+| 60 | **ton-k8s** | Self-hosted TON network with Kubernetes and Docker | [GitHub](https://github.com/disintar/ton-k8s) | 2022-01-15 |  |  |
+| 61 | **ton-kotlin** | Kotlin SDK for JVM applications | [GitHub](https://github.com/andreypfau/ton-kotlin) | 2022-01-17 |  |  |
+| 62 | **Tonana** |  | [X](https://x.com/tonanadao) [Site](https://github.com/tonanadao) [GitHub](https://github.com/fluidicon.png) [Gram News](https://gramnews.org/apps/tonana) | 2023-05-21 |  |  |
+| 63 | **toncenter.com bot** | Bot for managing toncenter.com API keys | [Bot](https://t.me/tonapibot) | 2022-02-21 |  |  |
+| 64 | **TonDevWallet** |  | [Site](https://github.com/TonDevWallet/TonDevWallet) [GitHub](https://github.com/TonDevWallet/TonDevWallet) [Gram News](https://gramnews.org/apps/tondevwallet) | 2023-01-27 |  |  |
+| 65 | **tonfactory/tonsdk** | Cells and contract wrappers | [GitHub](https://github.com/tonfactory/tonsdk) | 2022-08-04 |  |  |
+| 66 | **TonSdk.NET** |  | [GitHub](https://github.com/continuation-team/TonSdk.NET) | 2023-03-08 |  |  |
+| 67 | **TonStatic** | Bot for creating simple .ton sites | [Bot](https://t.me/tonstaticbot) | 2023-12-04 |  |  |
+| 68 | **tonutils-dart** | Dart/Flutter SDK for mobile apps | [GitHub](https://github.com/novusnota/tonutils-dart) | 2023-05-12 |  |  |
+| 69 | **TONX Testnet Faucet** | Web-based faucet service for TON testnet coins. | [Site](https://faucet.tonxapi.com/) | 2024-07-24 |  |  |
+| 70 | **TONX.JS** | JavaScript SDK for TONX API | [GitHub](https://github.com/frigatebird-studio/TONX.js) | 2024-10-22 |  |  |
+| 71 | **twa-dev/boilerplate** | Starter boilerplate for TWAs | [GitHub](https://github.com/twa-dev/Boilerplate) | 2022-09-11 |  |  |
+| 72 | **twa-dev/Mark42** | UI library optimized for TWAs | [GitHub](https://github.com/twa-dev/Mark42) | 2022-08-18 |  |  |
+| 73 | **twa-dev/sdk** | SDK package for TWA development | [GitHub](https://github.com/twa-dev/sdk) | 2022-08-16 |  |  |
+| 74 | **unity/tonconnect** | Unity SDK for TON Connect | [GitHub](https://github.com/continuation-team/unity-ton-connect) | 2023-09-05 |  |  |
+| 75 | **VS Code Plugin** | FunC syntax highlighting and tools | [Site](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode) | 2022-03-28 |  |  |
+| 76 | **Xircus** |  | [Bot](https://t.me/xircus_bot) | 2024-06 |  |  |
+| 77 | **yungwine/TonTools** | High-level library for HTTP/ADNL | [GitHub](https://github.com/yungwine/TonTools) | 2022-11-23 |  |  |
+| 78 | **DeLab Team** | Development team building on TVM, including a TON SIM bot | [Telegram](https://t.me/delabteam) | 2022-11-04 |  |  |
+| 79 | **TON Contests** | Announcements of TON developer contests | [Telegram](https://t.me/toncontests) | 2021-11-09 |  |  |
+| 80 | **TONX** | TONX is the SuperApp platform layer that enables builders to create the new Web3 economy | [Telegram](https://t.me/tonxstudio) [X](https://x.com/TONX_Studio) [Site](https://tonx.ai/) | 2022-09-29 |  |  |
+| 81 | **MyTonWallet** | MyTonWallet developer contests channel | [Telegram](https://t.me/mycontests) [X](https://x.com/mytonwallet_io) [GitHub](https://github.com/mytonwallet-org) | 2024-05-15 |  |  |
+| 82 | **TONX API** | Support the development of TON by offering an array of robust tools for a seamless developer journey | [Telegram](https://t.me/tonxapi) [X](https://x.com/TONXAPI) [Site](https://tonxapi.com/) [GitHub](https://github.com/tonxapi/sample) [Gram News](https://gramnews.org/apps/tonx-api) | 2023-10-31 |  |  |
+| 83 | **TON.SKI Access** | An ecosystem for TON Sites | [Telegram](https://t.me/tonski_eng) [Site](https://ton.ski/access/) [Gram News](https://gramnews.org/apps/ton-ski-access) | 2022-12-22 |  |  |
+| 84 | **Tact Software Foundation** | Official channel for TON development news and the Tact language | [Telegram](https://t.me/tondevnews) | 2022-12-23 |  |  |
 
 </details>
 
@@ -125,8 +112,8 @@ xychart-beta
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 98 | **node-tonlib** | Node.js C++ addon for TON |  | 2022-10-29 |  |  |
-| 99 | **SwiftyTON** | Swift SDK with async/await support |  | 2022-10-29 |  |  |
-| 100 | **WebDeployer** |  | [Site](https://ratingers.pythonanywhere.com/deployer/) | 2023-07 |  |  |
+| 85 | **node-tonlib** | Node.js C++ addon for TON |  | 2022-10-29 |  |  |
+| 86 | **SwiftyTON** | Swift SDK with async/await support |  | 2022-10-29 |  |  |
+| 87 | **WebDeployer** |  | [Site](https://ratingers.pythonanywhere.com/deployer/) | 2023-07 |  |  |
 
 </details>

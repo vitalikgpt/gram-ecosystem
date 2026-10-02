@@ -21,7 +21,7 @@ xychart-beta
 | 3 | **WenLong** | Trade Hyperliquid perps right inside Telegram. Deposit from your TON wallet — no KYC, no bridges, no bullshit. Up to 40x leverage, self-custody | [Telegram](https://t.me/wenlongnews) [Bot](https://t.me/whenlongbot) | 2024-09-20 |  |  |
 | 4 | **Hyperliquid** |  | [Site](https://hyperliquid.xyz) | 2022-10-15 |  |  |
 | 5 | **Vooi App** | Join VOOI - Trade, Arbitrage, Earn Rewards / Unlock trading | [Telegram](https://t.me/vooi_app) [Bot](https://t.me/vooiappbot) [Gram News](https://gramnews.org/apps/vooi-app) | 2024-04-16 | 1.3M | since 2024-10 |
-| 6 | **Aster** |  | [Telegram](https://t.me/asterdex) [Site](https://www.asterdex.com) | 2025-03-14 |  |  |
+| 6 | **Aster** | Perpetual futures decentralized exchange for traders. | [Telegram](https://t.me/asterdex) [Site](https://www.asterdex.com) | 2025-03-14 |  |  |
 | 7 | **Lighter** |  | [Site](https://lighter.xyz) | 2025-10 |  |  |
 | 8 | **Storm Trade (STORM)** | Official news & announcement channel of | [Telegram](https://t.me/storm_trade_news) [X](https://x.com/storm_trade_ton) [Site](https://storm.tg) | 2024-10-12 |  |  |
 | 9 | **TON Hedge** | New generation trading platform on TON blockchain | [Telegram](https://t.me/ton_hedge) [Bot](https://t.me/ton_hedge_bot) [X](https://x.com/tonhedge) [Site](https://tonhedge.com) [Gram News](https://gramnews.org/apps/ton-hedge) | 2024-05-20 |  |  |
@@ -30,10 +30,10 @@ xychart-beta
 
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
-| 10 | **Nundu** |  | [Telegram](https://t.me/nunducrypto) [Bot](https://t.me/nunducryptobot) [Gram News](https://gramnews.org/apps/nundu) | 2024-12-12 | 43K |  |
+| 10 | **Nundu** | Perpetual futures trading bot on TON. | [Telegram](https://t.me/nunducrypto) [Bot](https://t.me/nunducryptobot) [Gram News](https://gramnews.org/apps/nundu) | 2024-12-12 | 43K |  |
 | 11 | **ONUS Tap Tap Tap** | Perpetual DEX - up to 150× leverage. Effortless trading experience! | [Bot](https://t.me/onus_tap_tap_tap_bot) [X](https://x.com/ONUSFinance) [Gram News](https://gramnews.org/apps/onus-tap-tap-tap) | 2021-09-01 | 6M | since 2025-01 |
-| 12 | **Vanilla Finance** |  | [Bot](https://t.me/vanilla_finance_bot) [Gram News](https://gramnews.org/apps/vanilla-finance) | 2024-06-17 | 3.7M |  |
-| 13 | **dYdX** |  | [Telegram](https://t.me/dydxofficial) [X](https://x.com/dydx) [Site](https://dYdX.trade) [Gram News](https://gramnews.org/apps/dydx) | 2022-03-09 |  |  |
+| 12 | **Vanilla Finance** | Perpetual futures exchange for meme tokens with high leverage and an airdrop points system. | [Bot](https://t.me/vanilla_finance_bot) [Gram News](https://gramnews.org/apps/vanilla-finance) | 2024-06-17 | 3.7M |  |
+| 13 | **dYdX** | Decentralized perpetual trading platform governed by its community and unavailable in the US. | [Telegram](https://t.me/dydxofficial) [X](https://x.com/dydx) [Site](https://dYdX.trade) [Gram News](https://gramnews.org/apps/dydx) | 2022-03-09 |  |  |
 | 14 | **EVEDEX** | EVEDEX official Telegram channel Get +10% cashback | [Telegram](https://t.me/officialevedex) | 2024-11-19 |  |  |
 | 15 | **Hopium** | Social perp trading on Telegram | [Bot](https://t.me/hopium_official_bot) | 2024-08-20 | 278K |  |
 | 16 | **HyperFun** | Leveraged Bitcoin trading in Telegram | [Bot](https://t.me/hyperfn_bot) | 2026-04-23 |  |  |

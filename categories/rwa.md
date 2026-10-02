@@ -30,8 +30,8 @@ xychart-beta
 | # | Project | What it is | Links | Launched | Peak MAU | Verified |
 | ---: | --- | --- | --- | --- | ---: | --- |
 | 9 | **tbook** | The first embedded RWA liquidity layer that brings institutional-grade tokenized yield into user-facing apps | [Bot](https://t.me/tbook_incentive_bot) [Gram News](https://gramnews.org/apps/tbook) | 2023-08-31 | 423K |  |
-| 10 | **SOLARIAN TECH** |  | [Bot](https://t.me/solariantechbot) [Gram News](https://gramnews.org/apps/solarian-tech) | 2024-07-02 | 120K |  |
-| 11 | **TokenizeTrade** |  | [Telegram](https://t.me/tokenizetrade) [Bot](https://t.me/tokenizetradebot) [X](https://x.com/tokenizetrade) [Site](https://www.tokenize.trade) [Gram News](https://gramnews.org/apps/tokenizetrade) | 2024-02-05 | 88K |  |
+| 10 | **SOLARIAN TECH** | Solar power plant technology project with a cryptocurrency. | [Bot](https://t.me/solariantechbot) [Gram News](https://gramnews.org/apps/solarian-tech) | 2024-07-02 | 120K |  |
+| 11 | **TokenizeTrade** | Real-world asset trading project with a points farming bot in Telegram. | [Telegram](https://t.me/tokenizetrade) [Bot](https://t.me/tokenizetradebot) [X](https://x.com/tokenizetrade) [Site](https://www.tokenize.trade) [Gram News](https://gramnews.org/apps/tokenizetrade) | 2024-02-05 | 88K |  |
 | 12 | **Aqua Protocol** |  | [Telegram](https://t.me/aquaprotocolxyz) [X](https://x.com/aquaprotocolxyz) | 2024-09-18 |  |  |
 | 13 | **Bridged USD Coin (TON Bridge) (JUSDC)** |  | [Site](https://bridge.ton.org) | 2023-04-01 |  |  |
 | 14 | **CurioDAO** | Real-world asset tokenization ecosystem | [Telegram](https://t.me/curiocarqa) | 2024-08-22 |  |  |
