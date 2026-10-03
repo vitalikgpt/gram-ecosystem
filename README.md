@@ -120,7 +120,7 @@ timeline
 
 ## Funding rounds
 
-312 rounds and sales of 229 projects, $233M disclosed in 148 of them: $224.3M stated in dollars and $8.7M from sales priced in TON, converted at the TON price of the day. Sticker and collectible drops: 96, $12.9M of sticker packs sold in the Telegram Sticker Store ([Dune](https://dune.com/telegram/stickers)), many of them brands from other chains; they are listed but not counted above. Separately, 27 raises of the coin itself, of Telegram, of listed TON treasuries and of ecosystem funds, $3.99B. Collected from [DefiLlama](https://defillama.com/raises?chain=TON), [DropsTab](https://dropstab.com/categories/ton-ecosystem), [DYOR presales](https://dyor.io/presale), the sites of funds and launchpads, the channels of launchpads, funds and marketplaces (Tonstarter, Ton Raffles, TonUP, Getgems, TON Diamonds and others) and the projects' own announcements on Telegram; each row in [rounds.csv](data/rounds.csv) lists every source and its link.
+333 rounds and sales of 232 projects, $212.8M disclosed in 152 of them: $204.1M stated in dollars and $8.7M from sales priced in TON, converted at the TON price of the day. Multichain products that aggregators tag as TON ecosystem, such as Ethena, Relay and UXLINK: 43 rounds, $299.2M, listed but not counted above. Sticker and collectible drops: 96, $12.9M of sticker packs sold in the Telegram Sticker Store ([Dune](https://dune.com/telegram/stickers)), many of them brands from other chains; they are listed but not counted above. Separately, 27 raises of the coin itself, of Telegram, of listed TON treasuries and of ecosystem funds, $3.99B. Collected from [DefiLlama](https://defillama.com/raises?chain=TON), [DropsTab](https://dropstab.com/categories/ton-ecosystem), [CryptoRank](https://cryptorank.io/funding-rounds), [DYOR presales](https://dyor.io/presale), the sites of funds and launchpads, the channels of launchpads, funds and marketplaces (Tonstarter, Ton Raffles, TonUP, Getgems, TON Diamonds and others) and the projects' own announcements on Telegram; each row in [rounds.csv](data/rounds.csv) lists every source and its link.
 
 | Year | Rounds | With amount | Disclosed |
 | --- | ---: | ---: | ---: |
@@ -128,32 +128,32 @@ timeline
 | 2018 | 2 | 1 | $1.9M |
 | 2020 | 1 | 0 |  |
 | 2021 | 7 | 2 | $2.4M |
-| 2022 | 40 | 22 | $7.9M |
-| 2023 | 60 | 32 | $13.8M |
-| 2024 | 115 | 57 | $79.6M |
-| 2025 | 65 | 26 | $119M |
-| 2026 | 19 | 5 | $3.7M |
+| 2022 | 38 | 20 | $5.5M |
+| 2023 | 58 | 33 | $14.1M |
+| 2024 | 134 | 60 | $58.5M |
+| 2025 | 70 | 27 | $117M |
+| 2026 | 20 | 6 | $8.7M |
 | undated | 2 | 2 | $2.6M |
 
 | Date | Project | Round | Amount | Lead |
 | --- | --- | --- | ---: | --- |
 | 2025-07-03 | The Open Platform | Series B | $28.5M | Ribbit Capital |
-| 2025-02-19 | Cygnus | Pre-Seed | $20M |  |
-| 2024-07-02 | RedStone | Series A | $15M | Arrington Capital |
+| 2025-02-26 | Ethena USDe USDe | Undisclosed | $20M | MEXC |
 | 2025-11-17 | WizzWoods | Series A | $10M | Animoca Brands; Infinity Ventures Crypto |
-| 2024-12-11 | TabiZoo | Venture_round | $10M |  |
 | 2025-07-30 | STON.fi | Series A | $9.5M | Ribbit Capital; CoinFund |
 | 2025-10-30 | Capybobo | Funding Round | $8M | Pluto.Vision; Pluto Studio |
 | 2024-03-26 | TPET (Ton Fish) | Fairlaunch / public sale on Ton Raffles | $8M |  |
+| 2025-03-14 | PlaysOut | Seed | $7M | OKX Ventures |
 | 2024-11-11 | TAC | Seed Round | $6.5M | Hack VC; Symbolic Capital |
-| 2025-02-28 | Acki Nacki |  | $6M |  |
+| 2026-01-19 | AKEDO Games | Seed | $5M | Karatage |
 | 2025-06-18 | TAC | Strategic Round | $5M | Hack VC |
-| 2025-02-12 | Blum | Seed Round | $5M | gumi Crypto Capital |
+| 2025-02-12 | Blum | Seed Round | $5M | gumi Crypto Capital; gumi Cryptos |
 | 2024-12-20 | DuckChain | Funding Round | $5M |  |
 | 2023-07-25 | Delabs Games | Seed | $4.7M | Hashed |
-| 2025-05-27 | HASBi RUN | Presale | $4.3M |  |
+| 2025-11-27 | Nexton | Strategic | $4M | Amber Group |
+| 2025-02-03 | GOAT Gaming | Strategic | $4M | TON Ventures; Karatage; Amber Group; Bitscale Capital |
 
-Most frequent backers: TON Ventures 16 (led 5), Animoca Brands 11 (led 3), TONcoin.Fund 11 (led 10), TON Foundation 9 (led 8), TVM Ventures 6 (led 3), The Open Platform 6 (led 3), Karatage 5 (led 2), Mirana Ventures 5, Amber Group 4 (led 1), GSR 4, Kenetic Capital 4 (led 2), OKX Ventures 4.
+Most frequent backers: TON Ventures 17 (led 7), TONcoin.Fund 12 (led 12), TON Foundation 10 (led 9), Animoca Brands 9 (led 2), The Open Platform 8 (led 5), Karatage 6 (led 3), OKX Ventures 6 (led 3), TVM Ventures 6 (led 3), Waterdrip Capital 5 (led 2), GSR 4, Kenetic Capital 4 (led 2), Mirana Ventures 4.
 
 ## Top NFT collections
 
@@ -487,7 +487,7 @@ The `sources` column lists every place a project was found:
 | [data/category-fixes.csv](data/category-fixes.csv) | 852 category decisions with the reason: moves, and rows removed as not projects |
 | [data/usernames.csv](data/usernames.csv) | 641 other usernames of the same accounts, by numeric id: second names, renames, names now held by someone else |
 | [data/merged.csv](data/merged.csv) | 35 rows folded into the row that shares their Telegram account (the numeric id), with the key |
-| [data/rounds.csv](data/rounds.csv) | 436 funding rounds: date, project, round, amount, valuation, lead and other investors, the amount in TON for sales priced in TON and its dollar value at the TON price of the day, and the sources that report it with links |
+| [data/rounds.csv](data/rounds.csv) | 500 funding rounds: date, project, round, amount, valuation, lead and other investors, the amount in TON for sales priced in TON and its dollar value at the TON price of the day, and the sources that report it with links |
 | [data/nft-collections.csv](data/nft-collections.csv) | the 200 largest NFT collections on Getgems by all-time volume (2026-10-02): kind, address, volume, floor, owners, items, launch date (first transaction of the contract), Telegram, X, site and description from the contract metadata, the catalogue project that shares a link |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
 | [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |

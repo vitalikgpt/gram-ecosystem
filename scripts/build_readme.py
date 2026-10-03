@@ -358,7 +358,11 @@ def build():
         STICKER = "Sticker pack primary sales"
         is_stick = lambda r: bool(re.search(r"(?i)sticker|collectible", r["round"]))   # sticker and collectible drops on Telegram, many of them brands from other chains
         stick = [r for r in rnds if is_stick(r)]
-        proj = [r for r in rnds if r["project"] not in TOKEN and r["round"] != "M&A" and not is_stick(r)]
+        # aggregators tag these as TON ecosystem, but they are multichain products or chains of their own; listed, counted apart
+        MULTI = {"Ethena", "Ethena USDe", "Relay", "UXLINK", "APRO", "Tomo", "WELL3", "OneKey", "Trusta.AI", "Captain Tsubasa: Rivals", "RedStone",
+                 "Cygnus", "Acki Nacki", "XDao", "PinGo", "Tonsnipe", "TabiZoo", "Kuroro Ranch", "HASBi RUN", "TBook", "TradeOS", "Star Bridge", "Sofamon"}
+        multi = [r for r in rnds if r["project"] in MULTI and not is_stick(r)]
+        proj = [r for r in rnds if r["project"] not in TOKEN | MULTI and r["round"] != "M&A" and not is_stick(r)]
         tok = [r for r in rnds if r["project"] in TOKEN]
         usd = lambda xs: sum(int(r["amount_usd"]) for r in xs if r["amount_usd"])
         # a sale priced in TON counts at the TON price of its day (amount_usd_from_ton); a stated dollar amount always wins
@@ -383,12 +387,13 @@ def build():
             "",
             f"{len(proj)} rounds and sales of {len({r['project'] for r in proj})} projects, {money(usd(proj) + conv(proj))} disclosed in {sum(1 for r in proj if val(r))} of them: "
             f"{money(usd(proj))} stated in dollars and {money(conv(proj))} from sales priced in TON, converted at the TON price of the day. "
+            f"Multichain products that aggregators tag as TON ecosystem, such as Ethena, Relay and UXLINK: {len(multi)} rounds, {money(usd(multi))}, listed but not counted above. "
             f"Sticker and collectible drops: {len(stick)}, {money(usd(stick))} of sticker packs sold in the Telegram Sticker Store "
             "([Dune](https://dune.com/telegram/stickers)), many of them brands from other chains; they are listed but not counted above. "
             f"Separately, {len(tok)} raises of the coin itself, of Telegram, of listed TON treasuries and of ecosystem funds, {money(usd(tok))}. "
 
             "Collected from [DefiLlama](https://defillama.com/raises?chain=TON), [DropsTab](https://dropstab.com/categories/ton-ecosystem), "
-            "[DYOR presales](https://dyor.io/presale), the sites of funds and launchpads, the channels of launchpads, funds and marketplaces "
+            "[CryptoRank](https://cryptorank.io/funding-rounds), [DYOR presales](https://dyor.io/presale), the sites of funds and launchpads, the channels of launchpads, funds and marketplaces "
             "(Tonstarter, Ton Raffles, TonUP, Getgems, TON Diamonds and others) and the projects' own announcements on Telegram; each row in "
             "[rounds.csv](data/rounds.csv) lists every source and its link.",
             "",
