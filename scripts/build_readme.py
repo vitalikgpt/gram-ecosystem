@@ -354,7 +354,7 @@ def build():
     if os.path.exists("data/rounds.csv"):
         rnds = list(csv.DictReader(open("data/rounds.csv", encoding="utf-8")))
         # the coin itself and listed treasury companies buy or hold GRAM; their money is not a project's venture round
-        TOKEN = {"TON", "TON Strategy", "AlphaTON Capital", "TON Ventures", "Telegram Growth Hub", "TVM Ventures", "Telegram (TON ICO)", "Telegram Gifts"}
+        TOKEN = {"TON", "TON Strategy", "AlphaTON Capital", "TON Ventures", "Telegram Growth Hub", "TVM Ventures", "Telegram (TON ICO)", "Telegram Gifts", "Telegram Gifts (limited gifts sold out)"}
         STICKER = "Sticker pack primary sales"
         is_stick = lambda r: bool(re.search(r"(?i)sticker|collectible", r["round"]))   # sticker and collectible drops on Telegram, many of them brands from other chains
         stick = [r for r in rnds if is_stick(r)]
