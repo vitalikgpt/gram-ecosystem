@@ -500,6 +500,59 @@
    }
   },
   {
+   "name": "rounds",
+   "path": "data/rounds.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "description": "funding rounds of TON and Telegram projects, merged from DefiLlama, DropsTab, fund sites and the projects' own posts, with every source",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "string",
+      "description": "YYYY-MM-DD"
+     },
+     {
+      "name": "project",
+      "type": "string"
+     },
+     {
+      "name": "project_slug",
+      "type": "string"
+     },
+     {
+      "name": "round",
+      "type": "string"
+     },
+     {
+      "name": "amount_usd",
+      "type": "integer"
+     },
+     {
+      "name": "valuation_usd",
+      "type": "integer"
+     },
+     {
+      "name": "lead_investors",
+      "type": "string"
+     },
+     {
+      "name": "investors",
+      "type": "string"
+     },
+     {
+      "name": "sources",
+      "type": "string"
+     },
+     {
+      "name": "evidence",
+      "type": "string"
+     }
+    ]
+   }
+  },
+  {
    "name": "nft-collections",
    "path": "data/nft-collections.csv",
    "format": "csv",

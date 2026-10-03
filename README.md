@@ -2,9 +2,9 @@
 
 <img src="assets/cover.jpg" alt="Gram Ecosystem: TON and Telegram projects" width="100%">
 
-<img src="https://img.shields.io/badge/projects-4%2C524-5aa9ff?style=flat-square" alt="projects: 4,524"> <img src="https://img.shields.io/badge/active-1%2C002-4cd08a?style=flat-square" alt="active: 1,002"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/channels-1%2C219-5aa9ff?style=flat-square" alt="channels: 1,219"> <img src="https://img.shields.io/badge/links%20fixed-2%2C234-f2b84b?style=flat-square" alt="links fixed: 2,234"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
+<img src="https://img.shields.io/badge/projects-4%2C524-5aa9ff?style=flat-square" alt="projects: 4,524"> <img src="https://img.shields.io/badge/active-1%2C002-4cd08a?style=flat-square" alt="active: 1,002"> <img src="https://img.shields.io/badge/categories-35-5aa9ff?style=flat-square" alt="categories: 35"> <img src="https://img.shields.io/badge/channels-1%2C219-5aa9ff?style=flat-square" alt="channels: 1,219"> <img src="https://img.shields.io/badge/links%20fixed-2%2C235-f2b84b?style=flat-square" alt="links fixed: 2,235"> <img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey?style=flat-square" alt="data: CC BY 4.0"> <a href="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml"><img src="https://github.com/vitalikgpt/gram-ecosystem/actions/workflows/check.yml/badge.svg" alt="data check"></a>
 
-**Every TON and Telegram project we could verify: 4,524 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 9,283 links are checked every week; 2,234 wrong ones have been fixed so far, each with its evidence.
+**Every TON and Telegram project we could verify: 4,524 of them in 35 categories, each with its channel, bot, X, site and GitHub, and the numbers that show whether it is alive.** The 9,283 links are checked every week; 2,235 wrong ones have been fixed so far, each with its evidence.
 
 Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, build on it.
 
@@ -12,7 +12,7 @@ Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, bui
 
 **Browse it right here**: every category opens as a searchable table, its *table* link below; so do [channels](data/channels.csv) and [studios and funds](data/relations.csv).
 
-**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [NFT collections](#top-nft-collections), [Neighbours on Telegram](#neighbours-on-telegram), [Verified](#verified-on-telegram), [Other usernames](#other-usernames), [Studios and funds](#studios-funds-and-accelerators), [Channels](#channels), [How to read it](#how-to-read-it), [Data](#data), [Maps and reports](#maps-and-reports), [Contribute](#contribute)
+**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Funding rounds](#funding-rounds), [NFT collections](#top-nft-collections), [Neighbours on Telegram](#neighbours-on-telegram), [Verified](#verified-on-telegram), [Other usernames](#other-usernames), [Studios and funds](#studios-funds-and-accelerators), [Channels](#channels), [How to read it](#how-to-read-it), [Data](#data), [Maps and reports](#maps-and-reports), [Contribute](#contribute)
 
 ## Categories
 
@@ -52,8 +52,8 @@ Each category has its own page with every project, active ones first.
 | [Games](categories/games.md) | 141 | 1113 | <img src="assets/icons/dogs-wpl0el.webp" width="20" height="20" alt=""> [Dogs](https://t.me/dogs), <img src="assets/icons/city-holder-game.webp" width="20" height="20" alt=""> [CITY Holder](https://t.me/city_holder), <img src="assets/icons/catizen-1.webp" width="20" height="20" alt=""> [Catizen](https://t.me/catizenann), <img src="assets/icons/gatto.webp" width="20" height="20" alt=""> [Gatto](https://t.me/gatto_game) | [table](data/by-category/games.csv) |
 | [Farming](categories/farming.md) | 234 | 949 | <img src="assets/icons/boinkers.webp" width="20" height="20" alt=""> [Boinkers](https://t.me/boinkersnews), <img src="assets/icons/time-farm.webp" width="20" height="20" alt=""> [Time Farm](https://t.me/timefarmchannel), <img src="assets/icons/agent-301.webp" width="20" height="20" alt=""> [Agent 301](https://t.me/app301), <img src="assets/icons/hrum.webp" width="20" height="20" alt=""> [Hrum](https://t.me/hrumfam) | [table](data/by-category/farming.csv) |
 | [Casino](categories/gambling.md) | 64 | 247 | <img src="assets/icons/virus-game-bot.webp" width="20" height="20" alt=""> [VIRUS GAME](https://t.me/omicron), <img src="assets/icons/epic-gift.webp" width="20" height="20" alt=""> [Epic Gift](https://t.me/epic_gift_official), <img src="assets/icons/easy-gift.webp" width="20" height="20" alt=""> [Easy Gift](https://t.me/easygiftnews), <img src="assets/icons/gorilla-case.webp" width="20" height="20" alt=""> [Gorilla Case](https://t.me/gorilla_news) | [table](data/by-category/gambling.csv) |
-| [Studios](categories/studios.md) | 5 | 23 | <img src="assets/icons/open-builders.webp" width="20" height="20" alt=""> [Open Builders](https://t.me/builders), <img src="assets/icons/the-open-platform.webp" width="20" height="20" alt=""> [The Open Platform](https://t.me/topco), <img src="assets/icons/gamee.webp" width="20" height="20" alt=""> [GAMEE](https://t.me/gameechannel), <img src="assets/icons/playdeck.webp" width="20" height="20" alt=""> [PlayDeck](https://t.me/playdeck_en) | [table](data/by-category/studios.csv) |
-| [Funds](categories/funds.md) | 1 | 19 | <img src="assets/icons/ton-ventures.webp" width="20" height="20" alt=""> [TON Ventures](https://t.me/ton_ventures), <img src="assets/icons/tvm-ventures.webp" width="20" height="20" alt=""> [TVM Ventures](https://t.me/tvmventures), [TONcoin.Fund](https://toncoin.fund), [Animoca Brands](https://www.animocabrands.com) | [table](data/by-category/funds.csv) |
+| [Studios](categories/studios.md) | 5 | 23 | <img src="assets/icons/the-open-platform.webp" width="20" height="20" alt=""> [The Open Platform](https://t.me/topco), <img src="assets/icons/open-builders.webp" width="20" height="20" alt=""> [Open Builders](https://t.me/builders), <img src="assets/icons/gamee.webp" width="20" height="20" alt=""> [GAMEE](https://t.me/gameechannel), <img src="assets/icons/playdeck.webp" width="20" height="20" alt=""> [PlayDeck](https://t.me/playdeck_en) | [table](data/by-category/studios.csv) |
+| [Funds](categories/funds.md) | 1 | 19 | <img src="assets/icons/ton-ventures.webp" width="20" height="20" alt=""> [TON Ventures](https://t.me/ton_ventures), [Animoca Brands](https://www.animocabrands.com), [TONcoin.Fund](https://toncoin.fund), <img src="assets/icons/tvm-ventures.webp" width="20" height="20" alt=""> [TVM Ventures](https://t.me/tvmventures) | [table](data/by-category/funds.csv) |
 | [Accelerators](categories/accelerators.md) | 1 | 13 | <img src="assets/icons/ton-accelerator.webp" width="20" height="20" alt=""> [TON Accelerator](https://t.me/accelerator_ton), <img src="assets/icons/gaming-tg.webp" width="20" height="20" alt=""> [Gaming.tg](https://t.me/tggamingaccelerator), Telegram Growth Hub, TON Nest | [table](data/by-category/accelerators.csv) |
 
 ```mermaid
@@ -117,6 +117,42 @@ timeline
   2025 : Tonnel : @Portals : XDAO : TONNEL Network (TONNEL)
   2026 : My Duck : @Mira : Mr. Freeman : TonMobile eSIM
 ```
+
+## Funding rounds
+
+93 rounds of 65 projects, $184.2M disclosed in 47 of them. Separately, 22 purchases and financings of the coin itself and of listed TON treasuries, $2.18B. Collected from [DefiLlama](https://defillama.com/raises?chain=TON), [DropsTab](https://dropstab.com/categories/ton-ecosystem), the sites of funds and launchpads and the projects' own announcements on Telegram; each row in [rounds.csv](data/rounds.csv) lists every source and its link.
+
+| Year | Rounds | With amount | Disclosed |
+| --- | ---: | ---: | ---: |
+| 2017 | 1 | 1 | $2.1M |
+| 2018 | 1 | 1 | $1.9M |
+| 2021 | 2 | 2 | $2.4M |
+| 2022 | 5 | 5 | $6M |
+| 2023 | 18 | 5 | $11.6M |
+| 2024 | 36 | 12 | $42.1M |
+| 2025 | 25 | 16 | $112M |
+| 2026 | 3 | 3 | $3.5M |
+| undated | 2 | 2 | $2.6M |
+
+| Date | Project | Round | Amount | Lead |
+| --- | --- | --- | ---: | --- |
+| 2025-07-03 | The Open Platform | Series B | $28.5M | Ribbit Capital |
+| 2025-02-19 | Cygnus | Pre-Seed | $20M |  |
+| 2024-07-02 | RedStone | Series A | $15M | Arrington Capital |
+| 2025-11-17 | WizzWoods | Series A | $10M | Animoca Brands; Infinity Ventures Crypto |
+| 2025-07-30 | STON.fi | Series A | $9.5M | Ribbit Capital; CoinFund |
+| 2025-10-30 | Capybobo | Funding Round | $8M | Pluto.Vision; Pluto Studio |
+| 2024-11-11 | TAC | Seed Round | $6.5M | Hack VC; Symbolic Capital |
+| 2025-02-28 | Acki Nacki |  | $6M |  |
+| 2025-06-18 | TAC | Strategic Round | $5M | Hack VC |
+| 2025-02-12 | Blum | Seed Round | $5M | gumi Crypto Capital |
+| 2024-12-20 | DuckChain | Funding Round | $5M |  |
+| 2023-07-25 | Delabs Games | Seed | $4.7M | Hashed |
+| 2025-11-27 | Nexton | Strategic | $4M |  |
+| 2025-02-03 | GOAT Gaming | Strategic | $4M | TON Ventures; Karatage; Amber Group; Bitscale Capital |
+| 2024-08-08 | TONX | Pre-Seed & Seed | $4M | SNZ Holding; Summer Ventures |
+
+Most frequent backers: TON Ventures 16 (led 5), TONcoin.Fund 10 (led 10), Animoca Brands 8 (led 3), The Open Platform 6 (led 3), Karatage 5 (led 2), TVM Ventures 5 (led 3), Amber Group 4 (led 1), GSR 4, Kenetic Capital 4 (led 2), Mirana Ventures 4, The Spartan Group 4, YZi Labs 4 (led 2).
 
 ## Top NFT collections
 
@@ -203,17 +239,23 @@ Who builds and backs the projects. Each link between a project and an organisati
 
 | Organisation | Type | Projects | Sources |
 | --- | --- | --- | --- |
+| <img src="assets/icons/the-open-platform.webp" width="20" height="20" alt=""> [The Open Platform](https://t.me/topco) | studio | built: <img src="assets/icons/wallet.webp" width="20" height="20" alt=""> [@Walt](https://t.me/walt_news), <img src="assets/icons/wallet-pay.webp" width="20" height="20" alt=""> [Wallet Pay](https://t.me/walletpayofficial); owns: <img src="assets/icons/playdeck.webp" width="20" height="20" alt=""> [PlayDeck](https://t.me/playdeck_en); ecosystem: <img src="assets/icons/ston-fi.webp" width="20" height="20" alt=""> [STON.fi](https://t.me/stonfidex), <img src="assets/icons/getgems-mtmajh.webp" width="20" height="20" alt=""> [Getgems](https://t.me/getgems), <img src="assets/icons/tonkeeper.webp" width="20" height="20" alt=""> [Keeper](https://t.me/keeper_en); co-launched: Telegram Growth Hub; invested: [TON Strategy](https://tonstrat.com), <img src="assets/icons/ston-fi.webp" width="20" height="20" alt=""> [STON.fi](https://t.me/stonfidex), <img src="assets/icons/blum-memepad.webp" width="20" height="20" alt=""> [@Blum](https://t.me/blumcrypto_memepad), <img src="assets/icons/akedo-games.webp" width="20" height="20" alt=""> [AKEDO Games](https://t.me/akedofun), Telegram Growth Hub, <img src="assets/icons/catizen-1.webp" width="20" height="20" alt=""> [Catizen](https://t.me/catizenann) | [1](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) [2](https://www.playdeck.io/) [3](https://www.streetinsider.com/Globe+Newswire/OKX+Ventures,+The+Open+Platform+and+Folius+Ventures+Launch+$10+Million+Telegram+Growth+Hub/23896789.html) [4](https://www.sec.gov/Archives/edgar/data/1566610/000149315225011727/ex99-1.htm) [5](https://defillama.com/raises) [6](https://dropstab.com/coins/blum/fundraising) [7](https://t.me/akedofun/457) [8](https://www.manilatimes.net/2024/10/30/tmt-newswire/globenewswire/okx-ventures-the-open-platform-and-folius-ventures-launch-10-million-telegram-growth-hub/1993857) [9](https://dropstab.com/coins/catizen/fundraising) |
 | <img src="assets/icons/open-builders.webp" width="20" height="20" alt=""> [Open Builders](https://t.me/builders) | studio | built: <img src="assets/icons/notcoin-30j8gm.webp" width="20" height="20" alt=""> [Notcoin](https://t.me/notcoin), <img src="assets/icons/tonstarter.webp" width="20" height="20" alt=""> [Tonstarter](https://t.me/ton_starter_bot), <img src="assets/icons/community.webp" width="20" height="20" alt=""> [Community](https://t.me/community_bot), <img src="assets/icons/access.webp" width="20" height="20" alt=""> [Access](https://t.me/access_app_bot), <img src="assets/icons/contests.webp" width="20" height="20" alt=""> [Contests](https://t.me/contests_app_bot), <img src="assets/icons/giveaway.webp" width="20" height="20" alt=""> [Giveaway](https://t.me/giveaway_app_bot), <img src="assets/icons/early.webp" width="20" height="20" alt=""> [Early](https://t.me/earn_early) | [1](https://medium.com/triangle-builders/the-journey-of-open-builders-a598f5aa27fa) |
-| <img src="assets/icons/the-open-platform.webp" width="20" height="20" alt=""> [The Open Platform](https://t.me/topco) | studio | built: <img src="assets/icons/wallet.webp" width="20" height="20" alt=""> [@Walt](https://t.me/walt_news), <img src="assets/icons/wallet-pay.webp" width="20" height="20" alt=""> [Wallet Pay](https://t.me/walletpayofficial); owns: <img src="assets/icons/playdeck.webp" width="20" height="20" alt=""> [PlayDeck](https://t.me/playdeck_en); ecosystem: <img src="assets/icons/ston-fi.webp" width="20" height="20" alt=""> [STON.fi](https://t.me/stonfidex), <img src="assets/icons/getgems-mtmajh.webp" width="20" height="20" alt=""> [Getgems](https://t.me/getgems), <img src="assets/icons/tonkeeper.webp" width="20" height="20" alt=""> [Keeper](https://t.me/keeper_en); co-launched: Telegram Growth Hub | [1](https://www.theblock.co/press-releases/361030/the-open-platform-is-first-unicorn-in-web3-ecosystem-in-telegram-at-1bn-valuation) [2](https://www.playdeck.io/) [3](https://www.streetinsider.com/Globe+Newswire/OKX+Ventures,+The+Open+Platform+and+Folius+Ventures+Launch+$10+Million+Telegram+Growth+Hub/23896789.html) |
 | <img src="assets/icons/gamee.webp" width="20" height="20" alt=""> [GAMEE](https://t.me/gameechannel) | studio | built: <img src="assets/icons/watbird.webp" width="20" height="20" alt=""> [WatBird](https://t.me/watbird), <img src="assets/icons/moon-cards.webp" width="20" height="20" alt=""> [Moon Cards](https://t.me/mooncards) | [1](https://www.animocabrands.com/gamee-receives-investment-from-ton-ventures) [2](https://playtoearn.com/news/gamee-launches-moon-cards-a-memecoin-powered-tcg-on-telegram) |
 | <img src="assets/icons/playdeck.webp" width="20" height="20" alt=""> [PlayDeck](https://t.me/playdeck_en) | studio | published: <img src="assets/icons/state-io.webp" width="20" height="20" alt=""> [State.io](https://t.me/stateio_bot), <img src="assets/icons/idle-legion.webp" width="20" height="20" alt=""> [Idle Legion](https://t.me/idlelegion_bot) | [1](https://www.playdeck.io/) |
-| <img src="assets/icons/ton-ventures.webp" width="20" height="20" alt=""> [TON Ventures](https://t.me/ton_ventures) | fund | invested: <img src="assets/icons/gamee.webp" width="20" height="20" alt=""> [GAMEE](https://t.me/gameechannel), <img src="assets/icons/delabs-games.webp" width="20" height="20" alt=""> [Delabs Games](https://t.me/delabsgameschat), [Goat Gaming](https://t.me/playgoatgaming), <img src="assets/icons/memetics.webp" width="20" height="20" alt=""> [Memetics](https://t.me/memetics_news), <img src="assets/icons/tac.webp" width="20" height="20" alt=""> [TAC](https://t.me/tacbuild), <img src="assets/icons/ston-fi.webp" width="20" height="20" alt=""> [STON.fi](https://t.me/stonfidex), <img src="assets/icons/evaa-protocol.webp" width="20" height="20" alt=""> [EVAA Protocol](https://t.me/evaaprotocol), <img src="assets/icons/toncash.webp" width="20" height="20" alt=""> [TONCash](https://t.me/toncashnetwork), <img src="assets/icons/bionapp.webp" width="20" height="20" alt=""> [bionapp](https://t.me/bionapp_bot) | [1](https://www.animocabrands.com/gamee-receives-investment-from-ton-ventures) [2](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) |
-| <img src="assets/icons/tvm-ventures.webp" width="20" height="20" alt=""> [TVM Ventures](https://t.me/tvmventures) | fund | invested: <img src="assets/icons/affluent-tvl.webp" width="20" height="20" alt=""> [Affluent](https://t.me/Affluent), <img src="assets/icons/torch.webp" width="20" height="20" alt=""> [Torch Finance](https://t.me/torch_ton), <img src="assets/icons/fiva.webp" width="20" height="20" alt=""> [Fiva](https://t.me/fiva_protocol), <img src="assets/icons/memes-lab.webp" width="20" height="20" alt=""> [Memes Lab](https://t.me/lab_trade), [TON Strategy](https://tonstrat.com) | [1](https://www.theblock.co/post/338477/ton-foundation-steve-yun-tvm-ventures) [2](https://cryptorank.io/funds/tvm-ventures) |
-| [TONcoin.Fund](https://toncoin.fund) | fund | invested: <img src="assets/icons/prophecy-pulse-telegram-https-t-me-prophecypulse-bot.webp" width="20" height="20" alt=""> [Prophecy Pulse](https://t.me/prophecypulse_bot), <img src="assets/icons/storm-trade.webp" width="20" height="20" alt=""> [Storm Trade](https://t.me/storm_trade_news), <img src="assets/icons/dedust-io.webp" width="20" height="20" alt=""> [DeDust](https://t.me/dedust_en) | [1](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) |
-| [Animoca Brands](https://www.animocabrands.com) | fund | parent company: <img src="assets/icons/gamee.webp" width="20" height="20" alt=""> [GAMEE](https://t.me/gameechannel) | [1](https://www.animocabrands.com/gamee-receives-investment-from-ton-ventures) |
-| [Folius Ventures](https://www.folius.ventures) | fund | co-launched: Telegram Growth Hub | [1](https://www.streetinsider.com/Globe+Newswire/OKX+Ventures,+The+Open+Platform+and+Folius+Ventures+Launch+$10+Million+Telegram+Growth+Hub/23896789.html) |
-| <img src="assets/icons/okx-ventures.webp" width="20" height="20" alt=""> [OKX Ventures](https://t.me/okxventures) | fund | co-launched: Telegram Growth Hub | [1](https://www.streetinsider.com/Globe+Newswire/OKX+Ventures,+The+Open+Platform+and+Folius+Ventures+Launch+$10+Million+Telegram+Growth+Hub/23896789.html) |
-| [Pantera Capital](https://panteracapital.com) | fund | invested: <img src="assets/icons/gamee.webp" width="20" height="20" alt=""> [GAMEE](https://t.me/gameechannel) | [1](https://www.animocabrands.com/gamee-receives-investment-from-pantera-capital) |
+| <img src="assets/icons/ton-ventures.webp" width="20" height="20" alt=""> [TON Ventures](https://t.me/ton_ventures) | fund | invested: <img src="assets/icons/gamee.webp" width="20" height="20" alt=""> [GAMEE](https://t.me/gameechannel), <img src="assets/icons/delabs-games.webp" width="20" height="20" alt=""> [Delabs Games](https://t.me/delabsgameschat), [Goat Gaming](https://t.me/playgoatgaming), <img src="assets/icons/memetics.webp" width="20" height="20" alt=""> [Memetics](https://t.me/memetics_news), <img src="assets/icons/tac.webp" width="20" height="20" alt=""> [TAC](https://t.me/tacbuild), <img src="assets/icons/ston-fi.webp" width="20" height="20" alt=""> [STON.fi](https://t.me/stonfidex), <img src="assets/icons/evaa-protocol.webp" width="20" height="20" alt=""> [EVAA Protocol](https://t.me/evaaprotocol), <img src="assets/icons/toncash.webp" width="20" height="20" alt=""> [TONCash](https://t.me/toncashnetwork), <img src="assets/icons/bionapp.webp" width="20" height="20" alt=""> [bionapp](https://t.me/bionapp_bot), [Nexton](https://www.nexton.solutions), <img src="assets/icons/akedo-games.webp" width="20" height="20" alt=""> [AKEDO Games](https://t.me/akedofun), <img src="assets/icons/roolz.webp" width="20" height="20" alt=""> [RoOLZ](https://t.me/roolznft), <img src="assets/icons/tradoor.webp" width="20" height="20" alt=""> [Tradoor](https://t.me/tradoor_io), <img src="assets/icons/ton-accelerator.webp" width="20" height="20" alt=""> [TON Accelerator](https://t.me/accelerator_ton) | [1](https://www.animocabrands.com/gamee-receives-investment-from-ton-ventures) [2](https://www.rootdata.com/Investors/detail/TON%20Ventures?k=MTI2ODA%3D) [3](https://defillama.com/raises) [4](https://t.me/akedofun/457) [5](https://t.me/tradoor_io/89) [6](https://t.me/ton_ventures/16) |
+| [Animoca Brands](https://www.animocabrands.com) | fund | parent company: <img src="assets/icons/gamee.webp" width="20" height="20" alt=""> [GAMEE](https://t.me/gameechannel); invested: <img src="assets/icons/wizzwoods.webp" width="20" height="20" alt=""> [Wizzwoods](https://t.me/wizzwoodsbot), <img src="assets/icons/capybobo.webp" width="20" height="20" alt=""> [Capybobo](https://t.me/capybombbot), <img src="assets/icons/memes-lab.webp" width="20" height="20" alt=""> [Memes Lab](https://t.me/lab_trade), <img src="assets/icons/evaa-protocol.webp" width="20" height="20" alt=""> [EVAA Protocol](https://t.me/evaaprotocol), <img src="assets/icons/tac.webp" width="20" height="20" alt=""> [TAC](https://t.me/tacbuild), <img src="assets/icons/roolz.webp" width="20" height="20" alt=""> [RoOLZ](https://t.me/roolznft), <img src="assets/icons/gamee.webp" width="20" height="20" alt=""> [GAMEE](https://t.me/gameechannel), <img src="assets/icons/kuroro-ranch.webp" width="20" height="20" alt=""> [Kuroro Ranch](https://t.me/KuroroOfficial), <img src="assets/icons/kriptonskii-kot.webp" width="20" height="20" alt=""> [КрипTONский кот](https://t.me/cryptoncat) | [1](https://www.animocabrands.com/gamee-receives-investment-from-ton-ventures) [2](https://defillama.com/raises) [3](https://dropstab.com/coins/capybobo/fundraising) [4](https://en.cryptonomist.ch/2025/02/18/tvm-ventures-invests-5-75-million-dollars-in-defi-and-socialfi-on-ton/) [5](https://dropstab.com/coins/evaa-protocol/fundraising) [6](https://dropstab.com/coins/tac/fundraising) [7](https://dropstab.com/coins/gamee/fundraising) [8](https://t.me/kuroroofficial/45) [9](https://dropstab.com/coins/ton/fundraising) |
+| [TONcoin.Fund](https://toncoin.fund) | fund | invested: <img src="assets/icons/prophecy-pulse-telegram-https-t-me-prophecypulse-bot.webp" width="20" height="20" alt=""> [Prophecy Pulse](https://t.me/prophecypulse_bot), <img src="assets/icons/storm-trade.webp" width="20" height="20" alt=""> [Storm Trade](https://t.me/storm_trade_news), <img src="assets/icons/dedust-io.webp" width="20" height="20" alt=""> [DeDust](https://t.me/dedust_en), [Fanzee](https://app.fanz.ee/staking), <img src="assets/icons/megaton.webp" width="20" height="20" alt=""> [Megaton Finance](https://t.me/megatonfinancechannel), Fanton, <img src="assets/icons/tonski.webp" width="20" height="20" alt=""> [Tonski](https://t.me/searchington), <img src="assets/icons/tap-fantasy.webp" width="20" height="20" alt=""> [Tap Fantasy](https://t.me/tapfantasy_announcement), <img src="assets/icons/tonup.webp" width="20" height="20" alt=""> [TONUP](https://t.me/tonup_io), <img src="assets/icons/evaa-protocol.webp" width="20" height="20" alt=""> [EVAA Protocol](https://t.me/evaaprotocol) | [1](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) [2](https://toncoin.fund) [3](https://defillama.com/raises) |
+| <img src="assets/icons/tvm-ventures.webp" width="20" height="20" alt=""> [TVM Ventures](https://t.me/tvmventures) | fund | invested: <img src="assets/icons/affluent-tvl.webp" width="20" height="20" alt=""> [Affluent](https://t.me/Affluent), <img src="assets/icons/torch.webp" width="20" height="20" alt=""> [Torch Finance](https://t.me/torch_ton), <img src="assets/icons/fiva.webp" width="20" height="20" alt=""> [Fiva](https://t.me/fiva_protocol), <img src="assets/icons/memes-lab.webp" width="20" height="20" alt=""> [Memes Lab](https://t.me/lab_trade), [TON Strategy](https://tonstrat.com), <img src="assets/icons/dedust-io.webp" width="20" height="20" alt=""> [DeDust](https://t.me/dedust_en), <img src="assets/icons/tradoor.webp" width="20" height="20" alt=""> [Tradoor](https://t.me/tradoor_io) | [1](https://www.theblock.co/post/338477/ton-foundation-steve-yun-tvm-ventures) [2](https://cryptorank.io/funds/tvm-ventures) [3](https://tvm.ventures) |
+| <img src="assets/icons/okx-ventures.webp" width="20" height="20" alt=""> [OKX Ventures](https://t.me/okxventures) | fund | co-launched: Telegram Growth Hub; invested: <img src="assets/icons/memes-lab.webp" width="20" height="20" alt=""> [Memes Lab](https://t.me/lab_trade), <img src="assets/icons/blum-memepad.webp" width="20" height="20" alt=""> [@Blum](https://t.me/blumcrypto_memepad), <img src="assets/icons/ton-ventures.webp" width="20" height="20" alt=""> [TON Ventures](https://t.me/ton_ventures), Telegram Growth Hub | [1](https://www.streetinsider.com/Globe+Newswire/OKX+Ventures,+The+Open+Platform+and+Folius+Ventures+Launch+$10+Million+Telegram+Growth+Hub/23896789.html) [2](https://en.cryptonomist.ch/2025/02/18/tvm-ventures-invests-5-75-million-dollars-in-defi-and-socialfi-on-ton/) [3](https://dropstab.com/coins/blum/fundraising) [4](https://www.okx.com/en-us/learn/okx-ton-ventures) [5](https://www.manilatimes.net/2024/10/30/tmt-newswire/globenewswire/okx-ventures-the-open-platform-and-folius-ventures-launch-10-million-telegram-growth-hub/1993857) |
+| [Folius Ventures](https://www.folius.ventures) | fund | co-launched: Telegram Growth Hub; invested: <img src="assets/icons/capybobo.webp" width="20" height="20" alt=""> [Capybobo](https://t.me/capybombbot), [Goat Gaming](https://t.me/playgoatgaming), Telegram Growth Hub | [1](https://www.streetinsider.com/Globe+Newswire/OKX+Ventures,+The+Open+Platform+and+Folius+Ventures+Launch+$10+Million+Telegram+Growth+Hub/23896789.html) [2](https://dropstab.com/coins/capybobo/fundraising) [3](https://defillama.com/raises) [4](https://www.manilatimes.net/2024/10/30/tmt-newswire/globenewswire/okx-ventures-the-open-platform-and-folius-ventures-launch-10-million-telegram-growth-hub/1993857) |
+| Kingsway Capital | fund | invested: [TON Strategy](https://tonstrat.com), <img src="assets/icons/kriptonskii-kot.webp" width="20" height="20" alt=""> [КрипTONский кот](https://t.me/cryptoncat), <img src="assets/icons/acki-nacki.webp" width="20" height="20" alt=""> [Acki Nacki](https://t.me/ackinackinews), <img src="assets/icons/tonstarter.webp" width="20" height="20" alt=""> [Tonstarter](https://t.me/ton_starter_bot) | [1](https://www.sec.gov/Archives/edgar/data/1566610/000149315225011727/ex99-1.htm) [2](https://defillama.com/raises) |
+| [Pantera Capital](https://panteracapital.com) | fund | invested: <img src="assets/icons/gamee.webp" width="20" height="20" alt=""> [GAMEE](https://t.me/gameechannel), [TON Strategy](https://tonstrat.com), <img src="assets/icons/the-open-platform.webp" width="20" height="20" alt=""> [The Open Platform](https://t.me/topco), <img src="assets/icons/kriptonskii-kot.webp" width="20" height="20" alt=""> [КрипTONский кот](https://t.me/cryptoncat) | [1](https://www.animocabrands.com/gamee-receives-investment-from-pantera-capital) [2](https://www.sec.gov/Archives/edgar/data/1566610/000149315225011727/ex99-1.htm) [3](https://defillama.com/raises) [4](https://dropstab.com/coins/ton/fundraising) |
+| <img src="assets/icons/dwf-labs.webp" width="20" height="20" alt=""> [DWF Labs](https://t.me/dwflabs) | fund | invested: <img src="assets/icons/tonstarter.webp" width="20" height="20" alt=""> [Tonstarter](https://t.me/ton_starter_bot), <img src="assets/icons/kriptonskii-kot.webp" width="20" height="20" alt=""> [КрипTONский кот](https://t.me/cryptoncat), <img src="assets/icons/xdao.webp" width="20" height="20" alt=""> [XDAO](https://t.me/xdaoapp) | [1](https://defillama.com/raises) |
+| [CoinFund](https://coinfund.io) | fund | invested: <img src="assets/icons/ston-fi.webp" width="20" height="20" alt=""> [STON.fi](https://t.me/stonfidex), <img src="assets/icons/kriptonskii-kot.webp" width="20" height="20" alt=""> [КрипTONский кот](https://t.me/cryptoncat) | [1](https://defillama.com/raises) |
+| <img src="assets/icons/cypher-capital.webp" width="20" height="20" alt=""> [Cypher Capital](https://t.me/cyphercapital) | fund | invested: <img src="assets/icons/memes-lab.webp" width="20" height="20" alt=""> [Memes Lab](https://t.me/lab_trade), <img src="assets/icons/kriptonskii-kot.webp" width="20" height="20" alt=""> [КрипTONский кот](https://t.me/cryptoncat) | [1](https://en.cryptonomist.ch/2025/02/18/tvm-ventures-invests-5-75-million-dollars-in-defi-and-socialfi-on-ton/) [2](https://defillama.com/raises) |
+| <img src="assets/icons/memefund.webp" width="20" height="20" alt=""> [MemeFund](https://t.me/meme_as_fund) | fund | invested: <img src="assets/icons/bark47.webp" width="20" height="20" alt=""> [BARK47](https://t.me/bark_47) | [1](https://t.me/meme_as_fund/92) |
+| [Polymorphic Capital](https://polymorphic.capital) | fund | invested: <img src="assets/icons/evaa-protocol.webp" width="20" height="20" alt=""> [EVAA Protocol](https://t.me/evaaprotocol) | [1](https://dropstab.com/coins/evaa-protocol/fundraising) |
 | <img src="assets/icons/ton-accelerator.webp" width="20" height="20" alt=""> [TON Accelerator](https://t.me/accelerator_ton) | accelerator | first cohort: <img src="assets/icons/prophecy-pulse-telegram-https-t-me-prophecypulse-bot.webp" width="20" height="20" alt=""> [Prophecy Pulse](https://t.me/prophecypulse_bot), <img src="assets/icons/storm-trade.webp" width="20" height="20" alt=""> [Storm Trade](https://t.me/storm_trade_news), <img src="assets/icons/evaa-protocol.webp" width="20" height="20" alt=""> [EVAA Protocol](https://t.me/evaaprotocol), <img src="assets/icons/dedust-io.webp" width="20" height="20" alt=""> [DeDust](https://t.me/dedust_en), <img src="assets/icons/ton-ski-access.webp" width="20" height="20" alt=""> [TON.SKI Access](https://t.me/tonski_eng), [Pluto Studios](https://www.pluto.vision) | [1](https://ton.org/en/ton-accelerator-program-s-first-cohort-participants) |
 
 The same links as a web. Organisations are blue; a thick line means built or published, a dotted one invested, a thin one any other tie; a project tied to several organisations is drawn once.
@@ -232,36 +274,62 @@ flowchart LR
   o9(["GAMEE"])
   p10["WatBird"]
   p11["Moon Cards"]
-  o12(["TON Ventures"])
-  o13(["Open Builders"])
-  p14["Notcoin"]
-  p15["Tonstarter"]
-  p16["Community"]
-  p17["Access"]
-  p18["Contests"]
-  p19["Giveaway"]
-  p20["Early"]
-  o21(["TVM Ventures"])
-  p22["Affluent"]
-  p23["Torch Finance"]
-  p24["Fiva"]
-  p25["Memes Lab"]
-  p26["TON Strategy"]
-  p27["Delabs Games"]
-  p28["Goat Gaming"]
-  p29["Memetics"]
-  p30["TAC"]
-  p31["EVAA Protocol"]
-  p32["TONCash"]
-  p33["bionapp"]
-  o34(["TON Accelerator"])
-  p35["Prophecy Pulse"]
-  p36["Storm Trade"]
-  p37["DeDust"]
-  p38["TON.SKI Access"]
-  p39["Pluto Studios"]
-  o40(["TONcoin.Fund"])
-  p41["Telegram Growth Hub"]
+  o12(["Animoca Brands"])
+  o13(["TON Ventures"])
+  o14(["Pantera Capital"])
+  o15(["Open Builders"])
+  p16["Notcoin"]
+  p17["Tonstarter"]
+  p18["Community"]
+  p19["Access"]
+  p20["Contests"]
+  p21["Giveaway"]
+  p22["Early"]
+  o23(["TVM Ventures"])
+  p24["Affluent"]
+  p25["Torch Finance"]
+  p26["Fiva"]
+  p27["Memes Lab"]
+  p28["TON Strategy"]
+  p29["Delabs Games"]
+  p30["Goat Gaming"]
+  p31["Memetics"]
+  p32["TAC"]
+  p33["EVAA Protocol"]
+  p34["TONCash"]
+  p35["bionapp"]
+  o36(["TON Accelerator"])
+  p37["Prophecy Pulse"]
+  p38["Storm Trade"]
+  p39["DeDust"]
+  p40["TON.SKI Access"]
+  p41["Pluto Studios"]
+  o42(["TONcoin.Fund"])
+  p43["Telegram Growth Hub"]
+  o44(["OKX Ventures"])
+  o45(["Folius Ventures"])
+  p46["Tradoor"]
+  p47["Fanzee"]
+  p48["Megaton Finance"]
+  p49["Nexton"]
+  p50["Wizzwoods"]
+  p51["Capybobo"]
+  o52(["Kingsway Capital"])
+  o53(["CoinFund"])
+  p54["КрипTONский кот"]
+  p55["Acki Nacki"]
+  o56(["Cypher Capital"])
+  p57["@Blum"]
+  p58["AKEDO Games"]
+  p59["RoOLZ"]
+  p60["Kuroro Ranch"]
+  p61["Catizen"]
+  p62["Fanton"]
+  p63["Tonski"]
+  p64["Tap Fantasy"]
+  p65["TONUP"]
+  o66(["DWF Labs"])
+  p67["XDAO"]
   o0 ==> p1
   o0 ==> p2
   o0 ==> o3
@@ -272,39 +340,93 @@ flowchart LR
   o3 ==> p8
   o9 ==> p10
   o9 ==> p11
-  o12 -.-> o9
-  o13 ==> p14
-  o13 ==> p15
-  o13 ==> p16
-  o13 ==> p17
-  o13 ==> p18
-  o13 ==> p19
-  o13 ==> p20
-  o21 -.-> p22
-  o21 -.-> p23
-  o21 -.-> p24
-  o21 -.-> p25
-  o21 -.-> p26
+  o12 --> o9
+  o13 -.-> o9
+  o14 -.-> o9
+  o15 ==> p16
+  o15 ==> p17
+  o15 ==> p18
+  o15 ==> p19
+  o15 ==> p20
+  o15 ==> p21
+  o15 ==> p22
+  o23 -.-> p24
+  o23 -.-> p25
+  o23 -.-> p26
+  o23 -.-> p27
+  o23 -.-> p28
+  o13 -.-> p29
+  o13 -.-> p30
+  o13 -.-> p31
+  o13 -.-> p32
+  o13 -.-> p4
+  o13 -.-> p33
+  o13 -.-> p34
+  o13 -.-> p35
+  o36 --> p37
+  o36 --> p38
+  o36 --> p33
+  o36 --> p39
+  o36 --> p40
+  o36 --> p41
+  o42 -.-> p37
+  o42 -.-> p38
+  o42 -.-> p39
+  o0 --> p43
+  o44 --> p43
+  o45 --> p43
+  o23 -.-> p39
+  o23 -.-> p46
+  o42 -.-> p47
+  o42 -.-> p48
+  o13 -.-> p49
+  o12 -.-> p50
+  o12 -.-> p51
+  o45 -.-> p51
+  o52 -.-> p28
+  o14 -.-> p28
+  o0 -.-> p28
+  o53 -.-> p4
+  o0 -.-> p4
+  o14 -.-> o0
+  o52 -.-> p54
+  o53 -.-> p54
+  o52 -.-> p55
   o12 -.-> p27
-  o12 -.-> p28
-  o12 -.-> p29
-  o12 -.-> p30
-  o12 -.-> p4
-  o12 -.-> p31
-  o12 -.-> p32
+  o44 -.-> p27
+  o56 -.-> p27
+  o0 -.-> p57
+  o44 -.-> p57
+  o0 -.-> p58
+  o13 -.-> p58
+  o45 -.-> p30
   o12 -.-> p33
-  o34 --> p35
-  o34 --> p36
-  o34 --> p31
-  o34 --> p37
-  o34 --> p38
-  o34 --> p39
-  o40 -.-> p35
-  o40 -.-> p36
-  o40 -.-> p37
-  o0 --> p41
+  o44 -.-> o13
+  o12 -.-> p32
+  o44 -.-> p43
+  o0 -.-> p43
+  o45 -.-> p43
+  o13 -.-> p59
+  o12 -.-> p59
+  o12 -.-> o9
+  o13 -.-> p46
+  o12 -.-> p60
+  o0 -.-> p61
+  o14 -.-> p54
+  o12 -.-> p54
+  o42 -.-> p62
+  o42 -.-> p63
+  o42 -.-> p64
+  o42 -.-> p65
+  o42 -.-> p33
+  o52 -.-> p17
+  o66 -.-> p17
+  o56 -.-> p54
+  o66 -.-> p54
+  o66 -.-> p67
+  o13 -.-> o36
   classDef org fill:#1f6feb,color:#fff,stroke:#1f6feb
-  class o0,o3,o9,o12,o13,o21,o34,o40 org
+  class o0,o3,o9,o12,o13,o14,o15,o23,o36,o42,o44,o45,o52,o53,o56,o66 org
 ```
 
 
@@ -358,12 +480,13 @@ The `sources` column lists every place a project was found:
 | [data/projects.csv](data/projects.csv) | 4,524 projects, one per row |
 | [data/channels.csv](data/channels.csv) | 1,219 channels about TON that are not a project's own, with language, theme, creation date, posts and views |
 | [data/categories.json](data/categories.json) | categories in display order |
-| [data/link-fixes.csv](data/link-fixes.csv) | 2,324 link decisions (replaced, removed, confirmed, marked down) with evidence |
+| [data/link-fixes.csv](data/link-fixes.csv) | 2,325 link decisions (replaced, removed, confirmed, marked down) with evidence |
 | [assets/icons](assets/icons) | 5,410 icons, 64px WebP copies of each project's and channel's Telegram avatar: `<slug>.webp`, channels as `ch-<username>.webp` |
 | [datapackage.json](datapackage.json) | the [Frictionless](https://frictionlessdata.io) descriptor: every file and column, for tools that load typed tables |
 | [data/category-fixes.csv](data/category-fixes.csv) | 852 category decisions with the reason: moves, and rows removed as not projects |
 | [data/usernames.csv](data/usernames.csv) | 641 other usernames of the same accounts, by numeric id: second names, renames, names now held by someone else |
 | [data/merged.csv](data/merged.csv) | 35 rows folded into the row that shares their Telegram account (the numeric id), with the key |
+| [data/rounds.csv](data/rounds.csv) | 116 funding rounds: date, project, round, amount, valuation, lead and other investors, and the sources that report it (DefiLlama, DropsTab, a fund's or launchpad's site, the project's own Telegram post) with links |
 | [data/nft-collections.csv](data/nft-collections.csv) | the 200 largest NFT collections on Getgems by all-time volume (2026-10-02): kind, address, volume, floor, owners, items, launch date (first transaction of the contract), Telegram, X, site and description from the contract metadata, the catalogue project that shares a link |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
 | [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |

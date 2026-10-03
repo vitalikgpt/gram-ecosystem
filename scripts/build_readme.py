@@ -15,6 +15,7 @@ import urllib.parse
 REPO = "vitalikgpt/gram-ecosystem"
 TOP_REACH = 12
 TOP_NFT = 25
+TOP_ROUNDS = 15
 NFT_SNAPSHOT = "2026-10-02"   # when the Getgems all-time ranking was read; data/nft-collections.csv
 PROBLEMS = "reports/link-check.md"
 SOURCES = {
@@ -154,7 +155,7 @@ def reach_n(r):
         return 0
 
 
-INTS = {"rank", "subscribers", "reach_q3", "views_q3", "posts_q3", "mau", "peak_mau", "telegram_id", "bot_id", "on_map",
+INTS = {"amount_usd", "valuation_usd", "rank", "subscribers", "reach_q3", "views_q3", "posts_q3", "mau", "peak_mau", "telegram_id", "bot_id", "on_map",
         "native", "verified", "hits", "posts", "views", "position", "volume_ton", "owners", "items"}
 DATES = {"last_post", "last_commit", "website_down", "peak_mau_date", "verified_since", "seen", "date"}
 ABOUT = {
@@ -167,6 +168,7 @@ ABOUT = {
     "usernames": "other usernames of the same Telegram accounts, matched by numeric id",
     "category-fixes": "every category change with the reason, and rows removed as not projects",
     "unresolved": "names from old ecosystem maps not tied to a project yet",
+    "rounds": "funding rounds of TON and Telegram projects, merged from DefiLlama, DropsTab, fund sites and the projects' own posts, with every source",
     "nft-collections": "the largest TON NFT collections on Getgems by all-time volume, with contract metadata and launch dates",
 }
 
@@ -243,7 +245,7 @@ def build():
         "**Browse it right here**: every category opens as a searchable table, its *table* link below; "
         "so do [channels](data/channels.csv) and [studios and funds](data/relations.csv).",
         "",
-        "**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [NFT collections](#top-nft-collections), [Neighbours on Telegram](#neighbours-on-telegram), [Verified](#verified-on-telegram), [Other usernames](#other-usernames), "
+        "**Jump to** [Categories](#categories), [Largest projects](#largest-projects), [Funding rounds](#funding-rounds), [NFT collections](#top-nft-collections), [Neighbours on Telegram](#neighbours-on-telegram), [Verified](#verified-on-telegram), [Other usernames](#other-usernames), "
         "[Studios and funds](#studios-funds-and-accelerators), [Channels](#channels), [How to read it](#how-to-read-it), "
         "[Data](#data), [Maps and reports](#maps-and-reports), [Contribute](#contribute)",
         "",
@@ -349,6 +351,48 @@ def build():
             shown.append((r, es[:4]))
         if len(shown) == 10:
             break
+    if os.path.exists("data/rounds.csv"):
+        rnds = list(csv.DictReader(open("data/rounds.csv", encoding="utf-8")))
+        # the coin itself and listed treasury companies buy or hold GRAM; their money is not a project's venture round
+        TOKEN = {"TON", "TON Strategy", "AlphaTON Capital", "TON Ventures", "Telegram Growth Hub"}
+        proj = [r for r in rnds if r["project"] not in TOKEN and r["round"] != "M&A"]
+        tok = [r for r in rnds if r["project"] in TOKEN]
+        usd = lambda xs: sum(int(r["amount_usd"]) for r in xs if r["amount_usd"])
+        money = lambda n: f"${n / 1e9:.2f}B" if n >= 1e9 else f"${n / 1e6:.1f}M".replace(".0M", "M")
+        years = {}
+        for r in proj:
+            y = years.setdefault(r["date"][:4] or "undated", [0, 0, 0])
+            y[0] += 1; y[1] += int(r["amount_usd"] or 0); y[2] += 1 if r["amount_usd"] else 0
+        ALIAS_INV = {"Pantera": "Pantera Capital", "Binance Labs": "YZi Labs", "YZi Labs (prev Binance Labs)": "YZi Labs",
+                     "TONcoin.fund": "TONcoin.Fund", "The Open Platform (TOP)": "The Open Platform", "Animoca": "Animoca Brands",
+                     "gumi Crypto Capital": "gumi Cryptos Capital", "BitScale Capital": "Bitscale Capital"}
+        backers = {}
+        for r in proj:
+            for x in {ALIAS_INV.get(v.strip(), v.strip()) for v in (r["lead_investors"] + ";" + r["investors"]).split(";") if v.strip()}:
+                b = backers.setdefault(x, [0, 0]); b[0] += 1
+                b[1] += 1 if x in {ALIAS_INV.get(v.strip(), v.strip()) for v in r["lead_investors"].split(";")} else 0
+        out += [
+            "",
+            "## Funding rounds",
+            "",
+            f"{len(proj)} rounds of {len({r['project'] for r in proj})} projects, {money(usd(proj))} disclosed in {sum(1 for r in proj if r['amount_usd'])} of them. "
+            f"Separately, {len(tok)} purchases and financings of the coin itself and of listed TON treasuries, {money(usd(tok))}. "
+            "Collected from [DefiLlama](https://defillama.com/raises?chain=TON), [DropsTab](https://dropstab.com/categories/ton-ecosystem), "
+            "the sites of funds and launchpads and the projects' own announcements on Telegram; each row in "
+            "[rounds.csv](data/rounds.csv) lists every source and its link.",
+            "",
+            "| Year | Rounds | With amount | Disclosed |",
+            "| --- | ---: | ---: | ---: |",
+        ] + [f"| {y} | {v[0]} | {v[2]} | {money(v[1]) if v[1] else ''} |" for y, v in sorted(years.items())] + [
+            "",
+            "| Date | Project | Round | Amount | Lead |",
+            "| --- | --- | --- | ---: | --- |",
+        ] + [f"| {r['date']} | {cell(r['project'])} | {cell(r['round'])} | {money(int(r['amount_usd']))} | {cell(r['lead_investors'])} |"
+             for r in sorted((r for r in proj if r["amount_usd"]), key=lambda r: -int(r["amount_usd"]))[:TOP_ROUNDS]] + [
+            "",
+            "Most frequent backers: " + ", ".join(f"{k} {v[0]}" + (f" (led {v[1]})" if v[1] else "")
+                                                for k, v in sorted(backers.items(), key=lambda kv: (-kv[1][0], kv[0]))[:12]) + ".",
+        ]
     if os.path.exists("data/nft-collections.csv"):
         nfts = list(csv.DictReader(open("data/nft-collections.csv", encoding="utf-8")))
         bys = {r["slug"]: r for r in rows}
@@ -524,6 +568,9 @@ def build():
         f"| [data/category-fixes.csv](data/category-fixes.csv) | {sum(1 for _ in open('data/category-fixes.csv')) - 1 if os.path.exists('data/category-fixes.csv') else 0} category decisions with the reason: moves, and rows removed as not projects |",
         f"| [data/usernames.csv](data/usernames.csv) | {sum(1 for _ in open('data/usernames.csv')) - 1 if os.path.exists('data/usernames.csv') else 0} other usernames of the same accounts, by numeric id: second names, renames, names now held by someone else |",
         f"| [data/merged.csv](data/merged.csv) | {sum(1 for _ in open('data/merged.csv')) - 1 if os.path.exists('data/merged.csv') else 0} rows folded into the row that shares their Telegram account (the numeric id), with the key |",
+        *([f"| [data/rounds.csv](data/rounds.csv) | {sum(1 for _ in open('data/rounds.csv')) - 1} funding rounds: date, project, round, amount, valuation, lead and other investors, "
+           "and the sources that report it (DefiLlama, DropsTab, a fund's or launchpad's site, the project's own Telegram post) with links |"]
+          if os.path.exists("data/rounds.csv") else []),
         *([f"| [data/nft-collections.csv](data/nft-collections.csv) | the {sum(1 for _ in open('data/nft-collections.csv')) - 1} largest NFT collections on Getgems by all-time volume ({NFT_SNAPSHOT}): "
            "kind, address, volume, floor, owners, items, launch date (first transaction of the contract), Telegram, X, site and description from the contract metadata, the catalogue project that shares a link |"]
           if os.path.exists("data/nft-collections.csv") else []),
