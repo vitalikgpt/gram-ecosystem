@@ -360,7 +360,8 @@ def build():
         stick = [r for r in rnds if is_stick(r)]
         # aggregators tag these as TON ecosystem, but they are multichain products or chains of their own; listed, counted apart
         MULTI = {"Ethena", "Ethena USDe", "Relay", "UXLINK", "APRO", "Tomo", "WELL3", "OneKey", "Trusta.AI", "Captain Tsubasa: Rivals", "RedStone",
-                 "Cygnus", "Acki Nacki", "XDao", "PinGo", "Tonsnipe", "TabiZoo", "Kuroro Ranch", "HASBi RUN", "TBook", "TradeOS", "Star Bridge", "Sofamon"}
+                 "Cygnus", "Acki Nacki", "XDao", "PinGo", "Tonsnipe", "TabiZoo", "Kuroro Ranch", "HASBi RUN", "TBook", "TradeOS", "Star Bridge", "Sofamon",
+                 "LayerZero", "Sign", "Chainbase", "Depinsim", "Multiple Network", "Satori Finance", "BlockPI", "Poolz Finance", "MetaToken", "DEXX", "GraFun"}
         multi = [r for r in rnds if r["project"] in MULTI and not is_stick(r)]
         proj = [r for r in rnds if r["project"] not in TOKEN | MULTI and r["round"] != "M&A" and not is_stick(r)]
         tok = [r for r in rnds if r["project"] in TOKEN]
@@ -393,7 +394,7 @@ def build():
             f"Separately, {len(tok)} raises of the coin itself, of Telegram, of listed TON treasuries and of ecosystem funds, {money(usd(tok))}. "
 
             "Collected from [DefiLlama](https://defillama.com/raises?chain=TON), [DropsTab](https://dropstab.com/categories/ton-ecosystem), "
-            "[CryptoRank](https://cryptorank.io/funding-rounds), [DYOR presales](https://dyor.io/presale), the sites of funds and launchpads, the channels of launchpads, funds and marketplaces "
+            "[CryptoRank](https://cryptorank.io/funding-rounds), [RootData](https://www.rootdata.com/fundraising), [DYOR presales](https://dyor.io/presale), the sites of funds and launchpads, the channels of launchpads, funds and marketplaces "
             "(Tonstarter, Ton Raffles, TonUP, Getgems, TON Diamonds and others) and the projects' own announcements on Telegram; each row in "
             "[rounds.csv](data/rounds.csv) lists every source and its link.",
             "",
