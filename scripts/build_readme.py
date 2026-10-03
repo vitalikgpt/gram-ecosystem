@@ -155,7 +155,7 @@ def reach_n(r):
         return 0
 
 
-INTS = {"amount_usd", "valuation_usd", "rank", "subscribers", "reach_q3", "views_q3", "posts_q3", "mau", "peak_mau", "telegram_id", "bot_id", "on_map",
+INTS = {"amount_usd", "amount_ton", "amount_usd_from_ton", "valuation_usd", "rank", "subscribers", "reach_q3", "views_q3", "posts_q3", "mau", "peak_mau", "telegram_id", "bot_id", "on_map",
         "native", "verified", "hits", "posts", "views", "position", "volume_ton", "owners", "items"}
 DATES = {"last_post", "last_commit", "website_down", "peak_mau_date", "verified_since", "seen", "date"}
 ABOUT = {
@@ -358,11 +358,14 @@ def build():
         proj = [r for r in rnds if r["project"] not in TOKEN and r["round"] != "M&A"]
         tok = [r for r in rnds if r["project"] in TOKEN]
         usd = lambda xs: sum(int(r["amount_usd"]) for r in xs if r["amount_usd"])
+        # a sale priced in TON counts at the TON price of its day (amount_usd_from_ton); a stated dollar amount always wins
+        val = lambda r: int(r["amount_usd"] or r.get("amount_usd_from_ton") or 0)
+        conv = lambda xs: sum(int(r["amount_usd_from_ton"]) for r in xs if not r["amount_usd"] and r.get("amount_usd_from_ton"))
         money = lambda n: f"${n / 1e9:.2f}B" if n >= 1e9 else f"${n / 1e6:.1f}M".replace(".0M", "M")
         years = {}
         for r in proj:
             y = years.setdefault(r["date"][:4] or "undated", [0, 0, 0])
-            y[0] += 1; y[1] += int(r["amount_usd"] or 0); y[2] += 1 if r["amount_usd"] else 0
+            y[0] += 1; y[1] += val(r); y[2] += 1 if val(r) else 0
         ALIAS_INV = {"Pantera": "Pantera Capital", "Binance Labs": "YZi Labs", "YZi Labs (prev Binance Labs)": "YZi Labs",
                      "TONcoin.fund": "TONcoin.Fund", "The Open Platform (TOP)": "The Open Platform", "Animoca": "Animoca Brands",
                      "gumi Crypto Capital": "gumi Cryptos Capital", "BitScale Capital": "Bitscale Capital"}
@@ -375,10 +378,10 @@ def build():
             "",
             "## Funding rounds",
             "",
-            f"{len(proj)} rounds of {len({r['project'] for r in proj})} projects, {money(usd(proj))} disclosed in {sum(1 for r in proj if r['amount_usd'])} of them. "
+            f"{len(proj)} rounds and sales of {len({r['project'] for r in proj})} projects, {money(usd(proj) + conv(proj))} disclosed in {sum(1 for r in proj if val(r))} of them: "
+            f"{money(usd(proj))} stated in dollars and {money(conv(proj))} from sales priced in TON, converted at the TON price of the day. "
             f"Separately, {len(tok)} raises of the coin itself, of Telegram, of listed TON treasuries and of ecosystem funds, {money(usd(tok))}. "
-            f"Public sales and NFT primary sales priced in TON: {sum(1 for r in proj if r.get('amount_ton') and not r['amount_usd'])} more, "
-            f"{sum(float(r['amount_ton']) for r in proj if r.get('amount_ton') and not r['amount_usd']):,.0f} TON. "
+
             "Collected from [DefiLlama](https://defillama.com/raises?chain=TON), [DropsTab](https://dropstab.com/categories/ton-ecosystem), "
             "[DYOR presales](https://dyor.io/presale), the sites of funds and launchpads, the channels of launchpads, funds and marketplaces "
             "(Tonstarter, Ton Raffles, TonUP, Getgems, TON Diamonds and others) and the projects' own announcements on Telegram; each row in "
@@ -390,8 +393,8 @@ def build():
             "",
             "| Date | Project | Round | Amount | Lead |",
             "| --- | --- | --- | ---: | --- |",
-        ] + [f"| {r['date']} | {cell(r['project'])} | {cell(r['round'])} | {money(int(r['amount_usd']))} | {cell(r['lead_investors'])} |"
-             for r in sorted((r for r in proj if r["amount_usd"]), key=lambda r: -int(r["amount_usd"]))[:TOP_ROUNDS]] + [
+        ] + [f"| {r['date']} | {cell(r['project'])} | {cell(r['round'])} | {money(val(r))}{'' if r['amount_usd'] else ' (' + format(int(float(r['amount_ton'])), ',') + ' TON)'} | {cell(r['lead_investors'])} |"
+             for r in sorted((r for r in proj if val(r)), key=lambda r: -val(r))[:TOP_ROUNDS]] + [
             "",
             "Most frequent backers: " + ", ".join(f"{k} {v[0]}" + (f" (led {v[1]})" if v[1] else "")
                                                 for k, v in sorted(backers.items(), key=lambda kv: (-kv[1][0], kv[0]))[:12]) + ".",
@@ -572,7 +575,7 @@ def build():
         f"| [data/usernames.csv](data/usernames.csv) | {sum(1 for _ in open('data/usernames.csv')) - 1 if os.path.exists('data/usernames.csv') else 0} other usernames of the same accounts, by numeric id: second names, renames, names now held by someone else |",
         f"| [data/merged.csv](data/merged.csv) | {sum(1 for _ in open('data/merged.csv')) - 1 if os.path.exists('data/merged.csv') else 0} rows folded into the row that shares their Telegram account (the numeric id), with the key |",
         *([f"| [data/rounds.csv](data/rounds.csv) | {sum(1 for _ in open('data/rounds.csv')) - 1} funding rounds: date, project, round, amount, valuation, lead and other investors, "
-           "and the sources that report it (DefiLlama, DropsTab, a fund's or launchpad's site, the project's own Telegram post) with links |"]
+           "the amount in TON for sales priced in TON and its dollar value at the TON price of the day, and the sources that report it with links |"]
           if os.path.exists("data/rounds.csv") else []),
         *([f"| [data/nft-collections.csv](data/nft-collections.csv) | the {sum(1 for _ in open('data/nft-collections.csv')) - 1} largest NFT collections on Getgems by all-time volume ({NFT_SNAPSHOT}): "
            "kind, address, volume, floor, owners, items, launch date (first transaction of the contract), Telegram, X, site and description from the contract metadata, the catalogue project that shares a link |"]

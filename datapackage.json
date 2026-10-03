@@ -531,7 +531,11 @@
      },
      {
       "name": "amount_ton",
-      "type": "string"
+      "type": "integer"
+     },
+     {
+      "name": "amount_usd_from_ton",
+      "type": "integer"
      },
      {
       "name": "valuation_usd",
