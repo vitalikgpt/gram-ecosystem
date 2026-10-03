@@ -120,7 +120,7 @@ timeline
 
 ## Funding rounds
 
-315 rounds and sales of 231 projects, $234.4M disclosed in 150 of them: $224.1M stated in dollars and $10.3M from sales priced in TON, converted at the TON price of the day. Separately, 26 raises of the coin itself, of Telegram, of listed TON treasuries and of ecosystem funds, $3.99B. Collected from [DefiLlama](https://defillama.com/raises?chain=TON), [DropsTab](https://dropstab.com/categories/ton-ecosystem), [DYOR presales](https://dyor.io/presale), the sites of funds and launchpads, the channels of launchpads, funds and marketplaces (Tonstarter, Ton Raffles, TonUP, Getgems, TON Diamonds and others) and the projects' own announcements on Telegram; each row in [rounds.csv](data/rounds.csv) lists every source and its link.
+318 rounds and sales of 232 projects, $235.2M disclosed in 152 of them: $224.3M stated in dollars and $10.9M from sales priced in TON, converted at the TON price of the day. The Telegram Sticker Store sold $12.9M of sticker packs across 56 collections ([Dune](https://dune.com/telegram/stickers)), many of them brands from other chains; they are listed but not counted above. Separately, 26 raises of the coin itself, of Telegram, of listed TON treasuries and of ecosystem funds, $3.99B. Collected from [DefiLlama](https://defillama.com/raises?chain=TON), [DropsTab](https://dropstab.com/categories/ton-ecosystem), [DYOR presales](https://dyor.io/presale), the sites of funds and launchpads, the channels of launchpads, funds and marketplaces (Tonstarter, Ton Raffles, TonUP, Getgems, TON Diamonds and others) and the projects' own announcements on Telegram; each row in [rounds.csv](data/rounds.csv) lists every source and its link.
 
 | Year | Rounds | With amount | Disclosed |
 | --- | ---: | ---: | ---: |
@@ -130,7 +130,7 @@ timeline
 | 2021 | 7 | 2 | $2.4M |
 | 2022 | 40 | 22 | $7.9M |
 | 2023 | 60 | 32 | $13.8M |
-| 2024 | 112 | 55 | $78.7M |
+| 2024 | 115 | 57 | $79.6M |
 | 2025 | 67 | 27 | $119.5M |
 | 2026 | 23 | 8 | $5.4M |
 | undated | 2 | 2 | $2.6M |
@@ -487,7 +487,7 @@ The `sources` column lists every place a project was found:
 | [data/category-fixes.csv](data/category-fixes.csv) | 852 category decisions with the reason: moves, and rows removed as not projects |
 | [data/usernames.csv](data/usernames.csv) | 641 other usernames of the same accounts, by numeric id: second names, renames, names now held by someone else |
 | [data/merged.csv](data/merged.csv) | 35 rows folded into the row that shares their Telegram account (the numeric id), with the key |
-| [data/rounds.csv](data/rounds.csv) | 342 funding rounds: date, project, round, amount, valuation, lead and other investors, the amount in TON for sales priced in TON and its dollar value at the TON price of the day, and the sources that report it with links |
+| [data/rounds.csv](data/rounds.csv) | 401 funding rounds: date, project, round, amount, valuation, lead and other investors, the amount in TON for sales priced in TON and its dollar value at the TON price of the day, and the sources that report it with links |
 | [data/nft-collections.csv](data/nft-collections.csv) | the 200 largest NFT collections on Getgems by all-time volume (2026-10-02): kind, address, volume, floor, owners, items, launch date (first transaction of the contract), Telegram, X, site and description from the contract metadata, the catalogue project that shares a link |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
 | [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |

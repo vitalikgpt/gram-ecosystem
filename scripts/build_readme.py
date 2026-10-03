@@ -355,7 +355,9 @@ def build():
         rnds = list(csv.DictReader(open("data/rounds.csv", encoding="utf-8")))
         # the coin itself and listed treasury companies buy or hold GRAM; their money is not a project's venture round
         TOKEN = {"TON", "TON Strategy", "AlphaTON Capital", "TON Ventures", "Telegram Growth Hub", "TVM Ventures", "Telegram (TON ICO)", "Telegram Gifts"}
-        proj = [r for r in rnds if r["project"] not in TOKEN and r["round"] != "M&A"]
+        STICKER = "Sticker pack primary sales"
+        stick = [r for r in rnds if r["round"].startswith(STICKER)]
+        proj = [r for r in rnds if r["project"] not in TOKEN and r["round"] != "M&A" and not r["round"].startswith(STICKER)]
         tok = [r for r in rnds if r["project"] in TOKEN]
         usd = lambda xs: sum(int(r["amount_usd"]) for r in xs if r["amount_usd"])
         # a sale priced in TON counts at the TON price of its day (amount_usd_from_ton); a stated dollar amount always wins
@@ -380,6 +382,8 @@ def build():
             "",
             f"{len(proj)} rounds and sales of {len({r['project'] for r in proj})} projects, {money(usd(proj) + conv(proj))} disclosed in {sum(1 for r in proj if val(r))} of them: "
             f"{money(usd(proj))} stated in dollars and {money(conv(proj))} from sales priced in TON, converted at the TON price of the day. "
+            f"The Telegram Sticker Store sold {money(usd(stick))} of sticker packs across {len(stick)} collections "
+            "([Dune](https://dune.com/telegram/stickers)), many of them brands from other chains; they are listed but not counted above. "
             f"Separately, {len(tok)} raises of the coin itself, of Telegram, of listed TON treasuries and of ecosystem funds, {money(usd(tok))}. "
 
             "Collected from [DefiLlama](https://defillama.com/raises?chain=TON), [DropsTab](https://dropstab.com/categories/ton-ecosystem), "
