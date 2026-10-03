@@ -120,18 +120,19 @@ timeline
 
 ## Funding rounds
 
-93 rounds of 65 projects, $184.2M disclosed in 47 of them. Separately, 22 purchases and financings of the coin itself and of listed TON treasuries, $2.18B. Collected from [DefiLlama](https://defillama.com/raises?chain=TON), [DropsTab](https://dropstab.com/categories/ton-ecosystem), the sites of funds and launchpads and the projects' own announcements on Telegram; each row in [rounds.csv](data/rounds.csv) lists every source and its link.
+316 rounds of 231 projects, $224.6M disclosed in 102 of them. Separately, 26 raises of the coin itself, of Telegram, of listed TON treasuries and of ecosystem funds, $3.99B. Public sales and NFT primary sales priced in TON: 49 more, 3,488,937 TON. Collected from [DefiLlama](https://defillama.com/raises?chain=TON), [DropsTab](https://dropstab.com/categories/ton-ecosystem), [DYOR presales](https://dyor.io/presale), the sites of funds and launchpads, the channels of launchpads, funds and marketplaces (Tonstarter, Ton Raffles, TonUP, Getgems, TON Diamonds and others) and the projects' own announcements on Telegram; each row in [rounds.csv](data/rounds.csv) lists every source and its link.
 
 | Year | Rounds | With amount | Disclosed |
 | --- | ---: | ---: | ---: |
 | 2017 | 1 | 1 | $2.1M |
-| 2018 | 1 | 1 | $1.9M |
-| 2021 | 2 | 2 | $2.4M |
-| 2022 | 5 | 5 | $6M |
-| 2023 | 18 | 5 | $11.6M |
-| 2024 | 36 | 12 | $42.1M |
-| 2025 | 25 | 16 | $112M |
-| 2026 | 3 | 3 | $3.5M |
+| 2018 | 2 | 1 | $1.9M |
+| 2020 | 1 | 0 |  |
+| 2021 | 7 | 2 | $2.4M |
+| 2022 | 40 | 14 | $6.4M |
+| 2023 | 60 | 19 | $13.5M |
+| 2024 | 113 | 36 | $73.7M |
+| 2025 | 67 | 24 | $118.4M |
+| 2026 | 23 | 3 | $3.5M |
 | undated | 2 | 2 | $2.6M |
 
 | Date | Project | Round | Amount | Lead |
@@ -140,19 +141,19 @@ timeline
 | 2025-02-19 | Cygnus | Pre-Seed | $20M |  |
 | 2024-07-02 | RedStone | Series A | $15M | Arrington Capital |
 | 2025-11-17 | WizzWoods | Series A | $10M | Animoca Brands; Infinity Ventures Crypto |
+| 2024-12-11 | TabiZoo | Venture_round | $10M |  |
 | 2025-07-30 | STON.fi | Series A | $9.5M | Ribbit Capital; CoinFund |
 | 2025-10-30 | Capybobo | Funding Round | $8M | Pluto.Vision; Pluto Studio |
+| 2024-03-26 | TPET (Ton Fish) | Fairlaunch / public sale on Ton Raffles | $8M |  |
 | 2024-11-11 | TAC | Seed Round | $6.5M | Hack VC; Symbolic Capital |
 | 2025-02-28 | Acki Nacki |  | $6M |  |
 | 2025-06-18 | TAC | Strategic Round | $5M | Hack VC |
 | 2025-02-12 | Blum | Seed Round | $5M | gumi Crypto Capital |
 | 2024-12-20 | DuckChain | Funding Round | $5M |  |
 | 2023-07-25 | Delabs Games | Seed | $4.7M | Hashed |
-| 2025-11-27 | Nexton | Strategic | $4M |  |
-| 2025-02-03 | GOAT Gaming | Strategic | $4M | TON Ventures; Karatage; Amber Group; Bitscale Capital |
-| 2024-08-08 | TONX | Pre-Seed & Seed | $4M | SNZ Holding; Summer Ventures |
+| 2025-05-27 | HASBi RUN | Presale | $4.3M |  |
 
-Most frequent backers: TON Ventures 16 (led 5), TONcoin.Fund 10 (led 10), Animoca Brands 8 (led 3), The Open Platform 6 (led 3), Karatage 5 (led 2), TVM Ventures 5 (led 3), Amber Group 4 (led 1), GSR 4, Kenetic Capital 4 (led 2), Mirana Ventures 4, The Spartan Group 4, YZi Labs 4 (led 2).
+Most frequent backers: TON Ventures 16 (led 5), Animoca Brands 11 (led 3), TONcoin.Fund 11 (led 10), TON Foundation 9 (led 8), TVM Ventures 6 (led 3), The Open Platform 6 (led 3), Karatage 5 (led 2), Mirana Ventures 5, Amber Group 4 (led 1), GSR 4, Kenetic Capital 4 (led 2), OKX Ventures 4.
 
 ## Top NFT collections
 
@@ -486,7 +487,7 @@ The `sources` column lists every place a project was found:
 | [data/category-fixes.csv](data/category-fixes.csv) | 852 category decisions with the reason: moves, and rows removed as not projects |
 | [data/usernames.csv](data/usernames.csv) | 641 other usernames of the same accounts, by numeric id: second names, renames, names now held by someone else |
 | [data/merged.csv](data/merged.csv) | 35 rows folded into the row that shares their Telegram account (the numeric id), with the key |
-| [data/rounds.csv](data/rounds.csv) | 116 funding rounds: date, project, round, amount, valuation, lead and other investors, and the sources that report it (DefiLlama, DropsTab, a fund's or launchpad's site, the project's own Telegram post) with links |
+| [data/rounds.csv](data/rounds.csv) | 343 funding rounds: date, project, round, amount, valuation, lead and other investors, and the sources that report it (DefiLlama, DropsTab, a fund's or launchpad's site, the project's own Telegram post) with links |
 | [data/nft-collections.csv](data/nft-collections.csv) | the 200 largest NFT collections on Getgems by all-time volume (2026-10-02): kind, address, volume, floor, owners, items, launch date (first transaction of the contract), Telegram, X, site and description from the contract metadata, the catalogue project that shares a link |
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
 | [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |

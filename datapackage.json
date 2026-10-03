@@ -530,6 +530,10 @@
       "type": "integer"
      },
      {
+      "name": "amount_ton",
+      "type": "string"
+     },
+     {
       "name": "valuation_usd",
       "type": "integer"
      },
@@ -547,6 +551,10 @@
      },
      {
       "name": "evidence",
+      "type": "string"
+     },
+     {
+      "name": "note",
       "type": "string"
      }
     ]

@@ -354,7 +354,7 @@ def build():
     if os.path.exists("data/rounds.csv"):
         rnds = list(csv.DictReader(open("data/rounds.csv", encoding="utf-8")))
         # the coin itself and listed treasury companies buy or hold GRAM; their money is not a project's venture round
-        TOKEN = {"TON", "TON Strategy", "AlphaTON Capital", "TON Ventures", "Telegram Growth Hub"}
+        TOKEN = {"TON", "TON Strategy", "AlphaTON Capital", "TON Ventures", "Telegram Growth Hub", "TVM Ventures", "Telegram (TON ICO)", "Telegram Gifts"}
         proj = [r for r in rnds if r["project"] not in TOKEN and r["round"] != "M&A"]
         tok = [r for r in rnds if r["project"] in TOKEN]
         usd = lambda xs: sum(int(r["amount_usd"]) for r in xs if r["amount_usd"])
@@ -376,9 +376,12 @@ def build():
             "## Funding rounds",
             "",
             f"{len(proj)} rounds of {len({r['project'] for r in proj})} projects, {money(usd(proj))} disclosed in {sum(1 for r in proj if r['amount_usd'])} of them. "
-            f"Separately, {len(tok)} purchases and financings of the coin itself and of listed TON treasuries, {money(usd(tok))}. "
+            f"Separately, {len(tok)} raises of the coin itself, of Telegram, of listed TON treasuries and of ecosystem funds, {money(usd(tok))}. "
+            f"Public sales and NFT primary sales priced in TON: {sum(1 for r in proj if r.get('amount_ton') and not r['amount_usd'])} more, "
+            f"{sum(float(r['amount_ton']) for r in proj if r.get('amount_ton') and not r['amount_usd']):,.0f} TON. "
             "Collected from [DefiLlama](https://defillama.com/raises?chain=TON), [DropsTab](https://dropstab.com/categories/ton-ecosystem), "
-            "the sites of funds and launchpads and the projects' own announcements on Telegram; each row in "
+            "[DYOR presales](https://dyor.io/presale), the sites of funds and launchpads, the channels of launchpads, funds and marketplaces "
+            "(Tonstarter, Ton Raffles, TonUP, Getgems, TON Diamonds and others) and the projects' own announcements on Telegram; each row in "
             "[rounds.csv](data/rounds.csv) lists every source and its link.",
             "",
             "| Year | Rounds | With amount | Disclosed |",
