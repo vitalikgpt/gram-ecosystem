@@ -8,7 +8,7 @@
 
 Maintained by [Gram News](https://gramnews.org). Open data: take it, fix it, build on it.
 
-**This week**: 4,172 new projects, 525 new channels; [the weekly summary](reports/weekly/2026-10-02.md) has the names, [earlier weeks](reports/weekly/README.md) too.
+**This week**: 4,138 new projects, 534 new channels; [the weekly summary](reports/weekly/2026-10-05.md) has the names, [earlier weeks](reports/weekly/README.md) too.
 
 **Browse it right here**: every category opens as a searchable table, its *table* link below; so do [channels](data/channels.csv) and [studios and funds](data/relations.csv).
 
@@ -492,7 +492,7 @@ The `sources` column lists every place a project was found:
 | [data/unresolved.csv](data/unresolved.csv) | 220 names from old maps not tied to a project yet |
 | [data/relations.csv](data/relations.csv) | which studio built, fund backed or accelerator took each project, with the source |
 | [data/similar.csv](data/similar.csv) | 17,645 pairs: whom Telegram shows in similar channels or similar bots next to an entity here, with the position (June 2026); audiences overlap, it is not traffic |
-| [reports/link-check.md](reports/link-check.md) | 770 links that failed the last check |
+| [reports/link-check.md](reports/link-check.md) | 882 links that failed the last check |
 
 <details><summary><b>Columns of projects.csv</b></summary>
 
